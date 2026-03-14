@@ -1,1 +1,915 @@
-<h1>CruiseCompare - Coming Soon</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CruiseCompare – Compare & Book the Best Cruise Deals 2026</title>
+<meta name="description" content="Compare cruise prices, itineraries and deals across top cruise lines. Find the best Caribbean, Mediterranean, Alaska and luxury cruises in one place.">
+<meta name="keywords" content="cruise comparison, best cruise lines 2026, compare cruise prices, Caribbean cruises, Mediterranean cruises, cruise deals">
+<meta property="og:title" content="CruiseCompare – Compare & Book the Best Cruise Deals 2026">
+<meta property="og:description" content="Compare cruise prices, itineraries and deals across top cruise lines. Find the best Caribbean, Mediterranean, Alaska and luxury cruises.">
+<meta property="og:url" content="https://cruisecompare.online">
+<meta property="og:type" content="website">
+<link rel="canonical" href="https://cruisecompare.online">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --navy:    #08111f;
+  --navy2:   #0d1e35;
+  --navy3:   #132844;
+  --gold:    #c9a84c;
+  --gold2:   #e8c97a;
+  --cream:   #f5f0e8;
+  --white:   #ffffff;
+  --muted:   #8a9ab5;
+  --border:  rgba(201,168,76,0.18);
+  --card-bg: rgba(13,30,53,0.85);
+  --radius:  12px;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--navy);
+  color: var(--cream);
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.7;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── TYPOGRAPHY ─── */
+h1, h2, h3, h4 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  line-height: 1.15;
+  color: var(--white);
+}
+
+/* ─── DISCLOSURE ─── */
+.disclosure-bar {
+  background: rgba(201,168,76,0.08);
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+  padding: 9px 20px;
+  font-size: 12px;
+  color: var(--muted);
+  letter-spacing: 0.01em;
+}
+
+.disclosure-bar a { color: var(--gold); text-decoration: none; }
+
+/* ─── NAV ─── */
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(8,17,31,0.96);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: 0 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+}
+
+.nav-logo {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--white);
+  text-decoration: none;
+  letter-spacing: -0.01em;
+}
+
+.nav-logo span { color: var(--gold); }
+
+.nav-links {
+  display: flex;
+  gap: 32px;
+  list-style: none;
+}
+
+.nav-links a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  transition: color 0.2s;
+  letter-spacing: 0.02em;
+}
+
+.nav-links a:hover { color: var(--gold2); }
+
+.nav-cta {
+  background: var(--gold);
+  color: var(--navy) !important;
+  padding: 8px 20px;
+  border-radius: 6px;
+  font-weight: 500 !important;
+  transition: background 0.2s !important;
+}
+
+.nav-cta:hover { background: var(--gold2) !important; color: var(--navy) !important; }
+
+/* ─── HERO ─── */
+.hero {
+  position: relative;
+  min-height: 88vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  padding: 80px 20px;
+}
+
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 80% 60% at 50% 100%, rgba(201,168,76,0.07) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 40% at 20% 20%, rgba(19,40,68,0.9) 0%, transparent 50%),
+    linear-gradient(180deg, #08111f 0%, #0d1e35 50%, #08111f 100%);
+}
+
+.hero-waves {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 120px;
+  overflow: hidden;
+}
+
+.hero-waves svg { width: 100%; height: 100%; }
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 760px;
+}
+
+.hero-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 24px;
+  padding: 6px 16px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+}
+
+.hero h1 {
+  font-size: clamp(42px, 7vw, 72px);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 24px;
+  color: var(--white);
+}
+
+.hero h1 em {
+  font-style: italic;
+  color: var(--gold2);
+}
+
+.hero-sub {
+  font-size: 18px;
+  color: var(--muted);
+  max-width: 540px;
+  margin: 0 auto 40px;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+.hero-stats {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 48px;
+}
+
+.stat-item { text-align: center; }
+
+.stat-num {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--gold2);
+  display: block;
+}
+
+.stat-label {
+  font-size: 12px;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.hero-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--gold);
+  color: var(--navy);
+  padding: 16px 36px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.25s;
+  letter-spacing: 0.01em;
+}
+
+.hero-cta:hover {
+  background: var(--gold2);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 40px rgba(201,168,76,0.25);
+}
+
+/* ─── SECTIONS ─── */
+section { padding: 90px 40px; }
+
+.section-label {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 12px;
+  display: block;
+}
+
+.section-title {
+  font-size: clamp(32px, 4vw, 48px);
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+
+.section-sub {
+  color: var(--muted);
+  font-size: 17px;
+  max-width: 560px;
+  margin-bottom: 56px;
+  font-weight: 300;
+}
+
+/* ─── COMPARISON TABLE ─── */
+.table-section { background: var(--navy2); }
+
+.table-wrap {
+  max-width: 1100px;
+  margin: 0 auto;
+  overflow-x: auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 700px;
+}
+
+thead tr {
+  background: rgba(201,168,76,0.08);
+  border-bottom: 1px solid var(--border);
+}
+
+thead th {
+  padding: 16px 20px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+tbody tr {
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  transition: background 0.15s;
+}
+
+tbody tr:last-child { border-bottom: none; }
+tbody tr:hover { background: rgba(201,168,76,0.04); }
+
+tbody td {
+  padding: 18px 20px;
+  font-size: 14px;
+  color: var(--cream);
+  vertical-align: middle;
+}
+
+.cruise-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--white);
+  display: block;
+  margin-bottom: 2px;
+}
+
+.cruise-type {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+}
+
+.badge-best { background: rgba(201,168,76,0.15); color: var(--gold2); border: 1px solid rgba(201,168,76,0.3); }
+.badge-value { background: rgba(99,210,130,0.12); color: #63d282; border: 1px solid rgba(99,210,130,0.25); }
+.badge-luxury { background: rgba(180,130,255,0.12); color: #c49dff; border: 1px solid rgba(180,130,255,0.25); }
+.badge-niche { background: rgba(100,180,255,0.12); color: #7ec8ff; border: 1px solid rgba(100,180,255,0.25); }
+
+.stars {
+  color: var(--gold);
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+.cookie-days {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--white);
+}
+
+.cookie-label { font-size: 11px; color: var(--muted); display: block; }
+
+.btn-book {
+  display: inline-block;
+  padding: 9px 20px;
+  background: var(--gold);
+  color: var(--navy);
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+
+.btn-book:hover {
+  background: var(--gold2);
+  transform: translateY(-1px);
+}
+
+/* ─── CRUISE CARDS ─── */
+.cards-section { background: var(--navy); }
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 24px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.cruise-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  overflow: hidden;
+  transition: transform 0.25s, box-shadow 0.25s;
+}
+
+.cruise-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+}
+
+.card-header {
+  padding: 28px 28px 20px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.card-rank {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 48px;
+  font-weight: 700;
+  color: rgba(201,168,76,0.15);
+  line-height: 1;
+}
+
+.card-body { padding: 24px 28px; }
+
+.card-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 6px;
+}
+
+.card-tagline {
+  font-size: 13px;
+  color: var(--muted);
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+.card-specs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.spec {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+
+.spec-label {
+  font-size: 10px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-bottom: 3px;
+}
+
+.spec-val {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--cream);
+}
+
+.card-routes {
+  font-size: 13px;
+  color: var(--muted);
+  margin-bottom: 22px;
+  line-height: 1.6;
+}
+
+.card-routes strong { color: var(--cream); font-weight: 400; }
+
+.btn-book-full {
+  display: block;
+  text-align: center;
+  padding: 13px;
+  background: transparent;
+  border: 1.5px solid var(--gold);
+  color: var(--gold);
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.2s;
+  letter-spacing: 0.02em;
+}
+
+.btn-book-full:hover {
+  background: var(--gold);
+  color: var(--navy);
+}
+
+/* ─── WHY SECTION ─── */
+.why-section { background: var(--navy3); }
+
+.why-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.why-item {
+  text-align: center;
+  padding: 32px 20px;
+}
+
+.why-icon {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: rgba(201,168,76,0.1);
+  border: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 16px;
+  font-size: 22px;
+}
+
+.why-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: var(--white);
+}
+
+.why-text { font-size: 14px; color: var(--muted); line-height: 1.6; }
+
+/* ─── FOOTER ─── */
+footer {
+  background: #050d18;
+  border-top: 1px solid var(--border);
+  padding: 48px 40px 32px;
+  text-align: center;
+}
+
+.footer-logo {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 16px;
+}
+
+.footer-logo span { color: var(--gold); }
+
+.footer-links {
+  display: flex;
+  gap: 28px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+  list-style: none;
+}
+
+.footer-links a {
+  font-size: 13px;
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer-links a:hover { color: var(--gold2); }
+
+.footer-disclosure {
+  font-size: 12px;
+  color: rgba(138,154,181,0.6);
+  max-width: 700px;
+  margin: 0 auto 24px;
+  line-height: 1.7;
+}
+
+.footer-copy {
+  font-size: 12px;
+  color: rgba(138,154,181,0.4);
+}
+
+/* ─── ANIMATIONS ─── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.hero-content > * {
+  animation: fadeUp 0.7s ease both;
+}
+.hero-content > *:nth-child(1) { animation-delay: 0.1s; }
+.hero-content > *:nth-child(2) { animation-delay: 0.2s; }
+.hero-content > *:nth-child(3) { animation-delay: 0.3s; }
+.hero-content > *:nth-child(4) { animation-delay: 0.4s; }
+.hero-content > *:nth-child(5) { animation-delay: 0.5s; }
+
+/* ─── MOBILE ─── */
+@media (max-width: 768px) {
+  nav { padding: 0 20px; }
+  .nav-links { display: none; }
+  section { padding: 60px 20px; }
+  .hero { min-height: 75vh; }
+  .hero-stats { gap: 24px; }
+  footer { padding: 40px 20px 24px; }
+}
+</style>
+</head>
+
+<body>
+
+<!-- Affiliate Disclosure Bar -->
+<div class="disclosure-bar">
+  This site contains affiliate links. We may earn a commission when you book through our links — at no extra cost to you.
+  <a href="#disclosure">Learn more</a>
+</div>
+
+<!-- Navigation -->
+<nav>
+  <a href="/" class="nav-logo">Cruise<span>Compare</span></a>
+  <ul class="nav-links">
+    <li><a href="#compare">Compare Lines</a></li>
+    <li><a href="#caribbean">Caribbean</a></li>
+    <li><a href="#mediterranean">Mediterranean</a></li>
+    <li><a href="#alaska">Alaska</a></li>
+    <li><a href="#compare" class="nav-cta">View Deals</a></li>
+  </ul>
+</nav>
+
+<!-- Hero -->
+<section class="hero" id="top">
+  <div class="hero-bg"></div>
+  <div class="hero-waves">
+    <svg viewBox="0 0 1440 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,60 C240,100 480,20 720,60 C960,100 1200,20 1440,60 L1440,120 L0,120 Z" fill="#08111f" opacity="0.6"/>
+      <path d="M0,80 C360,40 720,110 1080,70 C1260,50 1380,90 1440,80 L1440,120 L0,120 Z" fill="#08111f"/>
+    </svg>
+  </div>
+  <div class="hero-content">
+    <div class="hero-eyebrow">
+      <span>⚓</span> Independent Cruise Comparison
+    </div>
+    <h1>Find Your Perfect<br><em>Cruise Holiday</em></h1>
+    <p class="hero-sub">Compare prices, itineraries and deals across the world's top cruise lines — Caribbean, Mediterranean, Alaska, and beyond.</p>
+    <div class="hero-stats">
+      <div class="stat-item">
+        <span class="stat-num">5</span>
+        <span class="stat-label">Cruise Lines</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-num">300+</span>
+        <span class="stat-label">Destinations</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-num">100%</span>
+        <span class="stat-label">Independent</span>
+      </div>
+    </div>
+    <a href="#compare" class="hero-cta">
+      Compare Cruise Lines ↓
+    </a>
+  </div>
+</section>
+
+<!-- Comparison Table -->
+<section class="table-section" id="compare">
+  <div style="max-width:1100px; margin:0 auto">
+    <span class="section-label">Side-by-side comparison</span>
+    <h2 class="section-title">Top Cruise Lines 2026</h2>
+    <p class="section-sub">Updated weekly with current prices and availability across all major routes.</p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Cruise Line</th>
+            <th>Best For</th>
+            <th>Rating</th>
+            <th>Cookie</th>
+            <th>Starting From</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <span class="cruise-name">Princess Cruises</span>
+              <span class="cruise-type">Premium · Global routes</span>
+            </td>
+            <td><span class="badge badge-best">Best Overall</span></td>
+            <td><span class="stars">★★★★★</span></td>
+            <td><span class="cookie-days">45</span><span class="cookie-label">day cookie</span></td>
+            <td style="font-size:15px; font-weight:500; color:var(--gold2)">from $499<span style="font-size:12px;color:var(--muted);font-weight:300">/pp</span></td>
+            <td><a href="YOUR_PRINCESS_AFFILIATE_LINK" class="btn-book" rel="sponsored nofollow" target="_blank">View Deals</a></td>
+          </tr>
+          <tr>
+            <td>
+              <span class="cruise-name">Celestyal Cruises</span>
+              <span class="cruise-type">Niche · Greek Islands</span>
+            </td>
+            <td><span class="badge badge-niche">Greek Islands</span></td>
+            <td><span class="stars">★★★★☆</span></td>
+            <td><span class="cookie-days">60</span><span class="cookie-label">day cookie</span></td>
+            <td style="font-size:15px; font-weight:500; color:var(--gold2)">from $399<span style="font-size:12px;color:var(--muted);font-weight:300">/pp</span></td>
+            <td><a href="YOUR_CELESTYAL_AFFILIATE_LINK" class="btn-book" rel="sponsored nofollow" target="_blank">View Deals</a></td>
+          </tr>
+          <tr>
+            <td>
+              <span class="cruise-name">Royal Caribbean</span>
+              <span class="cruise-type">Premium · Caribbean & Europe</span>
+            </td>
+            <td><span class="badge badge-value">Best Value</span></td>
+            <td><span class="stars">★★★★★</span></td>
+            <td><span class="cookie-days">45</span><span class="cookie-label">day cookie</span></td>
+            <td style="font-size:15px; font-weight:500; color:var(--gold2)">from $549<span style="font-size:12px;color:var(--muted);font-weight:300">/pp</span></td>
+            <td><a href="YOUR_ROYALCARIBBEAN_AFFILIATE_LINK" class="btn-book" rel="sponsored nofollow" target="_blank">View Deals</a></td>
+          </tr>
+          <tr>
+            <td>
+              <span class="cruise-name">Norwegian Cruise Line</span>
+              <span class="cruise-type">Premium · Freestyle dining</span>
+            </td>
+            <td><span class="badge badge-value">Most Flexible</span></td>
+            <td><span class="stars">★★★★☆</span></td>
+            <td><span class="cookie-days">45</span><span class="cookie-label">day cookie</span></td>
+            <td style="font-size:15px; font-weight:500; color:var(--gold2)">from $479<span style="font-size:12px;color:var(--muted);font-weight:300">/pp</span></td>
+            <td><a href="YOUR_NORWEGIAN_AFFILIATE_LINK" class="btn-book" rel="sponsored nofollow" target="_blank">View Deals</a></td>
+          </tr>
+          <tr>
+            <td>
+              <span class="cruise-name">MSC Cruises</span>
+              <span class="cruise-type">Value · Worldwide</span>
+            </td>
+            <td><span class="badge badge-luxury">Best Luxury Value</span></td>
+            <td><span class="stars">★★★★☆</span></td>
+            <td><span class="cookie-days">30</span><span class="cookie-label">day cookie</span></td>
+            <td style="font-size:15px; font-weight:500; color:var(--gold2)">from $349<span style="font-size:12px;color:var(--muted);font-weight:300">/pp</span></td>
+            <td><a href="YOUR_MSC_AFFILIATE_LINK" class="btn-book" rel="sponsored nofollow" target="_blank">View Deals</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="font-size:12px; color:var(--muted); margin-top:14px; text-align:center">Prices shown are per person based on double occupancy. Updated weekly. <a href="#disclosure" style="color:var(--gold); text-decoration:none">Affiliate disclosure.</a></p>
+  </div>
+</section>
+
+<!-- Cruise Cards -->
+<section class="cards-section" id="lines">
+  <div style="max-width:1100px; margin:0 auto">
+    <span class="section-label">Detailed reviews</span>
+    <h2 class="section-title">Cruise Lines Reviewed</h2>
+    <p class="section-sub">Our independent verdict on each line — what they're great at and who they're best suited for.</p>
+    <div class="cards-grid">
+
+      <!-- Princess -->
+      <div class="cruise-card">
+        <div class="card-header">
+          <div>
+            <div class="card-name">Princess Cruises</div>
+            <span class="badge badge-best">Best Overall 2026</span>
+          </div>
+          <div class="card-rank">#1</div>
+        </div>
+        <div class="card-body">
+          <p class="card-tagline">Third largest cruise line in the world, renowned for innovative ships and exceptional service across all seven continents.</p>
+          <div class="card-specs">
+            <div class="spec"><span class="spec-label">Cookie</span><span class="spec-val">45 days</span></div>
+            <div class="spec"><span class="spec-label">Commission</span><span class="spec-val">3% rate</span></div>
+            <div class="spec"><span class="spec-label">Ships</span><span class="spec-val">15 vessels</span></div>
+            <div class="spec"><span class="spec-label">Destinations</span><span class="spec-val">100+ ports</span></div>
+          </div>
+          <p class="card-routes"><strong>Top routes:</strong> Caribbean · Alaska · Mediterranean · South Pacific · World Cruises</p>
+          <a href="YOUR_PRINCESS_AFFILIATE_LINK" class="btn-book-full" rel="sponsored nofollow" target="_blank">Compare Princess Cruises →</a>
+        </div>
+      </div>
+
+      <!-- Celestyal -->
+      <div class="cruise-card">
+        <div class="card-header">
+          <div>
+            <div class="card-name">Celestyal Cruises</div>
+            <span class="badge badge-niche">Greek Islands Specialist</span>
+          </div>
+          <div class="card-rank">#2</div>
+        </div>
+        <div class="card-body">
+          <p class="card-tagline">The preeminent cruise line serving the Greek Islands and East Mediterranean — unmatched for authentic island-hopping experiences.</p>
+          <div class="card-specs">
+            <div class="spec"><span class="spec-label">Cookie</span><span class="spec-val">60 days</span></div>
+            <div class="spec"><span class="spec-label">Network</span><span class="spec-val">Rakuten</span></div>
+            <div class="spec"><span class="spec-label">Specialty</span><span class="spec-val">Greek Islands</span></div>
+            <div class="spec"><span class="spec-label">Season</span><span class="spec-val">Apr–Nov</span></div>
+          </div>
+          <p class="card-routes"><strong>Top routes:</strong> Greek Islands · Turkey · Aegean · Adriatic · Cyprus</p>
+          <a href="YOUR_CELESTYAL_AFFILIATE_LINK" class="btn-book-full" rel="sponsored nofollow" target="_blank">Compare Celestyal Cruises →</a>
+        </div>
+      </div>
+
+      <!-- Royal Caribbean -->
+      <div class="cruise-card">
+        <div class="card-header">
+          <div>
+            <div class="card-name">Royal Caribbean</div>
+            <span class="badge badge-value">Best Value Pick</span>
+          </div>
+          <div class="card-rank">#3</div>
+        </div>
+        <div class="card-body">
+          <p class="card-tagline">World's largest cruise ships, packed with onboard thrills — the best choice for families and first-time cruisers seeking maximum value.</p>
+          <div class="card-specs">
+            <div class="spec"><span class="spec-label">Cookie</span><span class="spec-val">45 days</span></div>
+            <div class="spec"><span class="spec-label">Commission</span><span class="spec-val">4% rate</span></div>
+            <div class="spec"><span class="spec-label">Ships</span><span class="spec-val">25+ vessels</span></div>
+            <div class="spec"><span class="spec-label">Network</span><span class="spec-val">CJ Affiliate</span></div>
+          </div>
+          <p class="card-routes"><strong>Top routes:</strong> Caribbean · Bahamas · Europe · Alaska · Mexico</p>
+          <a href="YOUR_ROYALCARIBBEAN_AFFILIATE_LINK" class="btn-book-full" rel="sponsored nofollow" target="_blank">Compare Royal Caribbean →</a>
+        </div>
+      </div>
+
+      <!-- Norwegian -->
+      <div class="cruise-card">
+        <div class="card-header">
+          <div>
+            <div class="card-name">Norwegian Cruise Line</div>
+            <span class="badge badge-value">Most Flexible</span>
+          </div>
+          <div class="card-rank">#4</div>
+        </div>
+        <div class="card-body">
+          <p class="card-tagline">Freestyle cruising with no fixed dining times and a relaxed onboard atmosphere — ideal for independent travellers who hate rigid schedules.</p>
+          <div class="card-specs">
+            <div class="spec"><span class="spec-label">Cookie</span><span class="spec-val">45 days</span></div>
+            <div class="spec"><span class="spec-label">Commission</span><span class="spec-val">4% rate</span></div>
+            <div class="spec"><span class="spec-label">Style</span><span class="spec-val">Freestyle</span></div>
+            <div class="spec"><span class="spec-label">Ships</span><span class="spec-val">19 vessels</span></div>
+          </div>
+          <p class="card-routes"><strong>Top routes:</strong> Caribbean · Europe · Bermuda · Alaska · Hawaii</p>
+          <a href="YOUR_NORWEGIAN_AFFILIATE_LINK" class="btn-book-full" rel="sponsored nofollow" target="_blank">Compare Norwegian →</a>
+        </div>
+      </div>
+
+      <!-- MSC -->
+      <div class="cruise-card">
+        <div class="card-header">
+          <div>
+            <div class="card-name">MSC Cruises</div>
+            <span class="badge badge-luxury">Best Luxury Value</span>
+          </div>
+          <div class="card-rank">#5</div>
+        </div>
+        <div class="card-body">
+          <p class="card-tagline">European elegance at competitive prices — MSC's fleet is one of the newest at sea, with excellent Mediterranean and Caribbean itineraries.</p>
+          <div class="card-specs">
+            <div class="spec"><span class="spec-label">Cookie</span><span class="spec-val">30 days</span></div>
+            <div class="spec"><span class="spec-label">Commission</span><span class="spec-val">$100 flat</span></div>
+            <div class="spec"><span class="spec-label">Ships</span><span class="spec-val">22 vessels</span></div>
+            <div class="spec"><span class="spec-label">Network</span><span class="spec-val">Rakuten</span></div>
+          </div>
+          <p class="card-routes"><strong>Top routes:</strong> Mediterranean · Caribbean · Northern Europe · World</p>
+          <a href="YOUR_MSC_AFFILIATE_LINK" class="btn-book-full" rel="sponsored nofollow" target="_blank">Compare MSC Cruises →</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- Why Section -->
+<section class="why-section">
+  <div style="max-width:900px; margin:0 auto; text-align:center">
+    <span class="section-label">Why use CruiseCompare</span>
+    <h2 class="section-title">The smarter way to book</h2>
+    <p class="section-sub" style="margin:0 auto 56px">We do the research so you don't have to.</p>
+    <div class="why-grid">
+      <div class="why-item">
+        <div class="why-icon">🔍</div>
+        <div class="why-title">Independent</div>
+        <p class="why-text">We're not owned by any cruise line. Our rankings are based on value, not who pays us most.</p>
+      </div>
+      <div class="why-item">
+        <div class="why-icon">📊</div>
+        <div class="why-title">Data-driven</div>
+        <p class="why-text">Prices updated weekly from live sources. No stale data, no misleading "from" prices.</p>
+      </div>
+      <div class="why-item">
+        <div class="why-icon">⚡</div>
+        <div class="why-title">No sign-up</div>
+        <p class="why-text">No account needed. No email required. Just compare and book in minutes.</p>
+      </div>
+      <div class="why-item">
+        <div class="why-icon">🌍</div>
+        <div class="why-title">All routes</div>
+        <p class="why-text">Caribbean, Mediterranean, Alaska, Greek Islands, river cruises and world voyages covered.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer>
+  <div class="footer-logo">Cruise<span>Compare</span></div>
+  <ul class="footer-links">
+    <li><a href="#compare">Compare Lines</a></li>
+    <li><a href="#caribbean">Caribbean</a></li>
+    <li><a href="#mediterranean">Mediterranean</a></li>
+    <li><a href="#alaska">Alaska</a></li>
+    <li><a href="#disclosure">Disclosure</a></li>
+    <li><a href="mailto:hello@cruisecompare.online">Contact</a></li>
+  </ul>
+  <p class="footer-disclosure" id="disclosure">
+    <strong style="color:var(--muted)">Affiliate Disclosure:</strong> CruiseCompare.online participates in affiliate programs including Rakuten Advertising and CJ Affiliate. When you click a link and make a booking, we may earn a commission at no additional cost to you. This helps us keep the site free and independent. Our editorial opinions are not influenced by affiliate relationships.
+  </p>
+  <p class="footer-copy">© 2026 CruiseCompare.online — Independent cruise comparison. All prices are indicative and subject to availability.</p>
+</footer>
+
+</body>
+</html>
