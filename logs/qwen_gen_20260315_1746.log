@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/home/padmin/workspace/cruisecompare/scripts/fast_generate.py", line 14, in <module>
+    from qwen_client import generate as qwen_generate
+  File "/home/padmin/workspace/cruisecompare/scripts/qwen_client.py", line 25, in <module>
+    creds = get_credentials()
+            ^^^^^^^^^^^^^^^^^
+  File "/home/padmin/workspace/cruisecompare/scripts/qwen_client.py", line 23, in get_credentials
+    raise ValueError("No Qwen/Alibaba profile found")
+ValueError: No Qwen/Alibaba profile found

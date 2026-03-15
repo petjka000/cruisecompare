@@ -1,0 +1,1503 @@
+Loaded 15 lines, 20 destinations
+Generating: Royal Caribbean + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Royal Caribbean + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Carnival Cruise Line + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Norwegian Cruise Line + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: MSC Cruises + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Celebrity Cruises + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Princess Cruises + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Holland America Line + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Cunard Line + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: P&O Cruises + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Costa Cruises + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Disney Cruise Line + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Virgin Voyages + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Viking Cruises + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Oceania Cruises + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Caribbean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Mediterranean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Norwegian Fjords
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Alaska
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Baltic & Scandinavia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Canary Islands
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Greek Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Adriatic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Transatlantic
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + British Isles
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Northern Europe
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Arabian Gulf
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Indian Ocean
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + South America
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Antarctica
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Australia & Pacific
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Hawaii
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Japan & Asia
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Africa & Canaries
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+Generating: Regent Seven Seas + Black Sea
+Attempt 1 failed: HTTP Error 400: Bad Request
+Attempt 2 failed: HTTP Error 400: Bad Request
+Attempt 3 failed: HTTP Error 400: Bad Request
+  ✗ Failed: HTTP Error 400: Bad Request
+
+Total generated: 0

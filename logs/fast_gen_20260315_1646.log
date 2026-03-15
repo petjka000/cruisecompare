@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/padmin/workspace/cruisecompare/scripts/fast_generate.py", line 15, in <module>
+    from generate_content import (
+  File "/home/padmin/workspace/cruisecompare/scripts/generate_content.py", line 209
+    {{"category": "Loyalty program", "{line_a_slug}": "<value>", "{line_b
+                                                                  ^
+SyntaxError: '{' was never closed

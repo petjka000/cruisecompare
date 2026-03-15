@@ -1,0 +1,4 @@
+  File "/home/padmin/workspace/cruisecompare/scripts/generate_content.py", line 209
+    {{"category": "Loyalty program", "{line_a_slug}": "<value>", "{line_b
+                                                                  ^
+SyntaxError: '{' was never closed

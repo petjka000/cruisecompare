@@ -1,0 +1,4 @@
+  File "/home/padmin/workspace/cruisecompare/scripts/fast_generate.py", line 124
+    prompt = f"""Generate JSON comparing {a_name} vs {b_name}:
+             ^
+SyntaxError: unterminated triple-quoted f-string literal (detected at line 135)

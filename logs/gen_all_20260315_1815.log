@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/padmin/workspace/cruisecompare/scripts/gen_all.py", line 43, in <module>
+    BASE_URL, API_KEY, MODEL = get_qwen_creds()
+                               ^^^^^^^^^^^^^^^^
+  File "/home/padmin/workspace/cruisecompare/scripts/gen_all.py", line 41, in get_qwen_creds
+    raise ValueError("No Alibaba/Qwen profile found")
+ValueError: No Alibaba/Qwen profile found
