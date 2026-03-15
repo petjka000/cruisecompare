@@ -11,9 +11,14 @@ jobs:
         with:
           node-version: '20'
       - run: npm ci
-      # Note: out/ directory is pre-built and committed
-      # Python build_static_full.py generates the HTML files
-      # We just deploy what's already in out/
+      - name: Verify build exists
+        run: |
+          COUNT=$(find out/ -name "*.html" 2>/dev/null | wc -l)
+          echo "HTML files in out/: $COUNT"
+          if [ "$COUNT" -lt 600 ]; then
+            echo "ERROR: out/ has only $COUNT files. Commit the build first."
+            exit 1
+          fi
       - name: Deploy to Cloudflare
         uses: cloudflare/wrangler-action@v3
         with:
