@@ -1,0 +1,102 @@
+{
+  "cruiseLine": {
+    "slug": "princess",
+    "name": "Princess Cruises",
+    "parent_company": "Carnival Corporation",
+    "founded": 1965,
+    "headquarters": "Santa Clarita, California",
+    "fleet_size": 15,
+    "known_for": "Alaska specialists",
+    "price_tier": "mid-range",
+    "best_for": [
+      "couples",
+      "seniors"
+    ],
+    "avg_price_7night_inside": 749,
+    "avg_price_7night_balcony": 1149,
+    "loyalty_program": "Captain's Circle",
+    "key_ships": [
+      "Discovery Princess",
+      "Enchanted Princess",
+      "Sky Princess"
+    ],
+    "top_destinations": [
+      "Alaska",
+      "Caribbean",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Fort Lauderdale",
+      "Southampton"
+    ],
+    "strengths": [
+      "Alaska expertise",
+      "Medallion tech",
+      "Movies under stars"
+    ],
+    "weaknesses": [
+      "Older ships",
+      "Conservative"
+    ],
+    "website": "https://princess.com",
+    "booking_tip": "Book Alaska early for best cabins"
+  },
+  "destination": {
+    "slug": "transatlantic",
+    "name": "Transatlantic",
+    "region": "International",
+    "best_months": [
+      "April",
+      "May",
+      "October",
+      "November"
+    ],
+    "avoid_months": [
+      "January",
+      "February"
+    ],
+    "avoid_reason": "Rough seas, cold",
+    "avg_duration_nights": 14,
+    "typical_ports": [
+      {
+        "port": "Southampton",
+        "highlight": "UK departure"
+      },
+      {
+        "port": "New York",
+        "highlight": "Iconic arrival"
+      },
+      {
+        "port": "Barcelona",
+        "highlight": "Mediterranean start"
+      },
+      {
+        "port": "Fort Lauderdale",
+        "highlight": "Caribbean gateway"
+      }
+    ],
+    "climate": "Variable, ocean crossing",
+    "currency_tip": "Multiple currencies",
+    "visa_note": "Check both ends",
+    "excursion_budget_pp": "€0-50 (sea days)",
+    "best_cruise_lines": [
+      "Cunard",
+      "Royal Caribbean",
+      "Celebrity",
+      "MSC"
+    ],
+    "embarkation_ports": [
+      "Southampton",
+      "New York",
+      "Barcelona",
+      "Fort Lauderdale"
+    ],
+    "sub_regions": [
+      "North Atlantic",
+      "South Atlantic"
+    ]
+  },
+  "title": "Princess Cruises Transatlantic Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.791Z"
+}

@@ -1,0 +1,44 @@
+{
+  "port": {
+    "slug": "genoa",
+    "name": "Genoa",
+    "country": "Italy",
+    "iata_nearby": "GOA",
+    "terminal_count": 5,
+    "cruise_lines_operating": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Norwegian",
+      "Celebrity",
+      "Princess",
+      "Holland America",
+      "Disney"
+    ],
+    "train_from_city": "Metro or taxi 15min",
+    "parking_cost_per_day": "€20-30",
+    "nearest_airport": "Genoa Cristoforo Colombo (10min)",
+    "hotel_tip": "NH Collection Genova Marina from €90",
+    "embarkation_tip": "Ponte dei Mille terminal most common",
+    "destinations_served": [
+      "Mediterranean",
+      "Western Mediterranean",
+      "Eastern Mediterranean",
+      "Canary Islands",
+      "Transatlantic"
+    ],
+    "busiest_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "quietest_months": [
+      "January",
+      "February",
+      "November"
+    ]
+  },
+  "title": "Cruises from Genoa 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.833Z"
+}

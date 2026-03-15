@@ -1,0 +1,107 @@
+{
+  "cruiseLine": {
+    "slug": "viking",
+    "name": "Viking Cruises",
+    "parent_company": "Viking",
+    "founded": 1997,
+    "headquarters": "Basel, Switzerland",
+    "fleet_size": 6,
+    "known_for": "Adults-only ocean",
+    "price_tier": "premium",
+    "best_for": [
+      "seniors",
+      "cultural-travelers"
+    ],
+    "avg_price_7night_inside": 1499,
+    "avg_price_7night_balcony": 2199,
+    "loyalty_program": "Viking Explorer Society",
+    "key_ships": [
+      "Viking Neptune",
+      "Viking Jupiter",
+      "Viking Star"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Northern Europe",
+      "Caribbean"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens"
+    ],
+    "strengths": [
+      "Adults-only",
+      "Included excursions",
+      "Cultural focus"
+    ],
+    "weaknesses": [
+      "No kids",
+      "No casino",
+      "Expensive"
+    ],
+    "website": "https://vikingcruises.com",
+    "booking_tip": "Book early for discounts"
+  },
+  "destination": {
+    "slug": "south-america",
+    "name": "South America",
+    "region": "Americas",
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "avoid_reason": "Winter, rough seas",
+    "avg_duration_nights": 14,
+    "typical_ports": [
+      {
+        "port": "Rio de Janeiro",
+        "highlight": "Christ, beaches"
+      },
+      {
+        "port": "Buenos Aires",
+        "highlight": "Tango, culture"
+      },
+      {
+        "port": "Montevideo",
+        "highlight": "Colonial charm"
+      },
+      {
+        "port": "Santiago",
+        "highlight": "Andes, wine"
+      }
+    ],
+    "climate": "Variable, tropical to temperate",
+    "currency_tip": "Local currencies",
+    "visa_note": "Check requirements",
+    "excursion_budget_pp": "€40-120",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Princess",
+      "Holland America"
+    ],
+    "embarkation_ports": [
+      "Buenos Aires",
+      "Rio",
+      "Santiago",
+      "Lima"
+    ],
+    "sub_regions": [
+      "Brazil",
+      "Argentina",
+      "Chile",
+      "Uruguay"
+    ]
+  },
+  "title": "Viking Cruises South America Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.809Z"
+}

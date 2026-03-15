@@ -1,0 +1,44 @@
+{
+  "port": {
+    "slug": "venice",
+    "name": "Venice",
+    "country": "Italy",
+    "iata_nearby": "VCE",
+    "terminal_count": 4,
+    "cruise_lines_operating": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Norwegian",
+      "Celebrity",
+      "Princess",
+      "Holland America",
+      "Cunard"
+    ],
+    "train_from_city": "People Mover or Alilaguna boat",
+    "parking_cost_per_day": "€25-35",
+    "nearest_airport": "Venice Marco Polo (30min)",
+    "hotel_tip": "Hotel Al Codega from €90",
+    "embarkation_tip": "Large ships dock at Marittima or Fusina",
+    "destinations_served": [
+      "Mediterranean",
+      "Eastern Mediterranean",
+      "Greek Isles",
+      "Adriatic",
+      "Northern Europe"
+    ],
+    "busiest_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "quietest_months": [
+      "January",
+      "February",
+      "November"
+    ]
+  },
+  "title": "Cruises from Venice 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.833Z"
+}

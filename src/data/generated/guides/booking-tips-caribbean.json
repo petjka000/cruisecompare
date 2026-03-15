@@ -1,0 +1,65 @@
+{
+  "type": {
+    "slug": "booking-tips",
+    "name": "Booking Tips"
+  },
+  "destination": {
+    "slug": "caribbean",
+    "name": "Caribbean",
+    "region": "Americas",
+    "best_months": [
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "avoid_months": [
+      "August",
+      "September"
+    ],
+    "avoid_reason": "Hurricane season",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Cozumel",
+        "highlight": "Snorkelling, Mayan ruins"
+      },
+      {
+        "port": "Nassau",
+        "highlight": "Cable Beach, Atlantis"
+      },
+      {
+        "port": "St. Maarten",
+        "highlight": "Shopping, dual culture"
+      },
+      {
+        "port": "Grand Cayman",
+        "highlight": "Stingray City"
+      }
+    ],
+    "climate": "Tropical, 25-32°C year-round",
+    "currency_tip": "USD widely accepted",
+    "visa_note": "Most islands visa-free",
+    "excursion_budget_pp": "€40-150",
+    "best_cruise_lines": [
+      "Royal Caribbean",
+      "Carnival",
+      "Norwegian",
+      "MSC"
+    ],
+    "embarkation_ports": [
+      "Miami",
+      "Fort Lauderdale",
+      "San Juan",
+      "Galveston"
+    ],
+    "sub_regions": [
+      "Eastern Caribbean",
+      "Western Caribbean",
+      "Southern Caribbean"
+    ]
+  },
+  "title": "Booking Tips for Caribbean Cruise 2026",
+  "generated": "2026-03-15T12:15:13.855Z"
+}

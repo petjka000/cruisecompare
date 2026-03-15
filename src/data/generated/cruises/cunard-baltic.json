@@ -1,0 +1,103 @@
+{
+  "cruiseLine": {
+    "slug": "cunard",
+    "name": "Cunard Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1840,
+    "headquarters": "Southampton, UK",
+    "fleet_size": 4,
+    "known_for": "Transatlantic crossings",
+    "price_tier": "luxury",
+    "best_for": [
+      "seniors",
+      "luxury-seekers"
+    ],
+    "avg_price_7night_inside": 1199,
+    "avg_price_7night_balcony": 1899,
+    "loyalty_program": "Voyages Club",
+    "key_ships": [
+      "Queen Mary 2",
+      "Queen Anne",
+      "Queen Victoria"
+    ],
+    "top_destinations": [
+      "Transatlantic",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "New York",
+      "Hamburg"
+    ],
+    "strengths": [
+      "Ocean liner QM2",
+      "Formal elegance",
+      "Enrichment"
+    ],
+    "weaknesses": [
+      "Very traditional",
+      "Expensive"
+    ],
+    "website": "https://cunard.com",
+    "booking_tip": "Book crossings early"
+  },
+  "destination": {
+    "slug": "baltic",
+    "name": "Baltic & Scandinavia",
+    "region": "Europe",
+    "best_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January"
+    ],
+    "avoid_reason": "Cold, dark, limited daylight",
+    "avg_duration_nights": 10,
+    "typical_ports": [
+      {
+        "port": "St. Petersburg",
+        "highlight": "Hermitage, palaces"
+      },
+      {
+        "port": "Stockholm",
+        "highlight": "Archipelago, Gamla Stan"
+      },
+      {
+        "port": "Copenhagen",
+        "highlight": "Nyhavn, Tivoli"
+      },
+      {
+        "port": "Tallinn",
+        "highlight": "Medieval old town"
+      }
+    ],
+    "climate": "Temperate, 15-25°C",
+    "currency_tip": "Euros mostly",
+    "visa_note": "Russian visa or waiver",
+    "excursion_budget_pp": "€60-200",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Celebrity"
+    ],
+    "embarkation_ports": [
+      "Copenhagen",
+      "Stockholm",
+      "Southampton",
+      "Amsterdam"
+    ],
+    "sub_regions": [
+      "Baltic Capitals",
+      "Scandinavia",
+      "St. Petersburg"
+    ]
+  },
+  "title": "Cunard Line Baltic & Scandinavia Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.796Z"
+}

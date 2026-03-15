@@ -1,0 +1,107 @@
+{
+  "cruiseLine": {
+    "slug": "disney",
+    "name": "Disney Cruise Line",
+    "parent_company": "Disney",
+    "founded": 1995,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 6,
+    "known_for": "Disney magic",
+    "price_tier": "premium",
+    "best_for": [
+      "families",
+      "disney-fans"
+    ],
+    "avg_price_7night_inside": 1299,
+    "avg_price_7night_balcony": 1899,
+    "loyalty_program": "Castaway Club",
+    "key_ships": [
+      "Disney Wish",
+      "Disney Treasure",
+      "Disney Dream"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Alaska",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Port Canaveral",
+      "Miami",
+      "Vancouver"
+    ],
+    "strengths": [
+      "Disney characters",
+      "Family cabins",
+      "Private island"
+    ],
+    "weaknesses": [
+      "Expensive",
+      "Kids-focused"
+    ],
+    "website": "https://disneycruise.com",
+    "booking_tip": "Book 18 months ahead"
+  },
+  "destination": {
+    "slug": "british-isles",
+    "name": "British Isles",
+    "region": "Europe",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_reason": "Cold, rough seas",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Dublin",
+        "highlight": "Guinness, Trinity College"
+      },
+      {
+        "port": "Edinburgh",
+        "highlight": "Castle, Royal Mile"
+      },
+      {
+        "port": "Belfast",
+        "highlight": "Titanic Museum"
+      },
+      {
+        "port": "Liverpool",
+        "highlight": "Beatles, waterfront"
+      }
+    ],
+    "climate": "Temperate, 10-20°C",
+    "currency_tip": "GBP, Euro in Ireland",
+    "visa_note": "UK/Ireland rules",
+    "excursion_budget_pp": "€50-150",
+    "best_cruise_lines": [
+      "P&O",
+      "Fred Olsen",
+      "Marella",
+      "Princess"
+    ],
+    "embarkation_ports": [
+      "Southampton",
+      "Dover",
+      "Liverpool",
+      "Edinburgh"
+    ],
+    "sub_regions": [
+      "Ireland",
+      "Scotland",
+      "England",
+      "Wales"
+    ]
+  },
+  "title": "Disney Cruise Line British Isles Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.804Z"
+}

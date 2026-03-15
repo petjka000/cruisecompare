@@ -1,0 +1,44 @@
+{
+  "port": {
+    "slug": "piraeus",
+    "name": "Piraeus (Athens)",
+    "country": "Greece",
+    "iata_nearby": "ATH",
+    "terminal_count": 3,
+    "cruise_lines_operating": [
+      "Royal Caribbean",
+      "Celebrity",
+      "Norwegian",
+      "MSC",
+      "Costa",
+      "Princess",
+      "Holland America",
+      "Seabourn"
+    ],
+    "train_from_city": "Metro Line 1 25min €1.20",
+    "parking_cost_per_day": "€15-25",
+    "nearest_airport": "Athens International (45min)",
+    "hotel_tip": "Athens Gate Hotel from €80",
+    "embarkation_tip": "Port is huge - know your gate letter",
+    "destinations_served": [
+      "Mediterranean",
+      "Eastern Mediterranean",
+      "Greek Isles",
+      "Adriatic",
+      "Black Sea"
+    ],
+    "busiest_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "quietest_months": [
+      "January",
+      "February",
+      "November"
+    ]
+  },
+  "title": "Cruises from Piraeus (Athens) 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.833Z"
+}

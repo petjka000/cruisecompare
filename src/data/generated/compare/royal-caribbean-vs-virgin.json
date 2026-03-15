@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "royal-caribbean",
+    "name": "Royal Caribbean",
+    "parent_company": "Royal Caribbean Group",
+    "founded": 1969,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 26,
+    "known_for": "Mega-ships, innovative features",
+    "price_tier": "mid-range",
+    "best_for": [
+      "families",
+      "adventure-seekers"
+    ],
+    "avg_price_7night_inside": 699,
+    "avg_price_7night_balcony": 1099,
+    "loyalty_program": "Crown & Anchor Society",
+    "key_ships": [
+      "Icon of the Seas",
+      "Wonder of the Seas",
+      "Oasis of the Seas"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Largest ships",
+      "Best entertainment",
+      "Family-friendly"
+    ],
+    "weaknesses": [
+      "Crowded",
+      "Upcharges"
+    ],
+    "website": "https://royalcaribbean.com",
+    "booking_tip": "Book NextCruise onboard for best prices"
+  },
+  "lineB": {
+    "slug": "virgin",
+    "name": "Virgin Voyages",
+    "parent_company": "Virgin Group",
+    "founded": 2020,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 4,
+    "known_for": "Adults-only, modern",
+    "price_tier": "premium",
+    "best_for": [
+      "adults",
+      "couples"
+    ],
+    "avg_price_7night_inside": 999,
+    "avg_price_7night_balcony": 1499,
+    "loyalty_program": "Sailor Club",
+    "key_ships": [
+      "Scarlet Lady",
+      "Valiant Lady",
+      "Resilient Lady"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Northern Europe"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Adults-only",
+      "All dining included",
+      "Modern design"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Small fleet"
+    ],
+    "website": "https://virginvoyages.com",
+    "booking_tip": "Book Sea View cabins"
+  },
+  "title": "Royal Caribbean vs Virgin Voyages 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.819Z"
+}

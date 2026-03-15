@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "royal-caribbean",
+    "name": "Royal Caribbean",
+    "parent_company": "Royal Caribbean Group",
+    "founded": 1969,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 26,
+    "known_for": "Mega-ships, innovative features",
+    "price_tier": "mid-range",
+    "best_for": [
+      "families",
+      "adventure-seekers"
+    ],
+    "avg_price_7night_inside": 699,
+    "avg_price_7night_balcony": 1099,
+    "loyalty_program": "Crown & Anchor Society",
+    "key_ships": [
+      "Icon of the Seas",
+      "Wonder of the Seas",
+      "Oasis of the Seas"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Largest ships",
+      "Best entertainment",
+      "Family-friendly"
+    ],
+    "weaknesses": [
+      "Crowded",
+      "Upcharges"
+    ],
+    "website": "https://royalcaribbean.com",
+    "booking_tip": "Book NextCruise onboard for best prices"
+  },
+  "lineB": {
+    "slug": "oceania",
+    "name": "Oceania Cruises",
+    "parent_company": "Norwegian Cruise Line Holdings",
+    "founded": 2002,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 6,
+    "known_for": "Culinary focus",
+    "price_tier": "luxury",
+    "best_for": [
+      "food-lovers",
+      "seniors"
+    ],
+    "avg_price_7night_inside": 1299,
+    "avg_price_7night_balcony": 1999,
+    "loyalty_program": "Oceania Club",
+    "key_ships": [
+      "Vista",
+      "Marina",
+      "Riviera"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Northern Europe",
+      "Asia"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens"
+    ],
+    "strengths": [
+      "Best cuisine",
+      "Intimate ships",
+      "Destination-focused"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Older ships"
+    ],
+    "website": "https://oceaniacruises.com",
+    "booking_tip": "Book culinary voyages"
+  },
+  "title": "Royal Caribbean vs Oceania Cruises 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.819Z"
+}

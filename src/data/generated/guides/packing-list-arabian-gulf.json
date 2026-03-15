@@ -1,0 +1,68 @@
+{
+  "type": {
+    "slug": "packing-list",
+    "name": "Packing List"
+  },
+  "destination": {
+    "slug": "arabian-gulf",
+    "name": "Arabian Gulf",
+    "region": "Middle East",
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "avoid_reason": "Extreme heat 40°C+",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Dubai",
+        "highlight": "Burj Khalifa, malls"
+      },
+      {
+        "port": "Abu Dhabi",
+        "highlight": "Sheikh Zayed Mosque"
+      },
+      {
+        "port": "Doha",
+        "highlight": "Souq, museums"
+      },
+      {
+        "port": "Muscat",
+        "highlight": "Fort, corniche"
+      }
+    ],
+    "climate": "Desert, 20-35°C in season",
+    "currency_tip": "Local currencies, USD",
+    "visa_note": "Check requirements",
+    "excursion_budget_pp": "€40-120",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Celebrity"
+    ],
+    "embarkation_ports": [
+      "Dubai",
+      "Abu Dhabi",
+      "Doha",
+      "Muscat"
+    ],
+    "sub_regions": [
+      "UAE",
+      "Oman",
+      "Qatar",
+      "Bahrain"
+    ]
+  },
+  "title": "Packing List for Arabian Gulf Cruise 2026",
+  "generated": "2026-03-15T12:15:13.839Z"
+}

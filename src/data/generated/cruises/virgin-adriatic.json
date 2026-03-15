@@ -1,0 +1,103 @@
+{
+  "cruiseLine": {
+    "slug": "virgin",
+    "name": "Virgin Voyages",
+    "parent_company": "Virgin Group",
+    "founded": 2020,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 4,
+    "known_for": "Adults-only, modern",
+    "price_tier": "premium",
+    "best_for": [
+      "adults",
+      "couples"
+    ],
+    "avg_price_7night_inside": 999,
+    "avg_price_7night_balcony": 1499,
+    "loyalty_program": "Sailor Club",
+    "key_ships": [
+      "Scarlet Lady",
+      "Valiant Lady",
+      "Resilient Lady"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Northern Europe"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Adults-only",
+      "All dining included",
+      "Modern design"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Small fleet"
+    ],
+    "website": "https://virginvoyages.com",
+    "booking_tip": "Book Sea View cabins"
+  },
+  "destination": {
+    "slug": "adriatic",
+    "name": "Adriatic",
+    "region": "Europe",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "July",
+      "August"
+    ],
+    "avoid_reason": "Heat, crowds",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Dubrovnik",
+        "highlight": "Medieval walls"
+      },
+      {
+        "port": "Split",
+        "highlight": "Diocletian Palace"
+      },
+      {
+        "port": "Venice",
+        "highlight": "St. Marks, canals"
+      },
+      {
+        "port": "Kotor",
+        "highlight": "Bay, fortifications"
+      }
+    ],
+    "climate": "Mediterranean, 18-30°C",
+    "currency_tip": "Euro, local currencies",
+    "visa_note": "Schengen varies",
+    "excursion_budget_pp": "€50-150",
+    "best_cruise_lines": [
+      "MSC",
+      "Celebrity",
+      "Norwegian",
+      "Princess"
+    ],
+    "embarkation_ports": [
+      "Venice",
+      "Trieste",
+      "Bari",
+      "Dubrovnik"
+    ],
+    "sub_regions": [
+      "Croatian Coast",
+      "Italian Coast",
+      "Montenegro"
+    ]
+  },
+  "title": "Virgin Voyages Adriatic Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.806Z"
+}

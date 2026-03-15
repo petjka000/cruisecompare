@@ -1,0 +1,42 @@
+{
+  "port": {
+    "slug": "galveston",
+    "name": "Galveston, Texas",
+    "country": "United States",
+    "iata_nearby": "IAH",
+    "terminal_count": 3,
+    "cruise_lines_operating": [
+      "Carnival",
+      "Royal Caribbean",
+      "Disney",
+      "Norwegian",
+      "Celebrity",
+      "Princess"
+    ],
+    "train_from_city": "Shuttle or taxi 1h from Houston",
+    "parking_cost_per_day": "$20-25",
+    "nearest_airport": "Houston Bush (1h 15min)",
+    "hotel_tip": "The San Luis Resort from $150",
+    "embarkation_tip": "Allow extra time from Houston airports",
+    "destinations_served": [
+      "Caribbean",
+      "Western Caribbean",
+      "Southern Caribbean",
+      "Bahamas"
+    ],
+    "busiest_months": [
+      "December",
+      "January",
+      "February",
+      "March",
+      "June",
+      "July"
+    ],
+    "quietest_months": [
+      "September",
+      "October"
+    ]
+  },
+  "title": "Cruises from Galveston, Texas 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.834Z"
+}

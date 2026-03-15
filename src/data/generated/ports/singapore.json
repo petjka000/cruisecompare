@@ -1,0 +1,43 @@
+{
+  "port": {
+    "slug": "singapore",
+    "name": "Singapore",
+    "country": "Singapore",
+    "iata_nearby": "SIN",
+    "terminal_count": 2,
+    "cruise_lines_operating": [
+      "Royal Caribbean",
+      "Celebrity",
+      "Princess",
+      "Holland America",
+      "MSC",
+      "Costa",
+      "Cunard"
+    ],
+    "train_from_city": "MRT or taxi 25min",
+    "parking_cost_per_day": "SGD $20-30",
+    "nearest_airport": "Changi Airport (30min)",
+    "hotel_tip": "Marina Bay Sands from SGD $300",
+    "embarkation_tip": "Marina Bay Cruise Centre is modern",
+    "destinations_served": [
+      "Asia",
+      "Indian Ocean",
+      "Australia Pacific",
+      "Transpacific"
+    ],
+    "busiest_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "quietest_months": [
+      "June",
+      "July",
+      "August"
+    ]
+  },
+  "title": "Cruises from Singapore 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.834Z"
+}

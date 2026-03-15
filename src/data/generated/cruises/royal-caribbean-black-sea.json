@@ -1,0 +1,106 @@
+{
+  "cruiseLine": {
+    "slug": "royal-caribbean",
+    "name": "Royal Caribbean",
+    "parent_company": "Royal Caribbean Group",
+    "founded": 1969,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 26,
+    "known_for": "Mega-ships, innovative features",
+    "price_tier": "mid-range",
+    "best_for": [
+      "families",
+      "adventure-seekers"
+    ],
+    "avg_price_7night_inside": 699,
+    "avg_price_7night_balcony": 1099,
+    "loyalty_program": "Crown & Anchor Society",
+    "key_ships": [
+      "Icon of the Seas",
+      "Wonder of the Seas",
+      "Oasis of the Seas"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Largest ships",
+      "Best entertainment",
+      "Family-friendly"
+    ],
+    "weaknesses": [
+      "Crowded",
+      "Upcharges"
+    ],
+    "website": "https://royalcaribbean.com",
+    "booking_tip": "Book NextCruise onboard for best prices"
+  },
+  "destination": {
+    "slug": "black-sea",
+    "name": "Black Sea",
+    "region": "Europe",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_reason": "Cold, rough seas",
+    "avg_duration_nights": 10,
+    "typical_ports": [
+      {
+        "port": "Istanbul",
+        "highlight": "Hagia Sophia, Bosphorus"
+      },
+      {
+        "port": "Odessa",
+        "highlight": "Opera, Potemkin Steps"
+      },
+      {
+        "port": "Sochi",
+        "highlight": "Olympic venues"
+      },
+      {
+        "port": "Batumi",
+        "highlight": "Casino, botanical garden"
+      }
+    ],
+    "climate": "Temperate, 15-28°C",
+    "currency_tip": "Local currencies",
+    "visa_note": "Check requirements",
+    "excursion_budget_pp": "€40-120",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Seabourn",
+      "Azamara"
+    ],
+    "embarkation_ports": [
+      "Istanbul",
+      "Athens",
+      "Odessa",
+      "Sochi"
+    ],
+    "sub_regions": [
+      "Turkey",
+      "Ukraine",
+      "Russia",
+      "Georgia"
+    ]
+  },
+  "title": "Royal Caribbean Black Sea Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.777Z"
+}

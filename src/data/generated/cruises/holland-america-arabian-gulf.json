@@ -1,0 +1,107 @@
+{
+  "cruiseLine": {
+    "slug": "holland-america",
+    "name": "Holland America Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1873,
+    "headquarters": "Seattle, Washington",
+    "fleet_size": 11,
+    "known_for": "Traditional cruising",
+    "price_tier": "premium",
+    "best_for": [
+      "seniors",
+      "long-cruises"
+    ],
+    "avg_price_7night_inside": 799,
+    "avg_price_7night_balcony": 1249,
+    "loyalty_program": "Mariner Society",
+    "key_ships": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Koningsdam"
+    ],
+    "top_destinations": [
+      "Alaska",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Fort Lauderdale",
+      "Amsterdam"
+    ],
+    "strengths": [
+      "Classic elegance",
+      "Long itineraries",
+      "Culinary arts"
+    ],
+    "weaknesses": [
+      "Older demographic",
+      "Less nightlife"
+    ],
+    "website": "https://hollandamerica.com",
+    "booking_tip": "Book Mariner discounts"
+  },
+  "destination": {
+    "slug": "arabian-gulf",
+    "name": "Arabian Gulf",
+    "region": "Middle East",
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "avoid_reason": "Extreme heat 40°C+",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Dubai",
+        "highlight": "Burj Khalifa, malls"
+      },
+      {
+        "port": "Abu Dhabi",
+        "highlight": "Sheikh Zayed Mosque"
+      },
+      {
+        "port": "Doha",
+        "highlight": "Souq, museums"
+      },
+      {
+        "port": "Muscat",
+        "highlight": "Fort, corniche"
+      }
+    ],
+    "climate": "Desert, 20-35°C in season",
+    "currency_tip": "Local currencies, USD",
+    "visa_note": "Check requirements",
+    "excursion_budget_pp": "€40-120",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Celebrity"
+    ],
+    "embarkation_ports": [
+      "Dubai",
+      "Abu Dhabi",
+      "Doha",
+      "Muscat"
+    ],
+    "sub_regions": [
+      "UAE",
+      "Oman",
+      "Qatar",
+      "Bahrain"
+    ]
+  },
+  "title": "Holland America Line Arabian Gulf Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.794Z"
+}

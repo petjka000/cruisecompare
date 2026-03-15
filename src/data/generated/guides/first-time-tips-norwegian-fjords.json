@@ -1,0 +1,64 @@
+{
+  "type": {
+    "slug": "first-time-tips",
+    "name": "First-Time Tips"
+  },
+  "destination": {
+    "slug": "norwegian-fjords",
+    "name": "Norwegian Fjords",
+    "region": "Europe",
+    "best_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January"
+    ],
+    "avoid_reason": "Dark, cold, closures",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Flam",
+        "highlight": "Scenic railway"
+      },
+      {
+        "port": "Geiranger",
+        "highlight": "UNESCO fjord"
+      },
+      {
+        "port": "Stavanger",
+        "highlight": "Pulpit Rock"
+      },
+      {
+        "port": "Bergen",
+        "highlight": "Bryggen wharf"
+      }
+    ],
+    "climate": "Cool summers, 5-20°C",
+    "currency_tip": "Norwegian Krone",
+    "visa_note": "Schengen rules",
+    "excursion_budget_pp": "€80-250",
+    "best_cruise_lines": [
+      "P&O",
+      "Cunard",
+      "MSC",
+      "Costa"
+    ],
+    "embarkation_ports": [
+      "Southampton",
+      "Hamburg",
+      "Copenhagen",
+      "Amsterdam"
+    ],
+    "sub_regions": [
+      "Sognefjord",
+      "Geirangerfjord",
+      "Hardangerfjord"
+    ]
+  },
+  "title": "First-Time Tips for Norwegian Fjords Cruise 2026",
+  "generated": "2026-03-15T12:15:13.840Z"
+}

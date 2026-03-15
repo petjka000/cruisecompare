@@ -1,0 +1,104 @@
+{
+  "cruiseLine": {
+    "slug": "carnival",
+    "name": "Carnival Cruise Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1972,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 27,
+    "known_for": "Fun ships, affordable",
+    "price_tier": "budget",
+    "best_for": [
+      "families",
+      "budget-travelers"
+    ],
+    "avg_price_7night_inside": 499,
+    "avg_price_7night_balcony": 799,
+    "loyalty_program": "VIFP Club",
+    "key_ships": [
+      "Carnival Celebration",
+      "Carnival Jubilee",
+      "Carnival Vista"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mexico",
+      "Bahamas"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Galveston",
+      "Port Canaveral"
+    ],
+    "strengths": [
+      "Most affordable",
+      "Fun atmosphere",
+      "Great for groups"
+    ],
+    "weaknesses": [
+      "Noisy",
+      "Average food"
+    ],
+    "website": "https://carnival.com",
+    "booking_tip": "Book early for best cabin selection"
+  },
+  "destination": {
+    "slug": "caribbean",
+    "name": "Caribbean",
+    "region": "Americas",
+    "best_months": [
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "avoid_months": [
+      "August",
+      "September"
+    ],
+    "avoid_reason": "Hurricane season",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Cozumel",
+        "highlight": "Snorkelling, Mayan ruins"
+      },
+      {
+        "port": "Nassau",
+        "highlight": "Cable Beach, Atlantis"
+      },
+      {
+        "port": "St. Maarten",
+        "highlight": "Shopping, dual culture"
+      },
+      {
+        "port": "Grand Cayman",
+        "highlight": "Stingray City"
+      }
+    ],
+    "climate": "Tropical, 25-32°C year-round",
+    "currency_tip": "USD widely accepted",
+    "visa_note": "Most islands visa-free",
+    "excursion_budget_pp": "€40-150",
+    "best_cruise_lines": [
+      "Royal Caribbean",
+      "Carnival",
+      "Norwegian",
+      "MSC"
+    ],
+    "embarkation_ports": [
+      "Miami",
+      "Fort Lauderdale",
+      "San Juan",
+      "Galveston"
+    ],
+    "sub_regions": [
+      "Eastern Caribbean",
+      "Western Caribbean",
+      "Southern Caribbean"
+    ]
+  },
+  "title": "Carnival Cruise Line Caribbean Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.777Z"
+}

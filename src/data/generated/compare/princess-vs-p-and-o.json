@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "princess",
+    "name": "Princess Cruises",
+    "parent_company": "Carnival Corporation",
+    "founded": 1965,
+    "headquarters": "Santa Clarita, California",
+    "fleet_size": 15,
+    "known_for": "Alaska specialists",
+    "price_tier": "mid-range",
+    "best_for": [
+      "couples",
+      "seniors"
+    ],
+    "avg_price_7night_inside": 749,
+    "avg_price_7night_balcony": 1149,
+    "loyalty_program": "Captain's Circle",
+    "key_ships": [
+      "Discovery Princess",
+      "Enchanted Princess",
+      "Sky Princess"
+    ],
+    "top_destinations": [
+      "Alaska",
+      "Caribbean",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Fort Lauderdale",
+      "Southampton"
+    ],
+    "strengths": [
+      "Alaska expertise",
+      "Medallion tech",
+      "Movies under stars"
+    ],
+    "weaknesses": [
+      "Older ships",
+      "Conservative"
+    ],
+    "website": "https://princess.com",
+    "booking_tip": "Book Alaska early for best cabins"
+  },
+  "lineB": {
+    "slug": "p-and-o",
+    "name": "P&O Cruises",
+    "parent_company": "Carnival UK",
+    "founded": 1837,
+    "headquarters": "Southampton, UK",
+    "fleet_size": 7,
+    "known_for": "British style cruising",
+    "price_tier": "mid-range",
+    "best_for": [
+      "british-families",
+      "couples"
+    ],
+    "avg_price_7night_inside": 649,
+    "avg_price_7night_balcony": 1049,
+    "loyalty_program": "Peninsula Club",
+    "key_ships": [
+      "Iona",
+      "Arvia",
+      "Ventura"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Canary Islands",
+      "Norwegian Fjords"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Dover",
+      "Tilbury"
+    ],
+    "strengths": [
+      "British style",
+      "No-fly cruises",
+      "Family-friendly"
+    ],
+    "weaknesses": [
+      "UK only",
+      "Dated ships"
+    ],
+    "website": "https://pocruises.com",
+    "booking_tip": "Book early for school holidays"
+  },
+  "title": "Princess Cruises vs P&O Cruises 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.825Z"
+}

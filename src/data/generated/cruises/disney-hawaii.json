@@ -1,0 +1,104 @@
+{
+  "cruiseLine": {
+    "slug": "disney",
+    "name": "Disney Cruise Line",
+    "parent_company": "Disney",
+    "founded": 1995,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 6,
+    "known_for": "Disney magic",
+    "price_tier": "premium",
+    "best_for": [
+      "families",
+      "disney-fans"
+    ],
+    "avg_price_7night_inside": 1299,
+    "avg_price_7night_balcony": 1899,
+    "loyalty_program": "Castaway Club",
+    "key_ships": [
+      "Disney Wish",
+      "Disney Treasure",
+      "Disney Dream"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Alaska",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Port Canaveral",
+      "Miami",
+      "Vancouver"
+    ],
+    "strengths": [
+      "Disney characters",
+      "Family cabins",
+      "Private island"
+    ],
+    "weaknesses": [
+      "Expensive",
+      "Kids-focused"
+    ],
+    "website": "https://disneycruise.com",
+    "booking_tip": "Book 18 months ahead"
+  },
+  "destination": {
+    "slug": "hawaii",
+    "name": "Hawaii",
+    "region": "Pacific",
+    "best_months": [
+      "April",
+      "May",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "December",
+      "January"
+    ],
+    "avoid_reason": "Peak prices, crowds",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Honolulu",
+        "highlight": "Pearl Harbor, Waikiki"
+      },
+      {
+        "port": "Maui",
+        "highlight": "Road to Hana, Haleakala"
+      },
+      {
+        "port": "Kauai",
+        "highlight": "Na Pali Coast"
+      },
+      {
+        "port": "Big Island",
+        "highlight": "Volcanoes"
+      }
+    ],
+    "climate": "Tropical, 24-30°C year-round",
+    "currency_tip": "USD",
+    "visa_note": "US entry required",
+    "excursion_budget_pp": "€80-250",
+    "best_cruise_lines": [
+      "Norwegian",
+      "Princess",
+      "Celebrity",
+      "Holland America"
+    ],
+    "embarkation_ports": [
+      "Honolulu",
+      "Los Angeles",
+      "San Francisco",
+      "Vancouver"
+    ],
+    "sub_regions": [
+      "Oahu",
+      "Maui",
+      "Kauai",
+      "Big Island"
+    ]
+  },
+  "title": "Disney Cruise Line Hawaii Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.805Z"
+}

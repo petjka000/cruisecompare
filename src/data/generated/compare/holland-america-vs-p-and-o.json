@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "holland-america",
+    "name": "Holland America Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1873,
+    "headquarters": "Seattle, Washington",
+    "fleet_size": 11,
+    "known_for": "Traditional cruising",
+    "price_tier": "premium",
+    "best_for": [
+      "seniors",
+      "long-cruises"
+    ],
+    "avg_price_7night_inside": 799,
+    "avg_price_7night_balcony": 1249,
+    "loyalty_program": "Mariner Society",
+    "key_ships": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Koningsdam"
+    ],
+    "top_destinations": [
+      "Alaska",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Fort Lauderdale",
+      "Amsterdam"
+    ],
+    "strengths": [
+      "Classic elegance",
+      "Long itineraries",
+      "Culinary arts"
+    ],
+    "weaknesses": [
+      "Older demographic",
+      "Less nightlife"
+    ],
+    "website": "https://hollandamerica.com",
+    "booking_tip": "Book Mariner discounts"
+  },
+  "lineB": {
+    "slug": "p-and-o",
+    "name": "P&O Cruises",
+    "parent_company": "Carnival UK",
+    "founded": 1837,
+    "headquarters": "Southampton, UK",
+    "fleet_size": 7,
+    "known_for": "British style cruising",
+    "price_tier": "mid-range",
+    "best_for": [
+      "british-families",
+      "couples"
+    ],
+    "avg_price_7night_inside": 649,
+    "avg_price_7night_balcony": 1049,
+    "loyalty_program": "Peninsula Club",
+    "key_ships": [
+      "Iona",
+      "Arvia",
+      "Ventura"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Canary Islands",
+      "Norwegian Fjords"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Dover",
+      "Tilbury"
+    ],
+    "strengths": [
+      "British style",
+      "No-fly cruises",
+      "Family-friendly"
+    ],
+    "weaknesses": [
+      "UK only",
+      "Dated ships"
+    ],
+    "website": "https://pocruises.com",
+    "booking_tip": "Book early for school holidays"
+  },
+  "title": "Holland America Line vs P&O Cruises 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.826Z"
+}

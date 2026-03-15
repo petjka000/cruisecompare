@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "msc",
+    "name": "MSC Cruises",
+    "parent_company": "MSC Group",
+    "founded": 1988,
+    "headquarters": "Geneva, Switzerland",
+    "fleet_size": 22,
+    "known_for": "European style, value",
+    "price_tier": "mid-range",
+    "best_for": [
+      "families",
+      "value-seekers"
+    ],
+    "avg_price_7night_inside": 549,
+    "avg_price_7night_balcony": 849,
+    "loyalty_program": "MSC Voyagers Club",
+    "key_ships": [
+      "MSC World Europa",
+      "MSC Seashore",
+      "MSC Bellissima"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Caribbean",
+      "Northern Europe"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Miami",
+      "Southampton"
+    ],
+    "strengths": [
+      "Great value",
+      "Beautiful ships",
+      "Kids sail free"
+    ],
+    "weaknesses": [
+      "Service inconsistent",
+      "Multi-language"
+    ],
+    "website": "https://msccruises.com",
+    "booking_tip": "Use MSC Status Match for loyalty benefits"
+  },
+  "lineB": {
+    "slug": "p-and-o",
+    "name": "P&O Cruises",
+    "parent_company": "Carnival UK",
+    "founded": 1837,
+    "headquarters": "Southampton, UK",
+    "fleet_size": 7,
+    "known_for": "British style cruising",
+    "price_tier": "mid-range",
+    "best_for": [
+      "british-families",
+      "couples"
+    ],
+    "avg_price_7night_inside": 649,
+    "avg_price_7night_balcony": 1049,
+    "loyalty_program": "Peninsula Club",
+    "key_ships": [
+      "Iona",
+      "Arvia",
+      "Ventura"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Canary Islands",
+      "Norwegian Fjords"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Dover",
+      "Tilbury"
+    ],
+    "strengths": [
+      "British style",
+      "No-fly cruises",
+      "Family-friendly"
+    ],
+    "weaknesses": [
+      "UK only",
+      "Dated ships"
+    ],
+    "website": "https://pocruises.com",
+    "booking_tip": "Book early for school holidays"
+  },
+  "title": "MSC Cruises vs P&O Cruises 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.823Z"
+}

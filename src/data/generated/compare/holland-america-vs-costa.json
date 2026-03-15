@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "holland-america",
+    "name": "Holland America Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1873,
+    "headquarters": "Seattle, Washington",
+    "fleet_size": 11,
+    "known_for": "Traditional cruising",
+    "price_tier": "premium",
+    "best_for": [
+      "seniors",
+      "long-cruises"
+    ],
+    "avg_price_7night_inside": 799,
+    "avg_price_7night_balcony": 1249,
+    "loyalty_program": "Mariner Society",
+    "key_ships": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Koningsdam"
+    ],
+    "top_destinations": [
+      "Alaska",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Fort Lauderdale",
+      "Amsterdam"
+    ],
+    "strengths": [
+      "Classic elegance",
+      "Long itineraries",
+      "Culinary arts"
+    ],
+    "weaknesses": [
+      "Older demographic",
+      "Less nightlife"
+    ],
+    "website": "https://hollandamerica.com",
+    "booking_tip": "Book Mariner discounts"
+  },
+  "lineB": {
+    "slug": "costa",
+    "name": "Costa Cruises",
+    "parent_company": "Carnival Corporation",
+    "founded": 1854,
+    "headquarters": "Genoa, Italy",
+    "fleet_size": 9,
+    "known_for": "Italian style",
+    "price_tier": "budget",
+    "best_for": [
+      "europeans",
+      "value-seekers"
+    ],
+    "avg_price_7night_inside": 499,
+    "avg_price_7night_balcony": 799,
+    "loyalty_program": "Costa Club",
+    "key_ships": [
+      "Costa Toscana",
+      "Costa Smeralda",
+      "Costa Firenze"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Northern Europe",
+      "Caribbean"
+    ],
+    "departure_ports": [
+      "Savona",
+      "Barcelona",
+      "Civitavecchia"
+    ],
+    "strengths": [
+      "Italian experience",
+      "Great value",
+      "Family-friendly"
+    ],
+    "weaknesses": [
+      "Service varies",
+      "Crowded"
+    ],
+    "website": "https://costa.it",
+    "booking_tip": "Book Mediterranean early"
+  },
+  "title": "Holland America Line vs Costa Cruises 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.826Z"
+}

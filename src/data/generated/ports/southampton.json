@@ -1,0 +1,46 @@
+{
+  "port": {
+    "slug": "southampton",
+    "name": "Southampton",
+    "country": "United Kingdom",
+    "iata_nearby": "LHR",
+    "terminal_count": 4,
+    "cruise_lines_operating": [
+      "P&O",
+      "Cunard",
+      "Royal Caribbean",
+      "MSC",
+      "Norwegian",
+      "Celebrity",
+      "Fred Olsen",
+      "Marella",
+      "Virgin Voyages"
+    ],
+    "train_from_london": "1h 15m from £12",
+    "parking_cost_per_day": "£20-30",
+    "nearest_airport": "Southampton (10min) or Heathrow (1h 30min)",
+    "hotel_tip": "Premier Inn West Quay from £70",
+    "embarkation_tip": "Arrive 30-60 min before boarding time",
+    "destinations_served": [
+      "Caribbean",
+      "Canary Islands",
+      "Mediterranean",
+      "Norwegian Fjords",
+      "Baltic",
+      "Transatlantic",
+      "British Isles"
+    ],
+    "busiest_months": [
+      "July",
+      "August",
+      "September"
+    ],
+    "quietest_months": [
+      "January",
+      "February",
+      "November"
+    ]
+  },
+  "title": "Cruises from Southampton 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.832Z"
+}

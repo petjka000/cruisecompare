@@ -1,0 +1,64 @@
+{
+  "type": {
+    "slug": "best-cabins",
+    "name": "Best Cabins"
+  },
+  "destination": {
+    "slug": "adriatic",
+    "name": "Adriatic",
+    "region": "Europe",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "July",
+      "August"
+    ],
+    "avoid_reason": "Heat, crowds",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Dubrovnik",
+        "highlight": "Medieval walls"
+      },
+      {
+        "port": "Split",
+        "highlight": "Diocletian Palace"
+      },
+      {
+        "port": "Venice",
+        "highlight": "St. Marks, canals"
+      },
+      {
+        "port": "Kotor",
+        "highlight": "Bay, fortifications"
+      }
+    ],
+    "climate": "Mediterranean, 18-30°C",
+    "currency_tip": "Euro, local currencies",
+    "visa_note": "Schengen varies",
+    "excursion_budget_pp": "€50-150",
+    "best_cruise_lines": [
+      "MSC",
+      "Celebrity",
+      "Norwegian",
+      "Princess"
+    ],
+    "embarkation_ports": [
+      "Venice",
+      "Trieste",
+      "Bari",
+      "Dubrovnik"
+    ],
+    "sub_regions": [
+      "Croatian Coast",
+      "Italian Coast",
+      "Montenegro"
+    ]
+  },
+  "title": "Best Cabins for Adriatic Cruise 2026",
+  "generated": "2026-03-15T12:15:13.850Z"
+}

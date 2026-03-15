@@ -1,0 +1,107 @@
+{
+  "cruiseLine": {
+    "slug": "virgin",
+    "name": "Virgin Voyages",
+    "parent_company": "Virgin Group",
+    "founded": 2020,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 4,
+    "known_for": "Adults-only, modern",
+    "price_tier": "premium",
+    "best_for": [
+      "adults",
+      "couples"
+    ],
+    "avg_price_7night_inside": 999,
+    "avg_price_7night_balcony": 1499,
+    "loyalty_program": "Sailor Club",
+    "key_ships": [
+      "Scarlet Lady",
+      "Valiant Lady",
+      "Resilient Lady"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Northern Europe"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Adults-only",
+      "All dining included",
+      "Modern design"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Small fleet"
+    ],
+    "website": "https://virginvoyages.com",
+    "booking_tip": "Book Sea View cabins"
+  },
+  "destination": {
+    "slug": "arabian-gulf",
+    "name": "Arabian Gulf",
+    "region": "Middle East",
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "avoid_reason": "Extreme heat 40°C+",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Dubai",
+        "highlight": "Burj Khalifa, malls"
+      },
+      {
+        "port": "Abu Dhabi",
+        "highlight": "Sheikh Zayed Mosque"
+      },
+      {
+        "port": "Doha",
+        "highlight": "Souq, museums"
+      },
+      {
+        "port": "Muscat",
+        "highlight": "Fort, corniche"
+      }
+    ],
+    "climate": "Desert, 20-35°C in season",
+    "currency_tip": "Local currencies, USD",
+    "visa_note": "Check requirements",
+    "excursion_budget_pp": "€40-120",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Celebrity"
+    ],
+    "embarkation_ports": [
+      "Dubai",
+      "Abu Dhabi",
+      "Doha",
+      "Muscat"
+    ],
+    "sub_regions": [
+      "UAE",
+      "Oman",
+      "Qatar",
+      "Bahrain"
+    ]
+  },
+  "title": "Virgin Voyages Arabian Gulf Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.807Z"
+}

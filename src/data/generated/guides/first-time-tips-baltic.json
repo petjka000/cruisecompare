@@ -1,0 +1,64 @@
+{
+  "type": {
+    "slug": "first-time-tips",
+    "name": "First-Time Tips"
+  },
+  "destination": {
+    "slug": "baltic",
+    "name": "Baltic & Scandinavia",
+    "region": "Europe",
+    "best_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January"
+    ],
+    "avoid_reason": "Cold, dark, limited daylight",
+    "avg_duration_nights": 10,
+    "typical_ports": [
+      {
+        "port": "St. Petersburg",
+        "highlight": "Hermitage, palaces"
+      },
+      {
+        "port": "Stockholm",
+        "highlight": "Archipelago, Gamla Stan"
+      },
+      {
+        "port": "Copenhagen",
+        "highlight": "Nyhavn, Tivoli"
+      },
+      {
+        "port": "Tallinn",
+        "highlight": "Medieval old town"
+      }
+    ],
+    "climate": "Temperate, 15-25°C",
+    "currency_tip": "Euros mostly",
+    "visa_note": "Russian visa or waiver",
+    "excursion_budget_pp": "€60-200",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Celebrity"
+    ],
+    "embarkation_ports": [
+      "Copenhagen",
+      "Stockholm",
+      "Southampton",
+      "Amsterdam"
+    ],
+    "sub_regions": [
+      "Baltic Capitals",
+      "Scandinavia",
+      "St. Petersburg"
+    ]
+  },
+  "title": "First-Time Tips for Baltic & Scandinavia Cruise 2026",
+  "generated": "2026-03-15T12:15:13.840Z"
+}

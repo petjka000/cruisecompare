@@ -1,0 +1,44 @@
+{
+  "port": {
+    "slug": "new-york",
+    "name": "New York (Manhattan)",
+    "country": "United States",
+    "iata_nearby": "JFK",
+    "terminal_count": 4,
+    "cruise_lines_operating": [
+      "Norwegian",
+      "Celebrity",
+      "Princess",
+      "Holland America",
+      "Cunard",
+      "Royal Caribbean",
+      "MSC",
+      "Disney"
+    ],
+    "train_from_city": "Subway or taxi 45min",
+    "parking_cost_per_day": "$40-50",
+    "nearest_airport": "JFK (1h) or Newark (45min)",
+    "hotel_tip": "Hampton Inn Manhattan from $200",
+    "embarkation_tip": "Manhattan Cruise Terminal - allow extra time for NYC traffic",
+    "destinations_served": [
+      "Caribbean",
+      "Bermuda",
+      "Canada New England",
+      "Transatlantic",
+      "Northern Europe"
+    ],
+    "busiest_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "quietest_months": [
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  "title": "Cruises from New York (Manhattan) 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.834Z"
+}

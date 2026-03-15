@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "celebrity",
+    "name": "Celebrity Cruises",
+    "parent_company": "Royal Caribbean Group",
+    "founded": 1988,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 16,
+    "known_for": "Premium experience",
+    "price_tier": "premium",
+    "best_for": [
+      "couples",
+      "food-lovers"
+    ],
+    "avg_price_7night_inside": 899,
+    "avg_price_7night_balcony": 1399,
+    "loyalty_program": "Captain's Club",
+    "key_ships": [
+      "Celebrity Beyond",
+      "Celebrity Edge",
+      "Celebrity Apex"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Caribbean",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Rome"
+    ],
+    "strengths": [
+      "Best dining",
+      "Modern design",
+      "Adult-focused"
+    ],
+    "weaknesses": [
+      "Higher prices",
+      "Limited kids facilities"
+    ],
+    "website": "https://celebritycruises.com",
+    "booking_tip": "Book Always Included fare"
+  },
+  "lineB": {
+    "slug": "cunard",
+    "name": "Cunard Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1840,
+    "headquarters": "Southampton, UK",
+    "fleet_size": 4,
+    "known_for": "Transatlantic crossings",
+    "price_tier": "luxury",
+    "best_for": [
+      "seniors",
+      "luxury-seekers"
+    ],
+    "avg_price_7night_inside": 1199,
+    "avg_price_7night_balcony": 1899,
+    "loyalty_program": "Voyages Club",
+    "key_ships": [
+      "Queen Mary 2",
+      "Queen Anne",
+      "Queen Victoria"
+    ],
+    "top_destinations": [
+      "Transatlantic",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "New York",
+      "Hamburg"
+    ],
+    "strengths": [
+      "Ocean liner QM2",
+      "Formal elegance",
+      "Enrichment"
+    ],
+    "weaknesses": [
+      "Very traditional",
+      "Expensive"
+    ],
+    "website": "https://cunard.com",
+    "booking_tip": "Book crossings early"
+  },
+  "title": "Celebrity Cruises vs Cunard Line 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.823Z"
+}

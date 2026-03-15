@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "carnival",
+    "name": "Carnival Cruise Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1972,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 27,
+    "known_for": "Fun ships, affordable",
+    "price_tier": "budget",
+    "best_for": [
+      "families",
+      "budget-travelers"
+    ],
+    "avg_price_7night_inside": 499,
+    "avg_price_7night_balcony": 799,
+    "loyalty_program": "VIFP Club",
+    "key_ships": [
+      "Carnival Celebration",
+      "Carnival Jubilee",
+      "Carnival Vista"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mexico",
+      "Bahamas"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Galveston",
+      "Port Canaveral"
+    ],
+    "strengths": [
+      "Most affordable",
+      "Fun atmosphere",
+      "Great for groups"
+    ],
+    "weaknesses": [
+      "Noisy",
+      "Average food"
+    ],
+    "website": "https://carnival.com",
+    "booking_tip": "Book early for best cabin selection"
+  },
+  "lineB": {
+    "slug": "holland-america",
+    "name": "Holland America Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1873,
+    "headquarters": "Seattle, Washington",
+    "fleet_size": 11,
+    "known_for": "Traditional cruising",
+    "price_tier": "premium",
+    "best_for": [
+      "seniors",
+      "long-cruises"
+    ],
+    "avg_price_7night_inside": 799,
+    "avg_price_7night_balcony": 1249,
+    "loyalty_program": "Mariner Society",
+    "key_ships": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Koningsdam"
+    ],
+    "top_destinations": [
+      "Alaska",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Fort Lauderdale",
+      "Amsterdam"
+    ],
+    "strengths": [
+      "Classic elegance",
+      "Long itineraries",
+      "Culinary arts"
+    ],
+    "weaknesses": [
+      "Older demographic",
+      "Less nightlife"
+    ],
+    "website": "https://hollandamerica.com",
+    "booking_tip": "Book Mariner discounts"
+  },
+  "title": "Carnival Cruise Line vs Holland America Line 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.819Z"
+}

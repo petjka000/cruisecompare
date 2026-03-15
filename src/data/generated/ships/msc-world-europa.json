@@ -1,0 +1,77 @@
+{
+  "ship": {
+    "slug": "msc-world-europa",
+    "name": "MSC World Europa",
+    "cruise_line": "MSC",
+    "year_built": 2022,
+    "last_refurb": null,
+    "gross_tonnage": 215863,
+    "passenger_capacity": 5400,
+    "crew_size": 1700,
+    "length_metres": 333,
+    "decks": 20,
+    "cabin_count": 2626,
+    "cabin_types": [
+      "Interior",
+      "Ocean View",
+      "Balcony",
+      "Junior Suite",
+      "Grand Suite",
+      "MSC Yacht Club"
+    ],
+    "neighborhoods": [
+      "The Venue",
+      "World Promenade",
+      "Pool Deck",
+      "Aurea Spa",
+      "Kids Area",
+      "Sportsplex"
+    ],
+    "dining_venues": 18,
+    "specialty_restaurants": [
+      "Kaito Teppanyaki",
+      "Butcher's Cut",
+      "Ocean Cay",
+      "Chefs' Garden"
+    ],
+    "entertainment": [
+      "Carousel at Sea",
+      "Bowling alley",
+      "F1 simulators",
+      "Aqua park"
+    ],
+    "pools": 4,
+    "water_slides": 4,
+    "casino": true,
+    "spa": true,
+    "kids_club": "Kids Club (ages 3-17)",
+    "home_ports": [
+      "Barcelona",
+      "Southampton",
+      "Dubai"
+    ],
+    "typical_itineraries": [
+      "7-night Western Mediterranean",
+      "7-night Eastern Mediterranean",
+      "7-night Arabian Gulf"
+    ],
+    "avg_inside_price_7night": 599,
+    "avg_balcony_price_7night": 899,
+    "passenger_review_score": 4.2,
+    "best_for": [
+      "Families",
+      "Value seekers",
+      "European travelers"
+    ],
+    "not_ideal_for": [
+      "Luxury seekers",
+      "Quiet atmosphere"
+    ],
+    "sister_ships": [
+      "MSC World America (2025)"
+    ],
+    "notable_feature": "Largest MSC ship with LNG power and Carousel at Sea"
+  },
+  "title": "MSC World Europa Review 2026 — Cabins, Dining, Entertainment & Tips",
+  "generated": "2026-03-15T12:15:13.831Z"
+}

@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "carnival",
+    "name": "Carnival Cruise Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1972,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 27,
+    "known_for": "Fun ships, affordable",
+    "price_tier": "budget",
+    "best_for": [
+      "families",
+      "budget-travelers"
+    ],
+    "avg_price_7night_inside": 499,
+    "avg_price_7night_balcony": 799,
+    "loyalty_program": "VIFP Club",
+    "key_ships": [
+      "Carnival Celebration",
+      "Carnival Jubilee",
+      "Carnival Vista"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mexico",
+      "Bahamas"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Galveston",
+      "Port Canaveral"
+    ],
+    "strengths": [
+      "Most affordable",
+      "Fun atmosphere",
+      "Great for groups"
+    ],
+    "weaknesses": [
+      "Noisy",
+      "Average food"
+    ],
+    "website": "https://carnival.com",
+    "booking_tip": "Book early for best cabin selection"
+  },
+  "lineB": {
+    "slug": "celebrity",
+    "name": "Celebrity Cruises",
+    "parent_company": "Royal Caribbean Group",
+    "founded": 1988,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 16,
+    "known_for": "Premium experience",
+    "price_tier": "premium",
+    "best_for": [
+      "couples",
+      "food-lovers"
+    ],
+    "avg_price_7night_inside": 899,
+    "avg_price_7night_balcony": 1399,
+    "loyalty_program": "Captain's Club",
+    "key_ships": [
+      "Celebrity Beyond",
+      "Celebrity Edge",
+      "Celebrity Apex"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Caribbean",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Rome"
+    ],
+    "strengths": [
+      "Best dining",
+      "Modern design",
+      "Adult-focused"
+    ],
+    "weaknesses": [
+      "Higher prices",
+      "Limited kids facilities"
+    ],
+    "website": "https://celebritycruises.com",
+    "booking_tip": "Book Always Included fare"
+  },
+  "title": "Carnival Cruise Line vs Celebrity Cruises 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.819Z"
+}

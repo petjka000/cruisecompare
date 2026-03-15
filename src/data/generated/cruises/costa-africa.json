@@ -1,0 +1,106 @@
+{
+  "cruiseLine": {
+    "slug": "costa",
+    "name": "Costa Cruises",
+    "parent_company": "Carnival Corporation",
+    "founded": 1854,
+    "headquarters": "Genoa, Italy",
+    "fleet_size": 9,
+    "known_for": "Italian style",
+    "price_tier": "budget",
+    "best_for": [
+      "europeans",
+      "value-seekers"
+    ],
+    "avg_price_7night_inside": 499,
+    "avg_price_7night_balcony": 799,
+    "loyalty_program": "Costa Club",
+    "key_ships": [
+      "Costa Toscana",
+      "Costa Smeralda",
+      "Costa Firenze"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Northern Europe",
+      "Caribbean"
+    ],
+    "departure_ports": [
+      "Savona",
+      "Barcelona",
+      "Civitavecchia"
+    ],
+    "strengths": [
+      "Italian experience",
+      "Great value",
+      "Family-friendly"
+    ],
+    "weaknesses": [
+      "Service varies",
+      "Crowded"
+    ],
+    "website": "https://costa.it",
+    "booking_tip": "Book Mediterranean early"
+  },
+  "destination": {
+    "slug": "africa",
+    "name": "Africa & Canaries",
+    "region": "Africa",
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "avoid_reason": "Heat, rough seas",
+    "avg_duration_nights": 10,
+    "typical_ports": [
+      {
+        "port": "Cape Town",
+        "highlight": "Table Mountain, wineries"
+      },
+      {
+        "port": "Casablanca",
+        "highlight": "Hassan II Mosque"
+      },
+      {
+        "port": "Dakar",
+        "highlight": "Goree Island"
+      },
+      {
+        "port": "Tenerife",
+        "highlight": "Mount Teide"
+      }
+    ],
+    "climate": "Variable, tropical to Mediterranean",
+    "currency_tip": "Local currencies, Euro",
+    "visa_note": "Check requirements",
+    "excursion_budget_pp": "€50-180",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Cunard",
+      "Fred Olsen"
+    ],
+    "embarkation_ports": [
+      "Cape Town",
+      "Casablanca",
+      "Barcelona",
+      "Lisbon"
+    ],
+    "sub_regions": [
+      "South Africa",
+      "North Africa",
+      "West Africa",
+      "Canaries"
+    ]
+  },
+  "title": "Costa Cruises Africa & Canaries Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.803Z"
+}

@@ -1,0 +1,107 @@
+{
+  "cruiseLine": {
+    "slug": "cunard",
+    "name": "Cunard Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1840,
+    "headquarters": "Southampton, UK",
+    "fleet_size": 4,
+    "known_for": "Transatlantic crossings",
+    "price_tier": "luxury",
+    "best_for": [
+      "seniors",
+      "luxury-seekers"
+    ],
+    "avg_price_7night_inside": 1199,
+    "avg_price_7night_balcony": 1899,
+    "loyalty_program": "Voyages Club",
+    "key_ships": [
+      "Queen Mary 2",
+      "Queen Anne",
+      "Queen Victoria"
+    ],
+    "top_destinations": [
+      "Transatlantic",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "New York",
+      "Hamburg"
+    ],
+    "strengths": [
+      "Ocean liner QM2",
+      "Formal elegance",
+      "Enrichment"
+    ],
+    "weaknesses": [
+      "Very traditional",
+      "Expensive"
+    ],
+    "website": "https://cunard.com",
+    "booking_tip": "Book crossings early"
+  },
+  "destination": {
+    "slug": "british-isles",
+    "name": "British Isles",
+    "region": "Europe",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_reason": "Cold, rough seas",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Dublin",
+        "highlight": "Guinness, Trinity College"
+      },
+      {
+        "port": "Edinburgh",
+        "highlight": "Castle, Royal Mile"
+      },
+      {
+        "port": "Belfast",
+        "highlight": "Titanic Museum"
+      },
+      {
+        "port": "Liverpool",
+        "highlight": "Beatles, waterfront"
+      }
+    ],
+    "climate": "Temperate, 10-20°C",
+    "currency_tip": "GBP, Euro in Ireland",
+    "visa_note": "UK/Ireland rules",
+    "excursion_budget_pp": "€50-150",
+    "best_cruise_lines": [
+      "P&O",
+      "Fred Olsen",
+      "Marella",
+      "Princess"
+    ],
+    "embarkation_ports": [
+      "Southampton",
+      "Dover",
+      "Liverpool",
+      "Edinburgh"
+    ],
+    "sub_regions": [
+      "Ireland",
+      "Scotland",
+      "England",
+      "Wales"
+    ]
+  },
+  "title": "Cunard Line British Isles Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.796Z"
+}

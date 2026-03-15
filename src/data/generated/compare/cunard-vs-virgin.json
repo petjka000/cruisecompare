@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "cunard",
+    "name": "Cunard Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1840,
+    "headquarters": "Southampton, UK",
+    "fleet_size": 4,
+    "known_for": "Transatlantic crossings",
+    "price_tier": "luxury",
+    "best_for": [
+      "seniors",
+      "luxury-seekers"
+    ],
+    "avg_price_7night_inside": 1199,
+    "avg_price_7night_balcony": 1899,
+    "loyalty_program": "Voyages Club",
+    "key_ships": [
+      "Queen Mary 2",
+      "Queen Anne",
+      "Queen Victoria"
+    ],
+    "top_destinations": [
+      "Transatlantic",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "New York",
+      "Hamburg"
+    ],
+    "strengths": [
+      "Ocean liner QM2",
+      "Formal elegance",
+      "Enrichment"
+    ],
+    "weaknesses": [
+      "Very traditional",
+      "Expensive"
+    ],
+    "website": "https://cunard.com",
+    "booking_tip": "Book crossings early"
+  },
+  "lineB": {
+    "slug": "virgin",
+    "name": "Virgin Voyages",
+    "parent_company": "Virgin Group",
+    "founded": 2020,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 4,
+    "known_for": "Adults-only, modern",
+    "price_tier": "premium",
+    "best_for": [
+      "adults",
+      "couples"
+    ],
+    "avg_price_7night_inside": 999,
+    "avg_price_7night_balcony": 1499,
+    "loyalty_program": "Sailor Club",
+    "key_ships": [
+      "Scarlet Lady",
+      "Valiant Lady",
+      "Resilient Lady"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Northern Europe"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Adults-only",
+      "All dining included",
+      "Modern design"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Small fleet"
+    ],
+    "website": "https://virginvoyages.com",
+    "booking_tip": "Book Sea View cabins"
+  },
+  "title": "Cunard Line vs Virgin Voyages 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.827Z"
+}

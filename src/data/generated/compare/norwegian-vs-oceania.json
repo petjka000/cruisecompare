@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "norwegian",
+    "name": "Norwegian Cruise Line",
+    "parent_company": "NCL Holdings",
+    "founded": 1966,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 19,
+    "known_for": "Freestyle cruising",
+    "price_tier": "mid-range",
+    "best_for": [
+      "families",
+      "solo-travelers"
+    ],
+    "avg_price_7night_inside": 649,
+    "avg_price_7night_balcony": 999,
+    "loyalty_program": "Latitudes Rewards",
+    "key_ships": [
+      "Norwegian Prima",
+      "Norwegian Encore",
+      "Norwegian Epic"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Miami",
+      "New York",
+      "Seattle"
+    ],
+    "strengths": [
+      "Flexible dining",
+      "Solo cabins",
+      "Broadway shows"
+    ],
+    "weaknesses": [
+      "Inconsistent food",
+      "Extra charges"
+    ],
+    "website": "https://ncl.com",
+    "booking_tip": "Look for Free at Sea promotions"
+  },
+  "lineB": {
+    "slug": "oceania",
+    "name": "Oceania Cruises",
+    "parent_company": "Norwegian Cruise Line Holdings",
+    "founded": 2002,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 6,
+    "known_for": "Culinary focus",
+    "price_tier": "luxury",
+    "best_for": [
+      "food-lovers",
+      "seniors"
+    ],
+    "avg_price_7night_inside": 1299,
+    "avg_price_7night_balcony": 1999,
+    "loyalty_program": "Oceania Club",
+    "key_ships": [
+      "Vista",
+      "Marina",
+      "Riviera"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Northern Europe",
+      "Asia"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens"
+    ],
+    "strengths": [
+      "Best cuisine",
+      "Intimate ships",
+      "Destination-focused"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Older ships"
+    ],
+    "website": "https://oceaniacruises.com",
+    "booking_tip": "Book culinary voyages"
+  },
+  "title": "Norwegian Cruise Line vs Oceania Cruises 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.822Z"
+}

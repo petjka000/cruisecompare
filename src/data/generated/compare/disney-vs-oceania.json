@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "disney",
+    "name": "Disney Cruise Line",
+    "parent_company": "Disney",
+    "founded": 1995,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 6,
+    "known_for": "Disney magic",
+    "price_tier": "premium",
+    "best_for": [
+      "families",
+      "disney-fans"
+    ],
+    "avg_price_7night_inside": 1299,
+    "avg_price_7night_balcony": 1899,
+    "loyalty_program": "Castaway Club",
+    "key_ships": [
+      "Disney Wish",
+      "Disney Treasure",
+      "Disney Dream"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Alaska",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Port Canaveral",
+      "Miami",
+      "Vancouver"
+    ],
+    "strengths": [
+      "Disney characters",
+      "Family cabins",
+      "Private island"
+    ],
+    "weaknesses": [
+      "Expensive",
+      "Kids-focused"
+    ],
+    "website": "https://disneycruise.com",
+    "booking_tip": "Book 18 months ahead"
+  },
+  "lineB": {
+    "slug": "oceania",
+    "name": "Oceania Cruises",
+    "parent_company": "Norwegian Cruise Line Holdings",
+    "founded": 2002,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 6,
+    "known_for": "Culinary focus",
+    "price_tier": "luxury",
+    "best_for": [
+      "food-lovers",
+      "seniors"
+    ],
+    "avg_price_7night_inside": 1299,
+    "avg_price_7night_balcony": 1999,
+    "loyalty_program": "Oceania Club",
+    "key_ships": [
+      "Vista",
+      "Marina",
+      "Riviera"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Northern Europe",
+      "Asia"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens"
+    ],
+    "strengths": [
+      "Best cuisine",
+      "Intimate ships",
+      "Destination-focused"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Older ships"
+    ],
+    "website": "https://oceaniacruises.com",
+    "booking_tip": "Book culinary voyages"
+  },
+  "title": "Disney Cruise Line vs Oceania Cruises 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.829Z"
+}

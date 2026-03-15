@@ -1,0 +1,44 @@
+{
+  "port": {
+    "slug": "lisbon",
+    "name": "Lisbon",
+    "country": "Portugal",
+    "iata_nearby": "LIS",
+    "terminal_count": 4,
+    "cruise_lines_operating": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Norwegian",
+      "Celebrity",
+      "Princess",
+      "Holland America",
+      "P&O"
+    ],
+    "train_from_city": "Metro or taxi 20min",
+    "parking_cost_per_day": "€15-20",
+    "nearest_airport": "Lisbon Portela (20min)",
+    "hotel_tip": "Myriad by SANA from €100",
+    "embarkation_tip": "Terminal Santa Apolonia most central",
+    "destinations_served": [
+      "Mediterranean",
+      "Transatlantic",
+      "Canary Islands",
+      "Northern Europe",
+      "British Isles"
+    ],
+    "busiest_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "quietest_months": [
+      "January",
+      "February",
+      "November"
+    ]
+  },
+  "title": "Cruises from Lisbon 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.833Z"
+}

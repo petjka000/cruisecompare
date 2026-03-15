@@ -1,0 +1,103 @@
+{
+  "cruiseLine": {
+    "slug": "costa",
+    "name": "Costa Cruises",
+    "parent_company": "Carnival Corporation",
+    "founded": 1854,
+    "headquarters": "Genoa, Italy",
+    "fleet_size": 9,
+    "known_for": "Italian style",
+    "price_tier": "budget",
+    "best_for": [
+      "europeans",
+      "value-seekers"
+    ],
+    "avg_price_7night_inside": 499,
+    "avg_price_7night_balcony": 799,
+    "loyalty_program": "Costa Club",
+    "key_ships": [
+      "Costa Toscana",
+      "Costa Smeralda",
+      "Costa Firenze"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Northern Europe",
+      "Caribbean"
+    ],
+    "departure_ports": [
+      "Savona",
+      "Barcelona",
+      "Civitavecchia"
+    ],
+    "strengths": [
+      "Italian experience",
+      "Great value",
+      "Family-friendly"
+    ],
+    "weaknesses": [
+      "Service varies",
+      "Crowded"
+    ],
+    "website": "https://costa.it",
+    "booking_tip": "Book Mediterranean early"
+  },
+  "destination": {
+    "slug": "norwegian-fjords",
+    "name": "Norwegian Fjords",
+    "region": "Europe",
+    "best_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January"
+    ],
+    "avoid_reason": "Dark, cold, closures",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Flam",
+        "highlight": "Scenic railway"
+      },
+      {
+        "port": "Geiranger",
+        "highlight": "UNESCO fjord"
+      },
+      {
+        "port": "Stavanger",
+        "highlight": "Pulpit Rock"
+      },
+      {
+        "port": "Bergen",
+        "highlight": "Bryggen wharf"
+      }
+    ],
+    "climate": "Cool summers, 5-20°C",
+    "currency_tip": "Norwegian Krone",
+    "visa_note": "Schengen rules",
+    "excursion_budget_pp": "€80-250",
+    "best_cruise_lines": [
+      "P&O",
+      "Cunard",
+      "MSC",
+      "Costa"
+    ],
+    "embarkation_ports": [
+      "Southampton",
+      "Hamburg",
+      "Copenhagen",
+      "Amsterdam"
+    ],
+    "sub_regions": [
+      "Sognefjord",
+      "Geirangerfjord",
+      "Hardangerfjord"
+    ]
+  },
+  "title": "Costa Cruises Norwegian Fjords Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.801Z"
+}

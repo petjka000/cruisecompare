@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "holland-america",
+    "name": "Holland America Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1873,
+    "headquarters": "Seattle, Washington",
+    "fleet_size": 11,
+    "known_for": "Traditional cruising",
+    "price_tier": "premium",
+    "best_for": [
+      "seniors",
+      "long-cruises"
+    ],
+    "avg_price_7night_inside": 799,
+    "avg_price_7night_balcony": 1249,
+    "loyalty_program": "Mariner Society",
+    "key_ships": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Koningsdam"
+    ],
+    "top_destinations": [
+      "Alaska",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Fort Lauderdale",
+      "Amsterdam"
+    ],
+    "strengths": [
+      "Classic elegance",
+      "Long itineraries",
+      "Culinary arts"
+    ],
+    "weaknesses": [
+      "Older demographic",
+      "Less nightlife"
+    ],
+    "website": "https://hollandamerica.com",
+    "booking_tip": "Book Mariner discounts"
+  },
+  "lineB": {
+    "slug": "disney",
+    "name": "Disney Cruise Line",
+    "parent_company": "Disney",
+    "founded": 1995,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 6,
+    "known_for": "Disney magic",
+    "price_tier": "premium",
+    "best_for": [
+      "families",
+      "disney-fans"
+    ],
+    "avg_price_7night_inside": 1299,
+    "avg_price_7night_balcony": 1899,
+    "loyalty_program": "Castaway Club",
+    "key_ships": [
+      "Disney Wish",
+      "Disney Treasure",
+      "Disney Dream"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Alaska",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Port Canaveral",
+      "Miami",
+      "Vancouver"
+    ],
+    "strengths": [
+      "Disney characters",
+      "Family cabins",
+      "Private island"
+    ],
+    "weaknesses": [
+      "Expensive",
+      "Kids-focused"
+    ],
+    "website": "https://disneycruise.com",
+    "booking_tip": "Book 18 months ahead"
+  },
+  "title": "Holland America Line vs Disney Cruise Line 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.826Z"
+}

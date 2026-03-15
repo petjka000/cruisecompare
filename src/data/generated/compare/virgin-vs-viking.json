@@ -1,0 +1,91 @@
+{
+  "lineA": {
+    "slug": "virgin",
+    "name": "Virgin Voyages",
+    "parent_company": "Virgin Group",
+    "founded": 2020,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 4,
+    "known_for": "Adults-only, modern",
+    "price_tier": "premium",
+    "best_for": [
+      "adults",
+      "couples"
+    ],
+    "avg_price_7night_inside": 999,
+    "avg_price_7night_balcony": 1499,
+    "loyalty_program": "Sailor Club",
+    "key_ships": [
+      "Scarlet Lady",
+      "Valiant Lady",
+      "Resilient Lady"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Northern Europe"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Adults-only",
+      "All dining included",
+      "Modern design"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Small fleet"
+    ],
+    "website": "https://virginvoyages.com",
+    "booking_tip": "Book Sea View cabins"
+  },
+  "lineB": {
+    "slug": "viking",
+    "name": "Viking Cruises",
+    "parent_company": "Viking",
+    "founded": 1997,
+    "headquarters": "Basel, Switzerland",
+    "fleet_size": 6,
+    "known_for": "Adults-only ocean",
+    "price_tier": "premium",
+    "best_for": [
+      "seniors",
+      "cultural-travelers"
+    ],
+    "avg_price_7night_inside": 1499,
+    "avg_price_7night_balcony": 2199,
+    "loyalty_program": "Viking Explorer Society",
+    "key_ships": [
+      "Viking Neptune",
+      "Viking Jupiter",
+      "Viking Star"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Northern Europe",
+      "Caribbean"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens"
+    ],
+    "strengths": [
+      "Adults-only",
+      "Included excursions",
+      "Cultural focus"
+    ],
+    "weaknesses": [
+      "No kids",
+      "No casino",
+      "Expensive"
+    ],
+    "website": "https://vikingcruises.com",
+    "booking_tip": "Book early for discounts"
+  },
+  "title": "Virgin Voyages vs Viking Cruises 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.829Z"
+}

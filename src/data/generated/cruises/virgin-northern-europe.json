@@ -1,0 +1,105 @@
+{
+  "cruiseLine": {
+    "slug": "virgin",
+    "name": "Virgin Voyages",
+    "parent_company": "Virgin Group",
+    "founded": 2020,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 4,
+    "known_for": "Adults-only, modern",
+    "price_tier": "premium",
+    "best_for": [
+      "adults",
+      "couples"
+    ],
+    "avg_price_7night_inside": 999,
+    "avg_price_7night_balcony": 1499,
+    "loyalty_program": "Sailor Club",
+    "key_ships": [
+      "Scarlet Lady",
+      "Valiant Lady",
+      "Resilient Lady"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Northern Europe"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Adults-only",
+      "All dining included",
+      "Modern design"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Small fleet"
+    ],
+    "website": "https://virginvoyages.com",
+    "booking_tip": "Book Sea View cabins"
+  },
+  "destination": {
+    "slug": "northern-europe",
+    "name": "Northern Europe",
+    "region": "Europe",
+    "best_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_reason": "Very cold, dark",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Copenhagen",
+        "highlight": "Nyhavn, design"
+      },
+      {
+        "port": "Stockholm",
+        "highlight": "Archipelago"
+      },
+      {
+        "port": "Oslo",
+        "highlight": "Fjord museums"
+      },
+      {
+        "port": "Helsinki",
+        "highlight": "Design, fortress"
+      }
+    ],
+    "climate": "Cool, 10-22°C",
+    "currency_tip": "Euros, local currencies",
+    "visa_note": "Schengen",
+    "excursion_budget_pp": "€60-180",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Celebrity"
+    ],
+    "embarkation_ports": [
+      "Copenhagen",
+      "Stockholm",
+      "Amsterdam",
+      "Hamburg"
+    ],
+    "sub_regions": [
+      "Scandinavia",
+      "Baltic",
+      "North Sea"
+    ]
+  },
+  "title": "Virgin Voyages Northern Europe Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.806Z"
+}

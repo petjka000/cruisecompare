@@ -1,0 +1,107 @@
+{
+  "cruiseLine": {
+    "slug": "p-and-o",
+    "name": "P&O Cruises",
+    "parent_company": "Carnival UK",
+    "founded": 1837,
+    "headquarters": "Southampton, UK",
+    "fleet_size": 7,
+    "known_for": "British style cruising",
+    "price_tier": "mid-range",
+    "best_for": [
+      "british-families",
+      "couples"
+    ],
+    "avg_price_7night_inside": 649,
+    "avg_price_7night_balcony": 1049,
+    "loyalty_program": "Peninsula Club",
+    "key_ships": [
+      "Iona",
+      "Arvia",
+      "Ventura"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Canary Islands",
+      "Norwegian Fjords"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Dover",
+      "Tilbury"
+    ],
+    "strengths": [
+      "British style",
+      "No-fly cruises",
+      "Family-friendly"
+    ],
+    "weaknesses": [
+      "UK only",
+      "Dated ships"
+    ],
+    "website": "https://pocruises.com",
+    "booking_tip": "Book early for school holidays"
+  },
+  "destination": {
+    "slug": "indian-ocean",
+    "name": "Indian Ocean",
+    "region": "Indian Ocean",
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "avoid_reason": "Monsoon season",
+    "avg_duration_nights": 10,
+    "typical_ports": [
+      {
+        "port": "Mauritius",
+        "highlight": "Beaches, mountains"
+      },
+      {
+        "port": "Seychelles",
+        "highlight": "Pristine beaches"
+      },
+      {
+        "port": "Reunion",
+        "highlight": "Volcano, hiking"
+      },
+      {
+        "port": "Madagascar",
+        "highlight": "Lemurs, unique wildlife"
+      }
+    ],
+    "climate": "Tropical, 25-32°C",
+    "currency_tip": "Local currencies, Euro",
+    "visa_note": "Check each island",
+    "excursion_budget_pp": "€50-150",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Cunard",
+      "Fred Olsen"
+    ],
+    "embarkation_ports": [
+      "Dubai",
+      "Mauritius",
+      "Seychelles",
+      "Cape Town"
+    ],
+    "sub_regions": [
+      "Mauritius",
+      "Seychelles",
+      "Madagascar",
+      "Reunion"
+    ]
+  },
+  "title": "P&O Cruises Indian Ocean Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.800Z"
+}

@@ -1,0 +1,40 @@
+{
+  "port": {
+    "slug": "new-orleans",
+    "name": "New Orleans",
+    "country": "United States",
+    "iata_nearby": "MSY",
+    "terminal_count": 2,
+    "cruise_lines_operating": [
+      "Carnival",
+      "Royal Caribbean",
+      "Norwegian",
+      "Celebrity",
+      "Princess",
+      "Holland America",
+      "Disney"
+    ],
+    "train_from_city": "Taxi 25min $35-40",
+    "parking_cost_per_day": "$20-25",
+    "nearest_airport": "Louis Armstrong (30min)",
+    "hotel_tip": "The Roosevelt from $180",
+    "embarkation_tip": "Julia Street or Erato Street terminals",
+    "destinations_served": [
+      "Caribbean",
+      "Western Caribbean",
+      "Southern Caribbean"
+    ],
+    "busiest_months": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "quietest_months": [
+      "August",
+      "September"
+    ]
+  },
+  "title": "Cruises from New Orleans 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.834Z"
+}

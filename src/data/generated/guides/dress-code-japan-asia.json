@@ -1,0 +1,68 @@
+{
+  "type": {
+    "slug": "dress-code",
+    "name": "Dress Code Guide"
+  },
+  "destination": {
+    "slug": "japan-asia",
+    "name": "Japan & Asia",
+    "region": "Asia",
+    "best_months": [
+      "March",
+      "April",
+      "May",
+      "October",
+      "November"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "avoid_reason": "Typhoon season, heat",
+    "avg_duration_nights": 10,
+    "typical_ports": [
+      {
+        "port": "Tokyo",
+        "highlight": "Modern meets traditional"
+      },
+      {
+        "port": "Kyoto",
+        "highlight": "Temples, geisha"
+      },
+      {
+        "port": "Osaka",
+        "highlight": "Food, castle"
+      },
+      {
+        "port": "Shanghai",
+        "highlight": "Bund, Yu Garden"
+      }
+    ],
+    "climate": "Temperate, variable",
+    "currency_tip": "Yen, local currencies",
+    "visa_note": "Check requirements",
+    "excursion_budget_pp": "€50-150",
+    "best_cruise_lines": [
+      "Celebrity",
+      "Princess",
+      "Holland America",
+      "MSC"
+    ],
+    "embarkation_ports": [
+      "Tokyo",
+      "Yokohama",
+      "Shanghai",
+      "Singapore"
+    ],
+    "sub_regions": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Taiwan"
+    ]
+  },
+  "title": "Dress Code Guide for Japan & Asia Cruise 2026",
+  "generated": "2026-03-15T12:15:13.845Z"
+}

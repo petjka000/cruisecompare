@@ -1,0 +1,107 @@
+{
+  "cruiseLine": {
+    "slug": "cunard",
+    "name": "Cunard Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1840,
+    "headquarters": "Southampton, UK",
+    "fleet_size": 4,
+    "known_for": "Transatlantic crossings",
+    "price_tier": "luxury",
+    "best_for": [
+      "seniors",
+      "luxury-seekers"
+    ],
+    "avg_price_7night_inside": 1199,
+    "avg_price_7night_balcony": 1899,
+    "loyalty_program": "Voyages Club",
+    "key_ships": [
+      "Queen Mary 2",
+      "Queen Anne",
+      "Queen Victoria"
+    ],
+    "top_destinations": [
+      "Transatlantic",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "New York",
+      "Hamburg"
+    ],
+    "strengths": [
+      "Ocean liner QM2",
+      "Formal elegance",
+      "Enrichment"
+    ],
+    "weaknesses": [
+      "Very traditional",
+      "Expensive"
+    ],
+    "website": "https://cunard.com",
+    "booking_tip": "Book crossings early"
+  },
+  "destination": {
+    "slug": "japan-asia",
+    "name": "Japan & Asia",
+    "region": "Asia",
+    "best_months": [
+      "March",
+      "April",
+      "May",
+      "October",
+      "November"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "avoid_reason": "Typhoon season, heat",
+    "avg_duration_nights": 10,
+    "typical_ports": [
+      {
+        "port": "Tokyo",
+        "highlight": "Modern meets traditional"
+      },
+      {
+        "port": "Kyoto",
+        "highlight": "Temples, geisha"
+      },
+      {
+        "port": "Osaka",
+        "highlight": "Food, castle"
+      },
+      {
+        "port": "Shanghai",
+        "highlight": "Bund, Yu Garden"
+      }
+    ],
+    "climate": "Temperate, variable",
+    "currency_tip": "Yen, local currencies",
+    "visa_note": "Check requirements",
+    "excursion_budget_pp": "€50-150",
+    "best_cruise_lines": [
+      "Celebrity",
+      "Princess",
+      "Holland America",
+      "MSC"
+    ],
+    "embarkation_ports": [
+      "Tokyo",
+      "Yokohama",
+      "Shanghai",
+      "Singapore"
+    ],
+    "sub_regions": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Taiwan"
+    ]
+  },
+  "title": "Cunard Line Japan & Asia Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.798Z"
+}

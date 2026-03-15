@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "virgin",
+    "name": "Virgin Voyages",
+    "parent_company": "Virgin Group",
+    "founded": 2020,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 4,
+    "known_for": "Adults-only, modern",
+    "price_tier": "premium",
+    "best_for": [
+      "adults",
+      "couples"
+    ],
+    "avg_price_7night_inside": 999,
+    "avg_price_7night_balcony": 1499,
+    "loyalty_program": "Sailor Club",
+    "key_ships": [
+      "Scarlet Lady",
+      "Valiant Lady",
+      "Resilient Lady"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Northern Europe"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Adults-only",
+      "All dining included",
+      "Modern design"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Small fleet"
+    ],
+    "website": "https://virginvoyages.com",
+    "booking_tip": "Book Sea View cabins"
+  },
+  "lineB": {
+    "slug": "regent",
+    "name": "Regent Seven Seas",
+    "parent_company": "Norwegian Cruise Line Holdings",
+    "founded": 1992,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 5,
+    "known_for": "All-inclusive luxury",
+    "price_tier": "luxury",
+    "best_for": [
+      "luxury-seekers",
+      "seniors"
+    ],
+    "avg_price_7night_inside": 2499,
+    "avg_price_7night_balcony": 3999,
+    "loyalty_program": "Regent Ambassador",
+    "key_ships": [
+      "Seven Seas Grandeur",
+      "Seven Seas Splendor",
+      "Seven Seas Explorer"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "World Cruises",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens"
+    ],
+    "strengths": [
+      "All-inclusive",
+      "Luxury suites",
+      "Included excursions"
+    ],
+    "weaknesses": [
+      "Very expensive",
+      "Older demographic"
+    ],
+    "website": "https://rssc.com",
+    "booking_tip": "Book 2-for-1 fares"
+  },
+  "title": "Virgin Voyages vs Regent Seven Seas 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.829Z"
+}

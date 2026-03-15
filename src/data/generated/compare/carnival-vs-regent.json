@@ -1,0 +1,90 @@
+{
+  "lineA": {
+    "slug": "carnival",
+    "name": "Carnival Cruise Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1972,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 27,
+    "known_for": "Fun ships, affordable",
+    "price_tier": "budget",
+    "best_for": [
+      "families",
+      "budget-travelers"
+    ],
+    "avg_price_7night_inside": 499,
+    "avg_price_7night_balcony": 799,
+    "loyalty_program": "VIFP Club",
+    "key_ships": [
+      "Carnival Celebration",
+      "Carnival Jubilee",
+      "Carnival Vista"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mexico",
+      "Bahamas"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Galveston",
+      "Port Canaveral"
+    ],
+    "strengths": [
+      "Most affordable",
+      "Fun atmosphere",
+      "Great for groups"
+    ],
+    "weaknesses": [
+      "Noisy",
+      "Average food"
+    ],
+    "website": "https://carnival.com",
+    "booking_tip": "Book early for best cabin selection"
+  },
+  "lineB": {
+    "slug": "regent",
+    "name": "Regent Seven Seas",
+    "parent_company": "Norwegian Cruise Line Holdings",
+    "founded": 1992,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 5,
+    "known_for": "All-inclusive luxury",
+    "price_tier": "luxury",
+    "best_for": [
+      "luxury-seekers",
+      "seniors"
+    ],
+    "avg_price_7night_inside": 2499,
+    "avg_price_7night_balcony": 3999,
+    "loyalty_program": "Regent Ambassador",
+    "key_ships": [
+      "Seven Seas Grandeur",
+      "Seven Seas Splendor",
+      "Seven Seas Explorer"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "World Cruises",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens"
+    ],
+    "strengths": [
+      "All-inclusive",
+      "Luxury suites",
+      "Included excursions"
+    ],
+    "weaknesses": [
+      "Very expensive",
+      "Older demographic"
+    ],
+    "website": "https://rssc.com",
+    "booking_tip": "Book 2-for-1 fares"
+  },
+  "title": "Carnival Cruise Line vs Regent Seven Seas 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.821Z"
+}

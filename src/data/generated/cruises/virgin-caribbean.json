@@ -1,0 +1,104 @@
+{
+  "cruiseLine": {
+    "slug": "virgin",
+    "name": "Virgin Voyages",
+    "parent_company": "Virgin Group",
+    "founded": 2020,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 4,
+    "known_for": "Adults-only, modern",
+    "price_tier": "premium",
+    "best_for": [
+      "adults",
+      "couples"
+    ],
+    "avg_price_7night_inside": 999,
+    "avg_price_7night_balcony": 1499,
+    "loyalty_program": "Sailor Club",
+    "key_ships": [
+      "Scarlet Lady",
+      "Valiant Lady",
+      "Resilient Lady"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Northern Europe"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Adults-only",
+      "All dining included",
+      "Modern design"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Small fleet"
+    ],
+    "website": "https://virginvoyages.com",
+    "booking_tip": "Book Sea View cabins"
+  },
+  "destination": {
+    "slug": "caribbean",
+    "name": "Caribbean",
+    "region": "Americas",
+    "best_months": [
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "avoid_months": [
+      "August",
+      "September"
+    ],
+    "avoid_reason": "Hurricane season",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Cozumel",
+        "highlight": "Snorkelling, Mayan ruins"
+      },
+      {
+        "port": "Nassau",
+        "highlight": "Cable Beach, Atlantis"
+      },
+      {
+        "port": "St. Maarten",
+        "highlight": "Shopping, dual culture"
+      },
+      {
+        "port": "Grand Cayman",
+        "highlight": "Stingray City"
+      }
+    ],
+    "climate": "Tropical, 25-32°C year-round",
+    "currency_tip": "USD widely accepted",
+    "visa_note": "Most islands visa-free",
+    "excursion_budget_pp": "€40-150",
+    "best_cruise_lines": [
+      "Royal Caribbean",
+      "Carnival",
+      "Norwegian",
+      "MSC"
+    ],
+    "embarkation_ports": [
+      "Miami",
+      "Fort Lauderdale",
+      "San Juan",
+      "Galveston"
+    ],
+    "sub_regions": [
+      "Eastern Caribbean",
+      "Western Caribbean",
+      "Southern Caribbean"
+    ]
+  },
+  "title": "Virgin Voyages Caribbean Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.805Z"
+}

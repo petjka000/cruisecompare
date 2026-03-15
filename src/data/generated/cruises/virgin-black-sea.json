@@ -1,0 +1,106 @@
+{
+  "cruiseLine": {
+    "slug": "virgin",
+    "name": "Virgin Voyages",
+    "parent_company": "Virgin Group",
+    "founded": 2020,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 4,
+    "known_for": "Adults-only, modern",
+    "price_tier": "premium",
+    "best_for": [
+      "adults",
+      "couples"
+    ],
+    "avg_price_7night_inside": 999,
+    "avg_price_7night_balcony": 1499,
+    "loyalty_program": "Sailor Club",
+    "key_ships": [
+      "Scarlet Lady",
+      "Valiant Lady",
+      "Resilient Lady"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mediterranean",
+      "Northern Europe"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "strengths": [
+      "Adults-only",
+      "All dining included",
+      "Modern design"
+    ],
+    "weaknesses": [
+      "No kids",
+      "Small fleet"
+    ],
+    "website": "https://virginvoyages.com",
+    "booking_tip": "Book Sea View cabins"
+  },
+  "destination": {
+    "slug": "black-sea",
+    "name": "Black Sea",
+    "region": "Europe",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_reason": "Cold, rough seas",
+    "avg_duration_nights": 10,
+    "typical_ports": [
+      {
+        "port": "Istanbul",
+        "highlight": "Hagia Sophia, Bosphorus"
+      },
+      {
+        "port": "Odessa",
+        "highlight": "Opera, Potemkin Steps"
+      },
+      {
+        "port": "Sochi",
+        "highlight": "Olympic venues"
+      },
+      {
+        "port": "Batumi",
+        "highlight": "Casino, botanical garden"
+      }
+    ],
+    "climate": "Temperate, 15-28°C",
+    "currency_tip": "Local currencies",
+    "visa_note": "Check requirements",
+    "excursion_budget_pp": "€40-120",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Seabourn",
+      "Azamara"
+    ],
+    "embarkation_ports": [
+      "Istanbul",
+      "Athens",
+      "Odessa",
+      "Sochi"
+    ],
+    "sub_regions": [
+      "Turkey",
+      "Ukraine",
+      "Russia",
+      "Georgia"
+    ]
+  },
+  "title": "Virgin Voyages Black Sea Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.807Z"
+}

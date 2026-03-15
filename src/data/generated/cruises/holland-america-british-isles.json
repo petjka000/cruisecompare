@@ -1,0 +1,107 @@
+{
+  "cruiseLine": {
+    "slug": "holland-america",
+    "name": "Holland America Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1873,
+    "headquarters": "Seattle, Washington",
+    "fleet_size": 11,
+    "known_for": "Traditional cruising",
+    "price_tier": "premium",
+    "best_for": [
+      "seniors",
+      "long-cruises"
+    ],
+    "avg_price_7night_inside": 799,
+    "avg_price_7night_balcony": 1249,
+    "loyalty_program": "Mariner Society",
+    "key_ships": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Koningsdam"
+    ],
+    "top_destinations": [
+      "Alaska",
+      "World Cruises",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Fort Lauderdale",
+      "Amsterdam"
+    ],
+    "strengths": [
+      "Classic elegance",
+      "Long itineraries",
+      "Culinary arts"
+    ],
+    "weaknesses": [
+      "Older demographic",
+      "Less nightlife"
+    ],
+    "website": "https://hollandamerica.com",
+    "booking_tip": "Book Mariner discounts"
+  },
+  "destination": {
+    "slug": "british-isles",
+    "name": "British Isles",
+    "region": "Europe",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_reason": "Cold, rough seas",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Dublin",
+        "highlight": "Guinness, Trinity College"
+      },
+      {
+        "port": "Edinburgh",
+        "highlight": "Castle, Royal Mile"
+      },
+      {
+        "port": "Belfast",
+        "highlight": "Titanic Museum"
+      },
+      {
+        "port": "Liverpool",
+        "highlight": "Beatles, waterfront"
+      }
+    ],
+    "climate": "Temperate, 10-20°C",
+    "currency_tip": "GBP, Euro in Ireland",
+    "visa_note": "UK/Ireland rules",
+    "excursion_budget_pp": "€50-150",
+    "best_cruise_lines": [
+      "P&O",
+      "Fred Olsen",
+      "Marella",
+      "Princess"
+    ],
+    "embarkation_ports": [
+      "Southampton",
+      "Dover",
+      "Liverpool",
+      "Edinburgh"
+    ],
+    "sub_regions": [
+      "Ireland",
+      "Scotland",
+      "England",
+      "Wales"
+    ]
+  },
+  "title": "Holland America Line British Isles Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.794Z"
+}

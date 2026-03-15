@@ -1,0 +1,43 @@
+{
+  "port": {
+    "slug": "copenhagen",
+    "name": "Copenhagen",
+    "country": "Denmark",
+    "iata_nearby": "CPH",
+    "terminal_count": 4,
+    "cruise_lines_operating": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Norwegian",
+      "Celebrity",
+      "Princess",
+      "Holland America",
+      "P&O"
+    ],
+    "train_from_city": "Metro or taxi 20min",
+    "parking_cost_per_day": "€25-35",
+    "nearest_airport": "Copenhagen Airport (15min)",
+    "hotel_tip": "Copenhagen Admiral from €120",
+    "embarkation_tip": "Oceankaj terminal most common",
+    "destinations_served": [
+      "Baltic",
+      "Norwegian Fjords",
+      "Northern Europe",
+      "British Isles",
+      "Transatlantic"
+    ],
+    "busiest_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "quietest_months": [
+      "November",
+      "December",
+      "January"
+    ]
+  },
+  "title": "Cruises from Copenhagen 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.833Z"
+}

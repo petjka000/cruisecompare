@@ -1,0 +1,41 @@
+{
+  "port": {
+    "slug": "vancouver",
+    "name": "Vancouver",
+    "country": "Canada",
+    "iata_nearby": "YVR",
+    "terminal_count": 2,
+    "cruise_lines_operating": [
+      "Princess",
+      "Holland America",
+      "Norwegian",
+      "Royal Caribbean",
+      "Celebrity",
+      "Cunard",
+      "Disney"
+    ],
+    "train_from_city": "Canada Line + taxi 30min",
+    "parking_cost_per_day": "CAD $25-35",
+    "nearest_airport": "Vancouver International (30min)",
+    "hotel_tip": "Fairmont Waterfront from CAD $200",
+    "embarkation_tip": "Canada Place is iconic and efficient",
+    "destinations_served": [
+      "Alaska",
+      "Inside Passage",
+      "Gulf of Alaska",
+      "Pacific Coastal"
+    ],
+    "busiest_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "quietest_months": [
+      "October",
+      "November",
+      "December"
+    ]
+  },
+  "title": "Cruises from Vancouver 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.834Z"
+}

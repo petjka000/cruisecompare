@@ -1,0 +1,107 @@
+{
+  "cruiseLine": {
+    "slug": "regent",
+    "name": "Regent Seven Seas",
+    "parent_company": "Norwegian Cruise Line Holdings",
+    "founded": 1992,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 5,
+    "known_for": "All-inclusive luxury",
+    "price_tier": "luxury",
+    "best_for": [
+      "luxury-seekers",
+      "seniors"
+    ],
+    "avg_price_7night_inside": 2499,
+    "avg_price_7night_balcony": 3999,
+    "loyalty_program": "Regent Ambassador",
+    "key_ships": [
+      "Seven Seas Grandeur",
+      "Seven Seas Splendor",
+      "Seven Seas Explorer"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "World Cruises",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens"
+    ],
+    "strengths": [
+      "All-inclusive",
+      "Luxury suites",
+      "Included excursions"
+    ],
+    "weaknesses": [
+      "Very expensive",
+      "Older demographic"
+    ],
+    "website": "https://rssc.com",
+    "booking_tip": "Book 2-for-1 fares"
+  },
+  "destination": {
+    "slug": "british-isles",
+    "name": "British Isles",
+    "region": "Europe",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_reason": "Cold, rough seas",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Dublin",
+        "highlight": "Guinness, Trinity College"
+      },
+      {
+        "port": "Edinburgh",
+        "highlight": "Castle, Royal Mile"
+      },
+      {
+        "port": "Belfast",
+        "highlight": "Titanic Museum"
+      },
+      {
+        "port": "Liverpool",
+        "highlight": "Beatles, waterfront"
+      }
+    ],
+    "climate": "Temperate, 10-20°C",
+    "currency_tip": "GBP, Euro in Ireland",
+    "visa_note": "UK/Ireland rules",
+    "excursion_budget_pp": "€50-150",
+    "best_cruise_lines": [
+      "P&O",
+      "Fred Olsen",
+      "Marella",
+      "Princess"
+    ],
+    "embarkation_ports": [
+      "Southampton",
+      "Dover",
+      "Liverpool",
+      "Edinburgh"
+    ],
+    "sub_regions": [
+      "Ireland",
+      "Scotland",
+      "England",
+      "Wales"
+    ]
+  },
+  "title": "Regent Seven Seas British Isles Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.813Z"
+}

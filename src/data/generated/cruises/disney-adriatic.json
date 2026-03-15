@@ -1,0 +1,103 @@
+{
+  "cruiseLine": {
+    "slug": "disney",
+    "name": "Disney Cruise Line",
+    "parent_company": "Disney",
+    "founded": 1995,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 6,
+    "known_for": "Disney magic",
+    "price_tier": "premium",
+    "best_for": [
+      "families",
+      "disney-fans"
+    ],
+    "avg_price_7night_inside": 1299,
+    "avg_price_7night_balcony": 1899,
+    "loyalty_program": "Castaway Club",
+    "key_ships": [
+      "Disney Wish",
+      "Disney Treasure",
+      "Disney Dream"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Alaska",
+      "Mediterranean"
+    ],
+    "departure_ports": [
+      "Port Canaveral",
+      "Miami",
+      "Vancouver"
+    ],
+    "strengths": [
+      "Disney characters",
+      "Family cabins",
+      "Private island"
+    ],
+    "weaknesses": [
+      "Expensive",
+      "Kids-focused"
+    ],
+    "website": "https://disneycruise.com",
+    "booking_tip": "Book 18 months ahead"
+  },
+  "destination": {
+    "slug": "adriatic",
+    "name": "Adriatic",
+    "region": "Europe",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "July",
+      "August"
+    ],
+    "avoid_reason": "Heat, crowds",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Dubrovnik",
+        "highlight": "Medieval walls"
+      },
+      {
+        "port": "Split",
+        "highlight": "Diocletian Palace"
+      },
+      {
+        "port": "Venice",
+        "highlight": "St. Marks, canals"
+      },
+      {
+        "port": "Kotor",
+        "highlight": "Bay, fortifications"
+      }
+    ],
+    "climate": "Mediterranean, 18-30°C",
+    "currency_tip": "Euro, local currencies",
+    "visa_note": "Schengen varies",
+    "excursion_budget_pp": "€50-150",
+    "best_cruise_lines": [
+      "MSC",
+      "Celebrity",
+      "Norwegian",
+      "Princess"
+    ],
+    "embarkation_ports": [
+      "Venice",
+      "Trieste",
+      "Bari",
+      "Dubrovnik"
+    ],
+    "sub_regions": [
+      "Croatian Coast",
+      "Italian Coast",
+      "Montenegro"
+    ]
+  },
+  "title": "Disney Cruise Line Adriatic Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.804Z"
+}

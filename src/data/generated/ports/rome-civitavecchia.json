@@ -1,0 +1,44 @@
+{
+  "port": {
+    "slug": "rome-civitavecchia",
+    "name": "Rome (Civitavecchia)",
+    "country": "Italy",
+    "iata_nearby": "FCO",
+    "terminal_count": 12,
+    "cruise_lines_operating": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Norwegian",
+      "Celebrity",
+      "Princess",
+      "Holland America",
+      "Disney"
+    ],
+    "train_from_city": "Leonardo Express + regional 1h 30min €14",
+    "parking_cost_per_day": "€20-30",
+    "nearest_airport": "Rome Fiumicino (1h)",
+    "hotel_tip": "Hotel San Giorgio Civitavecchia from €70",
+    "embarkation_tip": "Take shuttle from terminal to train station for Rome visit",
+    "destinations_served": [
+      "Mediterranean",
+      "Western Mediterranean",
+      "Eastern Mediterranean",
+      "Greek Isles",
+      "Adriatic"
+    ],
+    "busiest_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "quietest_months": [
+      "January",
+      "February",
+      "November"
+    ]
+  },
+  "title": "Cruises from Rome (Civitavecchia) 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.832Z"
+}

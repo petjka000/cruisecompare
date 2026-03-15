@@ -1,0 +1,40 @@
+{
+  "port": {
+    "slug": "seattle",
+    "name": "Seattle",
+    "country": "United States",
+    "iata_nearby": "SEA",
+    "terminal_count": 2,
+    "cruise_lines_operating": [
+      "Princess",
+      "Holland America",
+      "Norwegian",
+      "Royal Caribbean",
+      "Celebrity",
+      "Carnival"
+    ],
+    "train_from_city": "Link light rail + taxi 30min",
+    "parking_cost_per_day": "$25-30",
+    "nearest_airport": "Seattle-Tacoma (30min)",
+    "hotel_tip": "Hotel Max from $150",
+    "embarkation_tip": "Bell Street or Smith Cove terminals",
+    "destinations_served": [
+      "Alaska",
+      "Inside Passage",
+      "Gulf of Alaska",
+      "Canada New England"
+    ],
+    "busiest_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "quietest_months": [
+      "October",
+      "November",
+      "December"
+    ]
+  },
+  "title": "Cruises from Seattle 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.834Z"
+}

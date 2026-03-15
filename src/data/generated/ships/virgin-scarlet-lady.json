@@ -1,0 +1,76 @@
+{
+  "ship": {
+    "slug": "virgin-scarlet-lady",
+    "name": "Scarlet Lady",
+    "cruise_line": "Virgin Voyages",
+    "year_built": 2021,
+    "last_refurb": null,
+    "gross_tonnage": 110000,
+    "passenger_capacity": 2800,
+    "crew_size": 1100,
+    "length_metres": 277,
+    "decks": 16,
+    "cabin_count": 1430,
+    "cabin_types": [
+      "Sea View",
+      "Sea Terrace",
+      "Deluxe Sea Terrace",
+      "Mega RockStar Suite"
+    ],
+    "neighborhoods": [
+      "The Dockhouse",
+      "Athletic Club",
+      "Redemption Spa",
+      "Galley",
+      "Squid Ink"
+    ],
+    "dining_venues": 20,
+    "specialty_restaurants": [
+      "The Test Kitchen",
+      "Extra Virgin",
+      "Razzle Dazzle",
+      "The Wake"
+    ],
+    "entertainment": [
+      "Redemption Spa",
+      "Athletic Club",
+      "The Club",
+      "Drag performances"
+    ],
+    "pools": 2,
+    "water_slides": 0,
+    "casino": false,
+    "spa": true,
+    "kids_club": null,
+    "home_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ],
+    "typical_itineraries": [
+      "4-night Bahamian",
+      "7-night Caribbean",
+      "7-night Mediterranean"
+    ],
+    "avg_inside_price_7night": 1099,
+    "avg_balcony_price_7night": 1599,
+    "passenger_review_score": 4.4,
+    "best_for": [
+      "Adults",
+      "Couples",
+      "Modern travelers"
+    ],
+    "not_ideal_for": [
+      "Families with kids",
+      "Traditional cruisers"
+    ],
+    "sister_ships": [
+      "Valiant Lady",
+      "Resilient Lady",
+      "Brilliant Lady"
+    ],
+    "notable_feature": "Adults-only with all dining included and no traditional main dining room"
+  },
+  "title": "Scarlet Lady Review 2026 — Cabins, Dining, Entertainment & Tips",
+  "generated": "2026-03-15T12:15:13.832Z"
+}

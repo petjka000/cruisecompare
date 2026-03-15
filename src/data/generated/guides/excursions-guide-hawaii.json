@@ -1,0 +1,65 @@
+{
+  "type": {
+    "slug": "excursions-guide",
+    "name": "Excursions Guide"
+  },
+  "destination": {
+    "slug": "hawaii",
+    "name": "Hawaii",
+    "region": "Pacific",
+    "best_months": [
+      "April",
+      "May",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "December",
+      "January"
+    ],
+    "avoid_reason": "Peak prices, crowds",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Honolulu",
+        "highlight": "Pearl Harbor, Waikiki"
+      },
+      {
+        "port": "Maui",
+        "highlight": "Road to Hana, Haleakala"
+      },
+      {
+        "port": "Kauai",
+        "highlight": "Na Pali Coast"
+      },
+      {
+        "port": "Big Island",
+        "highlight": "Volcanoes"
+      }
+    ],
+    "climate": "Tropical, 24-30°C year-round",
+    "currency_tip": "USD",
+    "visa_note": "US entry required",
+    "excursion_budget_pp": "€80-250",
+    "best_cruise_lines": [
+      "Norwegian",
+      "Princess",
+      "Celebrity",
+      "Holland America"
+    ],
+    "embarkation_ports": [
+      "Honolulu",
+      "Los Angeles",
+      "San Francisco",
+      "Vancouver"
+    ],
+    "sub_regions": [
+      "Oahu",
+      "Maui",
+      "Kauai",
+      "Big Island"
+    ]
+  },
+  "title": "Excursions Guide for Hawaii Cruise 2026",
+  "generated": "2026-03-15T12:15:13.843Z"
+}

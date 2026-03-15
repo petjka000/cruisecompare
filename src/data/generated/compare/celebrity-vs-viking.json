@@ -1,0 +1,91 @@
+{
+  "lineA": {
+    "slug": "celebrity",
+    "name": "Celebrity Cruises",
+    "parent_company": "Royal Caribbean Group",
+    "founded": 1988,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 16,
+    "known_for": "Premium experience",
+    "price_tier": "premium",
+    "best_for": [
+      "couples",
+      "food-lovers"
+    ],
+    "avg_price_7night_inside": 899,
+    "avg_price_7night_balcony": 1399,
+    "loyalty_program": "Captain's Club",
+    "key_ships": [
+      "Celebrity Beyond",
+      "Celebrity Edge",
+      "Celebrity Apex"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Caribbean",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Rome"
+    ],
+    "strengths": [
+      "Best dining",
+      "Modern design",
+      "Adult-focused"
+    ],
+    "weaknesses": [
+      "Higher prices",
+      "Limited kids facilities"
+    ],
+    "website": "https://celebritycruises.com",
+    "booking_tip": "Book Always Included fare"
+  },
+  "lineB": {
+    "slug": "viking",
+    "name": "Viking Cruises",
+    "parent_company": "Viking",
+    "founded": 1997,
+    "headquarters": "Basel, Switzerland",
+    "fleet_size": 6,
+    "known_for": "Adults-only ocean",
+    "price_tier": "premium",
+    "best_for": [
+      "seniors",
+      "cultural-travelers"
+    ],
+    "avg_price_7night_inside": 1499,
+    "avg_price_7night_balcony": 2199,
+    "loyalty_program": "Viking Explorer Society",
+    "key_ships": [
+      "Viking Neptune",
+      "Viking Jupiter",
+      "Viking Star"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "Northern Europe",
+      "Caribbean"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens"
+    ],
+    "strengths": [
+      "Adults-only",
+      "Included excursions",
+      "Cultural focus"
+    ],
+    "weaknesses": [
+      "No kids",
+      "No casino",
+      "Expensive"
+    ],
+    "website": "https://vikingcruises.com",
+    "booking_tip": "Book early for discounts"
+  },
+  "title": "Celebrity Cruises vs Viking Cruises 2026 — Which Is Better?",
+  "generated": "2026-03-15T12:15:13.824Z"
+}

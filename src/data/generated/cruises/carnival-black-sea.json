@@ -1,0 +1,106 @@
+{
+  "cruiseLine": {
+    "slug": "carnival",
+    "name": "Carnival Cruise Line",
+    "parent_company": "Carnival Corporation",
+    "founded": 1972,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 27,
+    "known_for": "Fun ships, affordable",
+    "price_tier": "budget",
+    "best_for": [
+      "families",
+      "budget-travelers"
+    ],
+    "avg_price_7night_inside": 499,
+    "avg_price_7night_balcony": 799,
+    "loyalty_program": "VIFP Club",
+    "key_ships": [
+      "Carnival Celebration",
+      "Carnival Jubilee",
+      "Carnival Vista"
+    ],
+    "top_destinations": [
+      "Caribbean",
+      "Mexico",
+      "Bahamas"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Galveston",
+      "Port Canaveral"
+    ],
+    "strengths": [
+      "Most affordable",
+      "Fun atmosphere",
+      "Great for groups"
+    ],
+    "weaknesses": [
+      "Noisy",
+      "Average food"
+    ],
+    "website": "https://carnival.com",
+    "booking_tip": "Book early for best cabin selection"
+  },
+  "destination": {
+    "slug": "black-sea",
+    "name": "Black Sea",
+    "region": "Europe",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_reason": "Cold, rough seas",
+    "avg_duration_nights": 10,
+    "typical_ports": [
+      {
+        "port": "Istanbul",
+        "highlight": "Hagia Sophia, Bosphorus"
+      },
+      {
+        "port": "Odessa",
+        "highlight": "Opera, Potemkin Steps"
+      },
+      {
+        "port": "Sochi",
+        "highlight": "Olympic venues"
+      },
+      {
+        "port": "Batumi",
+        "highlight": "Casino, botanical garden"
+      }
+    ],
+    "climate": "Temperate, 15-28°C",
+    "currency_tip": "Local currencies",
+    "visa_note": "Check requirements",
+    "excursion_budget_pp": "€40-120",
+    "best_cruise_lines": [
+      "MSC",
+      "Costa",
+      "Seabourn",
+      "Azamara"
+    ],
+    "embarkation_ports": [
+      "Istanbul",
+      "Athens",
+      "Odessa",
+      "Sochi"
+    ],
+    "sub_regions": [
+      "Turkey",
+      "Ukraine",
+      "Russia",
+      "Georgia"
+    ]
+  },
+  "title": "Carnival Cruise Line Black Sea Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.780Z"
+}

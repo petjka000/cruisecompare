@@ -1,0 +1,44 @@
+{
+  "port": {
+    "slug": "sydney",
+    "name": "Sydney",
+    "country": "Australia",
+    "iata_nearby": "SYD",
+    "terminal_count": 2,
+    "cruise_lines_operating": [
+      "P&O Australia",
+      "Princess",
+      "Celebrity",
+      "Royal Caribbean",
+      "Holland America",
+      "Cunard",
+      "MSC"
+    ],
+    "train_from_city": "Train to Circular Quay + walk",
+    "parking_cost_per_day": "AUD $30-40",
+    "nearest_airport": "Sydney Kingsford Smith (20min)",
+    "hotel_tip": "Shangri-La Sydney from AUD $250",
+    "embarkation_tip": "Overseas Passenger Terminal has best views",
+    "destinations_served": [
+      "Australia Pacific",
+      "New Zealand",
+      "South Pacific",
+      "Asia",
+      "Transpacific"
+    ],
+    "busiest_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "quietest_months": [
+      "June",
+      "July",
+      "August"
+    ]
+  },
+  "title": "Cruises from Sydney 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.834Z"
+}

@@ -1,0 +1,104 @@
+{
+  "cruiseLine": {
+    "slug": "regent",
+    "name": "Regent Seven Seas",
+    "parent_company": "Norwegian Cruise Line Holdings",
+    "founded": 1992,
+    "headquarters": "Miami, Florida",
+    "fleet_size": 5,
+    "known_for": "All-inclusive luxury",
+    "price_tier": "luxury",
+    "best_for": [
+      "luxury-seekers",
+      "seniors"
+    ],
+    "avg_price_7night_inside": 2499,
+    "avg_price_7night_balcony": 3999,
+    "loyalty_program": "Regent Ambassador",
+    "key_ships": [
+      "Seven Seas Grandeur",
+      "Seven Seas Splendor",
+      "Seven Seas Explorer"
+    ],
+    "top_destinations": [
+      "Mediterranean",
+      "World Cruises",
+      "Alaska"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens"
+    ],
+    "strengths": [
+      "All-inclusive",
+      "Luxury suites",
+      "Included excursions"
+    ],
+    "weaknesses": [
+      "Very expensive",
+      "Older demographic"
+    ],
+    "website": "https://rssc.com",
+    "booking_tip": "Book 2-for-1 fares"
+  },
+  "destination": {
+    "slug": "caribbean",
+    "name": "Caribbean",
+    "region": "Americas",
+    "best_months": [
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "avoid_months": [
+      "August",
+      "September"
+    ],
+    "avoid_reason": "Hurricane season",
+    "avg_duration_nights": 7,
+    "typical_ports": [
+      {
+        "port": "Cozumel",
+        "highlight": "Snorkelling, Mayan ruins"
+      },
+      {
+        "port": "Nassau",
+        "highlight": "Cable Beach, Atlantis"
+      },
+      {
+        "port": "St. Maarten",
+        "highlight": "Shopping, dual culture"
+      },
+      {
+        "port": "Grand Cayman",
+        "highlight": "Stingray City"
+      }
+    ],
+    "climate": "Tropical, 25-32°C year-round",
+    "currency_tip": "USD widely accepted",
+    "visa_note": "Most islands visa-free",
+    "excursion_budget_pp": "€40-150",
+    "best_cruise_lines": [
+      "Royal Caribbean",
+      "Carnival",
+      "Norwegian",
+      "MSC"
+    ],
+    "embarkation_ports": [
+      "Miami",
+      "Fort Lauderdale",
+      "San Juan",
+      "Galveston"
+    ],
+    "sub_regions": [
+      "Eastern Caribbean",
+      "Western Caribbean",
+      "Southern Caribbean"
+    ]
+  },
+  "title": "Regent Seven Seas Caribbean Cruises 2026 — Itineraries, Prices & Ships",
+  "generated": "2026-03-15T12:15:13.812Z"
+}

@@ -1,0 +1,74 @@
+{
+  "ship": {
+    "slug": "carnival-celebration",
+    "name": "Carnival Celebration",
+    "cruise_line": "Carnival",
+    "year_built": 2022,
+    "last_refurb": null,
+    "gross_tonnage": 183521,
+    "passenger_capacity": 5400,
+    "crew_size": 1700,
+    "length_metres": 344,
+    "decks": 20,
+    "cabin_count": 2700,
+    "cabin_types": [
+      "Interior",
+      "Ocean View",
+      "Balcony",
+      "Junior Suite",
+      "Grand Suite"
+    ],
+    "neighborhoods": [
+      "Ultimate Playground",
+      "Lido Deck",
+      "Promenade",
+      "Spa & Fitness",
+      "Youth Programs"
+    ],
+    "dining_venues": 15,
+    "specialty_restaurants": [
+      "Bonsai Teppanyaki",
+      "Fahrenheit 555",
+      "JiJi Asian Kitchen"
+    ],
+    "entertainment": [
+      "Bolt roller coaster",
+      "WaterWorks park",
+      "Comedy club",
+      "Playlist Productions"
+    ],
+    "pools": 4,
+    "water_slides": 5,
+    "casino": true,
+    "spa": true,
+    "kids_club": "Camp Ocean (ages 2-17)",
+    "home_ports": [
+      "Miami",
+      "Port Canaveral"
+    ],
+    "typical_itineraries": [
+      "6-night Eastern Caribbean",
+      "6-night Western Caribbean",
+      "7-night Southern Caribbean"
+    ],
+    "avg_inside_price_7night": 499,
+    "avg_balcony_price_7night": 799,
+    "passenger_review_score": 4.1,
+    "best_for": [
+      "Families",
+      "Budget travelers",
+      "First-timers"
+    ],
+    "not_ideal_for": [
+      "Luxury seekers",
+      "Quiet atmosphere"
+    ],
+    "sister_ships": [
+      "Carnival Mardi Gras",
+      "Carnival Jubilee"
+    ],
+    "notable_feature": "Bolt roller coaster at sea and Ultimate Playground"
+  },
+  "title": "Carnival Celebration Review 2026 — Cabins, Dining, Entertainment & Tips",
+  "generated": "2026-03-15T12:15:13.831Z"
+}

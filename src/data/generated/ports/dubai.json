@@ -1,0 +1,42 @@
+{
+  "port": {
+    "slug": "dubai",
+    "name": "Dubai",
+    "country": "UAE",
+    "iata_nearby": "DXB",
+    "terminal_count": 2,
+    "cruise_lines_operating": [
+      "MSC",
+      "Costa",
+      "Royal Caribbean",
+      "Celebrity",
+      "Cunard",
+      "P&O"
+    ],
+    "train_from_city": "Metro or taxi 20min",
+    "parking_cost_per_day": "AED 50-80",
+    "nearest_airport": "Dubai International (20min)",
+    "hotel_tip": "Rove Downtown from AED 300",
+    "embarkation_tip": "Rashid Port Terminal 2 most common",
+    "destinations_served": [
+      "Arabian Gulf",
+      "Indian Ocean",
+      "Transatlantic",
+      "Mediterranean"
+    ],
+    "busiest_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "quietest_months": [
+      "June",
+      "July",
+      "August"
+    ]
+  },
+  "title": "Cruises from Dubai 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.834Z"
+}

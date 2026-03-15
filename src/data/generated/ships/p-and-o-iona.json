@@ -1,0 +1,74 @@
+{
+  "ship": {
+    "slug": "p-and-o-iona",
+    "name": "P&O Iona",
+    "cruise_line": "P&O Cruises",
+    "year_built": 2021,
+    "last_refurb": null,
+    "gross_tonnage": 184700,
+    "passenger_capacity": 5200,
+    "crew_size": 1700,
+    "length_metres": 344,
+    "decks": 19,
+    "cabin_count": 2614,
+    "cabin_types": [
+      "Interior",
+      "Ocean View",
+      "Balcony",
+      "Suite",
+      "Deluxe Balcony"
+    ],
+    "neighborhoods": [
+      "Glass House",
+      "Atrium",
+      "Lido Deck",
+      "The Spa",
+      "Kids Zone"
+    ],
+    "dining_venues": 12,
+    "specialty_restaurants": [
+      "Epicurean",
+      "Sindhu",
+      "The Glass House",
+      "Keel & Cow"
+    ],
+    "entertainment": [
+      "SkyDome",
+      "Headliners Theatre",
+      "Comedy Club",
+      "Live music venues"
+    ],
+    "pools": 3,
+    "water_slides": 2,
+    "casino": true,
+    "spa": true,
+    "kids_club": "The Reef (ages 3-17)",
+    "home_ports": [
+      "Southampton",
+      "Dover"
+    ],
+    "typical_itineraries": [
+      "7-night Mediterranean",
+      "7-night Norwegian Fjords",
+      "7-night Canary Islands"
+    ],
+    "avg_inside_price_7night": 699,
+    "avg_balcony_price_7night": 1099,
+    "passenger_review_score": 4.2,
+    "best_for": [
+      "British families",
+      "Couples",
+      "First-time cruisers"
+    ],
+    "not_ideal_for": [
+      "Non-British",
+      "Luxury seekers"
+    ],
+    "sister_ships": [
+      "P&O Arvia"
+    ],
+    "notable_feature": "LNG-powered with British-style cruising and glass atrium"
+  },
+  "title": "P&O Iona Review 2026 — Cabins, Dining, Entertainment & Tips",
+  "generated": "2026-03-15T12:15:13.831Z"
+}

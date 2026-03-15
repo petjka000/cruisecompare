@@ -1,0 +1,41 @@
+{
+  "port": {
+    "slug": "san-juan",
+    "name": "San Juan, Puerto Rico",
+    "country": "United States",
+    "iata_nearby": "SJU",
+    "terminal_count": 3,
+    "cruise_lines_operating": [
+      "Royal Caribbean",
+      "Celebrity",
+      "Norwegian",
+      "Princess",
+      "Holland America",
+      "MSC",
+      "Carnival"
+    ],
+    "train_from_city": "Taxi 15min $15-20",
+    "parking_cost_per_day": "$15-20",
+    "nearest_airport": "Luis Muñoz Marín (15min)",
+    "hotel_tip": "La Concha Resort from $150",
+    "embarkation_tip": "Old San Juan terminal very central",
+    "destinations_served": [
+      "Caribbean",
+      "Eastern Caribbean",
+      "Southern Caribbean",
+      "Transatlantic"
+    ],
+    "busiest_months": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "quietest_months": [
+      "September",
+      "October"
+    ]
+  },
+  "title": "Cruises from San Juan, Puerto Rico 2026 — All Lines, Dates & Itineraries",
+  "generated": "2026-03-15T12:15:13.834Z"
+}
