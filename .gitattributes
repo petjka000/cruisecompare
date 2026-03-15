@@ -1,0 +1,2 @@
+out/ merge=ours
+src/data/generated/ merge=ours
