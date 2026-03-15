@@ -11,7 +11,10 @@ jobs:
         with:
           node-version: '20'
       - run: npm ci
-      - name: Deploy
+      # Note: out/ directory is pre-built and committed
+      # Python build_static_full.py generates the HTML files
+      # We just deploy what's already in out/
+      - name: Deploy to Cloudflare
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
