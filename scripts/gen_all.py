@@ -24,36 +24,44 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 # ── CREDENTIALS ─────────────────────────────────────────────────────────────
-def get_qwen_creds():
-    path = Path.home() / '.openclaw/agents/main/agent/auth-profiles.json'
-    data = json.load(open(path))
-    profiles = data.get('profiles', {})
-    
-    # Find alibaba-coding profile
-    for key, p in profiles.items():
-        if 'alibaba' in key.lower() or 'coding' in key.lower():
-            base_url = p.get('base_url', 'https://coding-intl.dashscope.aliyuncs.com/v1').rstrip('/')
-            api_key = p.get('api_key') or p.get('token')
-            model = p.get('model', 'qwen-plus')
-            if api_key:
-                return base_url, api_key, model
-    
-    raise ValueError("No Alibaba/Qwen profile found")
+def get_minimax_creds():
+    """Get MiniMax credentials from environment or auth profiles."""
+    # First try environment variable (Coding Plan key)
+    api_key = os.environ.get('MINIMAX_API_KEY')
+    if api_key:
+        return 'https://api.minimax.io', api_key, 'MiniMax-Text-01'
 
-BASE_URL, API_KEY, MODEL = get_qwen_creds()
+    # Fall back to OpenClaw auth profiles (OAuth token)
+    path = Path.home() / '.openclaw/agents/main/agent/auth-profiles.json'
+    if path.exists():
+        data = json.load(open(path))
+        profiles = data.get('profiles', {})
+        for key, p in profiles.items():
+            if 'minimax' in key.lower():
+                token = p.get('access') or p.get('token')
+                if token:
+                    return 'https://api.minimax.io', token, 'MiniMax-Text-01'
+
+    raise ValueError(
+        "Set MINIMAX_API_KEY environment variable to your Coding Plan key "
+        "(starts with sk-cp-) or configure OpenClaw MiniMax OAuth"
+    )
+
+BASE_URL, API_KEY, MODEL = get_minimax_creds()
 log.info(f"Using model: {MODEL}")
 
 # ── API CALL ─────────────────────────────────────────────────────────────────
 def call_qwen(system: str, user: str, max_tokens=3000, temp=0.7) -> dict:
-    """Call Qwen API, return parsed JSON dict. Retries 3x."""
+    """Call MiniMax Coding Plan API, return parsed JSON dict. Retries 3x."""
+    import requests
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {API_KEY}",
     }
     payload = {
         "model": MODEL,
-        "temperature": temp,
         "max_tokens": max_tokens,
+        "temperature": temp,
         "messages": [
             {"role": "system", "content": system},
             {"role": "user", "content": user}
@@ -61,25 +69,31 @@ def call_qwen(system: str, user: str, max_tokens=3000, temp=0.7) -> dict:
     }
     for attempt in range(3):
         try:
-            req = urllib.request.Request(
-                f"{BASE_URL}/chat/completions",
-                data=json.dumps(payload).encode(),
+            r = requests.post(
+                f"{BASE_URL}/v1/text/chatcompletion_v2",
                 headers=headers,
-                method="POST"
+                json=payload,
+                timeout=90
             )
-            with urllib.request.urlopen(req, timeout=90) as r:
-                data = json.loads(r.read().decode())
-                text = data['choices'][0]['message']['content']
-                # Clean markdown
-                text = text.strip()
-                if text.startswith("```json"):
-                    text = text[7:]
-                if text.startswith("```"):
-                    text = text[3:]
-                if text.endswith("```"):
-                    text = text[:-3]
-                text = text.strip()
-                return json.loads(text)
+            r.raise_for_status()
+            data = r.json()
+            # Check for MiniMax API errors
+            base_resp = data.get("base_resp", {})
+            if base_resp.get("status_code") != 0:
+                error_msg = base_resp.get("status_msg", "Unknown error")
+                log.warning(f"MiniMax API error: {error_msg}")
+                raise RuntimeError(f"MiniMax error: {error_msg}")
+            text = data["choices"][0]["message"]["content"]
+            # Clean markdown
+            text = text.strip()
+            if text.startswith("```json"):
+                text = text[7:]
+            if text.startswith("```"):
+                text = text[3:]
+            if text.endswith("```"):
+                text = text[:-3]
+            text = text.strip()
+            return json.loads(text)
         except json.JSONDecodeError as e:
             log.warning(f"JSON parse failed attempt {attempt+1}: {e}")
         except Exception as e:
