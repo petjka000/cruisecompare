@@ -24,35 +24,34 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 # ── CREDENTIALS ─────────────────────────────────────────────────────────────
-def get_minimax_creds():
-    """Get MiniMax credentials from environment or auth profiles."""
-    # First try environment variable (Coding Plan key)
-    api_key = os.environ.get('MINIMAX_API_KEY')
+def get_kimi_creds():
+    """Get Kimi K2.5 credentials from OpenClaw config or environment."""
+    # Try environment variable first
+    api_key = os.environ.get('ANTHROPIC_API_KEY') or os.environ.get('KIMI_API_KEY')
     if api_key:
-        return 'https://api.minimax.io', api_key, 'MiniMax-Text-01'
+        return 'https://coding-intl.dashscope.aliyuncs.com/v1', api_key, 'kimi-k2.5'
 
-    # Fall back to OpenClaw auth profiles (OAuth token)
-    path = Path.home() / '.openclaw/agents/main/agent/auth-profiles.json'
+    # Fall back to OpenClaw config
+    path = Path.home() / '.openclaw/openclaw.json'
     if path.exists():
         data = json.load(open(path))
-        profiles = data.get('profiles', {})
-        for key, p in profiles.items():
-            if 'minimax' in key.lower():
-                token = p.get('access') or p.get('token')
-                if token:
-                    return 'https://api.minimax.io', token, 'MiniMax-Text-01'
+        provider = data.get('models', {}).get('providers', {}).get('alibaba-coding', {})
+        api_key = provider.get('apiKey')
+        base_url = provider.get('baseUrl', 'https://coding-intl.dashscope.aliyuncs.com/v1')
+        if api_key:
+            return base_url, api_key, 'kimi-k2.5'
 
     raise ValueError(
-        "Set MINIMAX_API_KEY environment variable to your Coding Plan key "
-        "(starts with sk-cp-) or configure OpenClaw MiniMax OAuth"
+        "Set ANTHROPIC_API_KEY or KIMI_API_KEY environment variable, "
+        "or configure OpenClaw Alibaba Coding plan"
     )
 
-BASE_URL, API_KEY, MODEL = get_minimax_creds()
+BASE_URL, API_KEY, MODEL = get_kimi_creds()
 log.info(f"Using model: {MODEL}")
 
 # ── API CALL ─────────────────────────────────────────────────────────────────
 def call_qwen(system: str, user: str, max_tokens=3000, temp=0.7) -> dict:
-    """Call MiniMax Coding Plan API, return parsed JSON dict. Retries 3x."""
+    """Call Kimi K2.5 via Alibaba Coding Plan (OpenAI format). Returns parsed JSON dict."""
     import requests
     headers = {
         "Content-Type": "application/json",
@@ -70,19 +69,13 @@ def call_qwen(system: str, user: str, max_tokens=3000, temp=0.7) -> dict:
     for attempt in range(3):
         try:
             r = requests.post(
-                f"{BASE_URL}/v1/text/chatcompletion_v2",
+                f"{BASE_URL}/chat/completions",
                 headers=headers,
                 json=payload,
                 timeout=90
             )
             r.raise_for_status()
             data = r.json()
-            # Check for MiniMax API errors
-            base_resp = data.get("base_resp", {})
-            if base_resp.get("status_code") != 0:
-                error_msg = base_resp.get("status_msg", "Unknown error")
-                log.warning(f"MiniMax API error: {error_msg}")
-                raise RuntimeError(f"MiniMax error: {error_msg}")
             text = data["choices"][0]["message"]["content"]
             # Clean markdown
             text = text.strip()
