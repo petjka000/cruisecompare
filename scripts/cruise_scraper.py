@@ -61,7 +61,7 @@ def _load_minimax_token() -> str:
 
 MINIMAX_TOKEN = _load_minimax_token()
 MINIMAX_BASE_URL = 'https://api.minimaxi.chat/v1'
-MINIMAX_MODEL = 'MiniMax-M2.5'
+MINIMAX_MODEL = 'MiniMax-M2.7'
 
 
 # ── RSS Sources ──────────────────────────────────────────────────────────────
