@@ -1,0 +1,162 @@
+{
+  "slug": "rome-civitavecchia",
+  "name": "Rome (Civitavecchia)",
+  "city": "Civitavecchia",
+  "country": "Italy",
+  "iata": "FCO",
+  "region": "Mediterranean",
+  "metaTitle": "Rome (Civitavecchia) Cruise Port Guide 2026 — Terminals, Transport & Tips",
+  "metaDescription": "Complete guide to Rome (Civitavecchia) cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+  "heroSubtitle": "Everything you need to know before your cruise from Rome (Civitavecchia)",
+  "overview": "Civitavecchia serves as Rome's principal cruise port, located approximately 70 kilometers northwest of the Italian capital along the Tyrrhenian coast. This bustling maritime gateway welcomes over 2.5 million cruise passengers annually, making it one of the Mediterranean Sea's busiest cruise ports. The port's proximity to Rome makes it an ideal departure point for cruises exploring the Western Mediterranean, with passengers able to combine their cruise vacation with visits to iconic landmarks like the Colosseum, Vatican City, and the Trevi Fountain. Civitavecchia itself is a historic port town dating back to Roman times, when it served as the port of ancient Centumcellae, built by the Emperor Trajan in the 2nd century AD. Modern cruise facilities have been developed while preserving the area's historical character, offering passengers a blend of contemporary amenities and authentic Italian coastal charm.",
+  "terminals": [
+    {
+      "name": "Terminal Crociere (Main Cruise Terminal)",
+      "description": "The primary cruise facility serving the majority of cruise lines including MSC Cruises, Costa Cruises, and Royal Caribbean. This modern terminal complex features efficient passenger processing areas, climate-controlled waiting halls, and direct access to the port's quay. The terminal was extensively renovated in 2018 to accommodate the world's largest cruise ships.",
+      "cruiseLines": [
+        "MSC Cruises",
+        "Costa Cruises",
+        "Royal Caribbean",
+        "Celebrity Cruises",
+        "AIDA Cruises"
+      ],
+      "facilities": [
+        "Information desk",
+        "Clean restrooms",
+        "Air-conditioned waiting areas",
+        "Coffee bar and snacks kiosk",
+        "Luggage storage lockers",
+        "Free WiFi (limited)",
+        "Taxi rank outside",
+        "Tour operator desks",
+        "ATMs"
+      ]
+    },
+    {
+      "name": "Terminal 2000",
+      "description": "A dedicated terminal facility primarily used by Norwegian Cruise Line and some Holland America Line vessels. Located adjacent to Terminal Crociere, it offers similar passenger services with separate check-in halls for smoother embarkation processing.",
+      "cruiseLines": [
+        "Norwegian Cruise Line",
+        "Holland America Line",
+        "Princess Cruises"
+      ],
+      "facilities": [
+        "Check-in counters",
+        "Baggage drop-off zone",
+        "Seated waiting area",
+        "Restrooms",
+        "Small café"
+      ]
+    },
+    {
+      "name": "Port of Civitavecchia Ferry Terminal Area",
+      "description": "While primarily serving ferry operations to Sardinia and Sicily, this area also accommodates smaller cruise vessels and provides an alternative disembarkation point for passengers arriving independently. The area has basic facilities but limited cruise-specific services.",
+      "cruiseLines": [
+        "Smaller cruise lines",
+        "TUI Cruises",
+        "Swan Hellenic"
+      ],
+      "facilities": [
+        "Basic restrooms",
+        "Information board",
+        "Local bus stop",
+        "Café"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "fromAirport": "Leonardo da Vinci-Fiumicino Airport (FCO) is the nearest major airport, located about 65km from Civitavecchia Port. The most cost-effective option is taking the FL1 train from Fiumicino Airport to Civitavecchia station (€5-8, approximately 50 minutes), then a taxi or local bus (Line 1) to the cruise terminal (€2, 10 minutes). Alternatively, cruise line shuttles are available for €25-35 per person. Private taxis cost approximately €90-110 and take 50-60 minutes depending on traffic. During summer months, traffic on the A12 motorway can add 20-30 minutes to journey times.",
+    "fromCityCenter": "From Rome's city center (Roma Termini station), take the regional train (Trenitalia FL5 line) to Civitavecchia station. Trains depart hourly from Roma Termini and Roma Trastevere, with the journey taking approximately 1 hour 20 minutes and costing €5-10 depending on the train type. From Civitavecchia station, taxis to the port cost approximately €10-15 (negotiate before boarding) or take bus line 1 for €2. A direct taxi from central Rome costs €100-130 and takes 60-90 minutes.",
+    "parking": "Long-term cruise parking at Port of Civitavecchia costs approximately €15-18 per day for uncovered parking, located within the port complex. Covered parking is available at slightly higher rates (€20-25 per day). Pre-booking through the port website is recommended during peak season. An alternative is the Parcheggio Italia located 500m from the terminal, offering similar rates with shuttle service to the cruise docks.",
+    "shuttles": "Most major cruise lines (MSC, Costa, Royal Caribbean, Norwegian) offer transfer shuttles from Rome hotels and Fiumicino Airport to the port, typically priced at €25-45 per person when booked through the cruise line. These shuttles are often crowded and may involve long wait times. The port authority operates a free shuttle bus between Civitavecchia train station and the cruise terminals during peak hours (6:00-10:00 and 14:00-18:00)."
+  },
+  "embarkationTips": [
+    "Book a Vatican museum skip-the-line ticket at least 3 weeks ahead if visiting before your cruise — they sell out 2-3 weeks in advance, especially in peak season. Arrive at your appointed time slot, not earlier.",
+    "Save money on Rome transport by downloading the Atac ticket app before arrival. A single bus/metro ticket costs €1.50 versus €100+ for a taxi, and the train from Rome to Civitavecchia station is only €5-8.",
+    "Don't waste time taking the tourist-oriented train from Rome — use regular regional FL5 trains from Roma Termini which are faster (70 min vs 90 min), cheaper (€5 vs €15+), and depart more frequently.",
+    "If arriving early on embarkation day, store luggage at Civitavecchia train station lockers (€6-10 per piece) rather than paying cruise line fees. The station has 24-hour security and is safe.",
+    "During summer (June-August), embarkation traffic peaks between 11:00-14:00. Arrive at the port before 10:00 or after 15:00 to avoid queues of 30-45 minutes at check-in counters."
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "Civitavecchia Old Town",
+      "description": "The historic center of Civitavecchia is a 15-minute walk from the port. Visit the 16th-century Michelangelo's Fort, the Cathedral of San Francesco, and wander through the local market in Piazza le Brigate Mare. The area offers authentic Italian cafes and restaurants away from tourist prices.",
+      "walkingTime": "15 minutes from port gates",
+      "cost": "Free to explore, meals €10-20"
+    },
+    {
+      "name": "Forte Michelangelo",
+      "description": "This 16th-century fortification was designed by Michelangelo Buonarroti and offers panoramic views of the port and coastline. The fortress provides insight into the port's military history and serves as a cultural venue during summer months with outdoor concerts.",
+      "walkingTime": "20 minutes from port",
+      "cost": "€5-8 admission"
+    },
+    {
+      "name": "Terme di Taurini (Thermal Baths)",
+      "description": "Ancient Roman thermal baths located in the hills above Civitavecchia. While partially in ruins, the site demonstrates the sophisticated engineering of Roman bath complexes. The site includes a small museum with artifacts discovered during excavations.",
+      "walkingTime": "25 minutes by taxi or local bus",
+      "cost": "€5 admission"
+    },
+    {
+      "name": "Tarquinia Etruscan Necropolis",
+      "description": "A UNESCO World Heritage site featuring painted tombs dating to the 7th century BC. Located just 20 minutes from Civitavecchia, this offers a fascinating alternative to Rome's more crowded attractions. The National Archaeological Museum houses remarkable frescoes and artifacts.",
+      "walkingTime": "20 minutes by taxi (€25-30) or train",
+      "cost": "€10 combined ticket for museum and necropolis"
+    },
+    {
+      "name": "Santa Marinella Beach",
+      "description": "A pleasant seaside town with sandy beaches and a medieval castle, located 15 minutes from the port by taxi. Popular with locals and offers a quieter alternative to crowded Roman beaches. Several excellent seafood restaurants line the waterfront.",
+      "walkingTime": "15 minutes by taxi (€15-20)",
+      "cost": "Beach access free, sunbed rental €8-15"
+    }
+  ],
+  "localTransport": {
+    "metro": "There is no metro system in Civitavecchia itself. The nearest metro connection is in Rome, accessible via the FL5 regional train from Civitavecchia station to Roma Trastevere, Roma Ostiense, or Roma Termini stations, where you can connect to Rome's metro network (lines A, B, and C).",
+    "bus": "Civitavecchia has an efficient local bus system operated by Autolinee Troiani. Bus line 1 connects the cruise port to Civitavecchia train station (10 minutes, €2). Bus line 2 runs along the coastal road to Santa Marinella. Buses run from approximately 6:30 to 20:30. Tickets can be purchased at tobacco shops (tabaccheria) or on the bus (cash only, slightly higher price).",
+    "taxi": "Taxis are readily available outside all cruise terminals. Official taxis have set rates: from port to Civitavecchia train station €10-15, to Rome city center approximately €100-130 (negotiate in advance). Always confirm the price before starting the journey. Uber and Lyft are not widely available in Civitavecchia. For day trips to Rome, consider booking a private driver through your hotel or cruise line excursion desk.",
+    "walkability": "The cruise port is located about 1.5km from Civitavecchia town center, a 15-20 minute pleasant walk along the waterfront. The walk is safe during daylight hours with a dedicated pedestrian path. However, walking to Rome from the port is not feasible (70km distance)."
+  },
+  "weather": {
+    "bestMonths": "The best months for cruising from Civitavecchia are May, June, September, and October. These months offer pleasant temperatures (18-28°C), fewer crowds at tourist attractions, and comfortable shipboard conditions. April and October shoulder seasons offer reduced prices and still-excellent weather.",
+    "peakSeason": "Peak cruise season runs from mid-June through late August, with July and August being the busiest months. This coincides with European summer holidays. Attractions in Rome are extremely crowded, and port operations can be congested with multiple large ships in port simultaneously. Embarkation and disembarkation queues may be longer during this period.",
+    "climate": "Civitavecchia enjoys a Mediterranean climate with hot, dry summers and mild, wet winters. Summer temperatures average 25-32°C with intense sunshine. Spring and autumn bring 18-25°C days with occasional rain showers. Pack light, breathable clothing for summer cruises, with a light jacket for cooler evenings. Comfortable walking shoes are essential for exploring Rome's cobblestone streets. Sun protection is critical year-round, with hats and sunscreen especially important from May to September. Winter cruises (November-March) require layers including a warm jacket and rain gear."
+  },
+  "cruiseLinesFromHere": [
+    "MSC Cruises",
+    "Costa Cruises",
+    "Royal Caribbean",
+    "Norwegian Cruise Line",
+    "Celebrity Cruises",
+    "Princess Cruises",
+    "Holland America Line",
+    "AIDA Cruises",
+    "Cunard Line",
+    "Disney Cruise Line",
+    "Virgin Voyages",
+    "TUI Cruises"
+  ],
+  "isDeparture": true,
+  "isCallPort": true,
+  "insiderTips": [
+    "Locals know to avoid the overpriced restaurants immediately outside the port gates catering to cruise passengers. Instead, walk 15 minutes into Civitavecchia's Via Tarconte area where you'll find excellent trattorias like Ristorante Il Giardino and Trattoria da Carla serving fresh seafood at half the tourist-area prices. The fish of the day at these local spots costs €12-15 versus €30+ at port-adjacent establishments.",
+    "Save €100+ by taking the Trenitalia regional train from Fiumicino Airport directly to Civitavecchia instead of booking a cruise line transfer. The FL1 train from Terminal 3 arrives at Civitavecchia station in 50 minutes for €5-8, where free port shuttles await. The cruise line charges €25-40 for the same journey with stops and delays.",
+    "For an authentic Roman lunch without fighting Rome's crowds, take the early train (7:30 AM) from Civitavecchia to Rome, visit the Vatican Museums when they open (8:00 AM, still quiet), have lunch near the Pantheon in the historic center, and return by 17:00 to catch your ship. You'll experience far less stress and crowds than organized excursions."
+  ],
+  "faq": [
+    {
+      "question": "How far is the cruise port from Rome city center?",
+      "answer": "Civitavecchia port is approximately 70 kilometers (43 miles) northwest of Rome's city center. By train, the journey takes 70-80 minutes from Roma Termini station. By road, expect 60-90 minutes depending on traffic, with the A12 motorway being the main route. Most cruise lines recommend allowing 2-3 hours travel time from central Rome to ensure you arrive at the port with adequate time before departure."
+    },
+    {
+      "question": "Can I visit Rome on a day cruise stop at Civitavecchia?",
+      "answer": "Yes, but you must plan carefully. The port is far from Rome, so prioritize your must-see attractions. Take the 7:00 AM train from Civitavecchia to Roma Termini (arrive 8:10 AM), use the metro to reach key sites, and return on the 16:00 or 17:00 train. Book tickets to the Vatican Museums and Colosseum in advance — they sell out quickly. For a single day, focus on either Vatican City (St. Peter's, Sistine Chapel, museums) OR the Ancient Rome area (Colosseum, Forum, Palatine Hill), as visiting both is extremely rushed."
+    },
+    {
+      "question": "Is there luggage storage at Civitavecchia cruise port?",
+      "answer": "Limited luggage storage is available at the cruise terminals during embarkation/disembarkation for cruise passengers. However, for greater convenience and lower costs, use the lockers at Civitavecchia train station (€6-10 per piece for up to 24 hours). These are secure, air-conditioned, and open during station hours. Some local hotels near the port also offer day luggage storage for €5-8 per bag."
+    },
+    {
+      "question": "What is the best way to get from Fiumicino Airport to Civitavecchia Port?",
+      "answer": "The most efficient and economical option is taking the FL1 train from Fiumicino Airport directly to Civitavecchia (€5-8, 50 minutes), then a taxi or local bus to the cruise terminal. This avoids traveling into Rome and back. Alternatively, cruise line transfers offer door-to-door service at €25-35 per person. Private taxis cost €90-110 and can be pre-booked. During late-night or early-morning arrivals, the train may not run, making shuttle buses or private transfers the only practical options."
+    }
+  ]
+}

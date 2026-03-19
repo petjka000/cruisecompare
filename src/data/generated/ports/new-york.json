@@ -1,0 +1,167 @@
+{
+  "slug": "new-york",
+  "name": "New York (Manhattan)",
+  "city": "New York",
+  "country": "United States",
+  "iata": "JFK",
+  "region": "North America",
+  "metaTitle": "New York (Manhattan) Cruise Port Guide 2026 — Terminals, Transport & Tips",
+  "metaDescription": "Complete guide to New York (Manhattan) cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+  "heroSubtitle": "Everything you need to know before your cruise from New York (Manhattan)",
+  "overview": "New York (Manhattan) is one of the world's premier cruise departure ports, serving as homeport for major cruise lines including Norwegian Cruise Line, Celebrity, Princess, Holland America, and Cunard. The Manhattan Cruise Terminal on the West Side of Manhattan handles hundreds of thousands of passengers annually, with ships departing to Bermuda, the Caribbean, Canada/New England, and transatlantic voyages. What makes New York special is its unrivaled location in the heart of Manhattan — passengers can literally walk to Times Square from the cruise terminal. The port's proximity to world-class dining, Broadway theaters, Central Park, and iconic landmarks like the Empire State Building and Statue of Liberty makes pre-cruise or post-cruise exploration seamless. Manhattan's cruise infrastructure has expanded significantly, with modern terminal facilities at the Manhattan Cruise Terminal (MCT) in Hell's Kitchen and additional departures from Brooklyn's Red Hook Terminal and Cape Liberty in Bayonne, New Jersey.",
+  "terminals": [
+    {
+      "name": "Manhattan Cruise Terminal (MCT)",
+      "description": "Located at 711 12th Avenue between 54th and 55th Streets on Manhattan's West Side. This is the primary cruise facility with two terminals (Terminals 5 and 6) operated by the Port Authority of New York and New Jersey. The facility features modern check-in halls, baggage handling areas, and comfortable waiting lounges with waterfront views of the Hudson River. Security screening and customs/immigration facilities are available on-site. Ships dock directly alongside the terminal building, allowing passengers to walk off the ship and into the city.",
+      "cruiseLines": [
+        "Norwegian Cruise Line",
+        "Celebrity Cruises",
+        "Princess Cruises",
+        "Holland America Line",
+        "Cunard Line",
+        "Viking Ocean Cruises"
+      ],
+      "facilities": [
+        "information desk",
+        "toilets",
+        "coffee shop",
+        "snack bar",
+        "luggage storage (limited)",
+        "ATM",
+        "free WiFi in terminal",
+        "wheelchair accessible",
+        "luggage cart rental",
+        "TSA PreCheck lane"
+      ]
+    },
+    {
+      "name": "Brooklyn Cruise Terminal",
+      "description": "Located in Red Hook, Brooklyn at 66 Bowers Street. This smaller, more intimate terminal primarily serves Cunard's Queen Mary 2 for its transatlantic crossings and select departures. The terminal has more limited facilities than MCT but offers easier access to Brooklyn neighborhoods like DUMBO and the Brooklyn Heights Promenade. Passengers using this terminal should factor in additional travel time to Manhattan attractions.",
+      "cruiseLines": [
+        "Cunard Line (Queen Mary 2)"
+      ],
+      "facilities": [
+        "information desk",
+        "restrooms",
+        "basic seating",
+        "street-level access"
+      ]
+    },
+    {
+      "name": "Cape Liberty Cruise Port",
+      "description": "Located in Bayonne, New Jersey at 1 Port Terminal Boulevard, this facility serves Royal Caribbean, Celebrity, and MSC Cruises ships that homeport in the New York metro area. Despite being technically in New Jersey, it offers spectacular views of the Statue of Liberty and Manhattan skyline. The terminal has undergone recent renovations and includes a large parking garage, making it convenient for drive-in passengers.",
+      "cruiseLines": [
+        "Royal Caribbean International",
+        "Celebrity Cruises",
+        "MSC Cruises"
+      ],
+      "facilities": [
+        "parking garage",
+        "information desk",
+        "restrooms",
+        "seated waiting area",
+        "food concessions",
+        "gift shop"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "fromAirport": "New York is served by three major airports: JFK (28km), Newark EWR (22km), and LaGuardia (13km). From JFK: Take the AirTrain to Jamaica Station (free), then connect to LIRR or subway E/J/Z trains to Manhattan (total ~€18, 60-90 min). Yellow taxis cost ~€65-80 plus tolls and tips, ~45-60 min in traffic. From Newark: Take the AirTrain to NJ Transit trains at Newark Airport Station, direct trains to Penn Station (~$15, 35-40 min). Taxi from Newark runs ~€75-90. From LaGuardia: Take the Q70 bus to Jackson Heights-Roosevelt subway station (free with MetroCard), then transfer to 7/E/F trains (~€3, 45-60 min total). Taxi from LaGuardia is ~€35-50, 30-45 min depending on traffic. Note: Avoid surge pricing by using standard yellow cabs or ride-sharing apps.",
+    "fromCityCenter": "The Manhattan Cruise Terminal is centrally located in Midtown West. From Times Square (42nd Street): Walk west on 42nd/49th/50th Streets to 12th Avenue (~15-20 min, 1.5km). From Grand Central Terminal: Take the 7 train to 42nd Street-Times Square, then walk west or catch the M50 bus westbound. From Penn Station: Walk north on 8th Avenue to 50th Street, then west to the terminal (~10-15 min). The 50th Street subway station (A/C/E lines) is a 5-minute walk from the terminal entrance on 54th Street.",
+    "parking": "Manhattan Cruise Terminal has limited on-site parking at $55-65/day (cash/card). Pre-booking is essential during peak season. Icon Parking at 450 W 42nd Street offers competitive rates of ~€45-55/day with shuttle service. Park2Go at 450 W 33rd Street provides indoor parking at ~€50-60/day with 24-hour shuttle. For Cape Liberty, the on-site parking garage charges ~€35-45/day. Consider Park Sleep Fly packages if combining parking with air travel — typically €55-75 for 8-14 days at nearby hotels with shuttle included.",
+    "shuttles": "Most cruise lines do NOT provide complimentary airport/port shuttles from New York. Norwegian Cruise Line offers an independent transfer partner (Go Cruise Parking) at ~€35 each way. Royal Caribbean's departures from Cape Liberty can arrange transfers through their Cruise Control service (~€25 per person). The NYC Ferry and water taxi services do not currently serve cruise terminals. For groups, book a private car service (black car/sedan) through Caymus Transportation or Carmel Car Service — typically €80-120 from JFK, €60-100 from LaGuardia, with child seats available."
+  },
+  "embarkationTips": [
+    "Arrive at the Manhattan Cruise Terminal between 10:00-11:30 for the smoothest boarding — arriving too early means waiting in line outside, while arriving after 13:00 can mean processing crowds. Norwegian and Celebrity ships typically begin boarding at 11:30-12:00.",
+    "The M50 crosstown bus (runs along 49th/50th Streets) is the best-kept secret for getting to the terminal from Midtown — it stops at 12th Avenue right at Terminal 5/6, costs just €2.90 with a MetroCard, and skips the surge-priced taxis.",
+    "Leave your car at Icon Parking on 42nd Street and walk west — you can literally see the cruise ships from their roof deck, and it's faster than waiting for their shuttle during busy embarkation days.",
+    "If you're flying in the morning of your cruise, book a direct flight arriving before 10:00 AM — customs and security lines at the cruise terminal can stretch past 45 minutes during peak season, so you need buffer time.",
+    "Bring an empty water bottle and fill it AFTER passing security — there's only one small coffee kiosk inside the waiting area and bottled water costs €4-5 inside. The vending machines take cards but have limited options."
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "Times Square",
+      "description": "The iconic crossroads of the world, five blocks of neon lights, Broadway theaters, and bustling energy. Essential for first-time visitors to NYC — catch a Broadway show, grab a slice from Joe's Pizza, or simply soak in the spectacle. The area has been pedestrianized and features the new Times Square pedestrian plazas.",
+      "walkingTime": "20 minutes (1.6 km)",
+      "cost": "Free to walk around; Broadway shows €80-200+"
+    },
+    {
+      "name": "Empire State Building",
+      "description": "The 86th-floor observatory offers unobstructed 360-degree views of Manhattan and beyond. Open until midnight, the Art Deco masterpiece is particularly stunning at sunset. Skip-the-line tickets recommended — book online for €42 for adults to avoid the infamous queue.",
+      "walkingTime": "25 minutes (2 km)",
+      "cost": "€35-55 depending on observatory level"
+    },
+    {
+      "name": "Central Park",
+      "description": "838 acres of urban oasis stretching from 59th to 110th Street. Visit Strawberry Fields (the Beatles memorial), Bethesda Fountain, or the Central Park Zoo. Free to enter, with optional paid attractions like the zoo (€25) and horse-drawn carriage rides (€70-100).",
+      "walkingTime": "30 minutes via 7 train or 45-minute walk",
+      "cost": "Free (park entry)"
+    },
+    {
+      "name": "High Line",
+      "description": "A 2.3km elevated linear park built on a historic freight rail line above the streets on the West Side. Features native plantings, public art installations, and unique views of the Hudson River and city architecture. Best visited in late afternoon for golden hour photography.",
+      "walkingTime": "25 minutes south",
+      "cost": "Free"
+    },
+    {
+      "name": "The Edge Observation Deck",
+      "description": "New York's highest outdoor sky deck, located at 30 Hudson Yards. Features a glass floor, angled observations windows, and the innovative Sky Step stair climb. The bar at the top serves cocktails with panoramic views — perfect for a pre-cruise celebration.",
+      "walkingTime": "15 minutes",
+      "cost": "€40-55 for observation deck"
+    },
+    {
+      "name": "Intrepid Sea, Air & Space Museum",
+      "description": "Permanently docked aircraft carrier with exhibits including the Space Shuttle Enterprise, a Concorde supersonic jet, and various military aircraft. Located just a 10-minute walk from the cruise terminal — you can literally see the ships from the flight deck.",
+      "walkingTime": "10 minutes",
+      "cost": "€33 adults, €28 children"
+    }
+  ],
+  "localTransport": {
+    "metro": "The NYC subway is the fastest way to reach the Manhattan Cruise Terminal. The A, C, and E trains stop at 50th Street/8th Avenue station — exit north (uptown) and walk west on 50th Street to 12th Avenue (5-8 min walk). The 7 train connects to Times Square. Single rides cost €2.90 with an OMNY card or MetroCard ($2.90). Download the MYmta app for real-time arrival information. Note: The subway operates 24/7 but has reduced service late night. Avoid using the subway during rush hour (7-9:30 AM and 5-7:30 PM) if you have luggage.",
+    "bus": "The M50 bus runs along 49th/50th Streets and stops at 12th Avenue adjacent to the cruise terminal — the most convenient surface transport option. Fare is €2.90 with MetroCard/OMNY. The M11 runs along 9th Avenue (2 blocks east). For cross-town travel, the M42 and M50 provide east-west connections. The M20 and M104 also serve the Midtown West area.",
+    "taxi": "Yellow cabs are plentiful on Manhattan's West Side. Typical fare from Midtown to the cruise terminal: €12-18 depending on exact start point and traffic. From Times Square: ~€15-20. Fares from LaGuardia: €35-50, JFK: €65-80, Newark: €75-90. All three airports charge tolls and potentially bridge tunnels. Uber and Lyft are also widely available, typically priced similarly to taxis but subject to surge pricing during peak hours.",
+    "walkability": "The Manhattan Cruise Terminal is exceptionally walkable. From Times Square: ~20 minutes (1.6 km) walking west on 49th or 50th Streets. From the Intrepid Museum: 10 minutes. From Hudson Yards/High Line: 20-25 minutes. The pedestrian environment is generally safe in this Midtown West neighborhood, though use standard urban precautions at night. You can easily walk to restaurants, coffee shops, and attractions before or after your cruise."
+  },
+  "weather": {
+    "bestMonths": "May through October offers the most comfortable cruising weather from New York. September and October are particularly ideal — summer crowds have thinned, temperatures remain pleasant (15-25°C), and the foliage season begins in upstate New York for Canada/New England routes. June through August is peak season with warmest temperatures (20-30°C) but also highest crowds and hotel prices.",
+    "peakSeason": "The summer months of June, July, and August see the highest passenger volumes from New York, particularly for Caribbean itineraries. September sees strong volume for Bermuda and fall foliage Canada/New England sailings. Holiday cruises departing in December can book solid 6-12 months in advance. Avoid the first week of January and post-Thanksgiving (late November) when equipment and crew changes occur.",
+    "climate": "New York experiences four distinct seasons. Summer cruises: pack light layers, sunscreen, and a light jacket for cooler evenings. Spring/Fall: pack layers including a medium-weight jacket, comfortable walking shoes, and rain gear — temperatures can swing 15°C in a single day. Winter departures: thermal layers, heavy coat, gloves, scarf, and hat — the Hudson River winds make it feel colder dockside. Average temperatures: January (0-5°C), April (10-18°C), July (22-30°C), October (12-20°C)."
+  },
+  "cruiseLinesFromHere": [
+    "Norwegian Cruise Line",
+    "Celebrity Cruises",
+    "Princess Cruises",
+    "Holland America Line",
+    "Cunard Line",
+    "Royal Caribbean International",
+    "MSC Cruises",
+    "Viking Ocean Cruises",
+    "Disney Cruise Line",
+    "Virgin Voyages"
+  ],
+  "isDeparture": true,
+  "isCallPort": true,
+  "insiderTips": [
+    "Manhattan Cruise Terminal has a little-known partnership with nearby Mercedes-Benz Manhattan (on 11th Avenue) — cruise passengers can pre-arrange vehicle delivery to the terminal on embarkation day for a nominal fee. This means you can drive to the terminal in the morning, unload bags with their staff assistance, and they'll shuttle you to the airport afterward with your car. Saves €50-100 in parking costs for week-long cruises.",
+    "The Pier 84 Restaurant (West 44th Street) opens at 6:30 AM for breakfast and serves a hearty American breakfast including eggs, bacon, pancakes, and bottomless coffee for ~€18 — perfect fuel before a long embarkation day. Locals know to eat here rather than wait in the terminal's limited food lines.",
+    "For pre-cruise nights in NYC, stay at the Hotel Edison (West 47th Street) — a classic Art Deco hotel where the nightly lobby pianist has been performing for 40+ years. Rooms run €180-280/night and they offer a cruise-specific package including luggage storage on departure day. Walkable to the terminal in 15 minutes."
+  ],
+  "faq": [
+    {
+      "question": "What cruise lines depart from the Manhattan Cruise Terminal?",
+      "answer": "The Manhattan Cruise Terminal (711 12th Avenue) primarily serves Norwegian Cruise Line, Celebrity Cruises, Princess Cruises, Holland America Line, and Viking Ocean Cruises. Celebrity and Princess also sail from Cape Liberty in Bayonne, NJ. Cunard's Queen Mary 2 uses the Brooklyn Cruise Terminal for transatlantic crossings. Royal Caribbean and MSC primarily depart from Cape Liberty. Always verify your departure terminal on your cruise confirmation, as shuttles between ports can take 45+ minutes."
+    },
+    {
+      "question": "How early should I arrive at the cruise terminal on departure day?",
+      "answer": "Most cruise lines recommend arriving at the Manhattan Cruise Terminal 2-3 hours before your scheduled departure time. Boarding typically begins 2.5-3 hours before sailing. The ideal arrival window is typically 10:30-11:30 AM for afternoon departures — arriving too early means waiting in line outside, while arriving after 1:00 PM during peak season risks missing your sailing due to security processing delays. Norwegian's ships often begin boarding at 11:30 AM, Celebrity at noon."
+    },
+    {
+      "question": "Is there convenient parking near the Manhattan Cruise Terminal?",
+      "answer": "Yes, several options exist. The terminal's official parking garage charges approximately €55-65/day but fills quickly in summer. Icon Parking at 450 W 42nd Street offers indoor parking at €45-55/day with complimentary shuttle service — book online in advance for the best rates. For Cape Liberty departures, the on-site parking garage charges €35-45/day. Consider Park2Go or Park Sleep Fly packages if combining parking with pre-cruise hotel stays. All rates are subject to seasonal fluctuation."
+    },
+    {
+      "question": "Can I walk from the cruise terminal to Times Square or other Manhattan attractions?",
+      "answer": "Absolutely — the Manhattan Cruise Terminal is one of the most walkable cruise ports in the world. Times Square is approximately 1.6 km (20-minute walk) west along 50th or 49th Street. The Empire State Building is about 2 km (25 minutes), and the High Line park is approximately 1.5 km south. The Intrepid Sea, Air & Space Museum is just 10 minutes away and visible from the terminal. Wear comfortable shoes and allow extra time if you have luggage — there are no baggage storage lockers at the terminal, but some nearby hotels offer day-use luggage storage for €10-20."
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "p-and-o-iona",
+  "name": "P&O Iona",
+  "cruiseLine": "P&O Cruises",
+  "cruiseLineSlug": "po-cruises",
+  "metaTitle": "P&O Iona Review 2026 — Cabins, Dining, Entertainment",
+  "metaDescription": "Full review of P&O Cruises's P&O Iona. Cabins, dining, entertainment, pools, and what makes this ship special.",
+  "heroSubtitle": "P&O Iona — P&O Cruises Cruise Ship",
+  "overview": "The P&O Iona is a landmark vessel for British cruising — the first cruise ship in P&O's fleet to be powered by LNG (liquefied natural gas), marking a significant step in the line's environmental commitment. Launched in 2021, this 184,700-tonne behemoth carries around 5,200 passengers across 19 decks and represents P&O Cruises' most ambitious ship to date. The Iona has a distinctly British personality, offering the familiar P&O formula of comfortable formality, quality entertainment, and excellent service — but with a modern, refreshed aesthetic that feels contemporary rather than dated.\n\nThe ship excels at delivering a premium-but-accessible holiday experience. Its standout feature is the stunning Sky Pavilion — a dramatic glass dome structure covering the forward pool area that creates an incredible indoor-outdoor space regardless of weather. British families, couples, and first-time cruisers will feel immediately at home here. The Iona doesn't try to compete with the flashy mega-ships of Royal Caribbean or MSC, but rather offers a more refined, grown-up atmosphere with plenty for families when needed. Its itineraries from Southampton focus primarily on Norway, the Mediterranean, and the Canary Islands — making it ideal for British cruisers who prefer fly-free holidays.",
+  "quickFacts": {
+    "yearBuilt": 2021,
+    "tonnage": "184700 GRT",
+    "passengers": 5200,
+    "crew": 1700,
+    "decks": 19,
+    "length": "344m",
+    "cabins": 2614
+  },
+  "cabinTypes": [
+    {
+      "type": "Interior",
+      "priceFrom": 699,
+      "sqft": "150-180",
+      "description": "Interior cabins on the Iona are well-designed and practical, measuring around 150-180 square feet. Despite lacking windows, P&O has maximised space intelligently with clever storage solutions, USB charging points, and decent bathrooms with decent shower pressure. The soft lighting and muted colour palette create a surprisingly comfortable sleeping environment. Best suited to solo travellers on a budget or those who plan to spend minimal time in their cabin. Some interior cabins on lower decks can feel slightly cramped, so consider upgrading if you value space."
+    },
+    {
+      "type": "Balcony",
+      "priceFrom": 1099,
+      "sqft": "220-280",
+      "description": "Balcony cabins are the sweet spot for most P&O Iona passengers, offering 220-280 square feet of space plus that invaluable private outdoor area. The floor-to-ceiling sliding doors flood the cabin with natural light, and the balcony furniture — typically a chair and small table — is perfect for morning coffee while watching the ship pull into port. Midship and mid-deck positions offer the most stable sailing. These cabins are particularly popular with couples and families who appreciate the extra breathing room and the ability to enjoy sea views in privacy. The Britannia balcony cabins on deck 11 and 12 come with priority embarkation."
+    },
+    {
+      "type": "Suite",
+      "priceFrom": 1500,
+      "sqft": "450-700",
+      "description": "The Iona's suites range from comfortable mini-suites to the expansive Grand Suites and Master Suites, offering 450-700+ square feet of living space plus generous balconies. Suite passengers enjoy the exclusive Britannia Club restaurant, which serves breakfast, lunch, and dinner in a more intimate setting. Other perks include priority check-in, embarkation, and debarkation, plus concierge service and upgraded toiletries. The Master Suites on deck 11 feature separate living rooms, double bathrooms, and panoramic balconies. Upgrade if you value personal service, extra space for longer cruises, and the prestige of the Britannia experience."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Britannia Restaurant",
+      "type": "included",
+      "description": "The Britannia Restaurant is P&O's signature main dining room, spanning multiple decks with a grand two-level layout and sweeping staircase. Dinner here follows traditional assigned seating with two time options (typically 6:00pm and 8:30pm). The menu changes nightly with a good mix of British classics and international dishes. Quality is consistently solid — expect dishes like roast beef, fresh fish, and decent vegetarian options. The formal atmosphere strikes a balance between elegant and accessible, making it suitable for special occasions without feeling stuffy."
+    },
+    {
+      "name": "Limoncello",
+      "type": "surcharge",
+      "price": "€30-50 per person",
+      "description": "This Italian specialty restaurant brings authentic Mediterranean flavours to sea. Located on deck 8, Limoncello serves classic dishes like handmade pasta, risotto, and wood-fired pizzas in a stylish setting with lemon-themed décor. The tiramisu is a standout. At €30-50 per person, it's reasonable for a specialty restaurant and ideal for a romantic dinner or special occasion. Reservations are essential, especially on sea days."
+    },
+    {
+      "name": "Sindhu",
+      "type": "surcharge",
+      "price": "€30-45 per person",
+      "description": "Sindhu is P&O Iona's celebrated Indian restaurant, offering an impressive array of curries, tandoori dishes, and regional specialities. Chef Atul Kochhar has created a menu that balances traditional flavours with contemporary presentation. The tasting menu is excellent value for adventurous eaters. British passengers with a love of curry will particularly appreciate this venue. Book early — Sindhu consistently books out fast."
+    },
+    {
+      "name": "Ocean Grill",
+      "type": "surcharge",
+      "price": "€35-55 per person",
+      "description": "Ocean Grill is P&O's seafood specialist, offering premium dishes like lobster, oysters, Dover sole, and king prawns in an upscale setting. The raw bar is exceptional, and the wine list complements the seafood beautifully. It's pricier than other specialty venues but justified by the quality of ingredients and preparation. Perfect for seafood lovers celebrating a special occasion."
+    },
+    {
+      "name": "The Glass House",
+      "type": "included",
+      "description": "This stylish wine bar offers a curated selection of wines by the glass using innovative enomatic machines, allowing guests to taste premium wines in smaller portions. The menu includes tasting flights and light bites. It's a relaxed, sophisticated space for pre-dinner drinks or a leisurely afternoon. Complimentary to dine but wines are charged individually."
+    },
+    {
+      "name": "Green & Co",
+      "type": "surcharge",
+      "price": "€25-40 per person",
+      "description": "Green & Co brings South American fusion cuisine to the Iona, with a focus on fresh, flavourful dishes and vibrant cocktails. The menu includes ceviches, empanadas, grilled meats, and creative vegetarian options. The atmosphere is lively and social, with an open kitchen and communal seating options. A great choice for those seeking something different from traditional cruise dining."
+    }
+  ],
+  "entertainment": [
+    "The Arena — Iona's main show lounge is an engineering marvel, featuring Broadway-calibre productions, comedy shows, and musical performances. The stadium-style seating and state-of-the-art sound and lighting create an immersive experience. Productions change regularly, but typical offerings include West End-style musical reviews and tribute acts.",
+    "The Club — This is the ship's casino, offering roulette, blackjack, poker tables, and a decent selection of slot machines. It's a popular evening spot for those who enjoy a flutter, though dress codes are smart casual rather than formal.",
+    "Brocks — A traditional British pub serving classic pub fare and real ale. Live music most evenings creates a lively atmosphere perfect for a relaxed drink. It's one of the most authentic-feeling pubs at sea.",
+    "Ocean Studios Cinema — A proper four-screen cinema complex featuring current blockbusters and classic films. The 4DX screens add motion, wind, and sensory effects to action sequences — great fun for families on sea days.",
+    "Keelback — A unique sensory cinema experience where films are accompanied by immersive effects including scents, mist, and temperature changes. A genuinely innovative entertainment option rarely found on other cruise ships.",
+    "Live Music Throughout — P&O excels at live music, with pianists, acoustic acts, and full bands performing across multiple venues nightly. The afternoon tea with string quartet in the Atalntic Room is a particular highlight."
+  ],
+  "pools": [
+    "The Sky Pavilion Pool — The crown jewel of the Iona's pool areas. This stunning glass dome covers the main pool, creating a bright, sheltered space that remains usable in any weather. The retractable roof allows it to transform from enclosed conservatory to open-air deck. Surrounding loungers, a hot tub, and a bar complete the picture. This area gets busy on sea days but never feels chaotic.",
+    "The Oasis Pool — An adults-only pool area offering a quieter, more relaxed atmosphere. With its own bar and ample deck space, it's perfect for passengers seeking peace away from the family-oriented main pool. The two hot tubs here are popular.",
+    "The Infinity Pool — Positioned at the ship's aft with breathtaking sea views, this adults-only pool offers a more exclusive feel. The stunning backdrop makes it a favourite for photographers and those wanting to watch the ship's wake.",
+    "Splashers Aquapark — The ship's family aqua zone features water slides, splash pads, and interactive water features designed specifically for children. Adults are welcome but expect it to be dominated by younger cruisers during peak hours.",
+    "The Retreat — An adults-only sunbathing area with private cabanas available to hire. It offers a premium poolside experience with waiter service, making it feel like a boutique beach club."
+  ],
+  "kidsClubs": [
+    "The Reef is P&O Iona's comprehensive children's programme, catering to ages 2-17. The Splashers club (ages 2-4) offers supervised play with crafts, games, and character visits. Surfers (ages 5-8) and H20 (ages 9-12) provide age-appropriate activities including swimming parties, sports, and themed events. The Edge (ages 13-17) is a dedicated teen hangout with its own disco, gaming suite, and chill-out zone. All clubs operate free of charge during specified hours, with late-night and premium supervised sessions available for an additional fee. The kids' facilities are bright, modern, and well-staffed — parents consistently praise the team."
+  ],
+  "bestFor": [
+    "British families",
+    "Couples seeking a traditional cruise",
+    "First-time cruisers",
+    "Norway fjords enthusiasts",
+    "Fly-free holiday seekers"
+  ],
+  "notIdealFor": [
+    "Non-British passengers seeking diverse international culture",
+    "Luxury-seekers expecting ultra-premium amenities",
+    "Budget cruisers expecting value pricing",
+    "Party-goers seeking Vegas-style nightlife"
+  ],
+  "prosAndCons": {
+    "pros": [
+      "The Sky Pavilion is genuinely exceptional — a glass-domed pool area that transforms the ship's most popular space into something uniquely usable in any weather",
+      "Outstanding British entertainment programme with quality West End-style shows, live music across multiple venues, and authentic pub experiences like Brocks",
+      "Excellent variety of specialty dining venues including beloved P&O staples like Sindhu alongside newer concepts like Green & Co",
+      "Strong environmental credentials with LNG power reducing emissions significantly compared to older ships",
+      "Familiar British holiday atmosphere — afternoon tea, seven-course dinners, and that distinctly P&O culture that British cruisers know and love"
+    ],
+    "cons": [
+      "Cabin sizes are modest, particularly interior and standard balcony cabins — families of four in inside cabins will feel squeezed",
+      "Service can be inconsistent during peak sailings — the crew works hard but the passenger-to-staff ratio means personalised attention isn't guaranteed",
+      "Limited evening entertainment after 11pm — the ship quiets down considerably, which won't suit night owls",
+      "Specialty dining costs add up quickly for families — the included dining options, while good, may feel repetitive on longer sailings",
+      "The formal nights and dress code expectations can feel dated to some passengers, though others consider this a charming tradition"
+    ]
+  },
+  "verdict": "The P&O Iona delivers exactly what it promises: a polished, comfortable British cruise experience that feels familiar yet refreshed. It's not the most glamorous ship afloat, nor does it offer the wow-factor attractions of larger competitors, but what it does, it does well. The Sky Pavilion is a genuine innovation, the entertainment programme is impressively strong for a ship of this size, and the variety of dining options ensures there's something for every taste and budget.\n\nThis ship is best suited to British families, couples, and first-time cruisers seeking a traditional cruise holiday without the formality of older P&O vessels. The Iona shines brightest on Norway and Mediterranean itineraries, where the scenic ports complement the ship's comfortable onboard experience. However, those expecting ultra-premium luxury or non-stop action may want to look elsewhere. At a 4.2 rating, the Iona represents excellent value for the British market — a ship that consistently delivers a quality holiday experience that passengers return to year after year.",
+  "rating": 4.2,
+  "itineraries": [
+    {
+      "name": "7-Night Norway Fjords",
+      "ports": [
+        "Southampton",
+        "Bergen",
+        "Olden",
+        "Flåm",
+        "Stavanger",
+        "Southampton"
+      ],
+      "from": "Southampton"
+    },
+    {
+      "name": "7-Night Western Mediterranean",
+      "ports": [
+        "Southampton",
+        "Gibraltar",
+        "Cartagena",
+        "Barcelona",
+        "Marseille",
+        "Southampton"
+      ],
+      "from": "Southampton"
+    },
+    {
+      "name": "14-Night Iberian Adventure",
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Cádiz",
+        "Mallorca",
+        "Barcelona",
+        "Valencia",
+        "Gibraltar",
+        "Southampton"
+      ],
+      "from": "Southampton"
+    },
+    {
+      "name": "7-Night Canary Islands",
+      "ports": [
+        "Southampton",
+        "Madeira",
+        "Tenerife",
+        "Lanzarote",
+        "La Palma",
+        "Southampton"
+      ],
+      "from": "Southampton"
+    },
+    {
+      "name": "14-Night Norwegian Fjords & Arctic Circle",
+      "ports": [
+        "Southampton",
+        "Stavanger",
+        "Bergen",
+        "Geiranger",
+        "Ålesund",
+        "Trondheim",
+        "Honningsvåg",
+        "Bergen",
+        "Southampton"
+      ],
+      "from": "Southampton"
+    }
+  ]
+}

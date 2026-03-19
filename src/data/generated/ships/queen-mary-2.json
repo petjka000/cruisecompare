@@ -1,0 +1,167 @@
+{
+  "slug": "queen-mary-2",
+  "name": "Queen Mary 2",
+  "cruiseLine": "Cunard",
+  "cruiseLineSlug": "cunard",
+  "metaTitle": "Queen Mary 2 Review 2026 — Cabins, Dining, Entertainment",
+  "metaDescription": "Full review of Cunard's Queen Mary 2. Cabins, dining, entertainment, pools, and what makes this ship special.",
+  "heroSubtitle": "Queen Mary 2 — Cunard Cruise Ship",
+  "overview": "The Queen Mary 2 is not merely a cruise ship — it is the last true ocean liner built for regular transatlantic service, and it shows in every detail. Launched in 2002004 and sweeping refurbished in 2016, this 345-meter vessel carries the weight of maritime heritage while delivering thoroughly modern luxury. Where most contemporary ships are floating resorts, the QM2 feels like a grand hotel at sea — all high ceilings, art deco flourishes, and an atmosphere that rewards passengers who appreciate tradition, formality, and unhurried elegance.\n\nThis is a ship designed for adults and couples seeking sophistication over splash parks. The dress code — formal nights, elegant casual evenings — is taken seriously here, and the absence of water slides or rope courses is a deliberate choice. The ship excels at what it calls the 'white-glove experience': impeccable service, expansive decks for walking (the船尾 promenade wraps around the ship), and an intellectual/cultural program that includes lectures, concerts, and the unique Illuminations planetarium. Transatlantic crossings between Southampton and New York remain the ship's most iconic voyages, recapturing the romance of the golden age of ocean travel.",
+  "quickFacts": {
+    "yearBuilt": 2004,
+    "tonnage": "149215 GRT",
+    "passengers": 2700,
+    "crew": 1200,
+    "decks": 14,
+    "length": "345m",
+    "cabins": 1310
+  },
+  "cabinTypes": [
+    {
+      "type": "Interior",
+      "priceFrom": 1299,
+      "sqft": "150-180",
+      "description": "Interior staterooms on the QM2 offer 150-180 square feet of well-designed space — surprisingly generous for the category. Configured as standard doubles with en-suite bathrooms featuring tub/shower combinations, these accommodations prioritize comfort over flash. Britannia Club interiors on higher decks offer priority dining and concierge service. Best for: passengers focused on the ship's experiences rather than their cabin, or those booking shorter sailings where maximum time is spent off the room."
+    },
+    {
+      "type": "Balcony",
+      "priceFrom": 2499,
+      "sqft": "220-280",
+      "description": "Balcony staterooms are where most passengers find their sweet spot on the QM2. The 220-280 square foot cabins include 35-45 square foot balconies with teak furniture — perfect for watching the Atlantic roll by on a crossing. Britannia Balcony cabins on decks 9-10 offer superior location near the Britannia Restaurant and Princess/Queens Grill access. Decor is elegant traditional — rich woods, gold accents, quality bedding. Best for: couples and anyone planning Atlantic crossings who want to experience the ocean properly."
+    },
+    {
+      "type": "Suite",
+      "priceFrom": 3500,
+      "sqft": "450-1100",
+      "description": "Suite categories escalate from comfortable Britannia Suites (450-520 sq ft) to the grand Duplex Penthouses spanning two floors and 1,900 square feet. All suites include: priority embarkation/disembarkation, exclusive access to the Princess and Queens Grills (private restaurants with no surcharge), dedicated concierge service, superior toiletries, champagne on arrival, and butler service in Penthouse categories. The Queens Grill passengers occupy the ship's prime forward position with panoramic Atlantic views. Best for: guests seeking the complete Cunard experience, anniversary celebrations, and those who appreciate exclusive amenities."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Britannia Restaurant",
+      "type": "included",
+      "description": "The ship's main dining room spans three decks with a sweeping staircase and magnificent ballroom. Breakfast and dinner are served in two seatings, with impeccable white-glove service. The menu features classic international cuisine with British influences — roast beef, fresh seafood, and excellent desserts. Britannia guests (standard balcony/interior passengers) dine here at assigned tables. Formal nights draw out the evening wear, creating the grandest restaurant ambiance at sea."
+    },
+    {
+      "name": "Princess Grill",
+      "type": "included",
+      "description": "Exclusive to Princess Grill passengers, this intimate restaurant serves breakfast, lunch, and dinner with flexible seating. The menu emphasizes refined British and continental dishes — pan-seared duck, lobster thermidor, curated cheese selections. Service is attentive but unhurried. The intimate scale (fewer than 200 seats) creates a club-like atmosphere that repeat Cunard passengers specifically seek out."
+    },
+    {
+      "name": "Queens Grill",
+      "type": "included",
+      "description": "The pinnacle of Cunard's dining, reserved for Penthouse suite guests. Queens Grill offers the same flexible dining and refined menu as Princess Grill but in the ship's most exclusive setting, with additional premium offerings like specialty wines and bespoke menu requests accommodated. This is where Cunard's most loyal guests dine — many booking months in advance for specific transatlantic crossings."
+    },
+    {
+      "name": "Kings Court",
+      "type": "surcharge",
+      "price": "€30-55 per person",
+      "description": "This versatile alternative dining venue transforms through the evening: Lotus (Asian cuisine with dim sum and wok specialties), La Piazza (Italian), and The Steakhouse at Kings Court (premium cuts with proper dry-aging). Each station operates on select evenings, and guests can mix dishes across venues in a single sitting. The intimate format and á la carte pricing make it popular for special occasions."
+    },
+    {
+      "name": "Todd English",
+      "type": "surcharge",
+      "price": "€45 per person",
+      "description": "Celebrity chef Todd English's signature restaurant offers refined Mediterranean-inspired cuisine in an elegant setting. The five-course tasting menu showcases dishes like Maine lobster and truffle risotto. Lunch is served on sea days, dinner nightly. Reservations are essential, especially on embarkation day. Best experienced as part of a special celebration or when seeking a quieter, more intimate alternative to the main dining room."
+    },
+    {
+      "name": "The Golden Lion",
+      "type": "included",
+      "description": "The ship's traditional English pub offers classic British pub fare — fish and chips, bangers and mash, ploughman's lunches — with authentic touches like draft bitter and a proper Sunday roast. No surcharge makes it popular for casual lunches or relaxed dinners. Quiz nights, live sports viewing, and singalongs create a genuinely pub atmosphere rather than a cruise ship approximation."
+    }
+  ],
+  "entertainment": [
+    "Royal Court Theatre — This three-deck showroom hosts West End-caliber productions, guest performers, and Cunard's famous Ball Season. The theatre is one of the finest at sea, with excellent sightlines from every seat and a proper stage for full productions rather than lounge acts. Evening shows range from comedy to concerts to original production shows.",
+    "Illuminations — The only planetarium at sea, Illuminations presents full-dome films on astronomy and science, plus Cunard's signature 'Lectures at Sea' program featuring distinguished speakers from academia, journalism, and exploration. The venue also screens classic cinema and hosts special themed evenings.",
+    "G32 Nightclub — The ship's contemporary entertainment venue offers live DJ sets, themed parties, and late-night dancing on decks 3-4. A contrast to the ship's formal atmosphere, G32 attracts passengers seeking nightlife energy after the theatre shows end.",
+    "Royal Arcade — This shopping promenade recalls the grand Victorian shopping streets, lined with boutiques featuring luxury brands, watches, jewelry, and Cunard merchandise. Art auctions and wine tastings occasionally pop up in the arcade space.",
+    "Cunard Insights Program — Daily enrichment includes guest speakers, historians, authors, and destination experts. Transatlantic crossings feature especially robust programming with guest lecturers who specialize in maritime history, transatlantic travel, and the ports visited."
+  ],
+  "pools": [
+    "Main Pool (Deck 9) — The primary outdoor pool flanked by two whirlpools, flanked by the Pavilion Bar and Terrace. This is the ship's social hub on sea days, though crowding can be an issue on Caribbean sailings. Sun loungers are abundant but shade is limited. The area transforms into a covered Winter Garden on cooler crossings.",
+    "Lawn Club Pool (Deck 14) — The smaller, more intimate pool sits adjacent to the unique Grass Terrace (real grass on a cruise ship!) and offers a quieter alternative to the main deck. The adult-only setting and superior views make it popular with couples seeking relaxation away from families."
+  ],
+  "kidsClubs": [
+    "The Fun Zone on Deck 11 serves children ages 1-7 with supervised activities, arts and crafts, and playtime. TheZone for ages 8-12 offers video games, sports activities, and themed events. Teen zone teens (ages 13-17) have a dedicated space with social activities, movie nights, and sports tournaments. The program operates daily hours, though enrichment-focused activities replace pure childcare on Cunard's more adult-oriented itineraries. Families should note: this is not a ship designed for children, and the kids' facilities, while adequate, are modest compared to mainstream cruise lines."
+  ],
+  "bestFor": [
+    "Traditional cruisers",
+    "Romantic getaways",
+    "History and culture enthusiasts",
+    "Transatlantic crossing seekers",
+    "Luxury travelers who value formality",
+    "Couples and adults",
+    "Literary and intellectual travelers"
+  ],
+  "notIdealFor": [
+    "Families with young children",
+    "Budget-conscious travelers",
+    "Casual dress code preference",
+    "Party and nightlife seekers",
+    "Those wanting constant activity"
+  ],
+  "prosAndCons": {
+    "pros": [
+      "True ocean liner experience — the QM2 handles Atlantic crossings with genuine stability, and the ship's design prioritizes ocean travel over port-intensive itineraries. Nothing else at sea compares for the Southampton-to-New York crossing.",
+      "White-glove service and formal atmosphere — the crew-to-guest ratio and traditional Cunard service standards create an experience that feels genuinely luxurious, not manufactured.",
+      "Unique entertainment and enrichment — Illuminations planetarium, the Royal Court Theatre productions, and the Insights lecture series offer intellectual engagement that mass-market ships simply cannot match.",
+      "Exceptional Britannia and Grill dining — Princess Grill and Queens Grill provide intimate, surcharge-free specialty dining that rivals land-based fine dining establishments.",
+      "Ship atmosphere and design — the art deco styling, sweeping staircases, promenades for walking, and absence of gimmicks create a genuinely elegant vessel."
+    ],
+    "cons": [
+      "Limited facilities for children — families with young kids will find better options on mainstream lines; the kids' club setup is basic, and the overall atmosphere does not embrace family cruising.",
+      "Formal dress code expectations — while not strictly enforced, most passengers dress up for dinner, and 'elegant casual' nights still require collared shirts and dresses. Passengers who hate formal wear will feel uncomfortable.",
+      "Dated stateroom design in lower categories — interior and standard balcony cabins show their 2004 origins despite the 2016 refurbishment. Décor is elegant but tired compared to newer vessels.",
+      "Crowding on Caribbean sailings — the ship was designed for ocean crossings, not warm-water itineraries. When deployed to the Caribbean, pool space becomes congested, and the limited shade becomes frustrating.",
+      "Premium pricing across the board — Cunard's pricing reflects its heritage positioning. Passengers who compare identically-sized cabins on contemporary ships may feel they receive less space and fewer amenities for the fare."
+    ]
+  },
+  "verdict": "The Queen Mary 2 occupies a unique position in modern cruising — a deliberate throwback to ocean liner grandeur that delivers exactly what it promises: elegance, tradition, and unhurried sophistication. Passengers who embrace the formality, attend the lectures, dress for dinner, and walk the promenade at sunset find a ship that exceeds expectations. Those seeking casual cruising, family-friendly activities, or contemporary ship amenities will be frustrated.\n\nThe QM2 is best experienced on its signature transatlantic crossings, where the ship's purpose-built design — higher bow for Atlantic swells, superior stabilizers, the absence of distracting amenities — becomes clear. However, the ship adapts well to European and Caribbean itineraries for passengers who prioritize the Cunard experience over beach-heavy port schedules. We recommend this ship to couples, solo travelers, and mature passengers who want to feel transported to a more gracious era of travel — and who understand that Cunard's premium pricing purchases atmosphere and service rather than simply square footage.",
+  "rating": 4.5,
+  "itineraries": [
+    {
+      "name": "7-Night Western Mediterranean",
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Cádiz",
+        "Barcelona",
+        "Marseille",
+        "Southampton"
+      ],
+      "from": "Southampton"
+    },
+    {
+      "name": "14-Night Grand Caribbean",
+      "ports": [
+        "Southampton",
+        "Funchal (Madeira)",
+        "St. Maarten",
+        "St. Thomas",
+        "San Juan",
+        "Miami"
+      ],
+      "from": "Southampton"
+    },
+    {
+      "name": "7-Night Norwegian Fjords",
+      "ports": [
+        "Southampton",
+        "Stavanger",
+        "Hardangerfjord",
+        "Bergen",
+        "Southampton"
+      ],
+      "from": "Southampton"
+    },
+    {
+      "name": "7-Night Transatlantic Crossing",
+      "ports": [
+        "Southampton",
+        "Atlantic Ocean",
+        "New York"
+      ],
+      "from": "Southampton"
+    }
+  ]
+}

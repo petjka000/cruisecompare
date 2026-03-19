@@ -1,0 +1,143 @@
+{
+  "slug": "seattle",
+  "name": "Seattle",
+  "city": "United States",
+  "country": "United States",
+  "iata": "SEA",
+  "region": "Alaska",
+  "metaTitle": "Seattle Cruise Port Guide 2026 — Terminals, Transport & Tips",
+  "metaDescription": "Complete guide to Seattle cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+  "heroSubtitle": "Everything you need to know before your cruise from Seattle",
+  "overview": "Seattle serves as one of North America's premier cruise departure ports, handling over 1 million passengers annually with most sailings heading to Alaska's Inside Passage. The city has invested heavily in its cruise infrastructure, making it a smooth departure experience. What sets Seattle apart is its unique position as the gateway to Alaska while being a vibrant destination in its own right — cruise passengers often arrive a day or two early to explore Pike Place Market, the Space Needle, and the city's thriving food scene. The port's proximity to downtown (under 2 km) means you're never far from the action, whether you're grabbing fresh oysters before boarding or watching your ship arrive over coffee at the waterfront.",
+  "terminals": [
+    {
+      "name": "Smith Cove Cruise Terminal (Pier 91)",
+      "description": "Seattle's primary cruise facility located in the Smith Cove area, this modern terminal handles the majority of Alaska-bound vessels. The terminal features efficient passenger processing, covered walkway to ships, and stunning views of Elliott Bay. Used by Princess Cruises (their Alaska hub), Holland America Line (their Seattle homeport), Norwegian Cruise Line, Royal Caribbean, and Celebrity Cruises during peak season.",
+      "cruiseLines": [
+        "Princess",
+        "Holland America",
+        "Norwegian Cruise Line",
+        "Royal Caribbean",
+        "Celebrity"
+      ],
+      "facilities": [
+        "information desk",
+        "toilets",
+        "coffee shop",
+        "seating area",
+        "luggage storage",
+        "ATM",
+        "vending machines",
+        "gift shop",
+        "wheelchair rental"
+      ]
+    },
+    {
+      "name": "Bell Street Cruise Terminal (Pier 66)",
+      "description": "A smaller, more intimate terminal facility on Seattle's waterfront used primarily by smaller vessels and select Celebrity and Norwegian sailings. The terminal offers a more boutique experience with quicker boarding times and easier pedestrian access from downtown. Walking distance to Pike Place Market is approximately 15 minutes.",
+      "cruiseLines": [
+        "Celebrity",
+        "Norwegian Cruise Line",
+        "American Cruise Lines"
+      ],
+      "facilities": [
+        "information desk",
+        "toilets",
+        "small café",
+        "seating area",
+        "basic amenities"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "fromAirport": "Seattle-Tacoma International Airport (SEA) is located 23 km south of downtown. The most cost-effective option is the Link Light Rail ($3.50 USD / ~3 EUR) to Westlake Center in downtown, then a 10-minute walk or short taxi to the port. Total journey time is approximately 45-60 minutes. Taxis and rideshares (Uber/Lyft) cost approximately $45-55 USD (~$40-50 EUR) and take 30-40 minutes depending on traffic. Shared shuttles like Shuttle Express serve the route for around $25 USD (~$23 EUR) per person but require advance booking.",
+    "fromCityCenter": "Seattle's cruise terminals are remarkably close to downtown. From Pike Place Market, Smith Cove (Pier 91) is about 2 km — a 25-minute walk or 5-minute taxi (~$10 USD / ~9 EUR). Bell Street Terminal (Pier 66) is even closer at under 1 km, essentially a 10-15 minute waterfront walk from the market. The Seattle Streetcar Line also connects downtown to the cruise port area.",
+    "parking": "The Port of Seattle operates secure parking garages at both terminals. At Pier 91, the Garage 2 facility offers long-term parking at approximately $40 USD per day (~$37 EUR) for cruise passengers who book in advance online, or $50 USD/day (~$46 EUR) for walk-up rates. Pier 66 has limited parking at approximately $35 USD/day (~$32 EUR). Third-party lots like Cruise Parking Seattle and CPC Parking near the port offer competitive rates starting at $25 USD/day (~$23 EUR) with free shuttle service to the terminals.",
+    "shuttles": "Most major cruise lines (Princess, Holland America, Norwegian) offer pre-bookable shuttle transfers between Seattle hotels and the cruise terminal for $20-30 USD per person (~$18-28 EUR). These must be reserved in advance through the cruise line's website. The Port of Seattle also partners with shuttle services, but there are no free public shuttles. Airport-to-port shuttles are available through companies like Shuttle Express but require separate booking."
+  },
+  "embarkationTips": [
+    "Arrive at the terminal no earlier than 11:00 for afternoon departures — Seattle cruise terminals have minimal shade and seating, and you'll just wait in the sun or rain.",
+    "Book a room at the Mediterranean Inn, The Edgewater Hotel, or Hotel Ballard for the night before embarkation — these offer free shuttle service to the port and are within walking distance of the terminals.",
+    "The security line at Pier 91 moves fastest between 12:30-13:30 — this is the sweet spot after the early rush and before the afternoon wave.",
+    "Bring a collapsible water bottle — Seattle tap water is excellent, and you'll save money avoiding the expensive bottled water sold at the terminal.",
+    "If driving, use the Port's Garage 2 at Pier 91 and pre-book online — this saves about $10 USD daily and guarantees a spot during peak season."
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "Pike Place Market",
+      "description": "America's oldest continuously operating farmers market is a Seattle icon. Watch fishmongers throw salmon, grab fresh cherry tomatoes, sample local honey, and grab a famous Pike Place Chowder before boarding. The market is within walking distance of both terminals.",
+      "walkingTime": "15-20 minutes from Pier 66, 25 minutes from Pier 91",
+      "cost": "Free to enter, food purchases variable (~$15-25 EUR for a full meal)"
+    },
+    {
+      "name": "Seattle Great Wheel",
+      "description": "A 175-foot Ferris wheel on the waterfront offering panoramic views of Elliott Bay, the Olympic Mountains, and downtown Seattle. Perfect photo opportunity of your ship before you board.",
+      "walkingTime": "10 minutes from Pier 66, 20 minutes from Pier 91",
+      "cost": "~$15 USD (~$14 EUR) per person"
+    },
+    {
+      "name": "The Museum of Pop Culture (MoPOP)",
+      "description": "Seattle's contemporary culture museum features exhibits on music, sci-fi, and pop culture. Located adjacent to the Space Needle and a short monorail ride from downtown — excellent for passengers with late flight departures after disembarkation.",
+      "walkingTime": "Not walkable — take the Seattle Monorail from Westlake Center (10 minutes)",
+      "cost": "~$30 USD (~$28 EUR) per adult"
+    },
+    {
+      "name": "Chihuly Garden and Glass",
+      "description": "Stunning exhibition of blown-glass art by Dale Chihuly, located next to the Space Needle with views of Puget Sound. Features eight galleries and a beautiful garden setting — perfect for culture lovers with a few hours to spare.",
+      "walkingTime": "25 minutes from Pier 91, 15 minutes from Pier 66",
+      "cost": "~$40 USD (~$37 EUR) per adult"
+    },
+    {
+      "name": "Seattle Art Museum",
+      "description": "World-class art museum downtown featuring European masters, African art, and an excellent Northwest Coast indigenous art collection. The museum is steps from Pike Place Market.",
+      "walkingTime": "10 minutes from Pier 66",
+      "cost": "~$25 USD (~$23 EUR) per adult (free first Tuesday of each month)"
+    }
+  ],
+  "localTransport": {
+    "metro": "Seattle's Link Light Rail connects SeaTac Airport to downtown Seattle (Westlake Station) in about 40 minutes for $3.50 USD (~$3 EUR). From Westlake, it's a 10-15 minute walk or short taxi to the cruise terminals. The Light Rail does not directly serve the cruise port area.",
+    "bus": "King County Metro buses serve the waterfront area near the cruise terminals. Routes 17 and 18 stop near Pier 91, while numerous routes (1, 2, 13, 24) serve the Pike Street area near Pier 66. A ORCA card is recommended for seamless boarding. Fares are $2.75 USD (~$2.50 EUR) per ride.",
+    "taxi": "Taxis are readily available outside both terminals. A taxi to Pike Place Market costs approximately $10 USD (~$9 EUR). Rideshare apps (Uber, Lyft) are also widely available and typically cost $8-15 USD (~$7-14 EUR) to downtown. Consider that traffic can significantly impact travel times during rush hours (7-9 AM and 4-7 PM).",
+    "walkability": "Seattle's cruise terminals are highly walkable to downtown attractions. Pier 91 is about 2 km from Pike Place Market (25-30 minute walk along the waterfront), while Pier 66 is under 1 km away (10-15 minute walk). The waterfront promenade provides a scenic pedestrian route. Seattle's downtown core is compact and easy to navigate on foot."
+  },
+  "weather": {
+    "bestMonths": "Late May through early September offers the best cruising weather from Seattle. July and August provide the warmest temperatures and longest daylight hours (up to 17 hours of daylight in June). June offers the famous white nights with extended twilight.",
+    "peakSeason": "Peak Alaska cruise season runs from mid-June through mid-August, coinciding with school summer vacations. During this period, Seattle hosts multiple ships daily. The first week of July and Labor Day weekend see the highest volume. Princess and Holland America each operate 5-7 ships from Seattle during peak season.",
+    "climate": "Seattle has a mild maritime climate with cool, dry summers and wet winters. For Alaska-bound cruises departing from Seattle, pack layers: a light jacket or sweater for Seattle, with a waterproof layer for the Ship Bay area. Average temperatures range from 15-25°C in summer. Rain is possible even in summer — pack a compact umbrella. For Inside Passage ports, temperatures typically range from 10-18°C. Dress in layers and bring comfortable walking shoes."
+  },
+  "cruiseLinesFromHere": [
+    "Princess",
+    "Holland America",
+    "Norwegian Cruise Line",
+    "Royal Caribbean",
+    "Celebrity",
+    "Carnival",
+    "American Cruise Lines",
+    "Viking Ocean Cruises"
+  ],
+  "isDeparture": true,
+  "isCallPort": true,
+  "insiderTips": [
+    "Princess and Holland America passengers should book the Alaska Railroad's Coastal Classic train from Anchorage to Seward as a post-cruise add-on — it offers unbeatable views of Denali and the Alaska Range that you simply cannot see from the highway.",
+    "Skip the expensive port-side restaurants on embarkation day — instead, grab a bowl of award-winning clam chowder at Pike Place Fish Market or sample fresh oysters at Taylor Shellfish for half the price with twice the quality.",
+    "For the best ship photos, walk to the Seattle Great Wheel pier at the end of the waterfront — from there you can capture your entire ship from bow to stern with the city skyline as backdrop. Arrive 30 minutes before your scheduled departure time."
+  ],
+  "faq": [
+    {
+      "question": "What is the closest airport to the Seattle cruise port?",
+      "answer": "Seattle-Tacoma International Airport (SEA) is the nearest major airport, located 23 km south of downtown. It takes approximately 35-45 minutes by taxi or rideshare ($45-55 USD / ~40-50 EUR) and about 50 minutes via Link Light Rail ($3.50 USD / ~3 EUR). Seattle's smaller Lake Union seaplane base also serves floatplane traffic but is not typically used by commercial cruise passengers."
+    },
+    {
+      "question": "How far in advance should I arrive at the Seattle cruise terminal for embarkation?",
+      "answer": "The Port of Seattle recommends arriving between 11:00 and 12:30 for afternoon departures (typically between 14:00 and 16:00). Arriving too early means waiting outside in all weather conditions. Your cruise documents will specify your boarding time — follow it. At Pier 91, the security and check-in process typically takes 20-40 minutes depending on volume."
+    },
+    {
+      "question": "Is there luggage storage available at the Seattle cruise terminals?",
+      "answer": "Limited luggage storage is available at the terminals for early arrivals. However, most passengers prefer to store luggage at their hotel if arriving the night before, or use services like Bounce or Stowga that partner with nearby businesses. The terminals can get crowded, so storing luggage off-site is often more convenient."
+    },
+    {
+      "question": "Can I walk from the cruise port to Pike Place Market?",
+      "answer": "Yes, Seattle's cruise terminals are very close to downtown. From Pier 66 (Bell Street), Pike Place Market is approximately a 10-15 minute walk along the waterfront. From Pier 91 (Smith Cove), it's about 25-30 minutes. The walk is scenic and flat, following the Elliott Bay waterfront promenade. Many passengers disembark and walk to the market for breakfast before heading to the airport."
+    }
+  ]
+}

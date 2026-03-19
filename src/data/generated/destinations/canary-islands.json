@@ -1,0 +1,144 @@
+{
+  "slug": "canary-islands",
+  "name": "Canary Islands",
+  "region": "Europe",
+  "metaTitle": "Canary Islands Cruises Guide 2026 — Best Routes, Ports & Tips",
+  "metaDescription": "Complete guide to cruising the Canary Islands. Best time to visit, top ports, what to expect, and how to plan your Canary Islands cruise.",
+  "heroSubtitle": "Your complete Canary Islands cruise planning guide",
+  "overview": "The Canary Islands archipelago sits in the Atlantic Ocean, approximately 100 kilometres off the coast of Morocco, yet remains firmly Spanish territory. This unique position delivers year-round mild temperatures, making the islands a premier winter sun cruising destination. The seven main islands—Tenerife, Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera, and El Hierro—offer dramatic contrasts: volcanic lunar landscapes at Tenerife's Mount Teide (3,718m, Spain's highest peak), the Saharan-style dunes of Gran Canaria's Maspalomas, and Lanzarote's extraordinary Timanfaya National Park where you can still feel the Earth's warmth beneath your feet. Cruising the Canaries typically combines 2-4 island visits over 7-14 nights, with most departures from Southampton, though fly-cruise options from Tenerife are increasingly popular. The culture blends Spanish warmth with distinct island traditions—each island has its own character, from La Palma's lush laurel forests to Fuerteventura's windswept beaches. This isn't a destination for ancient ruins seekers; instead, expect outdoor adventures, stunning natural beauty, excellent seafood, and the relaxed pace of Atlantic island life. Most cruisers find the Canaries deliver a genuinely different experience from Mediterranean itineraries.",
+  "subRegions": [
+    "Eastern Canaries",
+    "Western Canaries"
+  ],
+  "bestTimeToVisit": {
+    "peak": "November to February",
+    "shoulder": "March, April, October",
+    "avoid": "August",
+    "tip": "The Canaries experience their 'winter' from November through February with daytime temperatures of 18-22°C—perfect for escaping Northern European cold. August should be avoided as temperatures can reach 30°C+ on some islands, and summer winds create uncomfortable sea conditions for smaller ships. The shoulder months of March-April and October offer excellent value with fewer crowds and pleasant 20-24°C temperatures. Note that January-February brings the occasional calima (Saharan dust wind) which can reduce visibility for a day or two."
+  },
+  "topPorts": [
+    {
+      "name": "Santa Cruz de Tenerife, Tenerife",
+      "highlight": "Mount Teide and Carnival",
+      "description": "Tenerife is the largest and most visited of the Canaries. Santa Cruz de Tenerife port is one of the archipelago's busiest, with tenders often landing you in the city centre. The iconic Mount Teide looms as a backdrop—you can take the cable car to 3,555m elevation or explore the lunar landscapes of the caldera on organised excursions. The capital itself features the striking Auditorium de Tenerife, Modernist architecture along Rambla del Generalísismo, and the excellent TEA (Tenerife Espacio de las Artes) museum. Tenerife hosts one of the world's largest carnivals in February, so port calls around this time can be exceptionally lively."
+    },
+    {
+      "name": "Las Palmas de Gran Canaria, Gran Canaria",
+      "highlight": "Maspalomas Dunes and Vegueta Old Town",
+      "description": "Gran Canaria's capital offers two distinct faces: the 500-year-old Vegueta historic district with its cathedral and Columbus house (Casa de Colón), and the southern resort zone where Maspalomas' 400-hectare sand dunes meet the Atlantic. The port is large enough for ships to dock directly without tenders. Beyond the beaches, Gran Canaria is called a 'miniature continent' for its varied microclimates—from the green mountains of the interior to the desert-like south. The weekly covered market at San Telmo is excellent for local produce and crafts. Many cruisers split their time between beach relaxation and historic exploration."
+    },
+    {
+      "name": "Arrecife, Lanzarote",
+      "highlight": "Timanfaya National Park",
+      "description": "Lanzarote's capital is often a port call on western routes. The island is an open-air museum of volcanic artistry, largely shaped by local artist César Manrique who ensured development blended with nature. Timanfaya National Park is the highlight—excursions take you through solidified lava fields where rangers demonstrate the intense underground heat by pouring water into the ground, creating steam geysers. Wine enthusiasts should visit La Geria's unique vineyard landscape where vines grow in volcanic ash pockets. The Jameos del Agua and Cueva de los Verdes are Manrique-designed spaces built within volcanic formations."
+    },
+    {
+      "name": "Puerto del Rosario, Fuerteventura",
+      "highlight": "Corralejo Dunes Natural Park",
+      "description": "Fuerteventura is the Canaries' beach capital—150 kilometres of coastline with sand colours ranging from golden to white. The island's main town Puerto del Rosario is a working Spanish town rather than a tourist resort, offering an authentic feel. The star attraction is the protected Corralejo Natural Park where massive white dunes backed by turquoise water create Saharan scenes. The transfer is approximately 40 minutes from port. Fuerteventura also offers excellent wind sports at spots like Cotillo and some of the best stargazing in the archipelago."
+    },
+    {
+      "name": "Santa Cruz de La Palma, La Palma",
+      "highlight": "Caldera de Taburiente and Starry Skies",
+      "description": "Known as 'the beautiful island,' La Palma is the greenest and most lush of the Canaries. The capital Santa Cruz features cobblestone streets, wooden balconies (balcones) painted in traditional colours, and the impressive Basilica de la Nuestra Señora de los Dolores. The island's centrepiece is Caldera de Taburiente National Park—a massive volcanic crater with hiking trails through laurel forests. La Palma was designated a Starlight Reserve due to minimal light pollution, making night excursions particularly special. The island's young volcanic geology means dramatic cliffside roads and recent lava flows visible at Teneguía."
+    }
+  ],
+  "popularItineraries": [
+    {
+      "name": "7-Night Classic Canary Islands",
+      "from": "Southampton",
+      "ports": [
+        "Funchal (Madeira)",
+        "Santa Cruz de Tenerife",
+        "Las Palmas de Gran Canaria",
+        "Cádiz (return via Spain)"
+      ],
+      "priceFrom": 899
+    },
+    {
+      "name": "10-Night Western Canaries",
+      "from": "Southampton",
+      "ports": [
+        "Santa Cruz de Tenerife",
+        "San Sebastián de La Gomera",
+        "Santa Cruz de La Palma",
+        "Puerto del Rosario (Fuerteventura)"
+      ],
+      "priceFrom": 1299
+    },
+    {
+      "name": "14-Night Grand Canary Islands",
+      "from": "Southampton",
+      "ports": [
+        "Arrecife (Lanzarote)",
+        "Puerto del Rosario (Fuerteventura)",
+        "Las Palmas (Gran Canaria)",
+        "Santa Cruz de Tenerife",
+        "San Sebastián (La Gomera)",
+        "Santa Cruz (La Palma)"
+      ],
+      "priceFrom": 1599
+    },
+    {
+      "name": "7-Night Fly-Cruise from Tenerife",
+      "from": "Tenerife South",
+      "ports": [
+        "Santa Cruz de Tenerife",
+        "Arrecife (Lanzarote)",
+        "Las Palmas (Gran Canaria)",
+        "Puerto del Rosario (Fuerteventura)"
+      ],
+      "priceFrom": 699
+    }
+  ],
+  "cruiseLinesOperating": [
+    "P&O Cruises",
+    "MSC Cruises",
+    "Costa Cruises",
+    "TUI Cruises",
+    "AIDA Cruises",
+    "Fred. Olsen Cruise Lines",
+    "Cunard",
+    "Princess Cruises"
+  ],
+  "whatToExpect": {
+    "weather": "Expect consistent spring-like conditions year-round with temperatures of 18-24°C during cruise season (October-April). Rain is rare but the mountains can create localised showers, particularly on the windward (northern) sides of islands. Pack layers—a light jacket for cooler mornings and evenings is essential, especially if visiting higher altitudes like Mount Teide where temperatures drop significantly. August visits see 28-32°C heat which can feel oppressive on deck and during shore excursions. Always apply high-factor sunscreen regardless of season—the Atlantic sun combined with altitude on some excursions creates high UV exposure. Light breathable fabrics work best.",
+    "food": "Canarian cuisine centres on simple, high-quality ingredients. The signature dish is Papas Arrugadas (wrinkled potatoes)—small new potatoes boiled in seawater with salt until the skins wrinkle, served with Mojo Picón (spicy red pepper sauce) or Mojo Verde (parsley-based green sauce). Fresh seafood features heavily: Cherne (grouper), Sancocho Canario (salted fish stew), and local octopus (pulpo) are ubiquitous. Gofio, a roasted grain flour used since Guanche times, appears in stews and desserts. At markets, try local cheese—Majorero from Fuerteventura is particularly prized. Lunch is the main meal, and many port-side restaurants offer excellent three-course menú del día (menu of the day) for €12-18, excellent value compared to ship dining. Wine enthusiasts should seek out Lanzarote's volcanic Malvasia or Listán Negro from Tenerife.",
+    "culture": "The Canaries maintain a distinct identity within Spain—the islands have their own flag (the seven stars design), traditional costumes, and cultural traditions separate from mainland customs. That said, Spanish social norms apply: dress modestly when visiting churches (no shorts or bare shoulders for women), greet shopkeepers with 'Buenos días,' and understand that meals and service run at a relaxed pace. Tipping follows European norms—round up or add 5-10% for good service. The siesta tradition has largely faded in tourist areas but smaller shops may close 13:00-16:00. Sunday brings local family gatherings in public spaces; some smaller restaurants may be closed. The Guanche heritage (the pre-Spanish indigenous people) is celebrated in museums and cultural centres.",
+    "currency": "The Euro (€) is used throughout the Canaries as they're part of Spain. Credit and debit cards are widely accepted in tourist areas, restaurants, and shops. Contactless payment is standard. ATMs are plentiful in port towns. TUI and other German cruise lines may have ships where €50-100 in cash for port expenses is useful, particularly for smaller markets, tips at tapas bars, or public transport. Avoid currency exchange bureaus at ports—rates are poor. Some traditional restaurants in smaller towns may prefer cash.",
+    "language": "Spanish (Castilian) is the official language. English is widely spoken throughout tourist areas, ports, and on virtually all organised excursions—the Canaries are accustomed to international visitors. However, learning a few basic Spanish phrases is appreciated: 'Por favor' (please), 'Gracias' (thank you), 'La cuenta, por favor' (the bill please), and 'Quanto cuesta?' (how much?). Menus and signage in tourist zones are typically bilingual (Spanish and English). On smaller islands or in more local establishments, patience and basic Spanish may be necessary. German and French are also understood in popular tourist spots, particularly in Fuerteventura and Lanzarote."
+  },
+  "insiderTips": [
+    "Book Mount Teide cable car tickets in advance directly on the Teleférico del Teide website—cruise ship organised excursions often sell out, and independent booking at €27-37 per person saves the markup and allows you to queue-jump. Altitude affects some passengers, so take it easy at the summit station. Tenerife excursion departure is typically 30-40 minutes from Santa Cruz port, so budget extra time.",
+    "Save money by taking local buses rather than taxis or excursions for simple transfers. From Puerto de la Cruz (Tenerife), the #343 bus to Santa Cruz costs around €2.50 versus €35+ for a taxi. In Gran Canaria, the 'Guaguas' local buses serve major tourist zones affordably. The Transgrancanaria bus to Maspalomas from Las Palmas costs approximately €5 and takes 45 minutes.",
+    "For the best Maspalomas experience, walk south from the main beach through the dunes toward the lighthouse (Faro de Maspalomas). The further south you go, the fewer the crowds and the more dramatic the scenery. Pack swimwear, water, and sun protection for this walk—the route takes 30-45 minutes and the dune interior has no facilities. The lighthouse area has cafes for the return journey."
+  ],
+  "packingList": [
+    "Lightweight layers (windbreaker/jacket) — Atlantic weather can shift quickly and mountain excursions at Mount Teide are significantly colder than beach areas, often 10-15°C cooler than sea level",
+    "Comfortable walking shoes with good grip — volcanic terrain is often uneven and rocky, particularly at Timanfaya, Teide, and in La Palma's laurel forests; flip-flops are unsuitable for many excursion paths",
+    "Swimwear and cover-up — beach destinations at Maspalomas and Corralejo are highlights; pack quick-dry fabrics that can transition from ship pool to beach",
+    "High-factor sunscreen (SPF 50+) and after-sun care — Atlantic UV levels are high year-round, especially at altitude on Tenerife; aloe vera gel is wise for after long sun exposure days",
+    "Reusable water bottle (1L) — many excursions involve extended outdoor time with limited facilities; staying hydrated is essential, particularly on Teide and at Timanfaya",
+    "Modest clothing for church visits — women should carry a scarf or light cardigan to cover shoulders; men should avoid shorts when visiting churches in Vegueta or La Palma's religious sites",
+    "Small daypack or crossbody bag — for carrying water, sunscreen, camera, and purchases during shore excursions; leave large bags on the ship",
+    "European power adapter (Type F) — standard in Spain; ships typically have UK or US sockets, but you'll need European adapters for any mainland Spain extensions or island hotels"
+  ],
+  "faq": [
+    {
+      "question": "What is the best time of year to cruise the Canary Islands?",
+      "answer": "The optimal cruise season runs from November through March. During these months, temperatures hover between 18-22°C—warm enough for outdoor activities without summer's extreme heat. November is particularly pleasant as summer crowds have dissipated but the islands remain fully operational. December and January attract visitors seeking winter sun but expect larger crowds and higher prices around Christmas-New Year. March offers excellent value with fewer ships in port and pleasant shoulder-season temperatures. Avoid August entirely if possible—temperatures can exceed 30°C, seas can be rough from Atlantic swells, and prices peak with European holidaymakers. The shoulder months of April and October also work well with milder temperatures of 22-25°C."
+    },
+    {
+      "question": "Do I need a visa for Canary Islands cruises?",
+      "answer": "As the Canary Islands are part of Spain (EU), standard Schengen/European travel rules apply. EU citizens need only a valid passport or national ID card—no visa required. UK citizens post-Brexit should check entry requirements—standard tourist visas are typically not needed for stays under 90 days, but verify current requirements at gov.uk. US, Canadian, and Australian passport holders can enter Spain (and thus the Canaries) visa-free for up to 90 days within any 180-day period under the Schengen agreement. Always confirm with your cruise line and ensure your passport is valid for at least 6 months beyond your planned return date. Note that some Canary Islands cruise itineraries also call at Portuguese Madeira, which remains in the Schengen Area, so no additional visas are required for those ports."
+    },
+    {
+      "question": "How many days do I need in the Canary Islands?",
+      "answer": "A minimum of 7 nights allows visits to 2-4 islands depending on routing, which provides a solid introduction to the archipelago's diversity. The most common itinerary mixes Tenerife with Gran Canaria and often includes Madeira, offering a taste of each destination's distinct character. For a comprehensive experience visiting Western Canaries (La Palma, La Gomera, El Hierro, Tenerife), a 10-14 night voyage is ideal—these islands have slower-paced ports and require more transit time between calls. If booking independently, consider 3-4 nights pre or post-cruise in Tenerife or Gran Canaria to fully explore one island beyond the port experience. The islands reward slower exploration—Tenerife alone has enough to fill a week with Teide, coastal walks, and botanical gardens."
+    },
+    {
+      "question": "What should I budget for excursions in the Canary Islands?",
+      "answer": "Shore excursion prices from cruise lines typically range from €45-120 per person for standard tours. Budget-friendly options (€45-65) include basic island overview tours, market visits, and bus transfers to beaches. Mid-range excursions (€65-90) offer guided visits to key attractions like Timanfaya National Park, Teide cable car rides, or catamaran sails. Premium experiences (€90-120+) include private guiding, wine tastings, or combination tours. Independent travellers can save significantly: a local taxi tour of Tenerife's northern circuit costs €80-100 for up to 4 passengers and far exceeds value versus cruise ship pricing. Public buses to Maspalomas from Las Palmas cost €5 versus €50+ for organised transfers. Booking Attractions like the Teide cable car directly at teleférico-teide.com saves €10-15 per person. Budget €100-150 per person for a quality independent day if you're comfortable navigating locally."
+    }
+  ]
+}

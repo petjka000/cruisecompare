@@ -1,0 +1,160 @@
+{
+  "slug": "southampton",
+  "name": "Southampton",
+  "city": "Southampton",
+  "country": "United Kingdom",
+  "iata": "SOU",
+  "region": "Northern Europe",
+  "metaTitle": "Southampton Cruise Port Guide 2026 — Terminals, Transport & Tips",
+  "metaDescription": "Complete guide to Southampton cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+  "heroSubtitle": "Everything you need to know before your cruise from Southampton",
+  "overview": "Southampton is Britain's largest cruise port, handling over 2 million passengers annually. As the home port for Cunard, P&O Cruises, and MSC Cruises, this historic dockyard on England's south coast has been a departure point for ocean liners since the Titanic's final voyage departed here in 1912. The port offers three modern terminals within walking distance of the city centre, making it one of Europe's most convenient embarkation ports. Beyond cruising, Southampton's maritime heritage is celebrated at the Sea City Museum, while the nearby New Forest and historic Winchester are popular pre- or post-cruise excursions. The port's proximity to London (just 90 minutes by train) makes it accessible for international travelers, though the city itself has plenty to offer with excellent restaurants, shopping at WestQuay, and a vibrant waterfront atmosphere that comes alive when ships are in port.",
+  "terminals": [
+    {
+      "name": "Mayflower Park Cruise Terminal",
+      "description": "The original and most iconic terminal at Southampton, located on the western docks. Features a modern check-in hall with panoramic views of the harbor. This is the primary home terminal for P&O Cruises and Cunard's Queen Mary 2. The terminal building includes a large passenger lounge, currency exchange, and tourist information.",
+      "cruiseLines": [
+        "P&O Cruises",
+        "Cunard",
+        "Princess Cruises"
+      ],
+      "facilities": [
+        "check-in desks",
+        "waiting lounges",
+        "toilets",
+        "currency exchange",
+        "wifi",
+        "coffee kiosk",
+        "left luggage"
+      ]
+    },
+    {
+      "name": "City Cruise Terminal (Queen Elizabeth II Terminal)",
+      "description": "Located on the eastern docks near Ocean Village, this terminal serves Royal Caribbean, Celebrity, and MSC Cruises. A purpose-built facility with efficient passenger processing and covered walkway to ships. Often has the longest queues during peak season but staff are well-practiced at managing large volumes.",
+      "cruiseLines": [
+        "Royal Caribbean",
+        "Celebrity Cruises",
+        "MSC Cruises",
+        "Norwegian Cruise Line"
+      ],
+      "facilities": [
+        "check-in halls",
+        "seated waiting areas",
+        "toilets",
+        "vending machines",
+        "mobile charging stations"
+      ]
+    },
+    {
+      "name": "Horizon Cruise Terminal",
+      "description": "Southampton's newest terminal opened in 2021, designed to handle the world's largest cruise ships. Features state-of-the-art technology and a striking modern architecture. Serves Virgin Voyages and other lines requiring extra capacity. Includes a dedicated baggage hall and security screening.",
+      "cruiseLines": [
+        "Virgin Voyages",
+        "TUI Cruises",
+        "Holland America Line"
+      ],
+      "facilities": [
+        "modern check-in",
+        "baggage handling",
+        "spacious waiting areas",
+        "accessibility features",
+        "coffee shop"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "fromAirport": "Southampton Airport (SOU) is just 8 miles from the port, about 20 minutes by taxi (approximately £25-35). Direct trains run from Southampton Airport Parkway station to Southampton Central (£5-8, 10 minutes), then a 15-minute walk or short taxi to the terminals. London Heathrow (LHR) is 85 miles away—consider a pre-booked transfer for £80-120, or take the National Express coach (£30-50, 2.5 hours). London Gatwick (LGW) offers similar options with slightly shorter transfer times.",
+    "fromCityCenter": "Southampton city centre is within easy walking distance of all terminals—approximately 15-20 minutes from Mayflower Park, 25 minutes from City Cruise Terminal. Local buses (Bluestar routes 1, 2, 3, 7) stop outside the terminals and connect to the city centre and train station for £2-3. Taxis from the city centre cost around £8-12. For those with luggage, the walk is manageable but hilly in places—wheelchair-accessible taxis are readily available.",
+    "parking": "Long-stay parking at Southampton Cruise Port costs approximately £100-180 for the duration of a typical 7-night cruise, depending on proximity to the terminal. Official port parking is in fenced, CCTV-monitored car parks directly adjacent to terminals. The port's own parking can be pre-booked through cruise line packages or Southampton Port Parking directly. Q-Park WestQuay near the shopping centre offers cheaper rates at around £60-80 for a week with a shuttle bus to terminals. Independent operators like Purple Parking and APH also serve Southampton with transfers included.",
+    "shuttles": "Most cruise lines operating from Southampton do not include complimentary transfers to the port. P&O Cruises offers an exclusive coach service from select UK cities for approximately £40-60 per person each way, which must be booked in advance. Cunard provides similar package options. For independent travelers, the port is well-served by taxis and ride-share services (Uber operates in Southampton). National Express coaches run daily services to Southampton from major UK cities, with the coach station a 10-minute walk from the cruise terminals."
+  },
+  "embarkationTips": [
+    "Arrive at the terminal no earlier than your stated embarkation time—usually 2-3 hours before departure. Arriving too early means standing outside in all weather, as the terminals rarely open their doors until the appointed time. P&O Cruises and Cunard in particular have strict queuing systems and will only admit passengers at their allocated slot.",
+    "The security screening at Southampton uses X-ray machines for all baggage AND metal detectors for passengers—far more thorough than many other UK ports. Wear easily removable shoes, avoid belts with large metal buckles, and empty your pockets of coins. Passengers with pacemakers should inform security as the wands are used routinely.",
+    "Parking at Mayflower Park fills up first because it's closest to the ship—if booking official port parking, request Mayflower specifically when you book to minimize walking distance. The difference between Mayflower and City Terminal parking is about 800 meters.",
+    "On embarkation day, Southampton's road traffic around the docks becomes extremely congested between 11am-2pm. If self-driving, arrive either before 10am or after 3pm for a much smoother experience. Taxis during peak times can take 30+ minutes to cover the last mile.",
+    "Southampton's cruise terminals have limited food and drink options inside—once you clear security, you'll be in the departure lounge with inflated prices. The nearby Aldi and M&S Simply Food at Ocean Village (5-minute walk from City Terminal) offer fresh sandwiches and drinks at normal prices if you have time before boarding. Don't rely on terminal catering."
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "Sea City Museum",
+      "description": "Award-winning museum dedicated to Southampton's maritime history and its connection to the Titanic. The £15 million attraction features interactive exhibits including the 'Titanic Southampton' gallery with survivor stories and artifacts. Essential visiting for Titanic enthusiasts—Southampton was where 900 crew members boarded for the doomed voyage.",
+      "walkingTime": "15 minutes from Mayflower Park, 25 minutes from City Terminal",
+      "cost": "Adults £16, Children £8, Family £45"
+    },
+    {
+      "name": "Southampton Old City Walls",
+      "description": "One of the finest surviving examples of medieval fortifications in Britain. These 13th-century walls encircle the old town and can be walked in sections. The best-preserved stretch runs from the Bargate to Northam Bridge, offering views over the city and harbor that few tourists discover.",
+      "walkingTime": "10 minutes from Mayflower Park Terminal",
+      "cost": "Free"
+    },
+    {
+      "name": "WestQuay Shopping Centre",
+      "description": "Southampton's premier shopping destination with 100+ stores including John Lewis, Marks & Spencer, and Apple. Perfect for last-minute cruise essentials or gifts. The upper floor food court has a good selection of chain restaurants.",
+      "walkingTime": "20 minutes from Mayflower Park, 15 minutes from City Terminal",
+      "cost": "Free to enter, shops vary"
+    },
+    {
+      "name": "The Titanic Trail",
+      "description": "A self-guided walking tour following the footsteps of Titanic's crew through Southampton's historic streets. The 90-minute route passes the boarding houses where crew lived, pubs they drank in, and the graves of victims in the Old Cemetery. Maps available from the iCity information centre near the cruise terminals.",
+      "walkingTime": "Starts 5 minutes from Mayflower Park Terminal",
+      "cost": "Free (map download from Southampton City Council website)"
+    },
+    {
+      "name": "Oxford Street",
+      "description": "Southampton's restaurant row, just off the city centre. This pedestrianized street offers an excellent concentration of independent eateries—from traditional British pubs to Thai, Indian, Italian, and modern British cuisine. Perfect for a pre-cruise dinner or lunch if arriving early.",
+      "walkingTime": "15 minutes from Mayflower Park Terminal",
+      "cost": "Restaurants vary, expect £15-30 per main course"
+    }
+  ],
+  "localTransport": {
+    "metro": "Southampton does not have a metro system. The city relies on buses and taxis for public transport. The nearest train station is Southampton Central, which connects to Portsmouth, Bournemouth, Winchester, and London Waterloo. From the station, it's a 15-20 minute walk to the cruise terminals or a short taxi ride.",
+    "bus": "Bluestar is the primary bus operator in Southampton. Routes 1, 2, 3, and 7 run from the city centre to the cruise terminals with stops practically outside each terminal building. A single journey costs £2-20 depending on distance. The Unilink service connects the university area to the city centre and port. Consider purchasing a Day Saver ticket (around £5) if planning multiple bus journeys.",
+    "taxi": "Black cabs are readily available outside all cruise terminals and the train station. Uber also operates in Southampton and is often cheaper. Typical fares: Terminal to Southampton Central station £8-12, Terminal to airport £25-35, Terminal to city centre £10-15. Pre-booked private hire cars can be arranged for airport transfers or longer journeys.",
+    "walkability": "Southampton cruise port is highly walkable. The city centre is within 15-25 minutes' walk of all terminals along well-lit, pedestrian-friendly routes. Oxford Street's restaurants and WestQuay shopping centre are easily reached on foot. The walk is mostly flat with some gentle slopes. For passengers with mobility concerns, the bus stops outside each terminal offer an accessible option."
+  },
+  "weather": {
+    "bestMonths": "May through September offer the most reliable weather for cruises from Southampton. July and August provide the warmest temperatures and longest daylight hours (up to 16 hours of daylight in midsummer), though these months also see the highest rainfall probability. June offers a sweet spot with good weather and fewer crowds.",
+    "peakSeason": "July and August constitute Southampton's peak cruise season—school holidays bring families and the weather is warmest. Cunard's famous summer sailings, including transatlantic crossings on Queen Mary 2, typically operate May through September. The Christmas market sailings in December are growing in popularity for those seeking festive markets.",
+    "climate": "Southampton has a temperate maritime climate with mild winters and cool summers. Pack layers regardless of season—weather changes frequently. Summer highs reach 20-24°C, but evenings can feel cool at sea. Rain is possible year-round, so a waterproof jacket is essential. For spring and autumn sailings, bring a warm sweater, light jacket, and sturdy walking shoes for shore excursions. The famous British 'four seasons in one day' is entirely possible."
+  },
+  "cruiseLinesFromHere": [
+    "P&O Cruises",
+    "Cunard",
+    "Royal Caribbean",
+    "Celebrity Cruises",
+    "MSC Cruises",
+    "Norwegian Cruise Line",
+    "Fred Olsen Cruise Lines",
+    "Marella Cruises",
+    "Virgin Voyages",
+    "Princess Cruises",
+    "Holland America Line",
+    "TUI Cruises"
+  ],
+  "isDeparture": true,
+  "isCallPort": true,
+  "insiderTips": [
+    "The Harbourside Gate at Mayflower Park Terminal opens exactly at boarding time—if you want to be first aboard, position yourself at the front of the queue facing the gate. Staff will often start the boarding process with a countdown. Early boarders get first choice of specialty restaurant dinner times and spa appointment slots.",
+    "For a fraction of the price of ship tours, take the Red Jet high-speed catamaran from Southampton to Hythe (£15 each way) and explore the historic village with its famous pier railway. From Hythe, the New Forest village of Beaulieu is a short bus ride (£3) away, with its medieval abbey and National Motor Museum.",
+    "The Anchor Inn at 1 College Street is a 5-minute walk from Mayflower Park and serves excellent fresh fish and seafood at reasonable prices. This unpretentious local pub was a favorite with Titanic crew and remains unchanged. Book ahead during cruise days as it fills quickly with embarkation passengers seeking a proper meal before boarding."
+  ],
+  "faq": [
+    {
+      "question": "How early should I arrive at Southampton cruise port on embarkation day?",
+      "answer": "Arrive at your allocated check-in time, typically 2-3 hours before departure. Arriving significantly earlier means waiting outside in all weather conditions as terminals operate strict slot systems. Most cruise lines send your arrival window 7-10 days before departure. If driving, factor in traffic—weekday mornings between 8-10am see heavy commuter congestion around the docks area."
+    },
+    {
+      "question": "Can I walk from Southampton cruise terminals to the city centre?",
+      "answer": "Yes, all three terminals are within easy walking distance of Southampton city centre. Mayflower Park is closest (15 minutes), City Cruise Terminal is about 20 minutes, and Horizon Terminal is approximately 25 minutes. Routes are well-signposted with pedestrian crossings. The walk is mostly flat with some gentle slopes. Wheelchair-accessible routes are available if needed."
+    },
+    {
+      "question": "How much does parking cost at Southampton cruise port?",
+      "answer": "Official Southampton Port Parking costs approximately £14-18 per day depending on the car park. For a typical 7-night cruise, expect to pay £100-130. Cheaper alternatives exist: Q-Park WestQuay offers around £10-12 per day with a shuttle bus, while off-site operators like Purple Parking and APH charge £8-10 per day including transfers. Book early for better rates, especially during peak season."
+    },
+    {
+      "question": "Is Southampton port accessible for passengers with reduced mobility?",
+      "answer": "Southampton Port has made significant accessibility improvements. All terminals have step-free access, accessible toilets, and staff assistance available. Accessible parking bays are located near each terminal. Ships accommodate most mobility requirements but you must notify your cruise line of specific needs at booking and again 72 hours before departure. The port provides wheelchair assistance for boarding—just ask at the terminal entrance."
+    }
+  ]
+}

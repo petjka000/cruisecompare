@@ -1,0 +1,179 @@
+{
+  "slug": "mediterranean",
+  "name": "Mediterranean",
+  "region": "Europe",
+  "metaTitle": "Mediterranean Cruises Guide 2026 — Best Routes, Ports & Tips",
+  "metaDescription": "Complete guide to cruising the Mediterranean. Best time to visit, top ports, what to expect, and how to plan your Mediterranean cruise.",
+  "heroSubtitle": "Your complete Mediterranean cruise planning guide",
+  "overview": "The Mediterranean is the world's most celebrated cruise destination, offering an unparalleled blend of ancient history, world-class cuisine, and breathtaking coastlines across 21 countries bordering the 'middle of the earth.' From the sun-drenched shores of Barcelona to the ancient wonders of Athens, Mediterranean cruises deliver a feast for every sense — aromatic street food in Istanbul's Grand Bazaar, the turquoise waters of the Adriatic, Renaissance masterpieces in Florence, and millennia-old ruins standing defiant against time.\n\nA Mediterranean cruise is fundamentally different from Caribbean or tropical itineraries. This is a cultural immersion holiday where the ship serves as a floating luxury hotel, transporting you between civilizations. You'll walk the same stones Roman emperors once traversed, photograph the same sunsets that inspired Van Gogh in Provence, and dine on fresh seafood in harbour-side tavernas that have served fishermen for generations. The region rewards curious travellers who embrace both the iconic landmarks and the hidden neighbourhood trattorias away from tourist zones.\n\nWhether you choose the grandeur of Western Mediterranean ports like Barcelona, Rome, and Nice, or venture east to the whitewashed villages of Santorini, the ancient splendour of Ephesus in Turkey, or the medieval walls of Dubrovnik, the Mediterranean consistently exceeds expectations. It's a destination where history feels alive, where every port offers distinct cuisine and dialect, and where a week aboard any mid-range ship will feel like a lifetime of memories.",
+  "subRegions": [
+    "Western Mediterranean",
+    "Eastern Mediterranean",
+    "Greek Isles"
+  ],
+  "bestTimeToVisit": {
+    "peak": "May",
+    "shoulder": "June, September",
+    "avoid": "July",
+    "tip": "May offers the sweet spot: temperatures range 18-24°C, crowds remain manageable at major attractions like the Vatican and Colosseum, and cruise fares are typically 15-25% lower than peak summer months. September mirrors May's appeal with warmer sea temperatures ideal for swimming off the ship's deck. July should be avoided due to peak heat exceeding 35°C in inland cities like Rome and Athens, school holiday crowds swelling prices by 40%, and packed ports that diminish the experience at must-see sites like Pompeii."
+  },
+  "topPorts": [
+    {
+      "name": "Barcelona",
+      "highlight": "Gaudi architecture, Gothic Quarter, La Boqueria market",
+      "description": "Spain's cosmopolitan capital serves as the most popular embarkation port in Western Mediterranean. Gaudi's unfinished Sagrada Familia dominates the skyline, while Park Guell offers panoramic city views. The Gothic Quarter's medieval streets wind to the Picasso Museum, and Barceloneta Beach provides Mediterranean sun within minutes of the cruise terminal. Most ships dock at Moll Adossat, with efficient shuttle and taxi services to central attractions."
+    },
+    {
+      "name": "Rome (Civitavecchia)",
+      "highlight": "Vatican Museums, Colosseum, Roman Forum, Pantheon",
+      "description": "Rome's port at Civitavecchia sits 80km northwest of the Eternal City, requiring a 75-90 minute transfer. The Vatican City — home to St. Peter's Basilica and the Sistine Chapel — demands at least half a day, so book skip-the-line tickets in advance. The Colosseum and Roman Forum form an essential ancient circuit, while Trastevere neighbourhood offers authentic Roman carbonara far from tourist traps. Many cruisers pair this port with a pre or post-cruise stay in Rome."
+    },
+    {
+      "name": "Athens (Piraeus)",
+      "highlight": "Acropolis, Parthenon, Ancient Agora, Plaka neighbourhood",
+      "description": "The birthplace of democracy and Western civilization, Athens centres on the Acropolis rising above the modern city. The New Acropolis Museum, opened in 2009, houses the Parthenon friezes in a stunning glass structure. The Plaka neighbourhood below the ruins offers labyrinthine streets with souvenir shops and ouzeries. Piraeus port connects to themetro, making independent exploration feasible, though ancient site guides add significant context. Allow a full day to properly experience Athens."
+    },
+    {
+      "name": "Venice (Marghera)",
+      "highlight": "St. Mark's Square, Doge's Palace, Rialto Bridge, Grand Canal",
+      "description": "Venice presents a unique arrival — ships dock at Marghera or Fusina, requiring a waterbus or bus transfer across the lagoon. St. Mark's Basilica with its Byzantine mosaics, the ornate Doge's Palace, and the iconic Rialto Bridge define the must-see circuit. Beyond the crowded San Marco area, venture to the Dorsoduro sestiere for quieter canals, the Rialto market for fresh produce, or Burano island for colourful photography opportunities. Book a gondola serenade in advance or grab one at the traghetti stations for a fraction of the cost."
+    },
+    {
+      "name": "Dubrovnik",
+      "highlight": "Old City walls, Fort Lovrijenac, Game of Thrones filming locations",
+      "description": "The 'Pearl of the Adriatic' wows with its remarkable medieval walls encompassing the entire Old City. Walk or jog the 2km circuit for panoramic views of terracotta rooftops and the sparkling Adriatic. Fort Lovrijenac, perched outside the walls, served as King's Landing in Game of Thrones. The stradun (main street) pulses with café culture, while quieter streets reveal hidden churches and_local wine bars.缆车 (cable car) ascends Mount Srd for sweeping vistas. Ships dock at the modern port with easy walking access to the Old City gates."
+    },
+    {
+      "name": "Santorini",
+      "highlight": "Oia sunset, Fira cliffside views, ancient Akrotiri, volcanic beaches",
+      "description": "This crescent-shaped volcanic island delivers the Mediterranean's most photographed scenery — whitewashed cubic buildings cascading down caldera cliffs, brilliant blue domes, and sunsets that transform the sky into watercolour. Oia village at the island's tip requires arrival by 8am or late afternoon to experience its famous sunset without crowds. The cliffside path between Fira and Oia (10km) ranks among Europe's finest walks. Wine tasting at volcanic vineyards and excavated Bronze Age Akrotiri provide cultural depth beyond the Instagram moments."
+    },
+    {
+      "name": "Istanbul",
+      "highlight": "Hagia Sophia, Blue Mosque, Grand Bazaar, Topkapi Palace",
+      "description": "Straddling Europe and Asia across the Bosphorus Strait, Istanbul offers a dramatically different cultural experience from Western Mediterranean ports. The Hagia Sophia — converted from cathedral to mosque to museum and back to mosque — astounds with its 6th-century dome. The Blue Mosque opposite presents six minarets and interior Iznik tiles. The 4,000-shop Grand Bazaar and aromatic Spice Market demand at least half a day. Ships typically dock at Karakoy port with easy tram access to Sultanahmet's historic core. Turkey uses Turkish Lira, though euros are increasingly accepted in tourist areas."
+    }
+  ],
+  "popularItineraries": [
+    {
+      "name": "7-Night Western Mediterranean",
+      "from": "Barcelona",
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Nice (Villefranche)",
+        "Genoa",
+        "Rome (Civitavecchia)",
+        "Florence/Pisa (Livorno)"
+      ],
+      "priceFrom": 699
+    },
+    {
+      "name": "10-Night Eastern Mediterranean",
+      "from": "Venice",
+      "ports": [
+        "Venice",
+        "Dubrovnik",
+        "Corfu",
+        "Athens (Piraeus)",
+        "Ephesus (Kusadasi)",
+        "Istanbul"
+      ],
+      "priceFrom": 1099
+    },
+    {
+      "name": "7-Night Greek Isles & Adriatic",
+      "from": "Athens",
+      "ports": [
+        "Athens",
+        "Mykonos",
+        "Kusadasi (Ephesus)",
+        "Patmos",
+        "Rhodes",
+        "Santorini"
+      ],
+      "priceFrom": 799
+    },
+    {
+      "name": "14-Night Grand Mediterranean",
+      "from": "Rome",
+      "ports": [
+        "Rome",
+        "Naples (Pompeii)",
+        "Athens",
+        "Istanbul",
+        "Kusadasi",
+        "Valletta (Malta)",
+        "Barcelona"
+      ],
+      "priceFrom": 1499
+    },
+    {
+      "name": "7-Night Adriatic Coast",
+      "from": "Venice",
+      "ports": [
+        "Venice",
+        "Kotor",
+        "Dubrovnik",
+        "Zadar",
+        "Trieste",
+        "Venice"
+      ],
+      "priceFrom": 549
+    }
+  ],
+  "cruiseLinesOperating": [
+    "MSC Cruises",
+    "Costa Cruises",
+    "Royal Caribbean",
+    "Norwegian Cruise Line",
+    "Celebrity Cruises",
+    "Princess Cruises",
+    "Holland America Line",
+    "Cunard",
+    "Viking Ocean Cruises",
+    "Windstar Cruises",
+    "Azamara",
+    "Regent Seven Seas"
+  ],
+  "whatToExpect": {
+    "weather": "Mediterranean cruise season runs April through October. May and September offer ideal temperatures of 18-26°C with sunny skies and minimal rain. June heats to 24-30°C with long daylight hours perfect for port exploration. July and August push 28-38°C, making midday sightseeing exhausting and crowded — plan early morning or evening activities. Sea temperatures warm sufficiently for swimming by late May and remain comfortable through September. Always pack layers: coastal breezes cool evenings, while air-conditioned cruise ships and historic stone buildings create temperature contrasts.",
+    "food": "Mediterranean cuisine celebrates simplicity and quality ingredients. In Spain, seek out tapas bars serving patatas bravas, jamón ibérico, and fresh seafood. Italy offers pizza napoletana in Naples, fresh pasta in Rome, and gelato at every corner. Greece delivers moussaka, souvlaki, fresh feta, and honey-drenched pastries. Turkey's influence appears in Eastern Mediterranean ports through meze platters, lamb dishes, and Turkish tea. France contributes Provençal markets with lavender honey, rosé wine, and bouillabaisse in Marseille. Most importantly, eat ashore — Mediterranean cuisine is fundamentally tied to place, and the ship's buffet cannot replicate local taverna flavours. Budget 25-50€ per person for a proper lunch with wine.",
+    "culture": "The Mediterranean encompasses 21 countries with distinct customs, though some patterns hold true. Catholic and Orthodox churches dominate Western and Greek regions — dress modestly for church visits (covered shoulders and knees) or risk denial of entry to St. Peter's and Notre-Dame. Tipping 10% is customary in restaurants, though check if service is included. Siesta culture persists in Spain, Italy, and Greece, with shops closing 13:00-16:00 daily. Bargaining is expected in Turkish bazaars and some Greek island markets. Europeans generally walk faster and dress more formally than American tourists — avoid athletic wear and flip-flops beyond the beach. Photography restrictions apply inside many museums and churches, particularly the Sistine Chapel.",
+    "currency": "The euro (€) dominates Western and Southern Mediterranean (Spain, France, Italy, Greece, Malta, Croatia, Slovenia). Turkey uses Turkish Lira, though euros are increasingly accepted in tourist zones — always confirm before ordering. Switzerland uses Swiss Francs, though Mediterranean ports like Basel rarely appear on cruise itineraries. Malta uses the euro. Credit cards are universally accepted in tourist areas, but carry 50-100€ cash for markets, tips, and small establishments. ATMs (bancomats) are widely available at all major ports.",
+    "language": "English is thoroughly adequate for tourism throughout the Mediterranean. All cruise line shore excursions operate in English, and major attractions offer English signage and audio guides. French is useful in Marseille and Nice, Italian in Italian ports, Spanish in Spanish ports, and Greek in Greece — but never essential. Learning five phrases in the local language (hello, thank you, please, sorry, goodbye) transforms interactions and earns genuine appreciation from locals. Menu translation apps prove invaluable in family-run tavernas off the tourist beaten path."
+  },
+  "insiderTips": [
+    "Book the Vatican and Colosseum months ahead — these attractions sell out completely during peak season, and third-party tours with skip-the-line access often cost less than official tickets while providing expert guides who bring history alive. The Borghese Gallery in Rome requires advance booking through the official website or you simply cannot enter.",
+    "Purchase a 'Omnia Card' in Rome or an 'Athens City Pass' — these combine public transport, free museum entry, and discounts that pay for themselves after visiting 2-3 attractions. The Barcelona Articket grants access to six major museums including Picasso and Joan Miró for roughly half the combined individual price.",
+    "Skip the ship's expensive Mediterranean restaurants — instead, book a food tour or cooking class ashore. Truffle hunting in Liguria, paella cooking in Valencia, market tours in Naples, or wine tasting in Santorini cost 60-100€ per person and deliver an authentic, memorable experience that no shipboard venue can match. Check websites like EatWith or Airbnb Experiences for local hosts."
+  ],
+  "packingList": [
+    "Comfortable walking shoes with ankle support — cobblestone streets at Dubrovnik, Mykonos, and Roman ruins demand proper footwear, not stylish sandals; save the flip-flops for the pool deck",
+    "Light layers for layering — Mediterranean evenings cool to 15-18°C even in summer, while ship air conditioning runs frigid; a light jacket or cardigan works year-round",
+    "Modest clothing for churches — knee-length skirts, shorts covering thighs, and shirts covering shoulders are mandatory for Vatican, Notre-Dame, Barcelona's Sagrada Familia, and Greek monasteries; pack one outfit that satisfies all dress codes",
+    "European two-pin power adapter (Type C/F) — required for all Mediterranean cruise ships and most European ports; USB charging alone won't suffice for hair dryers or electronics",
+    "Sun protection rated SPF 50+ — the Mediterranean sun burns quickly due to reflected light off white buildings and water; a wide-brimmed hat and UV-protective sunglasses are essential, not optional",
+    "Reusable water bottle with built-in filter — tap water is safe throughout Western Europe and Greece; a filtered bottle means never paying tourist prices for bottled water and reduces plastic waste",
+    "Small daypack or crossbody bag — essential for port days when you carry water, sunscreen, camera, and purchases; choose designs with anti-theft features for crowded markets like Istanbul's Grand Bazaar",
+    "Lightweight scarf or pashmina — serves triple duty as sun protection, church cover-up, and airplane blanket; choose neutral colours that complement everything"
+  ],
+  "faq": [
+    {
+      "question": "What is the best time of year to cruise the Mediterranean?",
+      "answer": "May and September represent the optimal cruising months for most Mediterranean itineraries. In May, temperatures range 18-24°C with blooming flowers and manageable crowds at major attractions. September offers similar temperatures with the advantage of warmer sea temperatures for swimming and fewer school-age children on ships. June provides extended daylight (16+ hours) and guaranteed beach weather but draws larger crowds. July and August should be avoided due to extreme heat (often exceeding 35°C inland), peak tourist volumes, and summer holiday pricing premiums of 30-50% on both cruises and excursions. For Greek Isles specifically, May and June offer calmer seas and wildflower-covered landscapes; September-October provides the famous golden light photographers seek."
+    },
+    {
+      "question": "Do I need a visa for Mediterranean cruises?",
+      "answer": "Visa requirements depend entirely on your nationality and which countries your itinerary visits. EU, US, Canadian, UK, and Australian citizens can enter Schengen Area ports (Spain, France, Italy, Greece, Croatia, Malta) visa-free for up to 90 days within a 180-day period. Turkey requires an e-Visa for most nationalities, obtainable online for approximately 35 USD before departure. However, cruise ships typically arrange group visas for Turkey at no additional cost. For multi-country Mediterranean itineraries lasting under 90 days, most Western passport holders face minimal visa complexity. Always verify your specific passport and itinerary with your cruise line's immigration requirements sheet provided at booking, as rules change frequently."
+    },
+    {
+      "question": "How many days do I need for a Mediterranean cruise?",
+      "answer": "A 7-night itinerary visits 4-5 ports and provides an excellent introduction, perfect for first-time Mediterranean cruisers. However, you'll inevitably leave wishing for more time in at least one port. A 10-14 night cruise allows deeper exploration of 6-8 ports plus potential overnights in iconic cities like Barcelona, Venice, or Istanbul where evening illumination transforms the experience. For the complete Mediterranean circumnavigation including North Africa (Morocco, Tunisia), the Greek Isles, Adriatic coast, and Western Mediterranean requires at least 14 nights. Most cruise veterans recommend starting with 7 nights to test your preferences, then escalating to longer itineraries on subsequent cruises. Always add 2-3 pre or post-cruise hotel nights in embarkation cities to recover from international flights and explore at leisure."
+    },
+    {
+      "question": "What should I budget for excursions in the Mediterranean?",
+      "answer": "Mediterranean cruise excursions range widely in price and quality. Budget excursions (30-60€ per person) typically include basic city tours, museum visits, and panoramic drives — often worth considering for ports you're visiting for the first time. Mid-range excursions (80-150€) offer guided visits with skip-the-line access, which is genuinely valuable at the Vatican, Colosseum, and Alhambra. Premium experiences (200-500€) include private guides, small group access, and special experiences like after-hours Vatican visits or private cooking classes. For a 7-night Western Mediterranean cruise visiting Barcelona, Rome, Florence, and Nice, budget approximately 400-700€ per person for 3-4 quality excursions, plus 100-150€ for independent activities. Significant savings exist through third-party tour operators (Shore Excursions Group, Context Travel) booked independently — often 30-50% cheaper than cruise line offerings with superior guides."
+    }
+  ]
+}

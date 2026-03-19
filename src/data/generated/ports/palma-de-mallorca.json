@@ -1,0 +1,158 @@
+{
+  "slug": "palma-de-mallorca",
+  "name": "Palma de Mallorca",
+  "city": "Palma de Mallorca",
+  "country": "Spain",
+  "iata": "PMI",
+  "region": "Mediterranean",
+  "metaTitle": "Palma de Mallorca Cruise Port Guide 2026 — Terminals, Transport & Tips",
+  "metaDescription": "Complete guide to Palma de Mallorca cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+  "heroSubtitle": "Everything you need to know before your cruise from Palma de Mallorca",
+  "overview": "Palma de Mallorca serves as one of the Mediterranean’s premier cruise ports, welcoming over 2.5 million passengers annually through its modern cruise facilities. The port's strategic location on the island of Mallorca makes it a popular departure point and port of call for major cruise lines operating in the Western Mediterranean. The historic capital combines stunning Gothic architecture, a vibrant tapas culture, and beautiful beaches within easy walking distance of the cruise terminals. Cruise passengers particularly value the city's walkability — most major attractions including the iconic Cathedral of Santa María (La Seu) are reachable within 15-20 minutes on foot from the main cruise quay.",
+  "terminals": [
+    {
+      "name": "Moll Vell Cruise Terminal (Puerto de Palma)",
+      "description": "The primary cruise facility located at Moll Vell in Palma's waterfront. Features multiple berths (Pantalán 5, Moll de Ponent) capable of accommodating the largest modern cruise ships simultaneously. The modern passenger terminal building includes a tourist information office, currency exchange, and basic amenities.",
+      "cruiseLines": [
+        "MSC Cruises",
+        "Costa Cruises",
+        "Royal Caribbean",
+        "Norwegian Cruise Line",
+        "Celebrity Cruises",
+        "AIDA Cruises",
+        "TUI Cruises",
+        "P&O Cruises",
+        "Holland America Line"
+      ],
+      "facilities": [
+        "Tourist information desk",
+        "public toilets",
+        "baggage storage (left luggage)",
+        "currency exchange",
+        "ATM machines",
+        "coffee shop and snack bar",
+        "taxi stand",
+        "free WiFi zone",
+        "port authority office"
+      ]
+    },
+    {
+      "name": "West Harbour Terminal (Moll de Mallorca)",
+      "description": "Secondary cruise facility often used for turnaround operations. More intimate than Moll Vell, frequently handling smaller luxury vessels and some TUI Cruises ships.",
+      "cruiseLines": [
+        "TUI Cruises",
+        "Phoenix Reisen",
+        "Seadaniel",
+        "Hurtigruten"
+      ],
+      "facilities": [
+        "check-in counters",
+        "waiting area",
+        "basic passenger services"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "fromAirport": "Palma de Mallorca Airport (PMI) is located 10km east of the city center. The most convenient option is taking a taxi directly to the port, which costs approximately €25-30 and takes 20-30 minutes depending on traffic. For budget travelers, the EMT bus Line A1 departs from outside arrivals and costs €5, stopping near Plaza España, from where you can walk 15 minutes to the port or take a local bus.",
+    "fromCityCenter": "The cruise terminals are remarkably close to Palma's historic center — about 1.5km (15-20 minute walk) from the Cathedral. You can walk along the scenic waterfront promenade the entire way. Taxis are readily available at the port entrance if you prefer not to walk, though the route is flat and pedestrian-friendly.",
+    "parking": "The Port Authority operates a large parking facility (Aparcamiento del Puerto) at Moll Vell with approximately 1,500 spaces. Pre-booking is available through the port website. Rates are approximately €20-25 per day for cruise passengers. Alternative public parking is available at Plaza de la Merced and the Porto Pi shopping center, which offers reduced rates for long-term parking with free shuttle to the port.",
+    "shuttles": "Most major cruise lines offer complimentary shuttle service between the port and city center during port calls, though departure port shuttles typically require separate booking. The port authority runs a tourist train (tren turístico) from Moll Vell to the Cathedral during peak season for €8 round trip."
+  },
+  "embarkationTips": [
+    "Arrive at the port early on departure day — security lines at Moll Vell can become congested between 10:00-12:00 when multiple ships are simultaneously boarding. Arriving by 09:30 significantly reduces wait times.",
+    "Download offline maps of Palma before arriving — the historic center's narrow streets can confuse even seasoned travelers, and mobile data can be unreliable in the old town's medieval alleys.",
+    "Book Cathedral tickets online in advance at catedraldemallorca.org — same-day walk-up queues regularly exceed 45 minutes, but pre-booked slots allow direct entry.",
+    "The EMV market hall (Mercat de l'Olivar) opens at 08:00 and offers excellent local produce — consider buying fresh fruit and snacks aboard for sea days rather than paying inflated ship prices.",
+    "Taxi drivers in Palma often quote fixed 'port rates' that are higher than metered fares — insist on the meter (taxímetro) being activated for legal, cheaper pricing.",
+    "Download the TIB bus app before arriving — Line 1 connects the airport to Plaza España and Line 15 runs along the waterfront to Santa Catalina, both useful if staying pre/post cruise."
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "Catedral de Santa María (La Seu)",
+      "description": "Majestic Gothic cathedral towering over the waterfront, with dramatic stained glass windows and panoramic sea views from its terraces. The cathedral's relationship with architect Antoni Gaudí makes it architecturally significant.",
+      "walkingTime": "15 minutes from Moll Vell",
+      "cost": "Cathedral entry €20, terraces €10, combined ticket €30"
+    },
+    {
+      "name": "Castell de Bellver",
+      "description": "Unique circular 14th-century castle offering 360-degree views of Palma Bay and the Sierra de Tramontana mountains. Contains a small museum of city history.",
+      "walkingTime": "30 minutes or bus Line 46",
+      "cost": "€4 entry, free first Sunday of month"
+    },
+    {
+      "name": "Old Town (Casco Antiguo)",
+      "description": "Winding medieval streets lined with boutiques, tapas bars, and historic buildings. Highlights include Plaza Mayor, Passeig des Born shopping avenue, and the narrow streets of Sant Nicolau neighborhood.",
+      "walkingTime": "10-15 minutes from port",
+      "cost": "Free to explore"
+    },
+    {
+      "name": "Banys Àrabs (Arab Baths)",
+      "description": "Well-preserved Islamic bath complex from 10th-12th century, featuring original horseshoe arches and a peaceful garden setting. One of the few remaining examples of Moorish architecture in Palma.",
+      "walkingTime": "12 minutes",
+      "cost": "€3 entry"
+    },
+    {
+      "name": "Mercat de l'Olivar",
+      "description": "Authentic local market hall selling fresh produce, seafood, meat, cheese, and local products. Second floor has tapas stalls ideal for a quick, affordable lunch.",
+      "walkingTime": "10 minutes",
+      "cost": "Free entry, food priced individually"
+    },
+    {
+      "name": "Passeig Marítim",
+      "description": "Scenic waterfront promenade stretching from the port area past the Cathedral to Porto Pi. Lined with bars and restaurants with harbor views.",
+      "walkingTime": "0-5 minutes from terminals",
+      "cost": "Free"
+    }
+  ],
+  "localTransport": {
+    "metro": "Palma's metro Line 1 connects the airport (Aeroport) to the city center (Plaza España) in 30 minutes for €5. However, there is no direct metro connection to the cruise port. The nearest station to the port is Intermodal (Plaza España), requiring a 15-minute walk or bus connection to reach Moll Vell.",
+    "bus": "The EMT bus network serves the port area extensively. Key routes include: Line 1 (airport-city center), Line 15 (waterfront to Santa Catalina), Line 3 (Plaza España to Port), and Line 46 (to Castell de Bellver). Single tickets cost €1.50 if purchased via the TIB app or €2 on board. The EMT ticket office at Plaza España offers day passes for €5.",
+    "taxi": "Taxis are abundant at the port (taxi stand located at Moll Vell exit). Official Palma taxis are cream-colored with a green light. Typical fares: port to airport €25-30, port to Cathedral €8-10, port to Playa de Palma €15-18. Always insist on the meter.",
+    "walkability": "Palma is extremely walkable from the cruise terminals. The historic center and Cathedral are a pleasant 15-20 minute stroll along the waterfront promenade. The terrain is flat with wide sidewalks, making it accessible for most passengers."
+  },
+  "weather": {
+    "bestMonths": "May-June and September-October offer ideal cruising conditions with temperatures of 22-28°C, fewer crowds, and lower prices. Summer months (July-August) are peak season with temperatures reaching 30-35°C.",
+    "peakSeason": "July and August see the highest cruise traffic and hotel prices. Christmas season (late December) attracts visitors seeking mild winter weather, though fewer cruise itineraries operate.",
+    "climate": "Mediterranean climate with hot, dry summers and mild winters. Average temperatures range from 10°C in winter to 28°C in summer. Sea temperatures are comfortable for swimming from June through September. Pack light summer clothing, comfortable walking shoes, sunscreen, and a light jacket for cooler evenings."
+  },
+  "cruiseLinesFromHere": [
+    "MSC Cruises",
+    "Costa Cruises",
+    "Royal Caribbean",
+    "Norwegian Cruise Line",
+    "Celebrity Cruises",
+    "AIDA Cruises",
+    "TUI Cruises",
+    "P&O Cruises",
+    "Holland America Line",
+    "Princess Cruises",
+    "Cunard",
+    "Fred. Olsen"
+  ],
+  "isDeparture": true,
+  "isCallPort": true,
+  "insiderTips": [
+    "Visit the Cathedral at sunset for the spectacular 'Crown of Light' effect — when the sun aligns with the cathedral's Gothic windows, light beams create a dazzling display through the nave. Arrive 30 minutes before closing for the best experience.",
+    "Santa Catalina neighborhood, a 25-minute walk southwest of the port, offers authentic Mallorcan restaurants at half the prices found near the Cathedral. Try Can Pedro or El Secreto for fresh local seafood.",
+    "Take the public ferry from Portitxol harbor (south of the main port) to the beach coves of Cala Major — it costs just €2.50 each way and gives access to peaceful beaches unreachable by cruise ship shuttles.",
+    "The Port of Palma has a valid agreement with cruise lines allowing passengers to pre-clear immigration in the terminal building for EU citizens flying home directly from Mallorca — ask your cruise line about this if you want to avoid long queues at the airport."
+  ],
+  "faq": [
+    {
+      "question": "How far is the cruise port from the city center and main attractions?",
+      "answer": "The cruise terminals at Moll Vell are approximately 1.5km from the Cathedral and main historic center — a 15-20 minute flat walk along the waterfront promenade. The Cathedral, Arab Baths, and main shopping streets (Passeig des Born) are all within this walking distance. No transport is required for most port day visits."
+    },
+    {
+      "question": "Can I use the metro to get from the airport directly to the cruise port?",
+      "answer": "No, Palma's metro (Line 1) runs between the airport and Plaza España city center but does not extend to the port area. From Plaza España, you need to walk 15 minutes to the port or take a local bus (Line 3 or 15). A taxi from the airport to the port costs approximately €25-30 and is the most direct option."
+    },
+    {
+      "question": "Is there luggage storage available at the cruise port for passengers arriving before embarkation?",
+      "answer": "Yes, left luggage facilities ( consigna ) are available at Moll Vell Terminal near the main entrance. Rates are approximately €3-5 per item per day. Storage is open during port operating hours, typically 07:00-20:00. Some nearby hotels also offer luggage storage for a fee if you arrive very early."
+    },
+    {
+      "question": "What is the best way to get from the cruise port to the beach?",
+      "answer": "The nearest beach is Can Pere Antoni, a 25-minute walk along the promenade. For better facilities, take the public bus Line 15 or 46 to Playa de Palma (15-20 minutes, €1.50), which offers 4km of sandy beach. Alternatively, take the public ferry from Portitxol harbor to Cala Major for scenic coastal coves."
+    }
+  ]
+}

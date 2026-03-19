@@ -1,0 +1,147 @@
+{
+  "slug": "norwegian-prima",
+  "name": "Norwegian Prima",
+  "cruiseLine": "Norwegian",
+  "cruiseLineSlug": "norwegian",
+  "metaTitle": "Norwegian Prima Review 2026 — Cabins, Dining, Entertainment",
+  "metaDescription": "Full review of Norwegian's Norwegian Prima. Cabins, dining, entertainment, pools, and what makes this ship special.",
+  "heroSubtitle": "Norwegian Prima — Norwegian Cruise Ship",
+  "overview": "The Norwegian Prima stands as one of Norwegian Cruise Line's most ambitious vessels, launched in 2022 as the flagship of the Breakaway Plus class. This 142,500-ton ship represents a deliberate shift in Norwegian's design philosophy, prioritising wider corridors, more open deck space, and a more refined aesthetic compared to earlier vessels. The Prima appeals to couples and active travellers seeking a ship that balances entertainment variety with contemporary comfort. What truly distinguishes the Prima is its outdoor spaces — the Ocean Boulevard wraps around the ship's perimeter, and the Infinity Beach pool area sits lower than traditional pool decks, creating an intimate connection with the sea. The ship operates primarily from Miami and Port Canaveral, offering Caribbean itineraries that maximise warm-weather port days.",
+  "quickFacts": {
+    "yearBuilt": 2022,
+    "tonnage": "142500 GRT",
+    "passengers": 3200,
+    "crew": 1500,
+    "decks": 17,
+    "length": "299m",
+    "cabins": 1650
+  },
+  "cabinTypes": [
+    {
+      "type": "Interior",
+      "priceFrom": 699,
+      "sqft": "150-180",
+      "description": "Interior cabins on the Prima offer surprisingly functional spaces for those focused on activities and shore excursions rather than cabin time. The Studio cabins cater specifically to solo travellers with no single supplement — a genuine differentiator. Most interior categories include a split bathroom with shower and toilet in separate compartments. Best suited for passengers who plan to be out exploring ports from early morning until evening."
+    },
+    {
+      "type": "Balcony",
+      "priceFrom": 1099,
+      "sqft": "220-280",
+      "description": "The Prima's balcony cabins benefit from the ship's modern design, with balconies that feel usable rather than ornamental. TheClub Balcony Suite category offers extra space and concierge service without reaching suite prices. These staterooms work exceptionally well for couples who enjoy morning coffee or evening drinks in private outdoor space. The mid-ship balcony locations minimise movement, while forward balconies capture ocean breezes more aggressively."
+    },
+    {
+      "type": "Suite",
+      "priceFrom": 1500,
+      "sqft": "450-700",
+      "description": "The Haven complex represents Norwegian's premium product — a private enclave with its own sundeck, pool, and restaurant. Haven suites include butler service, priority embarkation, and access to all specialty restaurants. The two-bedroom Penthouse suite at the Haven's peak offers nearly 700 square feet and is ideal for families wanting privacy alongside luxury. For passengers celebrating honeymoons or special occasions, the Haven transforms the cruise experience into something genuinely exceptional."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Indulge Food Hall",
+      "type": "included",
+      "description": "This indoor/outdoor food hall concept distinguishes the Prima from sister ships. Featuring seven distinct stations including a dedicated plant-based section, Asian street food, and a seafood bar, the Indulge Food Hall serves quality casual dining without reservation requirements. During sea days, expect queues at peak meal times, particularly for the tacos and ramen stations."
+    },
+    {
+      "name": "Onda by Scarpetta",
+      "type": "surcharge",
+      "price": "€45-55 per person",
+      "description": "Norwegian's partnership with the Scarpetta restaurant group brings authentic Italian cuisine to sea. Handmade pastas, cacio e pepe executed properly, and an impressive wine list justify the surcharge for food-focused travellers. The intimate 90-seat dining room books solid every evening — reserve before boarding through the Norwegian app."
+    },
+    {
+      "name": "Palomar",
+      "type": "surcharge",
+      "price": "€40-50 per person",
+      "description": "The Prima's Mediterranean seafood restaurant rivals land-based establishments in execution. Raw bars feature fresh oysters and ceviche, while wood-fired preparations elevate whole fish and octopus. Couples seeking a romantic dinner without the formality of Le Bistro will find Palomar ideal."
+    },
+    {
+      "name": "The Metropolitan",
+      "type": "included",
+      "description": "The main dining room operates three floors of traditional table-service dining with a contemporary menu. Breakfast offers solid variety including made-to-order omelettes, while dinner menus rotate through surf and turf, lamb, and vegetarian mains. Service can be inconsistent between decks — the upper levels tend to feel rushed during peak dining windows."
+    },
+    {
+      "name": "Tazuni",
+      "type": "included",
+      "description": "Norwegian's answer to buffet dining serves breakfast and lunch with reasonable variety. The pizza station near the pool proves consistently popular, and the Asian selection at lunch provides welcome variety. Stations stay well-stocked and staff maintain cleanliness throughout service hours."
+    }
+  ],
+  "entertainment": [
+    "The Prima Show: Spectral — this original production performed in the Prima Theater ranks among Norwegian's strongest shows. Combining aerial acrobatics with LED technology and a narrative about light and shadow, Spectral demands attendance during your cruise. Book through the app immediately upon boarding as performances sell out quickly on popular itineraries.",
+    "Galaxy Pavilion — this enclosed entertainment complex houses virtual reality experiences, escape rooms, and interactive games. The VR roller coaster simulation and Formula 1 racing simulators require reservations and additional fees, but the immersive quality justifies the cost for entertainment-seekers on sea days.",
+    "The Drop — a free-fall waterslide extending beyond the ship's hull creates genuine thrill despite its brief duration. The 10-second ride plummets from Deck 18 through a transparent section hovering over open ocean. The queue builds quickly in warm weather — arrive early or during late afternoon for shorter waits.",
+    "Syd Norman's Surf Club — the ship's live rock and blues venue featuring house band performances nightly. The energy here contrasts sharply with the main theatre's polish, making it ideal for passengers seeking casual, unglamorous entertainment. Signature cocktails and dancing extend well past midnight on sea nights.",
+    "The Local — a 24-hour bar and pub serving comfort food and draft beers at reasonable prices. This venue provides refuge for passengers frustrated with upselling tactics elsewhere, and hosts trivia nights and sports viewings that draw consistent crowds."
+  ],
+  "pools": [
+    "Infinity Beach Pool — positioned on Deck 8, this adults-only pool area sits below the main pool deck, creating an intimate atmosphere and genuine ocean views from the water. Two lap pools rather than traditional splash pools cater to swimmers seeking exercise. The surrounding deck space offers ample loungers without the frantic competition found on the main pool deck.",
+    "Ocean Boulevard — this wraparound promenade on Deck 8 encircles the entire ship and connects various venues. Unlike enclosed promenades on older ships, Ocean Boulevard sits at sea level with genuine outdoor exposure. Morning walks here become a ritual for many passengers, and several seating alcoves along the route provide quiet reading spots.",
+    "Main Pool Area — the Vibe Beach Club serves as the adults-only section with loungers priced at €20-30 per day for an enhanced experience. The main pool itself handles family crowds competently, with two hot tubs flanking the pool and a stage for daytime activities and live music."
+  ],
+  "kidsClubs": [
+    "Splash Academy serves children aged 3-12 with age-appropriate programming including science experiments, sports tournaments, and craft sessions. The supervised Splash Bash on sea afternoons provides parents dedicated pool time. Teenagers aged 13-17 access Entourage, a dedicated teen club featuring video games, movie nights, and shore excursion meetups. Both facilities require advance registration through the Norwegian app, and the clubs fill during school holiday periods — book immediately upon boarding."
+  ],
+  "bestFor": [
+    "Couples",
+    "Food and dining enthusiasts",
+    "Active travellers",
+    "Adults seeking refined atmosphere",
+    "First-time cruise passengers"
+  ],
+  "notIdealFor": [
+    "Large families with young children",
+    "Budget travellers expecting all-inclusive value",
+    "Passengers preferring traditional cruise formality",
+    "Multi-generational groups wanting kid-centric programming"
+  ],
+  "prosAndCons": {
+    "pros": [
+      "Ship design prioritises outdoor spaces and genuine ocean views over maximising cabin count — walking the Prima feels fundamentally different from older Norwegian vessels",
+      "Dining variety excels with the Indulge Food Hall, Onda by Scarpetta, and Palomar providing quality that rivals premium cruise lines at a fraction of the surcharge",
+      "Solo travellers benefit from dedicated Studio cabins and no single supplement in that category — genuinely unique in mainstream cruising",
+      "The Haven complex offers a luxury experience without requiring full-suite prices, providing concierge service and exclusive areas that justify the upgrade for special occasions"
+    ],
+    "cons": [
+      "Service consistency varies significantly between venues and across dining rooms — the casual Food Hall often provides better service than the main dining room",
+      "Limited specialty dining included with cruise fare compared to competitors — passengers wanting multiple signature restaurants face substantial additional costs",
+      "Children's programming lacks the comprehensive facilities found on Royal Caribbean or Carnival ships — large families should consider ships with expanded water parks and dedicated family zones",
+      "Crowd management during peak times reveals bottlenecks — the Indulge Food Hall and Galaxy Pavilion experience genuine queues that detract from the experience"
+    ]
+  },
+  "verdict": "The Norwegian Prima succeeds most when passengers approach it as a contemporary resort experience rather than a traditional cruise ship. Its dining variety and outdoor spaces genuinely exceed industry standards, while the entertainment programme — particularly Spectral — ranks among the best at sea. The ship works exceptionally well for couples, food enthusiasts, and travellers prioritising modern aesthetics over nostalgic cruise charm. However, large families seeking comprehensive children's facilities or passengers expecting premium inclusions without additional charges should look elsewhere. At its core, the Prima delivers exactly what Norwegian promised: a ship designed around the passenger experience rather than maximising capacity, and for those who align with that philosophy, the cruise consistently exceeds expectations.",
+  "rating": 4.3,
+  "itineraries": [
+    {
+      "name": "7-Night Eastern Caribbean",
+      "ports": [
+        "Port Canaveral",
+        "Tortola",
+        "St. Thomas",
+        "Great Stirrup Cay"
+      ],
+      "from": "Port Canaveral"
+    },
+    {
+      "name": "7-Night Western Caribbean",
+      "ports": [
+        "Port Canaveral",
+        "Nassau",
+        "Harvest Caye",
+        "Roatan",
+        "Costa Maya"
+      ],
+      "from": "Port Canaveral"
+    },
+    {
+      "name": "11-Night Bermuda & Caribbean",
+      "ports": [
+        "New York",
+        "Orlando",
+        "St. Maarten",
+        "St. Thomas",
+        "Tortola",
+        "Nassau"
+      ],
+      "from": "New York"
+    }
+  ]
+}

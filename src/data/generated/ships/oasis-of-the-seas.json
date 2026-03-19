@@ -1,0 +1,175 @@
+{
+  "slug": "oasis-of-the-seas",
+  "name": "Oasis of the Seas",
+  "cruiseLine": "Royal Caribbean",
+  "cruiseLineSlug": "royal-caribbean",
+  "metaTitle": "Oasis of the Seas Review 2026 — Cabins, Dining, Entertainment",
+  "metaDescription": "Full review of Royal Caribbean's Oasis of the Seas. Cabins, dining, entertainment, pools, and what makes this ship special.",
+  "heroSubtitle": "Oasis of the Seas — Royal Caribbean Cruise Ship",
+  "overview": "The Oasis of the Seas redefined what a cruise ship could be when she launched in 2009 and remains one of the most innovative vessels at sea. As the first of Royal Caribbean's game-changing Oasis Class, she introduced the revolutionary 'neighborhood' concept that divided the ship into seven distinct zones: Central Park with real trees and plants, the carnival-themed Boardwalk with its iconic carousel, the bustling Royal Promenade, the active Pool and Sports Zone, the serene Solarium, the entertainment-focused Studio B and AquaTheater zone, and the youth-focused Adventure Ocean area. This isn't a ship you navigate—it's a destination you explore.\n\nAt 226,963 GRT with 18 decks and 2,704 cabins, the Oasis of the Seas is genuinely a floating city. She's best suited for families with children of all ages, first-time cruisers looking for maximum entertainment variety, and travelers who thrive on activity and options. Those seeking quiet contemplation will need to seek out the Solarium or aft decks deliberately. The ship excels at delivering resort-style energy—there's always something happening, somewhere to be, something to discover. Her strength lies in variety: whether you want to surf the FlowRider, catch an aerial show at the AquaTheater, play mini-golf, or simply stroll through the tranquil Central Park, the Oasis delivers.\n\nIn 2019, she underwent a massive Amplified refurbishment that added new dining venues including the couples-focused Hooked Seafood and the casual El Loco Fresh Mexican taquiera, enhanced the Adventure Ocean kids' club, refreshed cabin soft furnishings, and updated the pool deck. The result is a ship that blends her original groundbreaking design with contemporary amenities, making her feel fresh even 15+ years after launch.",
+  "quickFacts": {
+    "yearBuilt": 2009,
+    "tonnage": "226963 GRT",
+    "passengers": 5400,
+    "crew": 2165,
+    "decks": 18,
+    "length": "361m",
+    "cabins": 2704
+  },
+  "cabinTypes": [
+    {
+      "type": "Interior",
+      "priceFrom": 749,
+      "sqft": "150-180",
+      "description": "Interior staterooms on the Oasis of the Seas offer surprisingly functional spaces with a modern design featuring bold color accents and ample storage via dual closets and under-bed drawers. The Virtual Balcony interior cabins on Deck 9-10 provide real-time exterior views via a high-definition screen—a clever innovation unique to Royal Caribbean's interior cabins. Best for budget-conscious families who plan to be out exploring the ship all day, or passengers who simply need a clean, comfortable place to sleep between activities."
+    },
+    {
+      "type": "Balcony",
+      "priceFrom": 1149,
+      "sqft": "220-280",
+      "description": "Oceanview balconies provide genuine outdoor living space with chairs and a retractable awning, making them ideal for morning coffee while watching the Caribbean glide by. The Central Park Balcony cabins (Decks 11-12) overlook the shipboard garden with real plants and trees, offering a unique at-sea experience where you can hear live music drifting up from below. Boardwalk Balcony cabins face the Boardwalk neighborhood with views of the iconic carousel and zip line overhead—perfect for families watching the action below. These balconies genuinely enhance the cruise experience for most passengers."
+    },
+    {
+      "type": "Suite",
+      "priceFrom": 1500,
+      "sqft": "450-700",
+      "description": "Suites on the Oasis range from functional Junior Suites to the legendary Royal Loft Suite—a two-story, 1,530 sq ft marvel with panoramic ocean views, a private balcony with hot tub, and grand piano. Grand Suite passengers receive exclusive access to the Coastal Kitchen restaurant and the Suite Sun Deck on Deck 17. The Crown Loft Suite features a two-level layout with a downstairs living area and upstairs bedroom. Upgrade to any suite for priority disembarkation, dedicated concierge service, enhanced bathroom amenities with tub/shower combos, and reserved seating at shows. Best for those who want the complete resort experience with recognition and extra space."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Main Dining Room",
+      "type": "included",
+      "description": "The three-story Main Dining Room is an architectural showpiece with sweeping staircases and dramatic chandeliers. Offering classic cruise dining with a modern menu, you'll find two seating options: traditional assigned time dining or My Time Dining for flexibility. Expect rotating menus featuring prime rib, fresh seafood, and vegetarian options alongside Royal Caribbean's signature chocolate lava cake. The experience is grand without being stuffy—perfect for the ship's mass-market appeal."
+    },
+    {
+      "name": "Park Café",
+      "type": "included",
+      "description": "This charming deli-style venue in Central Park serves fresh sandwiches, salads, and the famous Royal Caribbean's carved roast beef sandwich. It's a quiet respite from the ship's energy, with indoor and outdoor seating among the real trees. Open for breakfast, lunch, and dinner with no reservations needed."
+    },
+    {
+      "name": "Chops Grille",
+      "type": "surcharge",
+      "price": "€42 per person",
+      "description": "Royal Caribbean's signature steakhouse remains one of the best specialty restaurants in the cruise industry. Expect prime cuts aged 21 days, a lobster tail appetizer, excellent wine selection, and impeccable service in an elegant setting. The tomato-bread soup starter and chocolate cake are legendary. Book early—this restaurant fills up fast on sea days."
+    },
+    {
+      "name": "Hooked Seafood",
+      "type": "surcharge",
+      "price": "€38 per person",
+      "description": "Added during the 2019 amplification, Hooked serves fresh New England-style seafood with a focus on sustainable sourcing. Raw bars, lobster rolls, and clam chowder headline the menu. The nautical décor with rope details and ship's wheel motifs creates a casual-yet-quality atmosphere."
+    },
+    {
+      "name": "Izumi",
+      "type": "surcharge",
+      "price": "€35 per person",
+      "description": "The Japanese robata grill and sushi venue delivers excellent Asian cuisine with theatrical open-kitchen views. Don't miss the Izumi hot rock experience where you cook your own protein on a 400-degree stone. Premium sake and creative cocktails complement the menu."
+    },
+    {
+      "name": "El Loco Fresh",
+      "type": "included",
+      "description": "This casual Mexican cantina added during amplification serves fresh tacos, burritos, and Mexican street food in a vibrant setting near the Boardwalk. Self-serve toppings bar and quick service make it ideal for a fast lunch between activities. Quality is surprisingly good for complimentary casual dining."
+    },
+    {
+      "name": "Johnny Rockets",
+      "type": "surcharge",
+      "price": "€12 per person",
+      "description": "The retro 1950s American diner serves burgers, fries, and milkshakes with flair—diners in uniform dance on the counter during select hours. Located on the Boardwalk, it's a hit with kids and nostalgic adults. A la carte pricing makes it affordable for families."
+    },
+    {
+      "name": "150 Central Park",
+      "type": "surcharge",
+      "price": "€55 per person",
+      "description": "The intimate 132-seat venue offers seasonal American cuisine with locally-sourced ingredients in an upscale setting. Tasting menus and wine pairings elevate this to the ship's most refined dining experience. Best for anniversary celebrations or special occasions when you want something memorable."
+    },
+    {
+      "name": "Bionic Bar",
+      "type": "surcharge",
+      "price": "€10-15 per drink",
+      "description": "Two robot bartenders shake cocktails with mechanical precision in this futuristic bar on the Royal Promenade. Watching your drink being mixed by robotic arms is entertainment in itself. Menus include classic cocktails, mocktails, and specialty creations. Popular with first-time cruisers and tech enthusiasts."
+    }
+  ],
+  "entertainment": [
+    "AquaTheater — This open-air amphitheater at the ship's stern is one of the most spectacular venues at sea. Aerialists perform death-defying acrobatics over a 1.3-million-gallon pool during 'Aquatopia' and 'Oceanaria' shows. During the day, the space hosts diving demonstrations and movie nights. At night, the lighting and sound system create a Las Vegas-worthy production experience unlike anything else at sea.",
+    "Broadway in the Royal Theater — The main show lounge stages full Broadway-scale productions with professional casts, elaborate sets, and live orchestras. Recent productions have included 'Flight' (an aerial journey through history), '1887' (a steampunk adventure), and revivals of popular musicals. Shows run 75-90 minutes with comfortable stadium seating and excellent sightlines from every seat.",
+    "Studio B Ice Skating — The ices rink hosts 'Studio B Presents: Ice Under the Big Top' with skaters performing synchronized routines, acrobatics, and comedy skating. The cold temperatures mean bringing a layer—blankets are provided, but closed-toe shoes and jackets make the experience more comfortable. Skate rentals included with your ticket.",
+    "Casino Royale — The ship's 24-hour casino spans 3,000 slots and table games including blackjack, roulette, craps, and three-card poker. Tournament play and player rewards make it attractive for gaming enthusiasts. Non-smokers appreciate the excellent air filtration, though it can feel busy during peak hours.",
+    "Rising Tide Bar — This bar literally rises and lowers between Deck 5 (Royal Promenade) and Deck 8 (Central Park) every 30 minutes, creating a unique drinking experience. It's more novelty than destination, but watching the ship 'breathe' as the bar moves is entertaining. Best for a quick photo opportunity or a single specialty cocktail.",
+    "Jazz and Music Clubs — Vintages wine bar features live jazz performances nightly, while the English pub serves up live acoustic sets. For dancing, the Club 20s venue comes alive after 10pm with a DJ and themed nights. The entertainment variety here genuinely impresses.",
+    "Adventure Ocean Kids' Programs — The fully renovated kids' club offers age-appropriate activities from Aquanauts (3-5 years) through teenagers (17-20 years). The space includes an interactive wall, gaming consoles, and daily programming from 'slime making' to 'rock climbing badge challenges.' Complimentary for all ages."
+  ],
+  "pools": [
+    "Main Pool Area (Deck 15) — The ship's primary pool zone features four freshwater pools surrounded by sun loungers and cabanas. Two adult-only Quiet Zone pools provide respite from family splashing nearby. The iconic twin main pools sit beneath a retractable Glass Farm ceiling that can open or close based on weather. Morning yoga and pool games fill the daytime schedule, while evening transforms the deck with music and lights.",
+    "Solarium (Deck 15 forward) — This stunning adults-only retreat features a cantilevered pool extending over the ship's bow, indoor and outdoor seating, and a soothing atmosphere enhanced by waterfalls and tropical plants. Hot tubs, loungers, and poolside fruit infused water create a spa-like experience. The Solarium Suite passengers have exclusive access to the Suite Sun Deck nearby.",
+    "H2O Zone (Boardwalk Deck) — This splash park is designed for families with younger children, featuring water cannons, fountains, and浅水区. Kids love the colorful sea creature sculptures that spray water on command. Parents appreciate the shaded seating area and proximity to the Boardwalk carousel and El Loco Fresh for easy snacks.",
+    "Sports Pool — Located near the FlowRider and zip line, this pool serves sports enthusiasts looking to watch volleyball or basketball games from the water. It's more active and energetic than the main pool area, with poolside service from the Wipeout Cafe."
+  ],
+  "kidsClubs": [
+    "Adventure Ocean (Decks 15-16) — Following the 2019 renovation, this kids' club rivals land-based entertainment centers. The space is divided into seven distinct areas serving ages 6 months through 17 years. Babies and toddlers (6-35 months) require paid babysitting through the RoyalBabies and RoyalTots programs, while ages 3-5 (Aquanauts), 6-8 (Explorers), and 9-11 (Voyagers) enjoy free supervised programming. The teen spaces—12-14 year olds (Navigators) and 15-17 year olds (Scouts)—feature gaming consoles, sports simulators, and self-directed activities. Daily programming runs from morning to late evening, with late-night paid babysitting available. Most activities are included; premium experiences like private parties cost extra."
+  ],
+  "bestFor": [
+    "Families with children of all ages",
+    "First-time cruisers wanting maximum variety",
+    "Active travelers who love resort-style amenities",
+    "Entertainment seekers who want Broadway shows and outdoor spectacles",
+    "Foodies who appreciate diverse dining options"
+  ],
+  "notIdealFor": [
+    "Quiet seekers wanting peaceful ocean views",
+    "Budget solo travelers expecting good deals",
+    "Romantic getaway couples expecting intimate experiences",
+    "Luxury purists expecting refined sophistication",
+    "Guests who dislike crowds and queuing"
+  ],
+  "prosAndCons": {
+    "pros": [
+      "Unmatched variety — seven neighborhoods and dozens of venues mean every family member finds their happy place, from the zip line to the spa to the carousel",
+      "Signature entertainment at scale — the AquaTheater produces shows that rival Las Vegas productions, and the Main Theater stages legitimate Broadway musicals with full casts",
+      "Thoughtful neighborhood design — Central Park creates genuine tranquility, the Boardwalk captures carnival energy, and the Solarium provides adults-only peace, all coexisting successfully",
+      "Strong value in the fare — for what you get in terms of space, activities, dining variety, and entertainment, the Oasis of the Seas delivers exceptional cruise value per day",
+      "Continuous refreshment — the 2019 Amplified renovation kept the ship competitive with newer vessels, adding contemporary dining and refreshed public spaces"
+    ],
+    "cons": [
+      "Sheer scale creates crowds — with 5,400+ passengers, getting on or off the ship at ports requires patience, and popular venues like Chops Grille and the FlowRider have queues; this is not a small-ship intimate experience",
+      "Disembarkation can frustrate — self-disembarkation mornings require early wake-ups and waits, even for suite passengers; the ship's size works against efficient exits",
+      "Central Park cabins vary wildly — some overlook beautiful garden views, while others face cabin corridors or are partially obstructed; research your cabin location carefully before booking",
+      "Nightlife becomes predictable — while daytime entertainment is exceptional, evening options narrow to mostly the same three venues, and late-night adult activities feel limited compared to the daytime variety",
+      "Not for cruise traditionalists — the constant energy, retail promotions, and crowds can feel overwhelming if you wanted a refined, quiet sailing rather than a floating theme park"
+    ]
+  },
+  "verdict": "The Oasis of the Seas remains a landmark achievement in cruise ship design that delivers on its promise of something-for-everyone at scale. She's not trying to be subtle or refined—she's bold, exciting, and overwhelming in the best possible way. Families will find endless entertainment options that keep children engaged for seven days straight, while adults can carve out peaceful moments in the Solarium or Central Park. The dining variety is genuinely impressive, and the signature entertainment (especially the AquaTheater) justifies the cruise fare alone. She's best for first-time cruisers who want to understand what modern cruising offers, and for families who view their cruise as an active vacation destination rather than merely transportation between ports.\n\nThat said, the Oasis of the Seas isn't for everyone. If you prefer intimate experiences, quiet ocean views without crowds, or sophisticated elegance over energetic entertainment, look to premium cruise lines like Celebrity or Azamara. But for sheer bang-for-your-buck, variety, and unforgettable experiences—particularly the AquaTheater shows, zip line thrills, and the unique Central Park neighborhood—the Oasis delivers a cruise holiday that genuinely creates memories. At 4.3 stars, she earns high marks for innovation, entertainment, and value, with only minor deductions for crowd management and noise in certain cabin locations.",
+  "rating": 4.3,
+  "itineraries": [
+    {
+      "name": "7-Night Eastern Caribbean",
+      "ports": [
+        "Nassau",
+        "CocoCay",
+        "St. Thomas",
+        "Puerto Rico"
+      ],
+      "from": "Miami"
+    },
+    {
+      "name": "7-Night Western Caribbean",
+      "ports": [
+        "Roatan",
+        "Cozumel",
+        "Puerto Costa Maya",
+        "CocoCay"
+      ],
+      "from": "Miami"
+    },
+    {
+      "name": "7-Night Perfect Day Caribbean",
+      "ports": [
+        "Nassau",
+        "CocoCay",
+        "Aruba",
+        "Curacao",
+        "Bonaire"
+      ],
+      "from": "Cape Liberty, New Jersey"
+    }
+  ]
+}

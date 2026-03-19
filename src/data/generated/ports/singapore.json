@@ -1,0 +1,154 @@
+{
+  "slug": "singapore",
+  "name": "Singapore",
+  "city": "Singapore",
+  "country": "Singapore",
+  "iata": "SIN",
+  "region": "Asia",
+  "metaTitle": "Singapore Cruise Port Guide 2026 — Terminals, Transport & Tips",
+  "metaDescription": "Complete guide to Singapore cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+  "heroSubtitle": "Everything you need to know before your cruise from Singapore",
+  "overview": "Singapore stands as Southeast Asia's premier cruise hub, handling over 6 million passengers annually through its world-class facilities. The city-state's strategic location at the southern tip of the Malay Peninsula makes it an ideal departure point for voyages to the Thai Gulf, Indonesian archipelago, and beyond. Modern cruise terminals at HarbourFront and Marina Bay cater to vessels of all sizes, while Singapore's famed efficiency means embarkation and disembarkation processes are typically swift and well-organized. The port's integration with excellent transport links and world-class attractions within walking distance or a short metro ride makes pre- and post-cruise exploration exceptionally convenient. Whether you're spending a few hours before departure or arriving to explore, Singapore delivers a polished, multilingual experience with impeccable infrastructure.",
+  "terminals": [
+    {
+      "name": "Singapore Cruise Centre (HarbourFront)",
+      "description": "The primary cruise terminal located at HarbourFront Centre, adjacent to VivoCity shopping mall. This facility handles the majority of regional cruise departures and features a dedicated cruise check-in hall with airline-style security screening. The terminal spans multiple levels with comfortable waiting areas and direct access to the MRT metro station.",
+      "cruiseLines": [
+        "Royal Caribbean International",
+        "Celebrity Cruises",
+        "Princess Cruises",
+        "Holland America Line",
+        "MSC Cruises",
+        "Costa Cruises",
+        "Cunard",
+        "P&O Cruises"
+      ],
+      "facilities": [
+        "information desk",
+        "toilets",
+        "coffee shop",
+        "wifi lounge",
+        "luggage storage",
+        "duty-free shopping",
+        "currency exchange",
+        "car rental desk",
+        "VivoCity mall adjacent"
+      ]
+    },
+    {
+      "name": "Marina Bay Cruise Centre Singapore",
+      "description": "Singapore's newest cruise terminal, opened in 2012, located near the iconic Marina Bay Sands resort. Designed by award-winning architects, this single-span building features a dramatic roof structure and can accommodate the world's largest cruise ships including Oasis-class vessels.",
+      "cruiseLines": [
+        "Royal Caribbean (select sailings)",
+        "Celebrity Cruises (select sailings)",
+        "Norwegian Cruise Line",
+        "Princess Cruises (select sailings)"
+      ],
+      "facilities": [
+        "modern check-in halls",
+        "spacious waiting areas",
+        "tour operator desks",
+        "便利商店",
+        "banking services",
+        "tourist information booth",
+        "shuttle bus to city centre"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "fromAirport": "Changi Airport (SIN) is located 25km east of the city centre. The most convenient option is taking the MRT East-West Line from Changi Airport station to Tanah Merah, then transferring to the North-South Line towards Jurong East, alighting at Outram Park and changing to the North-East Line for HarbourFront (approximately 90 minutes, €2.50). Alternatively, taxi from Changi to HarbourFront costs approximately €25-30 (SGD 35-45) and takes 40-60 minutes depending on traffic. The Downtown Line now connects Changi directly to Expo; from there change to East-West Line to reach HarbourFront in about 80 minutes total.",
+    "fromCityCenter": "From Orchard Road or the CBD, the MRT is fastest. Take the North-South Line to Outram Park, transfer to the North-East Line, and exit at HarbourFront station (approximately 25 minutes, €1). The station exit leads directly to VivoCity mall; cross the skybridge to reach the cruise terminal. Taxis from Marina Bay Sands area cost approximately €6-8 (SGD 8-12) and take 15 minutes to HarbourFront.",
+    "parking": "Long-term parking is available at HarbourFront Centre's basement car parks (Car Park B and C). Pre-booking is essential during peak cruise seasons. Daily rates are approximately €18-25 (SGD 25-35) per day, with discounted weekly rates available. The Marina Bay Cruise Centre has limited short-term parking for passenger drop-off only. Alternative public parking is available at VivoCity for approximately €5-8 per day.",
+    "shuttles": "Most major cruise lines (Royal Caribbean, Celebrity, Princess) offer airport-to-ship transfers as part of their cruise packages, typically priced at €25-40 per person. Independent transfers can be arranged through pre-booked private cars. The port authority operates no public shuttle, but the MRT provides excellent value at €1-2 per person for the journey from Changi Airport."
+  },
+  "embarkationTips": [
+    "Book a morning disembarkation time if you want to explore Gardens by the Bay before your cruise — the Supertrees glow spectacularly at dusk, giving you a magical evening before boarding.",
+    "Singapore's immigration clearance for departing cruises happens on the ship, not at the terminal, so arrive 30-45 minutes before your stated check-in time rather than hours early.",
+    "The VivoCity food court on level 5 has authentic Singaporean hawker food at a fraction of hotel restaurant prices — perfect for a last-minute chicken rice or Laksa meal before boarding.",
+    "Changi Airport's Jewel complex is worth planning a stopover for even with just 4 hours between flight and cruise — the Rain Vortex waterfall and gardens are unforgettable.",
+    "Download the Grab app before arriving — it's Southeast Asia's Uber equivalent and works perfectly for Singapore taxis at transparent, metered rates without language barriers."
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "VivoCity",
+      "description": "Southeast Asia's largest shopping mall sits immediately adjacent to the HarbourFront terminal. Beyond retail therapy, it houses Singapore's best hawker food court on level 5, cinemas, and a rooftop playground with stunning harbour views.",
+      "walkingTime": "2 minutes",
+      "cost": "Free entry; meals from €3"
+    },
+    {
+      "name": "Universal Studios Singapore (Sentosa)",
+      "description": "Singapore's flagship theme park on Sentosa Island features 24 rides and attractions including the world's tallest dueling roller coaster. Take the Sentosa Express monorail from VivoCity's third floor.",
+      "walkingTime": "15 minutes via Sentosa Express",
+      "cost": "€38-48 per adult"
+    },
+    {
+      "name": "Gardens by the Bay",
+      "description": "Iconic waterfront gardens featuring the Supertree Grove with its nightly light show, climate-controlled Flower Dome, and Cloud Forest waterfall. The futuristic landscape is especially magical at dusk.",
+      "walkingTime": "25 minutes by MRT to Bayfront station, or €8 by taxi",
+      "cost": "€17-25 for conservatories"
+    },
+    {
+      "name": "Merlion Park",
+      "description": "Singapore's mythical half-lion, half-fish mascot stands at the confluence of the Singapore River and Marina Bay. The nearby Merlion Walk offers excellent city photography opportunities.",
+      "walkingTime": "20 minutes by MRT from HarbourFront",
+      "cost": "Free"
+    },
+    {
+      "name": "Sentosa Island Beaches",
+      "description": "Three pristine beaches — Palawan, Siloso, and Tanjong — offer free entry and are connected by the free Beach Tram. Palawan Beach features the famous suspended bridge to a offshore island.",
+      "walkingTime": "15 minutes via Sentosa Express from VivoCity",
+      "cost": "Free"
+    }
+  ],
+  "localTransport": {
+    "metro": "Singapore's MRT system is excellent and affordable. From HarbourFront station (North-East Line), the city centre is 25 minutes away. Contactless payment with Visa/Mastercard works at all gates, or purchase an EZ-Link card for €5 deposit at any station. The Downtown Line extension now provides direct access to Changi Airport via Expo interchange.",
+    "bus": "SBS Transit buses serve HarbourFront area extensively. Routes 65, 80, 93, 123, 188, and 408 stop near the cruise terminal. Fares range from €0.50-2 depending on distance. Bus stop shelters on tel: 1800-225-5663 or via the SBSTransit app for real-time arrival information.",
+    "taxi": "Taxis are plentiful and metered. All cabs accept cash and card. Flagfall is €3 (SGD 3.20-3.90), with per-kilometer charges of €0.20-0.40. From HarbourFront to Marina Bay Sands costs approximately €8. Grab ride-hailing offers transparent pricing and often lower rates than traditional taxis, especially for airport transfers.",
+    "walkability": "The walk from HarbourFront cruise terminal to VivoCity is covered and takes 3 minutes. From there, a scenic 15-minute stroll along the waterfront Sentosa Boardwalk leads to the island. Walking to Marina Bay from HarbourFront is approximately 3km and pleasant along the Singapore River, passing Clarke Quay and Boat Quay."
+  },
+  "weather": {
+    "bestMonths": "January through April offer the most comfortable conditions for cruising, with lower humidity and reduced rainfall. March and April typically see the least precipitation.",
+    "peakSeason": "November through February is peak season despite occasional tropical showers, driven by European winter holiday travel and Singapore's Formula 1 Grand Prix (September/October). December bookings surge due to school holidays across Asia-Pacific.",
+    "climate": "Singapore's tropical rainforest climate means consistent temperatures of 26-32°C year-round with 80-90% humidity. Afternoon thunderstorms are common, especially November through January. Pack lightweight, breathable clothing, a light rain jacket or umbrella, and factor in air-conditioned ship interiors when layering. Closed-toe walking shoes are essential for shore excursions."
+  },
+  "cruiseLinesFromHere": [
+    "Royal Caribbean International",
+    "Celebrity Cruises",
+    "Princess Cruises",
+    "Holland America Line",
+    "MSC Cruises",
+    "Costa Cruises",
+    "Cunard",
+    "Norwegian Cruise Line",
+    "P&O Cruises",
+    "Dream Cruises",
+    "Genting Hong Kong"
+  ],
+  "isDeparture": true,
+  "isCallPort": true,
+  "insiderTips": [
+    "The Raffles Hotel Long Bar experience can be replicated at half the price by visiting the Original Smoky Cask bar at the Crowne Plaza — same classic Singapore Sling cocktail heritage without the tourist markup.",
+    "For the best view of Marina Bay Sands fireworks during your departure, book a balcony cabin on the port side (left when facing forward) — the pyrotechnics launch from barges directly opposite.",
+    "Lau Pa Sat hawker centre near the CBD serves exceptional local food at €2-5 per dish. Saturday nights see the surrounding streets transform into Satay Street with grilled meat skewers.",
+    "Skip the touristy Bugis Street; instead, explore Tiong Bahru Market for authentic wet market shopping and the surrounding hipster café scene that locals actually frequent.",
+    "The Marina Bay Sands SkyPark observation deck is often cheaper to access after 6pm when sunset packages begin — you'll see both daylight city views and illuminated夜景."
+  ],
+  "faq": [
+    {
+      "question": "How early should I arrive at Singapore cruise terminal for embarkation?",
+      "answer": "Most cruise lines request arrival 2-3 hours before departure. However, Singapore's efficient terminal operations mean 90 minutes is usually sufficient if you have luggage. During peak seasons (December, Chinese New Year), allow extra time. Your cruise line will specify your boarding time slot."
+    },
+    {
+      "question": "Can I store luggage at the Singapore cruise terminal if I arrive early?",
+      "answer": "Yes, left luggage facilities are available at both terminals. Rates are approximately €5-8 per bag for up to 24 hours. Alternatively, many hotels near HarbourFront offer day-use packages if you want to freshen up after an early morning arrival."
+    },
+    {
+      "question": "What is the taxi cost from Changi Airport to Singapore Cruise Centre?",
+      "answer": "A metered taxi from Changi Airport to HarbourFront costs approximately €25-35 depending on traffic. Surcharges apply for midnight rides (50% supplement) and airport pickup (€5). The journey takes 40-60 minutes."
+    },
+    {
+      "question": "Are there any attractions within walking distance of the cruise terminal?",
+      "answer": "Yes, the HarbourFront area is well-integrated with attractions. VivoCity mall is immediately adjacent (2-minute walk), the cable car station to Sentosa is a 10-minute walk at HarbourFront Tower 2, and the Sentosa Boardwalk begins at VivoCity. The Singapore Zoo and Night Safari require a 30-minute taxi ride north."
+    }
+  ]
+}

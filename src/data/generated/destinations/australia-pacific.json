@@ -1,0 +1,148 @@
+{
+  "slug": "australia-pacific",
+  "name": "Australia & Pacific",
+  "region": "Pacific",
+  "metaTitle": "Australia & Pacific Cruises Guide 2026 — Best Routes, Ports & Tips",
+  "metaDescription": "Complete guide to cruising the Australia & Pacific. Best time to visit, top ports, what to expect, and how to plan your Australia & Pacific cruise.",
+  "heroSubtitle": "Your complete Australia & Pacific cruise planning guide",
+  "overview": "Australia & Pacific cruising spans one of Earth's most diverse maritime regions, from the iconic harbour cities of Australia to New Zealand's dramatic fjords and the tropical paradise of South Pacific islands. The Australian coastline stretches over 25,000 kilometres, offering everything from the urban sophistication of Sydney and Melbourne to the underwater wonderland of the Great Barrier Reef. New Zealand brings breathtaking geological drama — think Milford Sound's towering cliffs, Rotorua's geothermal activity, and Marlborough's wine regions. Meanwhile, the South Pacific islands of Fiji, Vanuatu, and New Caledonia offer a contrasting palette of turquoise lagoons, coral gardens, and Polynesian/Melanesian culture. This region delivers the rare combination of world-class cities, natural wonders, and authentic island experiences in a single voyage, making it ideal for cruisers seeking variety without sacrificing quality.",
+  "subRegions": [
+    "Australia",
+    "New Zealand",
+    "South Pacific"
+  ],
+  "bestTimeToVisit": {
+    "peak": "December to February",
+    "shoulder": "November and March to April",
+    "avoid": "June to August",
+    "tip": "The Southern Hemisphere summer (December-February) offers the warmest weather but coincides with school holidays, driving up prices. November or March-April deliver excellent weather with fewer crowds and lower fares. Avoid June-August — it's winter Down Under with temperatures dropping to 10-15°C in southern regions and rough seas common across the Tasman Sea."
+  },
+  "topPorts": [
+    {
+      "name": "Sydney",
+      "highlight": "Sydney Opera House, Harbour Bridge, Taronga Zoo",
+      "description": "Australia's gateway city never disappoints. Arrive by sea and watch the Harbour Bridge and Opera House emerge from the morning mist — it's genuinely one of the world's great maritime approaches. Circular Quay puts you steps from The Rocks heritage precinct, the Botanic Gardens, and ferries to Manly or Taronga Zoo. Don't miss the Bondi to Coogee coastal walk if you have a full day in port."
+    },
+    {
+      "name": "Melbourne",
+      "highlight": "Street art laneways, coffee culture, Victoria Arts Centre",
+      "description": "Melbourne is Australia's cultural capital, famous for its hidden laneway bars, world-class restaurants, and thriving arts scene. Docklands Port is a tram ride from the city centre. Fitzroy and Collingwood offer independent boutiques and espresso bars, while the National Gallery of Victoria sits riverside. Itineraries often pair Melbourne with the Great Ocean Road — book the excursion, the Twelve Apostles are unforgettable."
+    },
+    {
+      "name": "Auckland",
+      "highlight": "Sky Tower, Waiheke Island, Waitemata Harbour",
+      "description": "New Zealand's largest city sprawls across a volcanic isthmus between two harbours. The Sky Tower dominates the skyline — daredevils can skyjump from the observation deck. Ferry to Waiheke Island for award-winning wineries and beaches, or explore the Viaduct Harbour's restaurants and bars. The city makes an excellent pre or post-cruise extension, with geothermal Rotorua just three hours away."
+    },
+    {
+      "name": "Fiordland (Milford Sound)",
+      "highlight": "Dramatic fiords, waterfalls, nature",
+      "description": "Milford Sound is arguably the jewel of New Zealand cruising — sheer granite cliffs rise 1,200 metres from mirror-still water, waterfalls appear after rainfall, and dolphins and fur seals are regular sightings. Most ships cruise early morning for the best light and mist. Book the kayaking excursion for a truly immersive experience among the fiord's hidden coves."
+    },
+    {
+      "name": "Port Vila, Vanuatu",
+      "highlight": "Blue Lagoon, Cascade Falls, cultural villages",
+      "description": "This compact island nation delivers authentic South Pacific charm without the development found in busier destinations. The Blue Lagoon is a stunning natural pool surrounded by jungle, while Mele Cascades offers a 45-minute hike to a multi-tiered waterfall. Cultural village tours provide genuine Ni-Vanuatu encounters — expect kava ceremonies and woven pandanus demonstrations. The markets near town offer affordable local handicrafts."
+    }
+  ],
+  "popularItineraries": [
+    {
+      "name": "10-Night Highlights of New Zealand",
+      "from": "Auckland",
+      "ports": [
+        "Bay of Islands",
+        "Wellington",
+        "Christchurch (Lyttelton)",
+        "Dunedin",
+        "Fiordland",
+        "Auckland"
+      ],
+      "priceFrom": 1299
+    },
+    {
+      "name": "7-Night Australian East Coast",
+      "from": "Sydney",
+      "ports": [
+        "Melbourne",
+        "Hobart",
+        "Port Arthur",
+        "Sydney"
+      ],
+      "priceFrom": 849
+    },
+    {
+      "name": "14-Night South Pacific Paradise",
+      "from": "Sydney",
+      "ports": [
+        "Noumea",
+        "Lifou",
+        "Port Vila",
+        "Mystery Island",
+        "Sydney"
+      ],
+      "priceFrom": 1599
+    },
+    {
+      "name": "11-Night Queensland & Great Barrier Reef",
+      "from": "Sydney",
+      "ports": [
+        "Brisbane",
+        "Sunshine Coast",
+        "Airlie Beach",
+        "Cairns",
+        "Willis Island",
+        "Sydney"
+      ],
+      "priceFrom": 1399
+    }
+  ],
+  "cruiseLinesOperating": [
+    "P&O Cruises Australia",
+    "Princess Cruises",
+    "Celebrity Cruises",
+    "Royal Caribbean",
+    "Cunard",
+    "Holland America Line",
+    "Virgin Voyages",
+    "Oceania Cruises",
+    "Coral Expeditions"
+  ],
+  "whatToExpect": {
+    "weather": "Australia & Pacific cruise seasons run October to April. Northern Australia and the South Pacific stay warm year-round (25-32°C), though November-April brings humidity and occasional tropical storms. New Zealand and southern Australia experience more temperate conditions (15-28°C in summer). Pack light layers, a light rain jacket, and reef-safe sunscreen (mandatory in Australian marine parks). Sun protection is critical — the UV index is extremely high year-round.",
+    "food": "Australia delivers exceptional seafood (Barramundi, Morwong, Tasmanian salmon) and world-class beef and lamb. Melbourne pioneered fusion cuisine, while Sydney's seafood restaurants rank among global bests. New Zealand offers green-lipped mussels, venison, and Hawke's Bay wines. The South Pacific features fresh fish (often cooked in coconut milk), taro, breadfruit, and tropical fruits — try a lovo feast (earth oven cooking) if offered. Australia has excellent coffee culture; expect barista-quality flat whites everywhere.",
+    "culture": "Australia and New Zealand are relaxed, egalitarian societies. Dress casually ashore — shorts and trainers are fine in cities, though nicer restaurants appreciate smart-casual attire. Tipping isn't mandatory but appreciated (10% for good service). Island nations are more conservative — cover shoulders and knees when visiting villages or temples. Learn a few words of te reo Māori (New Zealand) or local Pacific languages; it's genuinely appreciated. Queuing is respected everywhere, and punctuality matters for excursions.",
+    "currency": "Australia uses the Australian Dollar (AUD, approximately 1 EUR = 1.60 AUD). New Zealand uses the New Zealand Dollar (NZD, approximately 1 EUR = 1.55 NZD). Fiji uses the Fijian Dollar, Vanuatu the Vatu, and New Caledonia the CFP Franc. Credit and debit cards are widely accepted in cities and tourist areas. Notify your bank before travelling — some banks block Pacific island transactions by default. Carry small amounts of local currency for markets and remote islands.",
+    "language": "English is the primary language throughout Australia, New Zealand, and most South Pacific tourist areas. You won't encounter language barriers in ports or on tours. However, you may hear Indigenous Australian languages, te reo Māori, Fijian, Bislama, or French (in New Caledonia). In Fiji, Hindi is also common due to the large Indo-Fijian community. A basic G'day (Australia) or Kia ora (New Zealand) goes a long way with locals."
+  },
+  "insiderTips": [
+    "Book Great Barrier Reef excursions through the ship rather than independently — cruise lines have permits for prime moorings at Agincourt Ribbon Reefs, and independent operators often face weather cancellations. Ships also carry snorkelling gear and have marine naturalists aboard.",
+    "The Tasman Sea between Australia and New Zealand can be rough, especially in winter months. Book midship, lower decks for smoother sailing, and bring motion sickness medication regardless of your sea legs — even experienced cruisers get caught out.",
+    "In Fiji and Vanuatu, local markets offer comparable (or identical) handicrafts to shipboutique prices at 40-60% less. Bring small denomination notes (EUR accepted on most islands, USD also works) and negotiate cheerfully — it's expected and part of the culture."
+  ],
+  "packingList": [
+    "Reef-safe sunscreen (minimum SPF 50) — standard sunscreen is banned in Australian marine parks and many Pacific island reserves",
+    "Light layers and a micro-fibre travel towel — weather changes quickly, especially in New Zealand's mountain passes or during tropical island downpours",
+    "Comfortable walking shoes with grip — ports involve significant walking on cobblestones (Melbourne laneways), forest trails (Vanuatu waterfalls), and uneven terrain (Fiordland lookouts)",
+    "Waterproof phone pouch or dry bag — essential for waterfall excursions, kayaking in Milford Sound, and island beach visits",
+    "Motion sickness medication — the Tasman Sea crossing and exposed Pacific passages can be turbulent even in summer",
+    "Smart-casual evening wear — Australian and New Zealand ships take dinner seriously; shorts and flip-flops aren't appropriate for main dining rooms",
+    "Universal power adapter (Type I for Australia/New Zealand) and a portable power bank — shore excursions can run long and drain batteries"
+  ],
+  "faq": [
+    {
+      "question": "What is the best time of year to cruise Australia & Pacific?",
+      "answer": "The optimal cruising season runs October to April, with December through February being peak summer. November offers the best balance of warm weather, reasonable prices, and reduced crowds. March-April provides excellent conditions as the season winds down, often with shoulder-season discounts. Avoid June-August — it's winter Down Under, with temperatures dropping to 10-15°C in the south, ship deployments at their lowest, and rough seas common across the Tasman Sea. South Pacific hurricane season officially runs November to April, though major cruise lines monitor systems and adjust itineraries accordingly."
+    },
+    {
+      "question": "Do I need a visa for Australia & Pacific cruises?",
+      "answer": "Visa requirements depend on your nationality. EU/EEA citizens receive Electronic Travel Authority (ETA) authorisation for Australia (subclass 601) — apply online or via the app, costs AUD 20, valid for 12 months or duration of stay. New Zealand grants visa-free entry to EU citizens for up to 90 days. For South Pacific islands: Fiji offers 4-month visa-free entry to EU citizens; Vanuatu grants 30 days free; New Caledonia allows 90 days within any 6-month period. Always check entry requirements before booking — rules change, and immigration officials will ask about onward travel documentation."
+    },
+    {
+      "question": "How many days do I need in Australia & Pacific?",
+      "answer": "A 7-10 night itinerary works well for a single focus — either Australia's east coast, New Zealand's highlights, or a South Pacific island hop. First-time visitors to the region should consider 12-14 nights to combine two sub-regions (e.g., Australia + New Zealand or New Zealand + Pacific Islands). Luxury repositioning cruises from Australia to Alaska (or vice versa) take 14+ nights but offer excellent value and variety. We recommend adding 2-3 pre or post-cruise land days in your departure port — Sydney, Auckland, and Melbourne all warrant exploration beyond what a port day allows."
+    },
+    {
+      "question": "What should I budget for excursions in Australia & Pacific?",
+      "answer": "Excursion prices on Australia & Pacific cruises typically range from €45-150 per person for standard tours, with premium experiences (Great Barrier Reef diving, Milford Sound kayaking, Māori cultural experiences in Rotorua) running €150-300. Free or low-cost alternatives exist at most ports: walking tours of Sydney, Melbourne, and Wellington are self-guided-friendly; beaches at Airlie Beach and Port Vila are free; Waiheke Island ferries from Auckland cost around €25. Budget approximately €500-800 per person for 3-4 ship excursions during a 10-night cruise, or research independent operators in advance for significant savings — though verify reviews carefully before committing."
+    }
+  ]
+}

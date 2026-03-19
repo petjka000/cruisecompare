@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fcruises\u002F[line]\u002F[destination]","\u002Fdeals\u002F[deal]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

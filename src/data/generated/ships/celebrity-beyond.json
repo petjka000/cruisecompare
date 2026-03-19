@@ -1,0 +1,183 @@
+{
+  "slug": "celebrity-beyond",
+  "name": "Celebrity Beyond",
+  "cruiseLine": "Celebrity",
+  "cruiseLineSlug": "celebrity",
+  "metaTitle": "Celebrity Beyond Review 2026 — Cabins, Dining, Entertainment",
+  "metaDescription": "Full review of Celebrity's Celebrity Beyond. Cabins, dining, entertainment, pools, and what makes this ship special.",
+  "heroSubtitle": "Celebrity Beyond — Celebrity Cruise Ship",
+  "overview": "The Celebrity Beyond is the newest and most ambitious ship in Celebrity's revolutionary Edge Class, joining Edge and Apex as the third vessel to showcase the groundbreaking design that redefined modern cruising when introduced with Celebrity Edge. Launched in April 2022, this 140,600-ton vessel represents Celebrity's vision of contemporary luxury at sea, where architectural innovation meets sophisticated comfort. Designed by British designer Kelly Hoppen with her signature warm, neutral palette and clean lines, the Beyond feels like a high-end boutique hotel rather than a traditional cruise ship.\n\nWhat sets the Beyond apart from its sisters is the evolution of the Edge Class concept—every space has been refined, expanded, and elevated. The most striking feature remains the Magic Carpet, a 90-ton cantilevered platform that glides between decks 2 and 16, transforming from a specialty restaurant venue to an embarkation point to an extension of the Pool Deck depending on the moment. The three-story Eden venue, with its floor-to-ceiling glass walls and lush botanical atmosphere, has become the ship's social heart. This ship is designed for travelers who appreciate contemporary design, culinary excellence, and a sophisticated atmosphere that encourages both connection and quiet moments of reflection.",
+  "quickFacts": {
+    "yearBuilt": 2022,
+    "tonnage": "140600 GRT",
+    "passengers": 3200,
+    "crew": 1400,
+    "decks": 16,
+    "length": "326m",
+    "cabins": 1600
+  },
+  "cabinTypes": [
+    {
+      "type": "Interior",
+      "priceFrom": 949,
+      "sqft": "150-180",
+      "description": "Interior staterooms on Celebrity Beyond offer 150-180 square feet of thoughtfully designed space, featuring the ship's signature 'Infinite Veranda' concept reimagined for interior cabins. Smart design maximises storage with custom床头 panels and intelligently placed shelving. Best for single travellers or couples who plan to spend minimal time in their cabin and want to maximise their cruise budget. Many cruisers are pleasantly surprised by how spacious these feel thanks to contemporary lighting and mirrored surfaces."
+    },
+    {
+      "type": "Balcony",
+      "priceFrom": 1449,
+      "sqft": "220-280",
+      "description": "The star of Celebrity Beyond—the Edge Class balcony cabins feature the revolutionary Infinite Veranda that transforms your balcony into an extension of your living space at the touch of a button. With 220-280 square feet including the veranda, these cabins blur the line between indoor and outdoor living. The split bathroom design with rainfall shower and vanity area adds luxury. Essential SPA balcony cabins offer spa access and are positioned near the SEA (Spa and Wellness) Thermal Suite. Ideal for passengers who value their outdoor space and want that signature fresh ocean air experience."
+    },
+    {
+      "type": "Suite",
+      "priceFrom": 1500,
+      "sqft": "450-700",
+      "description": "Suite guests on Celebrity Beyond receive the exclusive The Retreat experience, which includes access to The Retreat Lounge and private Sundeck—a multi-level sanctuary with dedicated pool, bar, and concierge service. The Iconic Suite (1,900 sq ft) features a primary bedroom, separate living room, and 270-degree ocean views from its grand balcony. Penthouse, Sky Suite, and Classic Suite categories range from 450-700 sq ft, all including included dining at Luminae restaurant, exclusive specialty restaurant reservations, and butler service. Upgrade if you want Celebrity's most pampered experience with seamless service throughout your cruise."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Main Dining Room",
+      "type": "included",
+      "description": "The main Metropolitan Restaurant spans two decks with sweeping staircase and offers flexible dining with Choose Your Table and Select Dining options. The contemporary menu changes nightly and showcases Celebrity's elevated approach to classic cruise cuisine, from herb-crusted lamb chops to properly aged beef. Tables for two along the windows are particularly romantic, while larger parties appreciate the variety of seating configurations."
+    },
+    {
+      "name": "Le Voyage by Daniel Boulud",
+      "type": "surcharge",
+      "price": "€55-75 per person",
+      "description": "Celebrity's partnership with acclaimed chef Daniel Boulud brings refined French Mediterranean cuisine to sea. Located in Eden with its dramatic three-story glass walls, Le Voyage offers an intimate fine dining experience with dishes like butter-poached Maine lobster and duck à l'orange. The tasting menu with wine pairing elevates the experience further. Reservations essential—this is the ship's most coveted dining spot."
+    },
+    {
+      "name": "Eden Restaurant",
+      "type": "surcharge",
+      "price": "€35-45 per person",
+      "description": "The stunning bi-level Eden Restaurant serves Mediterranean-inspired cuisine in what may be the most beautiful dining room at sea. Floor-to-ceiling glass walls, living plants, and innovative dishes make this venue as much about the experience as the food. Open for breakfast, lunch, and dinner with dishes like roasted branzino and hand-rolled pasta."
+    },
+    {
+      "name": "Tuscan Grille",
+      "type": "surcharge",
+      "price": "€30-40 per person",
+      "description": "Celebrity's beloved Italian steakhouse serves USDA Prime cuts and house-made pastas in an elegant Tuscan-inspired setting. Start with the classic Caesar prepared tableside, move to a dry-aged porterhouse for two, and finish with tiramisu. The outdoor seating on the Magic Carpet when positioned at deck 5 is particularly memorable."
+    },
+    {
+      "name": "Fine Cut",
+      "type": "surcharge",
+      "price": "€35-45 per person",
+      "description": "The sophisticated steakhouse offers premium cuts, an impressive wine list, and elegant atmosphere. The beef is meticulously sourced, with wet and dry-aged options. Seafood towers, foie gras, and creative cocktails complement the main courses. Located on deck 4, it offers a more intimate alternative to the main dining room."
+    },
+    {
+      "name": "Raw on 5",
+      "type": "included",
+      "description": "This casual poolside venue serves raw bar selections including oysters, shrimp cocktails, ceviche, and poke bowls. Perfect for a lunch stop between pool sessions, it offers quality seafood without the formality or surcharge of specialty restaurants. Also features wraps, salads, and fresh juices."
+    },
+    {
+      "name": "Oceanview Café",
+      "type": "included",
+      "description": "The main buffet restaurant has been redesigned for Edge Class with live cooking stations, quality ingredients, and thoughtful layout that prevents congestion. Breakfast offers made-to-order eggs, fresh waffles, and smoked salmon. Lunch features rotating global cuisine with vegetarian and dietary-specific options clearly labelled. Evening service includes curated specials alongside familiar favourites."
+    },
+    {
+      "name": "Café al Bacio",
+      "type": "included",
+      "description": "The elegant coffee bar serves Starbucks beverages, artisanal pastries, and gelato in a sophisticated setting. The afternoon tea service with finger sandwiches and scones has become a beloved tradition. Perfect for a pre-dinner aperitivo or post-show nightcap."
+    }
+  ],
+  "entertainment": [
+    "Eden performances — the ship's iconic three-story venue hosts nightly shows that transform this botanical space. From immersive theatrical experiences to intimate musical performances, Eden comes alive after dark with programming that changes throughout your cruise.",
+    "The Theatre productions — the main show lounge presents Broadway-style production shows with live musicians, impressive choreography, and celebrity cruise's characteristic high production values. Recent shows include 'Elements,' featuring earth, air, fire, and water themes with acrobatics and contemporary dance.",
+    "Rooftop Garden concerts — by day, this serene outdoor space with its iconic sculptural bar serves as a sunning retreat; by evening, it transforms into an intimate concert venue featuring live acoustic performances, jazz, and classical music under the stars.",
+    "The Club — this versatile entertainment venue hosts everything from disco nights and silent discos to game shows and themed parties. Transforms throughout the evening from trivia venue to dance club.",
+    "Live music throughout — from the quartet in the Grand Plaza to solo musicians on the Sunset Bar, musical entertainment permeates the ship. The Martini Bar features flair bartending and piano singalongs well into the night."
+  ],
+  "pools": [
+    "The Resort Pool — the main pool deck is a stunning two-level area dominated by a 12-person hot tub positioned for ocean views. The pool itself is generous but can feel crowded on sea days. Signature cocktail service, comfortable loungers, and the adjacent Raw on 5 venue make this the social heart of sun-seekers.",
+    "The adults-only Solarium — this serene indoor pool area offers a thermal experience with warm water, enclosed glass walls with retractable roof, and significantly fewer crowds. Access included with many cabin categories; Essential SPA cabin guests enjoy complimentary access. The best choice for a peaceful swim on sea days.",
+    "The Magic Carpet — while not a pool, this cantilevered platform extends the pool deck experience when positioned at deck 16, creating additional sunbathing space with unmatched ocean views. When positioned at deck 5, it becomes an al fresco dining venue."
+  ],
+  "kidsClubs": [
+    "Camp at Sea — Celebrity's innovative children's programme fills the ship's play spaces with creative activities, from cooking classes and art workshops to science experiments and pool games. Open for ages 3-17 with dedicated teen spaces. The ship's size means activities can feel more curated than on larger family ships, with maximum 30 children per session ensuring individual attention. While not as extensive as Disney or Royal Caribbean, the programme excels at quality over quantity with celebrity cruise line's sophisticated approach to family programming."
+  ],
+  "bestFor": [
+    "Couples seeking contemporary luxury",
+    "Design and architecture enthusiasts",
+    "Food and wine connoisseurs",
+    "Cruisers upgrading from mainstream lines",
+    "Those who appreciate innovative ship design",
+    "Adults seeking a sophisticated atmosphere"
+  ],
+  "notIdealFor": [
+    "Families with young children expecting extensive water parks",
+    "Budget-conscious travellers watching every euro",
+    "Traditional cruise lovers who prefer classic ship aesthetics",
+    "Guests who need vast entertainment options",
+    "Multi-generational groups wanting something for everyone"
+  ],
+  "prosAndCons": {
+    "pros": [
+      "Revolutionary Edge Class design with the Magic Carpet, Infinite Verandas, and stunning architectural spaces that genuinely feel unlike any other ship",
+      "Culinary excellence across all venues—from the main dining room to Le Voyage, the food quality rivals top land-based restaurants",
+      "Kelly Hoppen's warm, sophisticated design creates an atmosphere that feels more boutique hotel than traditional cruise ship",
+      "The Retreat suite experience offers one of the most inclusive luxury experiences at sea with Luminae dining and dedicated Retreat spaces",
+      "Excellent crew-to-guest ratio ensures attentive, personalised service throughout the ship",
+      "The three-story Eden venue is a genuine showstopper and unique gathering space"
+    ],
+    "cons": [
+      "Limited children's facilities compared to family-focused competitors—expect sophisticated families rather than water park excitement",
+      "Premium dining surcharges add up quickly; the best culinary experiences all carry additional costs",
+      "Cabins, while well-designed, are on the compact side compared to some competitors; even some suites feel smaller than expected",
+      "The ship's innovative design means some spaces can feel disjointed—navigating the ship requires attention, especially finding venues",
+      "Service can be inconsistent in busier venues like the buffet during peak hours",
+      "Not ideal for cruisers who prefer traditional cruise activities like bingo, art auctions, or casino-focused evenings"
+    ]
+  },
+  "verdict": "The Celebrity Beyond represents the most successful evolution of Celebrity's Edge Class vision—a ship that genuinely challenges what a modern cruise ship can be. For travellers upgrading from mainstream lines, the experience is revelatory: contemporary design, exceptional cuisine, and sophisticated atmosphere create a holiday that feels distinctly different from traditional cruising. The Magic Carpet and Eden remain conversation-starting innovations that justify the experience.\n\nHowever, the Beyond isn't trying to be everything to everyone. Families will find competent children's programming but nothing remarkable; budget travellers will struggle with the reality of premium surcharges on already premium-priced experiences. This ship excels for couples, design enthusiasts, and discerning cruisers who prioritise quality dining, thoughtful spaces, and contemporary aesthetics over traditional cruise activities. At 4.4 stars, Celebrity Beyond earns its rating by delivering on its promise of elevated contemporary luxury—though cruisers should approach with realistic expectations about what they're booking.",
+  "rating": 4.4,
+  "itineraries": [
+    {
+      "name": "7-Night Western Caribbean",
+      "ports": [
+        "Fort Lauderdale",
+        "Roatán",
+        "Costa Maya",
+        "Cozumel",
+        "Nassau"
+      ],
+      "from": "Fort Lauderdale"
+    },
+    {
+      "name": "10-Night Southern Caribbean",
+      "ports": [
+        "Fort Lauderdale",
+        "St. Thomas",
+        "St. Maarten",
+        "Barbados",
+        "St. Lucia",
+        "Antigua"
+      ],
+      "from": "Fort Lauderdale"
+    },
+    {
+      "name": "7-Night Mediterranean",
+      "ports": [
+        "Barcelona",
+        "Palma de Mallorca",
+        "Sicily",
+        "Rome",
+        "La Spezia"
+      ],
+      "from": "Barcelona"
+    },
+    {
+      "name": "10-Night Greek Islands & Turkey",
+      "ports": [
+        "Barcelona",
+        "Santorini",
+        "Athens",
+        "Ephesus",
+        "Mykonos",
+        "Valencia"
+      ],
+      "from": "Barcelona"
+    }
+  ]
+}

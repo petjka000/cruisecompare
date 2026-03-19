@@ -1,0 +1,192 @@
+{
+  "slug": "amsterdam",
+  "name": "Amsterdam",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "iata": "AMS",
+  "region": "Baltic",
+  "metaTitle": "Amsterdam Cruise Port Guide 2026 — Terminals, Transport & Tips",
+  "metaDescription": "Complete guide to Amsterdam cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+  "heroSubtitle": "Everything you need to know before your cruise from Amsterdam",
+  "overview": "Amsterdam serves as one of Northern Europe's premier cruise ports, welcoming over 200 cruise ships and approximately 500,000 passengers annually. The city sits at the mouth of the IJ river with terminals located conveniently near the historic city center. As a departure port, Amsterdam is particularly popular with Holland America Line, which maintains a significant presence here as a homeport. The port's unique advantage is its walkability — most terminals are within 20 minutes of major attractions like the Anne Frank House, the Van Gogh Museum, and the iconic canal ring. Cruise ships also regularly call at Amsterdam during Baltic and North Sea itineraries, making it a versatile gateway to Dutch culture and beyond. The city operates cruise terminals year-round, with peak season running from May through September when the weather is most favorable for exploring.",
+  "terminals": [
+    {
+      "name": "Passenger Terminal Amsterdam (PTA)",
+      "description": "The main cruise terminal located at Piet Heinkade 1-3, 1019 HA Amsterdam. This modern facility handles the majority of cruise passengers and features a large terminal building with comprehensive services. Used by most major cruise lines including Holland America Line, MSC Cruises, and Costa Cruises. The terminal offers direct views over the IJ river and is the primary hub for turnaround operations.",
+      "cruiseLines": [
+        "Holland America Line",
+        "MSC Cruises",
+        "Costa Cruises",
+        "P&O Cruises",
+        "Princess Cruises",
+        "Cunard"
+      ],
+      "facilities": [
+        "information desk",
+        "toilets",
+        "coffee shop",
+        "baggage storage",
+        "currency exchange",
+        "rent-a-car desk",
+        "waiting area",
+        "WiFi access",
+        "tour desk"
+      ]
+    },
+    {
+      "name": "Cruise Dock 1 (Willem van Enkhuizen)",
+      "description": "Formerly known as the Holland America Line terminal, this dock at 141 Piet Heinkade primarily serves Holland America Line vessels. It features dedicated check-in facilities and is equipped for large passenger volumes. The terminal has undergone renovations to improve passenger flow and amenities.",
+      "cruiseLines": [
+        "Holland America Line"
+      ],
+      "facilities": [
+        "check-in counters",
+        "toilets",
+        "seated waiting area",
+        "refreshment kiosk"
+      ]
+    },
+    {
+      "name": "Cruise Dock 2 (Veemkade)",
+      "description": "Located further along the IJ waterfront at Veemkade, this terminal handles mid-sized cruise ships and is often used for ships that cannot fit at the main PTA terminal. It's positioned in the Eastern Docklands area, offering a more local neighborhood feel with nearby cafes and restaurants.",
+      "cruiseLines": [
+        "Celebrity Cruises",
+        "Norwegian Cruise Line",
+        "AIDA Cruises",
+        "TUI Cruises"
+      ],
+      "facilities": [
+        "basic amenities",
+        "toilets",
+        "information point"
+      ]
+    },
+    {
+      "name": "De Nieuwe Maas (Rotterdam connection)",
+      "description": "For larger vessels or during peak periods, ships may dock at facilities connected to the Port of Rotterdam network, with shuttle services provided to Amsterdam. This typically applies only to the largest cruise ships exceeding PTA's capacity.",
+      "cruiseLines": [
+        "Royal Caribbean",
+        "Celebrity Apex class"
+      ],
+      "facilities": [
+        "shuttle transport",
+        "basic facilities"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "fromAirport": "Amsterdam Schiphol Airport (AMS) is approximately 20km from the cruise terminals. The most efficient route is taking the direct train (Sprinter or Intercity) from Schiphol to Amsterdam Centraal Station (€4.30-6.50, 15-20 minutes), then walking 15-20 minutes to PTA or taking tram 26 to the port area. Alternatively, taxi services from the airport cost approximately €50-60 and take 30-45 minutes depending on traffic. The GVB bus 397 also connects Schiphol to Amsterdam Centraal (€6.20, 30 minutes). For cruise departures, allow at least 3 hours from landing at Schiphol to reach the terminal.",
+    "fromCityCenter": "From Amsterdam Centraal Station, the main cruise terminal is a pleasant 15-20 minute walk heading east along the IJ waterfront on Piet Heinkade. Tram 26 runs from Centraal Station to the Rietlandpark stop near PTA (5 minutes). Taxis from anywhere in the city center to the port cost approximately €10-15 and take 10-15 minutes. For those staying at hotels near Dam Square, the walk is approximately 2.5km or 25-30 minutes through the city center.",
+    "parking": "Long-term parking near the cruise terminals is limited. Q-Park Oostpoort (approximately 1.5km from PTA) offers secure parking for approximately €25-35 per day with shuttle service to the terminal. The Port of Amsterdam occasionally offers pre-booked parking for cruise passengers, ranging from €15-25 per day depending on location and duration. For Holland America Line passengers, park-and-ride packages are sometimes available through the cruise line. Book parking well in advance during peak summer months as spaces fill quickly.",
+    "shuttles": "Most cruise lines provide complimentary shuttle buses between the main cruise terminal and Amsterdam Centraal Station for passengers on port days. For embarkation and disembarkation days, Holland America Line offers pre-bookable transfers from Schiphol Airport and select Amsterdam hotels (typically €35-50 per person). MSC Cruises provides airport transfers through their MSC Excursions program. Independent shuttle services like Shuttle Direct and Suntransfers operate between Schiphol and the port area (€25-40 per person). Hotel shuttles vary by property — many downtown hotels near Centraal offer free shuttle service."
+  },
+  "embarkationTips": [
+    "Arrive at the Passenger Terminal Amsterdam no earlier than your confirmed check-in time — boarding typically begins 2-3 hours before departure, and arriving too early means waiting outside in all weather conditions, as the terminal often doesn't open until the previous ship has fully disembarked.",
+    "If flying into Schiphol the morning of your cruise, book a landing time at least 5 hours before departure — even with efficient immigration and transport, delays can occur, and Amsterdam traffic (especially on Fridays and Mondays) can add significant time to your journey.",
+    "Holland America Line passengers should specifically check their terminal assignment before arriving — some HAL ships use Cruise Dock 1 while others operate from PTA, and they're not the same location, costing you a €15-20 taxi ride if you go to the wrong place.",
+    "The area immediately around PTA has limited baggage carts before security — bring or borrow a wheeled bag from your hotel if possible, as the walk from the taxi drop-off to the terminal building can be 200-300 meters with luggage.",
+    "Dutch efficiency means customs and security lines at Amsterdam tend to move quickly, but during peak season (June-August), expect the main terminal to be extremely busy between 12:00-14:00 as multiple ships depart simultaneously — earlier or later check-in slots are noticeably calmer."
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "Anne Frank House",
+      "description": "The secret annex where Anne Frank and her family hid from 1942-1944. This museum provides a moving and educational experience, offering insight into World War II history and the impact of persecution. Essential visit for history enthusiasts. Tickets must be booked online well in advance as same-day tickets are extremely rare.",
+      "walkingTime": "20 minutes from PTA",
+      "cost": "€20 adults, €10 children (ages 10-17). Children under 10 not permitted."
+    },
+    {
+      "name": "Jordaan District",
+      "description": "Amsterdam's most picturesque neighborhood, famous for its narrow streets, brown cafes, artisan shops, and flower-filled courtyards. Perfect for a leisurely walk between canal cruises or pre-cruise exploration. The Sunday morning market at Noordermarkt is excellent for local produce and antiques.",
+      "walkingTime": "15 minutes from PTA",
+      "cost": "Free to walk around. Market items priced individually."
+    },
+    {
+      "name": "Rijksmuseum",
+      "description": "The national museum houses Dutch Golden Age masterpieces including works by Rembrandt, Vermeer, and Frans Hals. The building itself is architecturally impressive, and the surrounding gardens are beautiful. One of the world's premier art museums with extensive collections spanning 800 years of Dutch art and history.",
+      "walkingTime": "30 minutes or tram 26 from Centraal",
+      "cost": "€20 adults. Museumkaart holders enter free. Combined with Van Gogh Museum: €39."
+    },
+    {
+      "name": "Van Gogh Museum",
+      "description": "The world's largest collection of works by Vincent van Gogh, featuring over 200 paintings, 500 drawings, and 700 letters. Essential for art lovers and those interested in understanding one of history's most influential artists. The museum building is architecturally striking with excellent visitor facilities.",
+      "walkingTime": "25 minutes from PTA via tram or 35 minutes walking",
+      "cost": "€19 adults. Combined Rijksmuseum ticket: €39."
+    },
+    {
+      "name": "NEMO Science Museum",
+      "description": "An architectural landmark shaped like a ship, offering hands-on science exhibits suitable for families and adults alike. Located directly on the waterfront with excellent views of the city. Interactive exhibitions change regularly, making it worth a repeat visit.",
+      "walkingTime": "25 minutes from PTA",
+      "cost": "€20 adults, €15 children (4-15 years). Children under 4 free."
+    },
+    {
+      "name": "A'DAM Tower",
+      "description": "Formerly the Shell headquarters, this distinctive tower on the northern bank of the IJ offers Europe's highest swings on the observation deck (100m above ground). Provides panoramic views of Amsterdam's historic center and port area. Accessible via free ferry from Centraal Station.",
+      "walkingTime": "15 min to ferry + 5 min ferry + 5 min to tower",
+      "cost": "€15 adults for observation deck, €25 including swing experience."
+    },
+    {
+      "name": "Red Light District (De Wallen)",
+      "description": "Amsterdam's most famous neighborhood, offering a unique blend of historic architecture, narrow medieval streets, and its well-known adult entertainment zone. Daytime visits are perfectly respectable for appreciating the area's architecture and the famous Oude Kerk church. Evening visits offer a different perspective.",
+      "walkingTime": "12 minutes from Centraal Station",
+      "cost": "Free to walk around. Window prices vary by individual worker."
+    },
+    {
+      "name": "Canal Cruise Departures",
+      "description": "Classic canal boat tours depart from multiple points near Centraal Station and along the Herengracht. These 1-2 hour tours provide an excellent introduction to Amsterdam's UNESCO-listed canal ring, passing under numerous bridges and past historic merchant houses.",
+      "walkingTime": "10-15 minutes from PTA",
+      "cost": "€16-25 per person depending on operator and duration. Evening cruises cost more."
+    }
+  ],
+  "localTransport": {
+    "metro": "Amsterdam's GVB metro system connects Centraal Station to destinations throughout the city. The metro does not directly serve the cruise terminals, but the walk from PTA to the nearest metro point at Centraal Station is manageable. Metro lines M51, M52, M53, and M54 serve various neighborhoods. The metro is useful for reaching locations not well-served by trams, such as the Amsterdam Arena area and southern suburbs.",
+    "bus": "GVB bus routes serve the port area, with route 38 providing connections to the Eastern Docklands area. Bus 65 runs along the IJ waterfront. From Centraal Station, numerous bus routes radiate throughout the city. The GVB day ticket (€8.50) offers unlimited travel on all GVB trams, buses, and metros for 24 hours and is excellent value for port-day exploration.",
+    "taxi": "Taxis are readily available near the cruise terminals and throughout the city. From PTA to Centraal Station expect to pay €12-18. Always use official taxis (recognizable by their blue license plates) or book through the Uber or Bolt apps, which tend to be cheaper. Taxis cannot easily be flagged down near the port — instead, walk to the nearest taxi stand or use an app.",
+    "walkability": "Amsterdam's cruise terminals are remarkably walkable to the city center. From PTA to Dam Square is approximately 2km (25-30 minutes). The waterfront promenade along the IJ is pleasant and scenic, leading directly past Centraal Station. The entire historic center, including the Red Light District, Jordaan, and most major museums, is accessible on foot within 30-40 minutes from the port. This makes Amsterdam one of the most pedestrian-friendly cruise ports in Europe."
+  },
+  "weather": {
+    "bestMonths": "The optimal cruising season from Amsterdam runs from late April through early October. May and June offer the famous Dutch flower season with tulip fields in bloom throughout the countryside. September provides excellent weather with fewer crowds and the added bonus of festival season (Jordaan Festival, Heritage Days with open canal houses). Late April can still be cool and unpredictable.",
+    "peakSeason": "July and August represent the absolute peak of Amsterdam's cruise season, with 4-6 ships in port on busy days. Dutch school holidays (late July through late August) see the highest domestic tourism. Queen's Day (April 27) and King's Day (same date, name changes based on monarch) are national holidays with city-wide celebrations including flea markets and orange-themed festivities. IGC conference weeks in June can dramatically increase city occupancy rates.",
+    "climate": "Amsterdam experiences a temperate maritime climate with moderate temperatures year-round. Summer highs average 20-24°C with occasional heat waves reaching 30°C+. Winter temperatures typically range 2-7°C with occasional snow. Pack layers regardless of season — weather changes frequently and coastal breezes off the IJ can be cool. For ship departures, waterproof jackets are essential. Comfortable walking shoes are non-negotiable given Amsterdam's cobblestone streets and bike paths. Sunscreen is surprisingly important during sunny summer days due to the reflective canal water."
+  },
+  "cruiseLinesFromHere": [
+    "Holland America Line",
+    "MSC Cruises",
+    "Costa Cruises",
+    "Royal Caribbean",
+    "Norwegian Cruise Line",
+    "Celebrity Cruises",
+    "Princess Cruises",
+    "P&O Cruises",
+    "AIDA Cruises",
+    "Cunard Line",
+    "TUI Cruises",
+    "Fred. Olsen Cruise Lines"
+  ],
+  "isDeparture": true,
+  "isCallPort": true,
+  "insiderTips": [
+    "Book tickets to the Anne Frank House months in advance if possible — same-day tickets are released at 9:00 AM Dutch time online and sell out within seconds. If you miss out, the Secret Annex nearby (around the corner) offers a smaller but equally moving experience focused specifically on the historical narrative without the massive queues.",
+    "Skip the expensive tourist-trap canal cruises departing from Centraal Station (€17-25) and instead take GVB tram 2 or 4 for €2.20 per ride — you'll see just as many beautiful canals and houseboats for a fraction of the cost, plus you can stop off wherever you like to explore neighborhoods like the Jordaan.",
+    "For the best herring in Amsterdam, skip the tourist stalls near Dam Square and walk to the HDFC fish shop at Prinsengracht 196 (near the 9 Streets area) — locals have been queueing here for decades for traditional raw herring with pickles and onions for €3-4. herring carts also appear throughout the city center from April through October.",
+    "Holland America Line passengers specifically: the line offers complimentary shuttle buses to Centraal Station on port days, but they fill up fast by mid-morning — take the first shuttle (usually departs 30 minutes after the first passengers disembark) to secure a seat and avoid the afternoon crowds at major attractions.",
+    "If your cruise departs from Cruise Dock 2 (Veemkade) rather than PTA, the surrounding Eastern Docklands neighborhood has excellent but largely tourist-free dining options. Try Café de Ceuvel (creative sustainability-focused space) or Los Torteros for outstanding Argentine empanadas — locals' favorites that most cruise passengers never discover."
+  ],
+  "faq": [
+    {
+      "question": "Which Amsterdam cruise terminal will my ship depart from?",
+      "answer": "Your specific terminal depends on your cruise line and ship size. Holland America Line vessels typically use Cruise Dock 1 (Piet Heinkade) or PTA, depending on the ship. MSC, Costa, and most other lines generally use Passenger Terminal Amsterdam (PTA). Your cruise line will send terminal assignment details approximately 2-3 weeks before departure. If you don't receive this information, check your cruise line's app or website's port information section. Always verify this before arranging independent transport to the port."
+    },
+    {
+      "question": "How early should I arrive at the port for an Amsterdam departure?",
+      "answer": "For most cruise lines, check-in opens 3-4 hours before departure and you should arrive no later than 2 hours before sailing. However, during peak season (June-August), expect longer queues at security and check-in, so arriving 3 hours before departure is advisable. For Holland America Line, which frequently homeports in Amsterdam, recommended arrival times are clearly stated in pre-cruise documentation. Note that Amsterdam cruise terminals can be quite exposed — bring appropriate weather protection if arriving early and waiting outside."
+    },
+    {
+      "question": "Is Amsterdam safe to walk around as a cruise passenger?",
+      "answer": "Amsterdam is generally very safe for tourists, including cruise passengers. Like any major city, remain aware of pickpockets in crowded tourist areas (especially Centraal Station, Dam Square, and the Red Light District) and watch for cyclists when walking — Amsterdam's bike culture is intense and locals cycle fast, often on paths that may not be obvious to visitors. The areas immediately around the cruise terminals are well-lit and busy. Avoid isolated areas late at night. Bag snatching, while rare, occasionally occurs near Centraal Station."
+    },
+    {
+      "question": "Can I leave my luggage at the cruise terminal if I arrive early?",
+      "answer": "Yes, Amsterdam cruise terminals offer luggage storage facilities for embarkation days. At PTA, secure baggage storage is available near the check-in halls (approximately €5-8 per bag depending on size). You can typically store bags from early morning and collect them at your leisure before boarding. For disembarkation, most lines provide luggage transport to a central collection point. Independent luggage storage companies like StowEasy operate near Centraal Station if you need to store bags for sightseeing before or after your cruise."
+    }
+  ]
+}

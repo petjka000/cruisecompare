@@ -1,0 +1,149 @@
+{
+  "slug": "black-sea",
+  "name": "Black Sea",
+  "region": "Europe",
+  "metaTitle": "Black Sea Cruises Guide 2026 — Best Routes, Ports & Tips",
+  "metaDescription": "Complete guide to cruising the Black Sea. Best time to visit, top ports, what to expect, and how to plan your Black Sea cruise.",
+  "heroSubtitle": "Your complete Black Sea cruise planning guide",
+  "overview": "The Black Sea stands as one of cruising's most intriguing frontier destinations—a body of water bordered by six nations that blends Byzantine history, Soviet heritage, Ottoman grandeur, and Caucasian adventure into a single voyage. Unlike the crowded Mediterranean, the Black Sea remains relatively uncrowded, offering cruisers the thrill of discovering ports that feel genuinely off the beaten path. Istanbul serves as the primary gateway, where Asia meets Europe across the Bosphorus Strait, and from here, ships weave between Turkish Riviera ports, Ukrainian cultural centres, Georgian beach towns, and Bulgarian coastal gems. The region delivers a rare combination of ancient ruins, seaside promenades, mountain monasteries tucked into cliff faces, and vineyards that predate Roman civilization. A Black Sea cruise suits travellers seeking cultural depth over beach resorts, history enthusiasts, and those who want to explore destinations before they become mass-market tourist spots. Note that geopolitical situations affect some ports—always check current routing with your cruise line before booking.",
+  "subRegions": [
+    "Turkey",
+    "Ukraine",
+    "Russia",
+    "Georgia",
+    "Bulgaria",
+    "Romania"
+  ],
+  "bestTimeToVisit": {
+    "peak": "July-August",
+    "shoulder": "June, September",
+    "avoid": "November through March",
+    "tip": "July-August offers the warmest sea swimming temperatures (24-26°C) but ships fill quickly and prices peak. June provides longer daylight hours, fewer crowds, and pleasant temperatures around 28°C. September often delivers the best balance—warm weather persists, summer tourist numbers decline, and harvest season brings excellent local cuisine. October sees reduced itineraries as many cruise lines end Black Sea programming for the year. Spring (April-May) can be rainy, particularly in Istanbul."
+  },
+  "topPorts": [
+    {
+      "name": "Istanbul, Turkey",
+      "highlight": "Hagia Sophia, Blue Mosque, Grand Bazaar, Bosphorus Strait",
+      "description": "The gateway to any Black Sea voyage and arguably its crown jewel. Spend your day exploring the UNESCO-listed Sultanahmet district—marvel at the Hagia Sophia's dome (now operating as a mosque with visitor access), wander the labyrinthine Grand Bazaar's 4,000 shops, and admire the Blue Mosque's six minarets. An afternoon Bosphorus ferry ride offers spectacular views of Ottoman waterfront palaces and the suspension bridges connecting Europe and Asia. Istanbul typically anchors either the start or end of Black Sea itineraries, making pre or post-cruise hotel stays highly recommended."
+    },
+    {
+      "name": "Odessa, Ukraine",
+      "highlight": "Potemkin Steps, Odessa Opera House, Deribasivska Street",
+      "description": "Odessa rewards cruisers with one of the Black Sea's most elegant cities—a Mediterranean-feeling port with Italianate architecture, a stunning Opera House often called the most beautiful in Ukraine, and the famous Potemkin Steps descending 192 meters to the waterfront. Deribasivska Street buzzes with cafes and street performers. The city's food scene excels with Jewish-Old World cuisine, fresh Black Sea fish, and local champagne-style sparkling wine. Note: cruise access depends on regional conditions—confirm with your cruise line before departure."
+    },
+    {
+      "name": "Trabzon, Turkey",
+      "highlight": "Sumela Monastery, Sumela National Park",
+      "description": "The gateway to Turkey's stunning Black Sea coast, Trabzon sits at the foot of the Pontic Mountains and serves as the access point for the extraordinary Sumela Monastery—a 1,600-year-old Greek Orthodox monastery built into a cliff face 300 meters above a forested valley. The drive through the mountains offers some of Turkey's most dramatic scenery. Trabzon's city centre features an 11th-century Byzantine monastery, Ottoman-era bazaars, and the restored Atatürk Pavilion. This port captures Turkey's untouristy Black Sea character far removed from Mediterranean resorts."
+    },
+    {
+      "name": "Nessebur, Bulgaria",
+      "highlight": "Ancient Thracian, Byzantine, and Medieval ruins, Church of St. Stephen",
+      "description": "A UNESCO World Heritage Site perched on a rocky peninsula, Nessebur is one of Europe's most atmospheric ancient towns. Its narrow cobblestone streets wind past Roman walls, Byzantine churches, and Ottoman mosques in remarkable preservation. The Church of St. Stephen (Hristus Pantocrator) houses a remarkable icon museum with frescoes dating to the 14th century. Souvenir hunters will find quality Bulgarian crafts—particularly silver jewellery, rose oil products, and traditional textiles—at prices far below Western European tourist markets."
+    },
+    {
+      "name": "Batumi, Georgia",
+      "highlight": "Old Town, Batumi Botanical Garden, Europe Square",
+      "description": "Georgia's premier seaside resort surprises visitors with its blend of Art Nouveau architecture, palm-lined boulevards, and a buzzing nightlife scene. Batumi's Old Town features colourfully painted wooden houses alongside modern glass towers along the waterfront promenade. The Batumi Botanical Garden, covering 111 hectares on a hillside above the city, showcases plants from five climate zones. Georgia's wine heritage is celebrated everywhere—don't leave without trying natural amber wine from the Kakheti region. Georgian cuisine ranks among Europe's most underrated food destinations."
+    },
+    {
+      "name": "Sochi, Russia",
+      "highlight": "Sochi Olympic Park, Caucasus Mountains, Arboretum",
+      "description": "Russia's subtropic Riviera capital gained global attention during the 2014 Winter Olympics, and its gleaming facilities remain accessible to visitors. The Olympic Park complex includes the Fisht Olympic Stadium and venues that cruisers can tour. The city proper features the impressive Sochi Arboretum, a 44-hectare botanical garden, and the Art Deco Summer Theatre. The towering Caucasus Mountains provide a dramatic backdrop and offer excursion possibilities for alpine scenery. Note that visa requirements for Russia are strict and shore excursions must be booked through approved operators."
+    }
+  ],
+  "popularItineraries": [
+    {
+      "name": "7-Night Istanbul & Black Sea Treasures",
+      "from": "Istanbul (Turkey)",
+      "ports": [
+        "Istanbul",
+        "Nessebur (Bulgaria)",
+        "Constanta (Romania)",
+        "Odessa (Ukraine)",
+        "Batumi (Georgia)",
+        "Trabzon (Turkey)"
+      ],
+      "priceFrom": 899
+    },
+    {
+      "name": "10-Night Complete Black Sea Circuit",
+      "from": "Istanbul (Turkey)",
+      "ports": [
+        "Istanbul",
+        "Bodrum (Turkey)",
+        "Nessebur (Bulgaria)",
+        "Constanta (Romania)",
+        "Odessa (Ukraine)",
+        "Yalta (Crimea)",
+        "Sochi (Russia)",
+        "Batumi (Georgia)",
+        "Trabzon (Turkey)"
+      ],
+      "priceFrom": 1299
+    },
+    {
+      "name": "12-Night Istanbul to Athens via Black Sea",
+      "from": "Istanbul (Turkey)",
+      "ports": [
+        "Istanbul",
+        "Nessebur (Bulgaria)",
+        "Istanbul (return)",
+        "Bodrum (Turkey)",
+        "Rhodes (Greece)",
+        "Athens (Greece)"
+      ],
+      "priceFrom": 1599
+    }
+  ],
+  "cruiseLinesOperating": [
+    "Azamara",
+    "Seabourn",
+    "Viking Ocean Cruises",
+    "Celestyal Cruises",
+    "Hurtigruten Expeditions",
+    "MSC Cruises",
+    "Costa Cruises",
+    "Princess Cruises",
+    "Holland America Line"
+  ],
+  "whatToExpect": {
+    "weather": "The Black Sea cruise season runs May through September. June through August delivers the warmest conditions with daytime highs of 26-32°C along Turkish and Bulgarian coasts, cooling slightly further north. Sea temperatures reach their peak in August at 24-26°C—swimming is possible from June through September. Pack layers: coastal winds can make tender embarkations cool even in summer, while tour buses often overheat. Rainfall increases in October. Pack a light rain jacket for May and September. Sunscreen is essential—the Black Sea's southern coast can feel tropical in summer.",
+    "food": "The Black Sea region offers exceptional culinary diversity. In Turkey, seek Black Sea anchovies (hamsi)—the region's signature fish—alongside grilled turbot and mezze spreads featuring local white cheese and honey. Georgian cuisine is a highlight: try khachapuri (cheese-filled bread), khinkali (dumplings), and Churchkhela (walnut candy dipped in grape juice). Ukrainian Odessa serves excellent borscht, varenyky (dumplings), and fresh Black Sea fish. Bulgarian food features banitsa (cheese pastry), Shopska salad, and inexpensive but quality local wines from the Thracian Valley. Georgian wine is extraordinary—the country invented winemaking over 8,000 years ago and produces unique amber wines not found elsewhere.",
+    "culture": "The Black Sea region spans multiple cultural spheres. Turkey is officially secular with strong Islamic traditions—dress modestly for mosque visits (women should cover hair, shoulders, and knees). Georgia has its own Orthodox church traditions and distinct national identity. Ukraine blends Slavic and Mediterranean influences. Tipping 10% is customary across the region; in Turkey and Bulgaria, it's often included or rounded up. Photography restrictions apply at some religious sites and military installations. Dress codes ashore are generally casual but smart-casual for evening dining. Learning a few phrases in local languages is appreciated—'Merhaba' (hello) in Turkish and 'Gamrjveba' (good day) in Georgian go a long way.",
+    "currency": "Each country uses different currency. Turkey operates on Turkish Lira (TRY)—Euros and US Dollars are widely accepted in tourist areas but you'll receive poor exchange rates; use ATMs for local currency. Ukraine's Hryvnia (UAH) is difficult to obtain outside the country; euros or US dollars in cash work better in Odessa. Georgia uses Georgian Lari (GEL)—Euros are sometimes accepted in tourist restaurants. Bulgaria uses Lev (BGN) which is pegged to the Euro. ATMs are widely available in all major ports. Inform your bank before travelling to avoid card blocks. Credit cards work in mainstream shops in Turkey and Bulgaria but expect cash-only in smaller Georgian and Ukrainian establishments.",
+    "language": "English is limited outside major tourist areas. In Turkey's coastal ports and Istanbul, younger residents and tourism workers usually speak basic English. Bulgarian and Romanian service workers often speak German before English. In Ukraine and Georgia, Russian remains widely spoken as a second language, though younger people increasingly speak English. Georgian language uses its own unique script unrelated to any other language. Carry a translation app on your phone and have key phrases written down in local script—particularly your hotel name and the phrase 'I need a taxi.' Turkish and Georgian road signs rarely include English translations."
+  },
+  "insiderTips": [
+    "Book a small-group or private tour in Istanbul rather than ship's excursions—the Grand Bazaar and Hagia Sophia experience far better with a local guide who knows the hidden ateliers and quieter viewing spots. Ships dock at Karakoy, requiring a tram ride to Sultanahmet; your guide can meet you at the port, saving €15-20 per person in transfers and giving you freedom that coach tours don't allow.",
+    "The Trabzon to Sumela Monastery excursion books up fast on cruise ships—book immediately upon boarding or arrange independent transport through your ship's concierge. The monastery is even more spectacular than photos suggest, and the mountain drive through tea plantations is beautiful. Independent tours cost approximately €40-60 versus the ship's €120+ excursion.",
+    "Georgia's Adjara region produces world-class wine at prices a fraction of Western Europe. In Batumi, seek out wine bars in the Old Town serving natural wines from Kakheti—you'll pay €3-5 per glass for wines that would cost €15+ in Amsterdam. Ask your taxi driver for the 'best local wine bar'—they'll know the spot that tourists haven't found yet."
+  ],
+  "packingList": [
+    "Comfortable walking shoes with good grip—cobblestones dominate old town ports from Nessebur to Odessa, and heeled shoes are treacherous on wet marble mosque steps",
+    "Modest clothing for religious sites: long skirts or trousers for women, shirts covering shoulders for everyone; a lightweight scarf serves triple duty as mosque head-cover, sun shield, and air-conditioned bus warmth layer",
+    "Universal power adapter with two USB ports—Turkish, Georgian, Ukrainian, and Russian sockets vary, and cruise ship USB charging won't work for phones at all ports",
+    "A small daypack or crossbody bag that sits close to your body—pickpocketing occurs in crowded markets in Istanbul and Odessa; leave bulky wallets at the ship's safe",
+    "Swimwear even on non-beach itineraries—many Black Sea ports have thermal spas or hotel pools accessible to cruise visitors, and September heat on deck demands a dip",
+    "Prescription medications in original packaging plus a doctor's note—pharmacy availability varies widely and English-speaking chemists are rare outside Turkey",
+    "Reusable water bottle with carabiner clip—Black Sea ports can be hot and exhausting, tap water is safe in Turkey and Bulgaria, and you'll save €20+ avoiding constant plastic bottle purchases"
+  ],
+  "faq": [
+    {
+      "question": "What is the best time of year to cruise the Black Sea?",
+      "answer": "June through September offers the most reliable weather. July and August provide the warmest sea temperatures (24-26°C) and longest daylight hours (up to 15 hours), making them ideal for swimmers and photographers. However, these months see peak cruise pricing and the largest passenger numbers. June delivers excellent weather with fewer crowds, while September often offers the sweet spot—comfortable 25-28°C temperatures, thinner crowds, and the bonus of harvest season with exceptional local cuisine. October sees significantly reduced itineraries as cruise lines reposition ships. Note that some ports, particularly Odessa, may have weather-related port closures even in summer."
+    },
+    {
+      "question": "Do I need a visa for Black Sea cruises?",
+      "answer": "Visa requirements depend on your nationality and the specific ports visited. Citizens of EU countries, UK, USA, Canada, and Australia can visit Turkey visa-free for up to 90 days. Bulgaria and Romania are in the EU/Schengen area for cruise purposes—Schengen visas apply. Ukraine typically allows visa-free entry for tourist visits from Western countries for up to 90 days. Georgia offers visa-free entry to most Western passport holders for up to one year. Russia requires a separate tourist visa that must be arranged well in advance through approved travel agencies; independent shore excursions cannot help with this. Check requirements for each port on your specific itinerary and ensure your passport has at least six months validity beyond your cruise end date."
+    },
+    {
+      "question": "How many days do I need for a Black Sea cruise?",
+      "answer": "A minimum of 7 nights captures the Black Sea's highlights—typically visiting Istanbul, two Turkish Black Sea ports, one Bulgarian or Romanian stop, Odessa, and often Batumi. This compressed schedule means some ports get only 6-8 hours. Ten to twelve-night itineraries allow for deeper exploration, overnight stays in ports like Istanbul or Batumi, and visits to more remote destinations like Sochi or Crimea's Yalta. If your schedule allows, add 2-3 hotel nights in Istanbul pre or post-cruise—the city deserves at least two full days to explore properly. Those interested in Georgian wine culture or Turkey's Lycian Coast should seek 14+ night combined itineraries."
+    },
+    {
+      "question": "What should I budget for excursions in the Black Sea?",
+      "answer": "Ship's shore excursions range from €60-90 for basic walking tours to €150-250 for premium experiences like private Sumela Monastery visits or Georgian wine tastings. Budget approximately €100-150 per person per day if taking the ship's tours. Independent touring costs significantly less—expect to pay €30-50 for a full-day private guide in Turkey, €25-40 for organized shared tours in Bulgaria, and €40-60 in Georgia including wine tastings. Taxis within Black Sea port cities are extremely cheap (under €5 for most journeys). Budget an additional €20-30 daily for meals ashore if you want to experience local cuisine properly. Currency exchange fees can add up—use local ATMs rather than ship's exchange services."
+    }
+  ]
+}

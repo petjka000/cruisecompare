@@ -26,8 +26,8 @@ log = logging.getLogger(__name__)
 # ── CREDENTIALS ─────────────────────────────────────────────────────────────
 def get_kimi_creds():
     """Get Kimi K2.5 credentials from OpenClaw config or environment."""
-    # Try environment variable first
-    api_key = os.environ.get('ANTHROPIC_API_KEY') or os.environ.get('KIMI_API_KEY')
+    # Try environment variable first (DASHSCOPE_API_KEY is the correct variable)
+    api_key = os.environ.get('DASHSCOPE_API_KEY') or os.environ.get('ANTHROPIC_API_KEY') or os.environ.get('KIMI_API_KEY')
     if api_key:
         return 'https://coding-intl.dashscope.aliyuncs.com/v1', api_key, 'kimi-k2.5'
 
@@ -42,7 +42,7 @@ def get_kimi_creds():
             return base_url, api_key, 'kimi-k2.5'
 
     raise ValueError(
-        "Set ANTHROPIC_API_KEY or KIMI_API_KEY environment variable, "
+        "Set DASHSCOPE_API_KEY or KIMI_API_KEY environment variable, "
         "or configure OpenClaw Alibaba Coding plan"
     )
 

@@ -1,0 +1,127 @@
+{
+  "slug": "tampa",
+  "name": "Tampa, Florida",
+  "city": "Tampa",
+  "country": "United States",
+  "iata": "TPA",
+  "region": "Caribbean",
+  "metaTitle": "Tampa, Florida Cruise Port Guide 2026 — Terminals, Transport & Tips",
+  "metaDescription": "Complete guide to Tampa, Florida cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+  "heroSubtitle": "Everything you need to know before your cruise from Tampa, Florida",
+  "overview": "Tampa, Florida has emerged as one of the fastest-growing cruise departure ports on the U.S. East Coast, processing over 1 million passengers annually through its modern Channelside cruise terminal complex. The port serves as home base for major cruise lines including Carnival, Norwegian, Celebrity, Holland America, MSC, and Royal Caribbean, offering a mix of Western Caribbean itineraries visiting destinations like Cozumel, Grand Cayman, Nassau, and Roatan. What sets Tampa apart from other Florida ports is its excellent location directly on Tampa Bay with spectacular waterfront views, proximity to downtown attractions, and significantly less congestion than Miami or Port Canaveral. The recently renovated cruise terminal at Channelside Bay Plaza offers a spacious, air-conditioned facility with modern amenities, making the pre-cruise experience smooth and enjoyable. Tampa's cruise port benefits from its position near world-class attractions including the Florida Aquarium, ZooTampa, and the historic Ybor City district, allowing passengers to extend their vacation before or after sailing.",
+  "terminals": [
+    {
+      "name": "Tampa Bay Cruise Terminal at Channelside Bay Plaza",
+      "description": "The primary cruise facility located at 651 Channelside Drive, this modern terminal underwent major renovations completed in 2022. Features include spacious check-in halls, climate-controlled waiting areas, security screening, and direct waterfront access. The terminal is within the Channelside entertainment complex offering restaurants and shops within walking distance. Passengers arriving early can explore the plaza while waiting for boarding time.",
+      "cruiseLines": [
+        "Carnival Cruise Line",
+        "Norwegian Cruise Line",
+        "Celebrity Cruises",
+        "Holland America Line",
+        "MSC Cruises",
+        "Royal Caribbean"
+      ],
+      "facilities": [
+        "24-hour security",
+        "information desk",
+        "accessible restrooms",
+        "cruise line lounges",
+        "baggage holding area",
+        "ATM",
+        "gift shop",
+        "Port of Tampa游客center",
+        "mobile charging stations",
+        "waterfront promenade"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "fromAirport": "Tampa International Airport (TPA) is located approximately 8 km west of the cruise terminal. The most convenient option is rideshare (Uber/Lyft) costing around $20-25 USD (€18-23) and taking 15-25 minutes depending on traffic. SuperShuttle shared vans run approximately $15 USD (€14) per person but require advance booking. Taxis are readily available at the airport taxi stand for approximately $30-35 USD (€28-32). HART Bus Route 30 connects the airport to downtown Tampa for $2.00 USD (€1.85), though it requires a transfer and takes 45-60 minutes.",
+    "fromCityCenter": "The cruise terminal is remarkably close to downtown Tampa, just 1.2 km away. Walking takes approximately 15 minutes along the scenic Tampa Riverwalk. Taxis and rideshares from downtown cost $10-15 USD (€9-14) and take 5 minutes. The TECO Line Streetcar has a stop at the Tampa Convention Center, a 5-minute walk from the terminal. If staying at downtown hotels like the Tampa Marriott Waterside or Hyatt Regency, many offer complimentary shuttle service to the port.",
+    "parking": "Port Tampa Bay operates two parking facilities: the Sparkman Street Garage adjacent to the terminal ($18 USD/€17 per day for cruise passengers with advance online booking, $22 USD/€20 at the gate) and the Lot 3 surface lot on Delaware Street ($15 USD/€14 per day with advance booking). Both include 24-hour security and shuttle service to the terminal. For extended cruises, booking online in advance saves approximately 20% versus walk-up rates. The Marriott Waterside hotel offers package deals including parking for guests staying pre-cruise.",
+    "shuttles": "Most major cruise lines do not operate dedicated airport-to-port shuttles from Tampa. However, most downtown hotels within 3 km of the terminal offer complimentary port shuttle service as part of their cruise packages. The Port of Tampa website lists partner hotels offering shuttle transfers. Third-party services like Cruise Parking.com offer combined parking and shuttle packages. For airport transfers, independent shuttles like SuperShuttle can be pre-booked to coordinate with cruise departure times."
+  },
+  "embarkationTips": [
+    "Arrive at the terminal exactly at your assigned check-in time rather than earlier—unlike older ports, Tampa's terminal has limited standing room outside, and arriving too early means waiting in the Florida heat or rain with no shade.",
+    "Download your cruise line's app before arriving and complete mobile check-in at home. Tampa's terminal has excellent WiFi, but during peak boarding waves, cellular networks become congested making app access difficult.",
+    "If driving yourself, use the Lot 3 surface lot instead of the Sparkman Garage—it's a 3-minute longer walk but typically $3-4 USD cheaper per day and has fewer security lines during vehicle exit.",
+    "The Channelside Bay Plaza adjacent to the terminal has multiple restaurants including American Social, Hose & Stella, and The Pearl that allow early arrival for lunch before boarding. You can store your luggage at the terminal starting at noon while you eat.",
+    "Avoid boarding on Saturdays in December through March when Tampa hosts major sporting events at Amalie Arena—hotel availability drops dramatically and traffic backs up significantly on I-275."
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "Florida Aquarium",
+      "description": "One of Florida's top-rated aquariums featuring over 2,500 species including sharks, sea turtles, and living coral reefs. The BioDuck exhibit simulates a harbor cruise experience. Perfect for families or anyone wanting air-conditioned entertainment before boarding.",
+      "walkingTime": "8 minutes from port",
+      "cost": "Adults $35 USD (€32), Children $28 USD (€26)"
+    },
+    {
+      "name": "Tampa Riverwalk",
+      "description": "A 2.6 km waterfront promenade connecting downtown attractions including the Tampa Museum of Art, Glazer Children's Museum, and the Convention Center. The scenic walk offers beautiful bay views and public art installations.",
+      "walkingTime": "0-10 minutes depending on destination",
+      "cost": "Free"
+    },
+    {
+      "name": "Ybor City Historic District",
+      "description": "Florida's only National Historic Landmark District, this 19th-century cigar-manufacturing neighborhood features cobblestone streets, brick warehouses, and the famous Columbia Restaurant (Florida's oldest restaurant). Located 3 km from the port, accessible via TECO streetcar.",
+      "walkingTime": "8 minutes to streetcar stop, 10-minute ride",
+      "cost": "Streetcar $2.50 USD (€2.30)"
+    },
+    {
+      "name": "Tampa Bay History Center",
+      "description": "Interactive museum covering 12,000 years of Florida history through artifacts, dioramas, and multimedia exhibits. Located on the Riverwalk between the cruise terminal and downtown.",
+      "walkingTime": "5 minutes from port",
+      "cost": "Adults $17 USD (€16), Children $13 USD (€12)"
+    },
+    {
+      "name": "Sparkman Channel Harbour Tour",
+      "description": "If you have time before boarding, this 90-minute narrated boat tour departs from the Tampa Bay Cruise Terminal dock and circumnavigates Harbour Island, offering views of downtown Tampa, Davis Islands, and Port Tampa Bay's cargo operations.",
+      "walkingTime": "Departures from terminal",
+      "cost": "Adults $32 USD (€29), Children $20 USD (€18)"
+    }
+  ],
+  "localTransport": {
+    "metro": "Tampa does not have a metro system. The closest equivalent is the TECO Line Streetcar System, a heritage streetcar line connecting downtown Tampa to Ybor City. The nearest stop to the cruise terminal is at the Tampa Convention Center on Channelside Drive, a 5-minute walk. Streetcar rides cost $2.50 USD (€2.30).",
+    "bus": "HART (Hillsborough Area Regional Transit) operates bus routes throughout Tampa. Route 6 runs along Kennedy Boulevard with connections to downtown. Route 300 connects to the机场. The main HART station is at Twitt and Franklin Streets in downtown, accessible by a 10-minute walk from the cruise terminal. A day pass costs $5.00 USD (€4.60).",
+    "taxi": "Taxis are readily available at the cruise terminal. Standard metered taxis start at $3.50 USD (€3.20) plus $2.60 USD (€2.40) per mile. A typical trip to downtown costs $12-18 USD (€11-16). Rideshare services (Uber and Lyft) are heavily used in Tampa and typically cost 20-30% less than taxis, with downtown pickups from the terminal averaging $10-15 USD (€9-14).",
+    "walkability": "The cruise terminal is highly walkable to downtown Tampa. The distance to the Tampa Convention Center and most downtown hotels is approximately 1 km, a 15-minute walk along the scenic Tampa Riverwalk. The Channelside Bay Plaza shopping complex is directly adjacent to the terminal. For comparison, Tampa International Airport is too far to walk."
+  },
+  "weather": {
+    "bestMonths": "November through April offers the most comfortable cruising weather from Tampa, with daytime temperatures of 20-28°C (68-82°F) and low humidity. February and March are particularly popular due to躲开winter storms elsewhere and spring break timing.",
+    "peakSeason": "Peak cruise season runs December through March, coinciding with northern winter and spring break periods. December holidays (Christmas and New Year's) see the highest volumes with 3-4 ships in port simultaneously. Spring Break (mid-March to mid-April) attracts families, creating high demand. Prices for cruises and hotels increase 30-50% during these periods.",
+    "climate": "Tampa has a humid subtropical climate. For winter cruises (November-February), pack light layers, a jacket for evenings, and comfortable walking shoes. Summer cruises (May-October) bring heat of 30-35°C (86-95°F) with afternoon thunderstorms—pack breathable clothing, sunscreen, and rain gear. Hurricane season officially runs June-November, though Tampa's location typically buffers direct hits. All cruises include complimentary 24-hour weather monitoring."
+  },
+  "cruiseLinesFromHere": [
+    "Carnival Cruise Line",
+    "Norwegian Cruise Line",
+    "Celebrity Cruises",
+    "Holland America Line",
+    "MSC Cruises",
+    "Royal Caribbean"
+  ],
+  "isDeparture": true,
+  "isCallPort": true,
+  "insiderTips": [
+    "Tampa's cruise terminal is the only Florida port where you can watch Tampa Bay Lightning NHL games from the terminal while waiting for your cruise. The Amalie Arena is just 1.5 km away, and games during the October-April season often coincide with cruise departure days. Check the schedule and book a same-day departure for an unforgettable port day.",
+    "The Port of Tampa offers a 'Park, Stay, and Cruise' package at the Marriott Waterside Hotel for approximately $250-350 USD (€230-320) per night including valet parking, which can actually work out cheaper than independent hotel plus parking if staying the night before, especially during peak season when parking alone costs $20+ daily.",
+    "For pre-cruise dinner, skip the tourist spots on Channelside and head to Ulele across the river. This riverside restaurant in the historic Ulele Spring building serves excellent Florida cuisine including locally-caught fish and craft beer brewed on-site. It's a 12-minute Water Taxi ride from the cruise terminal and takes reservations up to 30 days out."
+  ],
+  "faq": [
+    {
+      "question": "How far is Tampa cruise port from Tampa International Airport?",
+      "answer": "Tampa International Airport (TPA) is approximately 8 km (5 miles) from the cruise terminal at Channelside Bay Plaza. By rideshare or taxi, the journey takes 15-25 minutes depending on traffic conditions. Rideshare services like Uber or Lyft cost approximately $20-25 USD (€18-23), while taxis run around $30-35 USD (€28-32). The airport has no direct shuttle service to the cruise terminal, though downtown hotels often provide complimentary transfers."
+    },
+    {
+      "question": "Is there parking available at Tampa cruise port, and how much does it cost?",
+      "answer": "Yes, Port Tampa Bay operates official parking at the Sparkman Street Garage adjacent to the terminal ($18 USD/€17 per day with advance online booking) and the Lot 3 surface lot on Delaware Street ($15 USD/€14 per day). Both facilities include complimentary shuttle service to the terminal. Booking online at least 7 days in advance provides a 20% discount. The Marriott Tampa Waterside hotel also offers cruise parking packages for guests staying pre-cruise."
+    },
+    {
+      "question": "Can you walk from Tampa cruise terminal to downtown attractions?",
+      "answer": "Absolutely—the cruise terminal at Channelside Bay Plaza is exceptionally walkable. The Tampa Riverwalk, a scenic 2.6 km waterfront promenade, connects directly from the terminal to downtown Tampa in approximately 15 minutes. The Florida Aquarium, Tampa Bay History Center, and Tampa Convention Center are all within a 10-minute walk. For reaching Ybor City, the TECO Line Streetcar departs from the Convention Center area, offering a 10-minute ride to the historic district."
+    },
+    {
+      "question": "What's the difference between the Port of Tampa and Port of St. Petersburg?",
+      "answer": "The Port of Tampa (located at Channelside Bay Plaza in Tampa) is the primary passenger cruise facility in the Tampa Bay area and handles over 1 million cruise passengers annually for multiple cruise lines. Port St. Petersburg, operated by the St. Petersburg Port Authority, has limited cruise operations and primarily serves as a cargo port. There is no regularly scheduled cruise service from St. Petersburg. Passengers should ensure their cruise confirmation specifies 'Port of Tampa' at Channelside Drive, as the cities are 40 km apart."
+    }
+  ]
+}

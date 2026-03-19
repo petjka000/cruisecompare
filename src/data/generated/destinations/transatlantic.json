@@ -1,0 +1,161 @@
+{
+  "slug": "transatlantic",
+  "name": "Transatlantic",
+  "region": "International",
+  "metaTitle": "Transatlantic Cruises Guide 2026 — Best Routes, Ports & Tips",
+  "metaDescription": "Complete guide to cruising the Transatlantic. Best time to visit, top ports, what to expect, and how to plan your Transatlantic cruise.",
+  "heroSubtitle": "Your complete Transatlantic cruise planning guide",
+  "overview": "A Transatlantic cruise is the definitive ocean-crossing experience — a journey that harks back to the golden age of travel while offering modern luxury at sea. These voyages traverse the vast Atlantic Ocean, connecting Europe and North America through a series of strategically placed ports and several glorious days at sea. Unlike destination-intensive itineraries, Transatlantic cruises are about the journey itself: watching the ship's wake stretch across endless blue water, indulging in shipboard amenities without the interruption of daily port calls, and experiencing that unmistakable thrill of arriving into New York Harbor with the Statue of Liberty emerging from the morning mist. Culture-conscious cruisers will appreciate the blend of British refinement (especially on Cunard's flagship vessels), American energy, and the maritime heritage of Atlantic Canada ports like Halifax and Sydney. Whether you choose the classic westbound crossing from Southampton to New York or the reverse journey, expect 5-7 sea days that feel like a genuine vacation within your vacation.",
+  "subRegions": [
+    "North Atlantic",
+    "South Atlantic"
+  ],
+  "bestTimeToVisit": {
+    "peak": "May to June (westbound), September to October (eastbound)",
+    "shoulder": "April, late October",
+    "avoid": "January through February",
+    "tip": "Westbound crossings are most popular departing Europe in spring (April-June), capturing warming Atlantic temperatures and calmer seas. Eastbound crossings in September-October benefit from post-summer warmth in the US before Atlantic weather systems become more volatile. Avoid January-February entirely — these months bring the North Atlantic's roughest conditions, with significant swell and potential itinerary disruptions."
+  },
+  "topPorts": [
+    {
+      "name": "New York City (Brooklyn Cruise Terminal)",
+      "highlight": "Iconic arrival into Manhattan",
+      "description": "The ultimate arrival: sailing into New York Harbor at dawn, watching the Manhattan skyline unfold as the Statue of Liberty passes by port side. Manhattan Cruise Terminal in Red Hook offers easy subway access to Manhattan. Plan a full day before or after your cruise to explore — Central Park, the Met, Broadway shows, and the High Line are all accessible. New York's food scene alone justifies extending your trip by 2-3 days."
+    },
+    {
+      "name": "Southampton, England",
+      "highlight": "Historic departure port",
+      "description": "The traditional departure point for eastbound Transatlantic voyages and home to Cunard's headquarters. The White Star Line's Oceanic departed from here in 1840, establishing Southampton as the gateway to America. Spend time exploring the Maritime Museum, stroll through the old town walls, and take the ferry to the Isle of Wight if your timing allows. London is just 90 minutes by train for pre-cruise exploration."
+    },
+    {
+      "name": "Boston, Massachusetts",
+      "highlight": "Colonial heritage and academic excellence",
+      "description": "A frequent port on repositioning cruises and one of America's most walkable cities. Follow the Freedom Trail from Boston Common through 16 historic sites, ending at the USS Constitution. The North End offers exceptional Italian cuisine — head to Mike's Pastry for cannoli. Harvard Square in Cambridge is a short subway ride away for those wanting to tour America's oldest university."
+    },
+    {
+      "name": "Halifax, Nova Scotia",
+      "highlight": "Gateway to Atlantic Canada",
+      "description": "This maritime city's Celtic heritage and seafaring history make it a fascinating stop. The Halifax Explosion site and fairytale Peggy's Cove lighthouse are essential visits. The city's craft beer scene is underrated — try Local Source Brewing or Garrison Brewing. Maritime hospitality shines here, and the local seafood chowder rivals anything in New England."
+    }
+  ],
+  "popularItineraries": [
+    {
+      "name": "7-Night Southampton to New York",
+      "from": "Southampton, UK",
+      "ports": [
+        "At Sea",
+        "At Sea",
+        "At Sea",
+        "At Sea",
+        "At Sea",
+        "At Sea",
+        "New York City"
+      ],
+      "priceFrom": 899
+    },
+    {
+      "name": "14-Night Grand Transatlantic",
+      "from": "Cape Liberty, New Jersey",
+      "ports": [
+        "Newport, Rhode Island",
+        "Boston, Massachusetts",
+        "Portland, Maine",
+        "Halifax, Nova Scotia",
+        "At Sea",
+        "At Sea",
+        "Cobh (Cork), Ireland",
+        "Waterford, Ireland",
+        "Dublin, Ireland",
+        "Liverpool, UK",
+        "At Sea",
+        "At Sea",
+        "At Sea",
+        "Southampton, UK"
+      ],
+      "priceFrom": 1899
+    },
+    {
+      "name": "10-Night Azores & Bermuda Crossing",
+      "from": "Port Canaveral, Florida",
+      "ports": [
+        "Nassau, Bahamas",
+        "At Sea",
+        "At Sea",
+        "Ponta Delgada, Azores",
+        "At Sea",
+        "At Sea",
+        "Bermuda",
+        "At Sea",
+        "At Sea",
+        "Newark, New Jersey"
+      ],
+      "priceFrom": 1249
+    },
+    {
+      "name": "11-Night Cape Verde & Caribbean Connector",
+      "from": "Barcelona, Spain",
+      "ports": [
+        "Cartagena, Spain",
+        "Málaga, Spain",
+        "At Sea",
+        "Funchal, Madeira",
+        "At Sea",
+        "At Sea",
+        "Mindelo, Cape Verde",
+        "At Sea",
+        "At Sea",
+        "Bridgetown, Barbados"
+      ],
+      "priceFrom": 1099
+    }
+  ],
+  "cruiseLinesOperating": [
+    "Cunard",
+    "Royal Caribbean",
+    "Celebrity",
+    "MSC Cruises",
+    "Virgin Voyages",
+    "Norwegian Cruise Line",
+    "Holland America Line",
+    "Princess Cruises"
+  ],
+  "whatToExpect": {
+    "weather": "Atlantic conditions vary dramatically by season and direction. Spring crossings (April-June) offer warming temperatures: expect 12-18°C in the North Atlantic, with 5-7 sea days feeling fresh but pleasant. Pack layers — you will use them all. Summer crossings see calmer seas and temperatures reaching 22-26°C. Autumn eastbound crossings can encounter Atlantic lows; bring rain jackets and be prepared for choppy days. Regardless of season, the Atlantic is never completely flat — expect 2-4 days of noticeable swell on any crossing.",
+    "food": "Transatlantic cuisine reflects the cruise line's character more than regional specialities. That said, Atlantic Canada ports deliver exceptional seafood — Halifax lobster rolls, Nova Scotian scallops, andipe's Cove fish chowder are essential. New England's clam chowder and oyster bars await in Boston. In the UK, traditional pub fare (fish and chips, bangers and mash) anchors Southampton and Liverpool visits. New York offers every cuisine imaginable, but a classic pastrami on rye from Katz's Delicatessen is practically mandatory.",
+    "culture": "Transatlantic culture skews toward the refined — particularly on Cunard, where formal nights feel genuinely formal. Dress codes range from elegant casual to black-tie optional depending on the line. European ports expect smart casual attire for church visits and fine dining. Americans are generally casual; New York and Boston accept sneakers in most contexts. Language is rarely a barrier — English dominates on westbound routes, and your cruise ship's excursions will always provide English guides.",
+    "currency": "Currency varies by route segment. Westbound from Europe: GBP in the UK, EUR in European stops. Eastbound from the US: USD dominates. Always carry a small amount of local currency for port tips and small vendors. Credit cards work almost universally in North America and major European ports. ATMs are readily available in every significant port. European countries increasingly accept contactless payment, but carry a Visa or Mastercard as backup.",
+    "language": "English is the primary language across standard Transatlantic routes — UK ports, North American ports, and cruise ships themselves all operate in English. French is useful in Canadian ports like Halifax (Nova Scotia is officially bilingual). Portuguese speakers will appreciate the Azores and Cape Verde stops. Basic French phrases enhance European port experiences even in tourist areas. Crucially, cruise ship staff represent 50+ nationalities; English works everywhere aboard."
+  },
+  "insiderTips": [
+    "Book a cabin on decks 5-8, midship — these offer the most stable ride during Atlantic swells. Avoid forward-facing cabins unless you specifically want the ocean view, as pitching motion is most pronounced at the ship's bow. Balconies are genuinely enjoyable on sea days when weather cooperates, but an interior or oceanview cabin at a lower deck level provides significantly better stability.",
+    "Ship repositioning cruises (which include most Transatlantic routes) offer the highest per-night value of any cruise type. Prices often drop 30-40% compared to destination-intensive itineraries, yet you get identical ship, service, and dining. Book 6-8 months ahead for the best cabin selection, or watch for flash sales 60-90 days before departure when lines need to fill remaining inventory.",
+    "The sea days are the secret highlight. Bring a filled Kindle or paperback stack, sign up for enrichment programs (Cunard offers maritime history lectures, wine tastings, and golf clinics at sea), and truly disconnect — Atlantic crossings are the last major travel experience where mobile phone service is essentially non-existent. Use this time deliberately: spa treatments are cheaper on sea days, specialty restaurants offer better availability, and deck space is plentiful for walking the mile-long Promenade Deck."
+  ],
+  "packingList": [
+    "Motion sickness medication (meclizine or ginger tablets) — even experienced cruisers encounter Atlantic swell, and the ship's pharmacy charges premium prices. Take medication 30 minutes before departure and as directed.",
+    "Layers for all weather eventualities — a quality fleece, windbreaker, and light rain jacket serve better than a single heavy coat. Temperatures fluctuate daily on the Atlantic, and you'll need different gear for sunny deck time versus evening outdoor dining.",
+    "Smart casual attire for most evenings — collared shirts for men, nice blouses or dresses for women. Cunard expects jacket-and-tie for formal nights (at least two per crossing), while Royal Caribbean and Virgin Voyages have relaxed to elegant casual. Check your specific line's dress code before packing.",
+    "Compression packing cubes — Transatlantic itineraries often include 5-7 sea days, so you'll unpack once and live out of your suitcase. Packing cubes keep clothing organized and maximize luggage space efficiently.",
+    "Portable battery pack (20,000mAh+) — you'll spend hours on deck watching the horizon, far from outlets. A good battery pack ensures your phone, Kindle, and camera stay charged for photography and entertainment.",
+    "Waterproof day bag for port excursions — a small backpack that repels rain and fits under airline seats. You'll use it for shore excursions, carrying water, sunscreen, and purchases from local markets.",
+    "Comfortable walking shoes essential — Atlantic Canada ports feature uneven cobblestones in historic districts (especially Halifax's waterfront and Boston's North End). New England's sea air makes waterproof footwear wise."
+  ],
+  "faq": [
+    {
+      "question": "What is the best time of year to cruise the Transatlantic?",
+      "answer": "May through mid-June offers optimal conditions for westbound crossings — Atlantic temperatures are warming, storm systems are infrequent, and sea conditions are generally calm. September works well for eastbound routes, with pleasant US departure weather and reasonable Atlantic conditions before winter storm season. The absolute worst window is January-February, when the North Atlantic sees its most violent weather, with 10-meter swells and itinerary-disrupting storms being common. Spring break period (mid-March through April) sees higher prices but still acceptable conditions."
+    },
+    {
+      "question": "Do I need a visa for Transatlantic cruises?",
+      "answer": "Visa requirements depend entirely on your citizenship and the specific ports visited. US and Canadian citizens need only a valid passport (with 6 months validity beyond travel) for UK and European ports — no visas required for tourism visits under 90 days. ESTA authorization is required for US entry (even for transit), available online for €21. UK citizens need an ESTA-equivalent (ESTA for visa-waiver program). Non-EU/UK/US citizens should verify requirements for each port country: Schengen Area rules apply for European stops, while US entry procedures depend on your specific visa status. Always carry your embarkation/disembarkation cards and maintain proof of onward travel."
+    },
+    {
+      "question": "How many days do I need for a Transatlantic cruise?",
+      "answer": "Standard Transatlantic repositioning cruises range from 7 nights (direct Southampton to New York, all sea days) to 14+ nights (grand voyages with multiple ports). Seven nights suffices for the pure ocean-crossing experience and works well if you're primarily interested in sea days and ship amenities. Ten to twelve nights allows meaningful port stops — typically Halifax, Boston, or Bermuda on one end, and Azores, Canary Islands, or Irish ports on the other. Add 2-3 pre-cruise days in your departure city and 2-3 post-cruise days in New York or Southampton to justify the transatlantic flight investment."
+    },
+    {
+      "question": "What should I budget for excursions in Transatlantic ports?",
+      "answer": "Excursion prices vary significantly by port and activity type. Standard sightseeing tours range from €45-85 per person (New York harbor cruise, Boston Freedom Trail walking tour). Premium experiences — private car with driver, helicopter tours over Manhattan, or lobster boat excursions in Maine — run €150-350. Atlantic Canada ports offer excellent value: Halifax tours typically €35-65, including Maritime Museum and Peggy's Cove. Cunard's exclusive experiences (Royal Academy of Arts in London, private concerts) can exceed €200. Budget €200-400 total for 2-3 curated shore excursions, or plan self-guided port exploration using public transit and free attractions (most museums have free admission days). Cruise line Borghese or Art in Southampton, the 9/11 Memorial in New York, and Boston Common are all free."
+    }
+  ]
+}

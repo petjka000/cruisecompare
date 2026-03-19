@@ -1,0 +1,175 @@
+{
+  "slug": "marseille",
+  "name": "Marseille",
+  "city": "Marseille",
+  "country": "France",
+  "iata": "MRS",
+  "region": "Mediterranean",
+  "metaTitle": "Marseille Cruise Port Guide 2026 — Terminals, Transport & Tips",
+  "metaDescription": "Complete guide to Marseille cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+  "heroSubtitle": "Everything you need to know before your cruise from Marseille",
+  "overview": "Marseille is the Mediterranean's second-largest cruise port after Barcelona, welcoming over 2 million passengers annually through its modern J4 Cruise Terminal complex. Located in the heart of the Provence-Alpes-Côte d'Azur region, this ancient port city has been a maritime gateway since Greek settlers founded it around 600 BC. For cruise passengers, Marseille offers a unique blend of Mediterranean charm, world-class attractions like the MuCEM and Notre-Dame de la Garde, and easy access to the stunning Calanques National Park. The port's €750 million modernization has created a seamless cruise experience with excellent facilities, making it a popular departure point for Western Mediterranean itineraries and a convenient turnaround port for French and international cruise lines.",
+  "terminals": [
+    {
+      "name": "Marseille J4 Cruise Terminal",
+      "description": "The flagship terminal complex opened in 2013, featuring three modern passenger berths (J4, J5, J6) capable of handling the world's largest cruise ships simultaneously. The terminal offers spacious check-in halls, air-conditioned lounges, and direct pedestrian access to the city center and the esplanade overlooking the Vieux-Port. Most major cruise lines operate from these facilities, with dedicated gangway access and efficient customs/immigration processing.",
+      "cruiseLines": [
+        "MSC Crociere",
+        "Costa Cruises",
+        "Royal Caribbean",
+        "Norwegian Cruise Line",
+        "Celebrity Cruises",
+        "AIDA Cruises",
+        "P&O Cruises",
+        "TUI Cruises",
+        "Ponant",
+        "Viking Ocean Cruises"
+      ],
+      "facilities": [
+        "24-hour security",
+        "free WiFi",
+        "luggage storage (€5-8/day)",
+        "tourist information office",
+        "currency exchange",
+        "ATMs",
+        "café and vending machines",
+        "toilets and baby changing facilities",
+        "accessibility services",
+        "cruise line desks",
+        "waiting area with seating"
+      ]
+    },
+    {
+      "name": "Terminal Maritime Passage (Historic Port)",
+      "description": "A smaller facility in the historic Vieux-Port area, primarily used for turnaround operations by boutique cruise lines and some Mediterranean day-cruise operators. While less modern than J4, it offers an unbeatable location in the heart of the city, within walking distance of restaurants, shops, and the Panier neighborhood.",
+      "cruiseLines": [
+        "Windstar Cruises",
+        "Azamara",
+        "Hurtigruten Expeditions",
+        "Star Clippers"
+      ],
+      "facilities": [
+        "basic passenger services",
+        "toilets",
+        "nearby restaurants and shops",
+        "metro access via Vieux-Port station"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "fromAirport": "Marseille Provence Airport (MRS) lies 27km northwest of the cruise port. The most convenient option is a pre-booked taxi or private transfer (€55-70, 35-50 minutes depending on traffic). The shuttle bus + metro combo costs around €10: take bus 91 to Marseille Saint-Charles station (€10.70, every 30 minutes), then metro line 2 directly to Joliette station (€1.90), a 10-minute walk to the terminal. Shared shuttles are available through cruise port services but must be booked in advance. Avoid airport rental car returns near the port as traffic can add significant time.",
+    "fromCityCenter": "The J4 terminal is 1.8km from the Vieux-Port (Old Port), a flat 20-25 minute walk along the waterfront promenade. Metro line 2 from Vieux-Port station to Joliette takes 5 minutes (€1.90), then follow signs through the Les Terrasses du Port shopping center to the cruise terminal. Taxis from anywhere in the city center cost €12-18 and take 10-15 minutes. For arrival days, cruise lines typically provide transfer coaches from designated meeting points near the Major Cathedral.",
+    "parking": "The Port Autonome de Marseille operates secure long-stay parking at the J4 zone, with approximately 600 covered spaces reserved for cruise passengers. Book online in advance for rates of €18-25 per day depending on proximity to the terminal. The parking garage offers luggage trolleys and is elevator-accessible to the terminal. Alternative public parking at Les Docks (€15/day with shuttle) and Q-Park Vieux-Port (€22/day, 1.5km walk) offer cheaper rates but require pre-booking during peak season. Independent operators near the port offer uncovered parking from €10/day but quality varies significantly.",
+    "shuttles": "Most cruise lines provide complimentary transfer shuttles from Marseille Saint-Charles TGV train station and select city-center hotels for passengers on turnaround sailings. MSC Cruises operates dedicated coaches from Marseille airport for fly-cruise packages. The Marseille City Pass includes port shuttle access and is valid on public transport for 24-72 hours. Port authority shuttle buses (Line 35) run between J4 terminal and Joliette metro station every 15 minutes from 6am-8pm for €1.90. Private shuttle services can be arranged through cruise line partners or local operators like Shuttle-Marseille.com (from €15/person)."
+  },
+  "embarkationTips": [
+    "Book a pre-cruise hotel night in Marseille's Old Port rather than arriving same-day — the city is worth experiencing and eliminates early morning stress. Hotels near the Major Cathedral offer easy port access on foot or by tram.",
+    "The J4 terminal has minimal shade and can reach 35°C+ in summer — bring sunscreen, a hat, and water when boarding during July-August. Priority boarding times are generally quieter after 2pm when morning departures have cleared.",
+    "Download offline maps of Marseille before arriving — mobile data coverage in the terminal and port area can be unreliable during peak arrival/departure waves when thousands of passengers connect simultaneously.",
+    "For European citizens, use the automated passport gates if available rather than manual border control counters — they're faster and located in the main terminal hall near exit doors 4-5.",
+    "Traffic approaching the port from the east (A50 motorway) regularly queues during 7-9am on departure days. Allow extra time if arriving by taxi or shuttle during this window. Coming from the city center is usually faster than the motorway approach."
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "Vieux-Port (Old Port)",
+      "description": "The iconic harbor that has served Marseille since Greek times. Morning fish markets give way to waterfront restaurants and boat trips. The Quai de la Fraternité and Quai du Port promenade offer prime people-watching, and ferry boats depart for Château d'If and the Calanques.",
+      "walkingTime": "20-25 minutes from J4 terminal",
+      "cost": "Free to visit; ferry to Château d'If €8.50"
+    },
+    {
+      "name": "MuCEM - Musée des Civilisations de l'Europe et de la Méditerranée",
+      "description": "France's newest national museum, opened in 2013, showcases Mediterranean cultures across 3,000 years. The striking Fort Saint-Jean and modern J4 building are connected by a 130-meter aerial walkway. Excellent air-conditioned galleries and a rooftop terrace café with port views.",
+      "walkingTime": "5 minutes from J4 terminal",
+      "cost": "€15 full price; under 26 free EU citizens; combined with Fort Saint-Jean €18"
+    },
+    {
+      "name": "Basilique Notre-Dame de la Garde",
+      "description": "The 'Bonne Mère' watches over Marseille from its 150-meter hilltop perch. The neo-Byzantine church is covered in marble, gold leaf, and ex-votos from sailors. The 360-degree panorama encompasses the port, islands, and Calanques. Best visited at sunset.",
+      "walkingTime": "35 minutes or bus 221/21 from Joliette (10 minutes)",
+      "cost": "Free to visit; petit train from Vieux-Port €10"
+    },
+    {
+      "name": "Le Panier District",
+      "description": "Marseille's oldest neighborhood features winding lanes, colorful murals byartist projects, artisan workshops, and authentic Provençal restaurants. The area has been transformed since the 1940s demolition, with new cafés and galleries in restored 17th-century buildings.",
+      "walkingTime": "15 minutes from J4 via the port walkway",
+      "cost": "Free to explore; guided walking tours €15-20"
+    },
+    {
+      "name": "Château d'If",
+      "description": "The island fortress where Alexandre Dumas imprisoned Edmond Dantès in The Count of Monte Cristo. The 30-minute ferry ride offers beautiful sea views and a climb to the fort's ramparts. One of Marseille's most visited sites with excellent snorkeling in the sheltered cove.",
+      "walkingTime": "25 minutes to ferry terminal at Vieux-Port",
+      "cost": "Ferry €8.50 return; under 18 free; fort €5.50"
+    },
+    {
+      "name": "Marché de Noailles",
+      "description": "The city's most vibrant street market, south of the Old Port, sells North African spices, fresh produce, olives, and local specialities. The surrounding area is Marseille's most multicultural quarter with Lebanese, Comorian, and Senegalese shops and eateries.",
+      "walkingTime": "15 minutes from Vieux-Port",
+      "cost": "Free to browse; market goods €2-15"
+    },
+    {
+      "name": "Calanques National Park",
+      "description": "Europe's only urban national park features dramatic white limestone cliffs plunging into turquoise Mediterranean coves. Dayuse beach shuttle boats depart from the Vieux-Port (€20 roundtrip) to swimming spots like Sugiton and En-Vau. Hiking trails reward fit visitors with spectacular scenery.",
+      "walkingTime": "Ferry from Vieux-Port (25 minutes to Cassis)",
+      "cost": "Boat shuttle €18-22; parking €8/day in Callelongue"
+    }
+  ],
+  "localTransport": {
+    "metro": "Marseille's two-line metro system is efficient and affordable. Line 2 runs east-west through the city center with stops at Joliette (6 minutes from Vieux-Port, connections to J4 terminal) and Bougainville (closest to the historic port terminal). Tickets cost €1.90 for a single journey or €5.60 for a booklet of 10. The RTM app provides real-time departure information. Metro operates from 5am to 1am daily. The new tunnel under the port area has improved access, but expect stairs at older stations.",
+    "bus": "Over 100 bus routes serve the Marseille area. Bus 35 provides the port shuttle between Joliette metro and J4 cruise terminal (every 15 minutes, €1.90). Bus 82 loops through the Old Port area with stops near the Major Cathedral and Panier district. For Notre-Dame de la Garde, take buses 21 or 221 from the port area (15-20 minutes). The city center is compact enough to walk most destinations, but buses extend reach to farther attractions like the Stade Vélodrome area and the beaches of Prado.",
+    "taxi": "Taxis are readily available at designated ranks in the Old Port (Place aux Huiles), outside the J4 terminal (follow signs to 'Taxis' exit), and at major intersections. Uber and Bolt operate in Marseille but are often similar price or slightly cheaper than traditional taxis. Typical fares from J4: Vieux-Port €12-15, Saint-Charles station €15-18, airport €50-65. Marseille taxis can be slow during peak hours and don't always use meters for port journeys — confirm the fare before departure. There's a €2.10 supplement for departures from train stations and airports.",
+    "walkability": "Marseille's port area is highly walkable with a flat, well-lit waterfront promenade connecting J4 to the Old Port in 20-25 minutes. The walk passes the MuCEM and Major Cathedral along a dedicated pedestrian and cycling path. Within the city center, most attractions are within 15-30 minutes on foot from the port. The Panier neighborhood and Vieux-Port are immediately accessible, while reaching Notre-Dame de la Garde requires either a steep 30-minute climb or a short bus ride. Walking is the best way to experience Marseille's vibrant street life, though summer heat can make longer walks challenging between noon and 4pm."
+  },
+  "weather": {
+    "bestMonths": "May-June and September-October offer ideal cruise conditions with temperatures of 20-28°C, fewer cruise ship crowds, and lower hotel rates. The city is less congested, restaurant reservations are easier to obtain, and the light is beautiful for photography. October sees fewer Calanques day-boats but offers warmer sea temperatures for swimming.",
+    "peakSeason": "July and August draw the highest cruise traffic with 30+ ships per week calling at Marseille. Mediterranean heat peaks at 30-35°C with intense sunshine and sea breeze providing minimal relief. School holiday periods (late July to early September) see families flooding ports and attractions. Air conditioning becomes essential rather than optional. Advance booking for shore excursions and popular restaurants is mandatory during these months.",
+    "climate": "Marseille enjoys a Mediterranean climate with over 300 sunny days annually. Summers are hot and dry (20-35°C), while winters are mild (5-15°C) but windy. Spring and autumn offer the most comfortable temperatures for sightseeing. Pack light summer clothes, a light jacket for evening, comfortable walking shoes (cobblestones are common), high-factor sunscreen, a hat, and refillable water bottle. Even in May, the sun is strong — sunburn can occur within 20 minutes. Sea conditions are generally calm in the Mediterranean, but the Mistral wind can cause choppy conditions on exposed decks in spring."
+  },
+  "cruiseLinesFromHere": [
+    "MSC Crociere",
+    "Costa Cruises",
+    "Royal Caribbean",
+    "Norwegian Cruise Line",
+    "Celebrity Cruises",
+    "P&O Cruises",
+    "TUI Cruises",
+    "AIDA Cruises",
+    "Viking Ocean Cruises",
+    "Azamara",
+    "Windstar Cruises",
+    "Hurtigruten Expeditions",
+    "Ponant",
+    "Star Clippers",
+    "Oceania Cruises",
+    "Cunard"
+  ],
+  "isDeparture": true,
+  "isCallPort": true,
+  "insiderTips": [
+    "Skip the expensive tourist restaurants along the Vieux-Port promenade — cross the street to Rue de la Loge and Place Thiars where local bistros serve the sameview, better food, and lower prices. Le Comptoir du Panier and Le Café des Arts are consistently excellent and don't have tipping pressure for tourists.",
+    "Buy your panisses (chickpea fritters) and navettes (aniseed biscuits) from the Rue d'Aubagne morning markets rather than airport shops — local bakeries like Moulin à Pain and Les Halles de la Major offer authentic versions at a fraction of cruise port prices. La Boulangerie du Port near the J4 walkway opens at 6:30am for early departures.",
+    "Download the free Marseille Tourism app before arriving — it includes audio guides for self-guided walks, real-time bus tracking, and discount vouchers for the MuCEM, Château d'If ferries, and partner restaurants. The app works offline for maps and audio content. Show the voucher at Les Halles de la Major food hall for 10% off local specialities.",
+    "For quick embarkation on turnaround days, avoid the main terminal building and enter through the cruise line's dedicated gangway if your luggage has been pre-registered — this bypasses the main hall congestion entirely. Checking in online 24 hours before sailing and having your boarding pass ready on your phone speeds up the security process considerably."
+  ],
+  "faq": [
+    {
+      "question": "How early should I arrive at Marseille cruise terminal for departure?",
+      "answer": "For turnaround sailings (departures), cruise lines typically recommend arriving 2-3 hours before departure. However, during peak season (July-August), allow extra time as queues at security and check-in can reach 45 minutes. Boarding usually begins 3 hours before departure. If you've completed online check-in and have your boarding pass ready, you may be processed faster through the dedicated online check-in lanes. Late arrivals risk missing the ship's departure as Marseille port authorities enforce strict departure times and gangway withdrawal can begin 30 minutes before sailing."
+    },
+    {
+      "question": "Can I walk from the cruise terminal to the Old Port?",
+      "answer": "Yes, the J4 cruise terminal is approximately 1.8km from the Vieux-Port along a flat, well-signposted waterfront promenade. The walk takes 20-25 minutes at a comfortable pace and passes the MuCEM, Fort Saint-Jean, and the magnificent Major Cathedral. The path is partially shaded and has benches for rest stops. In summer, go early morning or late afternoon to avoid the midday heat. Return walking is uphill but gradual — allow 30 minutes for the return journey."
+    },
+    {
+      "question": "Is there luggage storage at Marseille cruise port for day visitors?",
+      "answer": "The J4 terminal offers secure luggage storage operated by the port authority for €5-8 per item per day, located near the main entrance. This is particularly useful for cruise passengers with late flights after disembarkation. Les Docks shopping center adjacent to the port also has lockers (€3-6 for 4 hours). Hotel concierges often store luggage for guests even after checkout. For independent travelers, the RTM baggage storage at Saint-Charles station (€6-10/day) is an option if combining port visits with train travel."
+    },
+    {
+      "question": "What currency and payment methods are accepted at Marseille port?",
+      "answer": "France uses the Euro (€). Contactless and chip-and-PIN payments are universally accepted throughout Marseille including taxis, restaurants, and shops. Credit cards work at most terminals and ATMs are plentiful near the port. However, some smaller markets and street vendors in the Panier neighborhood prefer cash. Currency exchange at the port charges poor rates — withdraw euros from ATMs instead. American Express is less widely accepted than Visa and Mastercard. Tipping is not obligatory but rounding up bills or leaving 5-10% for good service is appreciated."
+    },
+    {
+      "question": "Are there accessible options for mobility-limited cruise passengers?",
+      "answer": "The J4 terminal is fully wheelchair accessible with lifts, ramps, and adapted toilets throughout. Mobility equipment can be pre-arranged through cruise lines. Marseille's metro stations on line 2 (Joliette, Bougainville) have lifts but older stations may present challenges. The bus network has low-floor vehicles on major routes (35, 82, 57). Tour operators specializing in accessible shore excursions can be booked through cruise line partnerships or companies like Accessible Journeys. The Panier neighborhood has steep cobblestone streets unsuitable for wheelchairs, but the MuCEM and Vieux-Port are largely accessible."
+    }
+  ]
+}

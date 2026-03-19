@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate actual content for cruisecompare.online using MiniMax M2.5
+Generate actual content for cruisecompare.online using MiniMax M2.7
 """
 
 import json
@@ -19,7 +19,7 @@ WORKSPACE = Path("/home/padmin/workspace/cruisecompare")
 DATA_DIR = WORKSPACE / "src/data/taxonomy"
 GENERATED_DIR = WORKSPACE / "src/data/generated"
 
-def call_minimax(prompt: str, temperature: float = 0.3, max_tokens: int = 4000) -> Optional[str]:
+def call_minimax(prompt: str, temperature: float = 0.3, max_tokens: int = 8000) -> Optional[str]:
     """Call MiniMax M2.5 API"""
     import urllib.request
     
@@ -29,7 +29,7 @@ def call_minimax(prompt: str, temperature: float = 0.3, max_tokens: int = 4000) 
     }
     
     data = {
-        "model": "MiniMax-M2.5",
+        "model": "MiniMax-M2.7",
         "messages": [
             {"role": "system", "content": "You are a cruise industry expert writing for cruisecompare.online. Write specific, accurate, useful content. No generic filler. All prices in EUR. Output ONLY valid JSON. No markdown fences."},
             {"role": "user", "content": prompt}
@@ -54,14 +54,21 @@ def call_minimax(prompt: str, temperature: float = 0.3, max_tokens: int = 4000) 
         return None
 
 def clean_json_response(content: str) -> str:
-    """Clean up potential markdown from response"""
-    content = content.strip()
-    if content.startswith("```json"):
-        content = content[7:]
-    if content.startswith("```"):
-        content = content[3:]
-    if content.endswith("```"):
-        content = content[:-3]
+    """Clean up potential markdown and thinking tags from response"""
+    import re
+    # Extract JSON by finding first { and last } (handles thinking tags interleaved)
+    json_start = content.find('{')
+    json_end = content.rfind('}') + 1
+    if json_start >= 0 and json_end > json_start:
+        content = content[json_start:json_end]
+    else:
+        content = content.strip()
+        if content.startswith("```json"):
+            content = content[7:]
+        if content.startswith("```"):
+            content = content[3:]
+        if content.endswith("```"):
+            content = content[:-3]
     return content.strip()
 
 def generate_cruise_destination(line: Dict, destination: Dict) -> Optional[Dict]:
@@ -154,7 +161,7 @@ def generate_cruise_destination(line: Dict, destination: Dict) -> Optional[Dict]
 Output ONLY valid JSON."""
     
     print(f"Generating: {line_name} + {dest_name}")
-    content = call_minimax(prompt, temperature=0.7)
+    content = call_minimax(prompt, temperature=0.7, max_tokens=8000)
     if content:
         try:
             content = clean_json_response(content)
@@ -206,4 +213,27 @@ def generate_comparison(line_a: Dict, line_b: Dict) -> Optional[Dict]:
  {{"category": "Kids clubs", "{line_a_slug}": "<value>", "{line_b_slug}": "<value>"}},
  {{"category": "Adults-only areas", "{line_a_slug}": "<value>", "{line_b_slug}": "<value>"}},
  {{"category": "Drinks packages", "{line_a_slug}": "<value>", "{line_b_slug}": "<value>"}},
- {{"category": "Loyalty program", "{line_a_slug}": "<value>", "{line_b
+ {{"category": "Loyalty program", "{line_a_slug}": "<value>", "{line_b_slug}": "<value>"}}
+  ],
+  "verdict": "<150 word paragraph final recommendation>",
+  "who_chooses_what": {{
+    "{line_a_slug}": "<who should pick {line_a_name}>",
+    "{line_b_slug}": "<who should pick {line_b_name}>"
+  }}
+}}
+
+Output ONLY valid JSON."""
+
+    print(f"Generating comparison: {line_a_name} vs {line_b_name}")
+    content = call_minimax(prompt, temperature=0.7, max_tokens=8000)
+    if content:
+        try:
+            content = clean_json_response(content)
+            data = json.loads(content)
+            data["line_a"] = line_a
+            data["line_b"] = line_b
+            data["generated"] = time.strftime("%Y-%m-%dT%H:%M:%SZ")
+            return data
+        except Exception as e:
+            print(f"Error parsing JSON: {e}", file=sys.stderr)
+    return None
