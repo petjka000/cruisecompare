@@ -1,0 +1,184 @@
+{
+  "title": "Virgin Voyages Greek Isles Cruises 2026",
+  "intro": "Virgin Voyages brings its adults-only, yacht-inspired revolution to the Greek Isles with a bold alternative to traditional cruising. The Scarlet Lady and Valiant Lady sail these storied waters, offering a sophisticated escape for travelers 18 and over. Expect Michelin-caliber dining at 20+ venues with no buffets or main dining rooms, immersive entertainment that breaks cruise conventions, and a design-forward aesthetic throughout. Greek Isles itineraries blend ancient wonder with Virgin's signature flair—think sunset sailings past Santorini's caldera, late-night departures from Mykonos, and exclusive Beach Club experiences at Bimini before or after your Mediterranean crossing. With unlimited group fitness classes, Wi-Fi, and gratuities bundled into fares, Virgin strips away nickel-and-diming while delivering elevated experiences. The result is a cruise that honors Greek hospitality traditions through a thoroughly modern, adults-only lens.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "7-11 nights",
+    "best_months": [
+      "May",
+      "June",
+      "September"
+    ],
+    "ships_on_route": [
+      "Scarlet Lady",
+      "Valiant Lady"
+    ],
+    "departure_ports": [
+      "Piraeus (Athens)",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct)",
+      "inside_eur": 849,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Holiday (late Dec)",
+      "inside_eur": 1399,
+      "balcony_eur": 1999,
+      "suite_eur": 2899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Island Glow",
+      "duration_nights": 7,
+      "ports": [
+        "Piraeus",
+        "Santorini",
+        "Rhodes",
+        "Bodrum",
+        "Mykonos"
+      ],
+      "price_from_eur": 949,
+      "highlight": "Overnight in Mykonos for legendary nightlife"
+    },
+    {
+      "name": "10-night Adriatic & Greek Gems",
+      "duration_nights": 10,
+      "ports": [
+        "Barcelona",
+        "Montenegro",
+        "Corfu",
+        "Katakolon",
+        "Santorini",
+        "Mykonos"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Combines Croatian coast with iconic Greek islands"
+    },
+    {
+      "name": "11-night Greek Odyssey",
+      "duration_nights": 11,
+      "ports": [
+        "Piraeus",
+        "Thessaloniki",
+        "Kusadasi",
+        "Santorini",
+        "Crete",
+        "Mykonos"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Includes Ephesus access and lesser-visited northern Greece"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Scarlet Lady",
+      "capacity": 2770,
+      "year": 2021,
+      "best_for": "Solo travelers & couples seeking nightlife",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Valiant Lady",
+      "capacity": 2770,
+      "year": 2022,
+      "best_for": "Food enthusiasts & wellness-focused travelers",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All dining at 20+ restaurants",
+    "Basic beverages (filtered water, non-pressed juices, tea, coffee)",
+    "Group fitness classes (yoga, cycling, HIIT)",
+    "Entertainment & shows",
+    "Wi-Fi",
+    "Gratuities",
+    "Beach Club at Bimini access"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages & premium coffees",
+    "Shore excursions",
+    "Spa treatments & salon services",
+    "Specialty fitness classes (Pilates reformer, etc.)",
+    "Flights & transfers",
+    "Premium Wi-Fi tier"
+  ],
+  "booking_strategy": "Book 8-14 months ahead for best cabin selection; Virgin releases itineraries 18 months out. Shoulder season (May, late September) offers 20-30% lower fares than peak summer. Solo travelers should book early as Scarlet Lady's 46 solo cabins sell fastest. Watch for 'Splash for Your Bash' group deals and resident rates for Mediterranean locals.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "1pm-10pm",
+      "top_activity": "Sunset catamaran cruise with dinner (€189)",
+      "tip": "Book restaurants 60 days ahead; Oia fills by 4pm"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "8am-2am+ (overnight)",
+      "top_activity": "Delos archaeological site boat trip (€65)",
+      "tip": "Use ship's late departure for dinner ashore at Little Venice"
+    },
+    {
+      "port": "Rhodes",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Medieval Old Town & Palace of Grand Masters (€15)",
+      "tip": "Walk the moat before 9am to avoid cruise crowds"
+    },
+    {
+      "port": "Katakolon (Olympia)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Olympia archaeological site & museum (€12 entry + €45 transport)",
+      "tip": "Ship excursions include transport; independent taxis cost €80-100"
+    },
+    {
+      "port": "Crete (Heraklion)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Knossos Palace & Archaeological Museum (€25 combined)",
+      "tip": "Skip crowded ship buffet; eat at Peskesi restaurant in town"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages Greek Isles cruise cost?",
+      "answer": "Virgin Voyages Greek Isles cruises start from €849 per person for inside cabins in shoulder season (April-May, October), rising to €1,199-€1,399 in peak summer months. Balcony cabins typically run €1,199-€1,699 depending on season, while RockStar Quarters suites range €1,899-€2,899. These fares include all dining, Wi-Fi, gratuities, and group fitness—alcohol and excursions cost extra. Solo travelers pay no single supplement on 46 dedicated solo cabins, though these sell 6+ months ahead. Total trip budgeting €2,200-€3,500 per person including flights, drinks package (€400-€600), and 3-4 excursions is realistic for most travelers."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to Greek Isles?",
+      "answer": "The Scarlet Lady and Valiant Lady operate Greek Isles itineraries, both purpose-built 110,000-ton vessels accommodating 2,770 passengers in 1,408 cabins. Scarlet Lady, launched 2021, emphasizes nightlife and entertainment with its Red Room transformative theater. Valiant Lady, debuting 2022, shares identical specifications but features enhanced wellness programming and Mediterranean-focused culinary experiences. Both ships offer Virgin's distinctive adults-only environment with no main dining room, no buffet, and no formal nights. For Greek Isles specifically, Valiant Lady handles more Barcelona-based departures while Scarlet Lady operates primarily from Piraeus (Athens), though both rotate seasonally."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May, June, and September offer optimal Greek Isles cruising with warm seas (20-24°C), blooming landscapes, and manageable crowds. May delivers wildflowers and comfortable 24°C daytime temperatures; September maintains swimming-friendly 25°C waters with harvest-season dining ashore. July and August bring intense heat (35°C+), packed archaeological sites, and premium pricing 40% above shoulder months. April and October work for budget travelers accepting cooler swimming conditions and some restaurant closures. Virgin's late port departures—often 10pm or overnight—maximize evening enjoyment when temperatures drop. Avoid late October when ferry-dependent islands reduce services and weather turns unpredictable."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages Greek Isles cruises include substantial value: all meals at 20+ restaurants ranging from Korean barbecue to experimental tasting menus; basic beverages including still/sparkling water, drip coffee, tea, and non-pressed juices; unlimited group fitness classes across yoga, cycling, and HIIT; all entertainment and shows; basic Wi-Fi for one device; and gratuities for crew. The Beach Club at Bimini (Bahamas) access is included on Caribbean positioning cruises. Notably absent are: alcoholic beverages, premium coffees, shore excursions, spa services, and specialty fitness like Pilates reformer. This structure eliminates traditional cruise nickel-and-diming while requiring add-on packages for drinkers—estimate €400-€600 for moderate alcohol consumption on a 7-night sailing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Virgin Voyages Greek Isles itineraries center on Piraeus (Athens) and Barcelona as primary homeports, with calls at Santorini, Mykonos, Rhodes, Crete (Heraklion), Katakolon (for Olympia), and Thessaloniki. Eastern Mediterranean routes add Bodrum and Kusadasi (Turkey) for Ephesus access. Unlike mass-market lines, Virgin secures late departures—Santorini until 10pm, Mykonos overnight until 2am—enabling sunset dining and nightlife ashore. Some itineraries include Bari or Dubrovnik for Adriatic variety. Port times are deliberately extended compared to competitors, reflecting Virgin's adult demographic's preference for experiential travel over rushed sightseeing. Tender operations at Santorini and Mykonos mean booking early excursions or planning independent transport."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Virgin Voyages Greek Isles 8-14 months ahead for optimal cabin selection, especially for RockStar Quarters suites and solo cabins which frequently sell out 6+ months pre-departure. Virgin releases itineraries approximately 18 months in advance. Pricing typically follows a U-curve: highest at release, dipping 9-12 months out, then rising within 90 days as inventory tightens. Last-minute deals under €700 occasionally appear 30-45 days out but carry cabin location penalties—low decks, obstructed views, or mid-ship noise. For 2026 sailings, booking by March 2025 secures best rates and cabin choices. Payment plans allow deposits from €150 with final payment 120 days before sailing."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages Greek Isles cruises are exclusively adults-only, prohibiting all guests under 18 years regardless of sailing. This policy is absolute—no exceptions for infants, toddlers, or accompanied teenagers. The environment is designed for travelers seeking sophisticated, child-free experiences: no kids clubs, no family programming, no early dining options. Greek Isles itineraries particularly suit couples, friend groups, and solo travelers wanting immersive cultural experiences without family-cruise compromises. For families seeking Greek Isles cruising, consider MSC, Royal Caribbean, or Celebrity which offer robust children's programming. Virgin's demographic skews 30-55 with significant LGBTQ+ representation and solo traveler community—families should evaluate whether this adult atmosphere aligns with their travel goals."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Virgin Voyages offers a flexible cancellation structure: full refund minus deposit if cancelled 180+ days before sailing; 50% refund for cancellations 179-120 days; and no refund within 119 days unless purchasing 'Book with Confidence' protection at booking (€75-€150 depending on cruise length). This protection allows one penalty-free date change up to 48 hours before sailing, with fare differences applied. COVID-19 policies have normalized—standard medical documentation now required for illness-related cancellations. Travel insurance is strongly recommended for Greek Isles sailings given flight connection vulnerabilities and non-refundable excursion deposits. Virgin's 'Future Voyage Credit' option sometimes allows penalty-free rebooking to alternative dates within 12 months if initiated before final payment deadline."
+    }
+  ]
+}

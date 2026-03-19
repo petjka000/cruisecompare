@@ -1,0 +1,241 @@
+{
+  "title": "Regent Seven Seas Indian Ocean Cruises 2026",
+  "intro": "Regent Seven Seas Cruises delivers the most inclusive luxury experience in the Indian Ocean, where all-suite accommodations, unlimited shore excursions, and roundtrip business-class air redefine premium travel. Sailing aboard intimate vessels carrying fewer than 750 guests, you'll discover secluded Seychelles atolls, vibrant Mumbai markets, and the UNESCO treasures of Sri Lanka without crowds or compromise. The line's hallmark is genuine destination immersion—complimentary unlimited shore excursions in every port, from private wildlife safaris in Madagascar to exclusive access at Rajasthan's palaces. With all gratuities, specialty dining, premium spirits, and Wi-Fi included, your only decision is which extraordinary experience to embrace next. Regent's Indian Ocean itineraries emphasize extended port stays and overnight calls in cultural capitals like Singapore, Dubai, and Cape Town, allowing deeper exploration than conventional cruising permits.",
+  "quick_facts": {
+    "price_from_eur": 5699,
+    "duration_range": "14-24 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Seven Seas Explorer",
+      "Seven Seas Voyager",
+      "Seven Seas Navigator"
+    ],
+    "departure_ports": [
+      "Singapore",
+      "Dubai",
+      "Cape Town",
+      "Mumbai"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/Mar)",
+      "inside_eur": 5699,
+      "balcony_eur": 7299,
+      "suite_eur": 12499
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 6899,
+      "balcony_eur": 8999,
+      "suite_eur": 15999
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 8499,
+      "balcony_eur": 11299,
+      "suite_eur": 21999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Arabian Sea & India Discovery",
+      "duration_nights": 14,
+      "ports": [
+        "Dubai",
+        "Muscat",
+        "Mumbai",
+        "Goa",
+        "Cochin",
+        "Colombo",
+        "Male"
+      ],
+      "price_from_eur": 6899,
+      "highlight": "Overnight in Mumbai with exclusive Bollywood studio tour"
+    },
+    {
+      "name": "18-night Indian Ocean Odyssey",
+      "duration_nights": 18,
+      "ports": [
+        "Singapore",
+        "Langkawi",
+        "Phuket",
+        "Colombo",
+        "Cochin",
+        "Mumbai",
+        "Goa",
+        "Muscat",
+        "Dubai"
+      ],
+      "price_from_eur": 8999,
+      "highlight": "Three overnight stays including Singapore and Dubai"
+    },
+    {
+      "name": "24-night Africa & Indian Ocean Explorer",
+      "duration_nights": 24,
+      "ports": [
+        "Cape Town",
+        "Durban",
+        "Maputo",
+        "Nosy Be",
+        "Mahe",
+        "Praslin",
+        "Male",
+        "Colombo",
+        "Cochin"
+      ],
+      "price_from_eur": 12499,
+      "highlight": "Rare Seychelles archipelago exploration with two island calls"
+    },
+    {
+      "name": "16-night Spice Route & Maldives",
+      "duration_nights": 16,
+      "ports": [
+        "Cochin",
+        "Male",
+        "Mahe",
+        "La Digue",
+        "Mauritius",
+        "Reunion",
+        "Durban"
+      ],
+      "price_from_eur": 7899,
+      "highlight": "Three full days in Maldives with private island experience"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Explorer",
+      "capacity": 750,
+      "year": 2016,
+      "best_for": "Connoisseurs seeking the most luxurious ship ever built",
+      "price_from_eur": 7299
+    },
+    {
+      "name": "Seven Seas Voyager",
+      "capacity": 700,
+      "year": 2003,
+      "refurbished": 2019,
+      "best_for": "World cruisers and extended Indian Ocean voyages",
+      "price_from_eur": 6899
+    },
+    {
+      "name": "Seven Seas Navigator",
+      "capacity": 496,
+      "year": 1999,
+      "refurbished": 2019,
+      "best_for": "Intimate luxury with exceptional staff-to-guest ratio",
+      "price_from_eur": 5699
+    }
+  ],
+  "whats_included": [
+    "All-suite accommodations with private balconies",
+    "Unlimited shore excursions in every port",
+    "Roundtrip business-class air on intercontinental flights",
+    "Unlimited beverages including premium spirits and wines",
+    "All specialty restaurants at no extra charge",
+    "Pre-cruise hotel night on all voyages",
+    "Gratuities throughout ship and shore",
+    "Unlimited Wi-Fi",
+    "Valet laundry service",
+    "Ground transfers between airport and ship"
+  ],
+  "whats_extra": [
+    "Spa treatments and salon services",
+    "Premium shore excursion upgrades (helicopter tours, private guides)",
+    "Boutique and photo purchases",
+    "Casino gaming",
+    "Certain rare vintage wines and spirits"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for optimal suite selection and early booking savings up to EUR 2,000 per suite; monitor Regent's 'Upgrade Your Horizon' promotions for complimentary suite upgrades",
+  "top_ports": [
+    {
+      "port": "Male, Maldives",
+      "time_in_port": "8am-6pm (overnight on select voyages)",
+      "top_activity": "Private sandbank champagne breakfast (EUR 289)",
+      "tip": "Request sunrise seaplane transfer for spectacular aerial views"
+    },
+    {
+      "port": "Mumbai, India",
+      "time_in_port": "6am-11pm (overnight)",
+      "top_activity": "Elephanta Caves private guided tour with curator access (EUR 189)",
+      "tip": "Arrange personal shopper for Crawford Market spices via concierge"
+    },
+    {
+      "port": "Mahe, Seychelles",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Vallee de Mai UNESCO nature reserve with coco de mer (EUR 149)",
+      "tip": "Skip crowded Anse Source d'Argent; request private beach at Anse Marron"
+    },
+    {
+      "port": "Colombo, Sri Lanka",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Sigiriya Rock Fortress helicopter excursion (EUR 599)",
+      "tip": "Galle Face Hotel afternoon tea offers authentic colonial atmosphere"
+    },
+    {
+      "port": "Cochin, India",
+      "time_in_port": "6am-6pm",
+      "top_activity": "Kathakali dance performance with dinner in heritage home (EUR 129)",
+      "tip": "Jew Town spice warehouses close early; visit morning for best photography"
+    },
+    {
+      "port": "Mauritius (Port Louis)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Chamarel Seven Coloured Earth and rum distillery (EUR 159)",
+      "tip": "Book Le Morne Brabant viewpoint for dramatic mountain-backdrop photos"
+    },
+    {
+      "port": "Muscat, Oman",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Private dhow cruise with dolphin watching (EUR 199)",
+      "tip": "Sultan Qaboos Grand Mosque requires modest dress; shawls provided on ship"
+    },
+    {
+      "port": "Praslin, Seychelles",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Curieuse Island giant tortoise sanctuary with BBQ lunch (EUR 179)",
+      "tip": "Snorkel equipment included; request guide to find best reef locations"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Indian Ocean cruise cost?",
+      "answer": "Regent Seven Seas Indian Ocean cruises typically range from EUR 5,699 to EUR 21,999 per person for 14-24 night voyages, with pricing varying dramatically by season, suite category, and itinerary complexity. Entry-level Veranda Suites during shoulder season (November or March) start around EUR 5,699, while Peak season (December-February) Veranda Suites average EUR 6,899-8,999. Penthouse Suites command EUR 9,999-15,999, and expansive Master Suites reach EUR 18,000-35,000. Holiday departures carry 20-30% premiums. The fare includes business-class air, unlimited shore excursions, all beverages, gratuities, and pre-cruise hotel—making true comparison with premium lines requiring addition of EUR 3,000-5,000 in equivalents. Single travelers face 25-75% supplements, though occasional no-single-supplement promotions appear."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Indian Ocean?",
+      "answer": "Three vessels comprise Regent's Indian Ocean fleet: Seven Seas Explorer, the line's flagship launched 2016 and widely regarded as the most luxurious cruise ship ever constructed, featuring marble-clad suites and the largest space-per-guest ratio at sea. Seven Seas Voyager, refurbished 2019, specializes in extended world cruise segments and offers the fleet's most comprehensive itinerary programming. Seven Seas Navigator, smallest at 496 guests and refurbished 2019, provides the most intimate experience with exceptional staff-to-guest ratios and access to smaller Seychelles and Maldivian ports unavailable to larger vessels. All three feature all-suite, all-balcony accommodations, though Explorer's suites average 30% larger. Ship assignment depends on specific itinerary duration and deployment schedule, with Explorer typically assigned to flagship routes."
+    },
+    {
+      "question": "When is best time to cruise Indian Ocean?",
+      "answer": "Optimal Indian Ocean cruising occurs November through March, coinciding with the northeast monsoon when prevailing winds deliver dry, sunny conditions and calmer seas across the region. December through February represents peak season with temperatures of 26-32°C, minimal rainfall, and ideal underwater visibility of 20-30 meters for Maldives and Seychelles snorkeling. November and March offer shoulder-season advantages: 15-20% lower fares, fewer European holiday crowds, and slightly warmer waters. April transitions to the wet southwest monsoon with increased humidity and choppier conditions. May through October is generally avoided due to the southwest monsoon, though East African coast itineraries (Kenya, Tanzania) remain viable. Mauritius and Reunion maintain reasonable conditions year-round, though January-March cyclone risk exists. For wildlife enthusiasts, November-December coincides with whale shark season in the Maldives."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent Seven Seas provides the cruise industry's most comprehensive inclusion structure, eliminating virtually all onboard spending decisions. Every fare encompasses spacious suite accommodations with private balconies, unlimited complimentary shore excursions in every port (typically 3-5 options daily), roundtrip business-class air on intercontinental flights with complimentary transfers, unlimited beverages including premium spirits, Champagnes, and wines by the glass, all specialty restaurants without reservation fees or surcharges, one-night pre-cruise hotel stay with breakfast, all gratuities for ship and shore staff, unlimited valet laundry service, and complimentary unlimited Wi-Fi. Unique inclusions extend to basic medical services, stocked in-suite mini-bar replenished daily, and exclusive cultural events ashore. The only significant exclusions are spa treatments, casino play, boutique purchases, and ultra-premium wine vintages. This structure typically delivers EUR 3,000-5,000 equivalent value versus premium competitors charging separately."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent's Indian Ocean itineraries encompass an extraordinary diversity of ports spanning four distinct sub-regions. The Arabian Sea corridor features Dubai, Muscat, and Mumbai as major embarkation/debarkation points with overnight stays enabling deep exploration. The Indian subcontinent delivers Cochin's colonial heritage, Goa's Portuguese beaches, and Colombo's Buddhist treasures. The Maldives and Seychelles archipelagos provide the region's signature experiences: Male's overwater resorts, Mahe's pristine beaches, and Praslin's unique flora. East African extensions include Cape Town, Durban, and rarely-visited Madagascar ports like Nosy Be. Southeast Asian gateways such as Singapore and Phuket frequently anchor longer itineraries. Regent distinguishes itself with extended port durations—frequently 10-14 hours and multiple overnights in Mumbai, Dubai, and Singapore—plus exclusive access to private islands and smaller anchorages like La Digue inaccessible to larger vessels. Each itinerary balances iconic destinations with genuine discoveries."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Strategic booking for Regent Seven Seas Indian Ocean cruises requires 12-18 month advance planning to secure optimal suite categories and capture early booking incentives. The line releases itineraries approximately 18-24 months ahead, with popular winter 2026-2027 departures typically 40% booked within 90 days of release. Early booking benefits include complimentary suite upgrades (Veranda to Penthouse), shipboard credits of EUR 500-1,000 per suite, and reduced deposits. The 'Upgrade Your Horizon' promotion, offered periodically, provides the most valuable incentives for advance planners. Last-minute availability is extremely limited for Indian Ocean routes given the region's popularity and small ship capacities. For specific suite requests—particularly higher Penthouse categories with butler service or the exclusive Regent Suite—booking 18+ months ahead is essential. Final payment is typically due 150 days before departure, with flexible deposit policies allowing changes until that point."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas Indian Ocean cruises accommodate families exceptionally well for multigenerational travel, though with important distinctions from mass-market alternatives. The line welcomes children aged 6 months and above, with dedicated Club Mariner youth programming available on select holiday departures when 15+ children are aboard—uncommon on Indian Ocean routes. Families appreciate the all-inclusive structure eliminating budget negotiations, spacious multi-room suites accommodating 3-4 guests, and flexible dining without fixed seating. However, the sophisticated destination focus, extended port days emphasizing cultural immersion, and absence of water slides, kids' pools, or dedicated teen spaces distinguish this from family-centric lines. Recommended for families with children 10+ possessing genuine interest in wildlife, history, and diverse cultures. The Maldives and Seychelles segments particularly engage younger travelers with snorkeling, giant tortoise encounters, and beach activities. Connecting suites and the exceptional staff-to-guest ratio enable customized family experiences upon request."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas maintains structured cancellation terms reflecting its luxury positioning and extended booking windows. For voyages of 15 nights or fewer, cancellation 151+ days before departure incurs EUR 200 administrative fee per person; 150-91 days forfeits 15% of fare; 90-61 days loses 50%; 60-31 days forfeits 75%; and 30 days or less retains 100% with no refund. For longer Indian Ocean itineraries (16+ nights), the penalties escalate faster: 15% at 180-151 days, 50% at 150-91 days, 75% at 90-61 days, and 100% thereafter. The line offers 'Regent Reassurance' protection enabling future cruise credits when canceling for covered reasons, and separately markets comprehensive 'Regent Choice' travel insurance covering cancellation for any reason with 75% credit. Given significant advance deposits (typically 25% at booking) and the substantial investment involved, travel insurance with cancel-for-any-reason coverage is strongly recommended for Indian Ocean bookings, particularly given health considerations in remote destinations."
+    }
+  ]
+}

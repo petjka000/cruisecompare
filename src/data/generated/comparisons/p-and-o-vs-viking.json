@@ -1,0 +1,141 @@
+{
+  "title": "P&O Cruises vs Viking Cruises 2026",
+  "intro": "P&O Cruises and Viking Cruises represent two distinct approaches to ocean cruising. P&O, Britain's most established cruise line, offers traditional British-style cruising with family-friendly amenities, multiple dining venues, and entertainment for all ages across its fleet of larger ships. Viking, the Norwegian-founded line, pioneered adults-only ocean cruising with a focus on destination immersion, cultural enrichment, and Scandinavian design. While both operate in the mid-market price bracket, their target demographics and onboard experiences diverge significantly. P&O emphasises variety and mass-market appeal, whereas Viking prioritises intimacy, education, and understated luxury without casinos or children.",
+  "at_a_glance": {
+    "p-and-o": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "viking": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 2499
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "p-and-o": "€799",
+      "viking": "€2,499"
+    },
+    {
+      "category": "Ship Size",
+      "p-and-o": "1,800-5,200 guests",
+      "viking": "930 guests"
+    },
+    {
+      "category": "Adults-Only",
+      "p-and-o": "No (except Arvia/Iona)",
+      "viking": "Yes"
+    },
+    {
+      "category": "Drinks Included",
+      "p-and-o": "No",
+      "viking": "Yes"
+    },
+    {
+      "category": "Excursions",
+      "p-and-o": "Extra charge",
+      "viking": "One free per port"
+    },
+    {
+      "category": "WiFi",
+      "p-and-o": "Extra charge",
+      "viking": "Free"
+    },
+    {
+      "category": "Gratuities",
+      "p-and-o": "£7-£8/day",
+      "viking": "Included"
+    },
+    {
+      "category": "Dining",
+      "p-and-o": "Multiple venues, some extra",
+      "viking": "All restaurants included"
+    },
+    {
+      "category": "Entertainment",
+      "p-and-o": "Theatre, comedy, cinema",
+      "viking": "Lectures, performances"
+    },
+    {
+      "category": "Casino",
+      "p-and-o": "Yes",
+      "viking": "No"
+    },
+    {
+      "category": "Dress Code",
+      "p-and-o": "Formal nights",
+      "viking": "Elegant casual"
+    },
+    {
+      "category": "Kids Club",
+      "p-and-o": "Extensive",
+      "viking": "None"
+    }
+  ],
+  "choose_a_if": [
+    "You are travelling with children and need family facilities and kids' clubs",
+    "You enjoy traditional British cruising with formal nights, variety shows, and casinos",
+    "You prefer lower upfront costs and don't mind paying extra for drinks, WiFi, and excursions",
+    "You want larger ships with multiple pools, waterslides, and extensive entertainment options"
+  ],
+  "choose_b_if": [
+    "You are aged 50+ and prefer an adults-only environment without children",
+    "You value inclusive pricing covering drinks, WiFi, gratuities, and one excursion per port",
+    "You prioritise destination immersion, cultural lectures, and smaller ship intimacy",
+    "You appreciate Scandinavian design, understated luxury, and no casinos or formal nights"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "P&O Cruises",
+      "reason": "P&O offers extensive kids' clubs, family cabins, waterslides on newer ships, and child-friendly dining. Viking has no children's facilities whatsoever."
+    },
+    {
+      "type": "Couples 55+",
+      "winner": "Viking Cruises",
+      "reason": "Viking's adults-only policy, included amenities, cultural focus, and intimate 930-guest ships create a refined, hassle-free experience ideal for this demographic."
+    },
+    {
+      "type": "First-Time Cruisers",
+      "winner": "P&O Cruises",
+      "reason": "Lower entry prices and familiar British environment make P&O less intimidating for newcomers testing whether cruising suits them."
+    },
+    {
+      "type": "Culture Enthusiasts",
+      "winner": "Viking Cruises",
+      "reason": "Viking's resident historians, destination-focused itineraries, included excursions, and enrichment lectures surpass P&O's more entertainment-oriented approach."
+    },
+    {
+      "type": "Budget Conscious",
+      "winner": "P&O Cruises",
+      "reason": "Base fares are significantly lower. Those who avoid extras can cruise P&O considerably cheaper than Viking's premium all-inclusive model."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends on your preferences. P&O appears cheaper upfront at €799 for seven nights, but drinks, WiFi, gratuities, and excursions add substantially. Viking's €2,499 includes all these elements. For travellers who would purchase premium drinks packages and excursions anyway, Viking often works out comparable while offering superior service and smaller ships. P&O suits those who cruise frugally, self-cater ashore, and avoid extras. Calculate your typical onboard spending honestly before deciding. Viking's transparent pricing eliminates bill shock; P&O rewards disciplined budgeters."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "P&O Cruises is unquestionably superior for families. Their ships feature dedicated kids' clubs for ages 2-17, family cabins accommodating up to five, night nurseries, and teen discos. Newer vessels Arvia and Iona include waterslides, sports courts, and family-friendly entertainment. Dining offers early sittings and children's menus. Viking explicitly prohibits passengers under 18, making it entirely unsuitable for families. No exceptions exist. Parents seeking adult-only time might consider Viking for a couple's getaway while children stay home, but never for family holidays."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "P&O's lead-in prices are roughly 65% lower than Viking's. A seven-night Mediterranean cruise in an inside cabin averages €799 with P&O versus €2,499 with Viking. However, this comparison misleads. Viking includes unlimited drinks, premium WiFi, gratuities, and one shore excursion per port—typically worth €800-€1,200 combined. P&O charges extra for all these. Ocean-view and balcony cabins narrow the gap further. Viking rarely discounts heavily; P&O offers frequent promotions including free cabin upgrades and onboard credit. Always compare total trip costs, not headline fares."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Viking delivers superior culinary quality overall. All restaurants are complimentary, including the Chef's Table tasting menu and World Café buffet. Ingredients are sourced locally in ports, and menus reflect destinations visited. The Restaurant offers refined, consistent cuisine without surcharges. P&O provides greater variety with 10+ dining venues, but specialty restaurants incur extra charges (£20-£45). Main dining room quality is solid but mass-market. Foodies prefer Viking's thoughtful, inclusive approach; those wanting endless choice and don't mind paying extra may prefer P&O's diversity. Both accommodate dietary requirements well."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "P&O suits British first-timers seeking familiar comforts—sterling pricing, British plug sockets, UK departure ports, and fellow countrymen. The casual atmosphere and entertainment variety help uncertain newcomers relax. Viking better serves confident first-timers wanting immediate immersion in refined cruising without navigating complex extra charges. Its smaller ships feel less overwhelming than P&O's largest vessels. First-timers prioritising simplicity should choose Viking despite higher cost; those wanting traditional cruise experimentation at lower risk should select P&O. Both lines welcome beginners warmly, but Viking's inclusivity reduces decision fatigue."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental distinction is demographics: P&O embraces all ages including families; Viking is strictly 18+. P&O operates larger ships (1,800-5,200 guests) with casinos, theatres, and waterslides; Viking's identical 930-guest vessels emphasise libraries, spas, and lectures. Pricing philosophy differs radically—P&O à la carte versus Viking's near-all-inclusive model. P&O offers formal nights and British traditions; Viking maintains elegant casual dress always. Excursions are extra with P&O, one free daily with Viking. P&O sails worldwide including Caribbean and world cruises; Viking focuses heavily on Europe and expedition destinations. Choose based on your priorities, not prestige."
+    }
+  ]
+}

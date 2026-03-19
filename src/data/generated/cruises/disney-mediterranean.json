@@ -1,0 +1,199 @@
+{
+  "title": "Disney Cruise Line Mediterranean Cruises 2026",
+  "intro": "Disney Cruise Line transforms Mediterranean cruising into an unforgettable family adventure, combining legendary Disney storytelling with Europe's most captivating destinations. Sail aboard beautifully appointed ships where children meet beloved characters while parents savor sophisticated dining and adults-only retreats. From Barcelona's architectural wonders to the ancient ruins of Rome and the sun-drenched Greek Isles, each port becomes a chapter in your family's travel story. Disney's rotational dining system ensures every meal is magical, while Broadway-caliber shows and themed deck parties create memories that last generations. With dedicated youth clubs for every age, parents enjoy guilt-free exploration ashore knowing children are engaged in supervised activities. The Mediterranean's rich cultural tapestry—Renaissance art, Mediterranean cuisine, millennia of history—pairs perfectly with Disney's signature service and attention to detail, creating voyages where wonder meets wanderlust for multigenerational travelers seeking both enrichment and enchantment.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Disney Dream",
+      "Disney Fantasy"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Civitavecchia",
+      "Copenhagen"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Late Summer (Sep)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Western Mediterranean",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Villefranche",
+        "Civitavecchia",
+        "Naples",
+        "Palma de Mallorca"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Iconic cities with Disney magic ashore and onboard"
+    },
+    {
+      "name": "9-night Mediterranean with Greek Isles",
+      "duration_nights": 9,
+      "ports": [
+        "Civitavecchia",
+        "Naples",
+        "Santorini",
+        "Mykonos",
+        "Piraeus",
+        "Katakolon",
+        "Messina",
+        "Barcelona"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Extended exploration of Greece's legendary islands"
+    },
+    {
+      "name": "12-night Grand Mediterranean",
+      "duration_nights": 12,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Villefranche",
+        "Livorno",
+        "Civitavecchia",
+        "Naples",
+        "Santorini",
+        "Mykonos",
+        "Piraeus",
+        "Katakolon",
+        "Messina"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Comprehensive immersion in Mediterranean culture and history"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Dream",
+      "capacity": 4000,
+      "year": 2011,
+      "best_for": "Families with young children",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Disney Fantasy",
+      "capacity": 4000,
+      "year": 2012,
+      "best_for": "Multigenerational families",
+      "price_from_eur": 949
+    }
+  ],
+  "whats_included": [
+    "Rotational dining at three themed restaurants",
+    "Broadway-caliber Disney musicals",
+    "Character meet-and-greets",
+    "Youth clubs (ages 3-17)",
+    "Pool areas and waterslides",
+    "Room service",
+    "Soft drinks at meals",
+    "Standard WiFi",
+    "Port adventures booking assistance"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty drinks",
+    "Port excursions and adventures",
+    "Palo and Remy adult-exclusive dining",
+    "Bibbidi Bobbidi Boutique services",
+    "Spa and salon treatments",
+    "Photography packages",
+    "Premium WiFi",
+    "Nursery care for under-3s",
+    "Gratuities (€14.50/person/day)"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for optimal cabin selection and early booking discounts; Disney opens itineraries 15 months in advance with best prices for first-time deposits",
+  "top_ports": [
+    {
+      "port": "Barcelona",
+      "time_in_port": "7am-5pm or overnight",
+      "top_activity": "Sagrada Família guided tour (€89)",
+      "tip": "Pre-book Disney's exclusive early morning access to avoid crowds"
+    },
+    {
+      "port": "Civitavecchia (Rome)",
+      "time_in_port": "7:30am-7pm",
+      "top_activity": "Vatican and Colosseum immersive day (€189)",
+      "tip": "Tender port; book Disney transfers for seamless Rome access"
+    },
+    {
+      "port": "Naples/Pompeii",
+      "time_in_port": "7am-6:30pm",
+      "top_activity": "Pompeii archaeological experience (€129)",
+      "tip": "Extensive walking required; comfortable shoes essential"
+    },
+    {
+      "port": "Santorini",
+      "time_in_port": "12pm-8pm",
+      "top_activity": "Oia sunset and wine tasting (€159)",
+      "tip": "Cable car or donkey ride to port; book afternoon tours for golden hour"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Delphi archaeological site excursion (€179)",
+      "tip": "Windy island; secure hats and light layers for shore excursions"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Mediterranean cruise cost?",
+      "answer": "Disney Mediterranean cruises typically range from €899 per person for interior cabins during shoulder season to €3,499+ for concierge suites in peak summer. A family of four should budget €4,500-€8,000 for a 7-night voyage including balcony accommodations, port excursions, and onboard extras. Prices include exceptional value through rotational dining, unlimited soft drinks, and youth programming unavailable elsewhere. Disney's tiered pricing rewards early booking with significant savings, often €300-€600 per cabin compared to last-minute rates. Concierge-level bookings include priority port adventure booking, exclusive lounges, and dedicated hosts justifying premium pricing for families seeking seamless experiences."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Mediterranean?",
+      "answer": "Disney Dream and Disney Fantasy primarily operate Mediterranean itineraries, with Disney Dream handling shorter 7-night Western Mediterranean routes from Barcelona and Disney Fantasy offering extended 9-12 night voyages including Greek Isles. Both 4,000-passenger vessels feature Disney's signature split-color funnels, AquaDuck water coaster, and elaborate themed areas. Disney Magic occasionally positions for Northern Europe/Mediterranean combination cruises. Ship deployment rotates seasonally with Dream and Fantasy repositioning from Caribbean summer 2025 to Mediterranean April-October 2026. Both ships underwent extensive dry dock enhancements including Frozen-themed areas and enhanced adult spaces, ensuring modern amenities complement classic Disney charm."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "May, June, September, and October offer optimal Mediterranean cruising with pleasant 20-26°C temperatures, fewer crowds, and lower Disney pricing than peak July-August. May delivers blooming landscapes and comfortable exploration weather ideal for Rome's extensive walking sites. September provides warm seawater for beach port adventures in Mykonos and Palma. June combines long daylight hours with manageable heat before August's intensity. October brings harvest season wine experiences in Provence and Tuscany. Avoid August when Mediterranean ports swell with European holidaymakers and temperatures exceed 32°C, making extensive sightseeing challenging for young children. Disney's rotational deployment means Dream and Fantasy offer Mediterranean sailing April-October only."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney Mediterranean cruises include exceptional value through rotational dining at three distinct themed restaurants each evening, unlimited soft drinks at meals and deck stations, room service, and Broadway-caliber Disney musicals exclusive to the line. Youth programming spans dedicated clubs for ages 3-17 including Edge tween lounge and Vibe teen space, plus It's A Small World Nursery for infants. Pool areas, waterslides, and character meet-and-greets require no additional fees. Standard WiFi, port adventure booking assistance, and access to adults-only Quiet Cove pool and entertainment district complete inclusive offerings. Unlike premium lines, Disney excludes alcohol, specialty dining at Palo/Remy, spa services, and port excursions—families should budget €150-€300 daily for these extras."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Mediterranean itineraries span iconic Western Mediterranean destinations including Barcelona's architectural treasures, Rome's ancient wonders via Civitavecchia, Florence and Pisa through Livorno, and Naples for Pompeii access. Eastern routes incorporate Greek Isles highlights: Santorini's dramatic caldera, Mykonos' windmills and beaches, Athens' Acropolis via Piraeus, and Katakolon for Olympia. French Riviera calls feature Marseille and Villefranche for Nice and Monaco exploration. Disney offers exclusive experiences like early-morning Sagrada Família access and private beach excursions. Extended 12-night voyages combine both regions comprehensively. Tender ports including Santorini and Villefranche require advance planning; Disney's organized tender tickets prioritize families with young children and accessibility needs."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Disney Mediterranean cruises 12-18 months in advance when itineraries release, typically 15 months prior to sailing. Opening day bookings access lowest guaranteed rates, preferred stateroom locations midship for stability, and optimal dining rotation assignments. Popular summer sailings and concierge categories sell within weeks. Disney's flexible deposit structure—20% with full payment 75 days pre-cruise—protects early commitments. Past guests (Castaway Club members) receive booking windows 30-90 days before public release, creating urgency for new Disney cruisers. Last-minute Mediterranean availability rarely materializes given Disney's loyal repeat clientele and limited seasonal deployment. Travel agents specializing in Disney often hold group space releasing closer to sailing if plans change."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Cruise Line defines family Mediterranean cruising through unmatched youth programming allowing parents meaningful port exploration. Children ages 3-17 engage in supervised clubs with Disney-trained counselors while adults savor Rome's Vatican Museums or Santorini's wine tastings guilt-free. Character dining and deck parties create magical moments after cultural immersion. Multigenerational groups thrive with dedicated spaces: toddlers in nursery, teens in Vibe lounge, adults in Palo and Remy restaurants, plus family activities bringing generations together. Staterooms accommodate families of five, rare in cruising. Mediterranean destinations' educational value—ancient history, Renaissance art, diverse cultures—complements Disney's storytelling approach, transforming sightseeing into interactive learning. Port adventures specifically designed for families balance engagement for all ages."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line's Mediterranean cancellation policy operates on a tiered structure: full refund minus deposit processing fee if cancelled 75+ days before sailing; deposit forfeiture 74-45 days out; 50% of total fare forfeited 44-30 days prior; 75% forfeited 29-15 days before; and 100% non-refundable within 14 days of departure. Travel insurance through Disney or independent providers strongly recommended given Mediterranean airfare and pre-cruise hotel investments. For weather or mechanical cancellations, Disney rebooks on next available sailing with onboard credit compensation. COVID-19 protocols evolved to flexible rebooking; current policies allow future cruise credit for positive tests within 10 days of sailing. Concierge bookings receive enhanced flexibility with deposit transfers to alternative dates. Always verify current terms at booking as policies adjust seasonally."
+    }
+  ]
+}

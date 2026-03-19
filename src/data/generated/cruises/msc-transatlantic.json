@@ -1,0 +1,228 @@
+{
+  "title": "MSC Cruises Transatlantic Cruises 2026",
+  "intro": "MSC Cruises offers exceptional value on Transatlantic repositioning voyages, combining European sophistication with Caribbean warmth. These unique eastbound and westbound crossings aboard MSC's modern fleet feature extended sea days perfect for relaxation, enrichment programs, and world-class entertainment. Passengers enjoy the distinctive Mediterranean hospitality MSC is renowned for, with multiple languages spoken onboard and international cuisine. Transatlantic sailings typically occur during spring and autumn as ships relocate between European and Caribbean/Central American homeports. The journey spans approximately 7-14 nights, offering an unhurried pace rarely found in modern cruising. MSC's repositioning cruises attract experienced travellers seeking affordable luxury, with fares significantly lower than comparable fly-cruise holidays. The line's newer vessels feature impressive aqua parks, Broadway-style shows, and extensive spa facilities to fill sea days.",
+  "quick_facts": {
+    "price_from_eur": 549,
+    "duration_range": "7-16 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "MSC World America",
+      "MSC Seascape",
+      "MSC Seaview",
+      "MSC Meraviglia"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Civitavecchia",
+      "Miami",
+      "Port Canaveral"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring (Eastbound)",
+      "inside_eur": 549,
+      "balcony_eur": 799,
+      "suite_eur": 1499
+    },
+    {
+      "season": "Autumn (Westbound)",
+      "inside_eur": 599,
+      "balcony_eur": 849,
+      "suite_eur": 1599
+    },
+    {
+      "season": "Peak Repositioning",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Barcelona to Miami",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Cadiz",
+        "Funchal",
+        "Ponta Delgada",
+        "Royal Naval Dockyard",
+        "Miami"
+      ],
+      "price_from_eur": 649,
+      "highlight": "Two full weeks crossing with Portuguese Azores stop"
+    },
+    {
+      "name": "12-night Civitavecchia to Port Canaveral",
+      "duration_nights": 12,
+      "ports": [
+        "Civitavecchia",
+        "Genoa",
+        "Marseille",
+        "Barcelona",
+        "Cadiz",
+        "Ponta Delgada",
+        "Port Canaveral"
+      ],
+      "price_from_eur": 599,
+      "highlight": "Italian departure with extensive Western Mediterranean calls"
+    },
+    {
+      "name": "7-night Miami to Barcelona",
+      "duration_nights": 7,
+      "ports": [
+        "Miami",
+        "Ponta Delgada",
+        "Lisbon",
+        "Cadiz",
+        "Barcelona"
+      ],
+      "price_from_eur": 549,
+      "highlight": "Express eastbound with Azores and Portugal"
+    },
+    {
+      "name": "16-night Miami to Barcelona via Caribbean",
+      "duration_nights": 16,
+      "ports": [
+        "Miami",
+        "Ocho Rios",
+        "Cartagena",
+        "Colón",
+        "Puerto Limón",
+        "Ponta Delgada",
+        "Lisbon",
+        "Barcelona"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Extended route with Central America exploration"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "MSC World America",
+      "capacity": 6784,
+      "year": 2025,
+      "best_for": "Families & Entertainment seekers",
+      "price_from_eur": 699
+    },
+    {
+      "name": "MSC Seascape",
+      "capacity": 5877,
+      "year": 2022,
+      "best_for": "Families & Outdoor enthusiasts",
+      "price_from_eur": 599
+    },
+    {
+      "name": "MSC Seaview",
+      "capacity": 5336,
+      "year": 2018,
+      "best_for": "Families & Sea view lovers",
+      "price_from_eur": 549
+    },
+    {
+      "name": "MSC Meraviglia",
+      "capacity": 5714,
+      "year": 2017,
+      "best_for": "Families & Tech-forward travellers",
+      "price_from_eur": 549
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All main dining room meals",
+    "Buffet restaurant access",
+    "Theatre shows and live entertainment",
+    "Pool and fitness centre access",
+    "Kids club and teen programmes",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (EUR 45-65/day)",
+    "Speciality dining (EUR 25-45/person)",
+    "Shore excursions (EUR 49-189)",
+    "Wi-Fi packages (EUR 12-25/day)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Gratuities (EUR 12-14/day recommended)",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and lowest fares; MSC frequently offers 'All-In' packages combining drinks, Wi-Fi and gratuities for EUR 200-400 total savings. Repositioning cruises release 18 months prior. Inside cabins offer exceptional value on sea-day-heavy itineraries. Consider MSC's 'Status Match' programme matching other cruise line loyalty tiers for immediate benefits. Wave season (January-March) brings additional onboard credit offers. Flexible fares allow date changes for EUR 50 fee. Yacht Club suites include butler service and exclusive facilities, occasionally discounted 30% on repositionings.",
+  "top_ports": [
+    {
+      "port": "Barcelona",
+      "time_in_port": "7am-6pm (departure)",
+      "top_activity": "Sagrada Família guided tour (EUR 65)",
+      "tip": "Arrive 2 days early for jet lag recovery"
+    },
+    {
+      "port": "Cadiz",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Seville full day excursion (EUR 189)",
+      "tip": "Book Seville tour immediately; 90-minute coach each way"
+    },
+    {
+      "port": "Ponta Delgada, Azores",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sete Cidades crater lakes (EUR 79)",
+      "tip": "Weather changes rapidly; bring layers"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan ride and gardens (EUR 59)",
+      "tip": "Cable car offers spectacular views"
+    },
+    {
+      "port": "Lisbon",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sintra palace tour (EUR 99)",
+      "tip": "Tram 28E hop-on experience popular"
+    },
+    {
+      "port": "Royal Naval Dockyard, Bermuda",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Crystal Caves and beach (EUR 89)",
+      "tip": "Ferry to Hamilton alternative to excursions"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a MSC Cruises Transatlantic cruise cost?",
+      "answer": "MSC Transatlantic repositioning cruises offer exceptional value, with inside cabins from EUR 549-699, balcony cabins EUR 799-999, and suites EUR 1499-1899 for 7-16 night voyages. Prices vary by direction, ship age, and booking timing. Spring eastbound crossings (Europe to Americas) typically cost 10-15% less than autumn westbound. MSC's 'All-In' packages adding drinks, Wi-Fi and gratuities cost EUR 350-500 additional but save EUR 200-400 versus purchasing separately. Yacht Club suites with butler service start at EUR 2500. Children under 18 cruise free when sharing cabin with two adults, paying only port taxes approximately EUR 150-250. Last-minute deals occasionally drop inside cabins to EUR 399."
+    },
+    {
+      "question": "Which MSC Cruises ships sail to Transatlantic?",
+      "answer": "MSC deploys its newest and largest vessels on Transatlantic routes, primarily the MSC World America (2025, 6784 passengers), MSC Seascape (2022, 5877 passengers), and MSC Seaview (2018, 5336 passengers). The MSC Meraviglia (2017) also operates select crossings. These ships feature extensive outdoor promenades, aqua parks with multiple waterslides, Formula 1 simulators, and large theatre venues essential for sea-day entertainment. MSC World America, specifically designed for the Americas market, offers the most comprehensive English-language programming. All feature the distinctive Mediterranean-style décor, international crew, and multilingual announcements characteristic of MSC's European heritage."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "Optimal Transatlantic crossings occur during April-May (eastbound) and October-November (westbound), avoiding winter storms and hurricane seasons. Spring crossings enjoy warming weather and longer daylight hours approaching Europe. Autumn voyages benefit from stable Caribbean conditions and pleasant Mediterranean temperatures upon arrival. March repositionings risk rougher seas; December-January crossings are rare due to holiday programming. May and October offer the smoothest sailing conditions with moderate temperatures (18-24°C). MSC schedules these voyages specifically during shoulder seasons when ships relocate between European summer and Caribbean winter deployments, making these dates fixed annually rather than flexible."
+    },
+    {
+      "question": "What is included?",
+      "answer": "MSC Transatlantic fares include accommodation, all main dining room and buffet meals, theatre entertainment, live music, pool and fitness centre access, and supervised children's programmes. The line's European heritage means coffee, tea, and water with meals are complimentary, though specialty coffees and bar beverages cost extra. Room service incurs delivery charges. Gratuities are not prepaid on European bookings but added automatically for American departures. Unlike premium lines, MSC charges for Wi-Fi, specialty restaurants, and most shore excursions. The 'Easy', 'Easy Plus', and 'All-In' packages bundle popular extras at discounted rates, highly recommended for Transatlantic voyages with numerous consecutive sea days."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "MSC Transatlantic itineraries feature strategic European and Atlantic ports. Western Mediterranean departures use Barcelona, Civitavecchia (Rome), Genoa, or Marseille. Eastern Atlantic calls include Cadiz (for Seville), Lisbon, Funchal (Madeira), and Ponta Delgada (Azores)—the latter two essential for breaking up ocean crossings. American termini are Miami, Port Canaveral (Orlando), or occasionally New York on extended voyages. Some autumn itineraries incorporate Caribbean islands (Jamaica, Colombia, Panama) before Atlantic crossing. Bermuda's Royal Naval Dockyard appears on select routes. These ports were chosen for deep-water harbours accommodating large vessels and efficient passenger turnaround logistics."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure MSC Transatlantic cruises 9-12 months ahead for optimal cabin selection and lowest fares, with inventory releasing approximately 18 months prior. Yacht Club suites and popular balcony categories sell fastest on these limited-availability repositionings. January-March 'Wave Season' brings promotional onboard credit of EUR 100-300. Last-minute bookings (under 60 days) risk limited cabin locations or sellouts, though occasional discounts appear. MSC's 'Cruise Flex' option permits one date change for EUR 50. Group bookings (8+ cabins) require 12+ months advance planning. Consider that Transatlantic flights require coordination—booking cruise early allows flight price monitoring."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "MSC Transatlantic cruises excel for families seeking affordable extended holidays, with complimentary kids clubs for ages 3-17 operating daily until midnight. The line's European multilingual approach suits internationally-minded children. Sea days allow family bonding without port pressure, with extensive sports courts, waterslides, and bowling alleys. However, parents should note that consecutive sea days may challenge younger children accustomed to constant stimulation. Babysitting services cost EUR 10-15/hour. Family cabins and connecting rooms book quickly. Children's programming reduces during school term crossings (October-November, April). The value proposition is exceptional—children under 18 cruise free sharing with two adults, making 14-night crossings remarkably affordable for families."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "MSC's standard cancellation policy charges no penalty until 90 days before departure. Cancellations 89-60 days prior forfeit deposit (typically EUR 250-500 per person); 59-30 days lose 50% of fare; 29-15 days lose 75%; under 15 days forfeit 100%. 'Bella' experience fares offer lowest prices with strictest terms; 'Fantastica' and 'Aurea' experiences permit changes with reduced penalties. Travel insurance is strongly recommended for Transatlantic bookings given flight coordination complexity. MSC's 'Cruise Care' protection costs approximately 8% of fare, covering cancellation for covered reasons and interruption. COVID-19 protocols have transitioned to standard medical policies; testing requirements eliminated. Rebooking credits issued for cruise line-initiated cancellations valid 24 months."
+    }
+  ]
+}

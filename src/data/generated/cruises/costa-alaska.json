@@ -1,0 +1,189 @@
+{
+  "title": "Costa Cruises Alaska Cruises 2026",
+  "intro": "Costa Cruises brings its distinctive Italian hospitality to Alaska's dramatic wilderness, offering a unique Mediterranean-inspired approach to America's Last Frontier. While Costa maintains a modest Alaska presence compared to its Caribbean and Mediterranean strongholds, the line leverages its partnership with Carnival Corporation to provide select Alaska sailings that blend European flair with rugged natural beauty. Passengers experience Costa's signature 'Cruising Italian Style'—think espresso bars, Italian-language announcements, and pasta-making demonstrations—against backdrops of calving glaciers and snow-capped peaks. The line appeals particularly to European travelers seeking Alaska adventures and North American passengers curious about an international cruise experience. Costa's Alaska itineraries typically operate during peak summer months, focusing on classic Inside Passage routes with glacier viewing at Hubbard Glacier or Tracy Arm. The experience differs markedly from mainstream American lines, with multilingual crews, later dining schedules, and a more cosmopolitan onboard atmosphere that attracts a genuinely international passenger mix.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-10 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Costa Luminosa",
+      "Costa Deliziosa"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Vancouver"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 2899
+    },
+    {
+      "season": "July Peak",
+      "inside_eur": 1399,
+      "balcony_eur": 2099,
+      "suite_eur": 3299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Alaska Glacier Experience",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Juneau",
+        "Skagway",
+        "Ketchikan",
+        "Vancouver"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Scenic cruising Tracy Arm Fjord with Sawyer Glacier viewing"
+    },
+    {
+      "name": "10-night Alaska Explorer",
+      "duration_nights": 10,
+      "ports": [
+        "Seattle",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Icy Strait Point",
+        "Hubbard Glacier",
+        "Seward"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "One-way itinerary with pre/post land extension options to Denali"
+    },
+    {
+      "name": "7-night Inside Passage Classic",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Juneau",
+        "Glacier Bay",
+        "Sitka",
+        "Ketchikan",
+        "Vancouver"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Full day in Glacier Bay National Park with park ranger narration"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Luminosa",
+      "capacity": 2260,
+      "year": 2009,
+      "best_for": "Couples and international travelers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Costa Deliziosa",
+      "capacity": 2260,
+      "year": 2010,
+      "best_for": "European families and multigenerational groups",
+      "price_from_eur": 949
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All main dining room meals and buffet access",
+    "Traditional Italian breakfast with pastries and coffee",
+    "Pool access and hot tubs",
+    "Evening entertainment shows and live music",
+    "Kids' club programming (ages 3-17)",
+    "Fitness center access",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (soft drinks €35/day, alcohol €55/day)",
+    "Specialty dining (€25-45 per person)",
+    "Shore excursions (€89-349 per tour)",
+    "Wi-Fi packages (€15-25/day)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Gratuities (€11/day recommended)",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 8-12 months ahead for best cabin selection and early booking discounts of 15-25%. Costa frequently offers 'Super All-Inclusive' packages bundling drinks, Wi-Fi, and gratuities—typically 30% savings versus à la carte. European passengers should book through Costa's continental offices for better pricing; North Americans often find competitive rates through Carnival Corporation's American channels. Consider repositioning cruises in April/May or September for 40% savings, though weather is less predictable. Balcony cabins are essential for Alaska glacier viewing and justify the €400-600 premium.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Mendenhall Glacier & Whale Watching Combo (€189)",
+      "tip": "Book independent operators at dock for 30% savings"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-6pm",
+      "top_activity": "White Pass & Yukon Route Railway (€145)",
+      "tip": "Morning departures offer best lighting for photography"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Misty Fjords Flightseeing (€289)",
+      "tip": "Weather-dependent; book refundable options"
+    },
+    {
+      "port": "Sitka",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Sea Otter & Wildlife Quest (€129)",
+      "tip": "Small boat tours access areas large ships cannot"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "7am-3pm",
+      "top_activity": "World's Longest Ziprider (€159)",
+      "tip": "Limited capacity—reserve before boarding"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Alaska cruise cost?",
+      "answer": "Costa Alaska cruises typically range from €899 to €3,299 depending on season, cabin category, and itinerary length. Inside cabins start around €899 during shoulder season (May/September) and climb to €1,399 in peak July. Balcony accommodations, strongly recommended for glacier viewing, run €1,399-€2,099. Suites with butler service command €2,199-€3,299. Costa's 'Super All-Inclusive' packages add €350-€500 per person but include unlimited drinks, Wi-Fi, and gratuities—often representing 25-30% savings. One-way itineraries between Vancouver and Seward cost €200-€400 more than round-trip Vancouver sailings but enable Denali land extensions. Children typically sail at 50-75% discount when sharing cabins with parents."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Alaska?",
+      "answer": "Costa deploys mid-sized, Panamax-class vessels to Alaska rather than its mega-ships. The Costa Luminosa (2,260 passengers, launched 2009, refurbished 2022) and Costa Deliziosa (2,260 passengers, 2010) are the primary Alaska vessels. Both feature Costa's signature Italian design with marble atriums, Murano glass chandeliers, and extensive spa facilities. These ships offer more intimate glacier viewing than 4,000+ passenger competitors, accessing narrower fjords. Neither carries the line's newest amenities like roller coasters found on flagship classes, but both provide excellent outdoor deck space critical for Alaska scenery. Costa occasionally substitutes sister ships Luminosa-class vessels based on dry-dock schedules. All Alaska ships undergo cold-weather enhancements including heated pool areas and enhanced observation lounges."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "Alaska's cruise season runs May through September, with distinct advantages each month. May offers 25% lower prices, pristine snow coverage on mountains, and peak wildlife migration—humpback whales arrive, bears emerge hungry and active. June provides the longest daylight hours (18+ hours), drier weather statistically, and blooming wildflowers. July delivers warmest temperatures (15-20°C), peak salmon runs attracting bears, and best accessibility to higher elevation hiking—though crowds and prices peak. August brings excellent fishing, ripening berries, and increasing northern lights chances late in month. September offers 30% savings, autumn colors, and peak aurora activity, but weather turns unpredictable with rain and early snow possible. For Costa specifically, June-July sailings sell out 6+ months ahead due to limited ship deployment."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's Alaska cruises include accommodation, all main dining venue meals (breakfast, lunch, dinner), buffet access throughout day, pool and hot tub access, fitness center, evening theater shows, live music in lounges, and supervised kids' club programming. The line's Italian heritage shows in included offerings: morning espresso and pastries, pizza until late evening, and pasta courses at dinner. Not included are beverages beyond water, tea, and basic coffee; alcoholic drinks, specialty coffees, and soft drinks require packages or à la carte payment. Gratuities (recommended €11/day) are extra. Room service incurs fees. Wi-Fi, shore excursions, spa services, specialty restaurants, and laundry are additional. Costa offers 'Super All-Inclusive' fare upgrades bundling drinks, Wi-Fi, and gratuities—recommended for Alaska given limited port time for independent dining."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa's Alaska itineraries focus on the Inside Passage and Gulf of Alaska routes. Round-trip Vancouver sailings visit Juneau (Alaska's capital, Mendenhall Glacier access), Skagway (Gold Rush history, White Pass Railway), and Ketchikan (Totem Bight, Creek Street) with scenic cruising at Tracy Arm or Hubbard Glacier. One-way Vancouver-Seward itineraries add Icy Strait Point (Hoonah, Tlingit culture), Sitka (Russian history, sea otters), and Seward (Kenai Fjords access). Costa ships do not visit Glacier Bay National Park due to limited permits held primarily by Princess and Holland America. Instead, they emphasize Tracy Arm Fjord's Sawyer Glacier and Hubbard Glacier—equally spectacular with more active calving. Victoria BC occasionally substitutes for Canadian content requirements. All itineraries emphasize wildlife viewing opportunities including whale watching, bear viewing, and eagle spotting."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Costa Alaska cruises 8-12 months ahead for optimal results. The line's limited Alaska deployment—typically one ship operating May-September—creates constrained inventory. Best balcony cabins for glacier viewing sell first, often 10+ months out. Early booking yields 15-25% discounts through Costa's 'Primo' rates, plus cabin selection advantages. Last-minute deals under €700 occasionally appear 60-90 days before sailing for flexible travelers accepting interior cabins. However, Alaska's short season and Costa's small fleet make this riskier than Caribbean routes. For peak July sailings or suites, 12+ months is prudent. Group bookings (8+ cabins) require 12-18 months advance planning. Flight arrangements to Vancouver or Seattle also benefit from early booking, particularly for European passengers needing connections. Consider booking 2026 sailings by late 2024 for best value."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa Alaska cruises suit families seeking international cultural exposure alongside wilderness adventure. The line's Squok Club (ages 3-17) operates sea days and port days until early evening, with programming in multiple languages reflecting the international passenger mix. Teen activities include sports tournaments, dance parties, and dedicated lounge spaces. Family cabins accommodating 4-5 passengers are available but limited—book early. The Italian dining schedule (later dinner seatings, 7:30pm/9:30pm) may challenge families with young children accustomed to early American dining times; buffet alternatives help. Shore excursions offer family pricing and kid-friendly options like gold panning, wildlife sanctuaries, and easy nature walks. Multigenerational groups appreciate Costa's appeal across age ranges. However, families seeking extensive water slides, character experiences, or American-style kids' programming may prefer Carnival, Royal Caribbean, or Norwegian's Alaska deployments with more elaborate family infrastructure."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa's Alaska cancellation policy varies by fare type and booking channel. Standard 'Classic' fares: full refund minus €100 administrative fee if cancelled 90+ days before sailing; 50% refund 89-60 days; 25% refund 59-30 days; no refund under 30 days. 'Primo' early booking fares are non-refundable but allow date changes (€150 fee) up to 45 days prior. 'Super All-Inclusive' packages follow base fare rules. Travel insurance is strongly recommended for Alaska given weather-related itinerary changes and medical evacuation costs in remote areas—Costa offers policies covering cancellation, interruption, and medical expenses. Pandemic-related cancellations follow evolving protocols; currently, positive COVID-19 tests before boarding permit future cruise credit. European-booked passengers have stronger consumer protections under EU regulations than North American bookings. Rebooking to a different Costa itinerary typically incurs €75-€150 change fees plus fare differences. Always verify specific terms at booking as policies evolve."
+    }
+  ]
+}

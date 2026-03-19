@@ -1,0 +1,195 @@
+{
+  "title": "Celebrity Cruises Hawaii Cruises 2026",
+  "intro": "Celebrity Cruises elevates your Hawaii experience with sophisticated, modern luxury amid the Pacific's most breathtaking archipelago. Their premium approach combines contemporary design with authentic Hawaiian cultural immersion, from onboard luaus crafted by local chefs to enrichment programs featuring native storytellers and hula masters. The line's signature 'Nothing Comes Close' service ensures intimate, personalized voyages where you wake to volcanic coastlines from your Infinite Veranda stateroom. Celebrity's Hawaii itineraries uniquely blend extended port stays with sea days designed for rejuvenation at The Spa or culinary exploration at over 10 specialty restaurants. With smaller passenger counts than mass-market competitors, you'll enjoy uncrowded deck spaces perfect for whale watching and sunset ceremonies. Their commitment to sustainable tourism aligns with Hawaii's ecological values, employing advanced waste systems and shore power connections. For discerning travelers seeking refinement without formality, Celebrity delivers an unparalleled island-hopping experience.",
+  "quick_facts": {
+    "price_from_eur": 1199,
+    "duration_range": "10-15 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Celebrity Solstice",
+      "Celebrity Eclipse"
+    ],
+    "departure_ports": [
+      "Honolulu",
+      "Vancouver",
+      "Los Angeles"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Oct)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 1599,
+      "balcony_eur": 2199,
+      "suite_eur": 3899
+    },
+    {
+      "season": "Summer (Jun-Aug)",
+      "inside_eur": 1399,
+      "balcony_eur": 1899,
+      "suite_eur": 3299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Hawaiian Islands",
+      "duration_nights": 10,
+      "ports": [
+        "Honolulu",
+        "Kahului",
+        "Hilo",
+        "Kailua-Kona",
+        "Nawiliwili"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Overnight in Honolulu and extended Maui stay"
+    },
+    {
+      "name": "12-night Hawaii & South Pacific Crossing",
+      "duration_nights": 12,
+      "ports": [
+        "Vancouver",
+        "Hilo",
+        "Kailua-Kona",
+        "Honolulu"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Scenic Pacific navigation with four sea days"
+    },
+    {
+      "name": "15-night Circle Hawaii",
+      "duration_nights": 15,
+      "ports": [
+        "Los Angeles",
+        "Hilo",
+        "Honolulu",
+        "Kahului",
+        "Nawiliwili",
+        "Kailua-Kona",
+        "Ensenada"
+      ],
+      "price_from_eur": 1799,
+      "highlight": "Complete archipelago exploration with Mexican Riviera stop"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Solstice",
+      "capacity": 2850,
+      "year": 2008,
+      "refurbished": 2021,
+      "best_for": "Couples & culinary enthusiasts",
+      "price_from_eur": 1199,
+      "signature_features": "Lawn Club real grass deck, glass-blowing studio, Tuscan Grille"
+    },
+    {
+      "name": "Celebrity Eclipse",
+      "capacity": 2850,
+      "year": 2010,
+      "refurbished": 2020,
+      "best_for": "Adults seeking relaxation",
+      "price_from_eur": 1249,
+      "signature_features": "Solarium adults-only retreat, Qsine molecular gastronomy, iTake video editing studio"
+    }
+  ],
+  "whats_included": [
+    "Accommodation in stateroom of choice",
+    "Main dining room breakfast, lunch & dinner",
+    "Oceanview Café buffet",
+    "Poolside grill & pizza",
+    "Most non-alcoholic beverages",
+    "Fitness center & pools",
+    "Evening entertainment & theater shows",
+    "Kids' club programming",
+    "Port taxes & fees",
+    "Celebrity's 'Always Included' basic WiFi, classic beverage package & gratuities"
+  ],
+  "whats_extra": [
+    "Specialty restaurants ($35-75 per person)",
+    "Shore excursions ($89-349)",
+    "Spa treatments & salon services",
+    "Casino gaming",
+    "Premium WiFi upgrade",
+    "Laundry & dry cleaning",
+    "Photography services",
+    "Airfare & pre/post hotel stays",
+    "Travel insurance"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal cabin selection, particularly for balcony staterooms facing the volcanic coastlines. Wave Season (January-March) typically offers the strongest promotions including onboard credit and beverage package upgrades. Consider repositioning cruises in April and October for 20-30% savings. Loyalty members (Captain's Club) access exclusive pre-sales. Solo travelers should watch for reduced single supplement offers, traditionally released 6 months prior to sailing.",
+  "top_ports": [
+    {
+      "port": "Honolulu, Oahu",
+      "time_in_port": "7am-6pm (overnight on select sailings)",
+      "top_activity": "Pearl Harbor USS Arizona Memorial ($89)",
+      "tip": "Extend with Waikiki beach time; taxi to Diamond Head cheaper than ship excursions"
+    },
+    {
+      "port": "Kahului, Maui",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Road to Hana luxury van tour ($249)",
+      "tip": "Book independently for smaller groups; Haleakala sunrise requires 2am departure"
+    },
+    {
+      "port": "Hilo, Hawaii Island",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Volcanoes National Park helicopter flight ($449)",
+      "tip": "Rainforest side—pack layers; Akaka Falls accessible via $40 taxi"
+    },
+    {
+      "port": "Kailua-Kona, Hawaii Island",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Manta ray night snorkel ($189)",
+      "tip": "Walkable waterfront; Kona coffee farm tours best booked direct"
+    },
+    {
+      "port": "Nawiliwili, Kauai",
+      "time_in_port": "8am-2pm",
+      "top_activity": "Na Pali Coast catamaran cruise ($219)",
+      "tip": "Shortest port time—pre-book expedited excursions; Waimea Canyon worth the drive"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Hawaii cruise cost?",
+      "answer": "Celebrity Cruises Hawaii voyages typically range from €1,199 for interior staterooms on shoulder-season 10-night sailings to €3,899+ for suites during December holidays. Balcony accommodations, essential for Hawaii's scenic cruising, average €1,699-€2,199. The line's 'Always Included' fare structure bundles gratuities, basic WiFi, and a classic beverage package, providing better value than base-plus-a-la-carte competitors. Repositioning crossings from Vancouver offer 20-30% savings versus round-trip Honolulu departures."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Hawaii?",
+      "answer": "Celebrity deploys Solstice-class vessels for Hawaii, primarily Celebrity Solstice and Celebrity Eclipse. These 2,850-guest ships offer ideal size—intimate enough for personalized service yet substantial for diverse amenities. Both feature the signature Lawn Club with real grass, dedicated spa facilities, and multiple specialty dining venues. The line rotates ships seasonally, with Solstice typically handling winter/spring Hawaii seasons while Eclipse covers fall repositioning. No Edge-series ships currently operate Hawaii routes due to deployment priorities."
+    },
+    {
+      "question": "When is best time to cruise Hawaii?",
+      "answer": "April-May and September-October deliver optimal conditions: pleasant 24-28°C temperatures, minimal rainfall, and calmer seas for scenic cruising. These shoulder months avoid both summer crowds and winter's Pacific storms. Whale watching peaks January-March, though seas can be rougher. Summer offers most reliable itineraries but higher prices and humidity. Celebrity's limited Hawaii deployment means booking 9-12 months ahead regardless of season, with April repositioning cruises offering exceptional value for flexible travelers."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's 'Always Included' program covers accommodations, main dining, buffet meals, standard beverages (sodas, juices, select beers and wines), basic WiFi, and gratuities. Pool access, fitness center, and most entertainment are complimentary. Specialty dining, premium spirits, spa services, shore excursions, and upgraded internet incur additional charges. Suite guests receive additional inclusions: premium drinks, streaming WiFi, and onboard credit. Unlike ultra-luxury lines, airfare and transfers remain separate purchases."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Hawaii itineraries typically visit Honolulu (Oahu) for Pearl Harbor and Waikiki; Kahului (Maui) for Haleakala and Road to Hana; Hilo (Hawaii Island) for Volcanoes National Park; Kailua-Kona for coffee farms and manta rays; and Nawiliwili (Kauai) for Na Pali Coast. Some sailings include Ensenada, Mexico for regulatory compliance. Port times vary significantly—Kauai often receives abbreviated stays while Maui and Honolulu enjoy extended or overnight calls, shaping excursion planning priorities."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Hawaii bookings 9-12 months in advance, particularly for balcony staterooms on port-side (volcano-view) decks. Celebrity releases itineraries 18 months ahead; early booking secures preferred dining times and excursion availability. Wave Season (January-March) brings promotional pricing for subsequent year sailings. Last-minute deals under €999 occasionally appear 60-90 days prior for interior cabins, though Hawaii's limited deployment makes these rare. Captain's Club members access pre-sales 48 hours before public release."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity suits families with children 6+ rather than toddlers, offering Camp at Sea programming divided by age (3-5, 6-9, 10-12, 13-17). Hawaii's educational value—volcanology, marine biology, Polynesian culture—resonates with school-age children. However, the sophisticated atmosphere and limited water slides compared to Royal Caribbean or Disney may disappoint younger kids. Family veranda staterooms accommodate four; connecting rooms should be booked early. Teen facilities include dedicated XClub lounges and supervised shore excursions."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity's standard policy permits full refund minus deposit if cancelled 90+ days before sailing; 50% refund 89-60 days; 75% penalty 59-30 days; and no refund under 30 days. 'Cruise with Confidence' flexible bookings (nominal surcharge) allow cancellation for any reason up to 48 hours prior with future cruise credit. Travel insurance through Celebrity or independent providers covers medical emergencies and trip interruption—strongly recommended given Hawaii's remote location and potential weather disruptions affecting flights to departure ports."
+    }
+  ]
+}

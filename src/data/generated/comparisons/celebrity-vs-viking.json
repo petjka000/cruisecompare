@@ -1,0 +1,156 @@
+{
+  "title": "Celebrity Cruises vs Viking Cruises 2026",
+  "intro": "Celebrity Cruises and Viking Cruises represent two distinct philosophies in premium cruising. Celebrity blends contemporary resort-style cruising with modern luxury, targeting diverse demographics including families and couples. Viking pioneered destination-focused river and ocean cruising with an adults-only, culturally immersive approach. Both operate in the mid-to-upper premium segment, yet differ fundamentally: Celebrity emphasizes entertainment, innovative ship design, and broad appeal, while Viking prioritizes understated elegance, enrichment programming, and inclusive value. Understanding these core distinctions helps travellers select the experience matching their priorities, whether seeking vibrant onboard energy or tranquil, educational voyages through carefully curated itineraries worldwide.",
+  "at_a_glance": {
+    "celebrity": {
+      "price_tier": "mid-premium",
+      "avg_7night_inside_eur": 899
+    },
+    "viking": {
+      "price_tier": "mid-premium",
+      "avg_7night_inside_eur": 2790
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Average 7-night fare (inside)",
+      "celebrity": "€899",
+      "viking": "€2,790"
+    },
+    {
+      "category": "Average 7-night fare (balcony)",
+      "celebrity": "€1,299",
+      "viking": "€3,490"
+    },
+    {
+      "category": "Drinks included",
+      "celebrity": "Pay-as-you-go or packages from €65/day",
+      "viking": "All-inclusive (wine, beer, spirits)"
+    },
+    {
+      "category": "WiFi",
+      "celebrity": "€18/day or packages",
+      "viking": "Complimentary"
+    },
+    {
+      "category": "Gratuities",
+      "celebrity": "€16/day auto-added",
+      "viking": "Included in fare"
+    },
+    {
+      "category": "Shore excursions",
+      "celebrity": "Pay-per-excursion (€59-€299)",
+      "viking": "One complimentary per port"
+    },
+    {
+      "category": "Specialty dining",
+      "celebrity": "€35-€75 per person",
+      "viking": "No extra charge (all dining included)"
+    },
+    {
+      "category": "Guest age policy",
+      "celebrity": "6 months+ (family-friendly)",
+      "viking": "18+ only"
+    },
+    {
+      "category": "Typical ship capacity",
+      "celebrity": "2,900-3,200 (Edge class)",
+      "viking": "930 (ocean), 190 (river)"
+    },
+    {
+      "category": "Entertainment style",
+      "celebrity": "Broadway-style shows, live music, casinos",
+      "viking": "Classical concerts, enrichment lectures, no casino"
+    },
+    {
+      "category": "Dress code evenings",
+      "celebrity": "Evening Chic (smart casual to formal)",
+      "viking": "Elegant casual (no formal nights)"
+    },
+    {
+      "category": "Stateroom size (standard balcony)",
+      "celebrity": "18-23 sqm",
+      "viking": "25-27 sqm"
+    }
+  ],
+  "choose_a_if": [
+    "You want vibrant nightlife, casinos, and Broadway-calibre entertainment",
+    "You're travelling with children or multi-generational family groups",
+    "You prefer larger ships with extensive facilities (surf simulators, multiple pools)",
+    "You enjoy formal nights and glamorous evening dress codes",
+    "You want flexible dining with numerous specialty restaurant options",
+    "You're seeking contemporary resort-style atmosphere with buzz and energy"
+  ],
+  "choose_b_if": [
+    "You value genuinely all-inclusive pricing without surprise extras",
+    "You prefer adults-only environment with no children onboard",
+    "You prioritize cultural immersion and destination-focused itineraries",
+    "You want included shore excursions in every port",
+    "You appreciate understated Scandinavian design and tranquillity",
+    "You seek enrichment through lectures, cooking classes, and local performances",
+    "You dislike casinos, formal nights, and large crowds"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with children",
+      "winner": "Celebrity Cruises",
+      "reason": "Kids' clubs from 3 years, family suites, waterparks on Edge class, and flexible dining accommodate families perfectly. Viking's 18+ policy excludes children entirely."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Tie",
+      "reason": "Celebrity offers intimate dining at Eden and rooftop terraces; Viking provides serene, uncrowded ambiance. Choice depends on preference for energy versus tranquillity."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Viking Cruises",
+      "reason": "No single supplement on many sailings, included excursions facilitate socialising, and intimate ships foster community. Celebrity charges significant solo premiums."
+    },
+    {
+      "type": "Culture enthusiasts",
+      "winner": "Viking Cruises",
+      "reason": "Destination-focused programming, included excursions, onboard historians, and extended port times prioritise authentic cultural engagement over onboard entertainment."
+    },
+    {
+      "type": "Food and wine lovers",
+      "winner": "Tie",
+      "reason": "Celebrity's Michelin-starred chef partnerships and diverse specialty venues compete with Viking's regionally inspired menus and complimentary wine pairings. Both excel differently."
+    },
+    {
+      "type": "Budget-conscious travellers",
+      "winner": "Celebrity Cruises",
+      "reason": "Lower entry fares and promotional offers suit those comfortable managing onboard spending. Viking's upfront pricing appears higher despite inclusions."
+    },
+    {
+      "type": "Accessibility needs",
+      "winner": "Celebrity Cruises",
+      "reason": "Larger ships offer more adapted cabins, comprehensive medical facilities, and established accessibility programmes. Viking's smaller vessels have limited adapted accommodations."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "True value depends on spending habits. Viking's higher upfront fare (€2,790+ for 7 nights) includes drinks, WiFi, gratuities, one excursion per port, and all dining—typically worth €800-€1,200 extras on Celebrity. Celebrity's lower base fare (€899 inside) suits disciplined budgeters who avoid packages. For inclusive peace of mind, Viking delivers superior value; for flexibility and promotional pricing, Celebrity wins. Calculate total expected spend: Celebrity balcony passengers averaging €150 daily in extras approach Viking's all-inclusive pricing without equivalent inclusions."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Celebrity exclusively accommodates families, offering Camp at Sea (3-12 years), XClub teens, family-connected staterooms, and Edge-class ships with waterparks and kids' pools. Children's pricing and intergenerational programming make multigenerational travel seamless. Viking's strict 18+ policy prohibits children entirely, designed intentionally for adult travellers seeking sophistication without family-oriented distractions. Families must choose Celebrity; couples seeking child-free environments prefer Viking's guaranteed adult atmosphere."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Celebrity's advertised fares appear significantly lower: inside cabins from €899, balconies from €1,299 for 7 nights. Viking's ocean cruises start at €2,790 (balcony only, no inside cabins). However, Viking includes beverages, WiFi, gratuities, and excursions worth approximately €1,100-€1,400 on Celebrity. Celebrity's final spend typically reaches €2,000-€2,500 with moderate package purchases. River cruise comparisons differ further: Viking's European river cruises (€2,190-€3,500) compete with Celebrity's limited river offerings through joint ventures. Always compare total trip costs, not brochure prices."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Both excel in distinct ways. Celebrity partners with Michelin-starred chefs (Daniel Boulud) offering diverse venues from raw bars to fine dining, though specialty restaurants incur surcharges. Main dining quality varies by ship age. Viking provides consistent, high-quality cuisine across all venues without extra charges, emphasizing regional authenticity—Norwegian seafood in Bergen, Provençal dishes in Marseille. Viking's smaller galleys limit variety but ensure freshness. Foodies prioritising variety and theatrical presentation prefer Celebrity; those valuing consistency, inclusion, and cultural authenticity favour Viking. Both significantly exceed mass-market standards."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Celebrity suits first-timers seeking familiar cruise conventions—casinos, shows, multiple dining venues, and vibrant atmosphere—easing transition from land resorts. Larger ships provide extensive facilities and entertainment options. Viking appeals to first-timers prioritising simplicity: no tipping decisions, no drink package calculations, no formal night anxiety, and intuitive, uncrowded ship layouts. Viking's inclusive model eliminates common first-timer stress about unexpected costs. Choose Celebrity for classic cruise experience; Viking for refined, hassle-free introduction to premium cruising. Both offer excellent service standards reassuring novice cruisers."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental distinctions include: demographic policy (Celebrity all-ages, Viking adults-only); pricing structure (Celebrity à la carte, Viking inclusive); ship size (Celebrity 2,900-3,200 guests, Viking 930 ocean/190 river); entertainment philosophy (Celebrity's production shows and casinos versus Viking's enrichment and cultural performances); and design aesthetic (Celebrity's contemporary resort glamour versus Viking's Scandinavian minimalism). Itinerary focus differs too: Celebrity balances sea days with ports; Viking maximises destination time with overnight stays. These structural differences create genuinely distinct experiences despite both occupying premium market positioning."
+    }
+  ]
+}

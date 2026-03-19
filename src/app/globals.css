@@ -1,26 +1,38 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ── Custom design tokens ───────────────────────────────────── */
+@theme {
+  /* Marine blue palette */
+  --color-navy:     #0A1B3D;
+  --color-marine:   #1B6FA8;
+  --color-ocean:    #5DADE2;
+  --color-coral:    #e8593c;
+  --color-seafoam:  #1a8a7d;
+  --color-sand:     #faf8f5;
+  --color-bluegray: #5a6d80;
+
+  /* Typography */
+  --font-serif: var(--font-dm-serif);
+  --font-sans:  var(--font-dm-sans);
+  --font-mono:  var(--font-geist-mono);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  --background: #faf8f5;
+  --foreground: #1a1a2e;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Smooth transitions on interactive elements */
+a, button {
+  transition: opacity 0.15s ease, transform 0.15s ease;
 }

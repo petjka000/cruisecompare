@@ -1,0 +1,194 @@
+{
+  "title": "Regent Seven Seas Hawaii Cruises 2026",
+  "intro": "Regent Seven Seas Cruises elevates Hawaii exploration to unprecedented luxury levels with their all-inclusive, all-suite voyages. Unlike mass-market alternatives, Regent delivers an intimate, sophisticated experience where virtually every aspect of your journey is included—from unlimited shore excursions to premium wines and spirits. Their smaller, elegant ships navigate Hawaiian waters with grace, accessing ports larger vessels cannot reach. The line's commitment to destination immersion means extended stays in Honolulu, Maui, Kauai, and the Big Island, allowing genuine cultural connection. With spacious suites featuring private balconies, personalized butler service, and world-class cuisine at no extra charge, Regent transforms Hawaii cruising from vacation into transformative travel. For discerning travelers seeking the ultimate Hawaiian escape without compromise, Regent Seven Seas represents the pinnacle of ocean cruising excellence.",
+  "quick_facts": {
+    "price_from_eur": 6490,
+    "duration_range": "10-18 nights",
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Apr",
+      "May"
+    ],
+    "ships_on_route": [
+      "Seven Seas Explorer",
+      "Seven Seas Navigator"
+    ],
+    "departure_ports": [
+      "Los Angeles",
+      "San Francisco",
+      "Honolulu"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Nov)",
+      "inside_eur": 0,
+      "balcony_eur": 6490,
+      "suite_eur": 8490
+    },
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 0,
+      "balcony_eur": 8290,
+      "suite_eur": 11290
+    },
+    {
+      "season": "Summer (Jun-Aug)",
+      "inside_eur": 0,
+      "balcony_eur": 7490,
+      "suite_eur": 9890
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Hawaiian Paradise",
+      "duration_nights": 12,
+      "ports": [
+        "Honolulu",
+        "Kahului",
+        "Hilo",
+        "Kona",
+        "Nawiliwili",
+        "Honolulu"
+      ],
+      "price_from_eur": 7490,
+      "highlight": "Overnights in Honolulu and Maui with complimentary luau excursion"
+    },
+    {
+      "name": "Polynesian Discovery",
+      "duration_nights": 16,
+      "ports": [
+        "Los Angeles",
+        "Hilo",
+        "Kona",
+        "Kahului",
+        "Honolulu",
+        "Nawiliwili",
+        "Los Angeles"
+      ],
+      "price_from_eur": 9890,
+      "highlight": "Round-trip California with four Hawaiian islands"
+    },
+    {
+      "name": "Hawaii & South Pacific",
+      "duration_nights": 18,
+      "ports": [
+        "Honolulu",
+        "Nawiliwili",
+        "Kahului",
+        "Hilo",
+        "Bora Bora",
+        "Moorea",
+        "Papeete"
+      ],
+      "price_from_eur": 12490,
+      "highlight": "Ultimate island-hopping combining Hawaii with French Polynesia"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Explorer",
+      "capacity": 750,
+      "year": 2016,
+      "best_for": "Luxury connoisseurs",
+      "price_from_eur": 7490
+    },
+    {
+      "name": "Seven Seas Navigator",
+      "capacity": 490,
+      "year": 1999,
+      "refurbished": 2019,
+      "best_for": "Intimate luxury seekers",
+      "price_from_eur": 6490
+    }
+  ],
+  "whats_included": [
+    "All-suite accommodation with private balcony",
+    "Unlimited shore excursions",
+    "All dining including specialty restaurants",
+    "Premium wines and spirits",
+    "Gratuities",
+    "WiFi",
+    "Roundtrip business class air on intercontinental flights",
+    "Ground transfers",
+    "Pre-cruise hotel night",
+    "Valet laundry service"
+  ],
+  "whats_extra": [
+    "Spa treatments",
+    "Premium excursions (Regent Choice)",
+    "Casino gaming",
+    "Boutique purchases",
+    "Photography services",
+    "Medical services"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for optimal suite selection and early booking savings up to 25%",
+  "top_ports": [
+    {
+      "port": "Honolulu",
+      "time_in_port": "7am-6pm (overnight on select sailings)",
+      "top_activity": "Pearl Harbor & USS Arizona Memorial (included)",
+      "tip": "Extend with overnight to experience Waikiki nightlife"
+    },
+    {
+      "port": "Kahului (Maui)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Road to Hana scenic drive (included)",
+      "tip": "Request morning departure to avoid afternoon rain"
+    },
+    {
+      "port": "Nawiliwili (Kauai)",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Waimea Canyon helicopter tour ($449 Regent Choice)",
+      "tip": "Book pre-cruise for guaranteed availability"
+    },
+    {
+      "port": "Hilo (Big Island)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Hawaii Volcanoes National Park (included)",
+      "tip": "Morning tours offer clearest views of Kilauea"
+    },
+    {
+      "port": "Kona (Big Island)",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Kona coffee plantation tour (included)",
+      "tip": "Tender port—book early dining for relaxed evening"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Hawaii cruise cost?",
+      "answer": "Regent Seven Seas Hawaii cruises typically range from €6,490 to €18,000+ per person for 10-18 night voyages. All-suite accommodation starts at approximately €6,490 in Veranda Suites during shoulder seasons, rising to €8,290-€11,290 during peak winter months. Penthouse Suites command €12,000-€18,000, while Master Suites exceed €35,000. These prices represent exceptional value as they include business class flights, unlimited excursions, all beverages, gratuities, and pre-cruise hotel—eliminating typical cruise hidden costs. Early booking incentives and past guest savings can reduce fares by 10-25%."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Hawaii?",
+      "answer": "Regent Seven Seas deploys Seven Seas Explorer and Seven Seas Navigator on Hawaii routes. Seven Seas Explorer, the line's flagship launched 2016, carries 750 guests in unmatched elegance with the largest average suite size at sea and stunning marble-clad public spaces. Seven Seas Navigator, more intimate at 490 guests, underwent comprehensive 2019 refurbishment and excels at accessing smaller Hawaiian ports. Both vessels feature all-suite, all-balcony accommodation, multiple dining venues including Chartreuse and Prime 7, and Canyon Ranch SpaClub facilities. Their modest size enables extended port stays and tender operations unavailable to larger ships."
+    },
+    {
+      "question": "When is best time to cruise Hawaii?",
+      "answer": "September through November and April through May offer optimal Regent Seven Seas Hawaii cruising conditions with pleasant 24-29°C temperatures, reduced rainfall, and lower fares than peak winter. September and October particularly deliver calm seas ideal for tender ports like Kona. December through March brings humpback whale migration—spectacular wildlife viewing despite higher prices and occasional winter swells. June through August offers reliable sunshine but coincides with school holidays and premium pricing. Regent's extended port stays mitigate weather variability, though November-April rain showers typically pass quickly on Hawaii's leeward coasts where ships predominantly dock."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent Seven Seas Hawaii cruises include virtually everything: spacious suite accommodation with private balcony and butler service in categories above entry level; unlimited shore excursions in every port from cultural tours to active adventures; all dining across multiple venues including specialty restaurants without surcharge; unlimited premium wines, spirits, and beverages; prepaid gratuities for all staff; unlimited WiFi; roundtrip business class air on intercontinental flights; ground transfers between airport, hotel, and ship; one-night pre-cruise luxury hotel stay; and valet laundry service. This comprehensive inclusion model eliminates onboard spending decisions and delivers genuine value despite higher upfront pricing compared to mainstream alternatives."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent Seven Seas Hawaii itineraries encompass Oahu's Honolulu for Pearl Harbor and Waikiki; Maui's Kahului serving Road to Hana, Haleakala, and Lahaina; Kauai's Nawiliwili accessing Waimea Canyon and Napali Coast; and Big Island's dual ports—Hilo for Hawaii Volcanoes National Park and Kona for coffee culture and historic sites. Some voyages include Hilo and Kona sequentially, while others feature overnight Honolulu stays. Extended 16-18 night sailings from California add Ensenada or San Diego stops, and South Pacific combinations incorporate Bora Bora, Moorea, and Tahiti. Regent's smaller ships access Nawiliwili and Kona (tender) where larger vessels cannot operate."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Regent Seven Seas Hawaii cruises 12-18 months in advance for optimal results. The line releases itineraries approximately 18-24 months ahead, and popular suite categories—particularly Penthouse and above with butler service—sell rapidly for Hawaii's limited sailing windows. Early booking yields maximum savings through Regent's Early Booking Savings program, typically 10-20% off brochure fares. Deposit requirements are 15-25% with final payment due 120-150 days pre-departure. Last-minute availability occasionally emerges 60-90 days out, though suite selection becomes severely constrained. For specific anniversary dates, holiday periods, or multi-generational travel, 18-month advance planning ensures preferred accommodations and dining reservations."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas Hawaii cruises accommodate families exceptionally well despite the line's adult-oriented positioning. Children aged 2-17 sail complimentary when occupying third berth in suite—extraordinary value given inclusive pricing. While no dedicated children's facilities exist, Hawaii's natural wonders engage all ages: volcano exploration, snorkeling, marine life encounters, and cultural activities. The all-inclusive model eliminates family budgeting conflicts, and suite configurations with separate sleeping areas provide essential space. Regent's relaxed pace suits multi-generational groups, though families with very young children should note limited childcare services. Shore excursions include family-appropriate options, and flexible dining accommodates varying schedules. Teen engagement may require self-directed activity given the sophisticated onboard atmosphere."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas maintains structured cancellation terms: 151+ days before departure incurs €150 administrative fee per person; 150-121 days costs 25% of cruise fare; 120-91 days costs 50%; 90-76 days costs 75%; and 75 days or less forfeits 100% with no refund. These penalties apply to cruise fare only—air supplements, hotel nights, and other components carry separate terms. Travel insurance is strongly recommended given substantial advance payment requirements and penalty escalation. Regent's optional Cancel For Any Reason protection, available at booking, provides future cruise credit for cancellations outside standard policy terms. Pandemic-related flexibility policies may temporarily modify standard terms—verify current conditions at booking."
+    }
+  ]
+}

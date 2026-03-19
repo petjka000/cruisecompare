@@ -1,0 +1,223 @@
+{
+  "title": "Oceania Cruises Indian Ocean Cruises 2026",
+  "intro": "Oceania Cruises elevates Indian Ocean exploration through its signature blend of destination immersion and refined luxury. Operating smaller, more intimate vessels than mass-market competitors, the line delivers extended port stays and overnight calls in iconic destinations like Mumbai, Colombo, and the Seychelles. The Indian Ocean itineraries emphasize cultural authenticity, featuring curated shore excursions to ancient temples, spice plantations, and UNESCO World Heritage sites. Oceania's acclaimed culinary program, with menus crafted by Master Chef Jacques Pépin, incorporates regional flavours from Kerala to Zanzibar. The line's mid-sized ships navigate where larger vessels cannot, accessing secluded Maldivian atolls and lesser-known Sri Lankan harbours. With enrichment lectures, cooking classes, and a country-club casual atmosphere, Oceania attracts discerning travellers seeking substance alongside sophistication. The 2026 season represents the line's most comprehensive Indian Ocean deployment to date.",
+  "quick_facts": {
+    "price_from_eur": 2899,
+    "duration_range": "10-24 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Nautica",
+      "Insignia",
+      "Sirena"
+    ],
+    "departure_ports": [
+      "Singapore",
+      "Dubai",
+      "Mumbai",
+      "Cape Town"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/Mar)",
+      "inside_eur": 2899,
+      "balcony_eur": 4199,
+      "suite_eur": 6899
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 3499,
+      "balcony_eur": 5199,
+      "suite_eur": 8499
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 4599,
+      "balcony_eur": 6899,
+      "suite_eur": 11299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Mysteries of India & Arabia",
+      "duration_nights": 20,
+      "ports": [
+        "Dubai",
+        "Muscat",
+        "Mumbai",
+        "Goa",
+        "Cochin",
+        "Colombo",
+        "Malé"
+      ],
+      "price_from_eur": 4899,
+      "highlight": "Overnight in Mumbai with exclusive Bollywood studio tour"
+    },
+    {
+      "name": "Seas of Sinbad",
+      "duration_nights": 14,
+      "ports": [
+        "Singapore",
+        "Phuket",
+        "Colombo",
+        "Cochin",
+        "Mumbai"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Three days in Kerala backwaters with houseboat experience"
+    },
+    {
+      "name": "African & Indian Ocean Explorer",
+      "duration_nights": 24,
+      "ports": [
+        "Cape Town",
+        "Durban",
+        "Maputo",
+        "Nosy Be",
+        "Mahé",
+        "Praslin",
+        "Mombasa",
+        "Zanzibar"
+      ],
+      "price_from_eur": 6299,
+      "highlight": "Rare Seychelles archipelago circumnavigation with beach BBQ"
+    },
+    {
+      "name": "Eastern Gems",
+      "duration_nights": 12,
+      "ports": [
+        "Singapore",
+        "Langkawi",
+        "Phuket",
+        "Port Blair",
+        "Colombo",
+        "Cochin"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Andaman Islands tribal culture encounter with anthropologist guide"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "best_for": "Intimate destination immersion",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Insignia",
+      "capacity": 670,
+      "year": 1998,
+      "best_for": "World cruise segments",
+      "price_from_eur": 3199
+    },
+    {
+      "name": "Sirena",
+      "capacity": 670,
+      "year": 1999,
+      "best_for": "Culinary-focused travellers",
+      "price_from_eur": 2999
+    }
+  ],
+  "whats_included": [
+    "Unlimited internet",
+    "All specialty dining",
+    "Beverages including champagne and wine with lunch and dinner",
+    "Shore excursions credit (EUR 800 per suite)",
+    "Pre-paid gratuities",
+    "Airport transfers",
+    "Laundry service",
+    "Fitness classes",
+    "Enrichment lectures and cooking demonstrations"
+  ],
+  "whats_extra": [
+    "Premium spirits and reserve wines",
+    "Spa treatments and salon services",
+    "Additional shore excursions beyond credit",
+    "Airfare unless promotional package selected",
+    "Travel insurance",
+    "Visa fees",
+    "Laundry valet for express service",
+    "Private car and driver arrangements"
+  ],
+  "booking_strategy": "Oceania's Indian Ocean inventory releases 18-24 months ahead; secure balcony cabins 12-18 months prior for best selection. Wave Season (January-March) offers strongest incentives including free airfare, shore excursion credits, and cabin upgrades. Past guests receive 10-15% savings through Oceania Club. Consider back-to-back segments for reduced per-night pricing. Final payment due 90 days prior; reprice if fares drop before this deadline.",
+  "top_ports": [
+    {
+      "port": "Mumbai (Bombay)",
+      "time_in_port": "7am-6pm (overnight on select voyages)",
+      "top_activity": "Private Dharavi slum tour with social enterprise guide (EUR 129)",
+      "tip": "Request port-side cabin for Gateway of India views"
+    },
+    {
+      "port": "Colombo",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Sigiriya Rock Fortress helicopter excursion (EUR 899)",
+      "tip": "Traffic delays common; book afternoon flights cautiously"
+    },
+    {
+      "port": "Cochin (Kochi)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Kathakali dance lesson and dinner in heritage home (EUR 189)",
+      "tip": "Mattancherry Palace closes Fridays; verify schedule"
+    },
+    {
+      "port": "Malé",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Private sandbank champagne breakfast by dhoni boat (EUR 349)",
+      "tip": "Limited dock space; tender operations weather-dependent"
+    },
+    {
+      "port": "Mahé (Seychelles)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Vallée de Mai UNESCO forest with coco de mer (EUR 149)",
+      "tip": "Sunday closures affect Victoria market; plan accordingly"
+    },
+    {
+      "port": "Zanzibar",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Spice farm tour with Swahili cooking class (EUR 169)",
+      "tip": "Stone Town walking tour requires modest dress; shoulders covered"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Indian Ocean cruise cost?",
+      "answer": "Oceania Cruises Indian Ocean voyages range from EUR 2,899 for 10-night shoulder-season itineraries in balcony cabins to EUR 11,299 for Owner's Suites during holiday departures. Entry-level Inside staterooms start around EUR 2,899, though Oceania heavily incentivizes balcony upgrades. The 20-night Mysteries of India & Arabia typically prices between EUR 4,899-6,499 depending on season. All fares include specialty dining, standard beverages, and internet, distinguishing Oceania from premium competitors with substantial onboard spending. Wave Season promotions frequently add free economy airfare valued at EUR 1,200-1,800 and shore excursion credits of EUR 400-800 per stateroom."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Indian Ocean?",
+      "answer": "Oceania deploys its 670-guest R-class vessels for Indian Ocean operations: Nautica, Insignia, and Sirena. These intimate ships access ports unavailable to larger vessels, including the Andaman Islands and smaller Seychelles islands. Nautica leads 2026 deployment with four dedicated Indian Ocean itineraries. Insignia offers Indian Ocean segments as part of its 180-day world cruise, with 20-30 night sectors bookable independently. Sirena emphasizes culinary programming with enhanced cooking school facilities. All three vessels underwent significant 2019-2022 renovations, introducing Oceania's signature Aquamar Spa and expanded terrace café dining. The line's larger 1,200-guest O-class ships do not currently operate Indian Ocean routes."
+    },
+    {
+      "question": "When is best time to cruise Indian Ocean?",
+      "answer": "Optimal Indian Ocean cruising occurs November through March, coinciding with dry northeast monsoon conditions. December through February delivers most reliable weather with minimal rainfall, calm seas, and temperatures of 26-32°C. November and March offer shoulder-season pricing with generally favourable conditions, though occasional afternoon thunderstorms occur. April-May brings rising humidity and pre-monsoon unsettled weather; Oceania typically redeploys vessels elsewhere. June-October represents southwest monsoon with heavy rainfall, rough seas, and limited cruise operations. The Seychelles remains viable year-round due to microclimate variations. Zanzibar and Mombasa peak in January-Fbruary when whale shark encounters are possible."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Indian Ocean fares encompass substantially more than premium competitors. All specialty restaurants—Jacques, Toscana, Polo Grill, and Red Ginger—carry no surcharge. Standard beverage package includes unlimited champagne, wine, and spirits during lunch and dinner service, plus unlimited still and sparkling water, coffees, and teas throughout the day. Unlimited WiFi supports streaming quality. Each stateroom receives shore excursion credit (EUR 400-800 depending on voyage length). Pre-paid gratuities eliminate tipping anxiety. Airport transfers, basic laundry service, fitness classes, and enrichment programming are complimentary. The only significant exclusions are premium reserve wines, spa treatments, and additional shore excursions beyond the credit allocation."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Indian Ocean network spans 35+ ports across eleven countries. Western Indian Ocean itineraries feature UAE (Dubai, Abu Dhabi), Oman (Muscat, Salalah), and Yemen (Socotra on select expedition calls). Indian subcontinent calls include Mumbai (overnight), Goa, Mangalore, Cochin (Kochi), and Chennai on extended voyages. Sri Lanka offers Colombo and Hambantota, with Trincomalee emerging for 2026. The Maldives concentrates on Malé and Rasdhoo atoll. Seychelles itineraries access Mahé, Praslin, La Digue, and Desroches. East African extensions include Mombasa, Zanzibar, and Nosy Be (Madagascar). Southeast Asian embarkation/debarkation occurs through Singapore, with Langkawi and Phuket as common intermediates."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Oceania releases Indian Ocean inventory 18-24 months in advance; optimal booking window is 12-18 months for cabin selection, particularly for sought-after Concierge Level verandas with expanded amenities. The line's 180-day world cruise segments sell 18+ months ahead. Past Oceania Club members receive early access and preferential pricing. For 2026 departures, book by March 2025 to capture Wave Season incentives including free airfare and cabin upgrades. Last-minute availability exists occasionally 60-90 days out, typically in Inside and Oceanview categories, with savings of 15-25% though itinerary selection narrows considerably. Final payment is due 90 days prior to sailing; reprice opportunities exist if fares decrease before this deadline."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises positions explicitly as adult-oriented; no children's programming, dedicated facilities, or youth staff operate aboard. The minimum age is six months (twelve months for exotic itineraries including Seychelles and Maldives). Families with mature teenagers seeking cultural immersion may find value, particularly given included specialty dining and shore excursion credits. The small ship environment facilitates independent exploration for responsible older teens. However, families with children under sixteen typically find better value and experience aboard lines with dedicated youth facilities. Oceania's demographic skews 55+ with evening entertainment concluding by 11pm. Multi-generational groups occasionally charter for exclusive use, though this requires full ship commitment of 670 guests minimum."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania's cancellation structure penalizes progressively by departure proximity. Cancellations 121+ days prior incur no penalty for most fares, though promotional air add-ons may be non-refundable. 120-91 days: deposit forfeiture (typically EUR 1,200-2,400 depending on voyage length). 90-76 days: 25% of total fare. 75-61 days: 50% of total fare. 60-31 days: 75% of total fare. 30 days or less: 100% forfeiture. Cancel For Any Reason protection, available at 10% of cruise fare, provides future cruise credit equal to 80% of cancellation penalties. Standard travel insurance through Oceania's partner covers medical evacuation essential for remote Indian Ocean destinations; independent policies should verify coverage for pre-existing conditions and adventure excursions."
+    }
+  ]
+}

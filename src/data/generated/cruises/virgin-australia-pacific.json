@@ -1,0 +1,173 @@
+{
+  "title": "Virgin Voyages Australia & Pacific Cruises 2026",
+  "intro": "Virgin Voyages brings its adults-only revolution to Australia & Pacific waters, offering sophisticated cruising without the traditional cruise ship clichés. Sail from Sydney or Brisbane aboard the stunning Resilient Lady, discovering the Great Barrier Reef, Fiji's pristine islands, and New Zealand's dramatic fjords. This is cruising reimagined for the modern traveller: no buffets, no formal nights, no children—just 2,700 sailors enjoying Michelin-inspired dining at 20+ venues, wellness-focused programming, and immersive shore excursions. The brand's distinctive scarlet livery and Richard Branson's rebellious spirit infuse every aspect, from tattoo parlours at sea to drag brunches and sunset DJ sets. Pacific itineraries balance adventure with indulgence, whether you're diving coral gardens, hiking volcanic landscapes, or simply unwinding in a hammock on your balcony. Virgin's commitment to sustainability includes banning single-use plastics and achieving carbon-neutral operations, letting you explore this magnificent region responsibly.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Resilient Lady"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Brisbane"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/Mar)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 1599,
+      "balcony_eur": 2299,
+      "suite_eur": 3899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Queensland Coast",
+      "duration_nights": 7,
+      "ports": [
+        "Brisbane",
+        "Airlie Beach",
+        "Cairns",
+        "Willis Island",
+        "Brisbane"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Great Barrier Reef gateway with overnight in Cairns"
+    },
+    {
+      "name": "10-night Fiji & Islands",
+      "duration_nights": 10,
+      "ports": [
+        "Sydney",
+        "Mystery Island",
+        "Dravuni Island",
+        "Suva",
+        "Lautoka",
+        "Sydney"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Three full days exploring Fiji's diverse islands"
+    },
+    {
+      "name": "14-night New Zealand Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Sydney",
+        "Bay of Islands",
+        "Auckland",
+        "Tauranga",
+        "Napier",
+        "Wellington",
+        "Picton",
+        "Sydney"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Comprehensive circumnavigation of both islands with overnight Auckland"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Resilient Lady",
+      "capacity": 2770,
+      "year": 2023,
+      "best_for": "Adult couples & solo travellers",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All dining at 20+ restaurants",
+    "Group fitness classes",
+    "Entertainment & shows",
+    "WiFi",
+    "Tips & gratuities",
+    "Basic beverages (water, coffee, tea, juices)"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages & premium coffees",
+    "Shore excursions",
+    "Spa treatments",
+    "Bar tab & drinks packages",
+    "Flights & transfers",
+    "Travel insurance"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; watch for Virgin's frequent 'Shake for Champagne' sales offering up to 70% off second sailor and free bar tabs. Solo travellers benefit from reduced single supplements during promotional periods. Final payment typically due 120 days before sailing.",
+  "top_ports": [
+    {
+      "port": "Cairns",
+      "time_in_port": "7am-6pm (overnight on select sailings)",
+      "top_activity": "Great Barrier Reef helicopter & pontoon experience (€349)",
+      "tip": "Book reef excursions early—weather cancellations common, so build flexibility"
+    },
+    {
+      "port": "Suva, Fiji",
+      "time_in_port": "8am-5pm",
+      "top_activity": "River safari to authentic Fijian village (€189)",
+      "tip": "Accept kava ceremony invitation—declining causes offence"
+    },
+    {
+      "port": "Bay of Islands, New Zealand",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Waitangi Treaty Grounds & Maori cultural performance (€129)",
+      "tip": "Tender port—book morning excursions to avoid afternoon rush"
+    },
+    {
+      "port": "Auckland",
+      "time_in_port": "8am-6pm (overnight on 14-night sailings)",
+      "top_activity": "Waiheke Island wine tour (€159)",
+      "tip": "Use overnight to explore Ponsonby's restaurant scene independently"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages Australia & Pacific cruise cost?",
+      "answer": "Virgin Voyages Australia & Pacific cruises typically range from €899 per person for shoulder season 7-night voyages in an inside cabin, rising to €1,599-€2,299 for peak December-February sailings. Balcony cabins start around €1,299 (shoulder) to €2,299 (peak), while RockStar Quarters suites command €2,199-€3,899. Holiday periods including Christmas and New Year attract premium pricing 40-60% above standard rates. Solo travellers should note Virgin's innovative cabin pricing often includes reduced single supplements compared to traditional cruise lines. Bar tabs, excursions, and flights are additional—budget €400-€800 extra for a typical 7-night voyage."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to Australia & Pacific?",
+      "answer": "Resilient Lady is Virgin Voyages' dedicated Australia & Pacific vessel, launched in 2023 and specifically deployed for this region year-round. This 110,000-ton, 2,770-passenger ship represents Virgin's third vessel and incorporates lessons from Scarlet Lady and Valiant Lady's Caribbean and Mediterranean operations. Resilient Lady features identical revolutionary design elements: no main dining room, no buffet, no formal nights, and adults-only (18+) sailing. The ship offers 1,408 cabins including 86 RockStar Quarters, 78 Sea Terraces with hammocks, and innovative solo cabins. Unlike competitors rotating multiple ships through Australia, Virgin's single-ship commitment ensures consistent service standards and deep regional expertise from crew and destination staff."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "November through March offers optimal conditions for Australia & Pacific cruising, coinciding with Southern Hemisphere summer. November and March provide excellent value with pleasant 24-28°C temperatures, lower humidity, and reduced rainfall—ideal for reef exploration and hiking. December-February represents peak season with hottest weather (26-31°C) and highest demand, particularly school holiday periods. Cyclone risk exists January-March though rare for itinerary disruption. For New Zealand routes, December-February delivers longest daylight hours and warmest conditions (20-25°C). Avoid April-October when cooler temperatures, rougher seas, and reduced wildlife visibility diminish the experience. Virgin's limited season means securing preferred dates 9-12 months ahead is essential, particularly for Christmas and New Year departures."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages Australia & Pacific cruises include substantially more than traditional competitors. All dining at 20+ venues covers everything from Korean BBQ and elevated Italian to experimental test kitchens and 24-hour diner—no surcharges, no main dining room, no buffets. Fitness classes including yoga, cycling, and HIIT are complimentary. Entertainment spans immersive theatre, live music, and DJ sets without ticket fees. WiFi, tips, and gratuities are built into fares. Basic non-alcoholic beverages (filtered water, drip coffee, tea, juices) are free. What's notably excluded: alcoholic drinks, premium coffees, shore excursions, spa treatments, and flights. Virgin's 'Bar Tab' pre-purchase option offers bonus credit—€300 purchase yields €400 credit, reducing effective drink costs significantly."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Virgin Voyages Australia & Pacific itineraries focus on three distinct corridors: Queensland Coast (Brisbane, Airlie Beach/Whitsundays, Cairns, Willis Island), Fiji & South Pacific Islands (Suva, Lautoka, Dravuni Island, Mystery Island, Nouméa, Port Vila), and New Zealand (Auckland, Bay of Islands, Tauranga, Napier, Wellington, Picton, Milford Sound cruising). Seven-night Queensland voyages emphasise reef access; ten-night Fiji sailings offer immersive island culture; fourteen-night New Zealand explorations provide comprehensive coverage. All itineraries originate from Australian homeports (Sydney or Brisbane) with no fly-cruise options currently offered. Resilient Lady's size—smaller than mega-ships but larger than expedition vessels—enables access to secondary ports like Airlie Beach while maintaining onboard amenities."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Virgin Voyages recommends booking Australia & Pacific cruises 9-12 months in advance for optimal cabin selection, particularly for RockStar Quarters and Sea Terrace categories with hammocks. Peak December-February sailings, especially Christmas and New Year departures, often sell out 6-8 months ahead. The line releases itineraries approximately 18 months in advance. Last-minute deals occasionally emerge 60-90 days before sailing for flexible travellers, though cabin categories may be limited. Virgin's flexible 'Book with Confidence' policy allows changes without penalty until final payment (typically 120 days pre-cruise), reducing commitment risk. Early booking incentives frequently include bonus Bar Tab credit or discounted deposits. Solo travellers particularly benefit from early booking due to limited single cabin inventory."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages Australia & Pacific cruises are exclusively adults-only, with minimum age 18 years—making them unsuitable for families with children. This deliberate positioning distinguishes Virgin from family-focused competitors like Royal Caribbean and Carnival in the Australian market. The adults-only environment enables specific programming: late-night entertainment without curfew concerns, sophisticated dining without children's menus, spa and wellness focus, and social atmosphere tailored to adult travellers. The policy particularly suits couples, groups of friends, solo travellers, and parents seeking child-free holidays. Virgin's demographic skews 25-55, younger than traditional premium cruise lines. Families seeking multi-generational Australia & Pacific cruising should consider P&O Cruises Australia, Royal Caribbean, or Carnival, all of which operate extensive children's programmes and family accommodations in this region."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Virgin Voyages offers tiered cancellation protection for Australia & Pacific cruises. Standard terms: full refund minus deposit if cancelled 121+ days before sailing; deposit forfeited 120-91 days; 50% fare penalty 90-61 days; 75% penalty 60-31 days; 100% forfeiture within 30 days. 'Book with Confidence' flexibility (often automatically applied) permits one complimentary rebooking to any sailing within 12 months of original departure if changed before final payment. Travel insurance is strongly recommended given Australia's distance from Europe—Virgin partners with providers offering cruise-specific coverage including cancellation for any reason upgrades. COVID-19 protocols have evolved: currently no testing requirements, but policies change based on Australian government regulations. Refunds process within 30 days to original payment method."
+    }
+  ]
+}

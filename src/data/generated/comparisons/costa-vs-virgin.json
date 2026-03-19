@@ -1,0 +1,136 @@
+{
+  "title": "Costa Cruises vs Virgin Voyages 2026",
+  "intro": "Costa Cruises, Italy's largest cruise line, delivers traditional European cruising with family-friendly amenities and Mediterranean flair. Virgin Voyages, Richard Branson's adult-only disruptor, reimagines ocean travel with boutique hotel aesthetics, inclusive pricing, and contemporary wellness focus. Both occupy similar price brackets but serve fundamentally different demographics—Costa embraces multi-generational holidaymakers while Virgin courts experience-seeking millennials and Gen X travellers. This comparison examines how these contrasting philosophies translate to value, atmosphere, and suitability for your 2026 voyage.",
+  "at_a_glance": {
+    "costa": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "virgin": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 699
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "costa": "€799",
+      "virgin": "€699"
+    },
+    {
+      "category": "Included dining",
+      "costa": "Main restaurant, buffet, select casual venues",
+      "virgin": "20+ restaurants, all specialty dining included"
+    },
+    {
+      "category": "Beverages",
+      "costa": "Pay-per-drink or packages from €35/day",
+      "virgin": "Basic drinks included; premium packages available"
+    },
+    {
+      "category": "WiFi",
+      "costa": "Packages from €15/day",
+      "virgin": "Basic WiFi included"
+    },
+    {
+      "category": "Gratuities",
+      "costa": "€12/day automatic",
+      "virgin": "Included in fare"
+    },
+    {
+      "category": "Age policy",
+      "costa": "All ages welcome",
+      "virgin": "Adults-only (18+)"
+    },
+    {
+      "category": "Cabin style",
+      "costa": "Traditional, compact interiors",
+      "virgin": "Modern, residential design with mood lighting"
+    },
+    {
+      "category": "Entertainment",
+      "costa": "Theatre shows, discos, family activities",
+      "virgin": "Immersive productions, drag bingo, DJ sets"
+    },
+    {
+      "category": "Fitness facilities",
+      "costa": "Standard gym, sports court",
+      "virgin": "Extensive wellness complex, outdoor training zones"
+    },
+    {
+      "category": "Dress code",
+      "costa": "Formal nights suggested",
+      "virgin": "No formal nights, 'come as you are'"
+    }
+  ],
+  "choose_a_if": [
+    "You're travelling with children or teenagers who need dedicated clubs and family programming",
+    "You prefer structured entertainment, traditional cruise activities, and multilingual European ambience",
+    "You want Mediterranean-intensive itineraries with Italian port expertise and regional cuisine authenticity",
+    "You value casino gaming, bingo, and classic cruise ship diversions"
+  ],
+  "choose_b_if": [
+    "You're seeking an adults-only environment without children or family-focused programming",
+    "You want genuinely inclusive pricing with specialty dining, WiFi, gratuities, and basic drinks bundled",
+    "You prioritise contemporary design, wellness facilities, and nightlife over traditional cruise conventions",
+    "You prefer flexible dining without fixed seating times or formal dress requirements"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Costa Cruises",
+      "reason": "Squok Club kids' programming, teen zones, family cabins, and Italian-flavoured activities keep all ages engaged. Virgin's 18+ policy excludes families entirely."
+    },
+    {
+      "type": "Couples 25-40",
+      "winner": "Virgin Voyages",
+      "reason": "Date-night restaurants, inclusive cocktails, contemporary cabins, and sophisticated nightlife align with younger couple priorities better than Costa's family orientation."
+    },
+    {
+      "type": "Couples 55+",
+      "winner": "Costa Cruises",
+      "reason": "Traditional cruising familiarity, ballroom dancing, enrichment lectures, and gentler pacing suit mature travellers seeking classic maritime experience."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Virgin Voyages",
+      "reason": "Single supplements frequently waived, solo cabin options, social dining arrangements, and inclusive pricing reduce financial and social barriers."
+    },
+    {
+      "type": "Food enthusiasts",
+      "winner": "Virgin Voyages",
+      "reason": "Test Kitchen's experimental cuisine, Korean BBQ, steakhouse, and 20+ included venues outperform Costa's more conventional, mass-market offerings."
+    },
+    {
+      "type": "Wellness-focused",
+      "winner": "Virgin Voyages",
+      "reason": "Redemption Spa thermal suite, extensive fitness programming, healthy dining options, and vitamin sea atmosphere prioritise holistic wellbeing."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Virgin Voyages typically delivers superior value when comparing like-for-like inclusions. While base fares appear comparable, Virgin bundles specialty dining, WiFi, gratuities, and basic beverages—extras that add €300-400 on Costa. However, Costa runs aggressive promotions including free drinks packages and discounted third/fourth berths, potentially reversing value calculations for families. Solo travellers benefit significantly from Virgin's reduced single supplements. Analyse total trip cost including your preferred add-ons rather than headline fares alone."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Costa Cruises exclusively. Virgin Voyages prohibits guests under 18, making family travel impossible. Costa's Squok Club divides children into age groups with supervised activities, while teens enjoy dedicated spaces and disco events. Family cabins, connecting rooms, and children's pricing structures accommodate multi-generational groups. Pool areas feature shallow zones and lifeguards; dining includes child-friendly options alongside Italian specialities. Shore excursions offer family-rated alternatives. Virgin's adults-only concept deliberately excludes this entire market segment."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "2026 Mediterranean seven-night inside cabins average €799 Costa versus €699 Virgin, though Virgin's fare includes significantly more. Costa's comparable total requires adding: gratuities (€84), basic WiFi (€105), and drinks package (€245)—pushing effective cost to €1,233. Virgin's €699 includes these elements, with only premium beverages and shore excursions remaining extra. Costa's promotional periods offering 'all-inclusive' packages narrow this gap. Interior cabin categories represent entry-level pricing; balcony premiums vary by ship and sailing date."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Virgin Voyages leads decisively on culinary variety and quality. Twenty-plus restaurants span Korean BBQ, experimental Test Kitchen, upscale Italian, and steakhouse—all included. Menus feature sustainably sourced ingredients and contemporary preparations. Costa offers solid if conventional cruise dining: main restaurant set menus, extensive buffet, and pay-extra specialty venues. Food quality improved with Costa's 'Mediterranean Way' initiative but remains mass-market oriented. Virgin's elimination of main dining rooms and buffets in favour of distributed restaurant concepts represents genuine innovation."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Depends entirely on demographic and expectations. Traditional cruise curious travellers find Costa's structured format—fixed dining times, formal nights, scheduled entertainment—familiar and reassuring. Staff multilingualism assists nervous European passengers. Virgin suits first-timers intimidated by cruise conventions: no dress codes, flexible dining, inclusive pricing preventing bill shock, and contemporary hotel-like environments. Neither requires prior cruising experience, but Costa demands greater adaptation to maritime traditions while Virgin minimises friction for hospitality-industry regulars."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Demographics fundamentally diverge: Costa welcomes all ages with family infrastructure; Virgin enforces 18+ exclusivity. Pricing philosophy differs—Costa follows traditional à-la-carte cruising with optional packages; Virgin pursues inclusive transparency. Atmospherically, Costa maintains European holiday camp energy with Italian language dominance and traditional activities; Virgin cultivates boutique festival vibes with contemporary music, wellness programming, and design-forward spaces. Dining represents starkest contrast: Costa's conventional cruise model versus Virgin's restaurant-collection approach. Evening entertainment similarly diverges—Costa's theatre spectaculars and ballroom dancing against Virgin's immersive productions and nightclub culture."
+    }
+  ]
+}

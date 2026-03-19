@@ -1,0 +1,173 @@
+{
+  "title": "Princess Cruises vs Disney Cruise Line 2026",
+  "intro": "Princess Cruises and Disney Cruise Line represent two distinct approaches to ocean cruising. Princess, established in 1965, targets adult travellers and couples with sophisticated, destination-focused itineraries and refined onboard ambience. Disney, launched in 1998, delivers immersive family entertainment, character experiences, and magical storytelling. Both operate premium fleets but serve fundamentally different demographics. Princess emphasises culinary excellence, enrichment programmes, and relaxed elegance across 15 ships. Disney prioritises youth programming, Broadway-calibre shows, and exclusive private island Castaway Cay. Your choice depends entirely on travelling companions, budget priorities, and desired atmosphere—tranquil sophistication versus energetic family magic.",
+  "at_a_glance": {
+    "princess": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "disney": {
+      "price_tier": "premium",
+      "avg_7night_inside_eur": 1899
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "princess": "€899",
+      "disney": "€1,899"
+    },
+    {
+      "category": "Price tier",
+      "princess": "Mid-market premium",
+      "disney": "Premium/luxury"
+    },
+    {
+      "category": "Target audience",
+      "princess": "Adults, couples, 50+",
+      "disney": "Families with children, Disney enthusiasts"
+    },
+    {
+      "category": "Ship capacity",
+      "princess": "2,000-4,300 guests",
+      "disney": "1,750-4,000 guests"
+    },
+    {
+      "category": "Kids' clubs",
+      "princess": "Princess Pelicans (ages 3-17)",
+      "disney": "Oceaneer Club/Lab, Edge, Vibe (ages 3-17)"
+    },
+    {
+      "category": "Adult-only areas",
+      "princess": "The Sanctuary, adults-only pools",
+      "disney": "Quiet Cove Pool, Senses Spa, Palo/Remy restaurants"
+    },
+    {
+      "category": "Entertainment style",
+      "princess": "Production shows, live music, enrichment",
+      "disney": "Broadway musicals, fireworks, character meet-and-greets"
+    },
+    {
+      "category": "Dining approach",
+      "princess": "Traditional dining, Anytime Dining, specialty venues",
+      "disney": "Rotational dining, character meals, upscale adult venues"
+    },
+    {
+      "category": "Private island",
+      "princess": "Princess Cays (Bahamas)",
+      "disney": "Castaway Cay (Bahamas), Lookout Cay (2024)"
+    },
+    {
+      "category": "Dress code",
+      "princess": "Smart casual, formal nights",
+      "disney": "Cruise casual, optional dress-up nights"
+    },
+    {
+      "category": "Alcohol policy",
+      "princess": "Standard cruise packages available",
+      "disney": "Standard cruise packages, higher base prices"
+    },
+    {
+      "category": "Gratuities (per person/day)",
+      "princess": "€16-18",
+      "disney": "€14.50-15.50"
+    },
+    {
+      "category": "Wi-Fi packages",
+      "princess": "MedallionNet from €9.99/day",
+      "disney": "Connect@Sea from €18/day"
+    },
+    {
+      "category": "Itinerary focus",
+      "princess": "Alaska, Mediterranean, Asia, world cruises",
+      "disney": "Bahamas, Caribbean, Europe, Alaska, transatlantic"
+    },
+    {
+      "category": "Loyalty programme",
+      "princess": "Captain's Circle (four tiers)",
+      "disney": "Castaway Club (three tiers)"
+    }
+  ],
+  "choose_a_if": [
+    "You prefer sophisticated, adult-oriented ambience without constant character presence",
+    "Destination immersion and enrichment lectures matter more than onboard entertainment",
+    "You seek better value for money on premium itineraries, especially Alaska and world cruises",
+    "Flexible dining schedules and traditional cruise elegance appeal to your travel style",
+    "You want MedallionClass wearable technology for seamless, personalised service"
+  ],
+  "choose_b_if": [
+    "You are travelling with children aged 3-12 who will engage deeply with Disney characters and stories",
+    "Impeccable youth programming and secure kids' clubs are essential for parental relaxation",
+    "You value exclusive, impeccably maintained private islands with family-focused amenities",
+    "Broadway-quality Disney musicals and fireworks at sea justify significantly higher fares",
+    "You are Disney Vacation Club members or loyalists seeking member benefits and onboard credits"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with young children (under 12)",
+      "winner": "Disney Cruise Line",
+      "reason": "Unmatched character interactions, supervised kids' clubs until midnight, and rotational dining keep children enchanted while parents enjoy Palo or Quiet Cove Pool."
+    },
+    {
+      "type": "Families with teenagers",
+      "winner": "Princess Cruises",
+      "reason": "Teen programmes feel less juvenile, more independence permitted, and lower fares fund shore excursions; Vibe on Disney costs extra and books rapidly."
+    },
+    {
+      "type": "Couples without children",
+      "winner": "Princess Cruises",
+      "reason": "Sanctuary retreat, fewer crowds, enrichment programmes, and romantic dining at Sabatini's or Crown Grill create sophisticated atmosphere without family cruise chaos."
+    },
+    {
+      "type": "Multi-generational groups",
+      "winner": "Disney Cruise Line",
+      "reason": "Something for every age simultaneously: toddlers in clubs, teens in Edge, adults in Remy, grandparents enjoying shows—though at substantially higher group cost."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Princess Cruises",
+      "reason": "Lower financial commitment, more intuitive traditional cruise structure, and destination-focused experience teaches cruising fundamentals without premium Disney pricing risk."
+    },
+    {
+      "type": "Disney enthusiasts/DVC members",
+      "winner": "Disney Cruise Line",
+      "reason": "Onboard credits, member discounts, Castaway Club benefits, and immersive storytelling justify costs for those emotionally invested in Disney magic and service standards."
+    },
+    {
+      "type": "Alaska specialists",
+      "winner": "Princess Cruises",
+      "reason": "40+ years Alaska expertise, Glacier Bay permits, direct wilderness lodge connections, and North to Alaska programme deliver superior destination depth at lower price point."
+    },
+    {
+      "type": "Mediterranean cruisers",
+      "winner": "Princess Cruises",
+      "reason": "More port-intensive itineraries, longer European seasons, and Discovery at SEA enrichment with local experts provide cultural depth Disney's entertainment-heavy approach sacrifices."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Princess Cruises consistently delivers superior value for most travellers. A 7-night Caribbean interior cabin averages €899 versus Disney's €1,899—more than double. This disparity widens with balcony accommodations (€1,299 vs €2,799) and suites. Disney justifies premiums through included soft drinks, superior youth programming, and entertainment quality, yet Princess includes gratuities in promotional fares more frequently and offers beverage packages at lower daily rates. For couples and solo travellers, Princess provides comparable dining, service, and itinerary quality at 40-50% lower cost. Families must calculate whether Disney's magic warrants €2,000-4,000 additional expenditure per sailing, particularly when children are under three or over fourteen."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Disney Cruise Line dominates family cruising for children aged 3-12, offering the industry's gold-standard youth facilities: Oceaneer Club's immersive Marvel, Star Wars, and Frozen spaces, plus counsellors trained in child development. Rotational dining ensures children experience all restaurants with consistent serving teams. Character meet-and-greets require no additional payment—unlike Disney parks. However, Princess competes effectively for families with teenagers, offering more age-appropriate programming and shore excursion independence. Princess also provides better value for families with infants (under three cruise free versus Disney's reduced fare). Multi-generational groups must weigh Disney's universal appeal against Princess's significantly lower per-person costs and more relaxed atmosphere."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Disney Cruise Line commands 80-120% higher base fares than Princess across all categories. Sample 2026 Mediterranean seven-night comparisons: Princess interior €899, Disney interior €1,899; Princess balcony €1,299, Disney balcony €2,799; Princess mini-suite €1,899, Disney concierge family verandah €4,199. Both lines charge similarly for gratuities (€14-18 daily), but Disney's beverage packages, specialty dining, and Wi-Fi cost 25-40% more. Disney includes soft drinks and basic Wi-Fi for concierge guests only. Princess frequently offers promotional onboard credits, third/fourth guest free promotions, and past passenger discounts that further widen the value gap. Shore excursions and pre-cruise hotels show comparable pricing."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Princess Cruises holds the culinary advantage for adult palates, with celebrity chef partnerships (Curtis Stone, Ernesto Uchimura), regional destination menus, and the exceptional Crown Grill steakhouse and Sabatini's Italian trattoria. The main dining room quality exceeds industry standards, and the World Fresh Marketplace buffet offers superior variety. Disney's rotational dining concept—Animator's Palate, Tiana's Place, Rapunzel's Royal Table—prioritises immersive theming over gastronomy, though adult-exclusive Palo (brunch/dinner) and Remy (French fine dining) match Princess specialty venues at higher prices. Disney's quick-service options and room service excel for families. For pure culinary ambition and consistency, Princess wins; for memorable themed dining experiences, Disney satisfies."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Princess Cruises better serves first-time cruisers through lower financial risk, more intuitive operations, and destination-focused education. The MedallionClass wearable eliminates friction—automatic door unlocking, contactless payment, and ocean-ready location services—while traditional dining structures teach cruise conventions clearly. Princess's enrichment programmes explain port histories and cultures, building cruising confidence. Disney's complexity—rotational dining reservations, character meet-and-greet bookings, youth club registrations, and premium add-on pressures—overwhelms some newcomers. However, Disney's impeccable service recovery and staff training provide safety nets anxious first-timers appreciate. Budget-conscious beginners should start with Princess; those specifically seeking guaranteed magical experiences and unconcerned by costs may prefer Disney's polish despite steeper learning curves."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental distinctions centre on target demographic and operational philosophy. Disney designs every element for family harmony—simultaneous age-appropriate activities, character integration, and storytelling immersion—accepting higher costs and adult sacrifice of tranquillity. Princess optimises for adult relaxation and destination discovery, permitting family travel but prioritising couple and solo traveller satisfaction. Disney's ships feel theatrical and energetic; Princess's atmosphere remains refined and restful. Service models differ: Disney's cast members maintain character integrity relentlessly; Princess's crew delivers polished, personalised hospitality without performance constraints. Itinerary strategies diverge too—Disney concentrates on Bahamas/Caribbean homeports with limited seasonal European deployment, while Princess operates globally year-round with superior Alaska and Asia presence. Technology integration favours Princess's MedallionClass over Disney's more conventional systems."
+    }
+  ]
+}

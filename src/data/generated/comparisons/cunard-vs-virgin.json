@@ -1,0 +1,148 @@
+{
+  "title": "Cunard Line vs Virgin Voyages 2026",
+  "intro": "Cunard Line, founded in 1840, represents maritime heritage with formal evenings, white-glove service, and transatlantic crossings on iconic ocean liners Queen Mary 2, Queen Elizabeth, and Queen Victoria. Virgin Voyages, launched in 2021 by Richard Branson, redefines cruising for adults-only (18+) travellers with tattoo parlours, drag brunches, and no buffets or formal nights. These brands occupy opposite ends of the cruising spectrum: Cunard attracts traditionalists seeking elegance and enrichment, while Virgin targets millennials and Gen X wanting relaxed, festival-at-sea energy. Both offer mid-market pricing but deliver fundamentally different vacation experiences for distinct traveller psychographics.",
+  "at_a_glance": {
+    "cunard": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 1099
+    },
+    "virgin": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 1399
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "cunard": "€1,099",
+      "virgin": "€1,399"
+    },
+    {
+      "category": "Passenger age minimum",
+      "cunard": "6 months (infants allowed)",
+      "virgin": "18+ (adults only)"
+    },
+    {
+      "category": "Dress code",
+      "cunard": "Formal evenings, gala nights",
+      "virgin": "No dress code, come as you are"
+    },
+    {
+      "category": "Dining style",
+      "cunard": "Traditional set dining with main dining rooms",
+      "virgin": "20+ restaurants, all included, no buffet"
+    },
+    {
+      "category": "Gratuities",
+      "cunard": "€12-14/day extra",
+      "virgin": "Included in fare"
+    },
+    {
+      "category": "Drinks packages",
+      "cunard": "Extra cost",
+      "virgin": "Basic drinks included; premium packages extra"
+    },
+    {
+      "category": "Entertainment",
+      "cunard": "Lectures, ballroom dancing, live orchestras",
+      "virgin": "DJ sets, drag shows, immersive theatre"
+    },
+    {
+      "category": "WiFi",
+      "cunard": "€18-24/day",
+      "virgin": "Basic included; premium extra"
+    },
+    {
+      "category": "Fitness",
+      "cunard": "Traditional gym, deck sports",
+      "virgin": "Outdoor boxing ring, bungee workout, yoga"
+    },
+    {
+      "category": "Cabins",
+      "cunard": "Classic maritime styling, some single cabins",
+      "virgin": "Modern design, 93% balcony, no inside cabins"
+    },
+    {
+      "category": "Ship size",
+      "cunard": "2,691-3,058 passengers",
+      "virgin": "2,770 passengers (Scarlet, Valiant, Resilient)"
+    },
+    {
+      "category": "Itineraries",
+      "cunard": "Transatlantic, world cruises, Northern Europe",
+      "virgin": "Caribbean, Mediterranean, Australia, repositioning"
+    }
+  ],
+  "choose_a_if": [
+    "You appreciate maritime tradition, formal evenings, and dressing up for gala nights",
+    "You want multi-generational family travel or are travelling with children",
+    "Transatlantic crossings and world cruise segments appeal to your wanderlust",
+    "You prefer structured enrichment through lectures, workshops, and classical entertainment",
+    "Loyalty status and Cunard's White Star Service heritage matter to you"
+  ],
+  "choose_b_if": [
+    "You want an adults-only environment without children or family programming",
+    "All-inclusive pricing with no hidden fees or tipping decisions appeals to you",
+    "You prefer flexible dining with 20+ restaurant choices and no assigned seating",
+    "Wellness-focused amenities, fitness innovation, and spa-forward design excite you",
+    "You seek nightlife, DJ culture, and contemporary entertainment over traditional shows"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with children",
+      "winner": "Cunard Line",
+      "reason": "Cunard welcomes all ages with dedicated kids' clubs, family pools, and intergenerational programming. Virgin's 18+ policy excludes families entirely, making Cunard the automatic and only choice for parents cruising with children."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Virgin Voyages",
+      "reason": "Virgin designs extensively for solo travellers with single cabins at no premium, solo traveller meetups, and inclusive social atmosphere. Cunard offers single cabins but with significant single supplements and less solo-focused programming."
+    },
+    {
+      "type": "Honeymooners",
+      "winner": "Virgin Voyages",
+      "reason": "Virgin's adults-only policy, intimate dining venues, inclusive cocktails, and sunset DJ sessions create romantic atmosphere without family distractions. Cunard's formal structure can feel restrictive for couples seeking relaxed intimacy."
+    },
+    {
+      "type": "Retirees",
+      "winner": "Cunard Line",
+      "reason": "Cunard's slower pace, ballroom dancing, classical music, and enrichment lectures align with retiree preferences. The formal dress code and traditional service style resonate with this demographic's expectations of quality cruising."
+    },
+    {
+      "type": "Luxury seekers on budget",
+      "winner": "Virgin Voyages",
+      "reason": "Virgin's inclusive pricing covers gratuities, basic WiFi, dining, and basic beverages, delivering predictable costs. Cunard's base fare requires substantial additional spending for comparable inclusions, making Virgin better value despite higher upfront price."
+    },
+    {
+      "type": "Cultural explorers",
+      "winner": "Cunard Line",
+      "reason": "Cunard's Cunard Insights programme brings aboard distinguished lecturers, authors, and performers for destination-deepening content. Virgin focuses more on onboard experience than cultural enrichment, making Cunard superior for intellectually curious travellers."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends on spending habits. Virgin Voyages' higher base fare (€1,399 vs €1,099) includes gratuities, basic WiFi, all dining, and basic beverages—eliminating surprise costs. Cunard's lower entry price accumulates quickly: €12-14 daily gratuities, €18-24 WiFi, drinks packages at €55-75 daily, and specialty dining extras. For moderate drinkers wanting connectivity, Virgin typically costs less overall. However, Cunard offers better value for travellers who avoid packages, dine traditionally, and disconnect at sea. Calculate your typical onboard spending before deciding; inclusive pricing suits most contemporary cruisers better than à la carte."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Cunard Line exclusively, as Virgin Voyages prohibits all passengers under 18. Cunard operates The Play Zone for ages 2-7, The Zone for 8-12s, and Teen Zone for 13-17s, with night nursery services for under-2s. Family pools, interconnecting cabins, and children's dining options accommodate multi-generational groups. Queen Mary 2's kennels even allow pet travel. Virgin's adults-only policy eliminates family market entirely—no exceptions for infants or teenagers. Families seeking Virgin's contemporary style should consider Royal Caribbean or Norwegian instead; those wanting traditional family cruising should book Cunard or P&O Cruises."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Cunard's 2026 seven-night Mediterranean inside cabins start around €1,099, with balcony cabins at €1,599 and suites from €3,200. Virgin Voyages' comparable sailings begin at €1,399 for sea terrace cabins (no inside cabins exist), with RockStar suites from €4,500. However, Virgin includes €150-200 in daily gratuities, €150 WiFi, and €400-600 in beverages that Cunard charges separately. True comparable pricing: Cunard interior with minimal extras equals Virgin's inclusive fare. Cunard becomes expensive when adding packages; Virgin's transparency appeals to budget-conscious travellers despite sticker shock."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Both excel differently. Cunard offers traditional British-American cuisine with formal main dining rooms, Golden Lion pub, and Todd English specialty restaurant. The quality is consistent, classical, and portioned traditionally—excellent for those wanting familiar luxury. Virgin revolutionises cruise dining with 20+ venues including Korean barbecue, experimental test kitchen, and drag brunch—no main dining room, no buffet, no assigned seating. Virgin's food is adventurous, Instagram-worthy, and chef-driven by names like Brad Farmerie. Foodies prefer Virgin's variety and creativity; traditionalists favour Cunard's reliability and service rituals. Neither disappoints, but Virgin takes more culinary risks."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Virgin Voyages suits most first-timers better despite higher prices. The inclusive model eliminates confusion about what's included, the app-based booking simplifies planning, and the relaxed atmosphere reduces intimidation. No formal nights mean no packing anxiety, and flexible dining suits modern preferences. However, Cunard attracts first-timers specifically seeking traditional cruise experiences—those wanting to dress up, experience ballroom dancing, or cross the Atlantic as their grandparents might have. Choose Virgin if you want easy, contemporary cruising; choose Cunard if you specifically want old-world ocean liner romance for your introduction to cruising."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental divide is tradition versus revolution. Cunard preserves maritime heritage: assigned dining, formal evenings, enrichment lectures, white-glove service, and multi-generational travel. Virgin dismantles conventions: no dress codes, no assigned anything, adults-only, app-everything, inclusive pricing, and festival-at-sea energy. Cunard's Queen Mary 2 remains the only true ocean liner operating scheduled transatlantic service; Virgin's Scarlet Lady-class ships are purpose-built resorts. Cunard passengers average 55+; Virgin targets 30-50. Both offer mid-market pricing but opposite philosophies—Cunard sells escape to elegance, Virgin sells escape from rules. Your personality determines the better fit more than budget does."
+    }
+  ]
+}

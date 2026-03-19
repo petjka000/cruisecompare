@@ -1,0 +1,226 @@
+{
+  "title": "Viking Cruises British Isles Cruises 2026",
+  "intro": "Viking Cruises brings its signature Scandinavian sophistication to the British Isles with intimate, culturally immersive voyages designed exclusively for adults. Unlike mainstream cruise lines, Viking's ocean fleet features small, elegant ships carrying just 930 guests, enabling access to lesser-known ports larger vessels cannot reach. The British Isles itineraries emphasize deep destination exploration, with extended port stays and overnight visits in cities like Liverpool and Dublin. Viking's included shore excursions at every port cover essential experiences from Edinburgh Castle to the Giant's Causeway. Onboard, guests enjoy Nordic-inspired spa facilities, multiple dining venues with regional cuisine, and enrichment lectures from historians and naturalists. The line's all-veranda ship design ensures every stateroom offers private outdoor space for viewing the dramatic coastlines of Scotland, Ireland, Wales and England. With no casinos, no children, and no nickel-and-diming, Viking appeals to discerning travellers seeking intellectual engagement and serene elegance.",
+  "quick_facts": {
+    "price_from_eur": 2899,
+    "duration_range": "14-15 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Viking Sky",
+      "Viking Neptune",
+      "Viking Jupiter"
+    ],
+    "departure_ports": [
+      "London",
+      "Bergen",
+      "Amsterdam"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct)",
+      "inside_eur": 0,
+      "balcony_eur": 2899,
+      "suite_eur": 5899
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 0,
+      "balcony_eur": 3899,
+      "suite_eur": 7499
+    },
+    {
+      "season": "Late Summer (Sep)",
+      "inside_eur": 0,
+      "balcony_eur": 3299,
+      "suite_eur": 6499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "British Isles Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "London",
+        "Dover",
+        "Portland",
+        "Falmouth",
+        "Plymouth",
+        "Liverpool",
+        "Belfast",
+        "Dublin",
+        "Cork",
+        "Holyhead",
+        "Greenock",
+        "Invergordon",
+        "Edinburgh",
+        "London"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Circumnavigates the British Isles with overnight in Liverpool and Edinburgh"
+    },
+    {
+      "name": "Into the Midnight Sun",
+      "duration_nights": 14,
+      "ports": [
+        "Bergen",
+        "Geiranger",
+        "Lerwick",
+        "Tórshavn",
+        "Djúpivogur",
+        "Reykjavík",
+        "Greenock",
+        "Liverpool",
+        "Dublin",
+        "Holyhead",
+        "Portland",
+        "London"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Combines Norwegian fjords with British Isles exploration"
+    },
+    {
+      "name": "Western Europe to the British Isles",
+      "duration_nights": 15,
+      "ports": [
+        "Amsterdam",
+        "Bruges",
+        "Le Havre",
+        "Southampton",
+        "Portland",
+        "Falmouth",
+        "Cork",
+        "Belfast",
+        "Greenock",
+        "Invergordon",
+        "Edinburgh",
+        "Newcastle",
+        "London"
+      ],
+      "price_from_eur": 3099,
+      "highlight": "Extended journey from continental Europe through Scotland's Highlands"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Sky",
+      "capacity": 930,
+      "year": 2017,
+      "best_for": "Culture-focused adults seeking intimate luxury",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Viking Neptune",
+      "capacity": 930,
+      "year": 2023,
+      "best_for": "Guests wanting newest ship with hydrogen fuel cell technology",
+      "price_from_eur": 2999
+    },
+    {
+      "name": "Viking Jupiter",
+      "capacity": 930,
+      "year": 2019,
+      "best_for": "Sophisticated travellers preferring contemporary Scandinavian design",
+      "price_from_eur": 2899
+    }
+  ],
+  "whats_included": [
+    "One included shore excursion per port",
+    "WiFi",
+    "Beer wine and soft drinks at lunch and dinner",
+    "24-hour room service",
+    "Alternative restaurant dining",
+    "Access to Nordic spa and fitness centre",
+    "Self-service laundry",
+    "Port taxes and fees",
+    "Airport transfers on embarkation and disembarkation days"
+  ],
+  "whats_extra": [
+    "Premium beverages and spirits",
+    "Spa treatments and salon services",
+    "Additional shore excursions beyond the included option",
+    "Laundry and valet services",
+    "Photography services",
+    "Premium dining experiences",
+    "Pre- and post-cruise extensions"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best stateroom selection and early booking savings of up to €1,000 per person. Viking frequently offers complimentary air, reduced deposits, and included shore excursion packages for advance bookings. Consider shoulder season departures in May or September for lower pricing and fewer crowds at popular sites like Edinburgh during festival season.",
+  "top_ports": [
+    {
+      "port": "Edinburgh (Newhaven)",
+      "time_in_port": "7am-11pm",
+      "top_activity": "Royal Yacht Britannia and Edinburgh Castle (€89)",
+      "tip": "Overnight stay allows evening exploration of the Royal Mile without day-trip crowds"
+    },
+    {
+      "port": "Liverpool",
+      "time_in_port": "12pm-overnight",
+      "top_activity": "Beatles Story and Anfield Stadium tour (€75)",
+      "tip": "Use the overnight to experience Liverpool's revitalised waterfront dining scene"
+    },
+    {
+      "port": "Greenock (Glasgow)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Loch Lomond and Trossachs National Park (€109)",
+      "tip": "Ship docks closer to Glasgow than expected; consider independent train travel for city exploration"
+    },
+    {
+      "port": "Dublin",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Guinness Storehouse and Trinity College Book of Kells (€95)",
+      "tip": "Walkable from port; skip ship transfer and explore Temple Bar independently"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Giant's Causeway and Titanic Belfast (€119)",
+      "tip": "Causeway excursion books quickly; reserve pre-cruise for guaranteed availability"
+    },
+    {
+      "port": "Invergordon (Inverness)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Loch Ness cruise and Urquhart Castle (€99)",
+      "tip": "Weather dependent; have backup plans for Cawdor Castle or Highland distillery tours"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises British Isles cruise cost?",
+      "answer": "Viking British Isles cruises typically range from €2,899 to €7,499 per person depending on season, stateroom category, and itinerary length. Shoulder season sailings in April, May, and October start around €2,899 for a veranda stateroom, while peak summer departures in June through August command €3,899 to €4,500. Explorer Suites begin at approximately €5,899. Viking's pricing includes more than competitors: one shore excursion per port, beer and wine at meals, WiFi, and gratuities. Complimentary airfare promotions are frequently available, potentially saving €800-€1,200. Solo travellers benefit from no single supplement on select departures, a rare value in ocean cruising."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to British Isles?",
+      "answer": "Viking deploys its identical 930-guest sister ships on British Isles routes: Viking Sky (2017), Viking Jupiter (2019), and Viking Neptune (2023). These small ocean vessels share the same sophisticated Scandinavian design by Rottet Studio and SMC Design, with all-veranda staterooms, infinity pool, Nordic spa with snow grotto, and multiple dining venues. Viking Neptune introduces experimental hydrogen fuel cell technology. The compact size enables access to intimate ports like Falmouth and Holyhead impossible for larger ships. All feature Viking's signature Explorers' Lounge with forward-facing views, Manfredi's Italian restaurant, and The Kitchen Table culinary experience. Ship assignment typically rotates seasonally with no significant operational differences between vessels."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "The optimal British Isles cruising window spans May through September when daylight extends past 9pm and temperatures average 15-20°C. June and July offer the most reliable weather for outdoor excursions to Scottish Highlands and Irish coastal sites, though also command peak pricing. May provides wildflower blooms in Cornwall and Wales with fewer tourists. September brings autumn colours to Scottish glens and the Edinburgh International Festival atmosphere. April and October sailings risk Atlantic storms and shorter port days, though prices drop significantly. Viking's climate-controlled ships with retractable domed pools ensure comfort regardless of weather. Avoid August bank holiday weekends when British domestic tourism creates congestion at major attractions."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's British Isles cruises include substantially more than typical premium lines: one guided shore excursion in every port (usually a panoramic or walking tour), beer, wine and soft drinks with lunch and dinner, 24-hour room service, complimentary WiFi, self-service laundry, access to the Nordic spa thermal suite and fitness centre, alternative restaurant dining at no surcharge, port taxes and fees, and roundtrip airport transfers. Staterooms feature king beds with luxury linens, flat-screen TVs with complimentary movies, minibars with free soft drinks, and private verandas. What's not included: premium spirits, spa treatments, additional excursions beyond the included option, and airfare unless part of promotional offers. This transparent pricing eliminates onboard bill shock common elsewhere."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking's British Isles itineraries encompass approximately 12-14 ports across England, Scotland, Wales, Northern Ireland and the Republic of Ireland. English calls typically include London (Greenwich or Tilbury), Dover for Canterbury Cathedral, Portland for Jurassic Coast, Falmouth for Cornwall, Plymouth for maritime history, and Liverpool with overnight stays. Scottish ports feature Greenock for Glasgow, Invergordon for Loch Ness and Culloden, plus Edinburgh with overnight anchorage at Newhaven. Irish stops include Dublin, Cork for Blarney Castle, and Belfast for Giant's Causeway. Welsh calls visit Holyhead for Snowdonia or Anglesey. Some itineraries extend to Norway's Bergen and fjords or Iceland's Reykjavík. The circumnavigation route is unique among ocean cruise lines for comprehensiveness."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Viking British Isles cruises 12-18 months in advance for optimal stateroom selection, particularly for mid-ship veranda cabins on higher decks and sought-after Explorer Suites. Early booking typically yields savings of €500-€1,000 per person through Viking's early payment discounts. Veranda staterooms on Deck 6 with central location sell first. For peak summer departures, especially those featuring Edinburgh overnight during festival season, booking 18 months ahead is prudent. Last-minute availability occasionally appears 60-90 days out, primarily in shoulder seasons, though stateroom location may be less desirable. Viking's flexible deposit structure and risk-free cancellation period of 24 hours after booking provides booking confidence. Group bookings of eight or more staterooms require additional advance planning."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Cruises maintains a strict adults-only policy with minimum age 18, making British Isles itineraries unsuitable for families with children. This deliberate positioning creates a serene, intellectually oriented atmosphere appealing to couples, solo travellers, and friends travelling together. The destination-focused programming emphasises history, culture, and cuisine rather than family entertainment. Onboard spaces including the spa, infinity pool, and Explorers' Lounge are designed for adult relaxation. Shore excursions require moderate walking ability and sustained attention. Families seeking British Isles cruising should consider P&O Cruises, Princess, or Royal Caribbean which offer dedicated children's programmes and family-oriented port activities. Viking's adult environment particularly suits multi-generational groups of adult siblings or parents with grown children seeking shared cultural experiences without generational programming compromises."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's cancellation policy for British Isles cruises imposes escalating penalties based on departure proximity. Cancellations 121+ days before sailing incur loss of deposit only (typically €500-€1,000 per person). 120-91 days prior forfeits 15% of cruise fare; 90-61 days loses 35%; 60-31 days forfeits 50%; 30-0 days results in 100% loss. Travel insurance with cancel-for-any-reason coverage is strongly recommended given British Isles weather variability and personal health considerations. Viking's optional Viking Protection Plan provides additional coverage. For COVID-19-related disruptions, Viking implemented flexible rebooking policies allowing future cruise credits. Name changes incur fees. Partial cabin cancellations within group bookings trigger proportionate penalties. Always verify current terms at booking as policies evolved post-pandemic."
+    }
+  ]
+}

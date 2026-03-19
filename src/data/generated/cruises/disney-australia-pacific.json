@@ -1,0 +1,210 @@
+{
+  "title": "Disney Cruise Line Australia & Pacific Cruises 2026",
+  "intro": "Disney Cruise Line brings its signature magic to the Australia & Pacific region, combining breathtaking natural wonders with world-class family entertainment. Sail through crystal-clear waters to discover the Great Barrier Reef, pristine Fijian islands, and vibrant New Zealand fjords—all while experiencing Disney's legendary service and storytelling. The line's thoughtfully designed itineraries balance adventure and relaxation, with dedicated children's clubs, Broadway-caliber shows, and adult-exclusive spaces ensuring every family member finds their perfect vacation rhythm. From snorkeling with tropical fish to encountering Maori culture, these voyages transform bucket-list destinations into unforgettable family memories. Disney's attention to detail extends from rotational dining featuring themed restaurants to character meet-and-greets against stunning South Pacific backdrops. Whether exploring Australia's cosmopolitan cities or remote island paradises, guests enjoy seamless, worry-free travel with Disney's signature touch of enchantment.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "8-14 nights",
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Disney Wonder",
+      "Disney Magic"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Auckland"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Oct-Nov, Mar)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1799,
+      "balcony_eur": 2599,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 2499,
+      "balcony_eur": 3699,
+      "suite_eur": 6999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "8-night South Pacific from Sydney",
+      "duration_nights": 8,
+      "ports": [
+        "Sydney",
+        "Nouméa",
+        "Mystery Island",
+        "Lifou",
+        "Sydney"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Perfect introduction to New Caledonia's pristine lagoons and Melanesian culture"
+    },
+    {
+      "name": "10-night New Zealand & Australia",
+      "duration_nights": 10,
+      "ports": [
+        "Sydney",
+        "Milford Sound",
+        "Dunedin",
+        "Wellington",
+        "Napier",
+        "Tauranga",
+        "Auckland"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Scenic cruising through UNESCO-listed Fiordland with Hobbiton access"
+    },
+    {
+      "name": "14-night Trans-Pacific to Hawaii",
+      "duration_nights": 14,
+      "ports": [
+        "Sydney",
+        "Auckland",
+        "Papeete",
+        "Moorea",
+        "Honolulu"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Ultimate Polynesian adventure combining New Zealand, Tahiti, and Hawaii"
+    },
+    {
+      "name": "9-night Queensland & Great Barrier Reef",
+      "duration_nights": 9,
+      "ports": [
+        "Brisbane",
+        "Airlie Beach",
+        "Cairns",
+        "Port Douglas",
+        "Willis Island",
+        "Brisbane"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Exclusive reef access with Disney's private island experience at Airlie Beach"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Wonder",
+      "capacity": 2713,
+      "year": 1999,
+      "refurbished": 2016,
+      "best_for": "Families with young children, Disney character enthusiasts",
+      "price_from_eur": 1299,
+      "features": "Tiana's Place restaurant, Marvel Super Hero Academy, Frozen musical, adult-exclusive Palo and Remy restaurants"
+    },
+    {
+      "name": "Disney Magic",
+      "capacity": 2713,
+      "year": 1998,
+      "refurbished": 2018,
+      "best_for": "Multi-generational families, Marvel fans",
+      "price_from_eur": 1399,
+      "features": "Rapunzel's Royal Table, AquaDunk waterslide, Edge tween club, After Hours adult district with Fathoms nightclub"
+    }
+  ],
+  "whats_included": [
+    "Rotational dining in three themed main restaurants",
+    "Unlimited soft drinks, coffee, tea at beverage stations",
+    "Broadway-caliber Disney live shows and first-run movies",
+    "Youth clubs for ages 6 months to 17 years (nursery extra)",
+    "Character meet-and-greets and deck parties",
+    "24-hour room service",
+    "Fitness center and sports deck access",
+    "Stateroom host service twice daily"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty coffees (EUR 8-15 per drink)",
+    "Palo and Remy adult-exclusive restaurants (EUR 45-125)",
+    "Port adventures and shore excursions (EUR 45-389)",
+    "Nursery care for infants 6 months-3 years (EUR 10/hour)",
+    "Spa treatments and salon services",
+    "Wi-Fi packages (EUR 18-28 per day)",
+    "Photographs and photo packages",
+    "Gratuities (EUR 14.50 per person per night)"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for peak season and holiday sailings; Disney releases Australia itineraries 15-18 months in advance. Early booking discounts of EUR 200-400 per stateroom typically available. Florida residents and Disney Vacation Club members receive 10-15% savings on select sailings. Consider repositioning cruises in October or March for 30-40% lower pricing. Guarantee staterooms offer EUR 150-300 savings if you're flexible on location.",
+  "top_ports": [
+    {
+      "port": "Sydney, Australia",
+      "time_in_port": "7am-6pm (overnight on select sailings)",
+      "top_activity": "Sydney Opera House backstage tour (EUR 159)",
+      "tip": "Arrive two days early; Disney offers pre-cruise packages at Shangri-La with harbor views"
+    },
+    {
+      "port": "Nouméa, New Caledonia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Amedee Island lighthouse and snorkeling (EUR 189)",
+      "tip": "Book the Disney-exclusive Duck Island beach escape—limited to 60 guests"
+    },
+    {
+      "port": "Milford Sound, New Zealand",
+      "time_in_port": "Scenic cruising 8am-12pm",
+      "top_activity": "Deck viewing with naturalist commentary (included)",
+      "tip": "Reserve Palo brunch for this morning; panoramic windows unbeatable for fjord photography"
+    },
+    {
+      "port": "Cairns, Australia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Great Barrier Reef helicopter and pontoon (EUR 489)",
+      "tip": "Disney's reef adventure includes semi-submersible—ideal for non-swimmers"
+    },
+    {
+      "port": "Papeete, Tahiti",
+      "time_in_port": "8am-6pm (overnight on 14-night)",
+      "top_activity": "Moorea dolphin encounter and cultural tour (EUR 259)",
+      "tip": "Extend with post-cruise stay; Disney has exclusive rates at InterContinental Tahiti"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Australia & Pacific cruise cost?",
+      "answer": "Disney Cruise Line Australia & Pacific voyages range from EUR 1,299 for inside staterooms on shoulder-season 8-night itineraries to EUR 6,999 for concierge suites during Christmas holidays. Balcony accommodations typically cost EUR 1,899-3,699 depending on season and itinerary length. A family of four should budget EUR 5,200-8,400 for the cruise fare alone, plus EUR 1,400-2,100 for gratuities, drinks, excursions, and extras. The 10-night New Zealand cruises offer strong value at EUR 189-269 per night per person. Disney rarely discounts below these thresholds, though early booking incentives and onboard credits up to EUR 400 occasionally apply."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Australia & Pacific?",
+      "answer": "Disney deploys the Disney Wonder and Disney Magic to Australia & Pacific for the 2025-2026 season, marking the line's first dedicated regional deployment. The Disney Wonder serves as the primary ship for 8-10 night South Pacific and New Zealand itineraries from Sydney, Brisbane, and Melbourne. The Disney Magic joins for select 14-night trans-Pacific and holiday voyages. Both 2,713-passenger vessels underwent extensive refurbishments to enhance energy efficiency for long ocean crossings. Disney Wonder features Tiana's Place and Frozen, A Musical Spectacular; Disney Magic offers Rapunzel's Royal Table and the AquaDunk thrill slide. Neither of the larger Dream-class or Wish-class ships currently operate this route."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "October through March offers optimal conditions for Australia & Pacific cruising, with warm temperatures, calm seas, and minimal rainfall. November and February provide the sweet spot of pleasant weather with fewer crowds and 20-25% lower pricing than peak December-January. The Great Barrier Reef experiences best visibility September-November before summer rains. New Zealand's fjords remain spectacular year-round but are most accessible October-April. Christmas and New Year sailings command premium pricing but feature special holiday programming. Avoid June-August when most ships reposition to Alaska. Cyclone risk exists January-March but rarely disrupts itineraries; Disney's flexible scheduling minimizes impact."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney Cruise Line Australia & Pacific fares include rotational dining across three themed restaurants with your personal serving team, unlimited fountain beverages and coffee at deck stations, room service available 24 hours, all live entertainment including Broadway-style Disney productions and deck parties, youth programming from 6 months through 17 years (nursery incurs hourly fee), character appearances and photo opportunities, fitness center access, and standard Wi-Fi for Disney Cruise Line Navigator app use. Notably, Disney includes soft drinks where most lines charge, and their youth clubs operate without scheduling restrictions. Stateroom hosts provide twice-daily service. What's excluded: alcoholic beverages, specialty restaurants Palo and Remy, spa services, shore excursions, and gratuities."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Cruise Line Australia & Pacific itineraries feature diverse ports across three countries. Australian departures include Sydney with its iconic harbor, Melbourne's cultural scene, and Brisbane as gateway to the Great Barrier Reef. New Zealand calls encompass scenic cruising through Milford, Doubtful, and Dusky Sounds, plus Dunedin's Scottish heritage, Wellington's culinary scene, Napier's Art Deco architecture, and Tauranga near Hobbiton. South Pacific islands include Nouméa and Lifou in New Caledonia, Mystery Island's pristine beaches, and Fiji's Denarau on extended itineraries. Select 14-night voyages reach Papeete and Moorea in French Polynesia. Disney emphasizes late stays and overnights in Sydney and Auckland, maximizing exploration time in these gateway cities."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Disney Cruise Line Australia & Pacific reservations 12-18 months before sailing, particularly for holiday periods and concierge-level accommodations which sell out 10-12 months in advance. Disney releases itineraries approximately 15 months ahead, with opening-day booking offering best stateroom selection and occasional early-booking discounts of EUR 200-400. Wave season promotions in January-February may include onboard credits but with limited inventory. For standard balcony staterooms on 8-10 night itineraries, 6-9 months provides reasonable availability. Last-minute deals are extremely rare for this region due to limited ship deployment. Disney Vacation Club members and Castaway Club loyalty guests receive early booking windows 30-90 days before public release, creating competitive pressure for prime dates."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Cruise Line excels for Australia & Pacific family travel, offering unparalleled youth programming that allows parents to experience demanding ports independently. The Oceaneer Club and Lab engage ages 3-12 with supervised activities including Marvel Super Hero Academy and Star Wars: Command Post, operating until midnight. Edge (11-14) and Vibe (14-17) provide tween and teen spaces with age-appropriate programming. Family accommodations include connecting staterooms and deluxe family oceanviews sleeping five. Rotational dining ensures children experience varied environments while keeping their serving team. Port adventures offer family-friendly options at every stop—reef platforms with submarine viewing, wildlife sanctuaries, cultural performances. Disney's attention to dietary needs, nap schedules, and flexible dining makes international travel manageable for families with young children."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line Australia & Pacific bookings follow a tiered cancellation structure: full refund minus EUR 250 per person processing fee for cancellations 119 days or more before sailing; loss of deposit (typically 20% of cruise fare) for cancellations 90-118 days out; 50% penalty for 60-89 days; 75% penalty for 30-59 days; and 100% forfeiture within 29 days of departure. Cancellation protection plans costing EUR 89-189 per person reimburse non-refundable amounts for covered reasons including illness, job loss, or severe weather. Cancel for Any Reason upgrades provide 75% future cruise credit. Given the significant investment and long planning horizon for Australia cruises, the protection plan is strongly recommended. All changes incur EUR 50 processing fees after final payment."
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "title": "Celebrity Cruises Black Sea Cruises 2026",
+  "intro": "Celebrity Cruises elevates Black Sea exploration through its modern luxury lens, combining immersive destination experiences with sophisticated onboard living. The Black Sea remains one of Europe's most culturally rich yet under-cruised regions, where ancient history collides with contemporary geopolitical significance. Celebrity's carefully crafted itineraries navigate from Istanbul through the Bosphorus into this landlocked sea, visiting ports that span millennia of civilizations—from Byzantine treasures in Trabzon to the wine heritage of Crimean coastlines and the architectural splendor of Odessa. The line's signature elements shine here: farm-to-table dining featuring regional Black Sea cuisine, enrichment programming led by destination experts, and the exclusive Captain's Club loyalty benefits. With smaller ship deployment than Mediterranean routes, guests enjoy more intimate port calls and extended evening stays in key destinations like Sochi and Varna, allowing deeper cultural immersion.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Celebrity Constellation",
+      "Celebrity Infinity"
+    ],
+    "departure_ports": [
+      "Istanbul",
+      "Athens"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 3299
+    },
+    {
+      "season": "Late Season (October)",
+      "inside_eur": 799,
+      "balcony_eur": 1199,
+      "suite_eur": 1999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Black Sea Explorer",
+      "duration_nights": 12,
+      "ports": [
+        "Istanbul",
+        "Sinop",
+        "Trabzon",
+        "Sochi",
+        "Yalta",
+        "Sevastopol",
+        "Odessa",
+        "Varna",
+        "Constanta",
+        "Nessebur"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Comprehensive Black Sea circumnavigation with three full days in Crimea"
+    },
+    {
+      "name": "10-night Black Sea & Aegean",
+      "duration_nights": 10,
+      "ports": [
+        "Athens",
+        "Istanbul",
+        "Varna",
+        "Odessa",
+        "Nessebur",
+        "Kusadasi"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Combines iconic Greek islands with Black Sea cultural depth"
+    },
+    {
+      "name": "14-night Ultimate Black Sea",
+      "duration_nights": 14,
+      "ports": [
+        "Istanbul",
+        "Burgas",
+        "Varna",
+        "Odessa",
+        "Sevastopol",
+        "Yalta",
+        "Sochi",
+        "Batumi",
+        "Trabzon",
+        "Sinop"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Maximum port variety including Georgian wine region of Batumi"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Constellation",
+      "capacity": 2170,
+      "year": 2002,
+      "best_for": "Culture-focused travelers seeking intimate luxury",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Celebrity Infinity",
+      "capacity": 2170,
+      "year": 2001,
+      "best_for": "Culinary enthusiasts and wine connoisseurs",
+      "price_from_eur": 849
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining room and buffet",
+    "Select beverages including coffees, teas, juices",
+    "Evening entertainment and enrichment lectures",
+    "Fitness center access",
+    "Standard WiFi",
+    "Gratuities",
+    "Room service"
+  ],
+  "whats_extra": [
+    "Premium beverage packages (EUR 65-85/day)",
+    "Shore excursions (EUR 89-299 per port)",
+    "Specialty dining (EUR 45-75/person)",
+    "Spa treatments",
+    "Enhanced WiFi streaming",
+    "Laundry services",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for optimal cabin selection and early booking savings up to 35%. Black Sea inventory is limited due to seasonal deployment and geopolitical considerations. Consider repositioning cruises in April/October for 40% savings.",
+  "top_ports": [
+    {
+      "port": "Istanbul",
+      "time_in_port": "Embarkation/overnight",
+      "top_activity": "Private Bosphorus yacht tour with dinner (EUR 189)",
+      "tip": "Arrive two days early; hotel packages available through Celebrity"
+    },
+    {
+      "port": "Odessa",
+      "time_in_port": "7am-11pm",
+      "top_activity": "Potemkin Steps and opera house backstage tour (EUR 129)",
+      "tip": "Evening departure allows full day plus illuminated city views"
+    },
+    {
+      "port": "Sevastopol",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Chersonesus ancient city and Russian naval history (EUR 159)",
+      "tip": "Licensed guides required; book Celebrity shore excursions only"
+    },
+    {
+      "port": "Varna",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Aladzha Monastery and Black Sea wine tasting (EUR 99)",
+      "tip": "Compact city center walkable from pier; taxis negotiate in local currency"
+    },
+    {
+      "port": "Sochi",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Stalin's dacha and Olympic park cable car (EUR 139)",
+      "tip": "Russian visa required unless on ship-sponsored excursion"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Black Sea cruise cost?",
+      "answer": "Celebrity Black Sea cruises typically range from EUR 899 for interior cabins on 10-night shoulder-season sailings to EUR 4,500+ for suites during peak summer months. Balcony cabins, essential for Bosphorus and scenic cruising, average EUR 1,399-1,799. All-inclusive packages adding drinks, WiFi, and gratuities add EUR 55-75 per person daily. Repositioning cruises in April and October offer 30-40% savings. Solo travelers face 150-200% single supplements, though Celebrity occasionally offers reduced solo fares on select sailings."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Black Sea?",
+      "answer": "Celebrity deploys Millennium-class ships Constellation and Infinity exclusively for Black Sea routes, chosen for their moderate 2,170-passenger capacity ideal for smaller regional ports. These vessels underwent 2019-2020 refurbishment with updated suites, redesigned bars, and enhanced spa facilities. Constellation features the Tuscan Grille specialty restaurant with Bosphorus views; Infinity emphasizes wine culture with expanded cellar offerings. Neither Edge-class nor Solstice-class ships operate here due to draft restrictions and port infrastructure limitations. Both ships offer AquaClass spa cabins and concierge-level accommodations."
+    },
+    {
+      "question": "When is best time to cruise Black Sea?",
+      "answer": "Optimal Black Sea cruising occurs May-June and September, balancing pleasant 22-28°C temperatures, stable seas, and manageable crowds. July-August brings peak heat (30°C+) and occasional afternoon thunderstorms, though longer daylight hours maximize sightseeing. September offers exceptional value with warm water temperatures ideal for Sochi beaches and harvest-season wine experiences in Crimea and Georgia. October sailings risk cooler 15-20°C weather and reduced excursion availability. May provides wildflower displays across Crimean mountains and fewer cruise ship congestion at Odessa's Potemkin Steps."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's Black Sea cruises include all main dining venue meals, select beverages (drip coffee, tea, juices, iced tea), evening entertainment and enrichment programming, fitness center and pool access, standard WiFi, prepaid gratuities, and 24-hour room service. The line's signature 'Modern Luxury' touches include complimentary bathrobes, luxury bedding, and daily housekeeping twice daily. AquaClass cabins add exclusive spa dining and thermal suite access. Notable inclusions: destination lectures by regional historians, culinary demonstrations featuring Black Sea cuisine, and overnight port stays in Istanbul and Odessa on select itineraries."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Black Sea itineraries visit 8-10 ports across Turkey, Bulgaria, Romania, Ukraine, Russia, and Georgia. Core destinations include Istanbul (overnight), Varna (Bulgaria's maritime capital), Odessa (Ukrainian cultural hub with extended stays), Sevastopol and Yalta (Crimean peninsula, subject to itinerary adjustments), Sochi (Russian Riviera), and Trabzon (Turkish Black Sea heritage). Select sailings include Batumi (Georgia's subtropical wine region), Constanta (Romania), and Nessebur (UNESCO Bulgarian town). Port times range 8-14 hours, with several overnight stays enabling evening cultural performances and dining ashore."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Black Sea bookings 9-14 months in advance due to constrained seasonal deployment (May-October only) and limited ship capacity. Early booking incentives typically include onboard credits (EUR 150-300), complimentary beverage packages, or cabin upgrades. Final payment due 90 days pre-cruise. Last-minute availability rare given itinerary popularity among repeat Celebrity guests and European source markets. For 2026 sailings, book by Q3 2025 for optimal cabin selection, particularly AquaClass spa cabins and Concierge-level suites with additional amenities. Group rates available for 8+ cabins."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity Black Sea cruises suit families with teenage children interested in history and culture, though the line positions itself as adult-focused versus competitors. No dedicated children's programming operates on these itineraries; Camp at Sea and teen clubs run reduced schedules or close entirely on port-intensive days. Minimum age is 6 months. Family-friendly aspects include connecting cabins, diverse dining options accommodating preferences, and educational shore excursions appropriate for ages 12+. Families seeking robust kids' facilities should consider Royal Caribbean or Norwegian alternatives. Solo parents face challenging single supplements."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity's standard policy permits full refund minus deposit if cancelled 90+ days before sailing; 50% refund 89-60 days; 25% refund 59-30 days; no refund under 30 days. Deposit typically EUR 450 per person for 7-14 night cruises. 'Cruise with Confidence' flexible booking (periodically offered) allows cancellation up to 48 hours pre-cruise for future cruise credit. Travel insurance strongly recommended given Black Sea geopolitical volatility; Celebrity's insurance (EUR 129-189) covers trip interruption and emergency evacuation. COVID-19 protocols remain subject to change; current policy requires vaccination for Russia/Georgia port calls."
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "title": "Regent Seven Seas Adriatic Cruises 2026",
+  "intro": "Regent Seven Seas Cruises elevates Adriatic exploration to an art form with their ultra-luxury, all-inclusive voyages. Sailing aboard intimate, elegant ships carrying just 490-750 guests, you'll discover Croatia's Dalmatian Coast, Slovenia's Piran, and Montenegro's Kotor with unprecedented sophistication. Every suite features a private balcony, and your fare includes unlimited shore excursions, fine wines, premium spirits, gratuities, and even business-class air on intercontinental flights. The line's smaller vessels access boutique ports like Hvar and Rovinj that mega-ships cannot reach, while their acclaimed culinary program showcases regional Adriatic flavors. With one of the highest staff-to-guest ratios at sea, personalized service anticipates your every desire as you glide between Venice's grandeur and the Greek Isles.",
+  "quick_facts": {
+    "price_from_eur": 5699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "ships_on_route": [
+      "Seven Seas Splendor",
+      "Seven Seas Voyager",
+      "Seven Seas Explorer"
+    ],
+    "departure_ports": [
+      "Venice",
+      "Barcelona",
+      "Rome (Civitavecchia)",
+      "Athens (Piraeus)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 5699,
+      "balcony_eur": 6299,
+      "suite_eur": 8999
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 6999,
+      "balcony_eur": 7899,
+      "suite_eur": 11999
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 6499,
+      "balcony_eur": 7299,
+      "suite_eur": 10599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Venice to Rome",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Rovinj",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Rome"
+      ],
+      "price_from_eur": 5699,
+      "highlight": "Comprehensive Dalmatian Coast immersion with overnight in Venice"
+    },
+    {
+      "name": "10-night Adriatic & Greek Isles",
+      "duration_nights": 10,
+      "ports": [
+        "Barcelona",
+        "Monte Carlo",
+        "Florence (Livorno)",
+        "Rome",
+        "Naples",
+        "Kotor",
+        "Dubrovnik",
+        "Corfu",
+        "Katakolon",
+        "Athens"
+      ],
+      "price_from_eur": 7499,
+      "highlight": "Extended exploration combining Adriatic treasures with classical Greece"
+    },
+    {
+      "name": "14-night Grand Adriatic",
+      "duration_nights": 14,
+      "ports": [
+        "Venice",
+        "Zadar",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Sarande",
+        "Corfu",
+        "Katakolon",
+        "Santorini",
+        "Mykonos",
+        "Athens",
+        "Nafplion",
+        "Katakolon",
+        "Rome"
+      ],
+      "price_from_eur": 11299,
+      "highlight": "Ultimate regional deep-dive with three sea days for spa indulgence"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Explorer",
+      "capacity": 750,
+      "year": 2016,
+      "best_for": "Luxury connoisseurs seeking the most opulent suites at sea",
+      "price_from_eur": 6299
+    },
+    {
+      "name": "Seven Seas Splendor",
+      "capacity": 750,
+      "year": 2020,
+      "best_for": "Discerning travelers wanting contemporary elegance and spacious suites",
+      "price_from_eur": 5899
+    },
+    {
+      "name": "Seven Seas Voyager",
+      "capacity": 700,
+      "year": 2003,
+      "best_for": "Intimate atmosphere enthusiasts preferring smaller scale with refined service",
+      "price_from_eur": 5699
+    }
+  ],
+  "whats_included": [
+    "Unlimited shore excursions in every port",
+    "All-suite accommodations with private balconies",
+    "Unlimited beverages including fine wines and premium spirits",
+    "All dining including specialty restaurants",
+    "Pre-paid gratuities",
+    "Complimentary WiFi",
+    "Valet laundry service",
+    "Business-class air on intercontinental flights",
+    "Ground transfers",
+    "1-night pre-cruise hotel for Concierge Suites and above"
+  ],
+  "whats_extra": [
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Certain ultra-premium wines and spirits",
+    "Photography services",
+    "Boutique purchases",
+    "Independent arrangements not booked through Regent"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for optimal suite selection and early booking savings of 10-15%; Regent's value proposition strengthens closer to sailing if unsold inventory exists, though Adriatic summer inventory rarely discounts significantly",
+  "top_ports": [
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-6pm or overnight",
+      "top_activity": "Game of Thrones walking tour with cable car ($0 included excursion)",
+      "tip": "Walk the city walls early morning before crowds and heat"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Hike to San Giovanni Fortress ($0 included excursion)",
+      "tip": "Ship tenders; secure early tender tickets for maximum exploration time"
+    },
+    {
+      "port": "Split, Croatia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Diocletian's Palace underground chambers and Trogir ($0 included)",
+      "tip": "Riva waterfront promenade ideal for evening stroll if overnight"
+    },
+    {
+      "port": "Rovinj, Croatia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Truffle hunting in Istrian countryside ($189 supplement)",
+      "tip": "Compact old town rewards independent wandering; skip organized tour"
+    },
+    {
+      "port": "Venice, Italy",
+      "time_in_port": "Embark overnight or full day",
+      "top_activity": "Private after-hours St. Mark's Basilica ($299 supplement)",
+      "tip": "Request starboard-facing suite for Grand Canal arrival views"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Adriatic cruise cost?",
+      "answer": "Regent Seven Seas Adriatic cruises represent ultra-luxury all-inclusive value, with 2026 fares starting from €5,699 per person for seven-night voyages in shoulder season. Peak summer sailings (June through August) typically range €6,999-€11,999 depending on suite category. The entry-level Veranda Suite includes your private balcony, while Master Suites command €25,000+ for the most discerning travelers. Your fare encompasses unlimited shore excursions, all beverages, specialty dining, gratuities, WiFi, and even business-class intercontinental flights—eliminating the nickel-and-diming common on premium lines."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Adriatic?",
+      "answer": "Three vessels comprise Regent's 2026 Adriatic deployment. The flagship Seven Seas Explorer (750 guests, 2016) brings the fleet's most opulent suites and largest spa. Seven Seas Splendor (750 guests, 2020) offers contemporary design with the highest space-to-guest ratio. The intimate Seven Seas Voyager (700 guests, 2003) provides a more understated elegance with the same impeccable service standards. All three feature all-suite, all-balcony accommodations and access identical included shore excursion programs, though Explorer and Splendor command slight premiums for their newer amenities."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "May, June, September, and October deliver optimal Adriatic cruising conditions. Late spring offers wildflower-covered hillsides, comfortable 22-26°C temperatures, and fewer crowds at UNESCO sites like Dubrovnik's walls. September brings the grape harvest and remarkably warm seas for swimming. July and August provide guaranteed sunshine but intense heat (30-35°C) and congested historic centers. November through March sees limited Regent deployment due to reduced demand and occasional weather disruptions, though Venice's acqua alta flooding risk makes winter departures less desirable for this itinerary."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent's genuinely all-inclusive model eliminates virtually all onboard spending decisions. Your fare covers unlimited shore excursions in every port—from walking tours to culinary experiences—unlimited premium beverages including rare vintage wines, all dining across multiple specialty venues, pre-paid gratuities, unlimited WiFi, valet laundry, and even business-class air on intercontinental flights. Ground transfers, pre-cruise hotel nights for suite categories above entry-level, and basic medical services are also included. This comprehensive approach means most guests disembark with zero additional charges, a rarity even in luxury cruising where competitors often exclude excursions or premium drinks."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent's Adriatic itineraries emphasize intimate, culturally significant ports inaccessible to larger vessels. Croatian highlights include Dubrovnik's medieval walls, Split's Roman palace, Hvar's lavender fields, and Rovinj's Venetian architecture. Montenegro's fjord-like Bay of Kotor provides dramatic scenery, while Slovenia's Piran offers Istrian charm. Italian departure points span Venice (often with overnight stays), Rome, and Florence-accessible Livorno. Extended voyages incorporate Greek Isles including Corfu, Santorini, and Mykonos. Smaller ships enable docking at Split and Kotor rather than distant tenders, maximizing your time ashore for the included excursions."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure your preferred suite category 9-18 months before sailing, particularly for peak summer departures when Veranda and Concierge Suites sell out rapidly. Regent's early booking incentives typically offer 10-15% savings plus their most generous deposit terms. Last-minute availability occasionally emerges 60-90 days prior, though Adriatic summer inventory rarely discounts significantly given strong European and North American demand. For specific suite locations—starboard for Venice arrivals, midship for stability-conscious travelers—advance planning proves essential. The line's flexible deposit policy allows changes without penalty until final payment, reducing commitment anxiety."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent accommodates families but targets affluent, experienced travelers rather than multigenerational groups. Children are welcome and receive age-appropriate programming during peak seasons, though facilities pale compared to family-focused lines. The sophisticated excursion portfolio—wine tastings, architectural deep-dives, classical concerts—resonates more with teenagers possessing genuine cultural curiosity than younger children. Connecting suites and the all-inclusive pricing simplify family budgeting, but the formal evening atmosphere and refined dining may challenge restless younger travelers. Families prioritizing enrichment over water slides find value, though most Regent guests are couples celebrating milestones or solo travelers seeking intellectual engagement."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent's cancellation structure balances guest flexibility with inventory protection. Cancellations 151+ days before sailing incur no penalty beyond administrative fees. Days 150-121 forfeit 25% of cruise fare; 120-91 days, 50%; 90-76 days, 75%; and 75 days or less, 100% with no refund. This graduated approach encourages early commitment while protecting the line from late cancellations. Travel insurance, available through Regent or independent providers, strongly recommended given significant penalties and the substantial investment ultra-luxury cruising represents. COVID-era flexible policies have largely reverted to standard terms, though specific health-related cancellations may receive case-by-case consideration."
+    }
+  ]
+}

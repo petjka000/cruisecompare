@@ -1,0 +1,225 @@
+{
+  "title": "Oceania Cruises Australia & Pacific Cruises 2026",
+  "intro": "Oceania Cruises elevates Australia & Pacific exploration with its signature small-ship luxury, carrying fewer than 1,250 guests to intimate harbours larger vessels cannot reach. The line's acclaimed culinary programme, curated by Master Chef Jacques Pépin, transforms regional ingredients into extraordinary dining experiences. From the Great Barrier Reef's pristine coral gardens to Papua New Guinea's untouched tribal cultures and New Zealand's dramatic fjords, Oceania delivers immersive destination immersion with extended evening stays and overnight port calls. The sophisticated yet relaxed atmosphere attracts discerning travellers seeking cultural authenticity without formality. With complimentary unlimited internet, speciality dining, and shore excursion credits on select bookings, Oceania represents exceptional value in ultra-premium cruising. Their 2026 season features comprehensive circumnavigations of Australia, Tasman Sea crossings, and expedition-style South Pacific island hopping.",
+  "quick_facts": {
+    "price_from_eur": 2899,
+    "duration_range": "10-35 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Nautica",
+      "Regatta",
+      "Insignia",
+      "Marina"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Auckland",
+      "Papeete",
+      "Singapore",
+      "Benoa"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 2899,
+      "balcony_eur": 4299,
+      "suite_eur": 7899
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 3599,
+      "balcony_eur": 5299,
+      "suite_eur": 9899
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 4899,
+      "balcony_eur": 7299,
+      "suite_eur": 13999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Tasman & New Zealand",
+      "duration_nights": 12,
+      "ports": [
+        "Sydney",
+        "Burnie",
+        "Melbourne",
+        "Cruising",
+        "Dunedin",
+        "Christchurch",
+        "Wellington",
+        "Napier",
+        "Tauranga",
+        "Auckland"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Comprehensive New Zealand exploration with overnight in Auckland"
+    },
+    {
+      "name": "18-night Australia Circumnavigation",
+      "duration_nights": 18,
+      "ports": [
+        "Sydney",
+        "Brisbane",
+        "Cairns",
+        "Darwin",
+        "Broome",
+        "Geraldton",
+        "Perth",
+        "Adelaide",
+        "Melbourne",
+        "Hobart",
+        "Sydney"
+      ],
+      "price_from_eur": 5199,
+      "highlight": "Complete Australian coastline with Kimberley wilderness access"
+    },
+    {
+      "name": "24-night Polynesian Discovery",
+      "duration_nights": 24,
+      "ports": [
+        "Papeete",
+        "Bora Bora",
+        "Raiatea",
+        "Moorea",
+        "Rangiroa",
+        "Nuku Hiva",
+        "Honolulu",
+        "Crossing",
+        "Nouméa",
+        "Suva",
+        "Dravuni",
+        "Auckland"
+      ],
+      "price_from_eur": 6899,
+      "highlight": "Ultimate South Pacific island immersion with French Polynesia focus"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "best_for": "Intimate destination immersion",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Regatta",
+      "capacity": 670,
+      "year": 1998,
+      "best_for": "Culinary enthusiasts",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Insignia",
+      "capacity": 670,
+      "year": 1998,
+      "best_for": "Cultural explorers",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Spa and culinary excellence",
+      "price_from_eur": 3299
+    }
+  ],
+  "whats_included": [
+    "All meals including speciality restaurants",
+    "Unlimited soft drinks, bottled water, specialty coffees",
+    "Unlimited WiFi",
+    "Fitness classes and wellness programmes",
+    "Destination lectures and enrichment",
+    "Shuttle service to town centres in many ports",
+    "24-hour room service",
+    "Pre-paid gratuities",
+    "Airport transfers with OLife Choice"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages beyond house wine at lunch/dinner",
+    "Shore excursions",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Photography services",
+    "Casino gaming",
+    "Premium internet tier",
+    "Dining at La Reserve by Wine Spectator"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and OLife Choice perks; monitor wave season January-March for added value promotions; consider back-to-back segments for comprehensive regional coverage",
+  "top_ports": [
+    {
+      "port": "Bora Bora",
+      "time_in_port": "8am-6pm (overnight on select sailings)",
+      "top_activity": "Mount Otemanu helicopter tour (€389)",
+      "tip": "Request starboard balcony for lagoon views"
+    },
+    {
+      "port": "Cairns",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Outer Barrier Reef pontoon with diving (€259)",
+      "tip": "Book reef helicopter add-on for coral perspective"
+    },
+    {
+      "port": "Milford Sound",
+      "time_in_port": "Scenic cruising 8am-12pm",
+      "top_activity": "Deck viewing with naturalist commentary (included)",
+      "tip": "Position forward on Deck 10 for photography"
+    },
+    {
+      "port": "Darwin",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Kakadu National Park flightseeing (€449)",
+      "tip": "Essential advance booking due to limited aircraft"
+    },
+    {
+      "port": "Nouméa",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Amedee Island lighthouse and snorkelling (€149)",
+      "tip": "French Pacific culture with excellent cuisine ashore"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Australia & Pacific cruise cost?",
+      "answer": "Oceania Cruises Australia & Pacific voyages typically range from €2,899 to €6,899 for standard itineraries, with comprehensive circumnavigations and holiday departures reaching €9,000-€14,000. The 10-14 night regional segments start around €2,899 for inside staterooms, while balcony accommodations average €4,299-€5,299. Penthouse suites and Owner's Suites command €7,899-€13,999 depending on sailing date. The OLife Choice promotion frequently adds significant value through included shore excursions, beverage packages, or onboard credit worth €400-€800. Solo travellers should expect 150-175% single supplements, though occasional reduced supplement promotions appear. Airfare packages from European gateways add approximately €1,200-€1,800 return."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Australia & Pacific?",
+      "answer": "Oceania deploys its R-class quartet and Marina for Australia & Pacific operations. The intimate 670-guest Nautica, Regatta, and Insignia dominate regional itineraries, their smaller size enabling access to Kimberley coastal waters, Papua New Guinea's remote Sepik River, and New Zealand's fiord communities. These classic vessels underwent comprehensive 2019-2022 refurbishments introducing Oceania's signature culinary centres. The larger 1,250-guest Marina joins select sailings, particularly Christmas/New Year voyages and Sydney-Auckland repositionings, offering expanded speciality dining including La Reserve wine dinners and the Culinary Centre cooking school. All four vessels feature the same acclaimed cuisine and personalised service that define Oceania's ultra-premium positioning."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "November through March delivers optimal Australia & Pacific cruising conditions, coinciding with the Southern Hemisphere summer. December and January offer warmest temperatures ideal for Great Barrier Reef snorkelling and South Pacific beach immersion, though these months command premium pricing and require 18-month advance booking. February and early March provide excellent value with diminishing humidity, particularly favourable for Papua New Guinea and Solomon Islands exploration. November presents shoulder-season savings with pleasant weather across most ports. Cyclone risk, though statistically low, peaks January-March; Oceania's flexible itinerary planning and ship positioning minimise disruption. The Kimberley coast is accessible only May-September, requiring specific seasonal positioning."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Australia & Pacific cruises include remarkably comprehensive value: all dining across multiple venues including Jacques, Red Ginger, and Polo Grill with no surcharges; unlimited soft drinks, bottled water, specialty coffees, and teas; unlimited standard WiFi; fitness centre access and group classes; destination lectures, cooking demonstrations, and enrichment programming; 24-hour room service from full menus; shuttle service to town centres where available; and pre-paid gratuities. The OLife Choice promotion adds one of three options: free shore excursions (typically 4-6 per voyage), free House Select beverage package, or onboard credit. Airport transfers are included with OLife bookings. Unlike competitors, Oceania includes speciality dining and internet without tier restrictions."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Australia & Pacific itineraries encompass extraordinary geographic diversity. Australian ports span Sydney's iconic harbour, Melbourne's cultural precincts, Brisbane's gateway to the Great Barrier Reef, Adelaide's wine country, Perth's Indian Ocean beaches, and Darwin's tropical frontier. New Zealand features Auckland, Wellington, Christchurch, and scenic fiord cruising through Milford, Doubtful, and Dusky Sounds. South Pacific islands include Tahiti, Bora Bora, Moorea, Fiji, New Caledonia, and Vanuatu. Papua New Guinea and Solomon Islands expeditions reach Alotau, Rabaul, and Honiara. Extended voyages incorporate Bali, Singapore, and Southeast Asian ports. Oceania's smaller vessels access Komodo Island, Thursday Island, and the Kimberley coast's Montgomery Reef—destinations unavailable to larger ships."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Oceania Australia & Pacific cruises 12-18 months in advance for optimal stateroom selection, particularly for Penthouse categories and specific cabin locations. The line releases itineraries approximately 18-24 months ahead, with early booking securing preferred dining reservations and OLife Choice promotional benefits. Wave season (January-March) occasionally yields value-added promotions, though limited inventory restricts options. Holiday departures (Christmas, New Year, Chinese New Year) require maximum advance planning—24 months recommended. Last-minute availability under 90 days rarely appears for this region given strong repeat guest demand. Solo travellers should book earliest as single-occupancy staterooms are extremely limited. Consider working with a cruise specialist accessing group space for additional value."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises deliberately positions for mature, culturally-curious travellers rather than families, with no dedicated children's facilities, youth programmes, or family accommodations. The sophisticated culinary focus, enrichment programming, and refined atmosphere appeal primarily to couples and solo travellers aged 50-plus. Multigenerational families with adult children (18+) find Oceania excellent for shared cultural exploration, though younger children experience limited engagement. The small-ship environment enables genuine destination immersion unsuited to youthful energy levels. Families seeking Australia & Pacific cruising should evaluate Seabourn, Silversea, or expedition lines offering dedicated youth programming, or consider mainstream alternatives for younger children. Oceania's relaxed country club ambiance specifically excludes the family market from its strategic positioning."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania Cruises applies graduated cancellation penalties increasing by departure proximity. Cancellations 180+ days before sailing incur no penalty for most fares. 179-120 days: deposit forfeiture (typically €600-€1,200 depending on voyage length). 119-90 days: 25% of total fare. 89-60 days: 50% of total fare. 59-31 days: 75% of total fare. 30 days or less: 100% forfeiture. The OLife Choice promotion carries specific conditions—cancelling after selecting shore excursions or beverage packages may incur additional penalties. Travel insurance is strongly recommended given substantial advance payment requirements and penalty escalation. Cancel For Any Reason coverage through Oceania's preferred partners provides 75% future cruise credit protection. Pandemic-related flexible policies previously offered have largely reverted to standard commercial terms."
+    }
+  ]
+}

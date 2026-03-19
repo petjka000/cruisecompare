@@ -1,0 +1,211 @@
+{
+  "title": "Norwegian Cruise Line British Isles Cruises 2026",
+  "intro": "Norwegian Cruise Line brings its signature Freestyle Cruising concept to the British Isles, offering passengers unparalleled flexibility to explore England, Scotland, Ireland and Wales at their own pace. Unlike traditional cruise lines with fixed dining times, NCL allows guests to savour fresh seafood in Dublin or haggis in Edinburgh whenever they choose. The British Isles itinerary showcases dramatic coastlines, ancient castles and vibrant cities without the hassle of constant packing and unpacking. NCL's contemporary ships provide a relaxed, resort-style atmosphere with multiple restaurants, Broadway-style entertainment and spacious accommodations. British Isles sailings typically operate from April through September, taking advantage of longer daylight hours and milder weather. The cruise line's partnership with local guides ensures authentic shore excursions, from whiskey tastings in Scottish distilleries to Beatles tours in Liverpool. Norwegian's casual dress code and diverse dining options particularly appeal to travellers seeking a less formal way to experience Britain's rich heritage.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "9-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Norwegian Prima",
+      "Norwegian Star",
+      "Norwegian Dawn"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Amsterdam",
+      "Reykjavik",
+      "Copenhagen"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Oct)",
+      "inside_eur": 849,
+      "balcony_eur": 1249,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "9-night British Isles from Southampton",
+      "duration_nights": 9,
+      "ports": [
+        "Southampton",
+        "Portland",
+        "Cork",
+        "Belfast",
+        "Glasgow (Greenock)",
+        "Holyhead",
+        "Liverpool",
+        "Dublin"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Comprehensive Ireland and Scotland coverage with overnight in Dublin"
+    },
+    {
+      "name": "12-night British Isles & Iceland",
+      "duration_nights": 12,
+      "ports": [
+        "Reykjavik",
+        "Isafjordur",
+        "Akureyri",
+        "Torshavn",
+        "Greenock",
+        "Belfast",
+        "Liverpool",
+        "Dublin"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Combines Iceland's natural wonders with British cultural highlights"
+    },
+    {
+      "name": "14-night Northern Europe & British Isles",
+      "duration_nights": 14,
+      "ports": [
+        "Copenhagen",
+        "Amsterdam",
+        "Bruges",
+        "Portland",
+        "Cork",
+        "Belfast",
+        "Greenock",
+        "Inverness",
+        "Edinburgh",
+        "Le Havre"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Extensive Scotland exploration including Inverness and Edinburgh overnight"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Norwegian Prima",
+      "capacity": 3950,
+      "year": 2022,
+      "best_for": "Couples and luxury seekers",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Norwegian Star",
+      "capacity": 2348,
+      "year": 2001,
+      "best_for": "Value-conscious families",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Norwegian Dawn",
+      "capacity": 2304,
+      "year": 2002,
+      "best_for": "Multi-generational groups",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and casual buffet dining",
+    "Broadway-style entertainment and live music",
+    "Fitness centre and sports activities",
+    "Youth programmes for ages 3-17",
+    "Port taxes and service charges"
+  ],
+  "whats_extra": [
+    "Specialty dining restaurants (€15-€45 per person)",
+    "Beverage packages and alcoholic drinks (€99-€139 per day)",
+    "Shore excursions (€59-€299 per tour)",
+    "Spa treatments and salon services",
+    "Wi-Fi packages (€29-€39 per day)",
+    "Gratuities beyond prepaid service charges",
+    "Laundry and dry cleaning"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak summer sailings and preferred cabin categories. Norwegian frequently runs 'Free at Sea' promotions including complimentary beverage packages, specialty dining, shore excursion credits and Wi-Fi—typically saving €400-€800 per couple. Last-minute deals emerge 60-90 days before departure for shoulder season departures. Solo travellers benefit from Norwegian's award-winning Studio cabins with exclusive lounge access, though these sell fastest. Balcony cabins facing Scotland's west coast command premiums for scenic cruising past the Isle of Skye. Consider repositioning cruises in April or October for 30-40% savings versus peak season.",
+  "top_ports": [
+    {
+      "port": "Cork (Cobh)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Blarney Castle & Kinsale heritage tour (€89)",
+      "tip": "Tender port—book early dining to avoid afternoon queues"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Giant's Causeway & Game of Thrones locations (€109)",
+      "tip": "Titanic Belfast opens at 9am—arrive early for best experience"
+    },
+    {
+      "port": "Greenock (Glasgow)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Loch Lomond & Stirling Castle (€95)",
+      "tip": "Glasgow city centre is 45 minutes—consider independent train travel"
+    },
+    {
+      "port": "Dublin",
+      "time_in_port": "8am-overnight",
+      "top_activity": "Guinness Storehouse & Temple Bar walking tour (€79)",
+      "tip": "Overnight stay allows traditional music pub crawl—taxis scarce after midnight"
+    },
+    {
+      "port": "Liverpool",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Beatles Story & Anfield stadium tour (€85)",
+      "tip": "Albert Dock museums free—allocate morning for independent exploration"
+    },
+    {
+      "port": "Holyhead",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Snowdonia National Park & Caernarfon Castle (€99)",
+      "tip": "Weather-dependent port—excursions may substitute Conwy if conditions poor"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Norwegian Cruise Line British Isles cruise cost?",
+      "answer": "Norwegian Cruise Line British Isles cruises typically range from €849 to €2,899 per person depending on season, duration and cabin type. Inside cabins start around €849-€1,199, balconies €1,249-€1,899, and suites €2,199-€3,500+. The 9-night itineraries from Southampton offer best value, while 14-night combination cruises with Iceland or Northern Europe command premiums. Norwegian's 'Free at Sea' promotions can reduce onboard spending by €400-€800 per couple through included drinks, dining and excursions. Solo travellers pay 50-100% supplement unless booking dedicated Studio cabins. Shore excursions average €79-€149 per tour, with multi-day packages available."
+    },
+    {
+      "question": "Which Norwegian Cruise Line ships sail to British Isles?",
+      "answer": "Norwegian Cruise Line deploys multiple ships on British Isles routes, with Norwegian Prima (2022, 3,950 passengers) offering the most modern experience with infinity pools and upscale dining. Norwegian Star and Norwegian Dawn provide intimate, mid-sized alternatives better suited to navigating smaller Scottish ports like Greenock and Inverness. These older vessels underwent extensive refurbishments in 2018-2021, adding contemporary staterooms and specialty restaurants. Norwegian Prima operates primarily from Southampton and Amsterdam, while Norwegian Star handles Reykjavik-based itineraries combining Iceland with the British Isles. Ship selection significantly impacts experience—Prima suits luxury preferences while Star and Dawn appeal to traditional cruisers seeking familiar layouts."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "The optimal British Isles cruising window runs May through September, with June and July offering longest daylight hours—up to 18 hours in Scottish ports—and most reliable weather, though rain remains possible year-round. May and September provide 20-30% lower fares with fewer crowds and excellent visibility for coastal scenery. August coincides with Edinburgh Festival Fringe, creating extraordinary atmosphere but premium pricing. April and October sailings carry weather risks but reward with autumn colours and Northern Lights possibilities on northern routes. Sea conditions in the Irish Sea and North Atlantic are roughest November-March, when most cruise lines suspend operations. Scottish Highland excursions particularly benefit from June-July scheduling when midges are less prevalent."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Norwegian Cruise Line British Isles fares include accommodation, all main dining room and buffet meals, Broadway-style entertainment, fitness facilities, youth programmes and port taxes. The Freestyle Dining concept means no assigned seating or formal nights—dine when and where you choose among complimentary venues. Beverages, specialty restaurants, shore excursions, Wi-Fi and gratuities require additional payment unless secured through 'Free at Sea' promotional packages. Room service carries a €9.95 delivery charge per order. Unlike premium lines, NCL excludes alcoholic drinks from base fares, though beverage packages can be pre-purchased at €99-€139 daily. Airport transfers, spa treatments, laundry and casino gambling are always extra."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Norwegian Cruise Line British Isles itineraries typically visit 6-10 ports across England, Scotland, Ireland, Wales and Northern Ireland. Key destinations include Southampton (embarkation), Cork/Cobh for Blarney Castle access, Belfast for Titanic Belfast and Giant's Causeway, Greenock serving Glasgow and Scottish Highlands, Holyhead for Snowdonia and Welsh castles, Liverpool for Beatles heritage, and Dublin with overnight stays allowing evening Temple Bar exploration. Edinburgh (South Queensferry) and Inverness (Invergordon) feature on extended itineraries. Some sailings include Portland for Stonehenge access or Amsterdam as turnaround port. Tender operations affect Cork and Holyhead—accessibility depends on sea conditions. Norwegian's longer 12-14 night cruises add Iceland ports Reykjavik, Isafjordur and Akureyri."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Norwegian British Isles cruises 9-12 months ahead for peak summer departures, particularly balcony cabins on scenic Scottish coastlines and solo Studio staterooms which sell rapidly. September-October bookings for the following year typically yield best 'Free at Sea' promotional inclusions. Last-minute availability emerges 60-90 days before sailing for shoulder seasons, with discounts of 25-40% possible, though cabin selection becomes limited. Christmas market cruises in December require 6-8 month advance booking. Group reservations (8+ cabins) should plan 12-18 months ahead for coordinated dining and excursion arrangements. Norwegian's flexible cancellation policy allows full refunds until 90 days before departure for most fare types, reducing booking risk."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Norwegian Cruise Line excels for British Isles family cruising through complimentary Splash Academy youth programmes dividing children into age groups 3-5, 6-9, 10-12 and 13-17 with supervised activities from 9am to 10:30pm. Teen clubs feature dedicated hangout spaces and late-night events. The flexible dining suits families with varying schedules—no missed meals due to fixed seating times. Family-friendly shore excursions include Harry Potter studio tours from Southampton, interactive science centres in Glasgow, and easy Dublin walking tours. Connecting staterooms and family suites accommodate larger groups. However, British Isles itineraries skew toward cultural and historical content that may challenge younger children compared to Caribbean beach destinations. Sea days are limited, reducing onboard family programming time."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Norwegian Cruise Line's British Isles cancellation policy varies by fare type. Standard refundable deposits (typically €250 per person) allow full refunds if cancelled before final payment, usually 90 days before sailing. Non-refundable deposits offer lower fares but forfeit deposit amount upon cancellation. After final payment, penalties escalate: 90-76 days before departure loses deposit; 75-61 days loses 25% of fare; 60-31 days loses 50%; 30 days or less forfeits 100%. Travel insurance is strongly recommended given British Isles weather-related itinerary changes and personal health considerations. Norwegian's 'Peace of Mind' policy during certain booking periods permits penalty-free changes up to 48 hours before sailing. Group bookings and contracted rates carry separate cancellation terms requiring individual review."
+    }
+  ]
+}

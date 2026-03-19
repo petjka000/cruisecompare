@@ -1,0 +1,193 @@
+{
+  "title": "Princess Cruises Arabian Gulf Cruises 2026",
+  "intro": "Princess Cruises brings its signature 'Come Back New' philosophy to the Arabian Gulf, offering discerning travellers an elegant way to explore this captivating region. From the ultramodern skyline of Dubai to the ancient forts of Oman, Princess delivers immersive cultural experiences combined with exceptional service. The Arabian Gulf itineraries aboard Princess ships showcase the striking contrast between futuristic ambition and timeless tradition. Guests enjoy overnight stays in key ports, allowing deeper exploration of souks, mosques, and desert landscapes. Princess's enrichment programmes, including destination experts and regional cuisine, enhance understanding of Emirati, Omani, and Qatari cultures. With MedallionClass technology for seamless onboard experience and Discovery at SEA programming, these cruises appeal to curious travellers seeking both comfort and authentic connection. The winter 2026 season represents Princess's most extensive Arabian Gulf deployment yet.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Island Princess",
+      "Sapphire Princess"
+    ],
+    "departure_ports": [
+      "Dubai",
+      "Singapore"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/Mar)",
+      "inside_eur": 699,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2299
+    },
+    {
+      "season": "Holiday Peak",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 2899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Arabian Gulf Explorer",
+      "duration_nights": 7,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Doha",
+        "Bahrain",
+        "Sir Bani Yas Island",
+        "Muscat",
+        "Dubai"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Overnight in Dubai with desert safari experience"
+    },
+    {
+      "name": "14-night Arabian Gulf & India",
+      "duration_nights": 14,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Doha",
+        "Muscat",
+        "Mumbai",
+        "Goa",
+        "Cochin",
+        "Colombo",
+        "Phuket",
+        "Singapore"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Cultural immersion across two continents"
+    },
+    {
+      "name": "10-night Arabian Gulf Treasures",
+      "duration_nights": 10,
+      "ports": [
+        "Singapore",
+        "Phuket",
+        "Colombo",
+        "Mumbai",
+        "Muscat",
+        "Dubai"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Full transit from Southeast Asia with Mumbai overnight"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Island Princess",
+      "capacity": 2216,
+      "year": 2003,
+      "best_for": "Intimate exploration & enrichment seekers",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Sapphire Princess",
+      "capacity": 2670,
+      "year": 2004,
+      "best_for": "Balcony stateroom preference & regional cuisine",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals & casual venue dining",
+    "Broadway-style production shows & live entertainment",
+    "Fitness centre & pool access",
+    "Discovery at SEA enrichment programmes",
+    "MedallionClass wearable technology",
+    "Port taxes & government fees"
+  ],
+  "whats_extra": [
+    "Beverages beyond tea/coffee/juice at breakfast",
+    "Shore excursions & desert experiences",
+    "Specialty dining venues",
+    "Spa treatments & salon services",
+    "WiFi packages",
+    "Gratuities (EUR 16 per person/day recommended)",
+    "Laundry services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; balcony staterooms recommended for Gulf views. Watch for Princess's 'Best Price Guarantee' and 3-for-free promotions covering drinks, WiFi, and gratuities. Repositioning segments (Singapore-Dubai) offer exceptional value.",
+  "top_ports": [
+    {
+      "port": "Dubai",
+      "time_in_port": "Overnight + full day",
+      "top_activity": "Burj Khalifa observation deck (EUR 45)",
+      "tip": "Pre-book evening desert safari for second night"
+    },
+    {
+      "port": "Abu Dhabi",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Sheikh Zayed Grand Mosque tour (EUR 55)",
+      "tip": "Dress modestly; abaya provided if needed"
+    },
+    {
+      "port": "Doha",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Souq Waqif & Museum of Islamic Art (EUR 65)",
+      "tip": "Friday mornings limited due to prayer"
+    },
+    {
+      "port": "Muscat",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Wahiba Sands dune bashing (EUR 189)",
+      "tip": "Combine with Nizwa fort for full day"
+    },
+    {
+      "port": "Bahrain",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Bahrain Fort & National Museum (EUR 49)",
+      "tip": "Smallest Gulf state; easy independent exploration"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Arabian Gulf cruise cost?",
+      "answer": "Princess Cruises Arabian Gulf voyages start from EUR 699 per person for inside staterooms on 7-night itineraries during shoulder months. Balcony accommodations, highly recommended for scenic cruising and private Gulf views, range from EUR 1,099 to EUR 1,799 depending on season. Mini-suites command EUR 1,899-EUR 2,899, while full suites begin at EUR 2,500. Holiday departures (Christmas, New Year) carry 40-60% premiums. The 14-night extended itineraries combining India start from EUR 1,299. Princess frequently runs promotions including complimentary beverage packages and onboard credit worth EUR 150-300, significantly reducing total holiday cost when combined strategically."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Arabian Gulf?",
+      "answer": "Princess deploys its Sun-class and Grand-class vessels for Arabian Gulf operations. Island Princess (2,216 guests, refurbished 2023) offers intimate scale ideal for first-time cruisers and enrichment-focused travellers. Sapphire Princess (2,670 guests) provides extensive balcony stateroom inventory—over 70% of accommodations feature private verandas, crucial for Gulf cruising. Neither ship carries the massive passenger loads of Royal-class vessels, enabling more personalised service and easier port access in smaller harbours like Bahrain. Both vessels feature Princess's signature features: the Sanctuary adults-only retreat, Movies Under the Stars, and extensive international café offerings. Deployment rotates seasonally with ships repositioning via Suez Canal or around Africa."
+    },
+    {
+      "question": "When is best time to cruise Arabian Gulf?",
+      "answer": "The optimal Arabian Gulf cruising window runs November through March, when temperatures moderate to 20-28°C—ideal for desert excursions and open-air souk exploration. December and January represent peak demand with pleasant 22-25°C conditions, though prices rise accordingly. February maintains excellent weather with slightly lower crowds. November and March offer value pricing with occasional 30°C days; early November still risks humidity. Avoid April through October entirely—temperatures exceed 40°C with extreme humidity, making shore excursions uncomfortable and potentially hazardous. Princess schedules no Arabian Gulf departures during these months. The winter season coincides with Dubai's festival calendar including Shopping Festival (January) and Food Festival (February), enhancing destination appeal."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Cruises Arabian Gulf fares include accommodation, all main dining room meals, casual venue dining, Broadway-style entertainment, enrichment lectures, fitness facilities, pools, and MedallionClass technology for streamlined embarkation and onboard purchases. Discovery at SEA programming brings regional experts aboard. Not included: beverages beyond basic breakfast juices, specialty restaurants, shore excursions, WiFi, spa services, and gratuities. Princess offers 'Princess Plus' and 'Princess Premier' packages bundling drinks, WiFi, and gratuities for EUR 40-60 daily—typically 40% cheaper than à la carte. All port taxes and government fees are included in advertised fares. Room service carries nominal charges for select items. Currency onboard is USD; EUR accepted at fixed exchange rates."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess Arabian Gulf itineraries centre on Dubai, with most featuring overnight stays allowing evening desert safaris and dinner in the dunes. Abu Dhabi offers Sheikh Zayed Grand Mosque and Louvre Abu Dhabi. Doha showcases Museum of Islamic Art and traditional souqs. Muscat, Oman delivers dramatic mountain and coastal scenery with intact fortresses. Bahrain provides archaeological sites including the ancient Dilmun civilisation. Sir Bani Yas Island, a private destination, offers beach relaxation and wildlife reserve access. Extended 14-night voyages add Mumbai (overnight), Goa, Cochin, and Colombo, creating comprehensive Indian Ocean exploration. Some repositioning cruises include Singapore, Phuket, and Colombo as bookend destinations."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Princess Arabian Gulf cruises 9-12 months ahead for optimal stateroom selection, particularly balcony categories facing port side for scenic approaches. Holiday departances (Christmas, New Year, Easter) require 12-18 month booking horizons and command significant premiums. Princess releases itineraries approximately 18 months in advance. Last-minute deals occasionally appear 60-90 days before sailing for flexible travellers, though cabin location compromises are likely. Early booking advantages include 'Best Price Guarantee' protection and preferred dining times. Group bookings (8+ staterooms) benefit from dedicated group rates and amenity credits when secured 12+ months ahead. Shore excursion pre-booking opens 120 days before sailing for suite guests, 90 days for others."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Arabian Gulf cruises suit families with teenage and adult children more than young families, given the destination's cultural sophistication and excursion intensity. The ships offer Camp Discovery youth programmes for ages 3-17, though participation is lower on enrichment-focused itineraries. Families benefit from connecting staterooms and suite configurations. Shore excursions require consideration—desert safaris have age minimums (typically 4-6 years), and mosque visits demand modest dress and behavioural constraints challenging for young children. The 7-night duration suits school holiday windows. Princess's partnership with Discovery Channel brings educational elements appealing to curious adolescents. Evening entertainment and dining lean adult; families should book main dining early seatings. Alternative lines offer more child-centric Arabian Gulf experiences."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises applies standard cancellation tiers: full refund minus deposit if cancelled 181+ days before sailing; deposit forfeiture (EUR 200-400 depending on cruise length) at 180-91 days; 50% of total fare at 90-61 days; 75% at 60-31 days; 100% forfeiture under 30 days. 'Princess Vacation Protection' plans (EUR 89-189 per person) enable cancellation for any reason with future cruise credit, or standard covered reasons with cash refund. COVID-19 protocols have introduced flexible booking options allowing changes without penalty up to 30 days before sailing on select fares. Named storm protection provides full credit for itinerary alterations due to weather. Travel insurance is strongly recommended given Arabian Gulf's distance from major European medical facilities and excursion activity levels."
+    }
+  ]
+}

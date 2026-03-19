@@ -1,0 +1,230 @@
+{
+  "title": "Oceania Cruises Baltic & Scandinavia Cruises 2026",
+  "intro": "Oceania Cruises elevates Baltic and Scandinavia exploration through its hallmark culinary excellence and intimate, destination-focused voyages. The premium line's mid-sized ships navigate narrow waterways and dock in historic city centres inaccessible to larger vessels, offering extended stays in Stockholm, Copenhagen, St. Petersburg, and Tallinn. Renowned for Jacques Pépin's culinary direction and the finest cuisine at sea, Oceania transforms each sailing into a gastronomic journey complemented by immersive cultural programming. The 2026 season features comprehensive itineraries ranging from 10 to 28 nights, combining marquee capitals with hidden gems like Visby, Bornholm, and the Norwegian fjords. With unlimited shore excursions included on select fares and a country club casual atmosphere, Oceania appeals to discerning travellers seeking authentic Nordic and Baltic experiences without sacrificing sophisticated comfort.",
+  "quick_facts": {
+    "price_from_eur": 2849,
+    "duration_range": "10-28 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Marina",
+      "Nautica",
+      "Sirena"
+    ],
+    "departure_ports": [
+      "Copenhagen",
+      "Stockholm",
+      "Amsterdam",
+      "London"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 2849,
+      "balcony_eur": 3899,
+      "suite_eur": 6499
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 3499,
+      "balcony_eur": 4899,
+      "suite_eur": 7999
+    },
+    {
+      "season": "Grand Voyages",
+      "inside_eur": 5999,
+      "balcony_eur": 8499,
+      "suite_eur": 14999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Baltic Marvels",
+      "duration_nights": 10,
+      "ports": [
+        "Copenhagen",
+        "Berlin (Warnemünde)",
+        "Tallinn",
+        "St. Petersburg",
+        "Helsinki",
+        "Stockholm"
+      ],
+      "price_from_eur": 3199,
+      "highlight": "Two full days in St. Petersburg with overnight stay"
+    },
+    {
+      "name": "12-night Scandinavian Splendours",
+      "duration_nights": 12,
+      "ports": [
+        "Amsterdam",
+        "Oslo",
+        "Kristiansand",
+        "Copenhagen",
+        "Gothenburg",
+        "Aarhus",
+        "Berlin (Warnemünde)",
+        "Copenhagen"
+      ],
+      "price_from_eur": 3899,
+      "highlight": "Norwegian fjords and Danish cultural immersion"
+    },
+    {
+      "name": "14-night Vikings & Czars",
+      "duration_nights": 14,
+      "ports": [
+        "London (Southampton)",
+        "Brussels",
+        "Amsterdam",
+        "Berlin (Warnemünde)",
+        "Tallinn",
+        "St. Petersburg",
+        "Helsinki",
+        "Stockholm"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Comprehensive Baltic capitals with British Isles departure"
+    },
+    {
+      "name": "28-night Northern Crown",
+      "duration_nights": 28,
+      "ports": [
+        "Copenhagen",
+        "Stockholm",
+        "Helsinki",
+        "St. Petersburg",
+        "Tallinn",
+        "Riga",
+        "Gdansk",
+        "Berlin",
+        "Oslo",
+        "Flåm",
+        "Bergen",
+        "Stavanger",
+        "Amsterdam"
+      ],
+      "price_from_eur": 7499,
+      "highlight": "Ultimate Grand Voyage combining Baltic and Norwegian fjords"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Culinary enthusiasts and culture seekers",
+      "price_from_eur": 3199
+    },
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "best_for": "Intimate destination immersion and exotic ports",
+      "price_from_eur": 2849
+    },
+    {
+      "name": "Sirena",
+      "capacity": 670,
+      "year": 1999,
+      "best_for": "Rerouted itineraries and extended Baltic exploration",
+      "price_from_eur": 2999
+    }
+  ],
+  "whats_included": [
+    "Unlimited internet",
+    "All specialty restaurants",
+    "Unlimited soft drinks, bottled water and coffees",
+    "Room service",
+    "Fitness centre and classes",
+    "Destination lectures",
+    "Shuttle service to town centres",
+    "24-hour concierge",
+    "Self-service laundry"
+  ],
+  "whats_extra": [
+    "Airfare (unless OLife Choice selected)",
+    "Shore excursions (unless OLife Choice selected)",
+    "Beverage packages for alcohol",
+    "Spa treatments",
+    "Laundry and valet services",
+    "Casino gaming",
+    "Premium internet tier"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for optimal cabin selection and OLife Choice incentives; wave season (January-March) offers strongest value with complimentary amenities bundles",
+  "top_ports": [
+    {
+      "port": "St. Petersburg",
+      "time_in_port": "6am-6pm (overnight)",
+      "top_activity": "Hermitage Museum private tour (€189)",
+      "tip": "Book visa-free shore excursions through Oceania; independent exploration requires Russian visa"
+    },
+    {
+      "port": "Stockholm",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Vasa Museum and Gamla Stan walking tour (€129)",
+      "tip": "Ship docks at Stadsgården; Gamla Stan is 20-minute walk or use complimentary shuttle"
+    },
+    {
+      "port": "Copenhagen",
+      "time_in_port": "6am-6pm",
+      "top_activity": "Rosenborg Castle and Tivoli Gardens (€149)",
+      "tip": "Langelinie Pier docking puts Little Mermaid statue within walking distance"
+    },
+    {
+      "port": "Tallinn",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Medieval Old Town and Kiek in de Kök tower (€89)",
+      "tip": "Compact historic centre easily explored independently; most attractions within 15-minute walk"
+    },
+    {
+      "port": "Helsinki",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Suomenlinna Sea Fortress ferry and walking tour (€79)",
+      "tip": "Market Square and Helsinki Cathedral are 10-minute walk from South Harbour terminal"
+    },
+    {
+      "port": "Flåm (Norway)",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Flåm Railway to Myrdal (€95)",
+      "tip": "Book train tickets through Oceania; independent tickets sell out months in advance"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Baltic & Scandinavia cruise cost?",
+      "answer": "Oceania Cruises Baltic and Scandinavia voyages start from approximately €2,849 per person for shoulder season 10-night sailings in an inside cabin. Balcony accommodations typically range €3,899-€4,899 depending on season, with Owner's Suites reaching €6,499-€7,999. The OLife Choice promotion adds significant value by bundling airfare, shore excursions, or beverage packages. Grand Voyages of 24-28 nights command premium pricing from €5,999 inside to €14,999 suite, though per-night costs decrease substantially. Solo travellers face 150-200% single supplements unless promotional reduced rates apply. Final pricing depends heavily on booking timing, with earliest reservations securing optimal rates and cabin selection."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Baltic & Scandinavia?",
+      "answer": "Oceania deploys three vessels to Baltic and Scandinavia in 2026. Marina, the 1,250-guest flagship, offers the most comprehensive programming with her 10 culinary venues including Jacques Pépin's signature restaurant. The intimate 670-guest Nautica and Sirena access smaller ports like Visby and Bornholm unavailable to larger ships. All three vessels feature the line's hallmark country club casual ambience, extensive library collections, and Canyon Ranch spa partnerships. Marina dominates peak summer rotations with her superior entertainment facilities, while Nautica handles more exotic routing including Russian Far East extensions. Sirena frequently operates repositioning voyages combining Baltic exploration with British Isles or Mediterranean segments."
+    },
+    {
+      "question": "When is best time to cruise Baltic & Scandinavia?",
+      "answer": "The optimal Baltic and Scandinavia cruise season runs May through September, with June and July offering the most reliable weather and longest daylight hours—up to 19 hours of sun in St. Petersburg. May and September provide excellent value with fewer crowds and blooming or autumn foliage scenery, though temperatures remain cooler (12-18°C). Mid-June to early July brings the magical white nights phenomenon across the region. August maintains warmest waters for beach extensions but attracts peak family travel. Oceania schedules intensive itineraries during these months, with some sailings timed specifically for the St. Petersburg White Nights Festival. Avoid late September when attractions begin winter closures and Baltic storms increase."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Baltic and Scandinavia cruises include unlimited complimentary internet, all specialty dining at venues including Jacques, Red Ginger, and Polo Grill, unlimited soft drinks, specialty coffees, and bottled water, 24-hour room service, and comprehensive enrichment programming. Fitness centre access, destination lectures, and shuttle service to town centres are included. The OLife Choice promotion bundles roundtrip airfare, unlimited shore excursions, or the House Select beverage package. Notably, Oceania does not include alcoholic beverages in base fares, nor automatic gratuities which run €16 per person daily. Shore excursions are complimentary only with OLife selection; à la carte pricing ranges €89-€289 per tour. Spa treatments, casino play, and premium internet tiers incur additional charges."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Baltic and Scandinavia itineraries encompass the region's cultural capitals and hidden harbours. St. Petersburg features prominently with overnight stays enabling comprehensive imperial palace exploration. Stockholm, Copenhagen, Helsinki, and Tallinn form the core Baltic circuit. Norwegian extensions incorporate Oslo, the Sognefjord villages of Flåm and Gudvangen, plus Bergen and Stavanger. German calls at Warnemünde provide Berlin access, while Polish stops at Gdansk offer Hanseatic heritage. Lesser-visited ports include Visby on Gotland island, Bornholm's medieval round churches, Latvia's Art Nouveau capital Riga, and Estonia's Saaremaa island. Copenhagen and Amsterdam serve as primary embarkation points, with some itineraries originating from London Southampton or Stockholm. The smaller Nautica and Sirena access additional boutique destinations."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Booking Oceania Baltic and Scandinavia cruises 9-18 months in advance secures optimal value and cabin selection, particularly for coveted Concierge Level and above categories with priority restaurant reservations. The line releases itineraries approximately 18 months ahead. Wave season (January through March) traditionally offers the strongest incentives including OLife Choice bundles worth €800-€1,200. Penthouse and Owner's Suite inventory depletes fastest for peak summer departures. Last-minute deals occasionally emerge 60-90 days prior for shoulder season sailings, though cabin location and dining reservations may be compromised. Solo travellers should book earliest as single-occupancy staterooms are extremely limited. Group bookings of eight or more cabins require 12-month advance planning for preferred sailing dates."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises positions itself as adult-oriented and is not specifically designed for family travel, though mature teenagers (16+) appreciating cultural immersion and fine dining may find rewarding experiences. The line offers no dedicated children's facilities, youth programming, or family cabins. Baltic and Scandinavia itineraries particularly suit multi-generational groups where grandparents and adult children share interests in history, art, and cuisine. The educational focus, extended port stays, and sophisticated onboard atmosphere appeal to intellectually curious young adults. Families with younger children should consider Norwegian Cruise Line or Royal Caribbean for dedicated youth programming. Oceania's relaxed country club ambience and destination intensity best serve couples and single travellers seeking enrichment over entertainment, with Baltic itineraries demanding substantial walking and cultural engagement."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania Cruises implements a tiered cancellation structure for Baltic and Scandinavia voyages. Cancellations 121 days or more prior to departure incur loss of deposit (typically 20% of cruise fare). Days 120-91 trigger 50% penalty of total fare. Days 90-76 forfeit 75%, while 75 days or less results in 100% cancellation charge. The line offers Cancel For Any Reason protection through TripMate insurance, reimbursing 75% in future cruise credit if cancelled for non-covered reasons, or 100% for covered medical/family emergencies. COVID-19 protocols remain flexible with testing and vaccination requirements subject to destination regulations. Rebooking to alternative sailings within 12 months may waive penalties if initiated before final payment due date, typically 90 days prior. Travel insurance is strongly recommended given substantial Baltic season investment."
+    }
+  ]
+}

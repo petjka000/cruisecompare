@@ -1,0 +1,198 @@
+{
+  "title": "Costa Cruises Transatlantic Cruises 2026",
+  "intro": "Costa Cruises brings authentic Italian flair to Transatlantic crossings, combining classic repositioning voyages with Mediterranean sophistication. These 7-14 night journeys connect Europe and the Americas aboard ships designed for international travelers seeking European-style cruising. Costa's Transatlantic routes typically operate during spring and autumn repositioning seasons, offering exceptional value with fares starting lower than comparable cruise lines. Passengers enjoy Costa's signature Italian hospitality, from espresso bars to multi-course dinners featuring regional Italian cuisine. The line attracts a diverse European and Latin American clientele, creating a cosmopolitan onboard atmosphere. Sea days are filled with language classes, cooking demonstrations, and ballroom dancing. Costa's Transatlantic cruises appeal to experienced cruisers seeking extended sea time, cultural immersion, and affordable balcony accommodations for ocean crossing traditions.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Costa Toscana",
+      "Costa Smeralda",
+      "Costa Firenze"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Savona",
+      "Marseille",
+      "Pointe-à-Pitre"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring Repositioning",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    },
+    {
+      "season": "Autumn Repositioning",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1699
+    },
+    {
+      "season": "Peak Holiday",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Barcelona to Pointe-à-Pitre",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Malaga",
+        "Santa Cruz de Tenerife",
+        "Pointe-à-Pitre"
+      ],
+      "price_from_eur": 799,
+      "highlight": "Classic eastbound crossing with Canary Islands stop"
+    },
+    {
+      "name": "Savona to Fort-de-France",
+      "duration_nights": 13,
+      "ports": [
+        "Savona",
+        "Marseille",
+        "Barcelona",
+        "Santa Cruz de Tenerife",
+        "Fort-de-France"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Italian departure with French Caribbean arrival"
+    },
+    {
+      "name": "Pointe-à-Pitre to Marseille",
+      "duration_nights": 11,
+      "ports": [
+        "Pointe-à-Pitre",
+        "Santa Cruz de Tenerife",
+        "Malaga",
+        "Marseille"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Westbound repositioning with excellent value"
+    },
+    {
+      "name": "Barcelona to Salvador",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Malaga",
+        "Recife",
+        "Salvador"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Extended crossing to Brazilian coast"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Toscana",
+      "capacity": 5232,
+      "year": 2021,
+      "best_for": "Families & couples seeking modern Italian design",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Costa Smeralda",
+      "capacity": 5232,
+      "year": 2019,
+      "best_for": "LNG-powered eco-conscious travelers",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Costa Firenze",
+      "capacity": 4232,
+      "year": 2021,
+      "best_for": "Intimate Italian atmosphere with Florentine theme",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All main dining room meals",
+    "Buffet restaurant access",
+    "Theater shows and live entertainment",
+    "Fitness center and pools",
+    "Kids club and teen programs",
+    "Port taxes and service charges"
+  ],
+  "whats_extra": [
+    "Beverage packages (from €29/day)",
+    "Specialty restaurants (€25-45/person)",
+    "Shore excursions (€45-189)",
+    "Spa treatments",
+    "WiFi packages",
+    "Laundry services",
+    "Gratuities (€11/day recommended)"
+  ],
+  "booking_strategy": "Book 4-8 months ahead for best cabin selection; last-minute deals available 60 days out but limited balcony inventory. Repositioning cruises release 18 months advance. Consider 'Cruises Only' rates for drink-inclusive packages worth €200+ on 14-night sailings.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Teide National Park excursion (€89)",
+      "tip": "Pre-book volcano tour, limited spaces"
+    },
+    {
+      "port": "Malaga",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Alhambra Palace Granada (€189)",
+      "tip": "Full day trip, book months ahead"
+    },
+    {
+      "port": "Barcelona",
+      "time_in_port": "Embarkation day",
+      "top_activity": "Sagrada Familia self-guided (€26)",
+      "tip": "Arrive 2 days early for jet lag recovery"
+    },
+    {
+      "port": "Pointe-à-Pitre",
+      "time_in_port": "Disembarkation",
+      "top_activity": "Grande-Terre island tour (€65)",
+      "tip": "Extend stay for Guadeloupe beaches"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Transatlantic cruise cost?",
+      "answer": "Costa Transatlantic cruises offer exceptional value, with inside cabins from €699-899 for 11-14 night crossings. Balcony cabins, highly recommended for ocean views, range €999-1399. Suites with butler service start at €1599. Prices include accommodation, meals, and entertainment. Beverage packages add €29-45 daily. Spring repositioning (March-April) typically offers lowest fares. Costa frequently runs 'All-Inclusive' promotions bundling drinks and WiFi, saving €400+ on two-week voyages. Children often sail free or at reduced rates, making this economical for families."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Transatlantic?",
+      "answer": "Costa deploys its newest LNG-powered flagship class for Transatlantic routes: Costa Toscana (2021, 5232 passengers) and Costa Smeralda (2019, 5232 passengers) handle most crossings, offering sustainable cruising with Italian design. Costa Firenze (2021, 4232 passengers) operates select routes with more intimate Florentine theming. These ships feature expansive promenades, multiple pools, and dedicated spa complexes essential for multi-day sea crossings. All offer international multilingual service with Italian as primary language alongside English, French, Spanish, and German."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "Costa operates Transatlantic cruises during repositioning seasons: March-April (eastbound Europe to Caribbean) and October-November (westbound Caribbean to Europe). These months offer stable Atlantic weather with moderate seas. March-April crossings enjoy warming temperatures; October-November may encounter stronger winds but often lower prices. Costa does not operate Transatlantic December-February when seas are roughest. Avoid peak holiday weeks when fares spike 30-40%. April and October provide optimal balance of price, weather, and daylight hours for pool deck enjoyment during sea days."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's Transatlantic fares include accommodation, all main restaurant and buffet meals, theater entertainment, fitness facilities, pools, and supervised children's programs. The line's Italian heritage shines through included dining: multi-course dinners, fresh pasta stations, and pizza until late evening. Basic coffee, tea, and water are complimentary at meals. Not included are alcoholic beverages, specialty dining, shore excursions, WiFi, and spa services. Consider upgrading to 'Piu Gusto' drink packages (€29-39/day) covering wines, cocktails, and specialty coffees—essential value on sea-heavy itineraries with limited port stops."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa Transatlantic itineraries feature limited port calls emphasizing sea days. Typical eastbound routes depart Barcelona or Savona, stop Malaga (Spain) and Santa Cruz de Tenerife (Canary Islands) before Caribbean arrival at Pointe-à-Pitre (Guadeloupe) or Fort-de-France (Martinique). Westbound reverses this pattern. Some extended 14-night sailings reach Brazilian ports including Salvador and Recife. The Canary Islands stop is strategically positioned for fuel and supplies after 4-5 days at sea. These ports offer volcanic landscapes, colonial architecture, and duty-free shopping rather than beach-focused Caribbean experiences."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Costa Transatlantic cruises 4-8 months ahead for optimal cabin selection, particularly balcony cabins which sell quickly for ocean views. Costa releases itineraries 18 months in advance. Early booking secures preferred dining times and cabin locations amidships for stability. However, Costa frequently discounts unsold inventory 60-90 days before sailing—risk-tolerant travelers can find balcony cabins at inside prices, though cabin choice becomes limited. Repositioning cruises have less flexibility than regular itineraries; once sold out, no additional capacity exists. Group bookings (8+ cabins) should plan 12 months ahead."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa Transatlantic cruises suit families with flexible school schedules, offering exceptional value with children often sailing free or at minimal cost on sharing basis. Squok Club provides complimentary supervised activities ages 3-17 with multilingual staff. Sea days allow quality family time with pools, sports courts, and evening shows. However, the Italian-centric experience—late dining times, smoking permitted in designated areas, and multilingual announcements—may challenge families accustomed to North American cruise standards. The 7+ day sea crossing demands children comfortable with shipboard routines. Consider shorter 11-night options before committing to full 14-night crossings."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa's standard cancellation policy charges no penalty until 90 days before departure. Cancellations 89-60 days incur 25% fare loss; 59-30 days forfeit 50%; 29-15 days lose 75%; under 15 days no refund. 'Costa Protection' insurance (€49-89) upgrades to flexible cancellation with future cruise credit. During promotional periods, non-refundable deposits may apply with stricter terms. COVID-19 policies provided full credits during operational suspensions; current health-related cancellations offer rebooking options. Always purchase comprehensive travel insurance covering medical evacuation, as Atlantic crossings operate far from comprehensive medical facilities until reaching port."
+    }
+  ]
+}

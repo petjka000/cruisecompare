@@ -1,0 +1,221 @@
+{
+  "title": "Oceania Cruises Alaska Cruises 2026",
+  "intro": "Oceania Cruises elevates Alaska exploration through its signature blend of destination immersion and culinary excellence. The premium line operates intimate, mid-sized vessels that navigate narrow fjords and glacier-fed channels inaccessible to larger ships. Oceania's Alaska program emphasizes extended port stays and overnight calls in Juneau and Ketchikan, allowing guests to experience midnight sun and authentic frontier culture. The line's renowned Culinary Discovery Tours connect passengers with Alaskan seafood harvesters, indigenous food traditions, and local chefs. With all-veranda accommodations and a 1:1.6 staff-to-guest ratio, Oceania delivers personalized service against a backdrop of Hubbard Glacier calving events and wildlife-rich Inside Passage waters. The 2026 season features special voyages timed for salmon runs, humpback whale concentrations, and optimal Denali visibility.",
+  "quick_facts": {
+    "price_from_eur": 2849,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Regatta",
+      "Nautica"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Vancouver",
+      "Seward"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 2849,
+      "balcony_eur": 3899,
+      "suite_eur": 6899
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 3599,
+      "balcony_eur": 4899,
+      "suite_eur": 8499
+    },
+    {
+      "season": "July Peak",
+      "inside_eur": 4299,
+      "balcony_eur": 5699,
+      "suite_eur": 9999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Glaciers & Gardens",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Sitka",
+        "Victoria",
+        "Seattle"
+      ],
+      "price_from_eur": 2849,
+      "highlight": "Scenic cruising Tracy Arm Fjord with Sawyer Glacier"
+    },
+    {
+      "name": "Alaska's Frontier",
+      "duration_nights": 10,
+      "ports": [
+        "Seattle",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Icy Strait Point",
+        "Wrangell",
+        "Sitka",
+        "Victoria",
+        "Astoria",
+        "San Francisco"
+      ],
+      "price_from_eur": 4199,
+      "highlight": "Rare call at Wrangell with exclusive bear-viewing excursions"
+    },
+    {
+      "name": "Denali & Glaciers Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Seward",
+        "Hubbard Glacier",
+        "Juneau",
+        "Skagway",
+        "Icy Strait Point",
+        "Ketchikan",
+        "Vancouver",
+        "Victoria",
+        "San Francisco",
+        "Monterey",
+        "Santa Barbara",
+        "Los Angeles"
+      ],
+      "price_from_eur": 5899,
+      "highlight": "Pre-cruise land tour to Denali National Park with Tundra Wilderness tour"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Regatta",
+      "capacity": 670,
+      "year": 1998,
+      "best_for": "Intimate luxury seekers, culinary enthusiasts",
+      "price_from_eur": 2849
+    },
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "best_for": "Destination-focused travelers, repeat Oceania guests",
+      "price_from_eur": 2949
+    }
+  ],
+  "whats_included": [
+    "All dining at specialty and main restaurants",
+    "Unlimited soft drinks, bottled water, specialty coffees",
+    "Unlimited internet WiFi",
+    "Airport transfers with OLife Choice",
+    "Shuttle service to town centers",
+    "24-hour room service",
+    "Fitness center and sauna access",
+    "Destination lectures and enrichment programs",
+    "Self-service laundry"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and wine packages",
+    "Shore excursions and Culinary Discovery Tours",
+    "Spa treatments and salon services",
+    "Laundry and valet services",
+    "Pre- and post-cruise hotel packages",
+    "Airfare unless part of OLife Choice promotion",
+    "Gratuities (€16-23 per person daily)",
+    "Premium dining experiences"
+  ],
+  "booking_strategy": "Book 9-15 months ahead for best cabin selection and OLife Choice promotions. Oceania typically releases Alaska inventory 18 months in advance. Wave season (January-March) offers strongest incentives including free shore excursions, beverage packages, or onboard credit. Veranda staterooms sell out 12 months ahead for July departures. Consider repositioning cruises in May and September for 30-40% savings.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-10pm (overnight on select sailings)",
+      "top_activity": "Mendenhall Glacier helicopter landing (€489)",
+      "tip": "Book Mendenhall canoe paddle for uncrowded glacier views"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Misty Fjords flightseeing (€359)",
+      "tip": "Walk Creek Street independently before cruise-organized tours depart"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-8pm",
+      "top_activity": "White Pass & Yukon Route railway (€189)",
+      "tip": "Combine railway with Klondike bicycle descent for active alternative"
+    },
+    {
+      "port": "Sitka",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sea otter and wildlife quest (€279)",
+      "tip": "Visit Sitka National Historical Park independently—free shuttle provided"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "10am-8pm",
+      "top_activity": "World's longest ziprider (€159)",
+      "tip": "Whale watching guaranteed June-August or money back"
+    },
+    {
+      "port": "Wrangell",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Anan Creek bear observatory (€449)",
+      "tip": "Limited permits—book through Oceania 90 days pre-cruise"
+    },
+    {
+      "port": "Hubbard Glacier",
+      "time_in_port": "Scenic cruising 6-10am",
+      "top_activity": "Bridge or bow viewing (complimentary)",
+      "tip": "Port side staterooms preferred for morning approach"
+    },
+    {
+      "port": "Tracy Arm Fjord",
+      "time_in_port": "Scenic cruising 6am-12pm",
+      "top_activity": "Sawyer Glacier close approach",
+      "tip": "Dress warmly on deck—katabatic winds drop temperatures significantly"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Alaska cruise cost?",
+      "answer": "Oceania Cruises Alaska voyages range from €2,849 for shoulder season 7-night itineraries in interior staterooms to €9,999+ for peak July 14-night suite accommodations. Typical balcony staterooms average €3,899-€5,699 depending on season. The OLife Choice promotion adds value through included airfare, shore excursions, or beverage packages. Solo travelers face 150-200% single supplements unless booking designated studio accommodations. Additional budgeting should include €16-23 daily gratuities, alcoholic beverages, specialty shore excursions (€89-€589), and pre-cruise hotel nights in gateway cities."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Alaska?",
+      "answer": "Oceania deploys its 670-guest R-class vessels Regatta and Nautica for Alaska operations. These intimate ships, refurbished in 2019-2020, feature all-veranda accommodations and a 1:1.6 staff-to-guest ratio. Their compact size enables navigation of Tracy Arm Fjord and close glacier approaches impossible for larger vessels. Both ships carry the line's renowned specialty restaurants including Polo Grill, Toscana, and Jacques. The open-kitchen culinary center hosts hands-on cooking classes using Alaskan ingredients. Limited guest numbers ensure personalized service and efficient tender operations in remote ports like Wrangell."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "Oceania's Alaska season runs May through September, with each month offering distinct advantages. May delivers snow-capped mountains, cascading waterfalls from snowmelt, and 20-30% lower pricing—ideal for budget-conscious travelers. June through August provide peak wildlife viewing, with humpback whales, orcas, and brown bears most active; July offers warmest temperatures and longest daylight hours. September brings autumn foliage, northern lights possibilities, and exceptional value, though some higher-elevation excursions may close. Oceania schedules overnight calls in Juneau during peak months, enabling evening wildlife viewing and local dining. Glaciers calve most actively in warm July afternoons."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Alaska cruises include all dining at specialty and main restaurants with no surcharges, unlimited soft drinks and specialty coffees, complimentary WiFi throughout the ship, and 24-hour room service. The OLife Choice promotion adds one of three options: free shore excursions (one per port up to €199 value), free House Select beverage package, or onboard credit up to €800. Airport transfers, destination lectures, fitness center access, and shuttle service to town centers are included. Notably, Oceania includes unlimited internet where competitors charge daily fees. Gratuities, alcoholic beverages, spa services, and premium shore excursions remain additional."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Alaska itineraries feature marquee ports Juneau, Ketchikan, and Skagway with extended stays and occasional overnights. The line uniquely includes Wrangell, offering exclusive Anan Creek bear observatory access with limited daily permits. Icy Strait Point provides guaranteed whale watching and indigenous Tlingit cultural experiences. Sitka, with its Russian heritage and sea otter populations, appears on most voyages. Scenic cruising highlights include Hubbard Glacier, Tracy Arm Fjord's Sawyer Glacier, and the Inside Passage's Misty Fjords. Some itineraries incorporate Victoria, British Columbia for Butchart Gardens, while repositioning cruises add San Francisco, Monterey, and Astoria for comprehensive Pacific coastal exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Oceania recommends booking Alaska 9-15 months in advance due to limited inventory on 670-guest vessels and strong repeat guest demand. The line releases itineraries approximately 18 months ahead. July peak season veranda staterooms and Penthouse Suites frequently sell out 12 months prior. Wave season (January-March) offers optimal value with OLife Choice promotions, though popular dates may already be constrained. Culinary Discovery Tours and limited-capacity excursions like Anan Creek bear viewing require 90-day advance booking. Solo travelers should book earliest as single-occupancy staterooms are extremely limited. Last-minute availability occasionally appears 60-90 days out at 15-25% discounts."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises targets affluent adult travelers and offers limited dedicated children's programming, making Alaska sailings best suited for multi-generational families with teenage or adult children rather than young families. No kids' clubs, waterslides, or organized youth activities exist. The educational focus—destination lectures, naturalist presentations, and culinary demonstrations—appeals to intellectually curious adolescents. Family suites can accommodate three guests; connecting staterooms are limited and require early booking. Shore excursions suit active families, though minimum ages apply for adventure options like helicopter landings. The relaxed, sophisticated atmosphere and fine dining emphasis may challenge families with children under 12. Crystal and Seabourn offer more structured family programs in Alaska."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania's standard cancellation policy for Alaska cruises charges no penalty until 121 days before departure. Cancellations 120-91 days prior incur 25% of total fare; 90-61 days, 50%; 60-31 days, 75%; and 30 days or less, 100% forfeiture. Cancel For Any Reason protection, available for purchase within 14 days of deposit, provides future cruise credits worth 80% of cancellation penalties. Travel insurance through Oceania's preferred provider covers medical evacuation from remote Alaskan ports, essential given limited shoreside medical facilities. Pandemic-related flexible booking policies may apply for 2026 sailings. Rebooking to a later Alaska season typically incurs €150 administrative fee plus fare difference."
+    }
+  ]
+}

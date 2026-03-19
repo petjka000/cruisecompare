@@ -1,0 +1,203 @@
+{
+  "title": "Regent Seven Seas Alaska Cruises 2026",
+  "intro": "Regent Seven Seas Cruises elevates Alaska exploration through its all-inclusive, ultra-luxury lens, combining untamed wilderness with uncompromising comfort. Sail aboard intimate, all-suite vessels where every stateroom features a private balcony—essential for glacier viewing and wildlife spotting. The line's hallmark includes unlimited shore excursions, from helicopter glacier landings to exclusive bear-viewing expeditions, ensuring immersive experiences without hidden costs. Gourmet dining rivals fine restaurants ashore, with locally sourced Pacific Northwest cuisine complementing international selections. The relaxed, sophisticated atmosphere attracts discerning travelers who appreciate personalized service and smaller ports inaccessible to larger ships. Regent's Alaska voyages typically operate May through September, capturing peak wildlife activity and optimal weather. With fares encompassing flights, transfers, gratuities, Wi-Fi, and premium beverages, guests experience seamless journeying through the Inside Passage, Hubbard Glacier, and beyond—where luxury and adventure converge against towering fjords and ancient ice fields.",
+  "quick_facts": {
+    "price_from_eur": 5890,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Seven Seas Explorer",
+      "Seven Seas Navigator"
+    ],
+    "departure_ports": [
+      "Vancouver",
+      "Seward",
+      "Whittier"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 5890,
+      "balcony_eur": 6890,
+      "suite_eur": 12500
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 7290,
+      "balcony_eur": 8490,
+      "suite_eur": 15900
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Vancouver to Seward: Alaska's Glaciers & Frontier",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Hubbard Glacier",
+        "Sitka",
+        "Seward"
+      ],
+      "price_from_eur": 5890,
+      "highlight": "Scenic cruising past Hubbard Glacier with included helicopter glacier trekking"
+    },
+    {
+      "name": "Connoisseur's Alaska: Roundtrip Vancouver",
+      "duration_nights": 11,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Hubbard Glacier",
+        "Icy Strait Point",
+        "Sitka",
+        "Tracy Arm",
+        "Wrangell",
+        "Victoria"
+      ],
+      "price_from_eur": 8290,
+      "highlight": "Extended time in lesser-visited Wrangell and Icy Strait Point with exclusive wilderness lodge access"
+    },
+    {
+      "name": "Alaska Intensive: Whittier to Vancouver",
+      "duration_nights": 14,
+      "ports": [
+        "Whittier",
+        "College Fjord",
+        "Valdez",
+        "Hubbard Glacier",
+        "Glacier Bay",
+        "Sitka",
+        "Juneau",
+        "Skagway",
+        "Ketchikan",
+        "Victoria",
+        "Vancouver"
+      ],
+      "price_from_eur": 11490,
+      "highlight": "Comprehensive glacier coverage including College Fjord and full day in Glacier Bay National Park"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Explorer",
+      "capacity": 746,
+      "year": 2016,
+      "best_for": "Luxury seekers, culinary enthusiasts, special occasions",
+      "price_from_eur": 6290
+    },
+    {
+      "name": "Seven Seas Navigator",
+      "capacity": 496,
+      "year": 1999,
+      "refurbished": 2019,
+      "best_for": "Intimate expedition feel, solo travelers, repeat Regent guests",
+      "price_from_eur": 5890
+    }
+  ],
+  "whats_included": [
+    "Roundtrip business-class air on intercontinental flights, economy on domestic",
+    "Unlimited shore excursions in every port",
+    "Unlimited beverages including fine wines and premium spirits",
+    "All specialty restaurants with no surcharges",
+    "Pre-cruise hotel night for intercontinental guests",
+    "Unlimited Wi-Fi",
+    "Valet laundry service",
+    "Gratuities",
+    "Ground transfers",
+    "Onboard entertainment and enrichment lectures"
+  ],
+  "whats_extra": [
+    "Spa treatments and salon services",
+    "Premium shore excursion upgrades (private vehicles, extended adventures)",
+    "Casino gaming",
+    "Photography purchases",
+    "Boutique and duty-free shopping",
+    "Medical services",
+    "Satellite phone calls"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for optimal suite selection and early booking savings up to EUR 1,500; Regent's flexible cancellation policy allows rebooking if prices drop before final payment",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Mendenhall Glacier helicopter tour with dog sledding (included)",
+      "tip": "Request morning helicopter slots for clearer weather; afternoon often brings coastal fog"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Exclusive Misty Fjords seaplane flight (included)",
+      "tip": "Regent's included floatplane excursion books quickly—confirm pre-cruise"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-8pm",
+      "top_activity": "White Pass Railway summit excursion (included)",
+      "tip": "Evening departure allows independent exploration of historic downtown after railway return"
+    },
+    {
+      "port": "Sitka",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Sea otter and wildlife quest by expedition vessel (included)",
+      "tip": "Dress in layers; Sitka's maritime climate shifts rapidly regardless of forecast"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "8am-6pm",
+      "top_activity": "World's longest zip line with included whale watching cruise",
+      "tip": "Zip line has weight restrictions—verify pre-cruise; whale watching guaranteed sightings in summer"
+    },
+    {
+      "port": "Hubbard Glacier (scenic cruising)",
+      "time_in_port": "6am-12pm",
+      "top_activity": "Bridge or suite balcony glacier viewing with naturalist commentary",
+      "tip": "Port-side suites preferred for northbound itineraries; reserve forward observation lounge early"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Alaska cruise cost?",
+      "answer": "Regent Seven Seas Alaska cruises start from approximately EUR 5,890 per person for seven-night voyages in shoulder season, rising to EUR 7,290+ during peak summer months. The all-inclusive fare covers business-class international flights, unlimited shore excursions, premium beverages, specialty dining, gratuities, Wi-Fi, and pre-cruise hotel stays. Suite accommodations range from EUR 12,500 for entry-level suites to EUR 25,000+ for Master Suites on longer itineraries. Unlike premium lines with à la carte pricing, Regent's upfront cost eliminates onboard spending surprises, delivering exceptional value for travelers who typically purchase excursions, drinks packages, and flights separately elsewhere."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Alaska?",
+      "answer": "For 2026, Regent deploys Seven Seas Explorer and Seven Seas Navigator to Alaska. Seven Seas Explorer, the line's flagship launched 2016, carries 746 guests in all-suite, all-balcony accommodations with the largest suites at sea and exceptional culinary venues including Chartreuse and Pacific Rim. Seven Seas Navigator, more intimate at 496 passengers and extensively refurbished 2019, offers a cozier atmosphere with the same inclusive amenities. Both vessels feature Canyon Ranch SpaClub, multiple dining venues, and expedition-style programming. Their smaller size—roughly one-quarter of mass-market ships—enables access to secluded coves and closer glacier positioning prohibited to larger vessels."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "Alaska's cruise season runs May through September, with optimal timing depending on priorities. June offers longest daylight hours (nearly 19 hours in Juneau), peak snowmelt creating dramatic waterfalls, and active wildlife including bear cubs emerging. July and August provide warmest temperatures (15-20°C), peak salmon runs attracting bears to streams, and guaranteed glacier calving activity. September delivers autumn foliage, northern lights possibilities, and fewer crowds with potential aurora sightings on northern itineraries. May features lower prices, pristine snow-capped mountains, and migratory whale concentrations. Regent schedules primarily June-August departures when weather most reliably permits helicopter excursions and zodiac operations."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent's all-inclusive Alaska experience encompasses virtually every vacation element: roundtrip flights (business class internationally, economy domestically), unlimited shore excursions in every port from whale watching to glacier trekking, unlimited premium beverages including vintage wines and top-shelf spirits, all dining including specialty restaurants Compass Rose, Chartreuse, and Pacific Rim, gratuities for all staff, unlimited valet laundry, comprehensive Wi-Fi, ground transfers, and pre-cruise hotel nights for intercontinental travelers. The only significant exclusions are spa treatments, casino play, and premium excursion upgrades. This comprehensive inclusion eliminates budgeting uncertainty and allows complete immersion in Alaska's wonders without transactional friction."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent's Alaska itineraries feature marquee ports and exclusive access points. Vancouver and Seward/Whittier serve as primary embarkation points. Key destinations include Juneau (Mendenhall Glacier, whale watching), Ketchikan (Misty Fjords, totem heritage), Skagway (White Pass Railway, Klondike history), Sitka (Russian heritage, sea otter encounters), and Icy Strait Point (wilderness setting, world's longest zip line). Scenic cruising highlights encompass Hubbard Glacier—North America's largest tidewater glacier—Glacier Bay National Park with park ranger narration, Tracy Arm's Sawyer Glacier, and College Fjord's glacier collection. Smaller vessels access Wrangell's authentic frontier atmosphere and exclusive wilderness lodges unavailable to larger ships, providing genuine Alaskan immersion beyond tourist infrastructure."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Regent Seven Seas Alaska cruises demand 12-18 month advance booking for optimal results. Suite categories, particularly sought-after penthouse and above accommodations with butler service, sell first due to limited inventory on 496-746 passenger vessels. Early booking typically secures complimentary business-class flight upgrades and savings up to EUR 1,500 per suite. The line's flexible cancellation policy—allowing rebooking without penalty if prices decrease before final payment—reduces risk of early commitment. For 2026 departures, prime July dates and specific suite categories already show limited availability by autumn 2024. Last-minute Regent Alaska inventory rarely discounts significantly given inclusive value and small ship capacity constraints."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas Alaska suits families with mature children and multigenerational groups rather than young families seeking dedicated kids' programming. The line offers no children's facilities, clubs, or youth counselors—intentionally maintaining adult-oriented ambiance. However, Alaska's inherent appeal—wildlife, glaciers, outdoor adventure—engages teenagers and adult children meaningfully. Families appreciate included excursions eliminating activity planning friction, spacious suites accommodating third/fourth guests in select categories, and flexible dining without fixed schedules. The educational enrichment program, featuring naturalists and Alaska experts, appeals to curious younger travelers. Regent recommends minimum age 12 months; families with children under 16 should carefully consider whether adult-focused environment matches expectations before booking."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas provides industry-leading booking flexibility. Standard policy allows cancellation with full refund to original payment form up to 121 days before departure for voyages under 30 nights, 151 days for longer itineraries. Cancellations 120-91 days incur deposit loss; 90-61 days forfeit 25% of fare; 60-31 days retain 50%; 30 days or less surrender 100%. Regent frequently offers promotional reduced deposits and enhanced flexibility allowing future cruise credits rather than forfeiture. Travel insurance, including Regent's own comprehensive coverage, strongly recommended given Alaska's remote nature and potential weather disruptions. COVID-19 protocols remain adaptive with flexible rebooking options for illness-related cancellations, though specific terms evolve with public health guidance."
+    }
+  ]
+}

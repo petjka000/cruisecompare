@@ -1,0 +1,228 @@
+{
+  "title": "Royal Caribbean Australia & Pacific Cruises 2026",
+  "intro": "Royal Caribbean brings its signature innovation and adventure to the Australia & Pacific region, combining world-class ship amenities with some of Earth's most spectacular natural wonders. From the Great Barrier Reef's underwater kaleidoscope to New Zealand's fjord-carved landscapes, these voyages deliver bucket-list destinations with the comfort of floating resorts. The 2026 season features Quantum-class and Voyager-class ships repositioned specifically for Australasian waters, offering surf simulators, skydiving simulators, and North Star observation capsules that elevate scenic cruising to new heights. Whether exploring Aboriginal culture, wine-tasting in Marlborough, or witnessing Milford Sound's waterfalls, Royal Caribbean's Australia & Pacific itineraries blend immersive port experiences with sea days packed with entertainment. The region's summer months (December-February) provide optimal conditions, with itineraries ranging from short sampler cruises to comprehensive 14-night explorations of both nations.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Quantum of the Seas",
+      "Ovation of the Seas",
+      "Explorer of the Seas"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Brisbane",
+      "Auckland"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Shoulder (Mar-Apr, Nov)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Low (May-Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1699
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "9-night South Pacific & Fiji",
+      "duration_nights": 9,
+      "ports": [
+        "Sydney",
+        "Mystery Island",
+        "Suva",
+        "Dravuni Island",
+        "Sydney"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Fiji's pristine islands with three full sea days for ship enjoyment"
+    },
+    {
+      "name": "12-night New Zealand",
+      "duration_nights": 12,
+      "ports": [
+        "Sydney",
+        "Bay of Islands",
+        "Auckland",
+        "Tauranga",
+        "Napier",
+        "Picton",
+        "Dunedin",
+        "Dusky Sound",
+        "Doubtful Sound",
+        "Milford Sound",
+        "Sydney"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Triple fjord scenic cruising through UNESCO World Heritage wilderness"
+    },
+    {
+      "name": "7-night Queensland Coast",
+      "duration_nights": 7,
+      "ports": [
+        "Brisbane",
+        "Airlie Beach",
+        "Cairns",
+        "Port Douglas",
+        "Willis Island",
+        "Brisbane"
+      ],
+      "price_from_eur": 799,
+      "highlight": "Great Barrier Reef gateway with exclusive Willis Island weather station visit"
+    },
+    {
+      "name": "14-night Australia & New Zealand Grand",
+      "duration_nights": 14,
+      "ports": [
+        "Sydney",
+        "Melbourne",
+        "Hobart",
+        "Dunedin",
+        "Akaroa",
+        "Wellington",
+        "Napier",
+        "Tauranga",
+        "Auckland"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Comprehensive two-nation exploration with overnight in Auckland"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Quantum of the Seas",
+      "capacity": 4180,
+      "year": 2014,
+      "best_for": "Tech-forward travelers & families",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Ovation of the Seas",
+      "capacity": 4180,
+      "year": 2016,
+      "best_for": "Adventure seekers & scenic cruising",
+      "price_from_eur": 949
+    },
+    {
+      "name": "Explorer of the Seas",
+      "capacity": 3282,
+      "year": 2000,
+      "best_for": "Value-conscious families",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals & buffet access",
+    "Windjammer Café casual dining",
+    "Pool deck snacks & pizza",
+    "Broadway-style entertainment & live music",
+    "AquaTheater high-dive shows (Quantum-class)",
+    "FlowRider surf simulator & rock climbing wall",
+    "Fitness center & basic classes",
+    "Kids & teen programs (ages 6 months-17 years)",
+    "Port taxes & government fees"
+  ],
+  "whats_extra": [
+    "Specialty dining (Chops Grille, Izumi, Wonderland)",
+    "Deluxe Beverage Package (€63/day) or individual drinks",
+    "Shore excursions (€89-€349 per person)",
+    "Voom Wi-Fi packages (€15-€25/day)",
+    "Spa treatments & salon services",
+    "Casino gaming",
+    "Laundry & dry cleaning",
+    "Gratuities (€16-€18/person/day auto-added)",
+    "Photos & photo packages",
+    "North Star observation capsule (Quantum-class, sea days only)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak December-February sailings, especially balcony staterooms for New Zealand fjord cruising. Wave season (January-March) offers the best promotions with reduced deposits and onboard credit. Consider repositioning cruises in October/November for 30-40% savings. Solo travelers should watch for reduced single supplements in shoulder seasons. Crown & Anchor Society members receive early access to new itineraries and exclusive rates.",
+  "top_ports": [
+    {
+      "port": "Sydney, Australia",
+      "time_in_port": "7am-6pm (overnight on some itineraries)",
+      "top_activity": "Sydney BridgeClimb (€189) or Opera House backstage tour",
+      "tip": "Stay onboard for sailaway past Opera House and Harbour Bridge"
+    },
+    {
+      "port": "Milford Sound, New Zealand",
+      "time_in_port": "Scenic cruising 8am-10am",
+      "top_activity": "Deck viewing of Stirling Falls & Mitre Peak",
+      "tip": "Reserve North Star 30 minutes ahead; bring binoculars and rain jacket"
+    },
+    {
+      "port": "Cairns, Australia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Great Barrier Reef helicopter & pontoon (€389)",
+      "tip": "Book reef tours independently for €80 savings vs ship excursion"
+    },
+    {
+      "port": "Auckland, New Zealand",
+      "time_in_port": "8am-6pm (overnight on some)",
+      "top_activity": "Waiheke Island wine tour (€149)",
+      "tip": "Walk to Viaduct Harbour; ship docks at Princess Wharf in city center"
+    },
+    {
+      "port": "Mystery Island, Vanuatu",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Snorkeling equipment rental (€25) or glass-bottom boat (€45)",
+      "tip": "No permanent residents—bring cash for local craft vendors"
+    },
+    {
+      "port": "Hobart, Tasmania",
+      "time_in_port": "8am-5pm",
+      "top_activity": "MONA museum ferry & entry (€45)",
+      "tip": "Salamanca Market Saturdays; book museum tickets online in advance"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Australia & Pacific cruise cost?",
+      "answer": "Royal Caribbean Australia & Pacific cruises range from €699 for low-season interior staterooms on older ships to €4,500+ for peak-season suites with balconies. Typical 7-night Queensland cruises average €899-€1,299, while comprehensive 12-14 night New Zealand voyages run €1,299-€2,199. Balcony staterooms command €400-€600 premiums over interiors but are essential for Milford Sound scenic cruising. School holiday periods (mid-December to late January) see 40% price increases. Solo travelers face 150-200% single supplements unless promotional waived-fare offers appear. Gratuities (€16-€18/day), drinks, and excursions add €400-€700 per person weekly."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Australia & Pacific?",
+      "answer": "Royal Caribbean deploys Quantum-class and Voyager-class ships to Australia & Pacific seasonally. Quantum of the Seas and Ovation of the Seas anchor the 2025-2026 season—these 4,180-passenger mega-ships feature North Star observation capsules, RipCord by iFly skydiving simulators, and SeaPlex indoor activity spaces. Explorer of the Seas offers a more traditional experience with lower pricing. Quantum-class ships dominate summer peak season (December-March), while Explorer handles shoulder months. These vessels are specifically repositioned from Asia or Alaska for Australasian summer operations. Ship selection significantly impacts experience—Quantum-class delivers cutting-edge amenities but larger crowds, while Explorer offers more intimate scale with fewer specialty dining options."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "December through February offers optimal conditions for Australia & Pacific cruising, with warm temperatures (22-28°C), calm seas, and extended daylight hours critical for New Zealand fjord scenic cruising. This southern summer aligns with Australian school holidays, creating peak demand and pricing. March-April provides excellent value with 20-30% lower fares, stable weather, and fewer crowds, though daylight hours shorten slightly. May-October constitutes low season with cooler temperatures, rougher Tasman Sea crossings, and limited itineraries—some ships reposition to Alaska or Asia. Cyclone risk in Queensland (November-April) rarely disrupts itineraries but can alter ports. For photography enthusiasts, February's golden evening light enhances Milford Sound and Doubtful Sound transits."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean Australia & Pacific cruises include accommodation, all main dining venue meals (breakfast, lunch, dinner), Windjammer Café buffet, poolside snacks, and most entertainment including Broadway productions, AquaTheater shows on Quantum-class ships, live music, and comedy. Adventure Ocean kids programming (ages 3-17), teen lounges, and nursery care (6-36 months, hourly fees apply) are included. Fitness center access, rock climbing walls, FlowRider surf simulators, and basketball courts carry no charge. Gratuities (€16-€18/person/day), alcoholic beverages, specialty dining, Wi-Fi, shore excursions, spa services, casino play, and laundry are extra. North Star capsule rides are complimentary in port but sea day reservations incur fees. Room service carries a €7.95 delivery charge per order except continental breakfast."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean's Australia & Pacific network spans 40+ ports across Australia, New Zealand, and South Pacific islands. Australian highlights include Sydney (overnight departures past Opera House), Brisbane (Great Barrier Reef access), Melbourne (cultural gateway), Hobart (Tasmanian wilderness), and Cairns/Port Douglas (reef experiences). New Zealand features Auckland (overnight options), Tauranga (Rotorua geothermal region), Wellington (craft beer & culture), Picton (Marlborough wine country), and the spectacular fjords—Milford, Doubtful, and Dusky Sounds with mandatory scenic cruising. South Pacific extensions reach Fiji (Suva, Dravuni), Vanuatu (Mystery Island, Port Vila), and New Caledonia. Longer repositioning cruises may include Singapore, Bali, or Hawaii. Itinerary selection determines whether you prioritize wildlife, indigenous culture, adventure activities, or culinary experiences."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Royal Caribbean Australia & Pacific cruises 9-12 months ahead for peak December-February sailings, especially balcony and suite staterooms for New Zealand fjord itineraries which sell out first. Quantum-class ships release itineraries 18 months in advance; early booking secures preferred dining times and shore excursion availability. Wave season (January-March) offers the year's best promotions with reduced deposits, onboard credit, and occasional free gratuities. Last-minute deals emerge 60-90 days before sailing for shoulder season, though stateroom selection becomes limited. Solo travelers should monitor 6-month mark for single supplement reductions. Crown & Anchor members receive exclusive early access and member rates 12+ months out. Final payment is typically due 90 days before departure for standard bookings."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean excels for Australia & Pacific family cruising with comprehensive programming across all age groups. Adventure Ocean divides children into Aquanauts (3-5), Explorers (6-8), Voyagers (9-11), and teen lounges (12-14, 15-17) with supervised activities from science experiments to late-night parties, all included. Babies 6-36 months access Royal Babies & Tots nursery (€8/hour). Family staterooms and connecting rooms accommodate larger groups. Quantum-class ships feature SeaPlex with bumper cars, roller skating, and circus school; FlowRider surfing; and RipCord skydiving simulator. Port excursions include family-friendly options like wildlife sanctuaries, beach days, and cultural performances. Main dining offers children's menus and flexible seating. The only challenge: long sea days between Australia and New Zealand require planning for active children."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's standard cancellation policy for Australia & Pacific cruises charges no penalty for cancellations 90+ days before departure. Cancellations 89-75 days prior forfeit deposit (typically €200-€400 per person). 74-61 days loses 25% of total fare; 60-31 days loses 50%; 30-15 days loses 75%; and 14 days or less forfeits 100%. Cancel For Any Reason protection (purchased within 14 days of deposit) provides future cruise credit for 75% of non-refundable amount. COVID-19 protocols remain flexible with full refunds for positive tests within 10 days of sailing. Travel insurance (€89-€189) is strongly recommended given distance and cost of Australia & Pacific itineraries. Name changes incur €50-€100 fees. Rebooking to different sailings typically carries no penalty outside final payment date."
+    }
+  ]
+}

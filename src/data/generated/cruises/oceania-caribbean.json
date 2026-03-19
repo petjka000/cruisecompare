@@ -1,0 +1,208 @@
+{
+  "title": "Oceania Cruises Caribbean Cruises 2026",
+  "intro": "Oceania Cruises elevates Caribbean exploration through its signature blend of destination immersion and culinary excellence. Unlike mass-market alternatives, this upper-premium line crafts intimate voyages aboard mid-sized vessels, accessing boutique harbours inaccessible to larger ships. The Caribbean itinerary collection spans Eastern, Western, and Southern routes, balancing iconic destinations like St. Barts and Barbados with hidden gems including Bequia and Saba. Oceania's acclaimed Culinary Discovery Tours transform shore excursions into gastronomic journeys, from rum distillery tastings in Martinique to spice plantation walks in Grenada. With unlimited complimentary specialty dining at venues like Jacques and Red Ginger, plus extensive included shore excursions through OLife Choice, guests experience genuine regional culture rather than manufactured port experiences. The line's Country Club Casual dress code and refined onboard atmosphere attract discerning travellers seeking authentic Caribbean encounters without sacrificing comfort or sophistication.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Riviera",
+      "Marina",
+      "Insignia"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barbados",
+      "San Juan"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Jan-Mar)",
+      "inside_eur": 1899,
+      "balcony_eur": 2899,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Shoulder (Apr-May, Nov-Dec)",
+      "inside_eur": 1699,
+      "balcony_eur": 2499,
+      "suite_eur": 4199
+    },
+    {
+      "season": "Low (Jun-Oct)",
+      "inside_eur": 1499,
+      "balcony_eur": 2199,
+      "suite_eur": 3699
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Eastern Caribbean Serenade",
+      "duration_nights": 10,
+      "ports": [
+        "Miami",
+        "San Juan",
+        "St. Barts",
+        "Antigua",
+        "Dominica",
+        "Barbados",
+        "St. Lucia",
+        "St. Kitts",
+        "Miami"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Overnight in Barbados with exclusive beach club access"
+    },
+    {
+      "name": "12-night Southern Caribbean Gems",
+      "duration_nights": 12,
+      "ports": [
+        "Barbados",
+        "Bequia",
+        "Grenada",
+        "Bonaire",
+        "Curaçao",
+        "Aruba",
+        "St. Lucia",
+        "Martinique",
+        "St. Barts",
+        "Antigua",
+        "Barbados"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Dutch Caribbean focus with Willemstad walking tour included"
+    },
+    {
+      "name": "14-night Caribbean Panorama",
+      "duration_nights": 14,
+      "ports": [
+        "Miami",
+        "Cozumel",
+        "Belize City",
+        "Roatán",
+        "Costa Maya",
+        "Jamaica",
+        "Grand Cayman",
+        "Cuba",
+        "Miami"
+      ],
+      "price_from_eur": 3199,
+      "highlight": "Rare Western Caribbean routing with Cuban cultural immersion"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Riviera",
+      "capacity": 1250,
+      "year": 2012,
+      "best_for": "Culinary enthusiasts and destination-focused travellers",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Art collectors and wine connoisseurs",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Insignia",
+      "capacity": 670,
+      "year": 1998,
+      "refurbished": 2018,
+      "best_for": "Intimate luxury seekers accessing smaller ports",
+      "price_from_eur": 1699
+    }
+  ],
+  "whats_included": [
+    "Unlimited specialty dining at all restaurants",
+    "Complimentary shore excursions through OLife Choice (select number)",
+    "Unlimited WiFi",
+    "Premium beverages including wines and spirits",
+    "Airport transfers",
+    "24-hour room service",
+    "Fitness centre and wellness classes",
+    "Destination lectures and enrichment programs"
+  ],
+  "whats_extra": [
+    "Additional shore excursions beyond OLife allowance",
+    "Spa treatments and salon services",
+    "Laundry and valet services",
+    "Premium wine and spirits beyond standard selection",
+    "Photography services",
+    "Casino gaming",
+    "Certain specialty fitness classes"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for optimal cabin selection and early booking savings of up to 25%. Oceania's OLife Choice promotion typically offers choice of free excursions, beverage package, or onboard credit—value approximately EUR 600-800 per stateroom. Consider repositioning cruises in April or November for 30-40% savings. Solo travellers should inquire about single supplement waivers, occasionally offered on select sailings. Final payment due 90 days prior to sailing.",
+  "top_ports": [
+    {
+      "port": "Gustavia, St. Barts",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Private yacht harbour walking tour with champagne tasting (EUR 149)",
+      "tip": "Reserve waterfront lunch at Eden Rock well in advance"
+    },
+    {
+      "port": "Willemstad, Curaçao",
+      "time_in_port": "7am-4pm",
+      "top_activity": "UNESCO downtown walking tour with Blue Curaçao distillery (EUR 89)",
+      "tip": "Morning arrival ideal for photography of Handelskade waterfront"
+    },
+    {
+      "port": "Bequia, St. Vincent & Grenadines",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Model boat building workshop with local artisan (EUR 79)",
+      "tip": "Walk to Friendship Bay for quieter beach experience than Port Elizabeth"
+    },
+    {
+      "port": "Roseau, Dominica",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Trafalgar Falls and Titou Gorge canyoning (EUR 189)",
+      "tip": "Pack water shoes; volcanic terrain requires sturdy footwear"
+    },
+    {
+      "port": "Bridgetown, Barbados",
+      "time_in_port": "Overnight 8am Day 2",
+      "top_activity": "Oceania exclusive: Mount Gay rum blending experience (EUR 129)",
+      "tip": "Use overnight for dinner at The Cliff or Cin Cin by the Sea"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Caribbean cruise cost?",
+      "answer": "Oceania Caribbean cruises typically range from EUR 1,499 for low-season interior staterooms to EUR 6,500+ for peak-season Owner's Suites. Average per diem runs EUR 190-320 inclusive, significantly below luxury competitors when factoring included specialty dining, excursions, and beverages. The OLife Choice promotion adds substantial value—select guests receive EUR 600-800 equivalent in perks. Seven-night segments rarely offered; most sailings span 10-14 nights with correspondingly higher total investment but superior value per day."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Caribbean?",
+      "answer": "The 1,250-guest sister ships Riviera and Marina form the Caribbean backbone, offering identical layouts with Jacques Pepin's namesake French restaurant and extensive wine cellars. The smaller 670-guest Insignia accesses boutique harbours like Bequia and Saba where larger vessels cannot tender. All three vessels feature Oceania's acclaimed Canyon Ranch SpaClub and artist-in-residence programs. Riviera and Marina sail Eastern and Southern Caribbean primarily from Miami and Barbados; Insignia handles more exotic Southern Caribbean loops including the ABC islands and Trinidad."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "January through March delivers optimal conditions: minimal rainfall, stable 26-29°C temperatures, and calm seas ideal for Insignia's tender-dependent ports. This peak season commands premium pricing but guarantees reliable beach weather. April and May offer 15-20% savings with slightly warmer temperatures before hurricane season. Oceania avoids the region June through October except for occasional repositioning cruises; these carry weather flexibility advantages and significant discounts but itinerary modification risk. November and early December present excellent value with recovering post-hurricane season stability."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Caribbean value proposition centers on comprehensive inclusion: unlimited dining at all restaurants including Jacques, Red Ginger, and Polo Grill; unlimited standard spirits, wines, and beers; unlimited WiFi; and your choice of OLife perks—typically 4-6 free shore excursions, house beverage package upgrade, or onboard credit. Airport transfers, 24-hour room service, and destination lectures are included. Gratuities are additional (EUR 16 per person daily). Unlike competitors, Oceania does not surcharge for specialty restaurants or impose restrictive dining schedules, enhancing the relaxed Caribbean atmosphere."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Caribbean network emphasizes distinction over duplication. Eastern Caribbean calls include St. Barts, Antigua, and exclusive overnight Barbados stays. Southern Caribbean penetrates the Grenadines chain with Bequia, Mayreau, and Grenada's spice coast. Western Caribbean itineraries feature Belize's barrier reef, Roatán's diving, and occasional Cuban calls. The line avoids overcrowded Nassau and Cozumel in favor of intimate harbours like Les Saintes and Terre-de-Haut. Each 10-14 night sailing typically visits 8-10 ports with minimal sea days, maximizing destination immersion through extended port hours and overnights."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Oceania Caribbean inventory releases 18-24 months advance; prime balcony staterooms and Penthouse Suites on peak January-March sailings sell 12-14 months out. Early booking incentives typically offer 10-25% savings plus preferred OLife Choice selection. Solo travellers face particular urgency as single-occupancy inventory is constrained. Final payment falls 90 days pre-departure; cancellation penalties escalate from deposit loss to 100% fare within final 90 days. Consider travel insurance covering 'cancel for any reason' given Oceania's stricter policies compared to mass-market lines."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania's Caribbean product targets adults and multigenerational groups rather than young families. No dedicated children's facilities, youth programs, or babysitting services are offered. Minimum age is 12 months; children under 18 must occupy third or fourth berths in select stateroom categories. The line excels for adult children traveling with parents or grandparents—shore excursions accommodate varied mobility levels, and flexible dining suits divergent schedules. Families seeking active Caribbean cruising with kids should consider Royal Caribbean or Norwegian; Oceania rewards mature travellers prioritizing cultural depth and culinary excellence over waterslides and character breakfasts."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania's cancellation structure penalizes late decisions progressively: deposits refundable until final payment date (typically 90 days pre-sailing), then 25% fare lost at 89-76 days, 50% at 75-61 days, 75% at 60-31 days, and 100% within 30 days. COVID-19 era flexibility has largely expired; standard terms now apply unless specific Future Cruise Credits are utilized. Travel insurance is strongly recommended, particularly policies with 'cancel for any reason' riders covering 50-75% of non-refundable costs. Rebooking on alternative sailings incurs EUR 100-200 administrative fees per person depending on advance notice provided."
+    }
+  ]
+}

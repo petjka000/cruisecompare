@@ -1,0 +1,244 @@
+{
+  "title": "Princess Cruises Mediterranean Cruises 2026",
+  "intro": "Princess Cruises has been a Mediterranean specialist since 1965, offering immersive destination experiences through their exclusive MedallionClass technology and Discovery at SEA programming. Their Mediterranean itineraries emphasize extended port stays and overnight visits in cities like Venice, Barcelona, and Istanbul, allowing deeper cultural exploration. The line's Italian heritage shines through regional cuisine, wine partnerships with Tuscan vineyards, and enrichment lectures from local historians. Princess pioneered balcony staterooms in this region and maintains one of the highest percentages of veranda accommodations fleetwide—ideal for scenic Greek Isles and Amalfi Coast cruising. Their 2026 season features 7- to 21-night voyages with more late-night departures than competitors, plus exclusive shore excursions developed with Discovery and Animal Planet. MedallionClass enables seamless boarding, contactless service, and personalized recommendations for onshore dining and activities.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Sun Princess",
+      "Sky Princess",
+      "Enchanted Princess",
+      "Discovery Princess"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome (Civitavecchia)",
+      "Venice (Trieste)",
+      "Southampton",
+      "Athens (Piraeus)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Nov)",
+      "inside_eur": 699,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (May-Jun, Sep-Oct)",
+      "inside_eur": 999,
+      "balcony_eur": 1599,
+      "suite_eur": 2799
+    },
+    {
+      "season": "High Summer (Jul-Aug)",
+      "inside_eur": 1199,
+      "balcony_eur": 1899,
+      "suite_eur": 3299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Mediterranean & Aegean",
+      "duration_nights": 7,
+      "ports": [
+        "Athens (Piraeus)",
+        "Santorini",
+        "Kotor",
+        "Sicily (Messina)",
+        "Naples",
+        "Barcelona"
+      ],
+      "price_from_eur": 799,
+      "highlight": "Iconic Greek Isles with late-night Santorini departure"
+    },
+    {
+      "name": "10-night Grand Mediterranean",
+      "duration_nights": 10,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Florence/Pisa (Livorno)",
+        "Rome (Civitavecchia)",
+        "Naples",
+        "Santorini",
+        "Kusadasi (Ephesus)",
+        "Istanbul"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Overnight in Istanbul with complimentary hotel stay option"
+    },
+    {
+      "name": "14-night Adriatic & Greek Isles",
+      "duration_nights": 14,
+      "ports": [
+        "Venice (Trieste)",
+        "Zadar",
+        "Dubrovnik",
+        "Corfu",
+        "Sicily (Messina)",
+        "Naples",
+        "Rome (Civitavecchia)",
+        "Florence/Pisa (Livorno)",
+        "Monte Carlo",
+        "Barcelona"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Comprehensive Western & Eastern Mediterranean combination"
+    },
+    {
+      "name": "21-night Mediterranean Collection",
+      "duration_nights": 21,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Barcelona",
+        "Marseille",
+        "Florence/Pisa (Livorno)",
+        "Rome (Civitavecchia)",
+        "Naples",
+        "Santorini",
+        "Kusadasi (Ephesus)",
+        "Istanbul",
+        "Mykonos",
+        "Athens (Piraeus)"
+      ],
+      "price_from_eur": 2299,
+      "highlight": "Full Mediterranean immersion with three sea days for relaxation"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Sun Princess",
+      "capacity": 4300,
+      "year": 2024,
+      "best_for": "Adults seeking modern luxury",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Sky Princess",
+      "capacity": 3660,
+      "year": 2019,
+      "best_for": "Families & multigenerational groups",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Enchanted Princess",
+      "capacity": 3660,
+      "year": 2021,
+      "best_for": "Couples & food enthusiasts",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Discovery Princess",
+      "capacity": 3660,
+      "year": 2022,
+      "best_for": "Tech-forward travelers",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Buffet breakfast, lunch & dinner",
+    "24-hour room service",
+    "Broadway-style production shows",
+    "Movies Under the Stars outdoor cinema",
+    "Discovery at SEA enrichment programs",
+    "Fitness center & basic classes",
+    "Youth & teen clubs (ages 3-17)",
+    "MedallionClass wearable device",
+    "Port-to-stateroom luggage delivery"
+  ],
+  "whats_extra": [
+    "Beverage packages (EUR 65-75/day)",
+    "Specialty dining (EUR 29-45/person)",
+    "Shore excursions (EUR 89-399/person)",
+    "WiFi packages (EUR 15-25/day)",
+    "Spa treatments & salon services",
+    "Laundry & dry cleaning",
+    "Airport transfers",
+    "Gratuities (EUR 16-18/person/day recommended)",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts up to 35% off; suite categories sell out 6+ months in advance for peak summer. Monitor Princess's 3-day sales for reduced deposits and onboard credit. Consider repositioning cruises in April and November for 30-40% savings. Book shore excursions 120 days pre-cruise for 10% discount. Past guests should watch for Captain's Circle offers with exclusive pricing. Mediterranean itineraries with overnight ports require earliest booking—Venice overnights typically unavailable within 4 months.",
+  "top_ports": [
+    {
+      "port": "Santorini, Greece",
+      "time_in_port": "12pm-10pm",
+      "top_activity": "Sunset catamaran cruise with dinner (EUR 189)",
+      "tip": "Book afternoon excursion—morning crowds at Oia are overwhelming"
+    },
+    {
+      "port": "Kusadasi (Ephesus), Turkey",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Private Ephesus tour with Terrace Houses (EUR 149)",
+      "tip": "Morning visits avoid heat and cruise crowds at Library of Celsus"
+    },
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Game of Thrones walking tour with cable car (EUR 89)",
+      "tip": "Walk the walls at 8am opening or after 4pm for photography"
+    },
+    {
+      "port": "Florence/Pisa (Livorno), Italy",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Uffizi Gallery skip-the-line with guided walk (EUR 159)",
+      "tip": "Tuesday-Friday avoids Monday museum closures and weekend crowds"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-4pm",
+      "top_activity": "St. John's Fortress hike with bay kayak (EUR 79)",
+      "tip": "Start fortress climb by 7:30am—1350 steps take 45 minutes uphill"
+    },
+    {
+      "port": "Istanbul, Turkey",
+      "time_in_port": "Overnight 1pm-2pm+1",
+      "top_activity": "Hagia Sophia & Blue Mosque with Bosporus cruise (EUR 129)",
+      "tip": "Evening Bosporus dinner cruise beats daytime heat and traffic"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Mediterranean cruise cost?",
+      "answer": "Princess Mediterranean cruises range from EUR 699 for 7-night shoulder-season interior cabins to EUR 3299 for peak summer suites. Balcony staterooms—the line's specialty—typically run EUR 1099-1899 depending on season. Shoulder months (March-April, November) offer 30-40% savings. All fares include meals, entertainment, and MedallionClass technology. Additional costs include gratuities (EUR 16-18/day), drinks packages (EUR 65-75/day), and shore excursions (EUR 89-399). Princess frequently runs promotions with free gratuities, onboard credit, or reduced deposits. Past guests receive Captain's Circle discounts. Third and fourth passengers in cabins pay significantly reduced rates, making family travel more accessible."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Mediterranean?",
+      "answer": "Princess deploys four MedallionClass ships to the Mediterranean in 2026. Sun Princess (2024, 4,300 passengers) leads the fleet with the new Park19 family zone and expanded dining. Sky Princess (2019), Enchanted Princess (2021), and Discovery Princess (2022) each carry 3,660 guests with nearly identical layouts featuring the Princess Live! entertainment venue and Take Five jazz lounge. All offer Sanctuary adults-only retreats, Lotus Spa thermal suites, and OceanMedallion wearable technology. Sun Princess operates from Barcelona and Rome; Sky Princess from Southampton and Barcelona; Enchanted Princess from Rome and Venice; Discovery Princess from Athens and Venice. No older non-MedallionClass ships sail this region in 2026."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "May, June, September, and October offer optimal conditions—warm seas, blooming landscapes, manageable crowds, and lower prices than peak summer. May delivers wildflowers in Greek Isles and comfortable 22-26°C temperatures. September provides warm swimming waters and harvest-season wine experiences in Tuscany and Provence. July-August brings 35°C+ heat, crowded attractions, and premium pricing but suits families with school schedules. March-April and November offer 30-40% savings with cooler 15-20°C weather and some attraction closures. Princess schedules more overnight ports in shoulder seasons, particularly Venice and Istanbul. Eastern Mediterranean (Greece, Turkey) stays warmest into October; Western routes (Spain, France) are most pleasant in May-June."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Mediterranean fares include all main dining room meals, World Fresh Marketplace buffet, 24-hour room service, and select casual venues like Alfredo's Pizzeria and International Café (pastries only; specialty coffees extra). Entertainment encompasses Broadway-style productions in the Princess Theater, Movies Under the Stars poolside cinema, live music in multiple lounges, and Discovery at SEA enrichment lectures. MedallionClass technology provides wearable ocean-ready devices for contactless boarding, room access, payments, and wayfinding. Youth clubs for ages 3-17, fitness center access, and basic classes are included. Not covered: alcoholic beverages, specialty restaurants (Sabatini's, Crown Grill), shore excursions, WiFi beyond basic shipboard app, spa services, laundry, and gratuities. Princess Plus and Premier packages bundle drinks, WiFi, and gratuities for EUR 50-75/day."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess Mediterranean itineraries span three sub-regions. Western Mediterranean features Barcelona, Marseille, Monte Carlo, Florence/Pisa (Livorno), Rome (Civitavecchia), Naples, and Sicily. Eastern Mediterranean includes Athens (Piraeus), Santorini, Mykonos, Kusadasi (Ephesus), Istanbul, and Jerusalem (Ashdod). Adriatic routes cover Venice (Trieste), Zadar, Dubrovnik, Kotor, and Corfu. Signature Princess experiences include overnight stays in Venice, Barcelona, and Istanbul on select sailings. The 21-night Mediterranean Collection combines all regions. Smaller ports like Kotor and Santorini require tendering—Princess prioritizes MedallionClass guests for tender boarding. Shore excursions range from EUR 89 for orientation tours to EUR 399 for exclusive experiences like after-hours Vatican access or private yacht charters in Mykonos."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Princess Mediterranean cruises 9-12 months ahead for optimal cabin selection, especially balcony and suite categories which comprise 80% of inventory on newer ships. Early booking discounts reach 35% off launch pricing. Suites with bathtubs and full balconies sell out 6+ months in advance for July-August departures. Shore excursions open 120 days pre-cruise with 10% advance booking discount—popular options like Ephesus private tours and Vatican skip-the-line sell out within weeks. Airfare through Princess EZair offers flexible change policies until final payment. Past guests receive Captain's Circle early access 60 days before public booking. Last-minute deals appear 60-90 days out for interior cabins on less popular dates, though port-intensive itineraries rarely discount deeply."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Mediterranean cruises suit families with children 6+ best, though Camp Discovery welcomes ages 3-17 with science and nature-themed activities developed with Discovery. The Reef Family Splash Zone on Sun Princess features the first-ever rollglider at sea. Teen lounges offer DJ classes and video game tournaments. Family shore excursions include pizza-making in Naples, gladiator school in Rome, and beach breaks in Corfu. Connecting staterooms and family suites accommodate larger groups. However, Mediterranean port-intensive itineraries involve early mornings and extensive walking that challenge younger children. Sea days are limited on 7-night routes, reducing pool time. Princess lacks the water slides and character meet-and-greets of family-focused lines, emphasizing enrichment over entertainment. Kids sail free promotions periodically reduce third/fourth berth costs."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Mediterranean cancellation penalties escalate by departure proximity. Cancellations 90+ days before sailing incur no penalty for most fares. 89-75 days: deposit forfeited (typically EUR 200-400 per person). 74-30 days: 50% of total fare retained. 29-15 days: 75% forfeited. 14 days or less: 100% no refund. Cancel for Any Reason protection, available at booking for 10% of cruise fare, provides future cruise credit for 75% of cancellation penalties. Standard travel insurance through Princess Preferred covers medical, trip interruption, and baggage. COVID-19 protocols have relaxed but positive tests before boarding receive future cruise credit minus administrative fees. Rebooking to a different sailing within same promotional period preserves pricing and perks; date changes outside promotional windows forfeit original benefits."
+    }
+  ]
+}

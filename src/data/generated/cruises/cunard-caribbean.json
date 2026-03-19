@@ -1,0 +1,191 @@
+{
+  "title": "Cunard Line Caribbean Cruises 2026",
+  "intro": "Cunard Line brings its signature British elegance to the Caribbean, offering a refined alternative to mass-market cruising. Since 1840, Cunard has defined ocean travel, and their Caribbean itineraries blend this heritage with tropical escapes. Sail aboard iconic ocean liners to discover pristine beaches, colonial architecture, and vibrant island cultures. The White Star Service ensures attentive, personalised care, while the formal dress codes and afternoon teas create an atmosphere of timeless sophistication. Cunard's Caribbean routes typically feature longer port stays and overnight calls, allowing deeper exploration of destinations like Barbados, St Lucia, and Antigua. The line attracts discerning travellers who appreciate enrichment lectures, ballroom dancing, and gourmet dining alongside their sunshine holiday. With dedicated children's programmes and adult-only spaces, Cunard successfully bridges traditional cruising with modern expectations.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "10-21 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Queen Mary 2",
+      "Queen Victoria"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "New York"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Jan-Mar)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Shoulder (Apr-May, Nov-Dec)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Low (Jun-Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Caribbean Escape",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "New York",
+        "St Thomas",
+        "St Lucia",
+        "Barbados",
+        "St Kitts"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Transatlantic crossing with full Caribbean exploration"
+    },
+    {
+      "name": "12-night Eastern Caribbean",
+      "duration_nights": 12,
+      "ports": [
+        "New York",
+        "San Juan",
+        "St Thomas",
+        "Antigua",
+        "Barbados",
+        "St Lucia"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Round-trip from New York with extended island time"
+    },
+    {
+      "name": "21-night Caribbean Grand Voyage",
+      "duration_nights": 21,
+      "ports": [
+        "Southampton",
+        "Madeira",
+        "Barbados",
+        "St Lucia",
+        "Grenada",
+        "Trinidad",
+        "Curacao",
+        "Aruba"
+      ],
+      "price_from_eur": 2299,
+      "highlight": "Ultimate winter escape with three sea days for relaxation"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Mary 2",
+      "capacity": 2695,
+      "year": 2003,
+      "refurbished": 2023,
+      "best_for": "Transatlantic traditionalists",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Queen Victoria",
+      "capacity": 2077,
+      "year": 2007,
+      "refurbished": 2021,
+      "best_for": "Intimate luxury seekers",
+      "price_from_eur": 1399
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and buffet",
+    "Afternoon tea service",
+    "Evening entertainment and enrichment lectures",
+    "Fitness centre and swimming pools",
+    "Children's club (ages 2-17)",
+    "Port taxes and basic gratuities"
+  ],
+  "whats_extra": [
+    "Drinks packages and individual beverages",
+    "Specialty restaurants (The Verandah, Lido)",
+    "Shore excursions and port transfers",
+    "Spa treatments and salon services",
+    "Internet packages",
+    "Laundry and dry cleaning",
+    "Casino gambling",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking discounts up to 25%. Cunard releases Caribbean itineraries 18 months in advance. Consider repositioning cruises in April and November for exceptional value. Join Cunard World Club for member-only fares.",
+  "top_ports": [
+    {
+      "port": "Barbados",
+      "time_in_port": "7am-6pm (often overnight)",
+      "top_activity": "Harrison's Cave tram tour (€75)",
+      "tip": "Stay overnight if possible for authentic Bajan nightlife"
+    },
+    {
+      "port": "St Lucia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Pitons helicopter tour (€289)",
+      "tip": "Book morning excursions before afternoon clouds gather"
+    },
+    {
+      "port": "Antigua",
+      "time_in_port": "8am-5pm",
+      "top_activity": "English Harbour Nelson's Dockyard (€45)",
+      "tip": "Sunday is quieter but some attractions closed"
+    },
+    {
+      "port": "St Thomas",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Magens Bay beach (€35)",
+      "tip": "Early arrival essential to beat cruise crowds"
+    },
+    {
+      "port": "Grenada",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Spice plantation tour (€55)",
+      "tip": "Nutmeg products make authentic souvenirs"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Caribbean cruise cost?",
+      "answer": "Cunard Caribbean cruises typically range from €899 for an inside cabin during low season to €3,499+ for suites in peak winter months. A 14-night itinerary averages €1,599 inside, €2,299 balcony, and €3,999 for Princess Grill suites. Fares include meals, afternoon tea, entertainment, and gratuities. Drinks packages cost €55-75 daily. Shore excursions average €65-189 per port. Early booking discounts of 15-25% are common when reserving 12+ months ahead. Fly-cruise packages from European departure points add approximately €400-800."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Caribbean?",
+      "answer": "Queen Mary 2 and Queen Victoria operate Cunard's Caribbean itineraries, with Queen Elizabeth occasionally substituting. Queen Mary 2, the flagship ocean liner, offers the iconic transatlantic crossing combined with Caribbean exploration, carrying 2,695 passengers with her distinctive red funnel and formal atmosphere. Queen Victoria provides a more intimate experience for 2,077 guests with enhanced outdoor spaces ideal for tropical cruising. Both vessels feature Cunard's signature Queens Grill and Princess Grill accommodation tiers with exclusive dining rooms, plus the Britannia restaurant for standard grades. Queen Mary 2 uniquely offers kennel facilities for transatlantic pet travel."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "January through March represents peak season with ideal weather—temperatures 25-28°C, minimal rainfall, and lowest humidity. This period avoids hurricane season and coincides with Cunard's primary Caribbean deployment. February offers particularly pleasant conditions with calm seas. April provides excellent value with slightly warmer temperatures and fewer crowds. December can be delightful but carries risk of Christmas week premiums. June through November sees lower prices but increased tropical storm risk; Cunard reduces Caribbean operations during these months. Avoid September and October entirely. The traditional 'shoulder' months of late April and early November balance favourable weather with reduced fares."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's Caribbean fares include accommodation, all meals in main dining rooms and the Lido buffet, traditional afternoon tea, evening entertainment including theatre productions and live music, daily enrichment lectures, fitness centre access, swimming pools, and children's programming for ages 2-17. Basic gratuities and port taxes are included. Notable inclusions extend to ballroom dancing lessons, deck games, and library access. Unlike premium competitors, Cunard charges separately for drinks, specialty dining, WiFi, and shore excursions. The all-inclusive drinks package costs approximately €55 daily. Queens and Princess Grill passengers receive additional benefits including priority embarkation, exclusive restaurants, and butler service in top suites."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Caribbean itineraries emphasise Eastern and Southern Caribbean destinations with occasional Western Caribbean calls. Key ports include Barbados (often featuring overnight stays), St Lucia with its iconic Pitons, Antigua's historic English Harbour, Grenada's spice plantations, St Kitts and Nevis, St Maarten, St Thomas in the US Virgin Islands, and San Juan, Puerto Rico. Southern routes reach Trinidad, Curacao, and Aruba. Transatlantic voyages departing Southampton include Ponta Delgada or Madeira en route. Cunard typically avoids the busiest cruise ports, favouring longer stays and overnight calls that enable authentic local experiences. Port times generally exceed industry averages, with 8-10 hour stays common and select overnight stops."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard Caribbean cruises 12-18 months in advance for optimal cabin selection, dining preferences, and early booking discounts. Cunard releases itineraries approximately 18 months ahead, with the best fares typically available at launch. Queens Grill and Princess Grill suites sell fastest, often 15+ months before departure. Balcony cabins on sheltered lower decks offer excellent value and book quickly. Final payment is due 90 days before sailing. Within 60 days, limited availability remains and prices increase significantly. Last-minute deals occasionally appear 30-45 days out, primarily for inside cabins on less popular dates. Cunard World Club members receive advance access and exclusive fares 24 hours before public release."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard accommodates families thoughtfully though maintains adult-oriented ambience. The Zone and Play Zone programmes entertain ages 2-17 with supervised activities, while teen spaces offer age-appropriate socialising. Family-friendly cabin configurations include connecting rooms and third/fourth berths. However, formal nights requiring evening wear, structured dining times, and refined entertainment may challenge younger children accustomed to casual resort environments. Families seeking extensive waterslides, character experiences, or flexible dining should consider alternatives. Cunard excels for multi-generational groups where grandparents appreciate traditional cruising while parents enjoy childcare. School holiday sailings feature enhanced family programming. Children dine early at 6pm in designated areas, with late sitting reserved for adults."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's standard cancellation policy charges deposits from booking confirmation: loss of deposit for cancellation 91+ days before sailing; 25% of fare for 90-61 days; 50% for 60-31 days; 75% for 30-15 days; and 100% for 14 days or less. COVID-19 flexible booking terms remain partially available, allowing changes without penalty on select sailings booked by certain dates. Travel insurance is strongly recommended, with Cunard offering policies covering cancellation for medical reasons and cruise interruption. Cancellation protection plans purchased at booking provide future cruise credits rather than cash refunds. For suites and Grill accommodations, stricter terms may apply. Always verify current policy at booking as terms evolve seasonally."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "title": "Viking Cruises Japan & Asia Cruises 2026",
+  "intro": "Viking Cruises brings its signature understated elegance to Japan & Asia, offering culturally immersive voyages aboard intimate, Scandinavian-designed vessels. Unlike mass-market lines, Viking focuses on destination depth with longer port stays and overnight visits in marquee cities like Tokyo, Kyoto, and Bangkok. The 2026 season features expanded Asia-Pacific deployment following the successful launch of Viking Orion and Viking Mars, purpose-built for the region with infinity pools, Nordic spas, and the innovative Explorers' Lounge. Passengers enjoy included shore excursions at every port, from tea ceremonies in Kanazawa to Angkor Wat overland journeys. With no casinos, no children under 18, and no nickel-and-diming, Viking attracts discerning travelers seeking meaningful cultural engagement. The Japan & Asia itineraries balance iconic landmarks with hidden gems—Hiroshima's Peace Memorial, Halong Bay's limestone karsts, and Myanmar's Bagan temples—all with expert-led enrichment programming.",
+  "quick_facts": {
+    "price_from_eur": 4299,
+    "duration_range": "14-28 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Viking Orion",
+      "Viking Mars",
+      "Viking Neptune"
+    ],
+    "departure_ports": [
+      "Tokyo",
+      "Singapore",
+      "Hong Kong",
+      "Bangkok"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr)",
+      "inside_eur": 4299,
+      "balcony_eur": 5299,
+      "suite_eur": 8999
+    },
+    {
+      "season": "Peak (Oct-Nov)",
+      "inside_eur": 4899,
+      "balcony_eur": 5999,
+      "suite_eur": 10299
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 5599,
+      "balcony_eur": 6899,
+      "suite_eur": 11999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Treasures of the Far East",
+      "duration_nights": 14,
+      "ports": [
+        "Tokyo",
+        "Shimizu",
+        "Kyoto (Osaka)",
+        "Hiroshima",
+        "Busan",
+        "Nagasaki",
+        "Shanghai"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Cherry blossom season with three nights in Kyoto"
+    },
+    {
+      "name": "21-night Southeast Asia & Japan",
+      "duration_nights": 21,
+      "ports": [
+        "Tokyo",
+        "Nagasaki",
+        "Shanghai",
+        "Hong Kong",
+        "Halong Bay",
+        "Da Nang",
+        "Ho Chi Minh City",
+        "Singapore"
+      ],
+      "price_from_eur": 6299,
+      "highlight": "Comprehensive Asia-Pacific exploration with overnight Hong Kong"
+    },
+    {
+      "name": "28-night Grand Asia & Australia",
+      "duration_nights": 28,
+      "ports": [
+        "Tokyo",
+        "Shanghai",
+        "Hong Kong",
+        "Singapore",
+        "Bali (Benoa)",
+        "Darwin",
+        "Cairns",
+        "Sydney"
+      ],
+      "price_from_eur": 8999,
+      "highlight": "Full ocean crossing with extended Australian finale"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Orion",
+      "capacity": 930,
+      "year": 2018,
+      "best_for": "Cultural enthusiasts & couples",
+      "price_from_eur": 4299
+    },
+    {
+      "name": "Viking Mars",
+      "capacity": 930,
+      "year": 2022,
+      "best_for": "Luxury seekers & repeat Viking guests",
+      "price_from_eur": 4499
+    },
+    {
+      "name": "Viking Neptune",
+      "capacity": 930,
+      "year": 2022,
+      "best_for": "Extended voyages & world cruise segments",
+      "price_from_eur": 4399
+    }
+  ],
+  "whats_included": [
+    "One shore excursion per port",
+    "Wi-Fi",
+    "Beer, wine & soft drinks at lunch and dinner",
+    "All meals in multiple venues",
+    "24-hour room service",
+    "Access to Nordic spa & fitness center",
+    "Lectures & destination performances",
+    "Port taxes & fees",
+    "Airport transfers"
+  ],
+  "whats_extra": [
+    "Premium beverages & spirits",
+    "Spa treatments & salon services",
+    "Additional shore excursions",
+    "Pre- and post-cruise extensions",
+    "Laundry services",
+    "Photography purchases",
+    "Gratuities (EUR 15-18/day recommended)"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection; Viking offers significant early booking incentives including reduced airfare from EUR 399. Wave Season (January-March) typically features best promotions. Consider booking 2026 departures immediately upon release, as Asia itineraries sell out 9-12 months in advance. Solo travelers should book early for limited single-supplement waivers.",
+  "top_ports": [
+    {
+      "port": "Tokyo (Yokohama)",
+      "time_in_port": "overnight",
+      "top_activity": "Tsukiji Outer Market & sushi breakfast (EUR 89)",
+      "tip": "Arrive two days early; jet lag recovery essential"
+    },
+    {
+      "port": "Kyoto (Osaka)",
+      "time_in_port": "overnight",
+      "top_activity": "Fushimi Inari shrine & tea ceremony (EUR 129)",
+      "tip": "Ship docks Osaka; allow 45 minutes to Kyoto center"
+    },
+    {
+      "port": "Hong Kong",
+      "time_in_port": "overnight",
+      "top_activity": "Victoria Peak tram & dim sum cooking class (EUR 149)",
+      "tip": "Evening Symphony of Lights from ship's deck"
+    },
+    {
+      "port": "Halong Bay",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Overnight junk boat extension (EUR 299)",
+      "tip": "Book ship's overland for authentic experience"
+    },
+    {
+      "port": "Singapore",
+      "time_in_port": "overnight",
+      "top_activity": "Gardens by Bay night show & hawker food tour (EUR 119)",
+      "tip": "Changi Airport consistently rated world's best—extend if possible"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Japan & Asia cruise cost?",
+      "answer": "Viking's Japan & Asia cruises start at EUR 4,299 for 14-night voyages in shoulder season, rising to EUR 5,599+ for peak periods. Balcony cabins, which comprise 100% of Viking's fleet, range EUR 5,299-6,899. Suite categories command EUR 8,999-11,999. These fares include excursions, Wi-Fi, and moderate beverages—uncommon inclusions that offset higher base prices. Airfare add-ons run EUR 399-1,199 depending on gateway. Pre- and post-cruise extensions in Tokyo, Kyoto, or Singapore add EUR 899-1,599. Gratuities, premium drinks, and spa services are additional. Viking's transparent pricing means fewer onboard surprises than competitors."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Japan & Asia?",
+      "answer": "Viking deploys its 930-guest ocean fleet to Asia: Viking Orion (2018, the first purpose-built for Asia-Pacific), Viking Mars (2022), and Viking Neptune (2022). These identical sister ships feature all-veranda staterooms, Explorers' Lounge with forward-facing views, Living Room social space, and Nordic spa with snow grotto. At 47,800 gross tons, they're small enough for intimate ports yet large enough for open-sea stability. Viking Orion carries dedicated Resident Astronomer for stargazing in remote waters. All three vessels meet stringent polar code standards for diverse itineraries. No mega-ships here—Viking prioritizes destination access over onboard spectacle."
+    },
+    {
+      "question": "When is best time to cruise Japan & Asia?",
+      "answer": "March-April delivers Japan's cherry blossoms (sakura), though prices peak and crowds swell. October-November offers ideal conditions across the region: post-typhoon season, comfortable temperatures (18-26°C), and autumn foliage in Japan. Avoid June-August due to monsoons, extreme humidity, and typhoon risk. December brings festive atmosphere but premium pricing. January-February suits Southeast Asia-focused itineraries, though northern Japan ports may experience winter closures. Viking strategically schedules 2026 departures to maximize favorable weather windows, with most Tokyo round-trips operating March-April and October-November for optimal cherry blossom and autumn color viewing."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's all-inclusive approach covers one guided excursion per port (typically half-day), Wi-Fi fleetwide, beer/wine/soft drinks at lunch and dinner, all dining venues including specialty restaurants, 24-hour room service, Nordic spa access, fitness center, daily lectures, cultural performances, port taxes, and airport transfers. Notable inclusions: alternative restaurant reservations at no charge, self-service laundry, and unlimited spa thermal suite access. Exclusions span premium spirits, additional excursions, spa treatments, and gratuities (EUR 15-18/day recommended). This model eliminates the 'nickel-and-diming' common on mainstream lines, with most passengers spending little beyond gratuities and occasional premium experiences."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking's Japan & Asia network spans 40+ ports across 15 countries. Japanese highlights include Tokyo (overnight), Kyoto via Osaka (overnight), Hiroshima, Nagasaki, and Kanazawa. Chinese calls feature Shanghai and Beijing (overnight with Tianjin docking). Southeast Asian staples encompass Hong Kong (overnight), Halong Bay, Da Nang, Ho Chi Minh City, and Singapore (overnight). Extended voyages reach Bali, Komodo Island, and Australian ports. Unique to Viking: extended stays permitting independent exploration, overnight calls in major cities, and optional overland extensions to Angkor Wat, Xi'an's Terracotta Warriors, and Myanmar's Bagan. Small ship size enables access to boutique ports like Kochi and Hualien unavailable to mega-vessels."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Viking Japan & Asia cruises 12-18 months ahead for optimal cabin selection and early booking benefits. These voyages consistently sell out 9-12 months pre-departure, particularly cherry blossom sailings. Viking releases itineraries approximately 18 months in advance; loyal past passengers receive priority booking windows. January-March Wave Season offers strongest incentives: reduced airfare (EUR 399 Europe-Asia), complimentary shore excursion packages, and occasional cabin upgrades. Last-minute availability is rare and typically limited to solo cabins or suite categories. For 2026 departures, book immediately upon release—popular March-April Tokyo round-trips often reach 80% capacity within 60 days of opening."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking explicitly prohibits guests under 18, making Japan & Asia cruises unsuitable for families with children. This adults-only policy attracts couples, solo travelers, and multi-generational adult groups seeking cultural immersion without family-focused distractions. The onboard atmosphere emphasizes quiet contemplation, educational enrichment, and sophisticated dining—no water slides, kids' clubs, or late-night parties. Teenagers and young adults seeking active adventure may find pacing slow. However, adult children traveling with parents (ages 18+) frequently praise the shared learning experiences and absence of generational friction common on family-oriented ships. Viking's demographic skews 55-75, though Asia itineraries attract younger, more internationally experienced travelers than European routes."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's cancellation policy imposes penalties escalating by departure proximity. Cancellations 120+ days prior incur loss of deposit (typically EUR 500-1,000 per person). 119-90 days: 15% of cruise fare; 89-60 days: 35%; 59-30 days: 50%; 29-0 days: 100% forfeiture. Travel insurance is strongly recommended—Viking offers comprehensive 'Viking Travel Protection' including cancel-for-any-reason coverage (75% credit) for EUR 249-449 per person. COVID-19 protocols remain flexible with future cruise credits for illness-related cancellations. Booking through travel agents may provide additional protection. Given substantial penalties within final 90 days, consider insurance covering pre-existing conditions and supplier default, particularly for cruises exceeding EUR 10,000 per couple."
+    }
+  ]
+}

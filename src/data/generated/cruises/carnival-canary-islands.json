@@ -1,0 +1,199 @@
+{
+  "title": "Carnival Cruise Line Canary Islands Cruises 2026",
+  "intro": "Carnival Cruise Line brings its signature fun-for-all atmosphere to the stunning Canary Islands, combining volcanic landscapes with unbeatable value. These Atlantic archipelago voyages departing from European ports like Barcelona and Lisbon offer Carnival's trademark lively entertainment, diverse dining options, and family-friendly activities against the backdrop of Tenerife's Mount Teide and Lanzarote's otherworldly lava fields. With Carnival's commitment to accessible cruising, passengers enjoy water parks, comedy clubs, and deck parties while exploring Spanish and Portuguese island cultures. The mild subtropical climate makes this an ideal winter escape, with temperatures rarely dipping below 20°C even in January. Carnival's Canary Islands itineraries typically range from 10-14 nights, providing ample time to discover each island's unique character—from Gran Canaria's sand dunes to La Palma's lush forests—without the premium pricing of luxury competitors.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Carnival Legend",
+      "Carnival Pride"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Low (Nov-early Dec)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    },
+    {
+      "season": "Peak (Christmas/New Year)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2499
+    },
+    {
+      "season": "High (Jan-Mar)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Canary Islands & Madeira",
+      "duration_nights": 12,
+      "ports": [
+        "Barcelona",
+        "Malaga",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Funchal",
+        "Lisbon"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Comprehensive island exploration with overnight in Tenerife"
+    },
+    {
+      "name": "14-night Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "La Coruna",
+        "Lisbon",
+        "Casablanca",
+        "Las Palmas",
+        "Arrecife",
+        "Santa Cruz de Tenerife",
+        "Cadiz"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Cultural mix of North Africa and Atlantic islands"
+    },
+    {
+      "name": "10-night Canary Islands Sampler",
+      "duration_nights": 10,
+      "ports": [
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Cadiz"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Perfect introduction to three main islands"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Carnival Legend",
+      "capacity": 2124,
+      "year": 2002,
+      "best_for": "Families and couples seeking classic Carnival experience",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Carnival Pride",
+      "capacity": 2124,
+      "year": 2001,
+      "best_for": "Multi-generational groups and first-time cruisers",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Carnival Miracle",
+      "capacity": 2124,
+      "year": 2004,
+      "best_for": "Adults wanting relaxed pace with full amenities",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All main dining room meals and Lido buffet",
+    "Entertainment including shows and comedy",
+    "Kids clubs and teen programmes",
+    "Fitness centre access",
+    "Pool and hot tub use",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Drinks packages (EUR 55-75/day for Cheers! package)",
+    "Specialty dining (EUR 15-45 per person)",
+    "Shore excursions (EUR 45-189 per tour)",
+    "WiFi packages (EUR 15-25/day)",
+    "Spa treatments",
+    "Casino gambling",
+    "Gratuities (EUR 14-16/day recommended)",
+    "Photos and retail purchases"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early saver rates; monitor for price drops up to final payment 90 days before sailing. Consider repositioning cruises in October/November for lowest fares.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Teide National Park excursion (EUR 89)",
+      "tip": "Pre-book volcano tours as sell out quickly"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Maspalomas dunes and beach day (EUR 45)",
+      "tip": "Walkable old town Vegueta worth exploring independently"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Timanfaya National Park fire mountains (EUR 75)",
+      "tip": "Short port time—prioritize organized excursion"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan ride and botanical gardens (EUR 55)",
+      "tip": "Cable car offers stunning views if weather clear"
+    },
+    {
+      "port": "Malaga",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Alhambra Palace Granada day trip (EUR 189)",
+      "tip": "Must pre-book months ahead—sells out instantly"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Carnival Cruise Line Canary Islands cruise cost?",
+      "answer": "Carnival Canary Islands cruises typically range from EUR 699 to EUR 2,499 per person depending on season, cabin category, and itinerary length. Inside cabins start around EUR 699-899 in low season, rising to EUR 1,199 during Christmas peak. Balcony accommodations generally cost EUR 999-1,699, while suites command EUR 1,599-2,499. These prices exclude gratuities, drinks, and excursions. Carnival frequently offers promotions including reduced deposits, onboard credit, and free cabin upgrades. Repositioning cruises in October/November often provide exceptional value at 30-40% below peak rates. Final costs depend heavily on booking timing—early savers secure lowest fares 9-12 months out."
+    },
+    {
+      "question": "Which Carnival Cruise Line ships sail to Canary Islands?",
+      "answer": "Carnival deploys its Spirit-class ships for Canary Islands itineraries, primarily Carnival Legend, Carnival Pride, and occasionally Carnival Miracle. These 2,124-passenger vessels, built between 2001-2004, feature all the classic Carnival elements—water slides, mini-golf, multiple dining venues, and the Serenity adult-only retreat—while being compact enough for smaller Atlantic ports. Unlike mega-ships restricted to Caribbean homeports, these mid-size vessels navigate European departure ports and Canary Island harbors efficiently. Recent refurbishments have added Guy's Burger Joint, BlueIguana Cantina, and upgraded entertainment venues. No Excel-class ships currently operate Canary routes due to size constraints at certain island ports."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "November through March offers optimal Canary Islands cruising, with temperatures averaging 20-24°C and minimal rainfall—ideal for escaping Northern European winters. December and January bring highest demand and pricing but guarantee festive atmosphere and reliable sunshine. February and March provide excellent value with pleasant weather and fewer crowds. Avoid August-September when Atlantic humidity peaks and some shops close for local holidays. Sea conditions remain generally calm year-round, though winter crossings from Southampton can encounter Bay of Biscay rough seas. Carnival schedules most departures during these prime months, aligning with European school holidays and demand for winter sun alternatives to Caribbean fly-cruises."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Carnival's Canary Islands cruises include accommodation, all main dining room and buffet meals, select beverages (coffee, tea, juice, water), entertainment including production shows and comedy club, kids clubs for ages 2-17, fitness centre, pools, and port taxes. Room service carries a small fee for most items. What's notably excluded: alcoholic drinks, sodas, specialty restaurants, WiFi, spa services, shore excursions, and gratuities. The complimentary dining covers substantial variety—Guy's Burger Joint, BlueIguana Cantina, and pizza are included, while Steakhouse and Chef's Table cost extra. Carnival's value proposition assumes many passengers will purchase drink packages (EUR 55-75/day) and book excursions, so budget accordingly beyond base fare."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Carnival's Canary Islands itineraries typically visit Santa Cruz de Tenerife (largest island, Mount Teide), Las Palmas on Gran Canaria (diverse landscapes and beaches), and Arrecife on Lanzarote (volcanic Timanfaya park). Extended cruises add Funchal, Madeira (Portuguese garden island) and sometimes Moroccan ports like Casablanca or Agadir. Departure ports include Barcelona, Lisbon, and Southampton—each offering different flight accessibility and pre-cruise extension opportunities. Some itineraries include mainland Spanish stops at Malaga, Cadiz, or La Coruna. Port times vary significantly: Tenerife and Gran Canaria usually allow 8-10 hours, while Lanzarote's limited infrastructure means shorter 7-9 hour calls. Tender ports are rare on these routes."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Carnival Canary Islands cruises 9-12 months in advance for optimal results—this secures early saver rates, best cabin locations, and preferred dining times. Carnival releases European itineraries approximately 18 months ahead. Prices typically rise as inventory depletes, with last-minute deals rare for this destination due to limited sailing dates and strong European demand. Final payment falls 90 days before departure; monitor prices until then as Carnival honors price drops with onboard credit. Christmas and February half-term sailings sell out 6-8 months ahead. Consider booking refundable fares initially, then switching to non-refundable for additional savings once travel plans firm. Group bookings (8+ cabins) require even earlier commitment."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Carnival's Canary Islands cruises excel for families, particularly during school holiday periods when children's programming operates at full capacity. Camp Ocean (ages 2-11), Circle C (12-14), and Club O2 (15-17) provide complimentary supervised activities allowing parents independent exploration. The mild winter climate enables pool use year-round, while sea days between islands offer water slides, mini-golf, and deck competitions. Shore excursions include family-friendly options like beach days, camel rides in Maspalomas, and submarine adventures in Tenerife. Dining flexibility accommodates picky eaters with extensive buffet choices and 24-hour pizza. However, sea days on Atlantic crossings can feel lengthy for active children—consider itineraries with fewer consecutive sea days when traveling with younger kids."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Carnival's standard cancellation policy for Canary Islands cruises charges penalties on a sliding scale: full refund minus deposit if cancelled 91+ days before sailing; loss of deposit (typically EUR 200-400) at 90-76 days; 50% of total fare at 75-56 days; 75% at 55-30 days; and 100% forfeiture under 30 days. Travel insurance with cruise-specific cancellation coverage is strongly recommended, particularly for winter sailings when flight disruptions to European departure ports increase risk. Carnival's 'Cruise with Confidence' program occasionally offers more flexible terms during promotional periods. Name changes and cabin swaps incur fees. For medical cancellations, documentation requirements are strict—obtain comprehensive travel insurance covering pre-existing conditions and pandemic-related disruptions."
+    }
+  ]
+}

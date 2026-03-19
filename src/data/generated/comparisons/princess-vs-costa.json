@@ -1,0 +1,146 @@
+{
+  "title": "Princess Cruises vs Costa Cruises 2026",
+  "intro": "Princess Cruises and Costa Cruises, both Carnival Corporation brands, target distinct European markets with contrasting approaches. Princess emphasises refined, destination-focused experiences with strong North American and British appeal, while Costa champions Italian-style cruising with vibrant entertainment and pan-European family orientation. Both operate mid-market positioning, yet Princess commands premium pricing for enhanced service consistency and global itineraries. Costa dominates Mediterranean homeporting with competitive rates and multilingual environments. Your choice hinges on preferred atmosphere: Princess offers understated elegance and enrichment programmes, whereas Costa delivers festive, social voyages with strong Italian culinary identity and youth-focused facilities.",
+  "at_a_glance": {
+    "princess": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "costa": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 699
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "princess": "€799",
+      "costa": "€699"
+    },
+    {
+      "category": "Ship Age (avg)",
+      "princess": "12 years",
+      "costa": "15 years"
+    },
+    {
+      "category": "Passenger Capacity",
+      "princess": "3,080 (Royal-class)",
+      "costa": "3,780 (Smeralda-class)"
+    },
+    {
+      "category": "Crew-to-Guest Ratio",
+      "princess": "1:2.6",
+      "costa": "1:3.2"
+    },
+    {
+      "category": "Dining Venues",
+      "princess": "8-12",
+      "costa": "6-9"
+    },
+    {
+      "category": "Included Drinks",
+      "princess": "Basic beverages",
+      "costa": "Basic beverages"
+    },
+    {
+      "category": "Evening Dress Code",
+      "princess": "Smart casual/Formal",
+      "costa": "Casual/Elegant"
+    },
+    {
+      "category": "Primary Language",
+      "princess": "English",
+      "costa": "Italian/English/German"
+    },
+    {
+      "category": "Kids Club (3-17)",
+      "princess": "Princess Pelicans/Shockwaves",
+      "costa": "Squok Club"
+    },
+    {
+      "category": "Evening Entertainment",
+      "princess": "Production shows, live music",
+      "costa": "Variety shows, parties, contests"
+    },
+    {
+      "category": "Gratuities (7 nights)",
+      "princess": "€112 pp",
+      "costa": "€70 pp"
+    },
+    {
+      "category": "Wi-Fi (7 nights)",
+      "princess": "€69-139",
+      "costa": "€59-119"
+    }
+  ],
+  "choose_a_if": [
+    "You prefer English-speaking environments with consistent service standards and North American hospitality norms",
+    "You value destination immersion through Discovery at SEA programmes, culinary demonstrations, and expert-led excursions",
+    "You appreciate traditional cruise formalities including designated formal nights and refined evening atmosphere",
+    "You prioritise spacious staterooms, particularly balcony categories, and quieter adult-oriented spaces"
+  ],
+  "choose_b_if": [
+    "You seek competitive Mediterranean pricing with frequent Italian port calls and extended evening stays",
+    "You enjoy lively, social atmospheres with deck parties, karaoke contests, and multilingual passenger interaction",
+    "You want comprehensive children's facilities at lower cost, with complimentary kids clubs and family cabin options",
+    "You prefer Italian culinary traditions including pasta stations, espresso bars, and late dining schedules"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Costa Cruises",
+      "reason": "Costa offers superior value with complimentary Squok Club activities, family cabins sleeping five, and flexible dining. Lower base fares and Mediterranean convenience reduce overall holiday costs significantly."
+    },
+    {
+      "type": "Couples",
+      "winner": "Princess Cruises",
+      "reason": "The Sanctuary adults-only retreat, Movies Under the Stars, and refined dining create intimate atmosphere. Better service ratios and quieter evenings suit romantic getaways."
+    },
+    {
+      "type": "Solo Travellers",
+      "winner": "Princess Cruises",
+      "reason": "Single occupancy supplements occasionally drop to 125%, and structured activities facilitate easier social connection. English-primary environment reduces isolation risks."
+    },
+    {
+      "type": "Active Seniors",
+      "winner": "Princess Cruises",
+      "reason": "Enrichment programmes, accessible excursions, and medical facilities meet mature traveller needs. Consistent service standards and familiar cultural references provide reassurance."
+    },
+    {
+      "type": "Young Adults",
+      "winner": "Costa Cruises",
+      "reason": "Nightlife intensity, lower drink package costs, and party-oriented programming attract 25-40 demographic. Multilingual environment suits cosmopolitan travellers."
+    },
+    {
+      "type": "Food Enthusiasts",
+      "winner": "Princess Cruises",
+      "reason": "Chef's Table experiences, regional culinary programmes, and specialty dining quality exceed Costa's mass-market approach. Discovery partnership adds educational dimension."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Costa Cruises typically delivers superior headline value with €100 lower base fares for comparable itineraries. However, Princess often proves better overall value when accounting for included amenities, service quality, and fewer ancillary charges. Costa's aggressive pricing attracts families and budget-conscious travellers, but beverage packages, excursions, and gratuities narrow the gap. Princess includes more enrichment content and maintains higher service standards without constant upselling. For Mediterranean sailings, Costa's operational efficiency and scale create genuine savings. For longer voyages or exotic destinations, Princess's consistent product justifies the premium. Evaluate total holiday cost including flights, pre-cruise stays, and onboard spending rather than cabin price alone."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Costa Cruises excels for families through comprehensive complimentary programming, flexible dining accommodating children's schedules, and cabins designed for multi-occupancy. The Squok Club operates extensive hours with professional youth staff, while family pools and waterslides entertain across age groups. Italian operational culture embraces children warmly in public spaces. Princess offers solid family facilities but positions more toward multigenerational harmony than child-centric experience. Princess Pelicans and Shockwaves programmes are quality yet more limited in scope. Teen spaces on newer Princess ships compete effectively, but Costa's lower pricing enables family cruising more accessibly. For pure family holiday value in Mediterranean waters, Costa prevails decisively."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Princess Cruises commands approximately 12-15% premium over Costa for equivalent cabin categories and itineraries, with average seven-night Mediterranean inside cabins at €799 versus Costa's €699. This differential widens for balcony accommodations and specialty dining packages. Costa's pricing includes more promotional periods with reduced deposits and onboard credit incentives. Gratuities differ significantly: Princess charges €16 per person daily (€112 weekly) against Costa's €10 (€70 weekly). Beverage packages show similar gaps. Princess justifies premiums through newer ship hardware in key markets, superior crew ratios, and enhanced included programming. Costa's yield management creates greater price volatility, with last-minute Mediterranean bargains frequently available."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Princess Cruises delivers superior culinary consistency across main dining rooms, buffets, and specialty venues. The Discovery at SEA partnership introduces regional authenticity and educational programming. Anytime Dining and traditional seating both maintain quality standards. Executive Chef Rudi Sodamin's influence elevates presentation and ingredient sourcing. Costa prioritises volume and Italian comfort food—excellent pizza, pasta, and gelato alongside adequate but repetitive main dining room offerings. Specialty restaurants on Costa provide limited improvement over included options. Princess's Chef's Table, Crown Grill steakhouse, and Sabatini's Italian trattoria demonstrate meaningful quality differentiation. For travellers prioritising gastronomy, Princess justifies its pricing premium substantially."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Princess Cruises better serves cruise novices through intuitive English-language operations, consistent service recovery, and moderate stimulation levels preventing overwhelm. The Princess Cruises app and onboard wayfinding reduce anxiety. Enrichment programmes explain maritime traditions and destination context. Costa's multilingual environment, while culturally enriching, potentially confuses inexperienced travellers during emergency drills, announcements, and service interactions. Costa's lively atmosphere and late-night programming may exhaust rather than delight first-timers seeking relaxation. Princess's moderate pacing and familiar hospitality norms provide gentler introduction to cruising. However, younger first-timers and European nationals may find Costa's energy and pricing more immediately appealing."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental distinctions centre on cultural orientation, service philosophy, and operational execution. Princess embodies North American premium cruising: understated elegance, destination focus, consistent English service, and enrichment programming. Costa represents Mediterranean mass-market cruising: festive atmosphere, Italian culinary identity, multilingual operations, and entertainment intensity. Princess maintains higher crew ratios and staff training investment. Costa leverages economies of scale for aggressive pricing. Evening experiences diverge sharply—Princess offers production shows and quiet lounges; Costa delivers deck parties and participatory contests. Stateroom design favours Princess for space and balcony prevalence. Itinerary deployment shows Princess stronger in Americas, Asia-Pacific, and world voyages; Costa dominates Mediterranean and South American markets."
+    }
+  ]
+}

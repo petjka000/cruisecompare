@@ -1,0 +1,198 @@
+{
+  "title": "Regent Seven Seas Caribbean Cruises 2026",
+  "intro": "Regent Seven Seas Cruises elevates Caribbean exploration through its all-inclusive, ultra-luxury approach. Unlike mass-market alternatives, Regent's Caribbean itineraries emphasize intimate port experiences aboard smaller, elegant vessels. The line's hallmark is genuinely inclusive pricing—shore excursions, premium beverages, specialty dining, and even business-class intercontinental flights are bundled into fares. Caribbean sailings typically range 7-14 nights, departing from Miami or San Juan to reach both mainstream and hidden-gem islands. Regent's smaller ship size enables access to boutique ports like Virgin Gorda and Bequia that mega-ships cannot approach. The experience centers on personalized service with nearly 1:1 guest-to-staff ratios, spacious all-suite accommodations starting at 300 square feet, and sophisticated enrichment programming. For discerning travelers, Regent transforms Caribbean cruising from commodity vacation to curated cultural immersion.",
+  "quick_facts": {
+    "price_from_eur": 4899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Seven Seas Explorer",
+      "Seven Seas Splendor",
+      "Seven Seas Grandeur"
+    ],
+    "departure_ports": [
+      "Miami",
+      "San Juan"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Apr)",
+      "inside_eur": 0,
+      "balcony_eur": 4899,
+      "suite_eur": 7899
+    },
+    {
+      "season": "Shoulder (May-Jun, Nov)",
+      "inside_eur": 0,
+      "balcony_eur": 4199,
+      "suite_eur": 6599
+    },
+    {
+      "season": "Low (Jul-Oct)",
+      "inside_eur": 0,
+      "balcony_eur": 3599,
+      "suite_eur": 5499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Eastern Caribbean Gems",
+      "duration_nights": 7,
+      "ports": [
+        "San Juan",
+        "St. Thomas",
+        "Tortola",
+        "Virgin Gorda",
+        "San Juan"
+      ],
+      "price_from_eur": 4899,
+      "highlight": "Exclusive beach club at Virgin Gorda with complimentary watersports"
+    },
+    {
+      "name": "10-night Southern Caribbean Discovery",
+      "duration_nights": 10,
+      "ports": [
+        "Miami",
+        "Aruba",
+        "Curacao",
+        "Bonaire",
+        "St. Lucia",
+        "Barbados",
+        "Miami"
+      ],
+      "price_from_eur": 6299,
+      "highlight": "Three ABC islands plus Windward Islands cultural immersion"
+    },
+    {
+      "name": "14-night Caribbean Circle",
+      "duration_nights": 14,
+      "ports": [
+        "Miami",
+        "Cayman Islands",
+        "Jamaica",
+        "Colombia",
+        "Panama Canal",
+        "Costa Rica",
+        "Belize",
+        "Cozumel",
+        "Miami"
+      ],
+      "price_from_eur": 8899,
+      "highlight": "Full Panama Canal transit with overnight in Cartagena"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Explorer",
+      "capacity": 750,
+      "year": 2016,
+      "best_for": "Luxury connoisseurs",
+      "price_from_eur": 4899
+    },
+    {
+      "name": "Seven Seas Splendor",
+      "capacity": 750,
+      "year": 2020,
+      "best_for": "Design enthusiasts",
+      "price_from_eur": 5199
+    },
+    {
+      "name": "Seven Seas Grandeur",
+      "capacity": 750,
+      "year": 2023,
+      "best_for": "Newest luxury seekers",
+      "price_from_eur": 5499
+    }
+  ],
+  "whats_included": [
+    "Unlimited shore excursions",
+    "All-suite accommodations with private balconies",
+    "Unlimited beverages including premium wines and spirits",
+    "Specialty restaurants without surcharge",
+    "Pre-cruise hotel night and transfers",
+    "Roundtrip business-class air on intercontinental flights",
+    "Unlimited WiFi",
+    "Gratuities",
+    "Valet laundry"
+  ],
+  "whats_extra": [
+    "Spa treatments",
+    "Casino gaming",
+    "Premium shore excursion upgrades",
+    "Boutique purchases",
+    "Photography services",
+    "Medical services"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for optimal suite selection and early booking savings up to 25%; last-minute deals rare due to small ship capacity",
+  "top_ports": [
+    {
+      "port": "Virgin Gorda (BVI)",
+      "time_in_port": "7am-6pm",
+      "top_activity": "The Baths national park expedition ($0, included)",
+      "tip": "Request morning departure to avoid heat at rock formations"
+    },
+    {
+      "port": "St. Lucia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Piton peak sailing and snorkel ($0, included)",
+      "tip": "Afternoon sail offers best lighting for photography"
+    },
+    {
+      "port": "Cartagena",
+      "time_in_port": "7am-11pm (overnight)",
+      "top_activity": "Private after-hours palace dinner ($0, included)",
+      "tip": "Evening stroll through Getsemani neighborhood essential"
+    },
+    {
+      "port": "Bequia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Friendship Bay turtle encounter ($0, included)",
+      "tip": "One of few Caribbean islands without mass tourism infrastructure"
+    },
+    {
+      "port": "Aruba",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Arikok National Park 4WD safari ($0, included)",
+      "tip": "Morning start avoids afternoon trade wind sand exposure"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Caribbean cruise cost?",
+      "answer": "Regent Seven Seas Caribbean cruises represent ultra-luxury positioning with fares starting from approximately €4,899 per person for seven-night sailings in balcony suites—there are no interior cabins. Peak season departures in January through March command €6,500-€9,000, while fourteen-night extended Caribbean itineraries range €8,500-€14,000. The fare structure is genuinely inclusive: business-class international flights, pre-cruise hotel nights, unlimited shore excursions, all beverages, specialty dining, gratuities, and WiFi are bundled. When comparing to premium competitors, factor €2,000-€3,500 in typical add-ons that Regent includes. Single travelers face 25-75% supplements depending on category. Regent frequently offers 'Savings' promotions reducing brochure fares 10-25% for early bookings."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Caribbean?",
+      "answer": "Three sister ships comprise Regent's Caribbean deployment: Seven Seas Explorer (2016), Seven Seas Splendor (2020), and Seven Seas Grandeur (2023). Each carries 750 guests in all-suite, all-balcony configurations with 542 crew members delivering near 1:1 service ratios. Explorer pioneered the line's ultra-luxury positioning with $450 million art collection and Canyon Ranch SpaClub. Splendor refined the formula with residential-inspired design by Studio DADO. Grandeur, the newest, represents evolutionary improvement with reimagined Compass Rose restaurant and enhanced Regent Suite. All three vessels feature identical 55,000 gross tonnage and draft specifications enabling Caribbean access, though none transit Panama Canal due to beam dimensions. Ship assignment rotates seasonally with Grandeur typically commanding premium pricing."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "Optimal Regent Seven Seas Caribbean cruising occurs January through March when humidity drops, rainfall minimizes, and trade winds provide natural cooling. These months deliver ideal conditions for included beach excursions and watersports. December offers holiday atmosphere but commands highest premiums and occasional winter storm departure delays from North American gateways. April presents excellent value with diminishing crowds though temperatures rise. May through November constitutes hurricane season with September-October seeing lowest pricing (€3,500+ seven-night) but itinerary disruption risk; Regent's small ships can reposition quickly around weather systems. Southern Caribbean routes (Aruba, Curacao, Bonaire) sit below hurricane belt offering year-round stability. Eastern Caribbean experiences more pronounced seasonality than southern alternatives."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent Seven Seas operates the cruise industry's most comprehensive inclusion model. Every Caribbean fare encompasses: roundtrip business-class air on intercontinental flights with complimentary transfers and pre-cruise luxury hotel night; unlimited shore excursions in every port (typically 3-5 options daily, with premium upgrades available); all-suite accommodations with private balconies, marble bathrooms, and walk-in closets; unlimited beverages including premium spirits, wines by bottle, and in-suite mini-bar; all specialty restaurants without reservation fees or surcharges; unlimited Vero Water, coffees, and juices; prepaid gratuities for all staff; unlimited ship-wide WiFi; valet laundry service; and destination lectures. The only significant exclusions are spa treatments, casino play, boutique purchases, and medical services. This structure eliminates typical cruise vacation's nickel-and-diming psychology."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent's Caribbean itineraries emphasize distinction over repetition. Eastern Caribbean routes feature San Juan, St. Thomas, Tortola, Virgin Gorda, St. Lucia, Barbados, and the line's exclusive beach destination at Saltwhistle Bay, Bequia—unreachable by larger vessels. Southern Caribbean sailings reach Aruba, Curacao, Bonaire, Grenada, Dominica, and St. Vincent. Extended Panama Canal itineraries incorporate Cartagena (frequently overnight), Colon, Puerto Limon, and Puntarenas. Regent's smaller draft enables calls at Bequia, Mayreau, and Virgin Gorda's Spanish Town pier that mega-ships bypass. Miami and San Juan serve as primary embarkation points with occasional Tampa departures. Port timing emphasizes daylight arrivals with extended stays—multiple ports feature 10-12 hour calls or overnight stays impossible for ships with 4,000+ passengers to execute efficiently."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Regent Seven Seas Caribbean inventory demands 12-18 month advance planning for optimal results. The 750-guest capacity sells through quickly, particularly for Regent, Grand, and Master Suites measuring 400-4,000 square feet. Booking opens approximately 18-22 months prior to sailing; early booking incentives typically offer 10-15% savings plus preferential suite location. Penthouse categories and above often reach 70% capacity 12 months out. Last-minute availability is rare and typically restricted to entry-level Deluxe Veranda Suites with obstructed views. For holiday season departures (Christmas, New Year, Presidents Day), secure reservations 18+ months ahead. Regent's flexible deposit structure—15% typically—reduces commitment risk. Waitlist functionality exists for sold categories with 20% deposit held. Group bookings (8+ suites) require 18-month lead times."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas occupies a nuanced position for Caribbean family travel. The line welcomes children but provides minimal dedicated programming—no kids clubs, waterslides, or teen discos exist. Children under 18 sail complimentary (paying only taxes) when occupying third berth in select suites, making multigenerational travel economically viable for affluent families. The inclusive shore excursion model particularly benefits families eliminating daily activity budgeting. However, the sophisticated dining, enrichment lecture programming, and formal evening atmosphere skew toward adult preferences. Recommended for families with children 12+ who appreciate cultural immersion over entertainment spectacle, or multigenerational groups where grandparents desire luxury while parents manage independent children's activities. School holiday periods (December, March, April) see modest family increase but remain predominantly adult. Connecting suites accommodate larger family configurations."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas maintains structured cancellation tiers protecting both consumer and inventory. Standard deposits (15% of cruise fare) become non-refundable 120 days prior to sailing for voyages under 30 nights. Final payment is due 120 days before departure. Cancellation penalties escalate: 119-90 days incurs 15% loss; 89-60 days forfeits 50%; 59-30 days loses 75%; and under 30 days results in 100% forfeiture. For suites categorized Penthouse and above, deposit requirements increase to 20% with non-refundable status at 180 days. Travel insurance—strongly recommended given fare levels—can be purchased through Regent or independently; 'Cancel for Any Reason' upgrades typically reimburse 75% in credits versus 100% for covered reasons. Pandemic-era flexibility has largely sunset though specific health-related cancellations may receive case-by-case consideration. Rebooking on future sailings sometimes permitted with administrative fees."
+    }
+  ]
+}

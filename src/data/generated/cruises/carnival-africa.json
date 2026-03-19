@@ -1,0 +1,214 @@
+{
+  "title": "Carnival Cruise Line Africa & Canaries Cruises 2026",
+  "intro": "Carnival Cruise Line brings its signature fun-filled atmosphere to the Africa & Canaries region with repositioning cruises and seasonal itineraries that combine volcanic landscapes with vibrant African culture. While not a traditional Carnival stronghold, these sailings typically operate during transatlantic repositioning periods, offering exceptional value for adventurous travelers. Passengers experience Carnival's renowned entertainment, diverse dining options, and family-friendly amenities while exploring the subtropical Canary Islands and select Moroccan ports. These cruises appeal to budget-conscious travelers seeking longer voyages with fewer sea days than typical transatlantic crossings. Carnival's casual, high-energy environment contrasts beautifully with the relaxed island pace of Tenerife and Gran Canaria, plus the exotic bustle of Casablanca. With competitive pricing and inclusive packages, these itineraries represent an accessible entry point for first-time visitors to this fascinating region, combining European sophistication with African adventure.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "13-16 nights",
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Mar",
+      "Apr"
+    ],
+    "ships_on_route": [
+      "Carnival Legend",
+      "Carnival Pride"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Civitavecchia",
+      "Tampa"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Repositioning (Oct-Nov)",
+      "inside_eur": 699,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Spring Repositioning (Mar-Apr)",
+      "inside_eur": 749,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Holiday Season",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Transatlantic & Canaries",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Cartagena",
+        "Malaga",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Funchal",
+        "Ponta Delgada",
+        "Tampa"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Full Atlantic crossing with extended Canary Islands exploration"
+    },
+    {
+      "name": "13-night Africa & Canaries Explorer",
+      "duration_nights": 13,
+      "ports": [
+        "Civitavecchia",
+        "Cagliari",
+        "Malaga",
+        "Casablanca",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Funchal",
+        "Lisbon"
+      ],
+      "price_from_eur": 799,
+      "highlight": "Rare Moroccan port call with overnight in Casablanca"
+    },
+    {
+      "name": "16-night Grand Africa & Canaries",
+      "duration_nights": 16,
+      "ports": [
+        "Barcelona",
+        "Palma de Mallorca",
+        "Alicante",
+        "Malaga",
+        "Casablanca",
+        "Agadir",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Arrecife",
+        "Funchal",
+        "Ponta Delgada"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Most comprehensive itinerary with two Moroccan ports and Lanzarote"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Carnival Legend",
+      "capacity": 2124,
+      "year": 2002,
+      "best_for": "Adults and families seeking mid-size ship intimacy",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Carnival Pride",
+      "capacity": 2124,
+      "year": 2001,
+      "best_for": "Multi-generational groups and casual cruisers",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Carnival Miracle",
+      "capacity": 2124,
+      "year": 2004,
+      "best_for": "Longer voyages with extensive sea day programming",
+      "price_from_eur": 729
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and Lido Marketplace buffet",
+    "Guy's Burger Joint and BlueIguana Cantina specialty venues",
+    "Live theater shows and comedy club performances",
+    "WaterWorks aqua park and Serenity adult-only retreat",
+    "Fitness center and sports court access",
+    "Kids and teen programming at Camp Ocean and Club O2",
+    "Room service breakfast and select daytime items",
+    "Port taxes and government fees"
+  ],
+  "whats_extra": [
+    "Cheers! beverage package (EUR 65/day) or individual drinks",
+    "Shore excursions (EUR 59-289 per port)",
+    "Specialty dining at Steakhouse and Cucina del Capitano",
+    "WiFi packages (EUR 15-25/day)",
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Laundry and dry cleaning services",
+    "Gratuities (EUR 16/day per person recommended)",
+    "Photography purchases"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for repositioning sailings; these limited itineraries sell quickly. Monitor for Early Saver rates with price protection. Consider booking interior cabins for value on port-intensive routes. Watch for past guest discounts and onboard booking incentives.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Mount Teide National Park excursion (EUR 89)",
+      "tip": "Pre-book cable car tickets; altitude affects some visitors"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Maspalomas dunes and beach day (EUR 45)",
+      "tip": "City center Vegueta district walkable from port"
+    },
+    {
+      "port": "Casablanca",
+      "time_in_port": "8am-6pm (overnight on select sailings)",
+      "top_activity": "Hassan II Mosque and medina tour (EUR 109)",
+      "tip": "Dress modestly; mosque requires covered shoulders and knees"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan ride and botanical gardens (EUR 65)",
+      "tip": "Morning fog common; book afternoon excursions for views"
+    },
+    {
+      "port": "Malaga",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Alhambra Palace Granada full-day (EUR 189)",
+      "tip": "Requires advance booking; limited cruise ship allocations"
+    },
+    {
+      "port": "Agadir",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Souss-Massa National Park birdwatching (EUR 79)",
+      "tip": "Less touristy alternative to Marrakech day trips"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Carnival Cruise Line Africa & Canaries cruise cost?",
+      "answer": "Carnival Africa & Canaries cruises typically range from EUR 699 for interior cabins on 14-night repositioning sailings to EUR 2,199 for suites during holiday periods. Balcony cabins average EUR 1,099-1,399. These represent exceptional value at roughly EUR 50-70 per night including accommodation, meals, and entertainment. Additional costs include gratuities (EUR 16/day), drinks packages (EUR 65/day), and excursions (EUR 59-289). Total budget for two passengers: EUR 2,500-4,500 including flights and pre-cruise hotel."
+    },
+    {
+      "question": "Which Carnival Cruise Line ships sail to Africa & Canaries?",
+      "answer": "Carnival deploys its Spirit-class ships for Africa & Canaries itineraries, primarily Carnival Legend, Carnival Pride, and occasionally Carnival Miracle. These 2,124-passenger vessels offer ideal size for extended voyages—large enough for comprehensive amenities including WaterWorks aqua park, Serenity adult retreat, and multiple dining venues, yet intimate enough for personalized service. All feature expansive outdoor deck space crucial for Atlantic crossings. These ships undergo regular refurbishment to maintain Carnival's contemporary standards."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "Optimal months are October-November and March-April during repositioning seasons, offering mild temperatures (20-25°C) and minimal rainfall. Canary Islands enjoy spring-like weather year-round. Avoid January-February Atlantic crossings due to rougher seas and cooler temperatures. October sailings eastbound catch pleasant Mediterranean conditions; April westbound voyages benefit from warming Canary Islands weather. Moroccan ports are most comfortable in spring and autumn, avoiding summer's intense heat and winter's Atlantic storms."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Carnival's inclusive package covers accommodation, all main dining room and buffet meals, select casual venues including Guy's Burger Joint and BlueIguana Cantina, theater productions, comedy club, live music, WaterWorks aqua park, sports courts, fitness center, and youth programming from ages 2-17. Room service breakfast and daytime snacks are complimentary. Not included: alcoholic beverages, specialty restaurants, shore excursions, WiFi, spa services, and casino. Gratuities are additional at EUR 16 per person daily."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Carnival Africa & Canaries itineraries typically include Santa Cruz de Tenerife and Las Palmas (Gran Canaria) for volcanic landscapes and beaches; Funchal, Madeira for gardens and wine culture; Casablanca or Agadir, Morocco for exotic medina experiences; and Malaga, Spain as embarkation/debarkation point. Select sailings add Lisbon, Ponta Delgada (Azores), Cartagena, and Canary Islands' Lanzarote. Sea days between continents range 3-5 days, making these true transatlantic experiences with cultural depth at each destination."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book 9-14 months ahead for optimal cabin selection and Early Saver pricing with price protection. Repositioning cruises have limited annual departures and sell quickly, particularly balcony cabins preferred for Atlantic crossings. Past guests receive early access 12-18 months out. Final payment typically due 90 days before sailing. Last-minute deals rare for this route due to scarcity. Consider booking onboard during any Carnival cruise for additional onboard credit and reduced deposits."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Carnival Africa & Canaries cruises suit families with children aged 8+ who can appreciate cultural excursions and tolerate multiple sea days. Younger children may find 3-5 consecutive sea days challenging despite excellent Camp Ocean programming (ages 2-11) and Club O2 (12-14), Circle C (15-17). WaterWorks aqua park and sports courts provide active outlets. Educational value is exceptional—Moroccan culture, volcanic geology, Portuguese maritime history. Consider connecting cabins or oceanview rooms for space. Teen programs maintain engagement during longer voyages."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Carnival's standard policy permits full refund minus deposit if cancelled before final payment. After final payment (90 days pre-cruise), penalties escalate: 75-90 days lose deposit; 30-74 days forfeit 50% fare; 15-29 days lose 75%; under 14 days no refund. Consider Carnival Vacation Protection (EUR 119-189 per person) for cancellation for any reason credit (75% future cruise credit) or standard coverage for covered reasons (100% refund). Named storm protection applies if itinerary significantly altered. Rebooking fees waived for cruise line-initiated changes."
+    }
+  ]
+}

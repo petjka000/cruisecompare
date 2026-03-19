@@ -1,0 +1,190 @@
+{
+  "title": "P&O Cruises Transatlantic Cruises 2026",
+  "intro": "P&O Cruises, Britain's favourite cruise line, offers elegant Transatlantic voyages that hark back to the golden age of ocean travel. These repositioning cruises between Southampton and Caribbean or North American ports provide exceptional value for money, with sea days filled with enrichment lectures, ballroom dancing, and traditional afternoon tea. The British heritage shines through in the onboard atmosphere, from the formal dining nights to the pub quizzes and curry evenings. Transatlantic crossings with P&O are particularly popular with mature travellers seeking a relaxed, sophisticated experience without the bustle of constant port calls. The extended sea days allow guests to fully unwind, enjoy the spa facilities, and build genuine camaraderie with fellow passengers. With competitive fares that often include generous onboard credit, these voyages represent one of cruising's best-kept secrets.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "12-16 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Arvia",
+      "Iona",
+      "Britannia",
+      "Azura"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Bridgetown"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring Repositioning",
+      "inside_eur": 799,
+      "balcony_eur": 1199,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Autumn Repositioning",
+      "inside_eur": 699,
+      "balcony_eur": 1099,
+      "suite_eur": 1999
+    },
+    {
+      "season": "Peak Holiday",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Westbound Transatlantic",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Ponta Delgada",
+        "St. John's",
+        "Bridgetown"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Classic ocean crossing with Azores and Antigua"
+    },
+    {
+      "name": "12-night Eastbound Transatlantic",
+      "duration_nights": 12,
+      "ports": [
+        "Bridgetown",
+        "Ponta Delgada",
+        "Southampton"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Return journey with extended Azores stop"
+    },
+    {
+      "name": "16-night Caribbean & Transatlantic",
+      "duration_nights": 16,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Madeira",
+        "St. Lucia",
+        "Barbados"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Combined Atlantic crossing with Portuguese and Caribbean islands"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Arvia",
+      "capacity": 5200,
+      "year": 2022,
+      "best_for": "Families & Entertainment",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Iona",
+      "capacity": 5200,
+      "year": 2021,
+      "best_for": "Dining & Atrium Living",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Britannia",
+      "capacity": 3600,
+      "year": 2015,
+      "best_for": "Traditional British Cruising",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Azura",
+      "capacity": 3100,
+      "year": 2010,
+      "best_for": "Adults-Preferred Atmosphere",
+      "price_from_eur": 649
+    }
+  ],
+  "whats_included": [
+    "Full board dining in main restaurants and buffet",
+    "Afternoon tea service",
+    "Evening entertainment and live shows",
+    "Use of gym and pools",
+    "Children's clubs (2-17 years)",
+    "Port taxes and service charges"
+  ],
+  "whats_extra": [
+    "Speciality dining restaurants",
+    "Alcoholic drinks and premium soft drinks",
+    "Shore excursions",
+    "Spa treatments and salon services",
+    "Wi-Fi packages",
+    "Laundry and dry cleaning",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection, particularly for balcony cabins on port side for westbound crossings. Look for 'anchor fare' deals 6-8 months out. Solo travellers should book early as single occupancy supplements apply. Consider Select Price for cabin choice and onboard credit.",
+  "top_ports": [
+    {
+      "port": "Ponta Delgada, Azores",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sete Cidades crater lakes tour (€89)",
+      "tip": "Weather changes rapidly; bring layers"
+    },
+    {
+      "port": "St. John's, Antigua",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Nelson's Dockyard heritage visit (€45)",
+      "tip": "Tender port; book early excursions"
+    },
+    {
+      "port": "Bridgetown, Barbados",
+      "time_in_port": "Full day turnaround",
+      "top_activity": "Catamaran snorkel with turtles (€75)",
+      "tip": "Arrive day before for embarkation peace of mind"
+    },
+    {
+      "port": "Madeira, Funchal",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Monte toboggan ride and gardens (€55)",
+      "tip": "Cable car often has queues; book organised tour"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Transatlantic cruise cost?",
+      "answer": "P&O Cruises Transatlantic fares typically range from €699 for an inside cabin on autumn repositioning cruises to €2,899 for a suite during peak holiday periods. Spring westbound crossings average €899-€1,199 for balcony cabins. The line frequently offers promotional fares including onboard credit worth €150-€300. Solo travellers pay 50-100% supplement depending on cabin grade. Gratuities are included in the fare, unlike American competitors. Watch for 'anchor fare' deals 6 months before sailing."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Transatlantic?",
+      "answer": "P&O deploys its larger, newer ships for Transatlantic crossings. Arvia and Iona, the 5,200-guest LNG-powered sisters, handle most 2026 crossings with their innovative SkyDome and extensive entertainment. Britannia, the 3,600-guest flagship, offers more intimate traditional cruising. Adults-preferred Azura also operates select crossings. Ventura and Aurora occasionally substitute. All feature British styling, sterling currency, and familiar food favourites. Arvia and Iona boast the most balcony cabins, crucial for Transatlantic enjoyment."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "The optimal Transatlantic windows are March-April and October-November when P&O repositions ships between Caribbean winter and Mediterranean summer programmes. March-April offers calmer seas and warming temperatures; October-November provides the best value pricing. Avoid December-February when Atlantic storms are more frequent. May crossings can encounter fog near European coasts. September sailings suit those seeking warm Caribbean arrival. The classic 'shoulder season' repositionings balance weather reliability with fare affordability."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O Transatlantic cruises include full board with breakfast, lunch, afternoon tea, and dinner in main restaurants and buffet venues; port taxes and service charges; evening entertainment including theatre shows, live music, and cinema; supervised children's clubs; gym, pools, and deck sports; and basic Wi-Fi allowance. Select Price fares add cabin choice, priority dining allocation, and onboard credit. Unlike American lines, gratuities are prepaid. You pay extra for drinks, speciality dining, excursions, spa, premium Wi-Fi, and laundry."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Westbound crossings from Southampton typically call at Ponta Delgada (Azores) for volcanic landscapes, occasionally Lisbon or Madeira, then Caribbean islands like Antigua, St. Lucia, or Barbados before disembarking. Eastbound routes reverse this. Some itineraries include Norwegian fjords or Iberian ports. Sea days dominate—7-10 consecutive days are common. The Azores provide a welcome mid-Atlantic break. Research your specific itinerary as 2026 schedules vary by ship; Arvia and Iona favour Barbados turnarounds while Britannia may use St. Lucia."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure your preferred cabin 9-12 months ahead, especially for port-side balconies on westbound crossings for afternoon sun. P&O releases itineraries 18 months in advance. Early booking secures better cabin locations and dining preferences. Last-minute deals appear 6-8 weeks before sailing but with limited choice. Solo occupancy cabins sell fastest. Consider booking flights and pre-cruise hotel simultaneously for Southampton departures. Wave season (January-March) brings promotional incentives. Cunard loyalists sometimes cross-book P&O for value comparison."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O Transatlantic cruises suit families with children aged 8+ who can appreciate sea day activities and handle extended ship time. Arvia and Iona excel here with extensive kids' facilities including rope courses, water slides, and dedicated teen zones. Younger children may struggle with 7+ consecutive sea days. School holiday crossings command premium pricing. Britannia and Azura offer more subdued family experiences. Evening entertainment runs family-friendly and adult-oriented schedules. Children's clubs operate daily 9am-midnight. Family cabins and interconnecting rooms book early."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O's standard cancellation policy charges deposit loss (typically 15% of fare) from booking until 90 days before sailing; 50% of cruise fare from 89-60 days; 75% from 59-30 days; and 100% within 29 days. Cruise-only bookings are more flexible than fly-cruise packages. Consider P&O's Cruise Cover at €49pp for cancellation protection covering illness, redundancy, or bereavement. Post-pandemic, the line offers more rebooking flexibility during promotional periods. Travel insurance with cruise-specific cover is strongly recommended for Transatlantic voyages given medical evacuation costs."
+    }
+  ]
+}

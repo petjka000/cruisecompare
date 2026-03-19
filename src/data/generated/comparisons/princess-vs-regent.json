@@ -1,0 +1,138 @@
+{
+  "title": "Princess Cruises vs Regent Seven Seas 2026",
+  "intro": "Princess Cruises and Regent Seven Seas represent two fundamentally different approaches to ocean cruising. Princess operates large resort-style ships with broad mainstream appeal and competitive pricing, carrying 2,000-4,300 passengers across global itineraries. Regent Seven Seas offers ultra-luxury all-inclusive voyages on smaller vessels hosting 490-750 guests, where every suite has ocean views and most have balconies. While Princess democratises cruise travel with accessible fares and abundant choice, Regent positions itself as the most inclusive luxury experience at sea, bundling flights, shore excursions, fine wines and gratuities into upfront pricing. Your decision hinges on whether you prioritise variety and value or intimacy and effortless indulgence.",
+  "at_a_glance": {
+    "princess": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "regent": {
+      "price_tier": "luxury",
+      "avg_7night_inside_eur": 6500
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "princess": "€899",
+      "regent": "N/A (all-suite)"
+    },
+    {
+      "category": "Price (7-night balcony)",
+      "princess": "€1,299",
+      "regent": "€6,500"
+    },
+    {
+      "category": "Ship size",
+      "princess": "2,000-4,300 guests",
+      "regent": "490-750 guests"
+    },
+    {
+      "category": "Included drinks",
+      "princess": "Packages extra",
+      "regent": "All beverages"
+    },
+    {
+      "category": "Included excursions",
+      "princess": "Extra (€50-200)",
+      "regent": "Unlimited free"
+    },
+    {
+      "category": "Included flights",
+      "princess": "Extra",
+      "regent": "Round-trip business class"
+    },
+    {
+      "category": "Gratuities",
+      "princess": "€14/day recommended",
+      "regent": "Included"
+    },
+    {
+      "category": "Speciality dining",
+      "princess": "€29-39 cover",
+      "regent": "All restaurants free"
+    },
+    {
+      "category": "Space ratio",
+      "princess": "31-42",
+      "regent": "67-76"
+    },
+    {
+      "category": "Crew-to-guest ratio",
+      "princess": "1:2.5",
+      "regent": "1:1.5"
+    }
+  ],
+  "choose_a_if": [
+    "You want extensive entertainment, casinos and Broadway-style shows",
+    "You prefer dozens of dining venues and flexible anytime dining",
+    "You're travelling with children who need dedicated kids' clubs and family activities",
+    "You want Caribbean, Alaska and Mediterranean itineraries at accessible price points",
+    "You enjoy large resort amenities like multiple pools, shops and extensive spa complexes"
+  ],
+  "choose_b_if": [
+    "You want genuinely all-inclusive pricing with no onboard bill surprises",
+    "You value intimate, uncrowded ships with personalised service",
+    "You prefer inclusive shore excursions in every port without planning hassle",
+    "You want spacious all-suite accommodation with butler service in higher categories",
+    "You seek sophisticated enrichment, wine tastings and culinary experiences without extra charges"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Princess Cruises",
+      "reason": "Discovery Princess and Sphere-class ships offer expansive kids' clubs, family suites, character encounters and flexible dining that accommodates multigenerational groups at manageable cost."
+    },
+    {
+      "type": "Luxury seekers",
+      "winner": "Regent Seven Seas",
+      "reason": "Truly all-inclusive model eliminates transaction friction; spacious suites, unlimited excursions and included business-class flights deliver seamless indulgence for discerning travellers."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Princess Cruises",
+      "reason": "Lower entry price and familiar resort atmosphere reduce perceived risk; MedallionClass technology simplifies navigation for cruise newcomers."
+    },
+    {
+      "type": "Celebration travellers",
+      "winner": "Regent Seven Seas",
+      "reason": "Anniversaries and milestones deserve stress-free luxury where everything is arranged; intimate ships create memorable private moments."
+    },
+    {
+      "type": "Active explorers",
+      "winner": "Regent Seven Seas",
+      "reason": "Free unlimited shore excursions include immersive cultural experiences; smaller ships access boutique ports unavailable to Princess vessels."
+    },
+    {
+      "type": "Budget-conscious",
+      "winner": "Princess Cruises",
+      "reason": "Base fares five to seven times lower than Regent allow longer itineraries or cabin upgrades while controlling discretionary spending."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends entirely on your spending patterns. Princess offers lower upfront fares starting around €899 for seven nights, but beverages, excursions, WiFi and gratuities add €400-800 per person. A couple spending freely might pay €2,800 total. Regent's €6,500 fare includes business-class flights, unlimited excursions, premium drinks, WiFi and gratuities—comparable components purchased separately elsewhere could exceed €8,000. For travellers who utilise inclusions fully, Regent delivers superior value; for those who prefer independent exploration and minimal onboard spending, Princess preserves capital. Calculate your typical cruise expenditure honestly before deciding which structure rewards your style."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Princess Cruises decisively wins for families. Their ships feature Camp Discovery for ages 3-17 with STEM activities, cooking classes and late-night group babysitting. Family suites, interconnecting cabins and youth programming run sea days. The Reef splash zone and Movies Under the Stars engage children while parents enjoy Sanctuary adults-only retreats. Regent Seven Seas accepts children but offers minimal programming; their sophisticated atmosphere, formal evenings and enrichment lectures suit mature travellers. No dedicated kids' facilities exist. Families with children under 12 will find Princess significantly more accommodating and economical for multigenerational celebrations."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "The pricing gap is substantial and structural. Princess operates on a la carte model: seven-night Mediterranean balcony cabins average €1,299, with inside cabins at €899. Regent's entry-level Veranda Suites start around €6,500 for comparable itineraries—over five times higher. However, Regent bundles business-class international flights (€2,000+ value), unlimited shore excursions (€150-400 daily), all beverages including premium wines and spirits, WiFi and gratuities. Princess passengers purchasing equivalent extras approach €3,500-4,000. The true comparison requires analysing total vacation cost rather than brochure fares; Regent rewards those who embrace comprehensive inclusion."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Both excel in different dimensions. Princess offers remarkable variety: 15+ venues including Italian trattorias, steakhouse, sushi bar and gastropub, though speciality restaurants charge €29-39. Main dining room quality is solid mainstream cruise fare. Regent provides fewer venues (4-5) but uncompromising quality: all restaurants complimentary, including French fine dining at Chartreuse and Asian fusion at Pacific Rim. Ingredients are superior—Regent sources prime aged beef, sustainable seafood and artisanal products. Culinary enrichment includes cooking demonstrations and wine pairings. For gastronomic travellers seeking Michelin-calibre cuisine without surcharges, Regent prevails; for variety-seekers who enjoy casual flexibility, Princess satisfies."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Princess Cruises better serves cruise novices. The lower financial commitment reduces anxiety about whether cruising suits you. Familiar resort amenities—pools, casino, production shows—ease transition from land vacations. MedallionClass wearable technology simplifies boarding, payments, cabin access and location services. Extensive itinerary choice lets you test cruising affordably. Regent's ultra-luxury environment, while flawless, assumes cruising familiarity; formal evenings, sophisticated enrichment and all-inclusive structure feel most rewarding to experienced travellers who understand what they're receiving. First-timers may not fully appreciate Regent's inclusions or feel constrained by its refined atmosphere. Start with Princess, graduate to Regent."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Scale fundamentally distinguishes them: Princess operates 15 large ships (2,000-4,300 guests) emphasising choice and entertainment; Regent's six intimate vessels (490-750 guests) prioritise space and serenity. Pricing philosophy diverges sharply—Princess separates base fare from options; Regent bundles virtually everything upfront. Demographics differ: Princess attracts families, couples and solo travellers across ages; Regent skews 55+ affluent experienced travellers. Service intensity varies: Regent's 1:1.5 crew-to-guest ratio enables anticipatory personalised attention impossible at Princess scale. Destination access differs: Regent's smaller ships penetrate boutique ports and offer extended evenings; Princess focuses on marquee destinations with efficient turnaround. Finally, atmosphere: Princess buzzes with activity; Regent whispers refined exclusivity."
+    }
+  ]
+}

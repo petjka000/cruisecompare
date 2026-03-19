@@ -1,0 +1,198 @@
+{
+  "title": "Cunard Line Japan & Asia Cruises 2026",
+  "intro": "Cunard Line brings its legendary White Star Service to the Far East, offering discerning travellers an elegant exploration of Japan and Asia aboard iconic ocean liners. Since 1840, Cunard has defined transatlantic luxury, and this heritage shines through in curated itineraries blending ancient temples with futuristic cities. Experience Japan's cherry blossom season or autumn colours from the refined comfort of Queen Elizabeth or Queen Anne, where Art Deco interiors and ballroom dancing complement immersive port experiences. Cunard's longer stays in Tokyo, Osaka, and Hong Kong allow genuine cultural discovery, while sea days feature enrichment lectures on Asian history, cooking demonstrations, and traditional tea ceremonies. The line's partnership with local experts ensures authentic shore excursions, from Kyoto's geisha districts to Vietnam's Mekong Delta. With formal evenings, afternoon tea, and the only planetarium at sea, Cunard transforms Asia cruising into a sophisticated journey.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "14-28 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Queen Elizabeth",
+      "Queen Anne"
+    ],
+    "departure_ports": [
+      "Tokyo",
+      "Singapore",
+      "Hong Kong",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Cherry Blossom (Mar-Apr)",
+      "inside_eur": 2499,
+      "balcony_eur": 3899,
+      "suite_eur": 7499
+    },
+    {
+      "season": "Autumn (Oct-Nov)",
+      "inside_eur": 2299,
+      "balcony_eur": 3499,
+      "suite_eur": 6899
+    },
+    {
+      "season": "Winter Repositioning",
+      "inside_eur": 1899,
+      "balcony_eur": 2899,
+      "suite_eur": 5299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Japan Intensive",
+      "duration_nights": 14,
+      "ports": [
+        "Tokyo",
+        "Shimizu",
+        "Osaka",
+        "Hiroshima",
+        "Busan",
+        "Nagasaki",
+        "Kagoshima",
+        "Shanghai"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Three full days in Kyoto via Osaka with overnight Tokyo stay"
+    },
+    {
+      "name": "21-night Grand Asia",
+      "duration_nights": 21,
+      "ports": [
+        "Singapore",
+        "Ho Chi Minh City",
+        "Nha Trang",
+        "Hong Kong",
+        "Manila",
+        "Keelung",
+        "Okinawa",
+        "Nagasaki",
+        "Osaka"
+      ],
+      "price_from_eur": 3499,
+      "highlight": "Comprehensive Southeast Asia and Japan combination with two overnight port stays"
+    },
+    {
+      "name": "28-night Exotic Asia & Australia",
+      "duration_nights": 28,
+      "ports": [
+        "Hong Kong",
+        "Halong Bay",
+        "Da Nang",
+        "Singapore",
+        "Semarang",
+        "Bali",
+        "Darwin",
+        "Cairns",
+        "Brisbane",
+        "Sydney"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Full repositioning journey through Indonesia to Australia with extended Bali overnight"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Elizabeth",
+      "capacity": 2081,
+      "year": 2010,
+      "best_for": "Traditionalists & culture enthusiasts",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Queen Anne",
+      "capacity": 3000,
+      "year": 2024,
+      "best_for": "Modern luxury seekers & spa enthusiasts",
+      "price_from_eur": 2099
+    }
+  ],
+  "whats_included": [
+    "Breakfast, lunch, dinner in main restaurants",
+    "Afternoon tea in Queens Room",
+    "Nightly entertainment & theatre shows",
+    "Fitness centre & pools",
+    "Port lectures & enrichment talks",
+    "White Star Service gratuities",
+    "Basic WiFi (150 minutes per voyage)"
+  ],
+  "whats_extra": [
+    "Specialty dining restaurants (€35-€55 per person)",
+    "Beverage packages & premium drinks (€55-€75 daily)",
+    "Shore excursions (€85-€395 per tour)",
+    "Spa treatments & salon services",
+    "Satellite internet upgrades",
+    "Laundry services",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking savings up to 25%; Cunard's 'Sailaway' fares offer lowest prices 6-9 months out with cabin assignment at embarkation; monitor for 'Cunard World Club' loyalty discounts and regional resident offers; final payment due 120 days before departure for voyages over 28 nights.",
+  "top_ports": [
+    {
+      "port": "Tokyo (Yokohama)",
+      "time_in_port": "7am-overnight",
+      "top_activity": "Private guided Tsukiji market tour with sushi masterclass (€245)",
+      "tip": "Extend with pre-cruise stay for full Tokyo immersion; ship docks 45 minutes from city centre"
+    },
+    {
+      "port": "Kyoto (via Osaka)",
+      "time_in_port": "8am-7pm",
+      "top_activity": "Full-day UNESCO temples with geisha district walking tour (€295)",
+      "tip": "Bullet train connection efficient but book Cunard's organised transfer for seamless experience"
+    },
+    {
+      "port": "Halong Bay",
+      "time_in_port": "12pm-8pm",
+      "top_activity": "Private junk boat overnight alternative with seaplane return (€485)",
+      "tip": "Day cruise included; overnight excursion requires advance booking through Cunard's concierge"
+    },
+    {
+      "port": "Hong Kong",
+      "time_in_port": "8am-overnight",
+      "top_activity": "Victoria Peak private evening with harbour dinner cruise (€195)",
+      "tip": "Star Ferry and Peak Tram easily self-navigated for independent exploration"
+    },
+    {
+      "port": "Ho Chi Minh City",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Cu Chi Tunnels with Mekong Delta sampan experience (€165)",
+      "tip": "Phu My port is 90 minutes from city; Cunard's shuttle or organised tour strongly recommended"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Japan & Asia cruise cost?",
+      "answer": "Cunard Japan and Asia cruises typically range from €1,899 for interior cabins on repositioning voyages to €15,000+ for Queens Grill suites on cherry blossom sailings. Balcony cabins, essential for scenic Asian cruising, average €2,899-€4,899 for 14-night itineraries. Gratuities are included, unlike competitors, but expect additional costs for drinks (€8-€15 per cocktail), specialty dining (€35-€55), and shore excursions (€85-€395). Cunard's fare structure includes three tiers: Britannia (main restaurant), Princess Grill (semi-suite with exclusive dining), and Queens Grill (full suite with butler service), with significant price jumps between categories. Early booking discounts of 15-25% are common 12-18 months ahead."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Japan & Asia?",
+      "answer": "Queen Elizabeth and Queen Anne operate Cunard's Asia deployments, with Queen Elizabeth traditionally assigned to the region October through April. Queen Elizabeth, launched 2010 and extensively refitted 2019, carries 2,081 passengers with intimate, classic Cunard ambiance and the largest ballroom at sea. Queen Anne, Cunard's newest vessel entering service 2024, accommodates 3,000 guests with contemporary luxury touches including the largest wellness complex in the fleet and expanded single-occupancy cabins. Both ships feature the line's signature Queens Room for ballroom dancing, Britannia and Grills restaurants, and dedicated enrichment spaces. Queen Elizabeth offers more traditional maritime heritage, while Queen Anne provides modern spa facilities and alternative dining venues."
+    },
+    {
+      "question": "When is best time to cruise Japan & Asia?",
+      "answer": "March through April delivers Japan's iconic cherry blossom season, though prices peak and crowds intensify; book 18 months ahead for optimal dates. October and November offer magnificent autumn foliage with comfortable temperatures and lower humidity across Japan and Southeast Asia. Avoid June through September due to typhoon season, extreme heat, and monsoon rains affecting port accessibility. December through February provides excellent value on repositioning voyages, though northern Japan ports may experience cooler conditions. For Vietnam and Thailand, November to March represents the dry season with ideal cruising weather. Cunard's scheduling prioritises these windows, with the most desirable itineraries selling out 12-15 months in advance."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's Japan and Asia cruises include all meals in main restaurants (Britannia for standard fares, Princess/Queens Grill for suite guests), traditional afternoon tea service, nightly theatre productions, live music throughout public spaces, port lectures and destination briefings, fitness centre access, swimming pools, and gratuities for housekeeping and dining staff. Accommodation categories determine restaurant access and cabin amenities. Also included are basic WiFi (150 minutes per voyage), deck games, dance classes, and library access. Notably, Cunard includes white-gloved service standards and enrichment programming such as Insights speakers on Asian culture, history, and politics. Alcohol, specialty dining, spa services, and shore excursions require additional payment."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Japan and Asia itineraries encompass diverse destinations across multiple countries. Japanese ports include Tokyo (overnight), Shimizu (Mount Fuji access), Osaka (Kyoto gateway), Hiroshima (Peace Memorial), Nagasaki, Kagoshima, and Okinawa. Southeast Asian calls feature Singapore (turnaround hub), Ho Chi Minh City (Mekong Delta), Nha Trang, Halong Bay, Da Nang, and Bangkok (via Laem Chabang). Extended voyages reach Manila, Keelung (Taipei), and Indonesian ports including Semarang and Bali. Australian repositionings add Darwin, Cairns, and Brisbane. Cunard emphasises longer port stays with multiple overnights in Tokyo, Hong Kong, and Singapore, enabling independent exploration and evening dining ashore rather than rushed daytime-only calls common on mainstream lines."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For optimal cabin selection on Cunard's Japan and Asia cruises, particularly balcony categories with favourable positioning, book 12-18 months before departure when itineraries first release. Cherry blossom season (late March-early April) demands earliest commitment, often selling out 15 months ahead. Cunard's 'Early Booking Benefit' provides up to 25% savings and complimentary upgrades for advance commitments. Final payment is due 120 days prior for voyages exceeding 28 nights, 90 days for standard 14-night cruises. Last-minute 'Sailaway' fares appear 6-9 months out offering 30-40% discounts but with cabin assignment at embarkation—risky for Asia routes where port-side balconies command significant premiums. World Club members access pre-sale windows 24 hours before public release."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard's Japan and Asia cruises suit families with children aged 8+ who appreciate cultural immersion over water slides, though the experience leans adult-oriented. The Zone and Play Zone provide supervised activities for ages 2-17 on sea days, with dedicated youth staff and educational programming about Asian destinations. Family-friendly shore excursions include rickshaw rides, cooking classes, and temple treasure hunts. However, evening entertainment emphasises ballroom dancing, classical music, and formal dinners where children may feel constrained. Connecting cabins and family suites are limited—book immediately upon release. School holiday periods see increased family programming, but Cunard's refined atmosphere and dress codes (formal nights require cocktail attire) generally attract fewer families than competitors, creating a quieter environment that multi-generational groups seeking cultural depth appreciate."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation policy for Japan and Asia cruises imposes penalties escalating by departure proximity. Cancellations 121+ days before sailing incur no penalty for standard fares, though promotional rates may carry stricter terms. 120-91 days prior: deposit forfeiture (typically 25% of cruise fare). 90-61 days: 50% penalty. 60-31 days: 75% penalty. 30 days or less: full fare forfeiture. For voyages exceeding 28 nights, penalties begin at 181 days with 50% charged 90-61 days out. Cunard strongly recommends comprehensive travel insurance covering cancellation, medical evacuation from remote Asian ports, and trip interruption. 'Cunard Care' insurance, available at booking, provides cancel-for-any-reason coverage up to 75% of non-refundable costs when purchased within 14 days of initial deposit."
+    }
+  ]
+}

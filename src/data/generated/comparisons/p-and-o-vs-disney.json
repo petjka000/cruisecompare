@@ -1,0 +1,132 @@
+{
+  "title": "P&O Cruises vs Disney Cruise Line 2026",
+  "intro": "P&O Cruises, Britain's favourite cruise line since 1837, offers traditional maritime elegance with adult-focused sophistication and family-friendly options across its fleet. Disney Cruise Line brings unparalleled character magic, Broadway-calibre entertainment, and immersive storytelling to the high seas. Both lines sail from European homeports including Southampton and Barcelona, yet serve distinctly different traveller profiles. P&O emphasises British cruising customs, formal nights, and refined dining at accessible price points. Disney commands premium pricing for its intellectual property exclusivity, youth programming excellence, and pristine fleet standards. Your choice ultimately hinges on whether you prioritise timeless cruising tradition or contemporary family entertainment.",
+  "at_a_glance": {
+    "p-and-o": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "disney": {
+      "price_tier": "premium",
+      "avg_7night_inside_eur": 1899
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "p-and-o": "€799",
+      "disney": "€1,899"
+    },
+    {
+      "category": "Target Market",
+      "p-and-o": "British adults & families",
+      "disney": "Families with children 3-12"
+    },
+    {
+      "category": "Entertainment Style",
+      "p-and-o": "West End revues, comedy, live music",
+      "disney": "Character meet-and-greets, Marvel/Star Wars/Pixar shows"
+    },
+    {
+      "category": "Dining Structure",
+      "p-and-o": "Traditional fixed seating or Freedom Dining",
+      "disney": "Rotational dining with themed restaurants"
+    },
+    {
+      "category": "Evening Atmosphere",
+      "p-and-o": "Formal nights, black tie optional",
+      "disney": "Cruise casual, no formal nights"
+    },
+    {
+      "category": "Adult-Only Spaces",
+      "p-and-o": "Arcadia, Aurora, Iona adults-only areas",
+      "disney": "Palo, Remy, Quiet Cove Pool (limited)"
+    },
+    {
+      "category": "Children's Programming",
+      "p-and-o": "Splashers, Surfers, Scubas clubs",
+      "disney": "Oceaneer Club/Lab, Edge, Vibe (industry-leading)"
+    },
+    {
+      "category": "Stateroom Size",
+      "p-and-o": "12-14 sqm inside standard",
+      "disney": "15-16 sqm inside, split bathrooms"
+    },
+    {
+      "category": "Gratuities",
+      "p-and-o": "€8-10/day discretionary",
+      "disney": "Pre-paid mandatory ~€14/day"
+    },
+    {
+      "category": "Beverage Inclusions",
+      "p-and-o": "Water, tea, coffee; drinks packages available",
+      "disney": "Soft drinks at meals only; packages extra"
+    }
+  ],
+  "choose_a_if": [
+    "You appreciate British cruising traditions, formal evenings, and refined adult-oriented entertainment",
+    "You seek better value for money with comparable itinerary quality and prefer understated elegance over character theming"
+  ],
+  "choose_b_if": [
+    "You have children aged 3-12 who will treasure princess encounters and superhero experiences",
+    "You prioritise industry-leading youth programming, rotational dining novelty, and pristine ship maintenance regardless of cost"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with young children",
+      "winner": "Disney Cruise Line",
+      "reason": "Unmatched character immersion, supervised clubs until midnight, and split bathrooms designed for families justify the significant price premium for this demographic."
+    },
+    {
+      "type": "Families with teenagers",
+      "winner": "P&O Cruises",
+      "reason": "Teenagers often outgrow Disney characters; P&O offers more independence, diverse ports, and age-appropriate entertainment without the juvenile theming."
+    },
+    {
+      "type": "Couples without children",
+      "winner": "P&O Cruises",
+      "reason": "Adult-only ships Arcadia and Aurora provide sophisticated atmosphere, better value, and no compromise from family-focused programming."
+    },
+    {
+      "type": "Multi-generational groups",
+      "winner": "Disney Cruise Line",
+      "reason": "Something for every age simultaneously, with grandparents enjoying shows while grandchildren attend clubs; though P&O offers better value if character appeal is limited."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "P&O Cruises",
+      "reason": "Lower financial risk, inclusive British hospitality, and authentic maritime experience without overwhelming theming; ideal for testing sea travel preferences."
+    },
+    {
+      "type": "Disney enthusiasts",
+      "winner": "Disney Cruise Line",
+      "reason": "The only floating Disney experience with exclusive characters, cast member service standards, and IP unavailable elsewhere; non-negotiable for fans."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "P&O Cruises delivers substantially superior value for most travellers, with seven-night Mediterranean sailings typically costing 60% less than comparable Disney itineraries. Your fare includes comparable accommodation quality, diverse dining venues, and comprehensive entertainment. Disney's premium pricing funds exclusive intellectual property, character performer salaries, and extraordinary youth programming infrastructure. For families indifferent to princesses and Marvel heroes, P&O offers identical destinations with superior adult amenities at fractionally lower cost. However, Disney's value proposition strengthens when comparing supervised children's activities, where their industry-leading programming justifies expenditure for parents seeking genuine holiday relaxation. Analyse your party's character affinity honestly before determining value."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Disney Cruise Line dominates family cruising through purpose-built infrastructure and intellectual property magic unavailable elsewhere. Children aged 3-12 experience supervised clubs with themed activities, character encounters, and counsellor ratios exceeding industry standards. Rotational dining eliminates repetitive meals, while deck parties and fireworks create unforgettable memories. P&O accommodates families competently through Splashers nurseries and Reef children's clubs, yet lacks Disney's immersive theming and evening entertainment breadth. Teenagers often prefer P&O's greater independence and less structured environment. For families with Disney-obsessed younger children, the premium proves worthwhile; for families seeking straightforward holiday relaxation without character dependency, P&O offers comparable satisfaction economically."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Disney Cruise Line commands significant premiums across all categories. Seven-night Mediterranean inside cabins average €1,899 on Disney versus €799 on P&O; balcony accommodations widen this gap further. Disney's mandatory pre-paid gratuities (~€98 per person weekly), premium beverage requirements, and exclusive shore excursions accumulate additional costs. P&O's pricing includes more flexible gratuity structures and competitive drinks packages. Disney rarely discounts substantially, maintaining price integrity through limited inventory and brand strength. P&O offers more promotional variability, particularly for last-minute bookings and early saver fares. When comparing equivalent seasons and itineraries, expect Disney to cost 2-2.5 times P&O's fare minimum."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Both lines prioritise quality, yet approach dining fundamentally differently. P&O emphasises traditional British and continental cuisine through main dining rooms and specialty restaurants including Sindhu and The Epicurean, with formal nights featuring elevated service standards. Their food reflects British palates and portion expectations. Disney innovates through rotational dining—guests experience three distinct themed restaurants with accompanying service teams—and exceptional specialty venues Palo (brunch) and Remy (French fine dining). Disney's family-friendly menus accommodate picky eaters masterfully while maintaining adult sophistication. Palo and Remy arguably exceed P&O's specialty offerings, though at supplementary cost. P&O's included dining provides greater consistency; Disney's rotational system offers superior variety and theatricality."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "P&O Cruises suits first-timers seeking authentic maritime tradition without overwhelming commitment. Lower fares reduce financial risk if sea travel disappoints. British hospitality, familiar customs, and Southampton departures eliminate logistical complexity. Formal nights introduce cruising elegance gradually, while Freedom Dining options prevent rigid scheduling anxiety. Disney suits first-timers prioritising guaranteed family satisfaction and brand familiarity. Their impeccable service standards and comprehensive onboarding minimise cruising uncertainty. However, Disney's premium pricing creates substantial first-timer risk, and intense theming may misrepresent broader cruising realities. First-timers uncertain about cruising should select P&O for representative experience; those specifically seeking Disney magic acceptably choose Disney despite atypical industry pricing."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Philosophical divergence defines these lines: P&O preserves maritime heritage through British hospitality, formal traditions, and adult-oriented sophistication, while Disney commercialises family entertainment through exclusive intellectual property and immersive storytelling. P&O's fleet includes dedicated adult-only vessels; Disney designs exclusively for multi-generational families. Evening atmosphere contrasts sharply—P&O's black tie optional formality versus Disney's perpetual cruise casual. Youth programming represents Disney's uncompromising strength; adult tranquility favours P&O. Pricing structures reflect these priorities, with Disney commanding premiums for character access and P&O democratising quality cruising. Dining approaches differ rotationally versus fixed, though both execute competently. Ultimately, your preference for tradition or theming, adult peace or family magic, determines suitability."
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "title": "Costa Cruises Japan & Asia Cruises 2026",
+  "intro": "Costa Cruises brings Italian hospitality to the Far East with immersive itineraries through Japan, South Korea, Taiwan, and Southeast Asian gems. Operating from Tokyo, Yokohama, and Singapore, Costa's Asia deployment features the Costa Serena and Costa Deliziosa, offering authentic Italian cuisine alongside regional specialties. Passengers experience the contrast of ancient temples and futuristic cities, with overnight stays in Tokyo and Shanghai maximizing exploration time. Costa's European-style cruising adapts well to Asian markets, with multilingual staff and culturally tailored entertainment. The line emphasizes value, with competitive base fares and flexible dining options. Japan sailings typically operate November through March, avoiding typhoon season while capturing cherry blossom departures. Southeast Asian routes run year-round from Singapore, accessing Thailand, Vietnam, and Malaysia. Costa's family-friendly approach includes Italian-designed kids' clubs, though the primary demographic skews European and Asian markets rather than North American families.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "7-16 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Costa Serena",
+      "Costa Deliziosa"
+    ],
+    "departure_ports": [
+      "Tokyo",
+      "Yokohama",
+      "Singapore"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Low (Jul-Sep typhoon risk)",
+      "inside_eur": 849,
+      "balcony_eur": 1199,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Shoulder (Oct, Apr)",
+      "inside_eur": 999,
+      "balcony_eur": 1399,
+      "suite_eur": 2099
+    },
+    {
+      "season": "Peak (Nov-Mar)",
+      "inside_eur": 1299,
+      "balcony_eur": 1799,
+      "suite_eur": 2699
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Japan Explorer",
+      "duration_nights": 7,
+      "ports": [
+        "Tokyo",
+        "Nagasaki",
+        "Busan",
+        "Kanazawa",
+        "Tokyo"
+      ],
+      "price_from_eur": 849,
+      "highlight": "South Korea crossover with extended Tokyo stay"
+    },
+    {
+      "name": "14-night Grand Asia",
+      "duration_nights": 14,
+      "ports": [
+        "Singapore",
+        "Ko Samui",
+        "Laem Chabang",
+        "Sihanoukville",
+        "Ho Chi Minh City",
+        "Singapore"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Deep Southeast Asia immersion with overnight in Bangkok"
+    },
+    {
+      "name": "10-night Japan & Taiwan",
+      "duration_nights": 10,
+      "ports": [
+        "Yokohama",
+        "Shimizu",
+        "Osaka",
+        "Naha",
+        "Keelung",
+        "Yokohama"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Mt Fuji views and Taipei night markets"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Serena",
+      "capacity": 3780,
+      "year": 2007,
+      "best_for": "Value-conscious couples and European families",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Costa Deliziosa",
+      "capacity": 2826,
+      "year": 2010,
+      "best_for": "Intimate Asia exploration with premium touches",
+      "price_from_eur": 999
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining room and buffet",
+    "Evening entertainment and shows",
+    "Fitness center access",
+    "Kids club programming",
+    "Port taxes and fees",
+    "Basic WiFi (limited speed)"
+  ],
+  "whats_extra": [
+    "Beverage packages (EUR 25-45/day)",
+    "Specialty restaurants (EUR 25-35/person)",
+    "Shore excursions (EUR 45-180)",
+    "Spa treatments and salon services",
+    "Premium WiFi",
+    "Laundry and dry cleaning",
+    "Gratuities (EUR 11/day recommended)"
+  ],
+  "booking_strategy": "Book 8-14 months ahead for peak winter Japan departures; shoulder season offers 20-30% savings with 4-6 month lead time. Watch for Italian market promotions converting to EUR savings.",
+  "top_ports": [
+    {
+      "port": "Tokyo (Yokohama)",
+      "time_in_port": "7am-6pm (overnight on some itineraries)",
+      "top_activity": "Tsukiji Outer Market food tour (EUR 89)",
+      "tip": "Take early Shinkansen to Kyoto if overnight"
+    },
+    {
+      "port": "Nagasaki",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Peace Park and Glover Garden (EUR 65)",
+      "tip": "Dejima Wharf walking distance from pier"
+    },
+    {
+      "port": "Busan, South Korea",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Haedong Yonggungsa Temple and seafood market (EUR 75)",
+      "tip": "Metro system efficient for independent exploration"
+    },
+    {
+      "port": "Singapore",
+      "time_in_port": "Embarkation/Disembarkation",
+      "top_activity": "Gardens by Bay and Marina Bay Sands (EUR 55)",
+      "tip": "Pre-cruise hotel recommended for jet lag recovery"
+    },
+    {
+      "port": "Ho Chi Minh City",
+      "time_in_port": "8am-6pm (via Phu My)",
+      "top_activity": "Cu Chi Tunnels and city tour (EUR 95)",
+      "tip": "Allow 3 hours roundtrip from Phu My port"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Japan & Asia cruise cost?",
+      "answer": "Costa Cruises Japan and Asia itineraries typically range from EUR 849 to EUR 2,699 per person for seven to sixteen-night sailings. Inside cabins start around EUR 849 during low season typhoon months, rising to EUR 1,299 for peak winter departures. Balcony accommodations run EUR 1,199 to EUR 1,799, while suites command EUR 1,799 to EUR 2,699. These base fares exclude beverages, excursions, and gratuities. European market pricing often undercuts comparable North American lines by 15-25%. Last-minute deals emerge 60-90 days prior, though cabin selection becomes limited. Total vacation cost including flights to Asia, pre-cruise hotel, drinks package, and excursions typically reaches EUR 2,500-4,000 per person."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Japan & Asia?",
+      "answer": "Costa deploys Costa Serena and Costa Deliziosa to Asian waters seasonally. Costa Serena, a 3,780-passenger vessel launched 2007, handles the bulk of Japan-Korea-Taiwan routes from Tokyo and Yokohama during winter months. Her Italian Renaissance-themed decor and multi-level wellness center suit extended cruising. Costa Deliziosa, smaller at 2,826 passengers and launched 2010, operates Southeast Asian itineraries from Singapore and occasional repositioning voyages. Both ships feature Costa's Samsara Spa concept with thermal suites and Asian-influenced treatments. Neither vessel matches the scale of Royal Caribbean's Asian-deployed ships, but Costa offers more intimate port experiences and authentic European atmosphere. Ship assignments rotate annually based on deployment schedules."
+    },
+    {
+      "question": "When is best time to cruise Japan & Asia?",
+      "answer": "November through March delivers optimal conditions for Japan cruises, with dry skies, moderate temperatures, and minimal typhoon risk. December and January offer illuminations and winter festivals, though pack layers for northern ports. Late March captures early cherry blossoms on southern Kyushu itineraries. Southeast Asia from Singapore operates year-round, though November to February avoids the heaviest monsoon rains and oppressive humidity. April and October serve as shoulder months with occasional showers but 20-30% lower pricing. Avoid July through September entirely for Japan due to typhoon season, extreme humidity, and risk of itinerary disruptions. Chinese New Year in late January or February creates peak demand and premium pricing across all Asian routes."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's Asia cruises include accommodation, all meals in the main dining room and buffet restaurants, standard entertainment including theater shows and live music, fitness center access, and supervised kids club programming for ages 3-17. Port taxes and fees are included in advertised fares. Basic WiFi is provided but limited to messaging apps and light browsing. What distinguishes Costa is the authentic Italian dining experience—pasta made fresh daily, Italian-speaking dining room staff, and espresso culture. Not included are beverages beyond water, coffee, and tea at meals; specialty dining; shore excursions; spa services; premium internet; and gratuities. Costa's all-inclusive packages can be pre-purchased, with the Intelligente package covering drinks, WiFi, and gratuities for approximately EUR 35 per day."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa's Japan itineraries typically include Tokyo/Yokohama as homeport, with calls at Nagasaki, Kagoshima, Kanazawa, and Busan in South Korea. Extended voyages reach Naha in Okinawa, Keelung and Kaohsiung in Taiwan, and occasionally Shanghai. Southeast Asian routes from Singapore feature Thai ports including Ko Samui and Laem Chabang for Bangkok, Vietnam's Ho Chi Minh City via Phu My, Sihanoukville in Cambodia, and Malaysian stops at Port Klang for Kuala Lumpur and Penang. Repositioning cruises between Europe and Asia add Colombo, Mumbai, and Arabian Gulf ports. Costa emphasizes longer port stays than some competitors, with overnights in Tokyo, Shanghai, and Bangkok on select itineraries, allowing deeper destination immersion."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For peak winter Japan departures, book eight to fourteen months in advance, particularly for balcony cabins and suites which represent limited inventory on Costa's Asia-deployed ships. Cherry blossom season and Chinese New Year sailings sell out earliest. Shoulder season travelers can secure favorable rates with four to six months lead time. Costa's European sales model means significant last-minute inventory sometimes appears ninety days prior, offering twenty to thirty percent savings for flexible travelers. However, flight costs to Asia typically rise closer to departure, eroding cruise savings. Group bookings of eight or more cabins should plan twelve months ahead for best availability and group rates. Wave season promotions in January often apply to Asia sailings booked six to nine months out."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa Cruises offers solid family infrastructure though with distinctly European character. Squok Club provides complimentary supervised programming for ages three to seventeen, divided into age groups with Italian-influenced activities. Family cabins and connecting rooms are available but limited on the Asia-deployed ships. The Italian dining schedule—late dinner seatings around 8:30 PM—may challenge families with young children accustomed to earlier North American standards. Pool areas and waterslides entertain, though Costa Serena and Deliziosa lack the mega-ship thrills of Royal Caribbean or MSC's newer vessels. Multilingual environment suits internationally minded families. Pricing advantages make Costa attractive for budget-conscious families, but expectations should align with European service standards and cultural norms rather than American-style family cruising."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa Cruises applies standard European cruise cancellation terms to Asia bookings. Cancellations ninety days or more prior to departure incur no penalty with full refund. Eighty-nine to sixty days before, deposit is forfeited—typically EUR 250-400 per person. Fifty-nine to thirty days prior, fifty percent of total fare is retained. Twenty-nine to fifteen days, seventy-five percent forfeited. Within fourteen days, full fare is non-refundable. Travel insurance is strongly recommended given flight costs to Asia and potential for disruption. Costa offers Cruise Protection packages covering cancellation for any reason with future cruise credit minus administrative fee. Pandemic-related policies have normalized but verify current terms at booking. Rebooking to alternative dates typically incurs EUR 50-100 change fee per person outside penalty windows."
+    }
+  ]
+}

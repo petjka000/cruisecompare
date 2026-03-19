@@ -1,0 +1,206 @@
+{
+  "title": "MSC Cruises Greek Isles Cruises 2026",
+  "intro": "MSC Cruises brings its distinctive Mediterranean flair to the Greek Isles, combining Italian elegance with exceptional value. As a family-owned company with deep roots in the region, MSC offers authentic experiences from Santorini's caldera sunsets to Mykonos' vibrant windmills. Their modern fleet features innovative ships designed for European tastes, with sophisticated dining, multilingual entertainment, and the exclusive MSC Yacht Club for luxury seekers. Greek Isles itineraries typically operate from spring through autumn, departing conveniently from Piraeus (Athens) or Venice. MSC's competitive pricing and comprehensive kids' programs make this destination accessible for families, couples, and solo travelers seeking sun-drenched islands, ancient history, and crystal-clear Aegean waters without premium pricing.",
+  "quick_facts": {
+    "price_from_eur": 649,
+    "duration_range": "7-11 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "MSC World Europa",
+      "MSC Seaview",
+      "MSC Seaside",
+      "MSC Fantasia"
+    ],
+    "departure_ports": [
+      "Piraeus (Athens)",
+      "Venice",
+      "Bari",
+      "Genoa"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct)",
+      "inside_eur": 649,
+      "balcony_eur": 949,
+      "suite_eur": 1599
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Luxury Yacht Club",
+      "inside_eur": 0,
+      "balcony_eur": 2499,
+      "suite_eur": 3899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles & Italy",
+      "duration_nights": 7,
+      "ports": [
+        "Piraeus",
+        "Santorini",
+        "Mykonos",
+        "Katakolon",
+        "Bari"
+      ],
+      "price_from_eur": 649,
+      "highlight": "Iconic caldera views and ancient Olympia"
+    },
+    {
+      "name": "7-night Best of Greece",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Bari",
+        "Santorini",
+        "Mykonos",
+        "Piraeus"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Overnight in Mykonos for nightlife"
+    },
+    {
+      "name": "11-night Grand Mediterranean",
+      "duration_nights": 11,
+      "ports": [
+        "Genoa",
+        "Naples",
+        "Santorini",
+        "Mykonos",
+        "Piraeus",
+        "Katakolon",
+        "Valletta",
+        "Barcelona"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Comprehensive Greece with Western Med"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "MSC World Europa",
+      "capacity": 6762,
+      "year": 2022,
+      "best_for": "Modern luxury & families",
+      "price_from_eur": 799
+    },
+    {
+      "name": "MSC Seaview",
+      "capacity": 5179,
+      "year": 2018,
+      "best_for": "Outdoor living & sea views",
+      "price_from_eur": 649
+    },
+    {
+      "name": "MSC Seaside",
+      "capacity": 5179,
+      "year": 2017,
+      "best_for": "Caribbean-style cruising in Europe",
+      "price_from_eur": 649
+    },
+    {
+      "name": "MSC Fantasia",
+      "capacity": 4363,
+      "year": 2008,
+      "best_for": "Value-conscious travelers",
+      "price_from_eur": 549
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "Main dining room meals & buffet",
+    "Theatre shows & live music",
+    "Kids' clubs (0-17 years)",
+    "Gym & pool access",
+    "Port taxes & fees",
+    "Basic Wi-Fi (social package)"
+  ],
+  "whats_extra": [
+    "Beverage packages (EUR 35-65/day)",
+    "Specialty restaurants (EUR 25-45/person)",
+    "Shore excursions (EUR 55-189)",
+    "Premium Wi-Fi (EUR 15-25/day)",
+    "Spa treatments & salon services",
+    "Laundry services",
+    "Gratuities (EUR 12-14/day recommended)",
+    "MSC Yacht Club upgrade"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts up to 30%. MSC's 'Bella' experience offers lowest rates with cabin assignment at embarkation; 'Fantastica' adds priority dining and cabin choice for EUR 100-200 more. Yacht Club suites include butler service and exclusive facilities. Watch for 'Kids Sail Free' promotions and resident rates for European passengers. Final payment typically due 90 days before sailing.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Caldera boat tour with hot springs (EUR 89)",
+      "tip": "Take cable car early; donkey rides controversial and overpriced"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "8am-11pm (overnight on select sailings)",
+      "top_activity": "Delos archaeological site (EUR 65)",
+      "tip": "Beach clubs book fast; reserve windmill dinner for sunset"
+    },
+    {
+      "port": "Katakolon (Olympia)",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Ancient Olympia tour with stadium run (EUR 75)",
+      "tip": "Kourouta Beach alternative if you've seen ruins before"
+    },
+    {
+      "port": "Piraeus (Athens)",
+      "time_in_port": "6am-8pm or overnight",
+      "top_activity": "Acropolis & Parthenon guided tour (EUR 95)",
+      "tip": "Metro to Athens costs EUR 3; allow 90 minutes round-trip"
+    },
+    {
+      "port": "Heraklion (Crete)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Knossos Palace & Archaeological Museum (EUR 85)",
+      "tip": "Argyroupoli waterfalls for nature lovers avoiding crowds"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a MSC Cruises Greek Isles cruise cost?",
+      "answer": "MSC Cruises Greek Isles itineraries start from EUR 649 per person for inside cabins during shoulder season (April-May, October), rising to EUR 899-1299 in peak summer months. Balcony cabins range EUR 949-1299, while suites cost EUR 1599-2199. The exclusive MSC Yacht Club experience begins at EUR 2499. These prices exclude beverages, excursions, and gratuities. Families benefit significantly from 'Kids Sail Free' promotions where children under 18 pay only port taxes. Last-minute deals occasionally drop inside cabins to EUR 499, though cabin location and dining times suffer. Total budget including drinks package, two excursions, and gratuities typically adds EUR 400-600 per person weekly."
+    },
+    {
+      "question": "Which MSC Cruises ships sail to Greek Isles?",
+      "answer": "MSC deploys its most innovative ships to Greek Isles routes. MSC World Europa, their flagship LNG-powered vessel launched 2022, offers the most advanced facilities including the Venom Drop slide and 13 dining venues. MSC Seaview and MSC Seaside feature revolutionary outdoor promenade designs maximizing sea views—ideal for Aegean cruising. MSC Fantasia and MSC Lirica provide more traditional experiences at lower price points. Seasonally, MSC Musica and MSC Opera join the rotation. Ship assignments vary by departure port: World Europa primarily from Piraeus, Seaview from Venice, Seaside from Bari. All vessels feature the distinctive MSC Yacht Club ship-within-a-ship concept for luxury seekers preferring intimate surroundings on large ships."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May, June, September, and October offer optimal Greek Isles cruising conditions. May and October provide pleasant 20-24°C temperatures, fewer crowds, and lowest MSC pricing from EUR 649. June delivers ideal swimming weather at 26°C before July-August heat peaks. September maintains warm seas (25°C) with reduced tourist volumes and harvest season authenticity. July and August reach 32-35°C with crowded ports and premium pricing—avoid unless school holidays dictate. Santorini and Mykonos suffer overtourism mid-summer; shoulder season allows meaningful exploration. October sailing risks occasional rain but rewards with empty archaeological sites and wine festival participation. MSC's Greek Isles program typically operates April through November, with no winter sailings."
+    },
+    {
+      "question": "What is included?",
+      "answer": "MSC Cruises includes accommodation, main dining room meals, extensive buffet options, theatre productions, live music, and supervised kids' clubs dividing children into age-appropriate groups (Baby Club 0-3, Mini Club 3-6, Junior Club 7-11, Young Club 12-14, Teen Club 15-17). Fitness centre and pool access are complimentary. Port taxes and basic social Wi-Fi are included. Notably excluded are beverages beyond tap water, coffee, and tea at breakfast; specialty dining; shore excursions; spa services; and gratuities. MSC's 'Bella' experience offers these inclusions with cabin assignment at embarkation. Upgrading to 'Fantastica' (EUR 100-200) adds cabin selection, priority dining times, and 20% spa discount. 'Aurea' includes drinks package and spa access. Yacht Club provides all-inclusive luxury with butler service."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "MSC's Greek Isles itineraries feature Santorini's dramatic caldera and whitewashed Oia village, Mykonos with its iconic windmills and cosmopolitan beaches, and Katakolon gateway to ancient Olympia where Olympic games originated. Piraeus serves as primary embarkation and Athens access point for Acropolis visits. Heraklion (Crete) offers Europe's oldest civilization at Knossos Palace. Secondary calls include Corfu's Venetian architecture, Rhodes' medieval Old Town, and Kefalonia's stunning beaches. Some itineraries incorporate Bari (Italy) for trulli houses or Valletta (Malta) for Knights of Malta history. Departure ports rotate between Piraeus, Venice, Bari, and Genoa affecting itinerary emphasis. Venice departures require full day at sea reaching Greece; Piraeus departures maximize Greek island time with immediate Aegean access."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure MSC Greek Isles cruises 9-12 months advance for optimal cabin selection, dining preferences, and early booking discounts reaching 30% off brochure rates. Yacht Club suites and balcony cabins with specific locations sell fastest. Mediterranean summer inventory contracts rapidly after New Year. Booking 6-9 months ahead still yields good value but reduced cabin choice. Last-minute bookings (under 60 days) occasionally offer EUR 499 inside cabins, though with undesirable locations and late dining assignments unsuitable for families with young children. MSC's flexible 'Cruise Flex' allows changes until 48 hours before departure for EUR 50 fee. Final payment typically due 90 days pre-cruise. Group bookings (8+ cabins) require 12+ months planning for coordination benefits and potential group discounts."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "MSC Cruises excels for families in Greek Isles with complimentary kids' clubs operating until midnight, family cabins accommodating up to 5 passengers, and 'Kids Sail Free' promotions where children pay only port taxes (approximately EUR 150-200). The LEGO partnership delivers themed activities and play areas. Teen clubs feature dedicated discos and sports tournaments. Water parks, bowling alleys, and Formula 1 simulators entertain diverse ages. Family shore excursions balance education and fun—gladiator school in Rome, beach days in Mykonos, interactive mythology tours in Athens. Dining accommodates picky eaters with extensive buffet choices. Multi-generational groups appreciate the ship-within-a-ship Yacht Club concept where grandparents enjoy luxury while families use main facilities. Evening entertainment suits European bedtimes better than American lines. Babysitting services available for infants under 3."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "MSC Cruises' standard cancellation policy charges no penalty until 90 days before departure. Cancellations 89-61 days prior forfeit deposit (typically EUR 250-500 per person). 60-46 days loses 25% of fare; 45-16 days 50%; 15-4 days 75%; under 4 days 100%. 'Cruise Flex' protection (EUR 50-100 per booking) permits changes or cancellation until 48 hours before sailing with full future cruise credit. COVID-19 policies provided additional flexibility historically but have normalized. Travel insurance strongly recommended for medical coverage and trip interruption, as MSC's liability excludes consequential losses. Yacht Club bookings carry identical structure but higher deposit requirements. Group bookings face stricter terms with penalties beginning 120 days pre-cruise. Rebooking on cancelled cruises typically offers 125% future cruise credit valid 18 months."
+    }
+  ]
+}

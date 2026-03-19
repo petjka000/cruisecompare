@@ -1,0 +1,190 @@
+{
+  "title": "Costa Cruises Caribbean Cruises 2026",
+  "intro": "Costa Cruises brings authentic Italian hospitality to the Caribbean, offering a distinctive European-style cruise experience with a Mediterranean flair. Operating from Fort Lauderdale and seasonal Caribbean departures, Costa combines value-driven pricing with Italian gastronomy, design, and entertainment traditions. The line appeals particularly to international travelers and those seeking a culturally diverse onboard atmosphere. Caribbean itineraries typically range from 7 to 14 nights, visiting Eastern, Western, and Southern Caribbean destinations including the ABC islands, Jamaica, and Grand Cayman. Costa's Caribbean program emphasizes longer port stays and overnight calls in select destinations, allowing deeper exploration. The onboard experience features Italian-speaking staff, authentic pizza and pasta venues, and European-style deck parties. With competitive pricing often 20-30% below premium competitors, Costa represents excellent value for Caribbean cruising, particularly for European travelers and those seeking something beyond the standard American cruise product.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Costa Firenze",
+      "Costa Fascinosa"
+    ],
+    "departure_ports": [
+      "Fort Lauderdale",
+      "Marseille"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Shoulder (Mar-Apr, Nov)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1699
+    },
+    {
+      "season": "Low (May-Oct)",
+      "inside_eur": 599,
+      "balcony_eur": 899,
+      "suite_eur": 1399
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Western Caribbean",
+      "duration_nights": 7,
+      "ports": [
+        "Cozumel",
+        "Belize City",
+        "Roatán",
+        "Costa Maya"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Mayan ruins and reef snorkeling"
+    },
+    {
+      "name": "10-night Eastern & Southern Caribbean",
+      "duration_nights": 10,
+      "ports": [
+        "San Juan",
+        "St. Thomas",
+        "St. Maarten",
+        "Antigua",
+        "Martinique"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Colonial architecture and French-Caribbean culture"
+    },
+    {
+      "name": "14-night Grand Caribbean",
+      "duration_nights": 14,
+      "ports": [
+        "Aruba",
+        "Curaçao",
+        "Bonaire",
+        "Grenada",
+        "Barbados"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "ABC islands with Dutch Caribbean heritage"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Firenze",
+      "capacity": 5240,
+      "year": 2021,
+      "best_for": "Families and couples",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Costa Fascinosa",
+      "capacity": 3780,
+      "year": 2012,
+      "best_for": "Value-conscious travelers",
+      "price_from_eur": 649
+    },
+    {
+      "name": "Costa Pacifica",
+      "capacity": 3780,
+      "year": 2009,
+      "best_for": "Music lovers and entertainment seekers",
+      "price_from_eur": 599
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All main dining room meals and buffet access",
+    "Standard coffee, tea, and water at meals",
+    "Theater shows and live entertainment",
+    "Use of pools, fitness center, and sports facilities",
+    "Kids club and teen programs",
+    "Port taxes and basic gratuities"
+  ],
+  "whats_extra": [
+    "Beverage packages (alcoholic and specialty coffees)",
+    "Specialty dining restaurants",
+    "Shore excursions and spa treatments",
+    "Wi-Fi packages",
+    "Laundry services",
+    "Photos and onboard shopping",
+    "Casino gaming",
+    "Some fitness classes"
+  ],
+  "booking_strategy": "Book 6-12 months ahead for best cabin selection and early booking discounts of 15-25%. Costa frequently offers 'Super All-Inclusive' promotions bundling drinks, Wi-Fi, and gratuities—typically 30% better value than adding separately. European school holiday periods (July-August, Christmas) sell out fastest. Consider repositioning cruises in April and November for exceptional value on longer itineraries.",
+  "top_ports": [
+    {
+      "port": "Cozumel",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Palancar Reef diving ($129)",
+      "tip": "Book dive operators independently for better value"
+    },
+    {
+      "port": "Willemstad, Curaçao",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Historic walking tour and floating bridge ($45)",
+      "tip": "Walk to downtown—no shuttle needed"
+    },
+    {
+      "port": "Oranjestad, Aruba",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Eagle Beach and Arikok National Park ($89)",
+      "tip": "Long stay allows beach morning, tour afternoon"
+    },
+    {
+      "port": "San Juan",
+      "time_in_port": "2pm-11pm",
+      "top_activity": "Old San Juan food tour ($75)",
+      "tip": "Evening departure—dine ashore for authentic mofongo"
+    },
+    {
+      "port": "Ocho Rios",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Dunn's River Falls climb ($89)",
+      "tip": "Arrive early to avoid cruise ship crowds"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Caribbean cruise cost?",
+      "answer": "Costa Caribbean cruises start from €599 for inside cabins during low season (May-October), rising to €899-1199 during peak winter months. Balcony cabins typically range €899-1599 depending on season and itinerary length. The 14-night Grand Caribbean itineraries offer best per-night value at €99-159 nightly. Costa's 'Super All-Inclusive' packages add €25-35 per person daily but include unlimited drinks, Wi-Fi, and gratuities—recommended for most travelers. Suite accommodations with butler service start around €1399. Repositioning cruises in spring and autumn can reduce costs 30-40%. Always compare total costs including flights to Fort Lauderdale, as Costa's European positioning may require transatlantic travel for some passengers."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Caribbean?",
+      "answer": "Costa Firenze serves as the primary Caribbean vessel, a 5,240-passenger ship launched in 2021 featuring Italian design by Dordoni Architetti, multiple pools, and extensive family facilities. Costa Fascinosa (3,780 passengers, 2012) offers more intimate scale with strong entertainment programming. Costa Pacifica (3,780 passengers, 2009) features a unique music theme with dedicated jazz, classical, and pop venues. Ships rotate seasonally, with Firenze typically wintering in the Caribbean November-April while others reposition for European summer. All vessels offer Italian-speaking international crews, creating a genuinely multicultural atmosphere distinct from American cruise lines. Staterooms range from compact interiors to expansive suites with private balconies."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "December through April represents peak season with ideal weather—temperatures 24-29°C, minimal rainfall, and low humidity. January and February offer particularly pleasant conditions though highest pricing. March brings spring break crowds and premium rates. May and June provide good value with warming seas and fewer tourists, though afternoon showers increase. July-September features lowest prices but hurricane risk, with Costa offering flexible rebooking policies during this period. October-November sees improving weather and attractive shoulder-season pricing. Eastern Caribbean routes (Puerto Rico, Virgin Islands) remain drier year-round than Western Caribbean (Mexico, Belize). Southern Caribbean itineraries to Aruba, Curaçao, and Bonaire lie below the hurricane belt, offering safest summer cruising."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's Caribbean cruises include accommodation, all main dining venue meals (breakfast, lunch, dinner), buffet access throughout the day, standard coffee/tea/water at meal times, and most onboard entertainment including theater productions, live music, and deck parties. Fitness center access, pools, sports courts, and supervised children's programs (ages 3-17) are complimentary. Port taxes and basic service charges are included in advertised fares. Notably, Costa does NOT include alcoholic beverages, specialty coffees, or soft drinks—unlike some competitors. Wi-Fi requires purchase. Specialty restaurants incur surcharges €15-35. Room service carries fees except for breakfast. Gratuities are technically included but additional tipping for exceptional service is customary. Compare carefully against premium lines when evaluating total vacation cost."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa's Western Caribbean itineraries visit Cozumel (Mexico) for Mayan sites and diving, Costa Maya for beach resorts, Belize City for jungle adventures, and Roatán (Honduras) for barrier reef snorkeling. Eastern Caribbean routes call at San Juan (Puerto Rico) with its colonial fortress, St. Thomas (USVI) for duty-free shopping, St. Maarten for dual-nation culture, and Tortola for sailing excursions. Southern Caribbean voyages—the line's strength—reach the ABC islands: Aruba's desert landscapes and casinos, Curaçao's UNESCO-listed Willemstad, and Bonaire's pristine diving. Longer itineraries add Grenada, Barbados, and Martinique. Costa uniquely offers overnight stays in San Juan and occasional late departures from Curaçao, enabling authentic evening experiences ashore. Departure is exclusively Fort Lauderdale, requiring transatlantic positioning for European passengers."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Costa Caribbean cruises 6-12 months in advance for optimal cabin selection, particularly for balcony staterooms and suites which represent 60% of inventory on newer ships. Early booking discounts of 15-25% typically apply 9+ months ahead. Christmas, New Year, and February half-term sailings sell out 8-10 months prior. Last-minute deals emerge 60-90 days before departure for flexible travelers, though cabin location and category choice become limited. Costa's 'Super Early Booking' promotion (launched annually March-April) offers best value for the following winter season. Group bookings (8+ cabins) require 12-month advance planning for preferred dining arrangements. Consider booking flights separately rather than cruise line packages for better flexibility and pricing, particularly from European origins."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa offers strong family value with complimentary children's programming divided into four age groups: Mini (3-6), Maxi (7-11), Teen Junior (12-14), and Teen (15-17). Costa Firenze features dedicated family zones including water parks, rope courses, and sports courts. Multigenerational travel works well given the international passenger mix—children often enjoy language exchange opportunities. However, families should note: main dining operates on Italian schedules (later seatings), entertainment includes significant Italian-language content, and the party atmosphere may not suit all families. Connecting cabins and family staterooms are limited—book early. Teen programs receive mixed reviews compared to Royal Caribbean or Norwegian. Baby equipment rentals and specialized infant care incur extra fees. Overall, excellent for culturally curious families seeking value over luxury amenities."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa's standard Caribbean cancellation policy charges no penalty for cancellations 90+ days before departure. 89-57 days prior: deposit forfeiture (typically €250-500 per person). 56-30 days: 50% of cruise fare retained. 29-15 days: 75% penalty. 14 days or less: 100% forfeiture. 'Costa Total Protection' insurance (€49-89 per person) upgrades to full refund for any reason up to 48 hours before sailing, or credit for future cruises if cancelled within 48 hours. COVID-19 policies remain flexible with full credits for positive tests within 48 hours of embarkation. Name changes incur €50-100 fees. Date changes within same ship/itinerary typically allowed once without penalty if 60+ days ahead. Always purchase comprehensive travel insurance covering medical evacuation, as Caribbean healthcare costs can be substantial and Costa's onboard medical services are fee-based."
+    }
+  ]
+}

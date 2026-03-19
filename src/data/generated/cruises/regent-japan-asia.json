@@ -1,0 +1,208 @@
+{
+  "title": "Regent Seven Seas Japan & Asia Cruises 2026",
+  "intro": "Regent Seven Seas Cruises delivers the ultimate ultra-luxury experience to Japan and Asia aboard intimate, all-suite vessels. As the only truly all-inclusive cruise line, Regent includes unlimited shore excursions, fine wines and spirits, gratuities, and even pre- or post-cruise hotel stays in every fare. Explore Japan's ancient temples, vibrant Tokyo, and serene cherry blossom landscapes, or discover Southeast Asia's mystical pagodas, bustling markets, and UNESCO treasures. With a maximum of 750 guests, Seven Seas Explorer, Splendor, and Navigator offer spacious accommodations starting at 300 square feet, all with private balconies. Expert-led excursions reveal authentic local culture, from tea ceremonies in Kyoto to floating markets in Bangkok. Savor cuisine by Michelin-starred chefs in specialty restaurants at no extra charge. For discerning travelers seeking immersive exploration without compromise, Regent's Asia voyages represent the pinnacle of luxury cruising.",
+  "quick_facts": {
+    "price_from_eur": 6890,
+    "duration_range": "10-18 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Seven Seas Explorer",
+      "Seven Seas Splendor",
+      "Seven Seas Navigator"
+    ],
+    "departure_ports": [
+      "Tokyo",
+      "Singapore",
+      "Hong Kong",
+      "Bangkok",
+      "Seoul"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Cherry Blossom (Mar-Apr)",
+      "inside_eur": 0,
+      "balcony_eur": 8890,
+      "suite_eur": 12490
+    },
+    {
+      "season": "Autumn (Oct-Nov)",
+      "inside_eur": 0,
+      "balcony_eur": 7890,
+      "suite_eur": 10990
+    },
+    {
+      "season": "Shoulder (Jan-Feb, Dec)",
+      "inside_eur": 0,
+      "balcony_eur": 6890,
+      "suite_eur": 9490
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Tokyo to Singapore",
+      "duration_nights": 14,
+      "ports": [
+        "Tokyo",
+        "Shimizu",
+        "Kyoto (Kobe)",
+        "Hiroshima",
+        "Busan",
+        "Nagasaki",
+        "Shanghai",
+        "Hong Kong",
+        "Ho Chi Minh City",
+        "Singapore"
+      ],
+      "price_from_eur": 12490,
+      "highlight": "Comprehensive Japan immersion plus emerging Vietnam"
+    },
+    {
+      "name": "Bangkok to Hong Kong",
+      "duration_nights": 12,
+      "ports": [
+        "Bangkok",
+        "Ko Samui",
+        "Singapore",
+        "Kuala Lumpur",
+        "Phuket",
+        "Yangon",
+        "Ho Chi Minh City",
+        "Hong Kong"
+      ],
+      "price_from_eur": 9890,
+      "highlight": "Myanmar's golden temples and Southeast Asia's cultural crossroads"
+    },
+    {
+      "name": "Tokyo Roundtrip",
+      "duration_nights": 10,
+      "ports": [
+        "Tokyo",
+        "Aomori",
+        "Hakodate",
+        "Niigata",
+        "Kanazawa",
+        "Kyoto (Kobe)",
+        "Shimizu"
+      ],
+      "price_from_eur": 7890,
+      "highlight": "Intensive northern Japan including UNESCO Shirakami Mountains"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Explorer",
+      "capacity": 750,
+      "year": 2016,
+      "best_for": "Luxury connoisseurs seeking the world's most opulent ship",
+      "price_from_eur": 8890
+    },
+    {
+      "name": "Seven Seas Splendor",
+      "capacity": 750,
+      "year": 2020,
+      "best_for": "Design enthusiasts wanting contemporary elegance",
+      "price_from_eur": 8490
+    },
+    {
+      "name": "Seven Seas Navigator",
+      "capacity": 496,
+      "year": 1999,
+      "refurbished": 2019,
+      "best_for": "Intimate atmosphere lovers and exotic port access",
+      "price_from_eur": 6890
+    }
+  ],
+  "whats_included": [
+    "Unlimited shore excursions",
+    "All-suite accommodations with private balconies",
+    "Unlimited beverages including premium wines and spirits",
+    "All specialty restaurants",
+    "Pre- or post-cruise hotel package",
+    "Roundtrip business class air on intercontinental flights",
+    "Unlimited WiFi",
+    "Gratuities",
+    "Ground transfers",
+    "Valet laundry service"
+  ],
+  "whats_extra": [
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Photography services",
+    "Premium shore excursion upgrades",
+    "Boutique and duty-free purchases",
+    "Private car and driver arrangements"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best suite selection and early booking savings up to 25%; Regent Reassurance policy allows flexible changes until final payment",
+  "top_ports": [
+    {
+      "port": "Kyoto (Kobe)",
+      "time_in_port": "8am-8pm overnight",
+      "top_activity": "Private tea ceremony with geisha experience (included)",
+      "tip": "Take the included excursion to Nara's Todai-ji temple with 15-meter bronze Buddha"
+    },
+    {
+      "port": "Hong Kong",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Victoria Peak tram and dim sum lunch (included)",
+      "tip": "Evening Symphony of Lights harbor cruise is spectacular"
+    },
+    {
+      "port": "Ho Chi Minh City",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Cu Chi Tunnels exploration (included)",
+      "tip": "Upgrade to private car for personalized city exploration"
+    },
+    {
+      "port": "Yangon",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Shwedagon Pagoda at sunset (included)",
+      "tip": "Dress modestly; shoulders and knees must be covered"
+    },
+    {
+      "port": "Singapore",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Gardens by the Bay and hawker food tour (included)",
+      "tip": "Arrive early for pre-cruise hotel night included in fare"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Japan & Asia cruise cost?",
+      "answer": "Regent Seven Seas Japan and Asia cruises start from approximately €6,890 per person for 10-night voyages in shoulder season, rising to €12,490+ for comprehensive 14-night itineraries during cherry blossom season. All fares are all-inclusive: business class air, unlimited shore excursions, all beverages, gratuities, and pre/post hotel stays. No interior cabins exist—every suite has a private balcony. Penthouse suites begin around €15,000, while Regent Suite exceeds €50,000 for extended voyages. Early booking discounts of 10-25% are common, and single supplements are reduced on select sailings."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Japan & Asia?",
+      "answer": "Three ships comprise Regent's Asia fleet. Seven Seas Explorer, launched 2016 and widely considered the world's most luxurious cruise ship, offers opulent public spaces and the largest suites at sea. Seven Seas Splendor, 2020, delivers contemporary elegance with stunning art collection and culinary excellence. Seven Seas Navigator, smallest at 496 guests after 2019 refurbishment, accesses intimate ports unavailable to larger vessels. All feature all-suite, all-balcony accommodations, multiple specialty restaurants, and Canyon Ranch spa. Explorer and Splendor alternate prime spring and autumn seasons, while Navigator handles exotic extended itineraries including Myanmar and Indonesian archipelago."
+    },
+    {
+      "question": "When is best time to cruise Japan & Asia?",
+      "answer": "March through April offers Japan's iconic cherry blossom season, though prices peak and crowds intensify—book 18 months ahead. October and November provide ideal conditions: comfortable temperatures, autumn foliage, lower humidity, and excellent value. Avoid June through September due to monsoons, typhoons, and extreme heat across Southeast Asia. December through February suits budget-conscious travelers with reduced fares, though northern Japan experiences cold temperatures. For Myanmar and Indochina, November to February delivers dry, pleasant weather. Regent's season runs October through April, with repositioning voyages in September and May offering exceptional value for flexible travelers."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent Seven Seas is the industry's most inclusive luxury line. Every fare covers unlimited shore excursions in every port—from standard group tours to personalized small-group experiences. All beverages including premium wines, spirits, and mini-bar are complimentary across all venues. All specialty restaurants require no surcharge. Roundtrip business class air on intercontinental flights, one-night pre- or post-cruise hotel, ground transfers, unlimited valet laundry, and gratuities are included. WiFi is unlimited. The only significant extras are spa treatments, casino, boutique purchases, and optional premium excursions like private car with driver. This comprehensive inclusion eliminates onboard spending anxiety and delivers genuine value despite higher upfront fares."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent's Japan and Asia itineraries encompass extraordinary diversity. Japanese ports include Tokyo, Kyoto via Kobe, Hiroshima's Peace Memorial, Nagasaki, and northern gems Aomori and Hakodate. Extended voyages reach South Korea's Busan with its vibrant markets. Southeast Asian highlights feature Hong Kong's harbor spectacle, Singapore's futuristic gardens, Bangkok's temple complexes, and Ho Chi Minh City's energy. Explorer itineraries access Myanmar's Yangon and golden Shwedagon Pagoda, plus Indonesia's Komodo Island and Bali. Navigator's smaller size enables calls at Vietnam's Chan May, Thailand's Ko Samui, and Philippines' Boracay. Each port offers multiple included excursion options, with overnight stays in major destinations enabling immersive exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Regent Japan and Asia cruises 12 to 18 months in advance for optimal suite selection, particularly for cherry blossom season when prime accommodations sell out rapidly. Early booking yields savings up to 25% through Regent's promotional structure. Penthouse and above categories in preferred locations disappear first. Waitlist options exist but carry uncertainty. Final payment is typically due 150 days before sailing, with Regent Reassurance allowing changes without penalty until that point. For shoulder season departures, 6-9 months may suffice, though suite categories narrow. Last-minute availability occasionally appears 60-90 days out with modest discounts, but itinerary and accommodation compromises are likely. Travel agents specializing in luxury cruise often access group space with added amenities."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas welcomes families but caters primarily to affluent adults seeking sophisticated, enrichment-focused travel. No dedicated children's facilities, clubs, or programming exist—this is intentional, maintaining serene adult atmosphere. Children are rare, particularly on Asia itineraries given extensive sea days and cultural intensity. Families with mature teenagers (16+) appreciating history, cuisine, and immersive learning find rewarding experiences through included excursions and onboard lectures. Connecting suites accommodate families, and staff warmly welcomes well-behaved children. However, families seeking water slides, kids' clubs, or casual dining should consider luxury expedition lines or premium alternatives. The all-inclusive model simplifies budgeting, but evening entertainment and dining pace suit adult preferences. Multigenerational groups with shared interests in culture and cuisine succeed best."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas offers industry-leading flexibility through Regent Reassurance, allowing changes to sailing date or ship without penalty until final payment, typically 150 days before departure. After final payment, cancellation fees escalate: 150-121 days incurs €250 per person administrative fee; 120-91 days forfeits 15% of cruise fare; 90-61 days loses 50%; 60-31 days forfeits 75%; 30 days or less loses 100%. Travel insurance is strongly recommended, with Regent's comprehensive plan covering cancellation for covered reasons, interruption, medical emergencies, and baggage protection at approximately 8-10% of trip cost. Cancel For Any Reason upgrades provide 75% future cruise credit. COVID-19 protocols evolved to flexible testing and vaccination requirements varying by itinerary—confirm current policies at booking."
+    }
+  ]
+}

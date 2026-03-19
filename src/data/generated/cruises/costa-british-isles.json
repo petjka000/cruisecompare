@@ -1,0 +1,242 @@
+{
+  "title": "Costa Cruises British Isles Cruises 2026",
+  "intro": "Costa Cruises brings Italian elegance to the dramatic coastlines of the British Isles, offering a distinctive European approach to this increasingly popular destination. As Carnival Corporation's Italian flagship brand, Costa combines Mediterranean hospitality with itineraries exploring Scotland's rugged Highlands, Ireland's emerald shores, and England's historic ports. The British Isles program represents Costa's strategic expansion into cooler-climate cruising, deploying ships specifically adapted for Northern European waters with enhanced indoor entertainment spaces and thermal facilities. Passengers experience Costa's signature Italian dining, from espresso bars to regional Italian restaurants, while discovering destinations like Edinburgh, Belfast, Cork, and the Scottish islands. The 2026 season emphasizes longer port stays and overnight calls in key cities, allowing deeper exploration of Celtic culture and British maritime heritage. Costa's multilingual environment attracts international guests seeking value-conscious European cruising with authentic Italian character.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Costa Favolosa",
+      "Costa Diadema",
+      "Costa Pacifica"
+    ],
+    "departure_ports": [
+      "Amsterdam",
+      "Copenhagen",
+      "Hamburg",
+      "Le Havre"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Celtic Discovery",
+      "duration_nights": 7,
+      "ports": [
+        "Amsterdam",
+        "Zeebrugge (Brussels)",
+        "Le Havre (Paris)",
+        "Southampton",
+        "Hamburg"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Iconic capitals with overnight in Le Havre"
+    },
+    {
+      "name": "12-night British Isles Grand Tour",
+      "duration_nights": 12,
+      "ports": [
+        "Copenhagen",
+        "Amsterdam",
+        "Zeebrugge",
+        "Le Havre",
+        "Southampton",
+        "Liverpool",
+        "Belfast",
+        "Greenock (Glasgow)",
+        "Invergordon",
+        "Hamburg"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Comprehensive Scotland and Ireland coverage with overnight Liverpool"
+    },
+    {
+      "name": "9-night Scotland Intensive",
+      "duration_nights": 9,
+      "ports": [
+        "Hamburg",
+        "Amsterdam",
+        "Invergordon",
+        "Lerwick (Shetland)",
+        "Greenock",
+        "Belfast",
+        "Liverpool",
+        "Le Havre"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Remote Scottish islands and whisky trail access"
+    },
+    {
+      "name": "14-night British Isles & Norway Combo",
+      "duration_nights": 14,
+      "ports": [
+        "Amsterdam",
+        "Le Havre",
+        "Southampton",
+        "Liverpool",
+        "Belfast",
+        "Greenock",
+        "Bergen",
+        "Alesund",
+        "Geirangerfjord",
+        "Stavanger",
+        "Hamburg"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Combined British Isles with Norwegian fjords spectacular"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Diadema",
+      "capacity": 3724,
+      "year": 2014,
+      "best_for": "Families and couples seeking Italian atmosphere",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Costa Favolosa",
+      "capacity": 3006,
+      "year": 2011,
+      "best_for": "Active families with children",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Costa Pacifica",
+      "capacity": 3006,
+      "year": 2009,
+      "best_for": "Music lovers and entertainment seekers",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All meals in main dining rooms and buffet restaurants",
+    "Selected beverages at meals (water, coffee, tea, juice)",
+    "Entertainment shows and live music",
+    "Use of fitness center and swimming pools",
+    "Kids club activities (ages 3-17)",
+    "Port taxes and service charges",
+    "Basic Wi-Fi (social package)"
+  ],
+  "whats_extra": [
+    "Specialty restaurants (EUR 25-45 per person)",
+    "Beverage packages (EUR 25-45 per day)",
+    "Shore excursions (EUR 45-189 per tour)",
+    "Spa treatments and thermal area access",
+    "Premium Wi-Fi streaming packages",
+    "Laundry and dry cleaning services",
+    "Casino gaming",
+    "Photography services",
+    "Medical services"
+  ],
+  "booking_strategy": "Book 8-12 months ahead for optimal cabin selection and early booking discounts of 20-30%. Costa frequently offers 'Super All-Inclusive' promotions bundling drinks, Wi-Fi, and gratuities—typically released November-January for summer sailings. Shoulder season departures (April-May, September-October) offer 25-35% savings versus peak summer. Consider repositioning cruises in April or October for exceptional value. Italian school holiday periods (late June, August) command premium pricing and sell out fastest. Costa Club loyalty members receive additional 5-10% discounts and priority boarding. Final payment typically due 60 days before departure with flexible deposit structures.",
+  "top_ports": [
+    {
+      "port": "Edinburgh (South Queensferry)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Edinburgh Castle & Royal Mile tour (EUR 89)",
+      "tip": "Book castle tickets independently online to skip queues"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Giant's Causeway & Titanic Belfast (EUR 129)",
+      "tip": "Titanic Belfast opens 9am—arrive early for best experience"
+    },
+    {
+      "port": "Liverpool",
+      "time_in_port": "Overnight 8am-6pm next day",
+      "top_activity": "Beatles Story & Cavern Club (EUR 65)",
+      "tip": "Overnight allows evening ferry across Mersey or concert at Philharmonic"
+    },
+    {
+      "port": "Cork (Cobh)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Blarney Castle & Cork city (EUR 79)",
+      "tip": "Tender port—book early shore excursions to guarantee priority tender"
+    },
+    {
+      "port": "Greenock (Glasgow)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Loch Lomond & whisky tasting (EUR 109)",
+      "tip": "Glasgow city center 45 minutes by train—faster than cruise transfers"
+    },
+    {
+      "port": "Invergordon",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Loch Ness & Urquhart Castle (EUR 95)",
+      "tip": "Nessie spotting best in morning light—book morning tours"
+    },
+    {
+      "port": "Lerwick (Shetland)",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Jarlshof prehistoric site & pony trekking (EUR 85)",
+      "tip": "Weather-dependent port—flexible itinerary recommended"
+    },
+    {
+      "port": "Le Havre (Paris)",
+      "time_in_port": "Overnight 7am-8pm next day",
+      "top_activity": "Full day Paris with Eiffel Tower (EUR 189)",
+      "tip": "Overnight stay allows relaxed Paris exploration or evening Montmartre visit"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises British Isles cruise cost?",
+      "answer": "Costa Cruises British Isles itineraries range from EUR 799 for 7-night shoulder season inside cabins to EUR 2,500+ for peak summer suites on 14-night voyages. Typical 7-9 night cruises average EUR 1,100-1,600 per person in balcony cabins during summer. The 'Super All-Inclusive' promotional fare (typically EUR 200-400 supplement) bundles unlimited drinks, premium Wi-Fi, and gratuities—offering exceptional value versus purchasing separately. Solo travelers face 50-80% single supplements, though Costa occasionally reduces these to 25% on select sailings. Children typically cruise at 50-75% reduction when sharing with two adults. Airport transfers, specialty dining, and shore excursions add EUR 400-800 per person for comprehensive vacation budgeting."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to British Isles?",
+      "answer": "Costa deploys three primary vessels for British Isles 2026: Costa Diadema (3,724 passengers, 2014) serves as flagship with the most modern facilities and largest cabin variety including spacious family accommodations. Costa Favolosa (3,006 passengers, 2011) offers extensive children's facilities and sports deck popular with active families. Costa Pacifica (3,006 passengers, 2009) distinguishes itself through music-themed décor and entertainment, featuring a dedicated recording studio and live performance venues. All three ships undergo regular refits with Costa's 'Mediterranean style' enhancements including expanded spa facilities and Italian dining concepts. These vessels are specifically selected for Northern European operations with enhanced stabilizer systems for Atlantic crossings and enclosed pool areas for unpredictable weather."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "June through August delivers optimal conditions with 16-18 hours of daylight, temperatures averaging 15-20°C, and minimal rainfall disruption—though summer crowds peak at major attractions. May and September offer excellent value with 20-30% lower pricing, pleasant 12-17°C temperatures, and reduced tourist congestion at Edinburgh Castle and Giant's Causeway. Photographers favor September's dramatic skies and autumn colors in Scottish Highlands. April and October sailings suit budget travelers accepting cooler 8-14°C conditions and shorter daylight hours, with occasional itinerary adjustments due to weather. Scottish midges (biting insects) peak July-August in Highlands—pack repellent. Belfast's Titanic commemorations in April and Edinburgh Festival in August create exceptional cultural opportunities but require advance planning."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's British Isles cruises include accommodation, all main dining venue meals, basic beverages at meals (water, coffee, tea, select juices), entertainment programming, fitness center access, swimming pools, supervised kids club activities (ages 3-17), and port taxes. The 'Super All-Inclusive' promotional rate adds unlimited drinks package (house wines, beers, spirits, cocktails, specialty coffees), premium Wi-Fi for streaming, and prepaid gratuities—typically EUR 200-400 above base fare but saving EUR 600+ versus purchasing separately. Standard inclusions exclude specialty restaurants, spa services, shore excursions, casino play, and premium beverages outside meal times. Room service incurs EUR 4-10 delivery charges depending on time. Self-service laundry facilities are available; valet laundry is extra. Medical center services are fee-based."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa's British Isles itineraries feature 15-20 distinct ports across Scotland, Ireland, England, Wales, and Northern Ireland. Scottish highlights include Edinburgh (South Queensferry), Glasgow (Greenock), Invergordon for Highland access, and remote Lerwick in Shetland Islands. Irish calls typically encompass Belfast with Giant's Causeway proximity and Cork (Cobh)—Titanic's final departure port. English ports span Southampton, Liverpool with Beatles heritage, and occasional Portland for Stonehenge access. Continental departure points include Amsterdam, Hamburg, Copenhagen, and Le Havre (Paris)—often with overnight stays enabling city exploration. Welsh calls at Holyhead provide Snowdonia National Park access. Itineraries range from 7-night sampler routes hitting 4-5 ports to comprehensive 14-night voyages visiting 10+ destinations with multiple overnight stays in cultural capitals."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Optimal booking window for Costa British Isles cruises is 8-12 months ahead, securing preferred cabin categories and early booking discounts of 20-30%. Peak summer departures (July-August) and holiday periods often sell out 6 months in advance, particularly balcony cabins and suites. Costa releases itineraries 18-24 months ahead with best pricing typically available 9-12 months before sailing during 'launch promotion' periods. Last-minute deals emerge 60-90 days before departure for flexible travelers, though cabin selection becomes limited. Group bookings (8+ cabins) require 12+ months advance planning for contiguous accommodations and group dining arrangements. Deposit structures are flexible—typically EUR 200-400 per person with final payment due 60 days before sailing. Consider travel insurance at booking to protect against pre-existing condition exclusions."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa British Isles cruises excel for families seeking European cultural immersion with Italian hospitality. Squok Club (ages 3-17) operates daily 9am-midnight with complimentary supervised activities including Celtic crafts, British trivia, and age-appropriate shore excursion programs. Teen spaces feature dedicated hangout areas and disco nights. Family cabins accommodate 4-5 passengers with connecting room options. Pools include dedicated children's areas and waterslides on Favolosa and Diadema. Dining flexibility suits families with early seating options, pizza until late evening, and 24-hour buffet. Educational elements include destination-focused programming about Scottish history, Irish mythology, and maritime heritage. Potential challenges include multilingual environment (Italian, German, French, English), limited English-language kids' entertainment, and cooler weather limiting pool usage—pack accordingly with layered clothing and indoor activity alternatives for sea days."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa's standard cancellation policy for British Isles cruises imposes penalties escalating by departure proximity: full refund minus EUR 100 administrative fee for cancellations 90+ days before sailing; 25% penalty (60-89 days); 50% penalty (30-59 days); 75% penalty (15-29 days); and 100% forfeiture within 14 days. 'Costa Total Protection' insurance (EUR 49-89 per person) enables cancellation for any reason with future cruise credit minus EUR 100 fee, or medical/documentation-covered cancellations with cash refund. COVID-19 flexibilities have largely expired but health-related cancellations with physician documentation may qualify for credit. Name changes incur EUR 50-100 fees per person. Itinerary modifications by Costa (port substitutions, schedule changes) typically don't qualify for compensation unless significant (24+ hour delay, 40%+ itinerary change). Travel insurance with 'cancel for any reason' coverage is strongly recommended given British Isles weather-related itinerary risks."
+    }
+  ]
+}

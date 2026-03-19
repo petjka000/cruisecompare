@@ -1,0 +1,228 @@
+{
+  "title": "MSC Cruises Canary Islands Cruises 2026",
+  "intro": "MSC Cruises brings its distinctive Mediterranean flair to the sun-drenched Canary Islands, combining Italian elegance with volcanic landscapes just off the African coast. As Europe's largest privately-owned cruise line, MSC operates a dedicated winter program from Barcelona and Southampton, offering exceptional value on 7-14 night itineraries. The Canaries provide year-round warmth, making them MSC's premier alternative to Caribbean winter cruising for European passengers. Onboard, guests enjoy authentic Italian dining, the acclaimed MSC Aurea Spa, and family-friendly amenities across the fleet. The islands' dramatic terrain—black sand beaches, lunar-like lava fields, and lush banana plantations—create striking contrasts perfect for exploration. MSC's strategic positioning leverages Tenerife and Gran Canaria as key turnaround ports, enabling efficient fly-cruise packages from across Europe. With competitive pricing and strong Spanish cultural connections, MSC dominates this market segment.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "MSC Virtuosa",
+      "MSC Preziosa",
+      "MSC Grandiosa",
+      "MSC World Europa"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Southampton",
+      "Civitavecchia",
+      "Genoa"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Low (Apr-May, Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    },
+    {
+      "season": "Shoulder (Jun, Sep)",
+      "inside_eur": 799,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (Nov-Mar)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Canary Islands & Madeira",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Casablanca",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Funchal",
+        "Barcelona"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Perfect winter sun escape with Moroccan spice"
+    },
+    {
+      "name": "14-night Grand Canary Islands",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Agadir",
+        "Cadiz",
+        "Southampton"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive exploration with no-fly convenience"
+    },
+    {
+      "name": "11-night Canaries & Morocco",
+      "duration_nights": 11,
+      "ports": [
+        "Genoa",
+        "Barcelona",
+        "Casablanca",
+        "Agadir",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Lisbon",
+        "Genoa"
+      ],
+      "price_from_eur": 899,
+      "highlight": "North African cultural immersion combined with island relaxation"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "MSC World Europa",
+      "capacity": 6762,
+      "year": 2022,
+      "best_for": "Families & Tech-Forward Cruisers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "MSC Grandiosa",
+      "capacity": 6334,
+      "year": 2019,
+      "best_for": "Entertainment Seekers",
+      "price_from_eur": 799
+    },
+    {
+      "name": "MSC Virtuosa",
+      "capacity": 6334,
+      "year": 2021,
+      "best_for": "UK Departures",
+      "price_from_eur": 749
+    },
+    {
+      "name": "MSC Preziosa",
+      "capacity": 4345,
+      "year": 2013,
+      "best_for": "Value-Conscious Travellers",
+      "price_from_eur": 699
+    },
+    {
+      "name": "MSC Seaview",
+      "capacity": 5179,
+      "year": 2018,
+      "best_for": "Outdoor Living Enthusiasts",
+      "price_from_eur": 849
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All meals in main dining rooms and buffet",
+    "Entertainment including theatre shows and live music",
+    "Children's clubs (3-17 years)",
+    "Fitness centre access",
+    "Pool and hot tub use",
+    "Port taxes and fees",
+    "Basic Wi-Fi (select promotions)"
+  ],
+  "whats_extra": [
+    "Beverage packages (from EUR 42/day)",
+    "Specialty dining (EUR 25-45/person)",
+    "Shore excursions (EUR 45-189)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Premium Wi-Fi packages",
+    "Casino gaming",
+    "Photography services",
+    "Gratuities (EUR 12/adult/day, EUR 6/child/day)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak winter departures; MSC frequently runs 'Bella' to 'Fantastica' cabin upgrades and drinks-inclusive promotions 6-8 months out. Last-minute deals emerge 4-6 weeks before sailing for flexible travellers. Yacht Club suites sell out earliest. Consider repositioning cruises in October/November for 30-40% savings.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Teide National Park cable car (EUR 43)",
+      "tip": "Pre-book summit access; altitude affects some visitors"
+    },
+    {
+      "port": "Las Palmas de Gran Canaria",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Maspalomas dunes camel ride (EUR 35)",
+      "tip": "Beach day at Playa del Inglés—free shuttle available"
+    },
+    {
+      "port": "Arrecife (Lanzarote)",
+      "time_in_port": "9am-6pm",
+      "top_activity": "Timanfaya National Park volcanic tour (EUR 65)",
+      "tip": "Morning tours avoid afternoon winds; pack layers"
+    },
+    {
+      "port": "Puerto del Rosario (Fuerteventura)",
+      "time_in_port": "7am-3pm",
+      "top_activity": "Corralejo sand dunes 4x4 safari (EUR 55)",
+      "tip": "Short port time—book early departure excursions"
+    },
+    {
+      "port": "Santa Cruz de La Palma",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Caldera de Taburiente hiking (EUR 75)",
+      "tip": "Less commercial—authentic Canarian experience"
+    },
+    {
+      "port": "Funchal (Madeira)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Monte toboggan wicker sled (EUR 35)",
+      "tip": "Cable car opens 9am—arrive early to beat queues"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a MSC Cruises Canary Islands cruise cost?",
+      "answer": "MSC Canary Islands cruises typically range from EUR 699-899 for 7-night inside cabins in low season, rising to EUR 899-1,299 during peak winter months. Balcony cabins command EUR 999-1,699 depending on season, while Yacht Club suites start at EUR 2,199. The 14-night Southampton round-trips offer exceptional value at EUR 1,199-1,799 with no flight costs. MSC's 'Bella' experience includes basics, while 'Fantastica' adds cabin upgrades and priority boarding for EUR 100-200 more. All-inclusive packages with drinks and Wi-Fi add EUR 350-500 per person. Children under 18 sail free as third/fourth passengers on many sailings."
+    },
+    {
+      "question": "Which MSC Cruises ships sail to Canary Islands?",
+      "answer": "MSC deploys its most innovative ships to the Canaries. MSC World Europa (2022), the line's LNG-powered flagship, offers the longest itineraries with its groundbreaking Y-shaped promenade. MSC Grandiosa and MSC Virtuosa, both Meraviglia-Plus class vessels, dominate the 7-night Barcelona and Genoa departures with their 96-metre LED dome and extensive entertainment. MSC Preziosa and MSC Seaview handle value-focused and UK-market sailings respectively. Seasonally, MSC Seascape and MSC Euribia join the rotation. All feature MSC's distinctive European styling, extensive multilingual programming, and the Aurea spa concept with thermal suites."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "November through March represents peak season, when northern Europeans escape winter for guaranteed 20-24°C temperatures and minimal rainfall. December-January commands premium pricing but offers festive atmosphere. February-March delivers optimal conditions with calmer seas and wildflower blooms in higher elevations. April-May and October provide shoulder-season savings with pleasant 22-26°C weather, though Atlantic crossings can be choppier. June-September sees minimal MSC deployment as the line repositions to Mediterranean and Northern Europe; occasional sailings experience hotter, more humid conditions. The Canaries' remarkable climate stability—dubbed 'eternal spring'—makes them genuinely year-round viable."
+    },
+    {
+      "question": "What is included?",
+      "answer": "MSC's Bella experience includes accommodation, all meals in main dining rooms and Marketplace buffet, theatre productions, live music, disco, pool access, and children's clubs divided by age (Baby Club 0-3, Mini Club 3-6, Junior Club 7-11, Young Club 12-14, Teen Club 15-17). Fitness centre and basic activities are complimentary. Fantastica and Aurea experiences add cabin location upgrades, priority boarding, and flexible dining times. Yacht Club suites include butler service, private restaurant, exclusive sun deck, and unlimited drinks. Not included: alcoholic beverages, specialty dining, shore excursions, spa services, Wi-Fi beyond promotional allowances, and gratuities (EUR 12/adult/day automatically added)."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "MSC itineraries typically feature 4-5 Canary Islands ports plus mainland European and Moroccan stops. Tenerife's Santa Cruz serves as primary turnaround port with its modern terminal. Gran Canaria's Las Palmas offers the archipelago's most extensive city experience. Lanzarote's Arrecife provides access to Timanfaya's volcanic landscapes. Fuerteventura's Puerto del Rosario and La Palma's Santa Cruz appear on longer itineraries. Madeira's Funchal is a staple for its botanical gardens and wine culture. Mainland stops include Cadiz, Lisbon, and Casablanca on western routes; Barcelona, Marseille, and Genoa on eastern departures. Some 14-night sailings reach Agadir and Essaouira in Morocco for comprehensive North African exposure."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For peak winter departures (December-February), book 9-12 months ahead to secure preferred cabins and early booking discounts of 15-20%. Yacht Club suites and balcony cabins with favourable locations sell out 6-8 months pre-departure. MSC releases itineraries 18 months ahead with strongest incentives for bookings made 12+ months out. Shoulder season (April-May, October) allows 4-6 month booking windows. Last-minute deals emerge 30-45 days before sailing, particularly for inside cabins on less popular dates, with savings of 25-35% possible. UK no-fly departures from Southampton require earliest booking due to limited capacity and high domestic demand."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "MSC excels for families, offering complimentary children's programming from 0-17 years with dedicated facilities on all Canaries ships. The Doremi family experience includes supervised activities, family excursions, and dedicated family cabins sleeping up to 10. Teen zones feature video games, music, and social events. Water parks, Formula 1 simulators, and bowling provide all-ages entertainment. The line's European heritage means multilingual kids' clubs and diverse passenger mix. Children's meal options and early dining seatings accommodate families. Connecting cabins and family staterooms are bookable 12 months ahead. Baby care services and equipment rental (EUR 10/day) support infants. The 7-night duration suits school holiday schedules perfectly."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "MSC's standard policy permits full refund minus EUR 50 administrative fee if cancelled 90+ days before departure. 89-61 days: deposit forfeited (typically EUR 200-400). 60-46 days: 50% of cruise fare retained. 45-16 days: 75% forfeited. 15 days or less: 100% non-refundable. COVID-19 flexible booking terms allow penalty-free changes up to 48 hours before sailing on select fares. Travel insurance is strongly recommended—MSC offers its own product at EUR 49-89 covering cancellation, medical, and interruption. Yacht Club and suite bookings carry stricter terms with higher deposits. For fly-cruise packages, airline cancellation terms apply separately. Rebooking credits valid for 12 months are offered during operational disruptions."
+    }
+  ]
+}

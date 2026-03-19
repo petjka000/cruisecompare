@@ -1,0 +1,224 @@
+{
+  "title": "Norwegian Cruise Line Transatlantic Cruises 2026",
+  "intro": "Norwegian Cruise Line's Freestyle Cruising philosophy transforms the traditional Transatlantic crossing into a relaxed, flexible journey without fixed dining times or formal dress codes. Sailing primarily during repositioning seasons in spring and autumn, NCL's Transatlantic itineraries connect North America with Europe through immersive 10-16 night voyages. Guests enjoy extensive sea days punctuated by strategic port calls in the Azores, Canary Islands, Madeira, or Bermuda. The line's innovative ships feature Broadway-caliber entertainment, up to 28 dining venues, and expansive thermal spa complexes perfect for extended ocean crossings. Norwegian's Transatlantic cruises appeal to experienced cruisers seeking exceptional value, with interior cabins often starting below €700 for two-week crossings. The relaxed atmosphere attracts solo travelers, couples, and retirees who appreciate abundant sea days for enrichment programs, spa treatments, and culinary exploration without the pressure of constant port-intensive scheduling.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "10-16 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Norwegian Prima",
+      "Norwegian Viva",
+      "Norwegian Encore",
+      "Norwegian Escape",
+      "Norwegian Bliss"
+    ],
+    "departure_ports": [
+      "New York",
+      "Miami",
+      "Southampton",
+      "Copenhagen",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring Repositioning",
+      "inside_eur": 699,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Autumn Repositioning",
+      "inside_eur": 749,
+      "balcony_eur": 1199,
+      "suite_eur": 1999
+    },
+    {
+      "season": "Holiday Crossing",
+      "inside_eur": 899,
+      "balcony_eur": 1499,
+      "suite_eur": 2499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Transatlantic Eastbound",
+      "duration_nights": 14,
+      "ports": [
+        "New York",
+        "Royal Naval Dockyard (Bermuda)",
+        "Ponta Delgada",
+        "Lisbon",
+        "Southampton"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Classic Bermuda-Azores routing with three full sea days"
+    },
+    {
+      "name": "12-night Transatlantic Westbound",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Ponta Delgada",
+        "New York"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Efficient crossing with Portuguese wine country immersion"
+    },
+    {
+      "name": "16-night Northern Transatlantic",
+      "duration_nights": 16,
+      "ports": [
+        "Copenhagen",
+        "Alesund",
+        "Reykjavik",
+        "Nanortalik",
+        "New York"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Iceland and Greenland expedition-style experience"
+    },
+    {
+      "name": "10-night Southern Transatlantic",
+      "duration_nights": 10,
+      "ports": [
+        "Miami",
+        "Ponta Delgada",
+        "Barcelona"
+      ],
+      "price_from_eur": 649,
+      "highlight": "Shortest crossing with Azores botanical gardens excursion"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Norwegian Prima",
+      "capacity": 3215,
+      "year": 2022,
+      "best_for": "Adults and design enthusiasts",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Norwegian Viva",
+      "capacity": 3215,
+      "year": 2023,
+      "best_for": "Wellness-focused travelers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Norwegian Encore",
+      "capacity": 3998,
+      "year": 2019,
+      "best_for": "Families with teens",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Norwegian Escape",
+      "capacity": 4266,
+      "year": 2015,
+      "best_for": "Entertainment seekers",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Norwegian Bliss",
+      "capacity": 4004,
+      "year": 2018,
+      "best_for": "Alaska veterans seeking variety",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and buffet access",
+    "Broadway-style entertainment and live music",
+    "Fitness center and sports courts",
+    "Youth programs for ages 3-17",
+    "Port taxes and government fees",
+    "Room service (delivery fee applies)",
+    "Nightly turn-down service"
+  ],
+  "whats_extra": [
+    "Beverage packages and specialty cocktails",
+    "Specialty dining restaurants ($15-45 per person)",
+    "Spa treatments and thermal suite access",
+    "Shore excursions and port activities",
+    "Wi-Fi packages",
+    "Gratuities (€16-20 per person daily)",
+    "Casino gaming",
+    "Laundry and dry cleaning services",
+    "Photos and artwork purchases"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal cabin selection and lowest fares; monitor NCL's Free at Sea promotions which frequently include beverage packages, specialty dining, Wi-Fi, and shore excursion credits. Repositioning cruises release inventory 18 months prior. Inside cabins offer exceptional value for sea-day-heavy itineraries. Consider booking guarantee cabins for potential upgrades. Solo travelers should watch for reduced single supplements on select sailings. Final payment typically due 120 days before departure for standard rates, 180 days for suites.",
+  "top_ports": [
+    {
+      "port": "Ponta Delgada, Azores",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sete Cidades crater lakes tour (€89)",
+      "tip": "Morning arrival often foggy; afternoon clears for photography"
+    },
+    {
+      "port": "Royal Naval Dockyard, Bermuda",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Crystal Caves and Hamilton exploration (€129)",
+      "tip": "Purchase ferry day pass for independent Hamilton access"
+    },
+    {
+      "port": "Lisbon, Portugal",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Sintra palaces full-day excursion (€159)",
+      "tip": "Early disembarkation essential; Pena Palace timed entry sells out"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan sled and wine tasting (€79)",
+      "tip": "Cable car operates weather-dependent; have backup plan"
+    },
+    {
+      "port": "Reykjavik, Iceland",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Golden Circle and Blue Lagoon combo (€249)",
+      "tip": "Pre-book Blue Lagoon; afternoon slots avoid cruise crowds"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Norwegian Cruise Line Transatlantic cruise cost?",
+      "answer": "Norwegian Cruise Line Transatlantic cruises typically range from €649 to €2,499 per person based on double occupancy, depending on season, cabin category, and ship. Interior cabins on spring and autumn repositioning sailings start around €649-749 for 10-14 night crossings, representing exceptional value at roughly €50-55 per night. Balcony cabins, highly recommended for sea-day-intensive itineraries, range from €1,099-1,499. Suite accommodations including mini-suites and Haven suites span €1,899-2,499. Prices exclude gratuities (€16-20 daily), beverages, specialty dining, and Wi-Fi. NCL's frequent Free at Sea promotions can add significant value through included drink packages and dining credits."
+    },
+    {
+      "question": "Which Norwegian Cruise Line ships sail to Transatlantic?",
+      "answer": "Norwegian Cruise Line deploys multiple vessels on Transatlantic routes during repositioning periods. The newest Prima-class ships, Norwegian Prima and Norwegian Viva, offer premium crossings with elevated design and reduced passenger capacity. Breakaway Plus class vessels including Norwegian Encore, Bliss, and Escape provide extensive entertainment options and diverse dining. Norwegian Epic occasionally operates Transatlantic itineraries with its distinctive studio cabins for solo travelers. Ship selection varies by season and direction; eastbound spring crossings typically depart from Miami or New York, while westbound autumn sailings originate from Barcelona, Southampton, or Copenhagen. Itinerary length and port emphasis differ by vessel deployment schedule."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "Optimal Transatlantic cruising with Norwegian occurs during shoulder season repositioning periods: April-May for eastbound crossings and October-November for westbound routes. These months offer mild Atlantic weather, reduced hurricane risk, and optimal pricing. Spring crossings feature warming temperatures and longer daylight hours approaching Europe. Autumn sailings provide stable conditions and potential for northern lights sightings on northern routes. Norwegian avoids peak summer Transatlantic operations, focusing ships in Mediterranean and Alaska markets instead. December holiday crossings command premium pricing but offer festive onboard programming. Avoid September peak hurricane season for southern routes. Northern crossings through Iceland and Greenland operate June-August exclusively."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Norwegian Cruise Line includes accommodation, all main dining room and buffet meals, Broadway-style entertainment, fitness center access, youth programs, and port taxes in base fares. Complimentary dining spans multiple venues without fixed seating assignments—signature Freestyle Cruising flexibility. Entertainment includes production shows, live music, comedy clubs, and deck parties. Children and teen programming operates daily. Room service incurs a €9.95 delivery fee per order. Not included are beverages beyond basic coffee, tea, and juice at breakfast; specialty restaurants; spa services; Wi-Fi; shore excursions; and gratuities. NCL's Free at Sea promotional fares frequently bundle beverage packages, specialty dining credits, Wi-Fi minutes, and excursion discounts, significantly enhancing value."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Norwegian Cruise Line Transatlantic itineraries strategically incorporate ports that break up extensive ocean crossings. Western Atlantic departures include New York, Miami, and occasionally Boston. European termini span Southampton, Barcelona, Copenhagen, and Rome (Civitavecchia). Mid-crossing ports typically feature Ponta Delgada in the Azores for volcanic landscapes and botanical gardens; Funchal, Madeira for wine culture and mountain toboggan rides; and Lisbon for historic exploration. Bermuda appears on eastern routes. Northern crossings substitute Reykjavik, Iceland and Greenlandic ports like Nanortalik or Qaqortoq for Arctic wilderness experiences. Canary Islands (Tenerife, Gran Canaria) feature on southern routes. Port time averages 7-10 hours, with some overnight stays in Lisbon or Reykjavik on extended itineraries."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Norwegian Transatlantic reservations 9-12 months in advance for optimal cabin selection, particularly for balcony cabins and Haven suites which comprise limited inventory on sea-day-heavy itineraries. NCL releases repositioning cruise schedules approximately 18 months prior to sailing. Early booking secures preferred dining times, show reservations, and shore excursion availability. Peak demand exists for spring eastbound and autumn westbound crossings among retired travelers with flexible schedules. Solo travelers should book early when reduced single supplement promotions appear. Final payment deadlines are 120 days pre-cruise for standard cabins, 180 days for suites. Last-minute deals emerge 60-90 days before departure for interior cabins, though itinerary and cabin location compromises apply."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Norwegian Cruise Line Transatlantic cruises suit families with school-age children and teenagers, though extensive sea days require preparation for younger travelers. Ships feature complimentary Splash Academy programming for ages 3-12 and Entourage teen clubs with dedicated spaces and supervised activities. Multiple waterslides, ropes courses, and sports courts provide physical outlets. However, the 10-16 night duration and limited port days differ from typical family Caribbean itineraries. Families benefit from Norwegian's flexible dining accommodating varied schedules and preferences. Connecting cabins and family mini-suites address accommodation needs. School holiday crossings (Easter, October half-term) attract more families. Infants under six months are ineligible; children must be toilet-trained for youth program participation."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Norwegian Cruise Line's cancellation policy for Transatlantic cruises imposes penalties increasing by proximity to departure. Cancellations 121 days or more before sailing receive full refund minus non-refundable deposit. Penalties escalate to deposit amount for 120-91 days; 50% of total fare for 90-61 days; 75% for 60-31 days; and 100% forfeiture within 30 days of departure. Suite and Haven bookings face stricter terms: 100% penalty applies within 90 days. Travel insurance is strongly recommended given Transatlantic duration and international complexity. Norwegian's Cruise Care protection plan covers cancellation for covered reasons and offers Cancel For Any Reason upgrades. COVID-19 protocols have modified temporarily; verify current health requirements which may affect cancellation flexibility."
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "title": "Oceania Cruises Mediterranean Cruises 2026",
+  "intro": "Oceania Cruises elevates Mediterranean exploration through its reputation as the cruise line for 'The Finest Cuisine at Sea' and destination immersion. Their mid-sized luxury ships access intimate ports like Portofino, Saint-Tropez, and Kotor that larger vessels cannot reach, spending longer hours in each destination. The 2026 Mediterranean season features extensive itineraries spanning the Western Mediterranean's art-rich cities, the Greek Isles' sun-drenched beaches, and the Adriatic's medieval coastline. Oceania's culinary excellence shines through Jacques Pépin-inspired menus, cooking school at sea, and market tours with executive chefs. With country-intensive voyages and overnight stays in major cities, guests experience authentic local culture rather than rushed port calls. The line appeals to discerning travelers seeking sophisticated ambiance, enrichment programs, and all-inclusive value without the crowds of mass-market alternatives.",
+  "quick_facts": {
+    "price_from_eur": 2199,
+    "duration_range": "7-24 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Marina",
+      "Riviera",
+      "Vista",
+      "Sirena",
+      "Nautica",
+      "Insignia"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens",
+      "Venice",
+      "Lisbon",
+      "Monte Carlo"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 2199,
+      "balcony_eur": 3199,
+      "suite_eur": 5499
+    },
+    {
+      "season": "Peak (Jun/Jul/Aug/Sep)",
+      "inside_eur": 2899,
+      "balcony_eur": 4199,
+      "suite_eur": 7499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Mediterranean Medley",
+      "duration_nights": 10,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Saint-Tropez",
+        "Florence",
+        "Rome",
+        "Naples",
+        "Sicily",
+        "Malta"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Overnight in Rome with exclusive after-hours Vatican access"
+    },
+    {
+      "name": "Greek Isles Odyssey",
+      "duration_nights": 12,
+      "ports": [
+        "Athens",
+        "Mykonos",
+        "Ephesus",
+        "Rhodes",
+        "Santorini",
+        "Crete",
+        "Corfu",
+        "Kotor",
+        "Dubrovnik"
+      ],
+      "price_from_eur": 3499,
+      "highlight": "Three late-night stays and overnight in Santorini"
+    },
+    {
+      "name": "Adriatic & Amalfi Dreams",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Amalfi",
+        "Rome"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Scenic sailing through Bay of Kotor with onboard commentary"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Vista",
+      "capacity": 1200,
+      "year": 2023,
+      "best_for": "Culinary enthusiasts and suite travelers",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Food and wine connoisseurs",
+      "price_from_eur": 2499
+    },
+    {
+      "name": "Riviera",
+      "capacity": 1250,
+      "year": 2012,
+      "best_for": "Art collectors and gourmands",
+      "price_from_eur": 2499
+    },
+    {
+      "name": "Sirena",
+      "capacity": 670,
+      "year": 2016,
+      "best_for": "Intimate port access and repeat guests",
+      "price_from_eur": 2199
+    }
+  ],
+  "whats_included": [
+    "Unlimited specialty dining at all restaurants",
+    "Beverages including select wines and spirits",
+    "Unlimited internet",
+    "Shore excursion credit (up to EUR 800 per stateroom)",
+    "Airport transfers",
+    "Pre-paid gratuities",
+    "Room service 24 hours",
+    "Fitness classes and wellness programs",
+    "Enrichment lectures and cooking demonstrations"
+  ],
+  "whats_extra": [
+    "Premium spirits and reserve wine collections",
+    "Additional shore excursions beyond credit",
+    "Spa treatments at Aquamar Spa",
+    "Laundry and valet services",
+    "Casino gaming",
+    "Photography services",
+    "Boutique purchases",
+    "Private car arrangements in port"
+  ],
+  "booking_strategy": "Book 9-15 months ahead for best cabin selection and early booking savings of up to EUR 800 per stateroom. Oceania's OLife Choice promotion typically includes free shore excursions, beverage package, or onboard credit. Last-minute deals occasionally appear 60-90 days out for shoulder season sailings. Consider back-to-back itineraries for reduced single supplement and seamless destination coverage.",
+  "top_ports": [
+    {
+      "port": "Santorini, Greece",
+      "time_in_port": "2pm-11pm (overnight on select sailings)",
+      "top_activity": "Sunset wine tasting at Santo Wines vineyard (EUR 95)",
+      "tip": "Avoid cable car queues by booking shore excursion with tender priority"
+    },
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Game of Thrones walking tour with city walls (EUR 75)",
+      "tip": "Walk the walls early morning before cruise crowds arrive"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Hike to San Giovanni fortress for panoramic views (free)",
+      "tip": "Ship docks in bay—wake early for scenic sailing through fjord-like entrance"
+    },
+    {
+      "port": "Saint-Tropez, France",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Private beach club day at Pampelonne (EUR 150)",
+      "tip": "Oceania often secures tender priority here—small ship advantage"
+    },
+    {
+      "port": "Amalfi, Italy",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Ravello villa gardens and lemon grove lunch (EUR 120)",
+      "tip": "Port requires tendering—book morning excursion to guarantee departure"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Mediterranean cruise cost?",
+      "answer": "Oceania Mediterranean cruises start from approximately EUR 2,199 per person for 7-night shoulder season sailings in an interior stateroom, with balcony accommodations typically ranging EUR 3,199-4,199 and suites from EUR 5,499-7,499. Peak summer months command 25-40% premiums. The line's value proposition lies in extensive inclusions: unlimited specialty dining, beverages, internet, gratuities, and shore excursion credits up to EUR 800. When comparing true costs against premium lines charging separately for these amenities, Oceania often proves competitive. Single travelers face 150-175% supplements, though reduced single supplement promotions appear quarterly. Taxes and port fees add approximately EUR 250-400."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Mediterranean?",
+      "answer": "Oceania deploys multiple vessels to the Mediterranean in 2026. Vista, the newest 1,200-guest ship launched 2023, offers contemporary luxury with expanded suite categories. Sister ships Marina and Riviera (1,250 guests each) feature the acclaimed Jacques Pépin restaurants, Bon Appétit Culinary Center, and Artist Loft. Smaller Sirena (670 guests) accesses intimate harbors like Portofino and Sorrento unavailable to larger vessels. Nautica and Insignia occasionally reposition through the region on world cruise segments. All ships share Oceania's culinary excellence and country house ambiance, though Vista introduces enhanced Aquamar Spa and new dining venues. Ship selection depends on preferred itinerary intimacy versus amenity breadth."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "Optimal Mediterranean cruising occurs during shoulder months April-May and September-October, when Oceania strategically positions its fleet. These periods offer ideal temperatures of 20-26°C, minimal rainfall, thinner crowds at major attractions, and competitive pricing 15-25% below peak season. Wildflowers bloom across Greek islands in April, while September brings grape harvests and culinary festivals. June through August delivers reliably sunny beach weather but brings intense heat above 32°C, packed historic sites, and premium pricing. November sailings appeal to budget-conscious travelers despite cooler temperatures and shorter daylight hours. Oceania's extensive overnight stays in major ports particularly shine during shoulder seasons when evening dining and cultural events feel more authentic."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Mediterranean cruises include exceptional value through comprehensive inclusions: unlimited dining at all specialty restaurants including Jacques Pépin's French bistro, steakhouse, and Italian venues; standard beverages throughout the ship including select wines, beers, and spirits; unlimited WiFi; prepaid gratuities; round-trip airport transfers; 24-hour room service; and fitness classes. The OLife Choice promotion adds one of three options: free shore excursions (typically EUR 800 credit), House Select beverage package upgrading wine selection, or onboard credit. Unique inclusions feature the Culinary Center hands-on cooking classes, enrichment lectures from destination experts, and Canyon Ranch spa amenities access. Only premium spirits, reserve wines, spa treatments, additional excursions, and casino gaming incur extra charges."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Mediterranean itineraries encompass over 50 ports across Western Mediterranean, Adriatic, and Greek Isles. Western routes feature Barcelona, Marseille, Monte Carlo, Florence/Livorno, Rome/Civitavecchia, Naples, Amalfi, Sicily, and Malta. Adriatic and Eastern Mediterranean sailings include Venice, Split, Dubrovnik, Kotor, Corfu, Katakolon, Athens, and Istanbul. Greek-intensive voyages spotlight Mykonos, Santorini (often overnight), Rhodes, Crete, Patmos, and Ephesus/Kusadasi. Oceania's smaller ships access boutique ports like Saint-Tropez, Portofino, Sorrento, Taormina, and Hydra unavailable to mass-market lines. Country-intensive itineraries focus deeply on single nations—Italy, Spain, or Greece—with multiple ports and reduced sea days. Overnights in Barcelona, Rome, Venice, Istanbul, and Santorini enable authentic evening experiences."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Oceania Mediterranean cruises 9-15 months in advance for optimal stateroom selection, particularly for Vista's Penthouse Suites and Marina/Riviera's Owner's Suites with butler service. Early booking typically yields 10-20% savings through Oceania's OLife Choice promotion combining reduced fares with free amenities. Suite categories in peak summer sell out 12+ months ahead. Past guests receive priority booking windows and exclusive rates 18 months pre-departure. Shoulder season sailings offer more flexibility with reasonable availability 6-9 months out. Last-minute Mediterranean deals emerge occasionally 60-90 days before sailing, primarily for interior and oceanview staterooms on less popular dates. Deposit requirements run EUR 500-1,500 depending on voyage length, with final payment due 90 days prior."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Mediterranean cruises cater primarily to adults, with minimum age 18 on most sailings, making them unsuitable for families with children. The sophisticated ambiance, culinary focus, enrichment programming, and destination-intensive itineraries target experienced travelers aged 55-75. No children's facilities, clubs, or family-oriented entertainment exist. However, multi-generational adult families find Oceania exceptional for milestone celebrations, with connecting staterooms and suite configurations accommodating groups. The culinary experiences—cooking classes, market tours, wine tastings—appeal to adult children traveling with parents. Families seeking Mediterranean cruising with children should consider mass-market or premium lines offering kids' clubs, water parks, and family suites. Oceania's relaxed dress code and flexible dining suit adult family members with varying preferences."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania's cancellation policy operates on a tiered schedule based on days before departure. Cancellations 121+ days prior incur no penalty with full refund. Between 120-91 days, deposit is forfeited (EUR 500-1,500 depending on voyage length). 90-76 days loses 25% of total fare; 75-61 days forfeits 50%; 60-31 days loses 75%; and 30 days or less results in 100% forfeiture. Travel insurance through Oceania or independent providers is strongly recommended given these penalties, particularly for Mediterranean sailings during unpredictable weather periods. Cancel for Any Reason coverage upgrades typically reimburse 75-90% in future cruise credits rather than cash. COVID-19 policies have normalized with standard terms applying, though health protocols may still affect boarding eligibility without refund if requirements unmet."
+    }
+  ]
+}

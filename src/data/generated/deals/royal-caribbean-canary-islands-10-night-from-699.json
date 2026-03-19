@@ -1,0 +1,41 @@
+{
+  "slug": "royal-caribbean-canary-islands-10-night-from-699",
+  "title": "Royal Caribbean Canary Islands 10-Night from €699",
+  "cruise_line": "Royal Caribbean",
+  "destination": "Canary Islands",
+  "departure_port": "Southampton",
+  "duration_nights": 10,
+  "price_eur": 699,
+  "price_per_night": 70,
+  "original_price_eur": 999,
+  "discount_pct": 30,
+  "departure_dates": [
+    "2026-10-03",
+    "2026-11-07",
+    "2026-12-05"
+  ],
+  "ports_of_call": [
+    "Tenerife",
+    "Gran Canaria",
+    "Lanzarote",
+    "Madeira"
+  ],
+  "includes": [
+    "meals",
+    "entertainment",
+    "pools",
+    "sports"
+  ],
+  "excludes": [
+    "drinks",
+    "shore excursions",
+    "gratuities",
+    "speciality dining"
+  ],
+  "booking_url": "https://www.royalcaribbean.com",
+  "source": "placeholder",
+  "scraped_at": "2026-03-19T13:01:47.256997+00:00",
+  "published_at": "2026-03-19T13:01:47.256997+00:00",
+  "meta_description": "Royal Caribbean Canary Islands 10-night cruise from Southampton from €699.",
+  "excerpt": "Sun, sand, and volcanic landscapes across Tenerife, Gran Canaria, and Lanzarote."
+}

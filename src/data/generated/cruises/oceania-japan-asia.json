@@ -1,0 +1,259 @@
+{
+  "title": "Oceania Cruises Japan & Asia Cruises 2026",
+  "intro": "Oceania Cruises elevates Japan & Asia exploration through its reputation as the culinary- and destination-focused cruise line. With smaller, elegant ships carrying 684-1,250 guests, Oceania accesses intimate Japanese ports like Kochi and Miyajima that mega-ships cannot reach. The line's immersive itineraries balance iconic cities—Tokyo, Kyoto, Bangkok, Singapore—with hidden gems across Vietnam, Indonesia, and the Philippines. Oceania's hallmark is its unparalleled dining: all restaurants are complimentary, including Jacques Pépin's signature French bistro and authentic Asian venues. The line's 'Go Local' shore excursions emphasize cultural authenticity, from tea ceremonies in Kanazawa to overnight temple stays in Myanmar. With overnight stays in major ports and extended evening departures, guests experience Asia's vibrant night markets and culinary scenes. Oceania's 2026 Japan & Asia season represents refined, in-depth exploration for discerning travelers seeking substance over spectacle.",
+  "quick_facts": {
+    "price_from_eur": 2199,
+    "duration_range": "10-24 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Nautica",
+      "Regatta",
+      "Insignia",
+      "Riviera"
+    ],
+    "departure_ports": [
+      "Tokyo",
+      "Singapore",
+      "Hong Kong",
+      "Bangkok",
+      "Sydney"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Oct-Nov)",
+      "inside_eur": 2199,
+      "balcony_eur": 3299,
+      "suite_eur": 5499
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 2599,
+      "balcony_eur": 3899,
+      "suite_eur": 6499
+    },
+    {
+      "season": "Summer (May-Sep)",
+      "inside_eur": 2399,
+      "balcony_eur": 3599,
+      "suite_eur": 5999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Japan & South Korea Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Tokyo",
+        "Shimizu",
+        "Kyoto (Kobe)",
+        "Hiroshima",
+        "Busan",
+        "Nagasaki",
+        "Kagoshima",
+        "Okinawa",
+        "Taipei",
+        "Hong Kong"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Three overnight stays including Kyoto and Hong Kong with exclusive access to Mount Fuji and DMZ tour options"
+    },
+    {
+      "name": "24-night Grand Asia & Australia",
+      "duration_nights": 24,
+      "ports": [
+        "Singapore",
+        "Koh Samui",
+        "Bangkok",
+        "Ho Chi Minh City",
+        "Da Nang",
+        "Hanoi",
+        "Hong Kong",
+        "Manila",
+        "Darwin",
+        "Cairns",
+        "Brisbane",
+        "Sydney"
+      ],
+      "price_from_eur": 4899,
+      "highlight": "Comprehensive Southeast Asia immersion with overnight in Bangkok and extended Vietnam exploration"
+    },
+    {
+      "name": "10-night Treasures of Japan",
+      "duration_nights": 10,
+      "ports": [
+        "Tokyo",
+        "Nagoya",
+        "Kyoto (Kobe)",
+        "Hiroshima",
+        "Miyajima",
+        "Kanazawa",
+        "Aomori",
+        "Hakodate",
+        "Tokyo"
+      ],
+      "price_from_eur": 2699,
+      "highlight": "Concentrated Japan focus with UNESCO World Heritage sites and autumn foliage or cherry blossom timing"
+    },
+    {
+      "name": "18-night Southeast Asia & Indonesia",
+      "duration_nights": 18,
+      "ports": [
+        "Singapore",
+        "Semarang",
+        "Bali (Benoa)",
+        "Komodo",
+        "Darwin",
+        "Cairns",
+        "Brisbane",
+        "Sydney"
+      ],
+      "price_from_eur": 3899,
+      "highlight": "Rare Indonesia expedition including Komodo dragon encounters and Balinese cultural immersion"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "best_for": "Intimate port access and destination immersion",
+      "price_from_eur": 2199
+    },
+    {
+      "name": "Regatta",
+      "capacity": 670,
+      "year": 1998,
+      "best_for": "Culinary-focused travelers and extended Asia voyages",
+      "price_from_eur": 2299
+    },
+    {
+      "name": "Insignia",
+      "capacity": 670,
+      "year": 1998,
+      "best_for": "World cruise segments and in-depth regional exploration",
+      "price_from_eur": 2399
+    },
+    {
+      "name": "Riviera",
+      "capacity": 1250,
+      "year": 2012,
+      "best_for": "Larger suites, expanded dining venues, and families with adult children",
+      "price_from_eur": 2499
+    }
+  ],
+  "whats_included": [
+    "All specialty and main dining restaurants",
+    "Unlimited complimentary WiFi",
+    "Beverages including select wines and beers with lunch and dinner",
+    "24-hour room service",
+    "Shore excursion credits (varies by stateroom category)",
+    "Airport transfers with OLife Choice fares",
+    "Pre-paid gratuities",
+    "Fitness classes and wellness programs",
+    "Destination lectures and enrichment programs",
+    "Self-service laundry"
+  ],
+  "whats_extra": [
+    "Premium spirits and premium wine by the glass",
+    "Shore excursions beyond included credits",
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Airfare (unless OLife Choice selected)",
+    "Hotel stays pre/post cruise",
+    "Travel insurance",
+    "Laundry and dry cleaning services",
+    "Photography services",
+    "Boutique purchases"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for optimal stateroom selection and OLife Choice benefits; wave season (January-March) offers strongest incentives including free shore excursions, beverage packages, or onboard credit. Solo travelers should book early as single supplements are limited. Consider back-to-back segments for comprehensive regional coverage.",
+  "top_ports": [
+    {
+      "port": "Kyoto (Kobe), Japan",
+      "time_in_port": "8am-6pm (overnight on select sailings)",
+      "top_activity": "Private guided Kyoto temples and geisha district ($289)",
+      "tip": "Overnight stays allow evening Gion district exploration when geiko and maiko may be spotted"
+    },
+    {
+      "port": "Hong Kong",
+      "time_in_port": "8am-6pm (overnight on most sailings)",
+      "top_activity": "Victoria Peak tram and dim sum cooking class ($199)",
+      "tip": "Request starboard side stateroom for harbor views during sail-in"
+    },
+    {
+      "port": "Halong Bay, Vietnam",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Private junk boat cruise with cave exploration ($159)",
+      "tip": "Morning mist creates most photogenic conditions; book early departure excursions"
+    },
+    {
+      "port": "Bali (Benoa), Indonesia",
+      "time_in_port": "12pm-8pm (overnight on select sailings)",
+      "top_activity": "Sacred temples and rice terrace UNESCO tour ($179)",
+      "tip": "Traffic from port to Ubud is unpredictable; prioritize ship-sponsored excursions"
+    },
+    {
+      "port": "Singapore",
+      "time_in_port": "Embarkation/disembarkation or 8am-6pm",
+      "top_activity": "Night safari and Gardens by the Bay evening experience ($145)",
+      "tip": "Pre-cruise hotel stay recommended to recover from long-haul flights"
+    },
+    {
+      "port": "Bangkok (Laem Chabang), Thailand",
+      "time_in_port": "12pm-8pm (overnight on select sailings)",
+      "top_activity": "Grand Palace and private longtail boat canals tour ($189)",
+      "tip": "Two-hour transfer each way; overnight stays essential for meaningful exploration"
+    },
+    {
+      "port": "Hiroshima, Japan",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Peace Memorial Park and Miyajima Island torii gate ($129)",
+      "tip": "Miyajima requires ferry transfer; allow full day for combined experience"
+    },
+    {
+      "port": "Komodo Island, Indonesia",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Guided dragon trek and pink beach snorkeling ($189)",
+      "tip": "Ranger-guided treks are mandatory; moderate fitness required for uphill hiking"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Japan & Asia cruise cost?",
+      "answer": "Oceania Cruises Japan & Asia voyages typically range from €2,199 for interior staterooms on 10-night itineraries to €6,499+ for Owner's Suites on extended 24-night journeys. Balcony staterooms, which represent the majority of inventory, average €3,299-€3,899. Prices include unlimited dining at all restaurants, complimentary WiFi, and beverages with meals. The OLife Choice promotion adds significant value through included shore excursions, beverage packages, or onboard credit. Solo travelers face 125-175% single supplements. Peak season (December-February) commands 15-20% premiums over shoulder months."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Japan & Asia?",
+      "answer": "Oceania deploys its R-class ships—Nautica, Regatta, and Insignia—plus the larger Riviera for Japan & Asia 2026. The 670-guest R-class vessels access intimate Japanese ports like Kochi, Miyajima, and Okinawa unavailable to larger ships. Nautica leads the dedicated Asia program with the most extensive season. Regatta and Insignia operate world cruise segments incorporating Asia. The 1,250-guest Riviera offers expanded dining venues, larger suites, and enhanced wellness facilities for guests preferring more onboard amenities. All four ships feature Oceania's signature culinary program with Jacques Pépin partnerships."
+    },
+    {
+      "question": "When is best time to cruise Japan & Asia?",
+      "answer": "Optimal months are March-April for Japan's cherry blossoms and October-November for autumn foliage and comfortable temperatures throughout Southeast Asia. Cherry blossom timing varies annually; late March to early April offers highest probability. October-November delivers dry season conditions in Vietnam, Thailand, and Indonesia with reduced humidity. December-February suits travelers prioritizing warm-weather escape, though Japan experiences winter temperatures. May brings early summer heat and increasing rainfall in Southeast Asia. Typhoon season (July-September) presents itinerary disruption risks, though Oceania's smaller ships offer flexibility to adjust routes."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's inclusive value proposition encompasses all specialty and main dining restaurants with no surcharges, unlimited complimentary WiFi, select wines and beers with lunch and dinner, 24-hour room service, and pre-paid gratuities. OLife Choice fares add one of three benefits: free shore excursions (up to $800 value), House Select beverage package, or shipboard credit. Fitness classes, destination lectures, and self-service laundry are complimentary. Notable inclusions compared to premium competitors: unlimited WiFi without tier restrictions, all specialty dining venues, and extensive culinary enrichment. Exclusions include premium spirits, spa services, and most shore excursions beyond OLife credits."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Japan & Asia itineraries span 40+ ports across Japan, South Korea, China, Vietnam, Thailand, Cambodia, Myanmar, Malaysia, Singapore, Indonesia, Philippines, and Australia. Signature Japanese ports include Tokyo, Kyoto (Kobe), Hiroshima, Nagasaki, Okinawa, and Kanazawa with overnight stays enabling deeper exploration. Southeast Asia highlights feature Halong Bay, Ho Chi Minh City, Bangkok, Singapore, and Bali. Rare-access destinations include Komodo Island, Semarang for Borobudur temple, and Myanmar's Yangon. Smaller ships penetrate the Mekong Delta, Koh Samui, and Philippine archipelagos. Itineraries balance marquee cities with expedition-style ports emphasizing cultural authenticity over commercial tourism."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book 9-14 months ahead for optimal stateroom selection, particularly for Concierge Level and above categories with priority shore excursion booking. Penthouse and Owner's Suites sell out 12+ months in advance on popular cherry blossom and autumn foliage departures. Wave season (January-March) historically offers Oceania's strongest incentives—triple OLife Choice benefits or significant fare reductions. Last-minute deals emerge 60-90 days pre-departure for flexible travelers, though staterement selection becomes limited. Solo travelers must book earliest as single-occupancy inventory is restricted. Group bookings (8+ staterooms) require 12-18 month lead times for preferred dining arrangements and customized excursions."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania positions itself as adult-oriented; no dedicated children's facilities, youth programs, or babysitting services are offered. Minimum age is 6 months (12 months for exotic itineraries). Families with adult children (18+) find exceptional value through shared culinary experiences, destination immersion, and spacious suites accommodating triple/quad occupancy. The line occasionally attracts multi-generational groups during holiday periods, though families with younger children are rare. Riviera's larger size offers marginally more family suitability than R-class vessels. Parents seeking structured youth programming should consider luxury competitors with dedicated family amenities. Oceania's strength lies in sophisticated travelers of any age seeking cultural depth and culinary excellence."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania's standard cancellation policy charges deposits immediately upon booking: €250-€1,500 depending on voyage length and staterement category. Cancellations 91+ days pre-departure forfeit deposit; 90-76 days lose 25% of fare; 75-61 days lose 50%; 60-31 days lose 75%; 30 days or less forfeit 100%. Cancel For Any Reason protection (CFAR) is available for purchase within 14 days of initial deposit, providing future cruise credits minus administrative fees. World cruises and grand voyages carry stricter terms: deposits are non-refundable, and cancellation penalties escalate earlier. Travel insurance through Oceania's preferred provider or independent carriers is strongly recommended given substantial penalty exposure and medical evacuation considerations in remote Asian destinations."
+    }
+  ]
+}

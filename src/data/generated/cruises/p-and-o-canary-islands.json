@@ -1,0 +1,205 @@
+{
+  "title": "P&O Cruises Canary Islands Cruises 2026",
+  "intro": "P&O Cruises brings British cruising heritage to the sun-drenched Canary Islands, offering adults-only escapes aboard Arcadia and Aurora alongside family-friendly voyages on Iona and Britannia. These Atlantic archipelago cruises deliver exceptional value with pound sterling onboard pricing, traditional afternoon teas, and curated shore excursions to volcanic landscapes and colonial towns. P&O's longer 12-14 night itineraries from Southampton eliminate flight costs while maximizing sea days for relaxation. The line's distinctive British ambiance—complete with pub lunches, West End-style theatre, and Gala Nights—pairs perfectly with the Canaries' year-round spring climate. Whether seeking winter warmth or exploring Tenerife's Mount Teide, Lanzarote's Timanfaya National Park, or Gran Canaria's sand dunes, P&O provides accessible, culturally immersive cruising with no gratuities required and comprehensive travel protection included.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "12-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Iona",
+      "Britannia",
+      "Arcadia",
+      "Aurora"
+    ],
+    "departure_ports": [
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Winter Peak (Dec-Feb)",
+      "inside_eur": 949,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 849,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Low (Apr-Oct)",
+      "inside_eur": 799,
+      "balcony_eur": 1099,
+      "suite_eur": 1699
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Canary Islands & Madeira",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Vigo"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Includes three full sea days and volcanic La Palma alternative"
+    },
+    {
+      "name": "14-night Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Casablanca",
+        "Agadir",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Extended North African cultural immersion with Sahara excursions"
+    },
+    {
+      "name": "12-night Canaries Christmas",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Vigo",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Festive celebrations at sea with Christmas Day in Madeira"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Iona",
+      "capacity": 5200,
+      "year": 2021,
+      "best_for": "Families & multi-generational groups",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Britannia",
+      "capacity": 3647,
+      "year": 2015,
+      "best_for": "Traditional British cruising with modern dining",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Arcadia",
+      "capacity": 2094,
+      "year": 2005,
+      "best_for": "Adults-only relaxation",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Aurora",
+      "capacity": 1870,
+      "year": 2000,
+      "best_for": "Intimate, classic cruising experience",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "All main dining and buffets",
+    "Afternoon tea",
+    "Evening entertainment and theatre shows",
+    "Children's clubs and family activities",
+    "Gym and fitness classes",
+    "Travel protection",
+    "No gratuities required"
+  ],
+  "whats_extra": [
+    "Specialty restaurants (£20-45pp)",
+    "Drinks packages (£40-55pp/day)",
+    "Shore excursions (£45-189pp)",
+    "Spa treatments and salon services",
+    "Laundry services",
+    "WiFi packages (£18-24/day)",
+    "Onboard photography"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for best cabin selection and lowest fares; P&O's Select Price offers free cabin choice and onboard credit, while Early Saver provides lowest rates with restricted flexibility. Wave season (January-March) brings enhanced offers including free parking or coach transfers from selected UK cities.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Mount Teide cable car and national park (£79)",
+      "tip": "Pre-book Teide excursions—altitude restrictions apply"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Maspalomas dunes and Vegueta walking tour (£65)",
+      "tip": "Beach bus runs frequently; old town easily walkable from port"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "9am-6pm",
+      "top_activity": "Timanfaya National Park fire mountains (£69)",
+      "tip": "Morning excursions avoid coach queues at geothermal demonstrations"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan ride and botanical gardens (£55)",
+      "tip": "Cable car and toboggan can be done independently for half the tour price"
+    },
+    {
+      "port": "Lisbon",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sintra palace and Cascais coastal drive (£89)",
+      "tip": "Tram 28 and Alfama district easily explored via 20-minute walk or metro"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Canary Islands cruise cost?",
+      "answer": "P&O Canary Islands cruises typically range from €849 to €2,199 per person for 12-14 night voyages from Southampton. Inside cabins start around €849-949 in shoulder seasons, rising to €1,299+ for Christmas departures. Balcony cabins—highly recommended for Atlantic crossings—cost €1,099-€1,599, while suites range €1,699-€2,499. These prices include all meals, entertainment, and travel protection, with no gratuities required. Flights are unnecessary due to Southampton departures, saving €200-400 compared to fly-cruise alternatives. Select Price fares include cabin choice and onboard credit; Early Saver offers lowest rates with assignment at sailing."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Canary Islands?",
+      "answer": "Four P&O ships operate Canary Islands routes: the family-friendly Iona (2021, 5,200 passengers) and Britannia (2015, 3,647 passengers) offer extensive kids' facilities and contemporary dining; adults-only Arcadia (2005, 2,094 passengers) provides a more intimate, refined atmosphere with wraparound promenade deck; and Aurora (2000, 1,870 passengers) delivers traditional cruising with loyal repeat passengers. Iona and Britannia feature multiple specialty restaurants and expansive spa complexes. Arcadia and Aurora appeal to couples seeking quieter, destination-focused voyages with enrichment programming. Ship deployment varies by season, with larger vessels handling school holiday periods."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "November through March represents peak season for Canary Islands cruising, when temperatures average 18-22°C—ideal for hiking volcanic terrain and coastal exploration without summer crowds. December and January offer guaranteed winter warmth when Northern Europe freezes, though Christmas/New Year commands 30-40% premiums. February and March provide excellent value with pleasant conditions and whale watching opportunities. April-May and October-November offer lower fares (€100-200 less) with slightly cooler but still comfortable 20-24°C weather. June-September sees minimal P&O Canary deployment as ships reposition to Mediterranean and Baltic; Atlantic sea conditions can also be less predictable in autumn."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O's Canary Islands cruises include comprehensive value: all meals across main dining rooms, buffets, and poolside grills; traditional afternoon tea; West End-quality theatre productions, live music, and comedy; supervised children's clubs for ages 2-17; fitness centre and exercise classes; and comprehensive ABTA/ATOL travel protection. Unlike American lines, gratuities are genuinely not required or expected. Accommodation includes twice-daily housekeeping. What's excluded: drinks beyond water, tea, coffee at meals; specialty restaurants; shore excursions; spa services; WiFi; and laundry. Drinks packages cost €40-55 daily; WiFi €18-24 daily. Pound sterling pricing eliminates exchange rate concerns for UK passengers."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O's Canary itineraries typically visit three main islands: Tenerife (Santa Cruz), Gran Canaria (Las Palmas), and Lanzarote (Arrecife), each offering distinct volcanic landscapes and cultural experiences. Tenerife features Spain's highest peak Mount Teide and colonial La Laguna; Gran Canaria combines Saharan-style dunes with historic Vegueta district; Lanzarote showcases Timanfaya's geothermal wonders and César Manrique architecture. Most 12-14 night voyages add Funchal, Madeira—famous for gardens, toboggan rides, and fortified wine. Lisbon or Vigo often feature as embarkation/disembarkation ports. Some itineraries include Agadir or Casablanca for Moroccan cultural contrast. All ports feature accessible town centres or reliable shuttle services."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book P&O Canary Islands cruises 9-18 months ahead for optimal cabin selection, particularly for balcony cabins on preferred decks and adults-only Arcadia sailings. Peak winter dates (Christmas, February half-term) often sell out 12+ months in advance. P&O releases itineraries approximately 18 months ahead. Early booking secures Select Price benefits: free cabin selection, onboard credit (typically €75-150), and flexibility to change dates. Last-minute deals occasionally appear 8-12 weeks before sailing, primarily for inside cabins and restricted Early Saver fares with no cabin choice. Wave season (January-March) brings promotional periods with added value like free coach transfers or car parking worth €150-200."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O's family-friendly ships—Iona and Britannia—excel for multi-generational Canary Islands cruising with extensive children's facilities. The Reef kids' clubs operate 2-17 years with age-appropriate activities, allowing parents shore excursion flexibility. Family cabins accommodate up to five; interconnecting rooms suit larger groups. Sea days feature pools, sports courts, cinemas, and evening family entertainment. However, Arcadia and Aurora remain adults-only, providing couples and solo travellers peaceful alternatives. Canary Islands ports offer accessible beaches and manageable excursion durations suitable for children. School holiday sailings command premiums but ensure maximum children's programming. The no-fly Southampton departure eliminates airport stress with luggage delivered to cabins."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O's cancellation policy varies by fare type. Select Price bookings allow changes and cancellations with tiered penalties: full refund beyond 90 days; 50% deposit retained 89-57 days; 75% fare 56-15 days; 100% fare within 14 days. Early Saver fares are non-refundable but permit name changes for €50. All bookings include P&O's travel protection covering cancellation for medical reasons, with documentation required. COVID-19 protocols have introduced flexible booking options allowing date changes without fees on most new bookings. Travel insurance is strongly recommended for comprehensive coverage beyond P&O's included protection, particularly for pre-existing medical conditions and travel disruption. Rebooking credits may be offered for operational cancellations."
+    }
+  ]
+}

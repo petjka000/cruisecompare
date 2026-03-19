@@ -1,0 +1,202 @@
+{
+  "title": "Costa Cruises Northern Europe Cruises 2026",
+  "intro": "Costa Cruises brings Italian elegance to Northern Europe's dramatic coastlines, combining Mediterranean warmth with Baltic sophistication. Their 2026 season features immersive voyages through Norway's fjord country, the historic capitals of Scandinavia, and Russia's imperial St. Petersburg. Costa's ships offer a distinctive European atmosphere with multilingual ambiance, exceptional Italian cuisine, and curated shore excursions revealing Viking heritage, Art Nouveau architecture, and Arctic wilderness. Guests experience midnight sun sailings, Northern Lights hunting, and cultural deep-dives in Copenhagen, Stockholm, and Helsinki. Costa's Northern Europe program emphasizes sustainable cruising with shore power connectivity and reduced-emission itineraries. The line's Italian crew provides authentic hospitality while navigating through Geirangerfjord, Sognefjord, and past North Cape's towering cliffs. Evening entertainment spans opera performances to Nordic folk shows, creating memorable crossings between sophisticated ports.",
+  "quick_facts": {
+    "price_from_eur": 649,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Costa Diadema",
+      "Costa Fascinosa",
+      "Costa Pacifica"
+    ],
+    "departure_ports": [
+      "Copenhagen",
+      "Amsterdam",
+      "Kiel",
+      "Stockholm"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 649,
+      "balcony_eur": 949,
+      "suite_eur": 1499
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Northern Lights (September-October)",
+      "inside_eur": 749,
+      "balcony_eur": 1149,
+      "suite_eur": 1799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Norwegian Fjords",
+      "duration_nights": 7,
+      "ports": [
+        "Copenhagen",
+        "Geiranger",
+        "Alesund",
+        "Flam",
+        "Bergen",
+        "Stavanger",
+        "Kiel"
+      ],
+      "price_from_eur": 649,
+      "highlight": "UNESCO-listed Geirangerfjord with waterfall sailing"
+    },
+    {
+      "name": "10-night Baltic Capitals",
+      "duration_nights": 10,
+      "ports": [
+        "Amsterdam",
+        "Warnemunde",
+        "Tallinn",
+        "St Petersburg",
+        "Helsinki",
+        "Stockholm",
+        "Copenhagen"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Two full days in St Petersburg with visa-free shore access"
+    },
+    {
+      "name": "14-night North Cape & Fjords",
+      "duration_nights": 14,
+      "ports": [
+        "Kiel",
+        "Alesund",
+        "Tromso",
+        "Honningsvag",
+        "North Cape",
+        "Lofoten",
+        "Trondheim",
+        "Flam",
+        "Bergen",
+        "Stavanger"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Arctic Circle crossing to continental Europe's northernmost point"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Diadema",
+      "capacity": 3722,
+      "year": 2014,
+      "best_for": "Families & Multigenerational",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Costa Fascinosa",
+      "capacity": 3015,
+      "year": 2012,
+      "best_for": "Couples & Culture Enthusiasts",
+      "price_from_eur": 649
+    },
+    {
+      "name": "Costa Pacifica",
+      "capacity": 3015,
+      "year": 2009,
+      "best_for": "Music Lovers & Active Travellers",
+      "price_from_eur": 649
+    }
+  ],
+  "whats_included": [
+    "Full board in main restaurants and buffet",
+    "Entertainment shows and live music",
+    "Kids club and teen activities",
+    "Fitness centre and pools",
+    "Port taxes and basic gratuities",
+    "Shuttle service to city centres where available"
+  ],
+  "whats_extra": [
+    "Beverages and specialty coffees",
+    "Shore excursions and guided tours",
+    "Specialty restaurants (EUR 25-45 pp)",
+    "Spa treatments and thermal suite",
+    "WiFi packages (EUR 12-25/day)",
+    "Laundry and dry cleaning",
+    "Photos and onboard shopping"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak summer sailings; 6 months sufficient for shoulder season. Early booking discounts typically 20-30% off brochure prices. Consider repositioning cruises in May/September for 40% savings. Balcony cabins essential for fjord scenery—reserve early as limited inventory. Costa Club members receive additional 5% discount and priority boarding.",
+  "top_ports": [
+    {
+      "port": "St Petersburg",
+      "time_in_port": "2 full days",
+      "top_activity": "Hermitage Museum & Catherine Palace private tour (EUR 189)",
+      "tip": "Book ship excursions for visa-free entry; independent visits require Russian visa"
+    },
+    {
+      "port": "Geiranger",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Flydalsjuvet viewpoint & Eagle Road (EUR 89)",
+      "tip": "Position on starboard side approaching for Seven Sisters waterfall"
+    },
+    {
+      "port": "Flam",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Flam Railway to Myrdal (EUR 65)",
+      "tip": "Morning departures avoid afternoon crowds; book train tickets through ship"
+    },
+    {
+      "port": "Tromso",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Arctic Cathedral & cable car Fjellheisen (EUR 75)",
+      "tip": "Excellent independent exploration—compact city centre walkable from port"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Bryggen UNESCO walk & Mount Floyen funicular (EUR 45)",
+      "tip": "Fish Market lunch recommended; reserve funicular tickets online to skip queues"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Northern Europe cruise cost?",
+      "answer": "Costa Cruises Northern Europe voyages range from EUR 649 for 7-night inside cabins in shoulder season to EUR 2,199 for peak summer suites. Balcony cabins—the most popular choice for fjord viewing—typically cost EUR 949-1,399. A 10-night Baltic itinerary averages EUR 1,199 per person including port taxes. Families benefit from third/fourth passenger discounts at 50-70% off. All-inclusive beverage packages add EUR 35-55 per day. Shore excursions average EUR 65-189 per port. Total vacation budget should include EUR 150-250 daily for drinks, specialty dining, WiFi, and tours beyond the base cruise fare."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Northern Europe?",
+      "answer": "Costa deploys three primary vessels for Northern Europe 2026: Costa Diadema (3,722 passengers, 2014-built) serves as flagship with extensive family facilities and Samsara Spa; Costa Fascinosa (3,015 passengers, 2012-built) offers Italian-designed interiors with strong cultural programming; and Costa Pacifica (3,015 passengers, 2009-built) features music-themed decor and enhanced entertainment venues. All three ships are Dream-class or modified Dream-class vessels with retractable roofs for all-weather pool use—essential for unpredictable Nordic weather. Costa Diadema operates from Copenhagen and Amsterdam; Fascinosa and Pacifica alternate Kiel and Stockholm departures. No mega-ships like Costa Smeralda serve this region due to size restrictions in Norwegian fjords."
+    },
+    {
+      "question": "When is best time to cruise Northern Europe?",
+      "answer": "June through August delivers optimal conditions: midnight sun above Arctic Circle, stable 15-22°C temperatures, and all attractions fully operational. July peak offers longest daylight but highest prices and crowds. May and September provide 20-30% savings with fewer tourists; May brings blooming fruit orchards while September offers autumn colours and Northern Lights possibilities north of Tromso. For dedicated aurora hunting, late September sailings to North Cape present 30% aurora probability. Baltic routes are ice-free year-round; Norwegian fjords accessible May-October. Avoid late October when daylight shrinks to 6 hours and some mountain roads close. St Petersburg's White Nights festival in June is spectacular but books 12 months ahead."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's Northern Europe cruises include accommodation, all meals in main dining room and buffet restaurants, daytime children's clubs divided by age (3-6, 7-11, 12-14, 15-17), evening entertainment including theatre shows and live music, fitness centre access, pools and whirlpools, port taxes, and basic service charges. Italian and international cuisine features prominently with regional specialties. Coffee, tea, and water available at meals; other beverages extra. Shuttle buses to city centres provided where distance exceeds 500 metres. Not included: alcoholic drinks, specialty restaurants, shore excursions, WiFi, spa services, laundry, and photographs. Costa's 'Piu Gusto' beverage package at EUR 39/day covers unlimited drinks up to EUR 9 each."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa's Northern Europe network spans 40+ ports across four sub-regions. Norwegian Fjords: Geiranger, Alesund, Flam, Bergen, Stavanger, Tromso, Honningsvag (North Cape), and Trondheim. Baltic Capitals: Copenhagen, Stockholm, Helsinki, Tallinn, Riga, Gdansk, and overnight St Petersburg. British Isles: Southampton, Edinburgh, Invergordon, Belfast, and Liverpool. Arctic Norway: Spitsbergen (Svalbard) on select expedition-style sailings. Primary departure hubs are Copenhagen, Amsterdam, Kiel, and Stockholm with convenient international flight connections. St Petersburg requires special attention: Costa arranges visa-free shore access for passengers on organized excursions; independent exploration demands advance Russian visa. Norwegian fjord ports tender or dock close to town centres; Baltic cities typically require 15-45 minute transfers."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure peak summer sailings 9-12 months ahead, particularly for balcony cabins on fjord routes where scenic viewing drives demand. St Petersburg itineraries with overnight stays sell out earliest due to limited visa-free capacity. Shoulder season (May, September) bookings viable 4-6 months ahead with occasional last-minute availability. Costa releases itineraries 18 months in advance; early booking discounts of 20-30% apply to reservations made 6+ months before departure. Families requiring connecting cabins should book immediately upon release. Solo travellers benefit from Costa's reduced single supplements (25-50% rather than 100%) when booking 9+ months ahead. Final payment due 90 days before sailing; penalties escalate from EUR 200 at 90 days to 100% fare within 14 days of departure."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa excels for European families with children, particularly Italian, French, German, and Spanish passengers. Squok Club provides complimentary supervised activities 9am-midnight for ages 3-17 with multilingual staff. Teen zones include dedicated hangout spaces and discos. Family cabins accommodate up to 5 with connecting options. Norwegian fjord cruises particularly engage children with waterfall sailings, glacier viewing, and wildlife spotting (seals, eagles, whales). Baltic itineraries offer educational shore excursions to castles and palaces. Dining flexibility suits families with early children's dinner seatings and 24-hour buffet. Potential limitations: primary language Italian/English/German multilingual; entertainment leans European; no American-style character experiences. Babysitting available for under-3s at hourly rates. Children's menus feature Italian and international options."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa's cancellation structure penalizes later withdrawals: 90+ days before departure loses deposit (typically EUR 200-400 per person); 89-57 days forfeits 25% fare; 56-29 days loses 50%; 28-15 days 75%; and 14 days or less 100% with no refund. Travel insurance strongly recommended—Costa offers own policy covering cancellation for medical reasons, job loss, or family emergency at 5-7% of cruise value. 'Costa Total Comfort' fare type permits one free date change up to 30 days before sailing. Pandemic-related cancellations follow separate protocols with future cruise credits typically issued. For 2026 bookings, consider 'Book with Confidence' promotions allowing penalty-free changes on select sailings. Named passenger changes permitted for EUR 50 fee up to 7 days before departure; complete name changes treated as cancellation and rebooking."
+    }
+  ]
+}

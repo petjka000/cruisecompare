@@ -1,0 +1,196 @@
+{
+  "title": "Disney Cruise Line Africa & Canaries Cruises 2026",
+  "intro": "Disney Cruise Line brings its signature magic to the Africa & Canaries region, offering families an extraordinary blend of adventure and enchantment. Sail from Barcelona or Miami aboard the reimagined Disney Wonder or the spectacular Disney Treasure, discovering volcanic landscapes, pristine beaches, and vibrant cultures. These itineraries combine the warmth of the Canary Islands with exotic African ports, creating unforgettable memories for guests of all ages. Disney's immersive storytelling extends ashore with carefully curated Port Adventures, from camel treks through Gran Canaria's dunes to wildlife encounters in Morocco. Onboard, rotational dining, Broadway-caliber shows, and dedicated youth clubs ensure every family member experiences pure Disney magic. With character meet-and-greets, fireworks at sea, and adult-exclusive retreats, these voyages transform ocean travel into a collection of treasured moments that only Disney can deliver.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "8-14 nights",
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Mar",
+      "Apr"
+    ],
+    "ships_on_route": [
+      "Wonder",
+      "Treasure"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Oct-Nov)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (Mar-Apr)",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 3299
+    },
+    {
+      "season": "Holiday",
+      "inside_eur": 1499,
+      "balcony_eur": 2299,
+      "suite_eur": 4299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "9-Night Canary Islands & Morocco",
+      "duration_nights": 9,
+      "ports": [
+        "Barcelona",
+        "Cartagena",
+        "Gran Canaria",
+        "Tenerife",
+        "Casablanca",
+        "Lisbon"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Camel safari in Gran Canaria and imperial city tour of Casablanca with Disney-exclusive guides"
+    },
+    {
+      "name": "11-Night West Africa Discovery",
+      "duration_nights": 11,
+      "ports": [
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Dakar",
+        "Banjul",
+        "Las Palmas"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Rare calls to Senegal and The Gambia with Disney-trained naturalists and cultural immersion programs"
+    },
+    {
+      "name": "14-Night Grand Africa & Canaries",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Malaga",
+        "Casablanca",
+        "Agadir",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Mindelo",
+        "Dakar",
+        "Lisbon"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Comprehensive exploration with overnight in Casablanca and Cape Verde archipelago discovery"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Wonder",
+      "capacity": 2713,
+      "year": 1999,
+      "best_for": "Classic Disney charm with intimate atmosphere",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Disney Treasure",
+      "capacity": 4000,
+      "year": 2024,
+      "best_for": "Modern amenities and expanded family spaces",
+      "price_from_eur": 1099
+    }
+  ],
+  "whats_included": [
+    "Rotational dining at 3 themed restaurants",
+    "Unlimited soft drinks and coffee",
+    "Broadway-style Disney shows",
+    "Character meet-and-greets",
+    "Kids clubs (3-17 years)",
+    "Pool access and waterslides",
+    "Fitness center",
+    "Room service",
+    "Deck parties and fireworks",
+    "First-run Disney films"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty drinks",
+    "Port Adventures (shore excursions)",
+    "Palo and Remy adult dining",
+    "Bibbidi Bobbidi Boutique",
+    "Spa treatments and salon",
+    "Nursery care (under 3)",
+    "Photography packages",
+    "WiFi packages",
+    "Gratuities (€14.50/person/day)",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking discounts; Disney opens itineraries 18-24 months in advance with tiered pricing that increases as sailings fill. Consider placeholder bookings for future cruises onboard to secure 10% discount.",
+  "top_ports": [
+    {
+      "port": "Gran Canaria (Las Palmas)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Camel Safari Maspalomas Dunes (€89 adults, €69 children)",
+      "tip": "Morning departures avoid crowds and midday heat; book through Disney for guaranteed return"
+    },
+    {
+      "port": "Casablanca",
+      "time_in_port": "7am-6pm (overnight on select sailings)",
+      "top_activity": "Hassan II Mosque and Rick's Café experience (€129)",
+      "tip": "Dress modestly for mosque visits; Disney provides required covering"
+    },
+    {
+      "port": "Tenerife (Santa Cruz)",
+      "time_in_port": "9am-5pm",
+      "top_activity": "Loro Parque wildlife park with orca encounter (€159)",
+      "tip": "Disney's premium transfer includes priority entry—worth the upgrade"
+    },
+    {
+      "port": "Dakar",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Gorée Island historical tour with Disney historian (€99)",
+      "tip": "Limited tender capacity; book Port Adventure to guarantee priority disembarkation"
+    },
+    {
+      "port": "Funchal (Madeira)",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Monte toboggan ride and botanical gardens (€79)",
+      "tip": "Morning fog common; afternoon tours have better visibility for photos"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Africa & Canaries cruise cost?",
+      "answer": "Disney Cruise Line Africa & Canaries cruises typically range from €899 to €4,299 per person depending on season, cabin category, and itinerary length. Inside cabins start around €899-€1,199 in shoulder seasons, while oceanview rooms run €1,099-€1,599. Verandah accommodations, highly recommended for scenic cruising, cost €1,399-€2,299. Concierge-level suites with priority services range from €2,499 to over €4,299. Prices include exceptional Disney entertainment, dining, and youth programming. Families should budget €150-€300 per port for curated Port Adventures. Gratuities add €14.50 per person daily. Disney frequently offers U.S. military discounts, Florida resident rates, and Canadian resident savings that can reduce fares by 10-25% when available."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Africa & Canaries?",
+      "answer": "Disney deploys the Disney Wonder and Disney Treasure on Africa & Canaries itineraries. The Disney Wonder, launched 1999 and extensively refurbished in 2016 and 2024, carries 2,713 guests with classic Disney design elements including the iconic red funnel and Art Deco styling. Its intimate scale suits immersive destination experiences. The Disney Treasure, debuting 2024, accommodates 4,000 guests with modern innovations including the Coco-themed restaurant, Haunted Mansion lounge, and expanded AquaMouse water attraction. Both vessels feature Disney's signature rotational dining, Broadway-caliber shows, and extensive kids programming. The Treasure offers more family stateroom configurations and adult-exclusive spaces, while the Wonder provides nostalgic charm. Ship assignment varies by season and itinerary length, with longer voyages typically assigned to the Treasure."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "The optimal cruising season for Africa & Canaries spans October through November and March through April, avoiding extreme summer heat and winter Atlantic storms. October-November offers pleasant 22-26°C temperatures, calmer seas for tender ports like Dakar, and post-summer pricing value. March-April brings blooming landscapes, ideal wildlife viewing in Morocco, and comfortable 20-24°C conditions. December through February presents cooler 16-20°C weather with stronger winds and occasional rain, though Christmas sailings command premium pricing for festive programming. May through September experiences intense heat exceeding 30°C in African ports and limited Disney deployment to this region. Hurricane season considerations are minimal for eastern Atlantic routes, though repositioning crossings may encounter rougher seas. Disney schedules these itineraries specifically during favorable windows."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney Cruise Line delivers exceptional inclusive value beginning with rotational dining across three uniquely themed restaurants, where your serving team accompanies you each evening. Unlimited fountain beverages, coffee, tea, and ice cream are available throughout the day. Entertainment encompasses original Broadway-caliber Disney musicals, first-run films in 4D theaters, deck parties with fireworks at sea, and continuous character appearances. Youth clubs divided by age—It's a Small World Nursery (6 months-3 years, fee applies), Oceaneer Club and Lab (3-12), Edge (11-14), and Vibe (14-17)—provide supervised programming from morning until midnight. Pool complexes, waterslides, fitness center, and sports deck access are complimentary. Room service is included 24 hours. Notably, Disney does not charge for soda unlike competitors, and their acclaimed service standards extend to every included element."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Cruise Line Africa & Canaries itineraries feature carefully selected ports balancing natural wonders, cultural immersion, and family accessibility. Canary Islands ports include Las Palmas and Santa Cruz de Tenerife for volcanic landscapes and subtropical beaches; Funchal, Madeira for botanical gardens and mountain toboggan rides. Moroccan calls encompass Casablanca with its magnificent Hassan II Mosque and Agadir for Atlas Mountains excursions. West African highlights feature Dakar, Senegal for Gorée Island's profound history and vibrant markets, plus Banjul, The Gambia for rare river cruising and wildlife encounters. European departure and arrival ports include Barcelona for pre-cruise exploration of Gaudí's architecture, Lisbon for maritime heritage, and occasionally Malaga for Andalusian culture. Disney evaluates each port for safety, infrastructure, and family-appropriate experiences, with some itineraries including overnight stays in Casablanca for deeper exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Booking 12-18 months in advance is essential for Disney Cruise Line Africa & Canaries voyages, as Disney releases itineraries 18-24 months ahead with tiered pricing that increases as stateroom categories sell. Concierge suites and popular verandah cabins on higher decks disappear fastest, often within days of release. Early booking secures preferred dining rotation, Port Adventure availability for limited-capacity experiences like Gorée Island tours, and potential onboard credit promotions. Disney Vacation Club members and Castaway Club loyalty members receive booking windows 1-2 months before general public. If planning shorter notice, monitor Disney's website for restricted guarantee fares 60-90 days prior to sailing, though cabin location is assigned by Disney. Final payment is due 90 days before departure for standard bookings, 150 days for concierge. Travel insurance is strongly recommended given the region's distance from home ports."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Cruise Line excels as the premier family choice for Africa & Canaries, transforming complex destination travel into seamless, age-appropriate adventures. The structured youth programming allows parents to enjoy sophisticated Port Adventures—wine tasting in Madeira, historical deep-dives in Dakar—while children engage in supervised cultural activities, African drumming workshops, and wildlife education. Family-focused shore excursions include camel treks with child-safe handling, beach breaks with Disney lifeguards, and interactive cooking classes. Onboard, the rotational dining system accommodates picky eaters while introducing global cuisines. Evening shows adapt African folklore through Disney's storytelling lens. The unique advantage is Disney's meticulous attention to safety and comfort in developing world ports, with sanitized transportation, vetted vendors, and dedicated Disney staff accompanying every excursion. Multi-generational groups find appropriate activities for toddlers through grandparents, with adult-exclusive dining and lounges providing necessary respite."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line's cancellation policy for Africa & Canaries sailings imposes penalties increasing closer to departure. For standard cabins, cancellation 90 days or more before sailing incurs no penalty with full refund. Between 89-60 days, deposit is forfeited (typically 20% of cruise fare). From 59-30 days, 50% of total fare is retained. Within 29-15 days, 75% is forfeited. Cancellations 14 days or less result in 100% penalty with no refund. Concierge bookings face stricter terms: 150+ days penalty-free, 149-120 days deposit forfeited, 119-90 days 50% penalty, 89-60 days 75% penalty, under 60 days full forfeiture. Travel insurance through Disney or third-party providers is highly recommended given the significant investment and remote destination. Named storm protection allows rebooking without penalty if Disney modifies the itinerary. COVID-19 protocols have introduced additional flexibility options, though standard terms now apply for most sailings."
+    }
+  ]
+}

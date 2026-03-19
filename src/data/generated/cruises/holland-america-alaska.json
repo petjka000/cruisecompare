@@ -1,0 +1,266 @@
+{
+  "title": "Holland America Line Alaska Cruises 2026",
+  "intro": "Holland America Line has been pioneering Alaska cruising for over 75 years, longer than any other cruise line, with deep-rooted expertise that transforms every voyage into an immersive frontier experience. Their perfectly mid-sized ships, ranging from 1,432 to 2,668 guests, navigate closer to glaciers and wildlife than massive vessels can achieve, while maintaining spacious, uncrowded public areas. The line's exclusive partnerships with local Alaskan experts, including onboard naturalists from the Alaska Native Heritage Center, deliver authentic cultural programming you won't find elsewhere. Holland America's Culinary Arts Center features regional cooking demonstrations using fresh Alaskan seafood, while their Explorations Central program provides destination-rich enrichment. With seven ships dedicated to Alaska operations and exclusive private Yukon land tours, Holland America offers the most comprehensive glacier country experience at sea, combining elegant Dutch heritage with genuine Alaskan soul.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Nieuw Amsterdam",
+      "Eurodam",
+      "Koningsdam",
+      "Nieuw Statendam",
+      "Noordam",
+      "Westerdam",
+      "Zuiderdam"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Vancouver",
+      "Whittier"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2299
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1199,
+      "balcony_eur": 1899,
+      "suite_eur": 3199
+    },
+    {
+      "season": "Prime Glacier Viewing (July)",
+      "inside_eur": 1399,
+      "balcony_eur": 2199,
+      "suite_eur": 3799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Alaska Inside Passage",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Ketchikan"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Full day Glacier Bay National Park with Park Ranger narration"
+    },
+    {
+      "name": "7-night Alaska Glacier Discovery",
+      "duration_nights": 7,
+      "ports": [
+        "Seattle",
+        "Juneau",
+        "Glacier Bay",
+        "Sitka",
+        "Ketchikan",
+        "Victoria"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Scenic cruising Tracy Arm Fjord and Dawes Glacier"
+    },
+    {
+      "name": "14-night Alaska Collection",
+      "duration_nights": 14,
+      "ports": [
+        "Vancouver",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Ketchikan",
+        "Anchorage",
+        "Homer",
+        "Kodiak",
+        "Hubbard Glacier"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Rare Gulf of Alaska exploration with remote Kodiak bear viewing"
+    },
+    {
+      "name": "10-night Denali Land & Sea",
+      "duration_nights": 10,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Seward"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Three nights at McKinley Chalet Resort with Tundra Wilderness Tour"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Koningsdam",
+      "capacity": 2668,
+      "year": 2016,
+      "best_for": "Culinary enthusiasts and music lovers",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Nieuw Amsterdam",
+      "capacity": 2106,
+      "year": 2010,
+      "best_for": "Classic Holland America loyalists seeking intimate elegance",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Eurodam",
+      "capacity": 2104,
+      "year": 2008,
+      "best_for": "Multi-generational families wanting spacious verandahs",
+      "price_from_eur": 949
+    },
+    {
+      "name": "Nieuw Statendam",
+      "capacity": 2666,
+      "year": 2018,
+      "best_for": "Art and design aficionados",
+      "price_from_eur": 1149
+    },
+    {
+      "name": "Noordam",
+      "capacity": 1972,
+      "year": 2006,
+      "best_for": "Active explorers prioritizing uncrowded expedition feel",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Westerdam",
+      "capacity": 1964,
+      "year": 2004,
+      "best_for": "Destination immersion seekers",
+      "price_from_eur": 879
+    },
+    {
+      "name": "Zuiderdam",
+      "capacity": 1964,
+      "year": 2002,
+      "best_for": "Value-conscious travelers wanting full Alaska experience",
+      "price_from_eur": 849
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Select casual dining venues including Lido Market",
+    "24-hour room service",
+    "Nightly entertainment and live music venues",
+    "Explorations Central destination programming",
+    "Fitness center and sports courts",
+    "Port taxes and fees",
+    "Glacier Bay National Park entrance fees"
+  ],
+  "whats_extra": [
+    "Shore excursions ($89-449 EUR)",
+    "Beverage packages ($55-75 EUR/day)",
+    "Specialty dining ($25-75 EUR/person",
+    "Gratuities ($16 EUR/day per person)",
+    "WiFi packages ($25-35 EUR/day",
+    "Laundry and dry cleaning",
+    "Spa and salon services",
+    "Airport transfers",
+    "Pre/post hotel stays"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for best cabin selection, especially verandahs facing starboard on northbound itineraries for glacier viewing. Early booking discounts of 10-25% typically release 18 months out. Wave season (January-March) brings added perks like onboard credit or complimentary beverage packages. Last-minute deals under €699 EUR emerge 60-90 days before sailing but with limited cabin categories. Consider the Holland America Line loyalty program for additional savings on repeat voyages.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Mendenhall Glacier Helicopter & Dogsledding (€389)",
+      "tip": "Book morning flights for clearer weather; independent tram to Mount Roberts costs €35 vs ship excursions"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-8:30pm",
+      "top_activity": "White Pass & Yukon Route Railway (€145)",
+      "tip": "Reserve early for premium dome car seating; free self-guided walking tour of historic district available"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Misty Fjords Flightseeing (€299)",
+      "tip": "Rain is frequent—pack waterproof layers; Creek Street and Totem Heritage Center walkable from pier"
+    },
+    {
+      "port": "Sitka",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sea Otter & Wildlife Quest (€189)",
+      "tip": "Only accessible on select itineraries; Russian Bishop's House and St. Michael's Cathedral free to visit"
+    },
+    {
+      "port": "Glacier Bay",
+      "time_in_port": "6am-3pm",
+      "top_activity": "Scenic cruising with Park Ranger narration (included)",
+      "tip": "Position on open decks early; Margerie Glacier calving most active 10am-2pm; thermal layers essential"
+    },
+    {
+      "port": "Hubbard Glacier",
+      "time_in_port": "2pm-6pm",
+      "top_activity": "Closest ship approach in Alaska (included)",
+      "tip": "Port side viewing typically preferred; listen for ice calving thunder from 6km distance"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Whale & Marine Mammals Cruise (€179)",
+      "tip": "Owned by Huna Totem Corporation; world's longest zip line (€145) books out weeks ahead"
+    },
+    {
+      "port": "Victoria",
+      "time_in_port": "6pm-11:30pm",
+      "top_activity": "Butchart Gardens Evening Illumination (€89)",
+      "tip": "Late arrival limits options; downtown pubs and Inner Harbour walkable for independent exploration"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line Alaska cruise cost?",
+      "answer": "Holland America Line Alaska cruises in 2026 range from €899 EUR for inside cabins during shoulder season (May/September) to €3,799 EUR for Neptune Suites in peak July. Balcony cabins, essential for glacier viewing, start at €1,399 EUR in shoulder season and reach €2,199 EUR during prime summer months. Land-sea packages combining cruises with Denali National Park start at €2,499 EUR. Additional costs include gratuities (€16 EUR/day), beverages, specialty dining, and shore excursions averaging €150-300 EUR per port. Early booking discounts and Wave Season promotions can reduce base fares by 10-25%."
+    },
+    {
+      "question": "Which Holland America Line ships sail to Alaska?",
+      "answer": "Seven Holland America ships operate Alaska in 2026: Koningsdam and Nieuw Statendam (newest, 2,600+ guests) offer Music Walk and World Stage entertainment; Nieuw Amsterdam and Eurodam (2,100 guests) provide classic mid-size cruising with spacious verandahs; Noordam, Westerdam, and Zuiderdam (1,900 guests) deliver the most intimate experience with highest space-to-guest ratios. All ships feature Explorations Central programming, Culinary Arts Centers, and dedicated Alaska naturalists. The smaller vessels access narrower fjords more easily, while newer ships offer more dining venues and entertainment options. Rotterdam joins the fleet in 2027."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "May offers 17 hours of daylight, blooming wildflowers, and lowest prices with snow-capped mountains. June brings driest weather, peak whale migration, and longest days (19 hours). July delivers warmest temperatures (15-20°C), best glacier calving activity, and peak family travel—book 12+ months ahead. August continues excellent wildlife viewing with salmon runs attracting bears; evenings begin showing aurora potential. September offers fall foliage, northern lights possibilities, and significant savings, though some hiking trails may close and weather turns unpredictable. For first-time visitors, late June to mid-July balances weather, wildlife, and accessibility optimally."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America's Alaska cruises include all main dining room meals, 24-hour room service, Lido Market buffet, Explorations Central destination programming with naturalists, nightly entertainment including BBC Earth in Concert shows, live music venues, fitness center, sports courts, and port taxes. Glacier Bay National Park entrance fees are included—a significant value as independent visitors pay $35. Beverages beyond coffee, tea, and water cost extra; packages run €55-75 EUR/day. Gratuities (€16 EUR/day), specialty dining, shore excursions, WiFi, and spa services are additional. Unlike premium competitors, Holland America does not include basic WiFi or standard beverages in base fares."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America visits more Alaskan ports than any competitor. Core Inside Passage stops include Juneau (state capital, Mendenhall Glacier), Skagway (Gold Rush history, White Pass Railway), Ketchikan (totem poles, Misty Fjords), and scenic cruising through Glacier Bay or Hubbard Glacier. Exclusive to longer itineraries: Sitka (Russian heritage, rare on 7-night cruises), Icy Strait Point (Hoonah Native-owned, whale watching), and Haines (bald eagle preserve). Gulf of Alaska routes add Seward or Whittier (Anchorage access), Kodiak (bear viewing), Homer (halibut fishing), and Valdez. Every ship features full-day Glacier Bay with National Park Rangers boarding to narrate."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Holland America Alaska cruises 9-14 months ahead for optimal cabin selection, particularly verandahs on starboard side for northbound glacier viewing. Early booking discounts release 18 months out with 10-25% savings. July sailings and suite categories require 12+ month advance booking. Wave Season (January-March) offers added value through onboard credits, beverage packages, or reduced deposits. Last-minute deals under €700 EUR appear 60-90 days before sailing but with restricted cabin categories—often obstructed views or lower decks. Land-sea packages with Denali accommodations book furthest ahead, sometimes 18 months, due to limited lodge inventory. Flexible travelers monitoring prices can benefit from price protection programs."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Alaska cruises suit families with children 8+ rather than toddlers, as the line emphasizes enrichment over water slides. Club HAL offers complimentary programming for ages 3-17 with Alaska-themed activities: junior ranger programs, wildlife identification, and Alaska Native crafts. Teens enjoy dedicated Loft hangout spaces. Family-friendly shore excursions include dog sledding, whale watching, and glacier flightseeing. Connecting staterooms and triple/quad accommodations are limited—book early. The line's slower pace and educational focus appeals to multi-generational groups. Families with young children may prefer lines with larger kids' facilities; Holland America's strength lies in shared discovery experiences rather than separate children's entertainment."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America's standard cancellation policy charges deposit loss (typically €250-500 EUR per person) if cancelled 90+ days before sailing; 50% of fare for 89-75 days; 75% for 74-30 days; and 100% for under 30 days. Cancel for Any Reason protection, purchased within 14 days of deposit, provides future cruise credit for 90% of cancellation fees if cancelled before final payment, or 80% after. Standard travel insurance through Holland America covers medical emergencies and trip interruption but not fear-of-travel cancellations. COVID-19 protocols have evolved; currently no vaccination requirements but positive tests before boarding result in future cruise credit. Rebooking to different sailings incurs €50 EUR change fee per person within final payment period."
+    }
+  ]
+}

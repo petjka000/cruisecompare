@@ -1,0 +1,230 @@
+{
+  "title": "P&O Cruises Africa & Canaries Cruises 2026",
+  "intro": "P&O Cruises brings its distinctive British heritage to the sun-drenched shores of Africa and the Canary Islands, offering guests an elegant escape from Northern European winters. These voyages aboard P&O's adult-focused and family-friendly ships combine the volcanic landscapes of Lanzarote and Tenerife with exotic African calls including Cape Verde, Morocco, and Senegal. Passengers enjoy traditional afternoon teas, formal nights, and British culinary favourites while discovering diverse cultures, from Saharan frontiers to Atlantic archipelagos. The route attracts experienced cruisers seeking winter warmth without long-haul flights, with Southampton departures eliminating airport stress. Onboard, P&O's signature blend of refined entertainment, spacious accommodation, and attentive service creates a uniquely British cruising experience against a backdrop of dramatic coastlines and year-round sunshine.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "12-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Arvia",
+      "Iona",
+      "Britannia",
+      "Azura"
+    ],
+    "departure_ports": [
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1099,
+      "balcony_eur": 1499,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 899,
+      "balcony_eur": 1199,
+      "suite_eur": 1999
+    },
+    {
+      "season": "Low (Apr)",
+      "inside_eur": 799,
+      "balcony_eur": 999,
+      "suite_eur": 1699
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Lanzarote",
+        "Gran Canaria",
+        "Tenerife",
+        "Agadir",
+        "Gibraltar",
+        "Southampton"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive Atlantic islands exploration with Moroccan spice souks"
+    },
+    {
+      "name": "12-night Cape Verde & Canaries",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Mindelo",
+        "Praia",
+        "Las Palmas",
+        "Lisbon",
+        "Southampton"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Rare Cape Verde calls with authentic West African culture"
+    },
+    {
+      "name": "14-night West Africa Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Casablanca",
+        "Agadir",
+        "Dakar",
+        "Banjul",
+        "Santa Cruz de Tenerife",
+        "Funchal",
+        "Southampton"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Deep African immersion with safari excursion opportunities"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Arvia",
+      "capacity": 5200,
+      "year": 2022,
+      "best_for": "Families & active adults",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Iona",
+      "capacity": 5200,
+      "year": 2021,
+      "best_for": "Families & food enthusiasts",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Britannia",
+      "capacity": 3647,
+      "year": 2015,
+      "best_for": "Traditional cruisers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Azura",
+      "capacity": 3100,
+      "year": 2010,
+      "best_for": "Adult-focused cruising",
+      "price_from_eur": 849
+    }
+  ],
+  "whats_included": [
+    "Full board dining in main restaurants",
+    "Afternoon tea service",
+    "Evening entertainment & live shows",
+    "Children's clubs (2-17 years)",
+    "Gym & fitness classes",
+    "Port taxes",
+    "Onboard activities & enrichment lectures"
+  ],
+  "whats_extra": [
+    "Specialty restaurants (£15-35pp)",
+    "Drinks packages (£45-55/day)",
+    "Shore excursions (£45-189)",
+    "Spa treatments & salon services",
+    "WiFi packages (£15-25/day)",
+    "Gratuities (£7pp/day recommended)",
+    "Laundry services",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts up to 25%. Wave season (January-March) offers enhanced incentives including free cabin upgrades and onboard credit. Consider Select Price for flexibility or Early Saver for lowest fares. Balcony cabins recommended for Atlantic crossings. Solo travellers should book early as single supplements apply.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Mount Teide National Park excursion (£89)",
+      "tip": "Pre-book volcano tours; temperatures drop significantly at altitude"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Vegueta old town walking tour (£45)",
+      "tip": "Excellent duty-free shopping; local buses cheap for independent exploration"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Timanfaya National Park & wine tour (£79)",
+      "tip": "Geothermal demonstrations at noon; bring sun protection"
+    },
+    {
+      "port": "Mindelo, Cape Verde",
+      "time_in_port": "7am-4pm",
+      "top_activity": "São Vicente island tour with Monte Verde (£65)",
+      "tip": "Limited infrastructure; ship excursions recommended for safety"
+    },
+    {
+      "port": "Agadir, Morocco",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Atlas Mountains & Berber village (£109)",
+      "tip": "Haggling expected in souks; dress modestly when ashore"
+    },
+    {
+      "port": "Casablanca, Morocco",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Hassan II Mosque & Marrakech express (£149)",
+      "tip": "Long distances to major sights; full-day excursion essential"
+    },
+    {
+      "port": "Dakar, Senegal",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Gorée Island & slave history memorial (£75)",
+      "tip": "UNESCO site; emotionally significant; advance booking advised"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan ride & botanical gardens (£55)",
+      "tip": "Wicker sledges operate weather-dependent; morning best for gardens"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Africa & Canaries cruise cost?",
+      "answer": "P&O Cruises Africa & Canaries voyages typically range from €899 to €2,499 per person for 12-14 night itineraries. Inside cabins start around €899 in shoulder season, rising to €1,099 during peak winter months. Balcony accommodations, highly recommended for Atlantic sailing, cost €1,199-€1,499. Suites command €1,699-€2,499 depending on ship and season. Prices include full board, entertainment, and children's clubs. Extras comprise drinks packages at €45-55 daily, gratuities of approximately €7 per person daily, and shore excursions ranging €45-189. Early Saver fares offer lowest rates with restrictions, while Select Price provides flexibility with deposits from €150pp. Solo travellers face 40-100% single supplements."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Africa & Canaries?",
+      "answer": "P&O Cruises deploys multiple ships on Africa & Canaries routes, primarily from its newer and mid-sized fleet. Arvia (2022, 5,200 passengers) and Iona (2021, 5,200 passengers), the line's Excel-class LNG-powered vessels, offer extensive facilities including glass-roofed SkyDome and multiple dining venues. Britannia (2015, 3,647 passengers) provides a more traditional P&O experience with Cookery Club and elegant atrium. Azura (2010, 3,100 passengers), adult-focused with retractable roof, frequently handles winter Canaries itineraries. Ventura and Aurora occasionally supplement these deployments. Ship assignment varies by departure date, with newer vessels typically commanding premium pricing. All feature P&O's signature British cruising style with formal nights, afternoon tea, and sterling currency onboard."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "The optimal period for P&O Cruises Africa & Canaries sailings spans November through March, when Northern European weather demands escape and destination conditions prove ideal. December through February represents peak season with reliable sunshine, temperatures of 20-24°C in Canaries and 25-30°C in West Africa, and minimal rainfall. January offers particularly attractive pricing before February half-term demand surges. November and March provide excellent value as shoulder months with slightly cooler but pleasant conditions and fewer crowds. April voyages risk stronger Atlantic winds and occasional rain. Cape Verde calls are especially pleasant January-March when humidity drops. Moroccan ports remain viable year-round, though summer departures are not offered due to extreme heat. Hurricane season does not affect this route significantly."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O Cruises Africa & Canaries fares include comprehensive amenities distinguishing the line's value proposition. Full board dining encompasses main restaurants, buffet venues, poolside grills, and room service, with afternoon tea served daily. Entertainment spans West End-quality theatre productions, live music, comedy, and cinema screenings. Children's clubs operate from 2-17 years with age-appropriate programming. Fitness facilities including gym, pools, and selected exercise classes are complimentary. Port taxes and basic onboard activities, enrichment lectures, and deck games are included. Accommodation housekeeping and standard dining gratuities are incorporated. Notable exclusions comprise drinks beyond water, tea, and coffee at meals; specialty restaurants; shore excursions; spa services; WiFi; and premium entertainment like casino gaming. The 'Peninsular' restaurant club and The Glass House wine bar carry surcharges."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O Cruises Africa & Canaries itineraries feature diverse ports combining familiar favourites with exotic calls. Canary Islands staples include Santa Cruz de Tenerife for Mount Teide access, Las Palmas for Gran Canaria's beaches and Vegueta old town, and Arrecife for Lanzarote's volcanic Timanfaya National Park. Funchal, Madeira offers botanical gardens and wicker toboggan rides. African mainland calls comprise Agadir and Casablanca in Morocco for souks, mosques, and Atlas Mountain excursions. Rarer West African deployments reach Dakar, Senegal for Gorée Island's slave history memorial, and Banjul, Gambia. Cape Verde's Mindelo and Praia provide authentic Atlantic island culture. European departure and return ports are Southampton exclusively, with occasional Lisbon calls en route. Overnight stays are uncommon; most ports receive 8-10 hour visits."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Booking 9-12 months ahead secures optimal choice of cabins, dining sittings, and shore excursions for P&O Cruises Africa & Canaries voyages, with itineraries typically released 18 months in advance. Early booking discounts of 15-25% apply, plus incentives like free cabin upgrades, onboard credit up to £300, or reduced deposits. Wave season (January-March) offers additional promotions despite being peak booking period. Balcony cabins for Atlantic routes sell fastest; inside and obstructed-view options remain available closer to departure. Final payment falls 90 days before sailing. Last-minute deals emerge 6-8 weeks prior for flexible travellers, though cabin location and dining preferences may be compromised. Excursions and specialty dining should be pre-booked immediately after reservation confirmation, particularly for Cape Verde and West African ports with limited independent infrastructure."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O Cruises Africa & Canaries routes suit families well, though with important distinctions from Caribbean alternatives. Arvia and Iona excel for families with children, featuring extensive kids' clubs (2-17 years), splash parks, sports courts, and family-friendly entertainment. Britannia and Azura offer more restrained children's programming. Sea days between ports provide structured activities, though the 12-14 night duration and cultural focus of African ports may challenge younger children compared with beach-heavy itineraries. Formal nights and traditional British cruising etiquette require adjustment. Shore excursions in Morocco and West Africa demand careful selection for family suitability; beach breaks in Canaries prove universally popular. Family cabins and interconnecting rooms sell quickly. School holiday departures carry significant premiums. The line's adult-only ships (Arcadia, Aurora in some configurations) should be avoided when booking family travel."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O Cruises applies a tiered cancellation structure for Africa & Canaries bookings. Early Saver fares are non-refundable from booking confirmation, though date changes may be permitted with fees. Select Price bookings allow cancellation with deposit forfeiture at any point until final payment 90 days before sailing. Beyond 90 days, penalties escalate: 90-57 days incurs 25% of cruise fare; 56-29 days, 50%; 28-15 days, 75%; and 14 days or less, 100% forfeiture. Travel insurance with cruise cover is strongly recommended, with P&O offering policies including cancellation protection. COVID-19 flexible booking terms have largely concluded, though health-related cancellations may qualify for future cruise credit with medical documentation. Name changes typically incur £100 administration fees. Booking through travel agents may introduce additional terms; direct P&O bookings offer most straightforward cancellation processing."
+    }
+  ]
+}

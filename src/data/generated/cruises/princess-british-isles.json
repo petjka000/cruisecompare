@@ -1,0 +1,215 @@
+{
+  "title": "Princess Cruises British Isles Cruises 2026",
+  "intro": "Princess Cruises has pioneered British Isles exploration for over 55 years, offering the most comprehensive itineraries to England, Scotland, Wales, Northern Ireland, and Ireland. Their MedallionClass ships deliver personalised service with OceanMedallion technology for seamless embarkation and onboard experiences. British Isles sailings feature extended port stays in Edinburgh during the Military Tattoo, overnight calls in Dublin, and scenic cruising through the Norwegian fjords on select voyages. Princess partnerships with Discovery and Animal Planet enhance shore excursions, from Giant's Causeway geology walks to Edinburgh Castle history tours. The line's British heritage shines through afternoon tea service, curry nights, and partnerships with local guides. 2026 brings new itineraries including Liverpool Beatles-themed experiences and Cork culinary-focused calls.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug"
+    ],
+    "ships_on_route": [
+      "Regal Princess",
+      "Sky Princess",
+      "Island Princess"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Dover",
+      "Copenhagen"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May, Sep/Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Tattoo Special (Aug)",
+      "inside_eur": 1599,
+      "balcony_eur": 2299,
+      "suite_eur": 3599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night British Isles Heritage",
+      "duration_nights": 7,
+      "ports": [
+        "Southampton",
+        "Guernsey",
+        "Cork",
+        "Dublin",
+        "Liverpool",
+        "Belfast",
+        "Glasgow (Greenock)",
+        "Southampton"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Compact immersion in four nations with two sea days"
+    },
+    {
+      "name": "12-night British Isles & France",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "St. Peter Port",
+        "Cork",
+        "Dublin",
+        "Belfast",
+        "Glasgow (Greenock)",
+        "Invergordon",
+        "Edinburgh",
+        "Le Havre",
+        "Southampton"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Scottish Highlands plus overnight Edinburgh with Military Tattoo option"
+    },
+    {
+      "name": "14-night Iceland & British Isles",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lerwick",
+        "Akureyri",
+        "Isafjordur",
+        "Reykjavik",
+        "Glasgow (Greenock)",
+        "Belfast",
+        "Dublin",
+        "Southampton"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Combines Iceland's natural wonders with Celtic capitals"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Regal Princess",
+      "capacity": 3560,
+      "year": 2014,
+      "best_for": "Couples & multigenerational groups",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Sky Princess",
+      "capacity": 3660,
+      "year": 2019,
+      "best_for": "Tech-forward travellers seeking MedallionClass convenience",
+      "price_from_eur": 949
+    },
+    {
+      "name": "Island Princess",
+      "capacity": 2216,
+      "year": 2003,
+      "best_for": "Intimate port access and Panama Canal veterans",
+      "price_from_eur": 1099
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "All main dining room meals",
+    "Buffet dining",
+    "Basic beverages (tea, coffee, water, juice)",
+    "Entertainment and live shows",
+    "Fitness centre access",
+    "Kids' club programming",
+    "Medallion device and app features",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Premier beverage packages (EUR 59/day)",
+    "Specialty dining (EUR 29-49/person)",
+    "Shore excursions (EUR 79-299)",
+    "WiFi packages (EUR 9.99/day)",
+    "Spa treatments",
+    "Laundry services",
+    "Gratuities (EUR 16-18/day recommended)",
+    "Photography",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for Edinburgh Military Tattoo sailings; 6-9 months for peak summer; last-minute deals emerge 60-90 days out for shoulder season but cabin selection limited",
+  "top_ports": [
+    {
+      "port": "Edinburgh (South Queensferry)",
+      "time_in_port": "7am-7pm (overnight on select)",
+      "top_activity": "Royal Yacht Britannia & Edinburgh Castle (EUR 129)",
+      "tip": "Tender port—book early dining to avoid queues"
+    },
+    {
+      "port": "Dublin",
+      "time_in_port": "8am-10pm (overnight)",
+      "top_activity": "Guinness Storehouse & Trinity College Book of Kells (EUR 89)",
+      "tip": "Walkable from dock; skip ship transfer"
+    },
+    {
+      "port": "Glasgow (Greenock)",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Loch Lomond & Stirling Castle (EUR 119)",
+      "tip": "Train to Glasgow Central runs every 30 minutes"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Giant's Causeway & Titanic Belfast (EUR 149)",
+      "tip": "Black taxi political murals tour books fast"
+    },
+    {
+      "port": "Liverpool",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Beatles Story & Cavern Club (EUR 79)",
+      "tip": "Albert Dock Beatles statues 10-minute walk"
+    },
+    {
+      "port": "Cork (Cobh)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Blarney Castle & Cork food tour (EUR 109)",
+      "tip": "Last port of call for Titanic—Titanic Experience excellent"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises British Isles cruise cost?",
+      "answer": "Princess Cruises British Isles voyages range from EUR 899 for shoulder-season 7-night inside cabins to EUR 3,599 for Edinburgh Military Tattoo suite accommodations. Balcony cabins, essential for scenic Scottish cruising, typically run EUR 1,399-2,299. Solo travellers face 150-200% supplements though occasional reduced-single promotions emerge. Third/fourth berths in family cabins add EUR 399-599. Shore excursion packages average EUR 599-899 for comprehensive port coverage. Beverage packages at EUR 59 daily and WiFi at EUR 9.99 daily significantly impact total spend. Early booking incentives frequently include onboard credit up to EUR 300 and free gratuities."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to British Isles?",
+      "answer": "Princess deploys Regal Princess, Sky Princess, and Island Princess for British Isles 2026. Regal Princess and Sky Princess are Royal-class vessels carrying 3,560-3,660 passengers with extensive balcony inventory critical for scenic cruising. Both feature MedallionClass technology for touchless embarkation and personalised service. Island Princess, smaller at 2,216 passengers, offers intimate port access and longer heritage itineraries. Crown Princess occasionally substitutes on repositioning voyages. No Discovery-class ships operate this route due to draft restrictions at South Queensferry. Ship assignments rotate seasonally with Regal Princess handling peak summer Tattoo sailings."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "May through August delivers optimal British Isles cruising with 15-20°C temperatures and extended daylight until 10pm in June. July offers warmest seas for outdoor deck enjoyment, though Edinburgh Festival crowds peak. August specifically provides Military Tattoo access—book 12 months ahead. June's rhododendron blooms in Scottish gardens and wildflower meadows prove spectacular. September shoulder season brings harvest festivals, lower prices, and reduced crowds despite 30% rain probability. April and October suit budget travellers accepting 10-14°C temperatures and rougher seas. Avoid November-March when daylight restricts to 7 hours and storms disrupt tender ports."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess British Isles fares encompass accommodation, all main dining room meals including traditional afternoon tea, buffet dining, and select casual venues. Basic beverages—filtered coffee, tea, water, and juice—are complimentary. Entertainment spans production shows, live music, lectures, and deck parties. Fitness centre access, sports courts, and supervised kids' programming (ages 3-17) incur no extra charge. MedallionClass technology including wearable device and app features streamlines boarding and onboard purchases. Port taxes and fees are included in advertised prices. Not covered: alcoholic beverages, specialty dining, shore excursions, WiFi, spa services, laundry, and gratuities which add EUR 16-18 daily per person."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess British Isles itineraries feature Southampton or Dover embarkation with calls at Edinburgh (South Queensferry tender port), Glasgow (Greenock), Invergordon for Highland access, and Belfast in Northern Ireland. Irish Republic ports include Dublin with overnight stays and Cork (Cobh), Titanic's final departure point. Liverpool offers Beatles heritage while Guernsey and Jersey provide Channel Island flavour. French extensions add Le Havre for Paris and Honfleur. Iceland-combined voyages reach Reykjavik, Akureyri, and Isafjordur. Scottish Isles variations include Orkney's Kirkwall and Shetland's Lerwick. Tender operations at South Queensferry and Guernsey require advance planning—priority tender access available for suite guests and elite Captain's Circle members."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Edinburgh Military Tattoo sailings 12-14 months prior when inventory releases; these August departures sell out rapidly. Standard peak summer (June-August) requires 9-12 month advance booking for balcony cabin selection, particularly on Regal Princess. Shoulder season (May, September) bookings prove viable 6-9 months ahead with occasional promotional pricing. Last-minute deals emerge 60-90 days before sailing for flexible travellers accepting interior cabins and limited dining times. Solo travellers should book earliest due to restricted single-occupancy inventory. Group bookings (8+ cabins) require 12-month advance deposits with flexible final payment terms. Cruise-only fares release before air-inclusive packages by 30-60 days."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess British Isles sailings suit families with children 8+ capable of appreciating historical and cultural content. Discovery at SEA programming partners with Discovery and Animal Planet for educational shore excursions—Giant's Causeway geology walks and marine wildlife spotting resonate particularly. Kids' clubs divide ages 3-7, 8-12, and 13-17 with British Isles-themed activities. Family suites accommodate four with connecting balcony cabins available. Pool areas lack waterslides found on competitors; enrichment focus may underwhelm younger children. Teen programming includes exclusive Remix lounge. Evening entertainment suits multigenerational groups with production shows and live music. Family shore excursion discounts apply for third/fourth passengers. Consider 7-night options for first family cruises before committing to 12-14 night voyages."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises applies standard cancellation tiers: full refund minus deposit for cancellations 90+ days before sailing; 50% fare loss 89-75 days; 75% loss 74-61 days; 100% forfeiture within 60 days. Deposit requirements run EUR 250-500 per person depending on voyage length and cabin category. Princess Vacation Protection insurance, approximately 8% of fare, enables cancellation for any reason with future cruise credit minus administrative fee. Medical cancellation with documentation receives full refund including air add-ons. Name changes incur EUR 50 fee per person. COVID-19 protocols eliminated; standard medical cancellation applies for positive tests. Rebooking to alternative sailing within 30 days of cancellation waives penalties if new voyage departs within 12 months."
+    }
+  ]
+}

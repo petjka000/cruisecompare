@@ -1,0 +1,200 @@
+{
+  "title": "Princess Cruises Canary Islands Cruises 2026",
+  "intro": "Princess Cruises brings its signature 'Come Back New' philosophy to the sun-drenched Canary Islands, offering sophisticated voyages that blend relaxation with cultural discovery. As a destination specialist, Princess has crafted itineraries showcasing Tenerife's volcanic landscapes, Gran Canaria's diverse ecosystems, and Lanzarote's otherworldly Timanfaya National Park. The line's MedallionClass technology enhances your journey with seamless boarding, contactless payments, and personalized service. Onboard, you'll find the enrichment-focused programming that distinguishes Princess—local wine tastings featuring Canarian malvasía, destination lectures on indigenous Guanche culture, and regional cuisine nights. The Canary Islands' year-round spring climate makes this an ideal winter escape, with Princess positioning its most refined vessels for these Atlantic crossings. Whether you choose a dedicated Canary Islands sailing or a broader Mediterranean-Atlantic itinerary, expect elegant staterooms, the Sanctuary adults-only retreat, and Movies Under the Stars on deck as you sail between these Spanish archipelago gems.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Sky Princess",
+      "Enchanted Princess"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Winter Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Shoulder (Mar-Apr, Nov)",
+      "inside_eur": 749,
+      "balcony_eur": 1149,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Low (May-Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Canary Islands Getaway",
+      "duration_nights": 11,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Southampton"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Round-trip from UK with three full days in the Canaries"
+    },
+    {
+      "name": "Mediterranean & Canary Islands",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Cádiz",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Funchal",
+        "Lisbon",
+        "Barcelona"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Comprehensive Atlantic islands exploration with Iberian highlights"
+    },
+    {
+      "name": "Canary Islands & Madeira",
+      "duration_nights": 9,
+      "ports": [
+        "Southampton",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Southampton"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Perfect introduction to Macaronesian archipelagos"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Sky Princess",
+      "capacity": 3660,
+      "year": 2019,
+      "best_for": "Couples & multi-generational families",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Enchanted Princess",
+      "capacity": 3660,
+      "year": 2020,
+      "best_for": "Luxury seekers & culinary enthusiasts",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Regal Princess",
+      "capacity": 3560,
+      "year": 2014,
+      "best_for": "First-time cruisers",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Accommodation in stateroom of choice",
+    "All main dining room meals & buffet",
+    "Traditional afternoon tea",
+    "Poolside snacks & soft-serve ice cream",
+    "Broadway-style production shows & live music",
+    "Movies Under the Stars outdoor cinema",
+    "Fitness center & most fitness classes",
+    "Port-to-port transportation",
+    "Youth & teen programming",
+    "MedallionClass wearable device"
+  ],
+  "whats_extra": [
+    "Beverage packages & individual drinks (€7-14 cocktails)",
+    "Specialty dining (€29-49 per person)",
+    "Shore excursions (€59-189)",
+    "WiFi packages (€14.99/day when pre-purchased)",
+    "Spa treatments & salon services",
+    "Laundry & dry cleaning",
+    "Airport transfers",
+    "Gratuities (€14.50/person/day standard)",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and Princess Early Booking Savings; monitor Wave Season (January-March) for reduced deposits and onboard credits; balcony staterooms offer exceptional value on sea days between islands; consider repositioning cruises in November for lowest per-night rates.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Mount Teide National Park excursion (€89)",
+      "tip": "Pre-book cable car tickets—frequently sells out"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Maspalomas dunes & Vegueta old town (€69)",
+      "tip": "Walkable city center—no need for shuttle if mobile"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Timanfaya National Park & Jameos del Agua (€109)",
+      "tip": "Short port time—ship excursions recommended for full coverage"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan ride & botanical gardens (€59)",
+      "tip": "Cable car station is 15-minute walk—taxi if time-limited"
+    },
+    {
+      "port": "Cádiz, Spain",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Jerez sherry bodega tour (€79)",
+      "tip": "Compact historic center easily explored independently"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Canary Islands cruise cost?",
+      "answer": "Princess Cruises Canary Islands voyages typically range from €699 to €2,199 per person for cruise-only fares. Inside staterooms start around €699-899, balcony cabins—highly recommended for scenic Atlantic sailing—run €999-1,399, while suites begin at €1,599. Peak winter months (December-February) command premium pricing due to demand from British and European guests escaping cold weather. Repositioning cruises in November offer exceptional value at €80-100 per night. Total vacation cost should include gratuities (€14.50/person/day), beverage packages (€55-65/day), and excursions (€500-800 for comprehensive port coverage). Princess frequently runs promotions including free gratuities, onboard credits up to €300, and reduced deposits during Wave Season."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Canary Islands?",
+      "answer": "Princess deploys its Royal-class vessels for Canary Islands service, primarily Sky Princess (2019) and Enchanted Princess (2020), with occasional appearances by Regal Princess. These 3,600-guest ships feature Princess's latest innovations including the Sky Suites with largest balconies at sea, Take Five jazz lounge, and enhanced Sanctuary adults-only retreat. The MedallionClass experience—wearable technology for seamless service—is standard across this fleet. For 2026, expect Sky Princess on Southampton round-trips and Enchanted Princess on Barcelona departures. These ships offer 80% balcony staterooms, ideal for Canary Islands' volcanic coastline viewing. Smaller vessels like Island Princess occasionally handle winter repositioning through the archipelago."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "December through February represents peak season, when temperatures hover at pleasant 20-22°C while Northern Europe freezes—explaining why Princess positions significant capacity here. This period offers ideal conditions for hiking Mount Teide and exploring Lanzarote's volcanic terrain without summer intensity. March-April and November provide excellent value with mild weather and fewer crowds; seas remain calm for Atlantic crossing. May-October sees minimal Princess deployment as ships reposition to Mediterranean and Northern Europe—though Canary Islands weather remains pleasant year-round, the archipelago's subtropical climate means minimal seasonal variation. Hurricane-risk months (September-October) actually favor eastern Atlantic routes. Book January-February 12+ months ahead for best selection."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Cruises includes accommodations, all main dining room meals, buffet dining, traditional afternoon tea, poolside snacks, and soft-serve ice cream. Entertainment encompasses Broadway-style production shows in the Princess Theater, live music throughout venues, Movies Under the Stars outdoor cinema, and enrichment lectures including destination-specific programming on Canarian history and ecology. Fitness center access, most exercise classes, and youth programming for ages 3-17 are complimentary. The MedallionClass wearable device enables keyless stateroom entry, contactless payments, and ocean-ready ordering. Notable exclusions: beverages beyond basic coffee/tea/juice, specialty restaurants, shore excursions, WiFi, and gratuities. Princess Plus and Princess Premier packages bundle popular extras at 40-60% savings versus à la carte pricing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess Canary Islands itineraries typically feature Santa Cruz de Tenerife, the archipelago's capital with access to Spain's highest peak Mount Teide; Las Palmas on Gran Canaria, offering diverse landscapes from Maspalomas dunes to verdant interior; and Arrecife on Lanzarote, gateway to Timanfaya's volcanic moonscapes. Most sailings include Funchal, Madeira—technically Portuguese but culturally aligned—with its famous toboggan rides and wine heritage. Southampton round-trips add no additional foreign ports, while Barcelona departures incorporate Cádiz, Lisbon, or Mediterranean stops. Some 14-night voyages reach Agadir, Morocco for a North African cultural contrast. Princess schedules 8-10 hours in each Canary port, sufficient for comprehensive exploration, with overnight options rare on these routes."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For optimal stateroom selection and pricing on Princess Canary Islands cruises, book 9-12 months in advance. Winter 2026 sailings—peak demand period—should be secured by March 2025. Princess releases itineraries approximately 18 months ahead, with best fares typically appearing at launch or during Wave Season (January-March) when the line offers reduced deposits, free gratuities, and onboard credits. Last-minute deals under €600 occasionally surface 60-90 days before sailing for flexible travelers, though balcony and suite categories rarely discount significantly. Group bookings (8+ staterooms) benefit from dedicated rates and amenities when secured 12+ months out. Consider booking air and hotel through Princess for price protection and transfer coordination."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Cruises offers solid family programming though positions itself more toward couples and multi-generational groups than pure family focus. The Camp Discovery youth program engages ages 3-17 with science, arts, and destination-inspired activities—Teen Center provides dedicated space for older kids. Family-friendly features include Movies Under the Stars, pools with ample deck space, and flexible dining. However, Canary Islands itineraries skew older demographically given positioning as winter escape for British/European retirees. Sea days between Southampton and first port (2-3 days) require planning for children's entertainment. Family suites and connecting staterooms book quickly; reserve early. Shore excursions in Tenerife and Gran Canaria offer family-appropriate hiking and beach options, though volcanic terrain may challenge younger children."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises employs a tiered cancellation structure: full refund minus deposit for cancellations 181+ days before sailing; deposit forfeiture at 180-91 days; 25% penalty at 90-61 days; 50% at 60-31 days; 75% at 30-15 days; and 100% forfeiture under 15 days. For 2026 bookings, consider Princess Vacation Protection—cancel for any reason coverage returning 75% future cruise credit or 100% cash with qualifying reasons. Standard travel insurance is recommended given medical evacuation costs from Atlantic islands. COVID-19 protocols have stabilized but Princess reserves right to modify policies; review current terms at booking. Name changes incur €50 fee per person. Rebooking to different sailing typically triggers current pricing rather than protected fare."
+    }
+  ]
+}

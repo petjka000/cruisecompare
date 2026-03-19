@@ -1,0 +1,265 @@
+{
+  "title": "Princess Cruises Alaska Cruises 2026",
+  "intro": "Princess Cruises has been sailing Alaska waters since 1969, earning its reputation as the destination's premier cruise line with more Gulf of Alaska itineraries than any competitor. The line's exclusive \"North to Alaska\" program brings authentic local experiences aboard, from fresh crab feasts with Bering Sea fishermen to lumberjack competitions and regional culinary demonstrations. Princess operates the only cruise-owned wilderness lodges near Denali National Park, enabling seamless land-sea combinations. Their ships feature the largest open-deck viewing areas in the fleet, purpose-built for glacier watching and wildlife spotting. With dedicated naturalists, Alaska-themed enrichment programming, and partnerships with Discovery and Animal Planet, Princess delivers immersive education alongside spectacular scenery. The line's extensive rail and motorcoach network connects cruisers to interior destinations including Fairbanks and the Yukon Territory.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Discovery Princess",
+      "Royal Princess",
+      "Crown Princess",
+      "Grand Princess",
+      "Sapphire Princess",
+      "Ruby Princess"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Vancouver",
+      "Whittier",
+      "San Francisco",
+      "Los Angeles"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 849,
+      "balcony_eur": 1249,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Late August Value",
+      "inside_eur": 999,
+      "balcony_eur": 1449,
+      "suite_eur": 2399
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Voyage of the Glaciers Northbound",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay National Park",
+        "College Fjord",
+        "Whittier"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Two glacier viewing days including UNESCO-listed Glacier Bay"
+    },
+    {
+      "name": "Inside Passage Roundtrip Seattle",
+      "duration_nights": 7,
+      "ports": [
+        "Seattle",
+        "Ketchikan",
+        "Endicott Arm & Dawes Glacier",
+        "Juneau",
+        "Skagway",
+        "Victoria",
+        "Seattle"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Convenient domestic departure with Victoria British charm"
+    },
+    {
+      "name": "Denali Explorer Land & Sea",
+      "duration_nights": 11,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "College Fjord",
+        "Whittier",
+        "Denali",
+        "Fairbanks"
+      ],
+      "price_from_eur": 2149,
+      "highlight": "Includes 2-4 nights at Princess Wilderness Lodges with rail travel"
+    },
+    {
+      "name": "Great Alaskan Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "San Francisco",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "College Fjord",
+        "Whittier",
+        "Hubbard Glacier",
+        "Icy Strait Point",
+        "Sitka",
+        "Victoria",
+        "San Francisco"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Roundtrip California with Hubbard Glacier and remote Sitka"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Discovery Princess",
+      "capacity": 3660,
+      "year": 2022,
+      "best_for": "Modern luxury seekers and balcony enthusiasts",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Royal Princess",
+      "capacity": 3560,
+      "year": 2013,
+      "best_for": "Adults and couples wanting spacious atrium design",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Crown Princess",
+      "capacity": 3080,
+      "year": 2006,
+      "best_for": "Multi-generational families and traditional cruisers",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Grand Princess",
+      "capacity": 2602,
+      "year": 1998,
+      "best_for": "Budget-conscious travelers and San Francisco departures",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Sapphire Princess",
+      "capacity": 2670,
+      "year": 2004,
+      "best_for": "Intimate ship experience with excellent service ratios",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Ruby Princess",
+      "capacity": 3080,
+      "year": 2008,
+      "best_for": "Entertainment-focused travelers and movie-under-the-stars fans",
+      "price_from_eur": 949
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room and buffet meals",
+    "24-hour room service",
+    "Live theater productions and entertainment",
+    "Discovery at SEA naturalist programs",
+    "Fitness center and sports court access",
+    "Youth and teen programs (ages 3-17)",
+    "Port taxes and government fees",
+    "Evening deck parties and themed events"
+  ],
+  "whats_extra": [
+    "Beverage packages and individual drinks",
+    "Shore excursions and flightseeing tours",
+    "Specialty dining restaurants ($29-45 per person)",
+    "WiFi packages ($14.99-24.99 per day)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Photography packages",
+    "Onboard shopping and casino",
+    "Crew gratuities (suggested $16 per person per day)",
+    "Princess Medallion accessory upgrades"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for best cabin selection and lowest fares; balcony stateroms sell out first for glacier viewing. Wave season (January-March) offers the strongest promotions including free gratuities, onboard credit, and beverage packages. Alaska cruisetours with land components require 12+ months advance booking for lodge availability. Consider repositioning cruises in April/May or September for 30-40% savings. Group rates available for 16+ passengers. Captain's Circle past guests receive early access to new itineraries and exclusive member fares.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "8am-8pm",
+      "top_activity": "Mendenhall Glacier helicopter trek (€449)",
+      "tip": "Book morning helicopter tours; afternoon weather more unpredictable"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-8:30pm",
+      "top_activity": "White Pass & Yukon Route railway (€189)",
+      "tip": "Scenic rail journeys sell out; reserve before boarding"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "6am-2pm or 10am-6pm",
+      "top_activity": "Misty Fjords seaplane flight (€299)",
+      "tip": "Early port times favor morning excursions; Creek Street walkable from pier"
+    },
+    {
+      "port": "Glacier Bay National Park",
+      "time_in_port": "Scenic cruising 6-8 hours",
+      "top_activity": "Park ranger narration and Margerie Glacier viewing (included)",
+      "tip": "Position on forward open decks early; wildlife most active dawn/dusk"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "6am-3pm or 12pm-8pm",
+      "top_activity": "ZipRider world's largest zip line (€189)",
+      "tip": "Tender port with limited capacity; book excursions for guaranteed priority tender"
+    },
+    {
+      "port": "Victoria BC",
+      "time_in_port": "7pm-11:30pm or overnight",
+      "top_activity": "Butchart Gardens evening illumination (€89)",
+      "tip": "Late arrival favors dinner ashore; inner harbor 30-minute walk from pier"
+    },
+    {
+      "port": "Endicott Arm/Dawes Glacier",
+      "time_in_port": "Scenic cruising 4-5 hours",
+      "top_activity": "Close approach to calving tidewater glacier (included)",
+      "tip": "Port side typically offers best Dawes Glacier views on northbound itineraries"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Alaska cruise cost?",
+      "answer": "Princess Cruises Alaska voyages range from €849 for interior staterooms on older ships during shoulder season to €4,500+ for suite accommodations with land packages in peak summer. A typical 7-night balcony cabin averages €1,400-1,800 in June-August. Cruisetours combining 7-night sailing with 3-6 nights at Denali-area wilderness lodges start at €2,149. Prices fluctuate significantly by booking window, with early reservations and wave season promotions offering savings of €200-400 per person. Solo travelers face 150-200% single supplements unless booking studio cabins on select ships."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Alaska?",
+      "answer": "Princess deploys six vessels to Alaska in 2026, led by the 2022-built Discovery Princess and 2013 Royal Princess offering the most modern amenities and highest balcony ratios. Crown Princess and Ruby Princess provide mid-size options with traditional Princess ambiance, while Grand Princess operates exclusive roundtrip San Francisco itineraries. Sapphire Princess offers a more intimate experience with exceptional crew-to-guest ratios. All ships feature expanded open deck space for glacier viewing, Discovery at SEA naturalist programs, and MedallionClass wearable technology for seamless boarding and service. Ship selection impacts pricing by €150-300 for comparable categories."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "Peak season runs June through August when temperatures reach 15-20°C, wildlife is most active, and all attractions operate fully. June offers the longest daylight hours (18+ hours) and driest conditions; July brings peak salmon runs attracting bears; August showcases peak wildflower blooms and best whale watching. May and September provide 20-30% savings with fewer crowds, though some high-elevation hiking remains snow-covered in May, and September brings increased rainfall and earlier darkness. September's advantage includes northern lights possibilities on northern itineraries. Glacier viewing remains spectacular throughout the season as ice calving is year-round."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Alaska cruises include accommodation, all main dining and buffet meals, 24-hour room service, live entertainment including production shows and musical acts, Discovery at SEA naturalist programming with park rangers and wildlife experts, supervised youth programs for ages 3-17, fitness center access, and port taxes. MedallionClass technology enables touchless boarding, cabin entry, and on-demand service. Unique to Alaska sailings are included glacier viewing days in Glacier Bay or College Fjord with National Park Service narration. Not included are beverages beyond basic coffee/tea/juice, specialty dining, WiFi, shore excursions, crew gratuities, and spa services. Beverage packages and WiFi bundles offer savings over à la carte pricing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess visits cornerstone Southeast Alaska ports including Juneau (state capital with Mendenhall Glacier access), Skagway (Gold Rush history and White Pass railway), and Ketchikan (Tlingit culture and Misty Fjords). Glacier Bay National Park and College Fjord provide full-day scenic cruising with ranger narration. Icy Strait Point offers Hoonah Native village experiences and adventure activities. Sitka appears on select itineraries with Russian heritage and sea otter viewing. Victoria BC provides British colonial charm. Voyage of the Glaciers itineraries connect Vancouver to Whittier (Anchorage access), while roundtrip Seattle or San Francisco options maximize convenience for US travelers. Cruisetours extend to Denali National Park, Fairbanks, and the Yukon Territory via Princess-owned wilderness lodges."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Alaska cruises 9-14 months in advance for optimal stateroom selection, particularly balcony cabins facing glaciers on port or starboard sides. Cruisetours with limited lodge inventory require 12-18 months booking for peak summer dates. Wave season (January-March) historically offers strongest promotions including free gratuities, onboard credit, and beverage packages, though inventory may be reduced for popular dates. Last-minute deals emerge 60-90 days before sailing for flexible travelers, primarily on shoulder season departures. Group bookings (16+ guests) should plan 12+ months ahead for coordinated dining and excursion arrangements. Captain's Circle past guests receive priority booking windows and exclusive fares 12+ months before general public release."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Alaska cruises suit families with children ages 6+ who can appreciate wildlife and glacier experiences, though the line primarily targets adults and mature travelers compared to competitors. Youth programs (ages 3-17) operate sea days and port mornings with Alaska-themed activities including junior ranger programs and wildlife tracking. Family-friendly shore excursions include dog sledding demonstrations, gold panning, and wildlife cruises. Stateroom configurations accommodate families with connecting rooms and quad-occupancy options, though family suites are limited compared to dedicated family lines. The educational Discovery at SEA programming engages multi-generational groups. Evening entertainment and dining pace suit families with earlier bedtimes. Families with young children (under 5) may find limited dedicated programming and excursion restrictions challenging."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises applies a tiered cancellation structure: full refund minus deposit for cancellations 120+ days before sailing; loss of deposit (typically €200-400 per person) for cancellations 119-90 days out; 25% penalty 89-60 days; 50% penalty 59-30 days; 75% penalty 29-15 days; and 100% forfeiture within 14 days of departure. Cruisetours with land components incur additional restrictions and earlier penalty phases. Princess Vacation Protection plans, available for purchase within 14 days of initial deposit, provide cancellation for any reason credit up to 75% of non-refundable amounts, plus medical and evacuation coverage. COVID-19 flexible booking policies have largely sunset, though specific health-related cancellations may be reviewed case-by-case. All passengers should consider comprehensive travel insurance given Alaska's remote medical facilities and excursion investment levels."
+    }
+  ]
+}

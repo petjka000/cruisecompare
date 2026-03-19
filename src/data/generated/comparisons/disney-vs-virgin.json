@@ -1,0 +1,136 @@
+{
+  "title": "Disney Cruise Line vs Virgin Voyages 2026",
+  "intro": "Disney Cruise Line and Virgin Voyages represent two radically different philosophies at sea. Disney delivers polished family entertainment with beloved characters, Broadway-calibre shows and structured deck parties across its expanding fleet of seven ships. Virgin Voyages, launched in 2021, targets adults exclusively with a rebellious, festival-inspired atmosphere, tattoo parlours and no buffets. Both position in the premium-mid market but serve entirely different demographics. Disney prioritises multigenerational cruising with extensive kids' clubs and nursery facilities. Virgin eliminates children entirely, focusing on wellness, nightlife and culinary innovation. Your choice depends entirely on whether you seek nostalgic family magic or contemporary adult escapism.",
+  "at_a_glance": {
+    "disney": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 1899
+    },
+    "virgin": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 1499
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "disney": "€1,899",
+      "virgin": "€1,499"
+    },
+    {
+      "category": "Gratuities (per person/day)",
+      "disney": "€15.50",
+      "virgin": "€0 (included)"
+    },
+    {
+      "category": "Wi-Fi (basic)",
+      "disney": "€18/day",
+      "virgin": "Included"
+    },
+    {
+      "category": "Specialty dining",
+      "disney": "€35-75/cover",
+      "virgin": "All included"
+    },
+    {
+      "category": "Alcoholic drinks",
+      "disney": "€8-16/cocktail",
+      "virgin": "€11-15/cocktail"
+    },
+    {
+      "category": "Soda package",
+      "disney": "€12/day",
+      "virgin": "Included"
+    },
+    {
+      "category": "Age restriction",
+      "disney": "All ages",
+      "virgin": "18+ only"
+    },
+    {
+      "category": "Ship capacity",
+      "disney": "2,500-6,000",
+      "virgin": "2,770"
+    },
+    {
+      "category": "Entertainment style",
+      "disney": "Character meets, musicals",
+      "virgin": "DJ sets, immersive theatre"
+    },
+    {
+      "category": "Dress code",
+      "disney": "Resort casual",
+      "virgin": "No formal nights, casual"
+    }
+  ],
+  "choose_a_if": [
+    "You travel with children or multigenerational groups requiring dedicated kids' facilities and childcare",
+    "You value character interactions, Disney IP, and wish to combine cruise with theme park visits",
+    "You prefer structured entertainment schedules with deck parties, fireworks and Broadway-style productions",
+    "You want rotational dining with assigned servers who learn your preferences throughout the voyage"
+  ],
+  "choose_b_if": [
+    "You are adults seeking child-free environment with contemporary design and nightlife focus",
+    "You prefer inclusive pricing covering gratuities, Wi-Fi, dining and basic beverages without surprise charges",
+    "You want flexible dining with 20+ restaurants and no set mealtimes or formal dress requirements",
+    "You prioritise wellness programming, fitness classes and spa-forward experiences over traditional cruise activities"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with children under 12",
+      "winner": "Disney Cruise Line",
+      "reason": "Oceaneer Club and Edge offer complimentary supervised programming from 6 months to 17 years, plus character dining and nursery services unavailable elsewhere."
+    },
+    {
+      "type": "Couples without children",
+      "winner": "Virgin Voyages",
+      "reason": "Adult-only environment eliminates family cruise chaos; inclusive pricing and sophisticated dining create superior value for two-person travel."
+    },
+    {
+      "type": "Multigenerational groups",
+      "winner": "Disney Cruise Line",
+      "reason": "Broad age appeal from toddlers to grandparents with separate spaces ensuring all generations find appropriate activities and companionship."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Virgin Voyages",
+      "reason": "Studio cabins without single supplements, dedicated solo traveller meetups and social programming designed for independent adult exploration."
+    },
+    {
+      "type": "Food-focused travellers",
+      "winner": "Virgin Voyages",
+      "reason": "Test Kitchen's experimental cuisine, 20+ included restaurants and elimination of buffets demonstrate superior culinary ambition and execution."
+    },
+    {
+      "type": "Disney enthusiasts",
+      "winner": "Disney Cruise Line",
+      "reason": "Marvel Day at Sea, Pixar experiences and exclusive island Castaway Cay deliver IP immersion impossible to replicate elsewhere."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Virgin Voyages typically offers superior base value when comparing equivalent cabin categories. Their fare includes gratuities, basic Wi-Fi, all specialty dining, soft drinks and fitness classes—extras that add €400-600 per person on Disney. However, Disney's included entertainment quality and kids' programming justify premium pricing for families. Adult couples comparing seven-night Caribbean sailings often find Virgin 20-30% cheaper total cost when accounting for onboard spending. Disney rewards early booking and Florida resident discounts; Virgin frequently runs promotional sailor loot credits. Calculate your anticipated extras carefully before comparing headline fares."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Disney Cruise Line dominates family cruising through intentional design. Their ships feature nursery care for infants 6 months+, Oceaneer Club with Marvel and Frozen themed spaces for ages 3-12, Edge tween lounge and Vibe teen club—all complimentary and professionally staffed. Character meet-and-greets require no additional payment. Rotational dining ensures children experience varied restaurants with familiar servers. Virgin Voyages prohibits all guests under 18, making Disney the automatic and only choice for family travel. Disney's private island Castaway Cay offers dedicated family beaches and supervised youth programming extending shoreside."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Disney commands 25-40% higher base fares than Virgin for comparable itineraries and cabin grades. A seven-night Caribbean inside cabin averages €1,899 on Disney versus €1,499 on Virgin. However, Virgin's inclusive model narrows this gap significantly. Adding Disney's gratuities (€108), basic Wi-Fi (€126), two specialty dinners (€140) and soda package (€84) brings true Disney cost to approximately €2,357. Virgin's equivalent total remains €1,499. Disney rarely discounts; Virgin employs dynamic pricing with frequent promotions. Interior cabins on Disney's older ships (Magic, Wonder) occasionally approach Virgin pricing during shoulder season."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Virgin Voyages wins on culinary innovation and variety. Their 20+ restaurants include Korean barbecue, experimental Test Kitchen, Mexican street food and upscale steakhouse—all included. No buffets, no main dining room, no set seating. Disney offers solid if conventional cruise dining: three rotational main restaurants, buffet and premium Palo/Enchanté requiring supplements. Disney's food satisfies broadly without surprising; Virgin takes risks with mixed results but higher ceiling. Disney excels at family-friendly options and dietary accommodation; Virgin targets adventurous palates. For pure food quality, Virgin's chef partnerships and ingredient sourcing generally surpass Disney's operational consistency focus."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Disney Cruise Line better introduces cruise fundamentals through structure and clarity. Assigned dining rotations, consistent stateroom service and intuitive ship layouts reduce decision fatigue. First-timers appreciate Disney's thorough documentation and shore excursion organisation. However, Virgin Voyages eliminates cruise confusion through radical simplification: no dress codes, no gratuity math, no dining reservations required, no photography sales pressure. Their app-centric experience suits digitally native travellers. Nervous first-timers seeking familiar cruise traditions prefer Disney; confident travellers wanting reimagined experience choose Virgin. Disney's higher service recovery standards provide safety net when expectations mismatch reality."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Age policy fundamentally separates them: Disney welcomes all ages with infrastructure supporting infants through seniors; Virgin enforces strict 18-plus policy. Entertainment philosophies diverge dramatically—Disney offers polished, family-appropriate productions with intellectual property integration; Virgin presents edgy, participatory experiences including drag performances and late-night DJ programming. Pricing structures differ: Disney follows traditional à la carte model with numerous add-ons; Virgin pursues inclusive pricing transparency. Service culture contrasts—Disney emphasises anticipatory, formal hospitality; Virgin cultivates casual, peer-to-peer interaction. Ship design reflects these priorities: Disney's vessels incorporate nautical tradition and Disney theming; Virgin's Scarlet Lady and sisters showcase contemporary yacht-inspired aesthetics with Richard Branson's irreverent branding throughout."
+    }
+  ]
+}

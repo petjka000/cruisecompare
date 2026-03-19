@@ -1,0 +1,220 @@
+{
+  "title": "Oceania Cruises Adriatic Cruises 2026",
+  "intro": "Oceania Cruises elevates Adriatic exploration through its acclaimed small-ship luxury experience, where culinary excellence meets intimate destination immersion. The Italian-built fleet navigates narrow Venetian canals and Kotor Bay where larger vessels cannot venture, delivering passengers directly to UNESCO World Heritage sites without tendering. The line's signature 'country club casual' atmosphere attracts discerning travelers seeking authentic cultural encounters over mass-market entertainment. Oceania's culinary program, curated under Executive Culinary Director Jacques Pépin, features regionally sourced ingredients from Adriatic markets, with hands-on cooking classes in La Cuisine. The 'Culinary Discovery Tours' program brings guests into local homes and family-run vineyards along the Dalmatian coast. With overnight stays in Venice, Dubrovnik, and Istanbul on select itineraries, Oceania maximizes exploration time in ports where history layers upon itself from Roman, Venetian, and Ottoman eras.",
+  "quick_facts": {
+    "price_from_eur": 2499,
+    "duration_range": "10-24 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Marina",
+      "Riviera",
+      "Vista",
+      "Insignia"
+    ],
+    "departure_ports": [
+      "Venice",
+      "Rome",
+      "Athens",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 2499,
+      "balcony_eur": 3499,
+      "suite_eur": 5999
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 3299,
+      "balcony_eur": 4599,
+      "suite_eur": 7999
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 2899,
+      "balcony_eur": 3999,
+      "suite_eur": 6499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Venice to Athens",
+      "duration_nights": 10,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Katakolon",
+        "Santorini",
+        "Athens"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Overnight in Venice and extended evening in Dubrovnik"
+    },
+    {
+      "name": "12-night Adriatic & Greek Isles",
+      "duration_nights": 12,
+      "ports": [
+        "Rome",
+        "Amalfi",
+        "Sicily",
+        "Kotor",
+        "Dubrovnik",
+        "Split",
+        "Zadar",
+        "Venice"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Exclusive after-hours visit to St. Mark's Basilica"
+    },
+    {
+      "name": "24-night Grand Mediterranean",
+      "duration_nights": 24,
+      "ports": [
+        "Barcelona",
+        "Monte Carlo",
+        "Florence",
+        "Rome",
+        "Naples",
+        "Sicily",
+        "Dubrovnik",
+        "Kotor",
+        "Venice",
+        "Split",
+        "Athens",
+        "Santorini",
+        "Istanbul"
+      ],
+      "price_from_eur": 5999,
+      "highlight": "Three overnight stays including full day in Istanbul"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Culinary enthusiasts and cultural immersion",
+      "price_from_eur": 2499
+    },
+    {
+      "name": "Riviera",
+      "capacity": 1250,
+      "year": 2012,
+      "best_for": "Wine connoisseurs and food-focused travelers",
+      "price_from_eur": 2599
+    },
+    {
+      "name": "Vista",
+      "capacity": 1200,
+      "year": 2023,
+      "best_for": "Modern luxury seekers and suite guests",
+      "price_from_eur": 2999
+    },
+    {
+      "name": "Insignia",
+      "capacity": 684,
+      "year": 1998,
+      "refurbished": 2018,
+      "best_for": "Intimate yacht-like experience and repeat Oceania guests",
+      "price_from_eur": 2299
+    }
+  ],
+  "whats_included": [
+    "Unlimited internet",
+    "All specialty restaurants",
+    "Unlimited soft drinks and coffees",
+    "Room service 24/7",
+    "Shore excursion credit (EUR 800+ on select fares)",
+    "Airport transfers with OLife Choice",
+    "Laundry service on concierge and above",
+    "Enrichment lectures and destination seminars",
+    "Fitness classes and wellness programs"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages (beverage packages available from EUR 59/day)",
+    "Additional shore excursions beyond OLife credit",
+    "Spa treatments and salon services",
+    "Laundry on veranda and inside staterooms",
+    "Premium internet streaming",
+    "Private car and driver arrangements",
+    "Culinary Discovery Tours supplementary fee",
+    "Airfare (unless OLife Plus selected)"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for best cabin selection and OLife Choice benefits; wave season (January-March) offers strongest incentives including free beverage packages and excursion credits; solo travelers should target single-occupancy promotions released quarterly; past guests receive 5-10% loyalty discounts and early access to new itineraries",
+  "top_ports": [
+    {
+      "port": "Venice",
+      "time_in_port": "8am+ overnight",
+      "top_activity": "Private evening St. Mark's Basilica visit with after-hours access (EUR 189)",
+      "tip": "Request starboard cabin for Grand Canal approach views"
+    },
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "7am-8pm or overnight",
+      "top_activity": "Cable car to Mount Srđ with Lokrum Island extension (EUR 145)",
+      "tip": "Book early morning walking tour before cruise crowds arrive"
+    },
+    {
+      "port": "Kotor",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Hike city walls to San Giovanni fortress (EUR 89)",
+      "tip": "Ship docks inside UNESCO-protected bay—arrive on deck by 6am for scenic sailing"
+    },
+    {
+      "port": "Split",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Diocletian's Palace underground cellars and cooking class (EUR 165)",
+      "tip": "Riva waterfront promenade dining rivals ship restaurants for authenticity"
+    },
+    {
+      "port": "Corfu",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Paleokastritsa monastery and olive oil estate (EUR 129)",
+      "tip": "Short port time favors ship excursion over independent exploration"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Adriatic cruise cost?",
+      "answer": "Oceania Adriatic cruises range from EUR 2,299 to EUR 8,000+ per person for 10-24 night itineraries. Entry-level inside staterooms on older Insignia sailings start around EUR 2,299, while veranda cabins on newer Vista run EUR 3,500-4,500. Penthouse and Owner's Suites command EUR 6,000-12,000. The OLife Choice promotion significantly impacts value—selecting free airfare, free shore excursions, or beverage package rather than cruise-only fare. Solo travelers face 150-175% single supplement unless promotional reduced rates apply. Gratuities are included in fare unlike premium competitors."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Adriatic?",
+      "answer": "Oceania deploys four ships on Adriatic routes: Marina and Riviera, the 1,250-guest Oceania-class sisters with identical layouts and the acclaimed Jacques Pépin restaurants; Vista, the 2023-built flagship with all-veranda accommodations and enhanced suite categories; and Insignia, the intimate 684-guest R-class vessel offering yacht-like access to smaller ports like Zadar and Rovinj. Marina and Riviera dominate summer 2026 schedules with weekly Venice-Athens rotations. Vista operates longer Grand Mediterranean combinations. Insignia handles repositioning and holiday sailings with more port-intensive routing."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "May, June, September, and October deliver optimal Adriatic conditions with temperatures 20-28°C, stable seas, and manageable crowds. July-August brings intense heat exceeding 35°C in Dubrovnik and Venice, plus peak cruise congestion—though Oceania's smaller ships mitigate this. Spring sailings offer wildflower-covered Dalmatian islands and lower humidity; autumn brings grape harvests and truffle season in Istria. November-March sees limited Oceania deployment due to reduced demand and occasional Bora wind disruptions. The Venice acqua alta flooding season (October-November) rarely affects cruise operations but may limit independent exploration."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's value proposition centers on comprehensive inclusions: unlimited WiFi, all specialty dining at no surcharge (Jacques, Polo Grill, Toscana, Red Ginger), unlimited soft drinks, coffees, and bottled water, 24-hour room service, and gratuities. The OLife Choice promotion adds one of three options: roundtrip airfare, free shore excursions (one per port up to value), or House Select beverage package. Concierge Level and above includes laundry, priority reservations, and butler service on suites. What separates Oceania is culinary inclusion—no cover charges for specialty venues versus competitors charging EUR 50-100 per meal."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Adriatic deployment emphasizes marquee ports with extended stays: Venice with overnights allowing full-day exploration beyond cruise terminals; Dubrovnik with evening departures for sunset wall walks; Kotor with scenic sail-in through UNESCO Bay of Kotor; Split accessing Diocletian's Palace; and Corfu as Greek Ionian gateway. Secondary calls include Zadar for Sea Organ and Roman ruins, Rovinj for Istrian wine country, and Hvar for lavender-field hiking. The line avoids overcrowded commercial ports like Bari and Ancona. Select itineraries incorporate Montenegro's Budva or Albania's Sarandë for emerging destination cachet. Istanbul appears on eastern-extended routes."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Oceania releases itineraries 18-24 months in advance, with optimal booking window at 9-14 months prior to sailing for cabin selection and OLife Choice availability. Penthouse and Owner's Suites on Vista sell out 12+ months ahead for peak summer. Wave season (January-March) historically offers strongest promotions—2024 saw free air, beverage packages, and doubled shore excursion credits. Past guests receive early access and 5-10% loyalty discounts. Last-minute availability under 60 days rarely occurs on Adriatic routes given limited deployment. Solo travelers should monitor quarterly single-supplement promotions, typically 25-50% reduction rather than standard 175%."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania explicitly targets adults with no children's programming, minimum age policies, and facilities designed for mature travelers. The Adriatic itinerary appeals to multi-generational families with older teens or adult children interested in history, cuisine, and culture—though families with young children face constraints: no kids' clubs, limited connecting staterooms, formal dining expectations, and enrichment programming skewed toward 55+ demographics. Family groups occasionally book Oceania for milestone celebrations, leveraging private dining rooms and group shore excursions. For families prioritizing Adriatic exploration with children, competitors offer dedicated youth programming; Oceania suits empty-nesters or adult family reunions seeking shared culinary and cultural experiences without children's facilities compromise."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania's cancellation structure penalizes progressively closer to sailing: 180+ days prior incurs EUR 250 administrative fee; 179-120 days loses deposit (typically 20% of fare); 119-90 days forfeits 25% total; 89-60 days loses 50%; 59-31 days loses 75%; and 30 days or less retains full fare. Travel insurance through Oceania's preferred partners or independent carriers is strongly advised given significant deposit requirements. COVID-19 introduced temporary flexible policies since rescinded—standard terms now apply. Cancel For Any Reason upgrades through insurance provide 75% future cruise credit protection. Rebooking to alternative sailings within 12 months sometimes waives penalties at discretion of reservations management."
+    }
+  ]
+}

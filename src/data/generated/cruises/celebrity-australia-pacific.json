@@ -1,0 +1,204 @@
+{
+  "title": "Celebrity Cruises Australia & Pacific Cruises 2026",
+  "intro": "Celebrity Cruises elevates Australia & Pacific exploration with sophisticated, destination-immersive voyages aboard premium vessels. The cruise line's modern luxury philosophy transforms iconic itineraries—Great Barrier Reef expeditions, New Zealand fjord navigation, and South Pacific island hopping—into refined cultural experiences. Celebrity's Australia & Pacific program emphasizes extended port stays, overnight calls in Sydney and Auckland, and exclusive shore excursions ranging from Aboriginal heritage encounters to private vineyard tastings in Marlborough. The brand's distinctive Edge-class ships bring revolutionary design to the region, featuring the Magic Carpet platform and infinite veranda staterooms that maximize panoramic ocean views. Culinary excellence shines through regionally inspired menus crafted by Michelin-starred chefs, while the Retreat offers elevated exclusivity for discerning travelers. With repositioning cruises connecting Asia and North America via the Pacific, Celebrity delivers exceptional value on longer voyages. The line's partnership with local experts ensures authentic, sustainable tourism practices across fragile reef ecosystems and indigenous cultural sites.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "9-16 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Celebrity Edge",
+      "Celebrity Solstice",
+      "Celebrity Eclipse"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Auckland",
+      "Brisbane",
+      "Melbourne"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1699,
+      "balcony_eur": 2499,
+      "suite_eur": 4599
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 2199,
+      "balcony_eur": 3299,
+      "suite_eur": 5999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Australia & New Zealand",
+      "duration_nights": 12,
+      "ports": [
+        "Sydney",
+        "Melbourne",
+        "Milford Sound",
+        "Dunedin",
+        "Wellington",
+        "Napier",
+        "Tauranga",
+        "Auckland"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Overnight in Sydney with Milford Sound scenic cruising"
+    },
+    {
+      "name": "10-night Queensland & Great Barrier Reef",
+      "duration_nights": 10,
+      "ports": [
+        "Sydney",
+        "Brisbane",
+        "Airlie Beach",
+        "Cairns",
+        "Port Douglas",
+        "Willis Island",
+        "Sydney"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Extended reef time with exclusive marine biologist-led excursions"
+    },
+    {
+      "name": "14-night South Pacific Islands",
+      "duration_nights": 14,
+      "ports": [
+        "Auckland",
+        "Nouméa",
+        "Mystery Island",
+        "Vila",
+        "Dravuni Island",
+        "Suva",
+        "Lautoka",
+        "Auckland"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Remote Fiji and Vanuatu immersion with two sea days for relaxation"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Edge",
+      "capacity": 2900,
+      "year": 2018,
+      "best_for": "Modern luxury seekers, design enthusiasts",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Celebrity Solstice",
+      "capacity": 2850,
+      "year": 2008,
+      "best_for": "Alaska-Australia repositioning, lawn club lovers",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Celebrity Eclipse",
+      "capacity": 2850,
+      "year": 2010,
+      "best_for": "Extended South Pacific exploration, culinary focus",
+      "price_from_eur": 1399
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals and casual venues",
+    "Entertainment including theater productions and live music",
+    "Fitness center and pool access",
+    "Room service (continental breakfast complimentary, $4.95 service charge other times)",
+    "Celebrity app messaging",
+    "Kids' club programming",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Premium drinks packages (Classic €55/day, Premium €69/day)",
+    "Specialty dining (€35-65 per person)",
+    "Shore excursions (€89-389 depending on activity)",
+    "Wi-Fi packages (Basic €18/day, Premium €35/day)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Gratuities (€15.50 per person per day recommended)",
+    "The Retreat suite amenities (€200+ daily upgrade)"
+  ],
+  "booking_strategy": "Book 9-15 months ahead for optimal cabin selection and early booking savings up to €400. Consider repositioning cruises in October-November and March-April for 30-40% savings. Solo travelers should book immediately when single supplement waivers release. Suite guests prioritize The Retreat for included premium drinks, Wi-Fi, and dedicated concierge.",
+  "top_ports": [
+    {
+      "port": "Sydney",
+      "time_in_port": "6am-6pm (overnight on select sailings)",
+      "top_activity": "Sydney Opera House backstage tour (€145)",
+      "tip": "Stay onboard for sailaway past Harbour Bridge and Opera House"
+    },
+    {
+      "port": "Milford Sound",
+      "time_in_port": "Scenic cruising 7am-12pm",
+      "top_activity": "Flightseeing over Fiordland National Park (€389)",
+      "tip": "Book bow or open deck position 90 minutes early"
+    },
+    {
+      "port": "Cairns",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Outer Great Barrier Reef pontoon experience (€289)",
+      "tip": "Seasickness medication recommended; reef conditions vary seasonally"
+    },
+    {
+      "port": "Nouméa",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Amedee Island marine reserve snorkeling (€165)",
+      "tip": "French Pacific francs or credit cards; limited ATM access"
+    },
+    {
+      "port": "Tauranga",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Rotorua geothermal and Maori cultural experience (€245)",
+      "tip": "Long transfer (75 min each way) but worth the geothermal highlights"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Australia & Pacific cruise cost?",
+      "answer": "Celebrity Cruises Australia & Pacific voyages range from €1,299 for shoulder-season inside cabins on older Solstice-class ships to €6,000+ for Edge-class suites during holiday periods. Typical balcony accommodations run €1,899-€2,499 for 10-12 night itineraries. Repositioning cruises (Singapore-Sydney or reverse) offer exceptional value at €999-€1,499 for 14-16 nights. The Retreat all-inclusive suite experience starts at €4,500 per person. Factor €400-€800 for flights from Europe, plus €300-€600 for onboard extras including drinks, Wi-Fi, and gratuities."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Australia & Pacific?",
+      "answer": "Celebrity deploys Edge-class and Solstice-class vessels to Australia & Pacific seasonally. Celebrity Edge revolutionizes the region with its Magic Carpet dining venue and infinite veranda staterooms, operating primarily December-March from Sydney. Celebrity Solstice and Celebrity Eclipse alternate on Australia-New Zealand and South Pacific routes, offering the signature Lawn Club with real grass and glass-blowing studio. These 2,850-passenger ships undergo regular refurbishment to maintain premium standards. No Millennium-class ships currently serve this region, ensuring consistent modern amenities across the fleet."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "November through March delivers optimal conditions, with December-Febuary representing peak season for warm temperatures and calm seas. Australia's summer coincides with New Zealand's most settled weather, though Milford Sound receives rain 200 days annually regardless. November and March offer 20-30% lower pricing with pleasant 22-26°C temperatures and fewer crowds. Avoid June-August when most ships reposition to Alaska or Asia. Cyclone risk exists January-March in Queensland and South Pacific islands, though Celebrity's itinerary flexibility typically navigates around systems. Christmas and New Year sailings command premium pricing but deliver exceptional festive programming."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's Australia & Pacific cruises include all main dining room meals, casual venues like Oceanview Café and Mast Grill, theater entertainment, live music, fitness center access, pool facilities, and kids' club programming. The line's 'Always Included' package (rolled out 2020) bundles basic Wi-Fi, Classic drinks package, and gratuities into fares—verify your booking includes this as older promotional rates may exclude these. Room service incurs a €4.95 delivery fee beyond continental breakfast. Not included: specialty restaurants, premium beverages beyond the Classic package threshold, shore excursions, spa services, and laundry. The Retreat bookings add premium drinks, streaming Wi-Fi, and dedicated concierge."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Australia & Pacific network spans 40+ ports across four countries. Australian highlights include Sydney (overnight calls common), Melbourne's cultural precincts, Brisbane as Queensland gateway, and Cairns/Port Douglas for reef access. New Zealand features Milford Sound scenic cruising, Dunedin's Scottish heritage, Wellington's culinary scene, Napier's Art Deco architecture, Tauranga for Rotorua geothermal experiences, and Auckland departures. South Pacific extensions reach Nouméa's French influence, Fiji's Dravuni and Suva, and Vanuatu's Port Vila. Repositioning cruises add Bali, Singapore, and Southeast Asian ports. Each itinerary balances sea days with immersive port experiences, typically featuring 6-8 destinations on 12-night voyages."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Australia & Pacific Celebrity cruises 9-15 months in advance for optimal stateroom selection, particularly for Edge-class sailings and holiday departures. The line releases itineraries 18-24 months ahead, with best pricing typically appearing 12-14 months out. Solo travelers must act immediately when single supplement promotions release—waivers sell within days. Suite categories, especially AquaClass and The Retreat, have limited inventory and book fastest. Last-minute deals exist 60-90 days prior for flexible travelers, though cabin categories become restricted. European passengers should coordinate flight bookings 8-10 months ahead for reasonable premium economy or business class pricing on long-haul routes to Australia."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity Cruises positions itself as premium-adult-focused, though Australia & Pacific itineraries accommodate families exceptionally well during holiday periods. The Camp at Sea program engages ages 3-12 with STEM, art, and recreation activities; teens access the X Club with dedicated hangout space. Family-friendly shore excursions include wildlife encounters, snorkeling, and cultural experiences suited to multi-generational groups. Connecting staterooms and family veranda configurations exist but comprise limited inventory—book early. The line lacks waterslides and extensive kids' facilities found on mass-market competitors; families prioritizing children's programming may prefer Royal Caribbean's Australia deployment. Best for families with children 8+ who appreciate destination immersion over onboard thrills."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity Cruises Australia & Pacific bookings follow tiered cancellation schedules: full refund minus deposit for cancellations 90+ days before sailing; deposit forfeiture 89-75 days out; 25% penalty 74-61 days; 50% penalty 60-31 days; 75% penalty 30-15 days; and 100% forfeiture within 14 days. 'Cruise with Confidence' flexible booking policies periodically extend full credit options. Travel insurance is strongly recommended given Australia's distance from Europe and potential medical evacuation costs exceeding €50,000. Cancel for Any Reason coverage (typically 75% credit) adds 10-12% to policy cost. Name changes incur €150 fees. Rebooking to alternative dates within 12 months may preserve deposits depending on promotional terms at original booking."
+    }
+  ]
+}

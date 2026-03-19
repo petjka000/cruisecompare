@@ -1,0 +1,199 @@
+{
+  "title": "Virgin Voyages Japan & Asia Cruises 2026",
+  "intro": "Virgin Voyages brings its adults-only, festival-at-sea concept to Japan and Asia for the first time in 2026, offering a radically different approach to exploring this ancient, diverse region. Swap traditional cruising conventions for Michelin-inspired dining at 20+ eateries, immersive entertainment, and wellness-forward spaces as you sail between neon-lit Tokyo megacities and serene Vietnamese bays. Scarlet Lady and Resilient Lady deploy to Asia with carefully curated itineraries balancing overnight port stays in Bangkok and Hong Kong with sea days for recovery. The line's signature inclusive model—gratuities, WiFi, basic beverages, and group fitness all bundled—proves especially valuable in Asia where language barriers and complex logistics challenge independent travellers. Virgin's younger demographic skews toward experiential travellers seeking temple dawn ceremonies, night market street food crawls, and sake brewery tours rather than bus excursions. Cabins feature mood lighting and rain showers; RockStar Quarters add vinyl record players and terrace hammocks for pre-dawn Mekong Delta arrivals.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "11-16 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Scarlet Lady",
+      "Resilient Lady"
+    ],
+    "departure_ports": [
+      "Singapore",
+      "Tokyo",
+      "Hong Kong"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Oct-Nov)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1699,
+      "balcony_eur": 2499,
+      "suite_eur": 4599
+    },
+    {
+      "season": "Value (May-Sep)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "11-night Vietnam & Thailand Voyage",
+      "duration_nights": 11,
+      "ports": [
+        "Singapore",
+        "Ho Chi Minh City",
+        "Da Nang",
+        "Halong Bay",
+        "Hong Kong"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Overnight in Ho Chi Minh City with curated night market experience"
+    },
+    {
+      "name": "14-night Japan Intensive",
+      "duration_nights": 14,
+      "ports": [
+        "Tokyo",
+        "Shimizu",
+        "Kyoto (Osaka)",
+        "Hiroshima",
+        "Busan",
+        "Nagasaki",
+        "Kagoshima",
+        "Tokyo"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Two overnights in Tokyo plus Mount Fuji sunrise approach"
+    },
+    {
+      "name": "16-night Grand Asia Adventure",
+      "duration_nights": 16,
+      "ports": [
+        "Hong Kong",
+        "Manila",
+        "Boracay",
+        "Ho Chi Minh City",
+        "Singapore",
+        "Phuket",
+        "Langkawi",
+        "Penang",
+        "Singapore"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Three sea days balanced with extended port exploration"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Scarlet Lady",
+      "capacity": 2770,
+      "year": 2021,
+      "best_for": "Solo travellers & couples seeking nightlife",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Resilient Lady",
+      "capacity": 2770,
+      "year": 2023,
+      "best_for": "Wellness-focused travellers",
+      "price_from_eur": 1399
+    }
+  ],
+  "whats_included": [
+    "All dining at 20+ restaurants",
+    "Gratuities",
+    "Basic WiFi",
+    "Group fitness classes",
+    "Essential drinks (water, coffee, tea, juices)",
+    "Entertainment shows",
+    "Port taxes"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Premium WiFi",
+    "RockStar Quarters upgrades",
+    "Onboard photography",
+    "Casino",
+    "Laundry services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; wave season (January-March) offers 30% off second sailor and up to €600 bar tab bonuses. Asia itineraries sell out faster than Caribbean due to limited deployment. Solo travellers should book early for Sea Terrace cabins with single supplement waivers during promotional periods.",
+  "top_ports": [
+    {
+      "port": "Tokyo (Yokohama)",
+      "time_in_port": "6am-overnight-departs 6pm next day",
+      "top_activity": "Tsukiji Outer Market breakfast tour with sushi masterclass (€189)",
+      "tip": "Use overnight for Shibuya nightlife; ship provides late shuttle until 2am"
+    },
+    {
+      "port": "Ho Chi Minh City",
+      "time_in_port": "8am-overnight-departs 6pm next day",
+      "top_activity": "Cu Chi Tunnels & Mekong Delta combined excursion (€249)",
+      "tip": "Book ship's street food evening tour; independent taxi scams common"
+    },
+    {
+      "port": "Hong Kong",
+      "time_in_port": "7am-overnight-departs 8pm next day",
+      "top_activity": "Victoria Peak tram & dim sum lunch (€129)",
+      "tip": "Take Star Ferry to Kowloon for Temple Street Night Market on own"
+    },
+    {
+      "port": "Kyoto (Osaka)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Fushimi Inari shrine dawn hike & tea ceremony (€199)",
+      "tip": "Bullet train to Kyoto takes 15 minutes; book ship excursion for guaranteed temple access"
+    },
+    {
+      "port": "Halong Bay",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Private junk boat kayak expedition with lunch (€179)",
+      "tip": "Morning arrival offers misty limestone karst photography"
+    },
+    {
+      "port": "Singapore",
+      "time_in_port": "6am-departure or arrival",
+      "top_activity": "Gardens by the Bay & hawker centre food tour (€149)",
+      "tip": "Pre-cruise stay recommended; ship docks 30 minutes from Changi Airport"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages Japan & Asia cruise cost?",
+      "answer": "Virgin Voyages Asia cruises start from €1,299 per person for an 11-night voyage in shoulder season, with balcony cabins from €1,899 and RockStar suites from €3,499. Peak December-February departures command premiums of 25-30%, while May-September value season offers inside cabins from €1,099. Unlike traditional lines, Virgin bundles gratuities, basic WiFi, all dining, and essential beverages—typically €400-600 in added value compared to mainstream competitors. Bar packages average €45-65 daily if purchasing alcoholic drinks. Shore excursions range €89-349 depending on complexity. Solo travellers face 50-100% single supplements unless booking during promotional waiver periods."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to Japan & Asia?",
+      "answer": "Scarlet Lady and Resilient Lady operate Virgin's Asia deployment from November 2025 through April 2027, marking the brand's first Pacific presence. Both 2,770-passenger sister ships feature identical layouts: 1,408 cabins, 20+ dining venues, the Manor entertainment complex, and Athletic Club outdoor training space. Resilient Lady, delivered 2023, offers marginally refreshed spa facilities and expanded wellness programming. Neither ship carries children—minimum age 18 applies—creating distinctly adult atmosphere. Scarlet Lady emphasizes nightlife with later venue hours, while Resilient Lady leans into morning wellness rituals. Both ships underwent dry dock modifications in 2024 adding Asian culinary stations and expanded tea service for these itineraries."
+    },
+    {
+      "question": "When is best time to cruise Japan & Asia?",
+      "answer": "March-April and October-November deliver optimal conditions: mild 20-28°C temperatures, minimal rainfall, and cherry blossom or autumn foliage peaks. Japan's sakura season (late March-early April) commands highest premiums but offers unforgettable temple and garden experiences. October-November provides stable seas post-typhoon season with comfortable humidity levels. December-February suits budget travellers despite cooler 10-18°C temperatures and occasional northern Japan port closures. May-September brings monsoon rains, extreme humidity, and typhoon risk—though lower prices and lush landscapes appeal to some. Avoid July-August in Japan due to intense heat and domestic holiday crowds. Virgin's deployment strategically concentrates in shoulder months, with limited summer sailings."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages bundles more than traditional premium lines: all dining at 20+ restaurants including Korean BBQ, omakase sushi counter, and test kitchen experiences; gratuities; essential beverages (still/sparkling water, drip coffee, tea, juices, sodas); group fitness classes from sunrise yoga to HIIT; basic WiFi for one device; and all entertainment shows. Excluded are alcoholic beverages (craft cocktails €12-16, wine €9-14/glass), spa treatments, shore excursions, premium WiFi for streaming, and casino play. The line's 'no buffets, no main dining room, no forced fun' philosophy means no upcharges for specialty restaurants—every venue is complimentary. Room service carries €5 delivery fee except for RockStar Quarters guests who enjoy unlimited free delivery."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Virgin's Asia network spans 15+ ports across six countries, with Singapore, Tokyo, and Hong Kong serving as primary turnaround hubs. Japanese calls include Yokohama (Tokyo), Shimizu (Mount Fuji views), Osaka (Kyoto access), Hiroshima, Nagasaki, Kagoshima, and Beppu. Southeast Asian ports feature Ho Chi Minh City (overnight), Da Nang, Halong Bay, Bangkok (via Laem Chabang), Phuket, Langkawi, Penang, and Manila. Itineraries emphasize overnight stays in major cities—Tokyo, Hong Kong, and Ho Chi Minh City—allowing genuine evening exploration rather than typical daytime-only port calls. Some voyages include Busan, South Korea. Virgin avoids repetitive 'beach day' stops common on Caribbean routes, instead prioritizing cultural immersion with 10-14 hour port durations."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Asia itineraries 9-12 months prior to sailing for optimal cabin selection, particularly Sea Terrace balconies with hammocks that comprise only 40% of inventory. Virgin releases schedules 18 months ahead; early booking locks lowest fares before wave season promotions apply to remaining inventory. Solo travellers must book immediately when single supplement waivers appear—these sell within days. Final payment typically due 120 days before departure with flexible cancellation: full refund until 180 days, 50% refund 179-120 days, then cruise credit only. Last-minute Asia deals rarely materialize given limited ship deployment and strong demand from Virgin's established customer base seeking new destinations. Consider travel insurance covering 'cancel for any reason' given complex multi-country itinerary logistics."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages maintains strict adults-only policy—minimum age 18 with no exceptions for infants, children, or teenagers. This policy extends to Asia itineraries despite family-oriented destination appeal. The restriction enables uncensored entertainment, late-night venue hours, and spa-forward programming without child-minding compromises. Couples, friend groups, and solo travellers dominate demographics with median age 42-48. Those seeking multi-generational Asia cruising should consider Celebrity, Princess, or Royal Caribbean instead. Virgin's positioning specifically targets 'kid-free' travellers who found traditional Asia cruising either too sedate or too family-dominated. The line's tattoo parlour, drag brunches, and risqué comedy shows reinforce adult orientation. Solo travellers find exceptional programming: dedicated studio cabins with single supplement waivers during promotions, and daily meetups for independent explorers."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Virgin Voyages offers tiered cancellation: full refund for any reason until 180 days before departure; 50% refund of cruise fare between 179-120 days; cruise credit only (no cash refund) from 119-48 hours; and total forfeiture within 48 hours. 'Bar tab' beverage credits and pre-purchased excursions refund fully until 48 hours pre-cruise. Travel insurance strongly recommended given Asia's distance from Europe and potential for health-related itinerary changes. Virgin's 'Book with Confidence' program periodically extends flexible cancellation windows during promotional periods. COVID-19 protocols evolved: testing no longer required, but positive cases mid-cruise may result in cabin isolation or disembarkation at next port without compensation. Consider comprehensive insurance covering medical evacuation from remote Asian ports where healthcare standards vary significantly from Western expectations."
+    }
+  ]
+}

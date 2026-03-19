@@ -1,0 +1,208 @@
+{
+  "title": "Costa Cruises Adriatic Cruises 2026",
+  "intro": "Costa Cruises brings Italian elegance to the Adriatic Sea, combining Mediterranean hospitality with authentic regional experiences. As Europe's largest cruise line, Costa specializes in immersive Adriatic itineraries that showcase the stunning Dalmatian coast, Venetian heritage, and Greek island gems. Sail aboard ships designed with Italian flair, featuring pasta-making demonstrations, Aperol spritz bars, and multilingual entertainment that reflects the diverse European passenger mix. The Adriatic route highlights UNESCO World Heritage sites including Dubrovnik's ancient walls, Split's Diocletian Palace, and Kotor's dramatic fjord-like bay. Costa's all-inclusive options and family-friendly programming make these cruises particularly attractive for multi-generational European travelers. Evening deck parties, Italian-themed gala dinners, and late-night port departures capture the relaxed Mediterranean lifestyle that defines the Costa experience in this spectacular cruising region.",
+  "quick_facts": {
+    "price_from_eur": 599,
+    "duration_range": "7-11 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Costa Deliziosa",
+      "Costa Fascinosa",
+      "Costa Serena"
+    ],
+    "departure_ports": [
+      "Venice",
+      "Bari",
+      "Trieste"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Oct-Nov)",
+      "inside_eur": 599,
+      "balcony_eur": 899,
+      "suite_eur": 1499
+    },
+    {
+      "season": "Peak (May-Jun, Sep)",
+      "inside_eur": 799,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "High Summer (Jul-Aug)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Venice Roundtrip",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Bari"
+      ],
+      "price_from_eur": 649,
+      "highlight": "Classic Dalmatian coast with overnight Venice departure"
+    },
+    {
+      "name": "9-night Adriatic & Greek Isles",
+      "duration_nights": 9,
+      "ports": [
+        "Venice",
+        "Zadar",
+        "Split",
+        "Dubrovnik",
+        "Santorini",
+        "Mykonos",
+        "Bari"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Extended itinerary combining Croatia and iconic Greek islands"
+    },
+    {
+      "name": "11-night Grand Adriatic",
+      "duration_nights": 11,
+      "ports": [
+        "Trieste",
+        "Venice",
+        "Ravenna",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Valletta",
+        "Catania",
+        "Naples"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive exploration from northern Adriatic to southern Italy"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Deliziosa",
+      "capacity": 2850,
+      "year": 2010,
+      "best_for": "Couples & Cultural Travelers",
+      "price_from_eur": 649
+    },
+    {
+      "name": "Costa Fascinosa",
+      "capacity": 3016,
+      "year": 2012,
+      "best_for": "Families & Entertainment Seekers",
+      "price_from_eur": 599
+    },
+    {
+      "name": "Costa Serena",
+      "capacity": 3700,
+      "year": 2007,
+      "best_for": "Large Groups & Value Seekers",
+      "price_from_eur": 549
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "Full board with breakfast, lunch, dinner",
+    "Access to pools, fitness center, and entertainment venues",
+    "Costa Shows theater productions",
+    "Kids' clubs (ages 3-17)",
+    "Port taxes and service charges",
+    "Basic WiFi package (1 hour daily)",
+    "Safety drills and port information"
+  ],
+  "whats_extra": [
+    "Beverage packages (alcoholic and premium non-alcoholic)",
+    "Shore excursions and guided tours",
+    "Specialty restaurants (€25-45 per person)",
+    "Spa treatments and salon services",
+    "Premium WiFi packages",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photography services",
+    "Gratuities (€11 per person daily if not prepaid)"
+  ],
+  "booking_strategy": "Book 8-12 months ahead for best cabin selection and early booking discounts up to 30%. Shoulder season departures offer 20-40% savings versus peak summer. Consider the 'All-Inclusive' package adding drinks, WiFi, and gratuities for €35-45 daily—typically 25% cheaper than purchasing separately. Venice departures command premium pricing; Bari and Trieste alternatives save €100-200. Monitor Costa's Italian holiday promotions in January and September for flash sales. Balcony cabins on port side for northbound itineraries, starboard for southbound, maximize scenic views. Solo travelers should book early as single supplement cabins are limited.",
+  "top_ports": [
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "7am-5pm",
+      "top_activity": "City Walls Walk & Cable Car (€35)",
+      "tip": "Arrive at Pile Gate by 7:30am to beat cruise crowds"
+    },
+    {
+      "port": "Split",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Diocletian Palace Underground Tour (€45)",
+      "tip": "Lunch at Konoba Marjan for authentic Dalmatian peka"
+    },
+    {
+      "port": "Kotor",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Fortress Hike & Boat to Our Lady of the Rocks (€55)",
+      "tip": "Start fortress climb early; 1350 steps take 45 minutes"
+    },
+    {
+      "port": "Venice",
+      "time_in_port": "Overnight or evening departure",
+      "top_activity": "Private Evening Gondola & Cicchetti Tour (€120)",
+      "tip": "Book airport transfer via cruise line to avoid luggage hassle"
+    },
+    {
+      "port": "Corfu",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Paleokastritsa Beach & Monastery (€65)",
+      "tip": "Later departure allows relaxed Greek dinner ashore"
+    },
+    {
+      "port": "Bari",
+      "time_in_port": "7am-2pm",
+      "top_activity": "Alberobello Trulli Houses (€75)",
+      "tip": "Short port time—pre-book excursion to maximize UNESCO site visit"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Adriatic cruise cost?",
+      "answer": "Costa Adriatic cruises typically range from €599 to €2,299 per person for 7-11 night itineraries. Inside cabins start around €599 in shoulder season (March-April, October-November), rising to €999 in peak July-August. Balcony accommodations run €899-€1,499, while suites command €1,499-€2,299. The 9-night Adriatic and Greek Isles itinerary averages €200-300 more than standard 7-night routes. Costa frequently offers promotions including free cabin upgrades, onboard credit of €100-200, and reduced deposits. The 'Piu Gusto' all-inclusive drink package adds €35-45 daily but eliminates surprise bar bills. Families benefit from third and fourth passenger rates at 50-70% discount. Airport transfers, pre-cruise Venice hotels, and travel insurance are additional costs to factor into total vacation budgeting."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Adriatic?",
+      "answer": "Costa deploys three primary vessels on Adriatic routes for 2026. Costa Deliziosa (2,850 passengers, 2010) leads the program with its intimate scale ideal for Venetian navigation and Croatian port calls—features include the Samsara Spa and authentic Italian design. Costa Fascinosa (3,016 passengers, 2012) offers enhanced entertainment with multiple theaters and water slides, suiting families seeking activity. Costa Serena (3,700 passengers, 2007), the largest of the trio, provides value-focused cruising with extensive dining options and spacious pool decks. All three ships offer Costa's signature Italian hospitality, multilingual crew, and European-style evening entertainment. Ship assignments rotate seasonally, with Deliziosa handling more premium itineraries and Serena managing high-volume summer departures. Refurbishment schedules ensure all vessels maintain Costa's contemporary standards."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "The optimal Adriatic cruising window runs May through early October, with June and September offering the ideal balance of weather, crowds, and pricing. May delivers blooming landscapes, comfortable 22-25°C temperatures, and pre-season tranquility at UNESCO sites like Dubrovnik's walls. June maintains pleasant weather before peak summer heat and cruise congestion. July-August bring guaranteed sunshine and warm swimming waters (25-28°C) but crowded ports and premium pricing 30-40% higher. September remains excellent with mature grapes for wine regions, reduced humidity, and fewer families as schools resume. October can surprise with beautiful days though carries rainfall risk. March-April and November sailings offer significant savings but limit beach activities and feature cooler 15-20°C conditions. Kotor's dramatic scenery photographs spectacularly in autumn mist, while summer delivers consistent blue Adriatic waters."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's Adriatic cruises include accommodation, all main restaurant meals (breakfast, lunch, dinner), access to pools, fitness facilities, and entertainment venues including theater shows and live music. The complimentary dining program covers breakfast and lunch buffets plus multi-course dinner service with Italian and international menus. Kids' clubs for ages 3-17 operate daily with supervised activities. Basic WiFi (one hour daily) and port taxes are included. What's critical: beverages beyond water, coffee, and tea at meals cost extra—factor €8-12 for cocktails, €4-6 for wines. Specialty restaurants, shore excursions, spa services, casino play, and premium internet require additional payment. The 'All-Inclusive' package upgrade (€35-45/day) adds unlimited drinks, enhanced WiFi, and gratuities—recommended for most passengers as à la carte pricing accumulates quickly. Room service incurs charges for most items after breakfast."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa's Adriatic itineraries center on Venice, Bari, and Trieste as primary departure points, with Venice offering the most spectacular sail-away past St. Mark's Square. Key Croatian ports include Dubrovnik with its iconic walled Old Town and cable mountain views; Split featuring Emperor Diocletian's remarkably preserved 4th-century palace integrated into modern life; and Zadar showcasing Roman ruins and the unique Sea Organ. Montenegro's Kotor provides dramatic fjord-like scenery with medieval fortified old town climbing mountain slopes. Greek additions typically feature Corfu's Venetian architecture and beaches, with extended itineraries reaching Santorini and Mykonos. Italian stops include Ravenna's Byzantine mosaics, Naples for Pompeii access, and Sicily's Catania. Port times vary significantly—Dubrovnik and Split receive full days while Bari and Kotor offer shorter calls. Evening departures from Venice and Corfu maximize destination immersion."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Costa Adriatic cruises 8-12 months ahead for optimal cabin selection, particularly for balcony accommodations on port-scenic sides and limited suite inventory. Early booking typically yields 20-30% discounts through Costa's 'Super Early Booking' promotions launched 10-12 months pre-departure. Venice roundtrip itineraries fill fastest given the iconic departure experience. Solo travelers face particular urgency as single-occupancy cabins without supplement are extremely limited and sell 9-12 months out. Families seeking connecting rooms or quad cabins should book by autumn for following summer. Last-minute deals emerge 60-90 days before sailing primarily for inside cabins on less popular departure dates—acceptable for flexible travelers but risky for specific ship or itinerary preferences. Group bookings (8+ cabins) require 12-18 month lead times for coordinated accommodations and potential group discounts. Travel insurance purchased within 14 days of deposit covers pre-existing conditions."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa Adriatic cruises excel for families, particularly European and multilingual households seeking cultural immersion alongside relaxation. The Squok Club (ages 3-17) operates daily 9am-midnight with trained staff, themed activities, and dedicated children's pools—Italian, English, German, and French typically supported. Teen zones feature video gaming, music, and supervised social events. Family cabins accommodate 4-5 passengers with connecting options available. Pool decks include waterslides on Costa Fascinosa and Serena. The Italian dining approach welcomes children with flexible mealtimes, familiar pasta options, and relaxed restaurant atmosphere—unlike stricter American cruise lines. Shore excursions offer family pricing and kid-friendly historical storytelling at Dubrovnik and Split. Evening entertainment finishes earlier than adult-focused lines. Potential considerations: smoking is permitted in designated deck areas, and the multilingual environment means some announcements and shows rotate languages. Peak summer sailings attract the most families for peer socializing."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa's standard cancellation policy for Adriatic cruises imposes penalties escalating by departure proximity. Cancellations 90+ days before sailing forfeit the deposit only (typically €200-400 per person). 89-60 days prior loses 25% of total fare; 59-30 days costs 50%; 29-15 days forfeits 75%; and under 15 days or no-shows lose 100%. These terms apply to cruise-only bookings; air-inclusive packages and promotional rates may carry stricter non-refundable deposits. Costa offers 'Booking Protection' insurance at €35-55 per person enabling full refund for covered reasons including illness, injury, or employment termination—strongly recommended given Adriatic cruise investment. COVID-19 policies have normalized to standard terms, though Costa maintains flexible rebooking options for positive tests within 48 hours of departure. Name changes incur €50-100 fees if permitted. Travel agents may offer additional cancellation protection. Always review specific booking terms as promotional fares can impose non-refundable deposits from purchase date."
+    }
+  ]
+}

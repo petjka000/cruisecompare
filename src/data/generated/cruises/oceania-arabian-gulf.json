@@ -1,0 +1,195 @@
+{
+  "title": "Oceania Cruises Arabian Gulf Cruises 2026",
+  "intro": "Oceania Cruises elevates Arabian Gulf exploration through its acclaimed fleet of intimate, ultra-premium vessels. Renowned for the finest cuisine at sea, this destination-focused line crafts immersive itineraries connecting Dubai's futuristic skyline with Oman's ancient frankincense ports and Bahrain's pearl-diving heritage. The Arabian Gulf represents Oceania's commitment to culturally enriching travel, where overnight stays in Abu Dhabi and Doha allow guests to experience souks, mosques, and desert landscapes at leisure. With fewer than 1,250 guests aboard sister ships Marina and Riviera, travelers enjoy uncrowded ports and personalized service while discovering this region's remarkable blend of Bedouin tradition and ambitious modernity. Oceania's inclusive value proposition—covering specialty dining, unlimited internet, and shore excursion credits—positions these voyages as exceptional investments for discerning travelers seeking authentic Middle Eastern encounters without compromise.",
+  "quick_facts": {
+    "price_from_eur": 2849,
+    "duration_range": "10-24 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Marina",
+      "Riviera"
+    ],
+    "departure_ports": [
+      "Dubai",
+      "Abu Dhabi",
+      "Istanbul"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 2849,
+      "balcony_eur": 3899,
+      "suite_eur": 6899
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 2499,
+      "balcony_eur": 3299,
+      "suite_eur": 5499
+    },
+    {
+      "season": "Low (Apr-Oct)",
+      "inside_eur": 1999,
+      "balcony_eur": 2699,
+      "suite_eur": 4299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Arabian Splendors",
+      "duration_nights": 10,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Muscat",
+        "Bahrain",
+        "Doha"
+      ],
+      "price_from_eur": 2849,
+      "highlight": "Overnight in Abu Dhabi with desert safari"
+    },
+    {
+      "name": "Treasures of Arabia",
+      "duration_nights": 12,
+      "ports": [
+        "Istanbul",
+        "Kuwait City",
+        "Doha",
+        "Abu Dhabi",
+        "Dubai"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Suez Canal transit with Egypt extension option"
+    },
+    {
+      "name": "Arabian Peninsula Grand Voyage",
+      "duration_nights": 24,
+      "ports": [
+        "Athens",
+        "Aqaba",
+        "Safaga",
+        "Salalah",
+        "Muscat",
+        "Dubai",
+        "Abu Dhabi",
+        "Doha"
+      ],
+      "price_from_eur": 5899,
+      "highlight": "Comprehensive regional immersion with Petra overnight"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "refurbished": 2023,
+      "best_for": "Culinary enthusiasts and culturally curious travelers",
+      "price_from_eur": 2849
+    },
+    {
+      "name": "Riviera",
+      "capacity": 1250,
+      "year": 2012,
+      "refurbished": 2022,
+      "best_for": "Destination immersion with luxury amenities",
+      "price_from_eur": 2849
+    }
+  ],
+  "whats_included": [
+    "Unlimited internet",
+    "Specialty restaurants with no surcharge",
+    "Room service 24 hours",
+    "Shuttle service to town centers",
+    "Airport transfers with OLife Choice",
+    "Shore excursion credits (€400-800)",
+    "Unlimited soft drinks, coffees, teas",
+    "Laundry services on higher categories",
+    "Pre-paid gratuities",
+    "Access to Canyon Ranch spa facilities"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages (beverage packages available €59-89/day)",
+    "Additional shore excursions beyond OLife credit",
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Airfare (unless OLife Plus selected)",
+    "Premium dining experiences at La Reserve",
+    "Laundry on standard categories",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-15 months ahead for optimal suite selection and early booking amenities; wave season (January-March) offers enhanced OLife packages with additional shore excursion credits or beverage packages.",
+  "top_ports": [
+    {
+      "port": "Dubai",
+      "time_in_port": "8am-11pm (overnight on select sailings)",
+      "top_activity": "Burj Khalifa observation deck (€95)",
+      "tip": "Pre-book evening fountain show dining"
+    },
+    {
+      "port": "Abu Dhabi",
+      "time_in_port": "7am-6pm (or overnight)",
+      "top_activity": "Sheikh Zayed Grand Mosque private tour (€145)",
+      "tip": "Dress modestly; Oceania provides abayas"
+    },
+    {
+      "port": "Muscat",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Wadi Shab canyon and sinkhole swim (€189)",
+      "tip": "Friday closures affect souk availability"
+    },
+    {
+      "port": "Doha",
+      "time_in_port": "10am-8pm",
+      "top_activity": "Museum of Islamic Art with falconry experience (€165)",
+      "tip": "Katara Cultural Village best visited late afternoon"
+    },
+    {
+      "port": "Manama (Bahrain)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Bahrain Fort UNESCO site and pearl diver experience (€135)",
+      "tip": "Compact port; taxi exploration viable alternative to ship excursions"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Arabian Gulf cruise cost?",
+      "answer": "Oceania Cruises Arabian Gulf voyages typically range from €2,499 to €8,500 per person depending on season, duration, and accommodation category. Inside staterooms start around €2,499 during shoulder seasons, while veranda cabins—the most popular choice—average €3,299-4,200. Penthouse suites and above command €5,500-8,500. These fares include substantial value through the OLife Choice program, which bundles airfare, shore excursion credits, or beverage packages. The inclusive nature of Oceania's pricing—covering specialty dining, internet, and gratuities—means total vacation costs often compare favorably to premium competitors where these essentials incur supplemental charges."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Arabian Gulf?",
+      "answer": "Oceania deploys its 1,250-guest Marina-class ships for Arabian Gulf operations: Marina and Riviera. These identical sister vessels, launched 2011-2012 and comprehensively refurbished in 2022-2023, represent the ideal scale for this region—substantial enough for diverse amenities yet intimate for authentic port immersion. Both feature Jacques Pépin's signature restaurants, extensive Canyon Ranch spa facilities, and the industry's largest culinary arts centers at sea. Their moderate size enables docking at central Dubai and Abu Dhabi terminals inaccessible to larger vessels, while their sophisticated ambiance attracts experienced travelers prioritizing cultural engagement over entertainment spectacle."
+    },
+    {
+      "question": "When is best time to cruise Arabian Gulf?",
+      "answer": "Optimal Arabian Gulf cruising occurs November through March when temperatures moderate to 20-28°C, ideal for desert excursions and open-air souk exploration. December and January represent peak demand with comfortable days and cool evenings requiring light layers. February and March offer excellent value with warming conditions and fewer crowds. Oceania suspends regular Arabian Gulf operations April-October when temperatures exceed 40°C, making outdoor activities impractical. The brief shoulder seasons in November and late March provide compelling pricing with generally acceptable conditions, though occasional sandstorms may affect visibility. Ramadan timing varies annually; Oceania adjusts schedules and onboard services respectfully when voyages coincide with this observance."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Arabian Gulf cruises include remarkably comprehensive value: unlimited internet, all specialty restaurants without surcharge, 24-hour room service, shuttle transportation in port, unlimited soft drinks and coffees, and pre-paid gratuities. The OLife Choice program adds your selection of complimentary roundtrip airfare, significant shore excursion credits (€400-800 depending on voyage length), or a House Select beverage package. Higher categories include butler service, priority dining reservations, and complimentary laundry. Notably excluded are alcoholic beverages beyond the optional package, spa treatments, and additional excursions beyond your OLife credit. This inclusive structure distinguishes Oceania from competitors where ancillary costs substantially inflate final vacation expenditure."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Arabian Gulf itineraries feature Dubai and Abu Dhabi as primary embarkation points, with extended stays enabling evening desert experiences and comprehensive city exploration. Muscat, Oman delivers dramatic mountain-meets-sea scenery and authentic souk culture. Doha showcases Qatar's remarkable cultural investment including the I.M. Pei-designed Museum of Islamic Art. Bahrain's Manama offers UNESCO-listed fortifications and pearling heritage. Select itineraries incorporate Kuwait City, Salalah's frankincense coast, and Aqaba for Petra access. Longer voyages connect through the Suez Canal to the Eastern Mediterranean. Oceania prioritizes lengthier port stays—frequently 8-12 hours or overnight—supporting meaningful destination engagement rather than superficial port calls."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For optimal Arabian Gulf sailing selection, reserve 9-15 months in advance, particularly for winter peak season departures when Marina and Riviera's limited capacity fills rapidly. Penthouse and Owner's Suites—highly sought for extended regional voyages—often sell out 12-18 months ahead. Oceania's value proposition improves with early booking through enhanced OLife amenities and preferred stateroom location. Wave season (January-March) occasionally yields promotional opportunities for shoulder-season departures. Last-minute availability rarely materializes for this specialized destination given limited ship deployment and strong repeat guest demand. Deposit structures are typically fully refundable until final payment 90 days prior, reducing commitment risk for advance planners."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises Arabian Gulf voyages accommodate mature families with teenage children rather than multigenerational groups seeking dedicated children's programming. The line maintains no formal kids' clubs, waterslides, or character entertainment. However, culturally curious teenagers benefit enormously from immersive Middle Eastern experiences—mosque visits, spice market navigation, and desert conservation encounters—that exceed typical resort offerings. Family suites and connecting staterooms are limited; early booking essential. The sophisticated dining environment expects appropriate behavior; casual attire restricted to specific venues. Families prioritizing educational travel over entertainment find exceptional value, while those requiring structured youth activities should consider alternative lines. Minimum age is 6 months; no infants in suites."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania Cruises Arabian Gulf bookings follow standard cancellation tiers: full refund for cancellations 91+ days prior to sailing; deposit forfeiture at 90-76 days; 25% penalty at 75-61 days; 50% penalty at 60-31 days; 75% penalty at 30-15 days; and full fare forfeiture within 14 days. Travel insurance is strongly recommended given substantial advance payment requirements and limited last-minute rebooking options for this specialized destination. Cancel For Any Reason coverage, available through Oceania's preferred providers, protects against itinerary changes or personal circumstances. COVID-19 protocols have stabilized but remain subject to UAE, Oman, and Qatar entry requirements; Oceania provides flexible rebooking for government-mandated restrictions."
+    }
+  ]
+}

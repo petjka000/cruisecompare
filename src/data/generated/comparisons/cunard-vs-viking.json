@@ -1,0 +1,82 @@
+{
+  "title": "Cunard Line vs Viking Cruises 2026",
+  "intro": "Cunard Line and Viking Cruises represent two distinct philosophies in premium cruising. Cunard, with 184 years of maritime heritage, offers grand ocean voyages aboard iconic Queens, complete with white-gloved service, ballroom dancing, and transatlantic crossings. Viking, founded in 1997, delivers destination-focused, culturally immersive experiences with understated Scandinavian elegance. Both occupy the upper-mid market segment, yet attract fundamentally different travellers—Cunard appeals to traditionalists seeking ceremony and sea days, while Viking draws curious explorers prioritising port depth and enrichment. Your choice hinges on whether you crave the romance of ocean travel or the intellectual stimulation of curated discovery.",
+  "at_a_glance": {
+    "cunard": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "viking": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 699
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "cunard": "€799",
+      "viking": "€699"
+    }
+  ],
+  "choose_a_if": [
+    "You cherish maritime tradition, formal evenings, and the romance of ocean voyages with black-tie gala nights and ballroom dancing",
+    "You value spacious ships with multiple sea days, transatlantic crossings, and the ceremony of daily afternoon tea served by white-gloved waiters"
+  ],
+  "choose_b_if": [
+    "You prioritise destination immersion with longer port stays, included shore excursions, and enrichment lectures from historians and scientists",
+    "You prefer contemporary Scandinavian design, all-veranda accommodations, and a relaxed, no-formal-nights dress code focused on comfort"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Cunard Line",
+      "reason": "Cunard's dedicated children's programmes, family pools, and larger ship amenities including nurseries and teen clubs outperform Viking's adults-only policy."
+    },
+    {
+      "type": "Couples 55+",
+      "winner": "Viking Cruises",
+      "reason": "Viking's intimate 930-guest ships, included wine and beer, and culturally immersive itineraries resonate with active, educated retirees seeking enrichment."
+    },
+    {
+      "type": "Solo Travellers",
+      "winner": "Viking Cruises",
+      "reason": "Viking's single supplement promotions, dedicated solo traveller events, and small-ship intimacy foster easier social connections than Cunard's couple-oriented atmosphere."
+    },
+    {
+      "type": "Luxury Seekers",
+      "winner": "Cunard Line",
+      "reason": "Cunard's Grill Suites offer butler service, exclusive restaurants, and Queens Grill lounge access that rivals true luxury lines at lower cost."
+    },
+    {
+      "type": "Culture Enthusiasts",
+      "winner": "Viking Cruises",
+      "reason": "Viking's destination performances, resident historians, and included walking tours provide deeper cultural engagement than Cunard's more entertainment-focused programming."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Viking generally offers superior inclusive value. Your fare covers shore excursions in every port, wine and beer with lunch and dinner, WiFi, and gratuities—add-ons that inflate Cunard's seemingly lower base fare. Cunard charges separately for excursions, drinks packages, and service charges. However, Cunard's transatlantic crossings and repositioning cruises often yield exceptional per-night value for spacious accommodations. Calculate total trip cost rather than brochure prices; Viking's transparency typically wins for port-intensive itineraries, while Cunard rewards those content with sea days and self-directed exploration."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Cunard exclusively. Viking maintains a strict 18+ adults-only policy across all vessels. Cunard welcomes children with dedicated facilities: The Play Zone (ages 2-7), The Zone (ages 8-12), and Teen Zone (ages 13-17) operate on sea days and select port days. Family staterooms, children's tea parties, and flexible dining accommodate younger guests. Queens Mary 2 notably features the only planetarium at sea and extensive kennels for transatlantic pet travel. Families seeking Viking's destination focus must consider their river cruise competitors or expedition lines with youth programmes instead."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Entry-level seven-night cruises show Viking at €699 inside and Cunard at €799, though direct comparison proves elusive due to differing inclusions. Viking's fare encompasses excursions, beverages, WiFi, and gratuities; Cunard's base fare excludes these, adding €300-500 weekly for equivalent coverage. Balcony staterooms—Viking's minimum accommodation—start at €1,299 versus Cunard's €1,099 inside upgrade path. Cunard's transatlantic crossings offer exceptional value at €899 for six nights. Both lines levy single supplements, though Viking periodically waives these. Ultimately, comparable experiences cost similarly; Viking front-loads value, Cunard enables à la carte budgeting."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Quality is comparable; philosophy differs. Cunard offers traditional British and Continental cuisine with multiple dining venues including the acclaimed Queens Grill for suite guests, featuring classic preparations and formal service. The main Britannia Restaurant maintains assigned seating and dress codes. Viking emphasises regional cuisine reflecting destinations, with open seating and casual elegance. Their Kitchen Table experience—shopping local markets with the chef—delivers unique immersion. Both source quality ingredients; Cunard excels at ceremony and classic technique, Viking at relevance and flexibility. Foodies prioritising innovation prefer Viking; traditionalists favour Cunard's consistency and white-gloved presentation."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Viking suits nervous newcomers better. Smaller ships (930 guests versus Cunard's 2,691-2,961) reduce overwhelm, while included excursions eliminate planning anxiety. No formal nights remove packing stress and social pressure. The straightforward, transparent fare prevents bill shock. However, Cunard rewards confident first-timers seeking the quintessential cruise experience—grand staircases, captain's receptions, and crossing the Atlantic as generations before. If your cruise fantasy involves Titanic-era glamour, choose Cunard. If you seek stress-free cultural exploration without deciphering dress codes or drink packages, Viking provides gentler onboarding to cruise travel."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Scale and philosophy fundamentally diverge. Cunard operates large ocean liners emphasizing the journey itself—sea days, formal nights, transatlantic crossings, and maritime heritage. Entertainment features production shows, ballroom dancing, and casino gaming. Viking's smaller ocean ships prioritize destinations with overnight stays, late departures, and included excursions. No casinos, no formal nights, no children—just cultural immersion and Scandinavian hygge. Cunard attracts traditionalists, Anglophiles, and romantics; Viking draws educated, active travellers seeking enrichment. Both offer premium service and accommodations, yet one celebrates being at sea, the other explores being ashore. Your travel personality determines fit."
+    }
+  ]
+}

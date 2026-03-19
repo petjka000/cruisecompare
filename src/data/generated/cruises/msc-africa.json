@@ -1,0 +1,230 @@
+{
+  "title": "MSC Cruises Africa & Canaries Cruises 2026",
+  "intro": "MSC Cruises brings its distinctive Mediterranean flair to Africa & Canaries itineraries, combining the volcanic landscapes of the Canary Islands with vibrant North African ports. As Europe's largest cruise line, MSC operates these routes primarily from Mediterranean homeports, offering exceptional value with modern mega-ships. The Canaries provide year-round subtropical cruising with Tenerife's Mount Teide, Lanzarote's lunar landscapes, and Gran Canaria's dunes. African calls typically include Casablanca for Marrakech excursions and Agadir for Berber culture. MSC's ships feature multilingual ambience, European dining standards, and extensive kids' programs at competitive pricing. These itineraries appeal to sun-seekers escaping Northern European winters, with December through March departures proving most popular. The line's 'Bella' experience offers budget-conscious entry, while 'Fantastica' and 'Aurea' tiers add flexibility and wellness perks.",
+  "quick_facts": {
+    "price_from_eur": 549,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "MSC Virtuosa",
+      "MSC Seaview",
+      "MSC Seaside",
+      "MSC World Europa"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Valencia",
+      "Civitavecchia (Rome)",
+      "Marseille",
+      "Genoa"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Low (Apr-May)",
+      "inside_eur": 549,
+      "balcony_eur": 799,
+      "suite_eur": 1299
+    },
+    {
+      "season": "Shoulder (Oct-Nov)",
+      "inside_eur": 649,
+      "balcony_eur": 949,
+      "suite_eur": 1499
+    },
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 799,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Canary Islands & Morocco",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Cadiz",
+        "Casablanca",
+        "Santa Cruz de Tenerife",
+        "Arrecife (Lanzarote)",
+        "Funchal (Madeira)",
+        "Barcelona"
+      ],
+      "price_from_eur": 549,
+      "highlight": "Perfect winter sun escape with two full sea days"
+    },
+    {
+      "name": "11-night Grand Africa & Canaries",
+      "duration_nights": 11,
+      "ports": [
+        "Genoa",
+        "Marseille",
+        "Barcelona",
+        "Cadiz",
+        "Casablanca",
+        "Agadir",
+        "Arrecife (Lanzarote)",
+        "Santa Cruz de Tenerife",
+        "Funchal (Madeira)",
+        "Malaga",
+        "Genoa"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Comprehensive North African immersion with three Moroccan/Canary ports"
+    },
+    {
+      "name": "14-night Atlantic Islands Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Civitavecchia (Rome)",
+        "Genoa",
+        "Marseille",
+        "Barcelona",
+        "Malaga",
+        "Cadiz",
+        "Casablanca",
+        "Agadir",
+        "Santa Cruz de Tenerife",
+        "Arrecife (Lanzarote)",
+        "Funchal (Madeira)",
+        "Lisbon",
+        "Cadiz",
+        "Barcelona"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Ultimate winter repositioning with extended port time in Lisbon and Madeira"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "MSC World Europa",
+      "capacity": 6762,
+      "year": 2022,
+      "best_for": "Families & tech-forward travellers",
+      "price_from_eur": 699
+    },
+    {
+      "name": "MSC Virtuosa",
+      "capacity": 6334,
+      "year": 2021,
+      "best_for": "Entertainment seekers",
+      "price_from_eur": 599
+    },
+    {
+      "name": "MSC Seaview",
+      "capacity": 5086,
+      "year": 2018,
+      "best_for": "Outdoor/water park enthusiasts",
+      "price_from_eur": 549
+    },
+    {
+      "name": "MSC Seaside",
+      "capacity": 5086,
+      "year": 2017,
+      "best_for": "Balcony lovers with sea-facing cabins",
+      "price_from_eur": 549
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All main dining room meals (breakfast, lunch, dinner)",
+    "Buffet restaurant access throughout day",
+    "Selected free-flow water, coffee, tea at buffet",
+    "Entertainment shows in main theatre",
+    "Access to pools, waterslides, and fitness centre",
+    "Kids clubs (0-17 years, age-appropriate)",
+    "Port taxes and basic service charges"
+  ],
+  "whats_extra": [
+    "Beverage packages (Easy: €35/day, Easy Plus: €49/day, Premium: €62/day)",
+    "Specialty restaurants (€15-45 per person)",
+    "Shore excursions (€45-189 per port)",
+    "Wi-Fi packages (Browse: €9.99/day, Stream: €14.99/day)",
+    "Spa treatments and thermal area access",
+    "Laundry services",
+    "Gratuities (€12-14 per person per day if not prepaid)",
+    "Photography and onboard shopping",
+    "Casino and arcade"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak winter departures (December-February) when Canary Islands demand peaks; MSC's 'Bella' fares offer lowest entry but lock you into assigned dining—upgrade to 'Fantastica' for €50-100 more for dining flexibility and cabin location choice. Watch for 'MSC Voyagers Club' loyalty matching from other lines. Wave season (January-March) brings free drinks packages and onboard credit. Repositioning cruises in November and April offer 30-40% savings. Book flights separately via MSC's 'Flight Plus' only if convenience outweighs €100-200 premium. Interior cabins provide exceptional value on these sea-day-heavy itineraries.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Mount Teide National Park excursion (€89)",
+      "tip": "Pre-book cable car tickets—frequently sells out; ship docks 10 minutes walk from city centre"
+    },
+    {
+      "port": "Casablanca",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Marrakech full-day tour (€189)",
+      "tip": "Long transfer (3 hours each way)—consider Hassan II Mosque city tour (€59) for relaxed pace; dress modestly for mosque visits"
+    },
+    {
+      "port": "Arrecife (Lanzarote)",
+      "time_in_port": "9am-6pm",
+      "top_activity": "Timanfaya National Park & wine region (€79)",
+      "tip": "Tender port—book early departure excursions to avoid queues; volcanic landscapes are unique but hot—bring water"
+    },
+    {
+      "port": "Funchal (Madeira)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan ride & botanical gardens (€65)",
+      "tip": "Walkable from dock; cable car to Monte offers spectacular views—combine with traditional wicker toboggan descent"
+    },
+    {
+      "port": "Agadir",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Atlas Mountains & Berber village (€99)",
+      "tip": "Resort town with limited independent exploration—excursions recommended; haggle aggressively in souk if visiting independently"
+    },
+    {
+      "port": "Cadiz",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Seville full-day tour (€129)",
+      "tip": "90-minute transfer to Seville—worth it for Alcázar and cathedral; old town Cadiz is charming alternative for independent exploration"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a MSC Cruises Africa & Canaries cruise cost?",
+      "answer": "MSC Cruises Africa & Canaries itineraries start from €549 for interior cabins on 7-night sailings during low season (April-May, October). Balcony cabins typically range €799-1,199 depending on season, with peak winter departures (December-March) commanding 30-40% premiums. Suite accommodations run €1,299-1,899. The 11-night Grand Africa & Canaries starts around €899 interior, while 14-night Atlantic crossings begin at €1,199. MSC's pricing structure features three experience levels: 'Bella' (most restrictive, lowest price), 'Fantastica' (€50-100 more, with dining flexibility and cabin location choice), and 'Aurea' (€200-400 more, with spa access and priority boarding). Beverage packages, Wi-Fi, and gratuities add €300-500 per person weekly if not included in promotions."
+    },
+    {
+      "question": "Which MSC Cruises ships sail to Africa & Canaries?",
+      "answer": "MSC deploys its newest and largest vessels on Africa & Canaries routes, led by MSC World Europa (2022, 6,762 passengers) featuring the revolutionary Y-shaped promenade and LNG propulsion. MSC Virtuosa (2021, 6,334 passengers) offers the line's most extensive entertainment complex including the Robotron robotic arm ride. MSC Seaview and MSC Seaside (2017-2018, 5,086 passengers each) are purpose-built for warm-weather cruising with extensive outdoor space, waterfront promenades, and industry-leading water parks. These ships rotate seasonally, with World Europa and Virtuosa typically handling peak winter demand. All feature multilingual crews, European-style dining, and MSC's distinctive 'ship-within-a-ship' Yacht Club suite enclave for premium guests seeking exclusive restaurant, lounge, and pool access."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "November through March represents peak season for MSC's Africa & Canaries cruises, when Northern Europeans escape winter for guaranteed 20-24°C temperatures and minimal rainfall. December and January offer festive atmosphere but highest prices and crowds. February provides optimal balance of pleasant weather, whale watching opportunities (sperm whales and dolphins frequent Tenerife waters), and moderate pricing. March brings slightly warmer seas ideal for swimming. April-May and October-November shoulder seasons deliver 15-20% savings with comfortable 18-22°C conditions, though Atlantic crossings can encounter rougher seas. Summer departures are rare due to intense Canaries heat (often exceeding 30°C) and MSC's Mediterranean focus. Avoid late January Atlantic crossings when storm systems most frequently disrupt schedules."
+    },
+    {
+      "question": "What is included?",
+      "answer": "MSC Cruises includes accommodation, all main dining room meals, buffet access, basic beverages (water, coffee, tea at buffet only), theatre entertainment, pools, fitness centre, and comprehensive kids clubs (0-17 years) in base fares. Port taxes and basic service charges are included in advertised prices. What's notably absent: alcoholic beverages, specialty dining, Wi-Fi, and shore excursions require separate purchase. MSC's 'Bella' experience restricts dining to assigned seating; 'Fantastica' adds dining flexibility and 50% discount on fitness classes; 'Aurea' includes spa thermal area access, priority boarding, and anytime dining. Gratuities (€12-14 daily) are added unless prepaid. Unlike premium competitors, MSC charges for room service except at breakfast. The 'Easy' drinks package (€35/day) covers house wine, beer, and basic cocktails—essential for most passengers."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "MSC's Africa & Canaries itineraries feature 6-8 distinct ports across 7-14 nights. Canary Islands calls include Santa Cruz de Tenerife (Mount Teide access), Arrecife/Lanzarote (volcanic landscapes—tender port), and Las Palmas/Gran Canaria (dunes and city beaches). North African ports comprise Casablanca (Marrakech gateway, 3-hour transfer), Agadir (resort town with Berber culture), and occasionally Tangier. European departure/arrival ports are Barcelona, Valencia, Genoa, Civitavecchia (Rome), and Marseille. Atlantic stops typically include Funchal/Madeira (Portuguese island with botanical gardens) and sometimes Lisbon or Cadiz on longer sailings. Port times range 8-12 hours, with Casablanca and Marrakech excursions requiring full days. Tender operations at Arrecife and occasional African ports demand advance planning—shore excursion passengers receive priority tender tickets."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book MSC Africa & Canaries cruises 9-12 months ahead for peak winter departures (December-February), when Canary Islands demand peaks and families secure school holiday dates. These itineraries frequently sell out balcony cabins 6 months prior. Wave season (January-March) offers last-minute deals on remaining spring and autumn departures, typically 30-45% off with drinks packages and onboard credit included. For shoulder season (April-May, October-November), 3-6 months advance booking balances price and availability. MSC's dynamic pricing means fares typically increase monthly as departure approaches. Loyalty members ('MSC Voyagers Club') access sales 48 hours early—worth matching status from other cruise lines. Repositioning cruises in November offer exceptional last-minute value if flexible on dates. Always book flights separately unless MSC's 'Flight Plus' convenience justifies €100-200 premium."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "MSC Cruises excels for families on Africa & Canaries routes, offering exceptional value and comprehensive children's programming. Kids sail free on many sailings (pay only taxes, approximately €150-200), with dedicated clubs for babies (6 months-3 years, nominal fee), Mini (3-6), Junior (7-11), and Young/Teen (12-17) clubs operating until 11pm. The ships feature extensive water parks, Formula 1 simulators, bowling, and 4D cinemas. Family cabins accommodate up to 5 with connecting options. Multilingual staff serves Europe's diverse family market effectively. Sea days between Canary and African ports provide ample programming time. Potential challenges: African port excursions aren't designed for young children (long transfers to Marrakech, intense heat), and evening entertainment leans toward European variety shows rather than Broadway productions. 'Fantastica' or 'Aurea' experiences recommended for families wanting dining flexibility with unpredictable children's schedules."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "MSC Cruises' cancellation policy varies by fare type and departure timing. Standard 'Bella' and 'Fantastica' fares: full refund minus €50-100 processing fee if cancelled 90+ days before sailing; 50% refund 89-60 days; 25% refund 59-30 days; no refund under 30 days. 'Aurea' and Yacht Club fares often have stricter terms with higher penalties. MSC strongly promotes 'Cruise Care' protection (€49-99 per person) covering cancellation for medical reasons, job loss, or other covered circumstances—recommended given inflexible base terms. Post-pandemic, MSC introduced 'Booking with Confidence' on select promotions allowing one free date change up to 48 hours before departure, though fare differences apply. Name changes incur €50-100 fees. For no-shows, entire fare forfeited. Travel insurance with cruise-specific coverage (minimum €50,000 medical, €1,000,000 evacuation) is mandatory for all passengers and verified at embarkation."
+    }
+  ]
+}

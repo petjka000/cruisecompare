@@ -1,0 +1,265 @@
+{
+  "title": "Viking Cruises Mediterranean Cruises 2026",
+  "intro": "Viking Cruises redefined Mediterranean exploration with their adults-only, culturally immersive small-ship experience. Unlike mass-market lines, Viking Ocean Cruises carries just 930 guests aboard identical sister ships, delivering destination-focused itineraries that linger longer in port—often overnight. Their Mediterranean voyages emphasize history, cuisine, and art through included shore excursions to UNESCO sites, wine tastings at family-owned vineyards, and exclusive access to landmarks after crowds depart. The Scandinavian-designed vessels feature infinity pools, Nordic spas with snow grotto, and no casino or formal nights—just relaxed elegance. Every stateroom includes a private veranda, ensuring uninterrupted views of Amalfi Coast cliffs or Santorini caldera sunsets. With complimentary Wi-Fi, beer and wine at meals, and one included excursion per port, Viking appeals to curious travelers aged 55+ seeking enrichment over entertainment. Their Mediterranean season spans spring through fall, with repositioning voyages offering exceptional value.",
+  "quick_facts": {
+    "price_from_eur": 2499,
+    "duration_range": "8-21 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Viking Venus",
+      "Viking Mars",
+      "Viking Jupiter",
+      "Viking Sea",
+      "Viking Sky",
+      "Viking Star"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Venice",
+      "Rome (Civitavecchia)",
+      "Istanbul",
+      "Lisbon"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Nov)",
+      "inside_eur": 2499,
+      "balcony_eur": 2999,
+      "suite_eur": 4999
+    },
+    {
+      "season": "Peak (May-Jun, Sep-Oct)",
+      "inside_eur": 3299,
+      "balcony_eur": 3999,
+      "suite_eur": 6499
+    },
+    {
+      "season": "High Summer (Jul-Aug)",
+      "inside_eur": 3699,
+      "balcony_eur": 4499,
+      "suite_eur": 7299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Iconic Western Mediterranean",
+      "duration_nights": 8,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Monte Carlo",
+        "Florence/Pisa (Livorno)",
+        "Rome (Civitavecchia)",
+        "Naples"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Overnight in Barcelona with included culinary walking tour"
+    },
+    {
+      "name": "Italian Sojourn",
+      "duration_nights": 8,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Naples",
+        "Rome (Civitavecchia)"
+      ],
+      "price_from_eur": 2699,
+      "highlight": "Extended evening in Venice and Dubrovnik for local dining"
+    },
+    {
+      "name": "Mediterranean Odyssey",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Monte Carlo",
+        "Florence/Pisa",
+        "Rome",
+        "Naples",
+        "Sicily (Messina)",
+        "Corfu",
+        "Kotor",
+        "Dubrovnik",
+        "Split",
+        "Venice"
+      ],
+      "price_from_eur": 4999,
+      "highlight": "Comprehensive Adriatic and Western Mediterranean combination"
+    },
+    {
+      "name": "Greek Odyssey",
+      "duration_nights": 10,
+      "ports": [
+        "Athens (Piraeus)",
+        "Santorini",
+        "Rhodes",
+        "Bodrum",
+        "Kusadasi",
+        "Istanbul"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Two full days in Istanbul with included Hagia Sophia visit"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Venus",
+      "capacity": 930,
+      "year": 2021,
+      "best_for": "Culturally curious adults seeking immersive experiences",
+      "price_from_eur": 2499
+    },
+    {
+      "name": "Viking Mars",
+      "capacity": 930,
+      "year": 2022,
+      "best_for": "History enthusiasts and food/wine travelers",
+      "price_from_eur": 2599
+    },
+    {
+      "name": "Viking Jupiter",
+      "capacity": 930,
+      "year": 2019,
+      "best_for": "Photography lovers and slow travelers",
+      "price_from_eur": 2499
+    },
+    {
+      "name": "Viking Sea",
+      "capacity": 930,
+      "year": 2016,
+      "best_for": "Repeat Mediterranean cruisers wanting deeper exploration",
+      "price_from_eur": 2399
+    },
+    {
+      "name": "Viking Sky",
+      "capacity": 930,
+      "year": 2017,
+      "best_for": "Wellness-focused travelers using Nordic spa",
+      "price_from_eur": 2399
+    },
+    {
+      "name": "Viking Star",
+      "capacity": 930,
+      "year": 2015,
+      "best_for": "First-time Viking guests testing the brand",
+      "price_from_eur": 2299
+    }
+  ],
+  "whats_included": [
+    "One shore excursion in every port",
+    "Beer and wine with lunch and dinner",
+    "Wi-Fi throughout ship",
+    "Access to Nordic spa thermal suite",
+    "24-hour room service",
+    "Alternative restaurants with no surcharge",
+    "Self-service laundry",
+    "Airport transfers on embarkation/disembarkation days",
+    "Lectures and enrichment programming",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Premium beverages and spirits",
+    "Additional shore excursions beyond the included option",
+    "Spa treatments and salon services",
+    "Laundry service",
+    "Pre- and post-cruise hotel stays",
+    "Business class airfare upgrades",
+    "Silver Spirits beverage package (EUR 259 per person per week)",
+    "Private car and driver arrangements"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking savings up to EUR 800 per couple; wave season (Jan-Mar) offers additional onboard credit and reduced deposits; repositioning cruises between Barcelona and Venice or Istanbul offer 30-40% savings; solo travelers benefit from no single supplement promotions twice yearly",
+  "top_ports": [
+    {
+      "port": "Barcelona, Spain",
+      "time_in_port": "12pm-overnight",
+      "top_activity": "Sagrada Família guided tour with tower access (EUR 65)",
+      "tip": "Use overnight to explore El Born district restaurants after ship's included walking tour"
+    },
+    {
+      "port": "Venice, Italy",
+      "time_in_port": "overnight-overnight",
+      "top_activity": "St. Mark's Basilica after-hours access (EUR 95)",
+      "tip": "Book ship's evening gondola experience—private boats arranged at group rate"
+    },
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "8am-8pm",
+      "top_activity": "City walls walk with Game of Thrones sites (EUR 45)",
+      "tip": "Avoid morning crowds by taking ship's included tour first, then independent exploration"
+    },
+    {
+      "port": "Santorini, Greece",
+      "time_in_port": "2pm-10pm",
+      "top_activity": "Sunset catamaran cruise with hot springs (EUR 189)",
+      "tip": "Ship stays late for sunset—skip cable car queue by walking down 588 steps early morning"
+    },
+    {
+      "port": "Istanbul, Turkey",
+      "time_in_port": "overnight-overnight",
+      "top_activity": "Bosphorus private yacht cruise with dinner (EUR 245)",
+      "tip": "Two full days allows Hagia Sophia on day one, Grand Bazaar and food tour on day two"
+    },
+    {
+      "port": "Livorno (Florence/Pisa), Italy",
+      "time_in_port": "8am-8pm",
+      "top_activity": "Uffizi Gallery skip-the-line with art historian (EUR 125)",
+      "tip": "Ship offers both Florence and Pisa included options—choose Florence, visit Pisa independently via train"
+    },
+    {
+      "port": "Monte Carlo, Monaco",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Prince's Palace private reception (EUR 195, limited availability)",
+      "tip": "Walk the Formula 1 circuit morning, casino district afternoon; dress code enforced evening"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Fortified town walls hike to San Giovanni fortress (EUR 35)",
+      "tip": "Start hike by 8:30am before cruise crowds; spectacular fjord-like bay views from top"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Mediterranean cruise cost?",
+      "answer": "Viking Ocean Mediterranean cruises start at EUR 2,499 per person for 8-night shoulder season voyages, with typical fares ranging EUR 3,299-4,499 during peak months. The 14-night comprehensive itineraries run EUR 4,999-6,499. All fares include veranda staterooms—Viking has no interior cabins—plus one excursion per port, beer and wine at meals, and Wi-Fi. Airport transfers and port taxes are included, unlike competitors. Silver Spirits beverage package adds EUR 259 for unlimited premium drinks. Airfare can be added for EUR 395-795 roundtrip from major European gateways. Solo travelers occasionally find no single supplement offers, normally paying 150-200% supplement otherwise."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Mediterranean?",
+      "answer": "Viking's entire ocean fleet of six identical 930-guest sister ships rotates through Mediterranean deployment: Viking Star (2015), Viking Sea (2016), Viking Sky (2017), Viking Jupiter (2019), Viking Venus (2021), and Viking Mars (2022). All feature Scandinavian design by SMC Design and Rottet Studio, with infinity pools, Nordic spas with snow grotto and sauna, and no casino or children under 18. Ships offer interchangeable experiences—same restaurants, stateroom categories, and spa facilities—ensuring consistent quality regardless of vessel. Mediterranean season typically sees 3-4 ships simultaneously deployed between March and November, with others repositioning to Northern Europe or Asia."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "April-May and September-October offer optimal Mediterranean cruising for Viking guests: mild temperatures (18-24°C), fewer crowds at major sites, and lower fares than peak summer. May delivers wildflower blooms in Provence and ideal conditions for Croatia's Dalmatian Coast. September brings wine harvest season in Tuscany and Provence with vineyard excursions. June provides longest daylight hours for extended port exploration. July-August brings intense heat (30-35°C) and premium pricing, though Viking's late port stays and overnights allow cooler morning touring. November and March sailings offer exceptional value (EUR 2,499 starting fares) with occasional rain but uncrowded attractions—ideal for museum-focused travelers."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's inclusive Mediterranean experience covers one guided shore excursion in every port—typically walking tours or UNESCO site visits—beer and wine with lunch and dinner, Wi-Fi throughout the ship, and 24-hour room service. All staterooms are veranda categories with private balconies, king beds, and premium bath amenities. The Nordic spa thermal suite with hydrotherapy pool, snow grotto, and sauna carries no surcharge. Alternative restaurants including Manfredi's Italian and The Chef's Table require no reservations fees. Self-service laundry, lectures by resident historians and guest speakers, port taxes, and airport transfers on embarkation/disembarkation days complete the inclusive package. Gratuities are additional at EUR 18 per person daily."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking Mediterranean itineraries span Western Mediterranean classics (Barcelona, Marseille, Monte Carlo, Florence/Livorno, Rome/Civitavecchia, Naples), Adriatic treasures (Venice, Split, Dubrovnik, Kotor, Corfu), and Greek/Aeastern Mediterranean highlights (Athens, Santorini, Rhodes, Kusadasi, Istanbul). Ships frequently overnight in Barcelona, Venice, Istanbul, and Monte Carlo for deeper cultural immersion. Smaller ports like Sorrento (instead of Naples), Kotor, and Bodrum distinguish Viking from mass-market lines using industrial ports. Seasonal variations include Sicily (Messina, Palermo), Malta (Valletta), French Riviera (Nice, Cannes), and Portuguese Atlantic stops on repositioning voyages. Each 8-night sailing visits 5-6 ports with minimal sea days."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Viking Mediterranean cruises 12-18 months ahead for optimal stateroom selection, particularly for coveted midship veranda cabins and sought-after departure dates in May and September. Early booking discounts typically save EUR 400-800 per couple. Wave season (January-March) brings enhanced offers including reduced deposits (EUR 500 vs. EUR 1,500), onboard credit up to EUR 400 per stateroom, and occasional airfare credits. Last-minute deals within 90 days are rare given Viking's high repeat guest rate (70%) and limited inventory. Solo travelers should monitor twice-yearly no single supplement sales. Waitlist for sold-out dates often yields cancellations 60-90 days prior when final payment is due."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Ocean Cruises maintains an adults-only policy with minimum age 18, making Mediterranean sailings unsuitable for families with children. This deliberate positioning creates a serene, culturally focused atmosphere where enrichment programming, fine dining, and spa experiences take precedence over youth activities. The policy particularly suits multigenerational adult groups—parents with adult children, siblings over 18, or friend groups seeking sophisticated travel without family-oriented cruise distractions. For families with teenagers 16-17, some exceptions exist for chartered groups. Adults appreciate the child-free environment in restaurants, pools, and excursion groups, with fellow guests typically 55-75 years old, well-traveled, and seeking immersive cultural experiences rather than entertainment-heavy vacations."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's cancellation policy for Mediterranean cruises imposes penalties escalating by departure proximity: full refund minus EUR 200 administrative fee for cancellations 181+ days prior; loss of deposit (typically 20% of fare) for 180-121 days; 50% of fare forfeited for 120-91 days; 75% for 90-61 days; and 100% for 60 days or less. Travel insurance through Viking or independent providers is strongly recommended given substantial penalties. 'Cancel for Any Reason' upgrade to Viking's standard plan refunds 80% in cash or 100% in future cruise credit. COVID-19 introduced temporary flexible policies now largely discontinued. Rebooking to future sailings sometimes waives penalties if initiated 121+ days prior, subject to fare protection limitations."
+    }
+  ]
+}

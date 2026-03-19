@@ -1,0 +1,200 @@
+{
+  "title": "P&O Cruises Japan & Asia Cruises 2026",
+  "intro": "P&O Cruises brings British cruising heritage to the Far East with expertly crafted Japan and Asia itineraries for 2026. Operating from Southampton and regional UK fly-cruise options, P&O combines familiar comforts with extraordinary eastern destinations. Their Asia programme features extended voyages aboard purpose-built ships designed for longer international journeys, offering immersive cultural experiences from Tokyo's neon-lit streets to Vietnam's lantern-lit waterways. With over 180 years of maritime expertise, P&O delivers refined yet accessible cruising, featuring British dining favourites alongside Asian culinary adventures. The line's adult-only Arcadia and family-friendly Aurora provide distinct atmospheres for discovering ancient temples, bustling markets, and tropical island paradises across this captivating region.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "14-21 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Arcadia",
+      "Aurora"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Singapore",
+      "Hong Kong"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Oct-Nov)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1499,
+      "balcony_eur": 2199,
+      "suite_eur": 3399
+    },
+    {
+      "season": "World Cruise Segment",
+      "inside_eur": 1899,
+      "balcony_eur": 2799,
+      "suite_eur": 4299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Japan & South Korea Discovery",
+      "duration_nights": 14,
+      "ports": [
+        "Tokyo",
+        "Shimizu",
+        "Osaka",
+        "Nagasaki",
+        "Busan",
+        "Jeju",
+        "Hong Kong"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Cherry blossom season departure with overnight in Tokyo"
+    },
+    {
+      "name": "21-night Southeast Asia & Japan Grand Voyage",
+      "duration_nights": 21,
+      "ports": [
+        "Singapore",
+        "Ho Chi Minh City",
+        "Nha Trang",
+        "Hong Kong",
+        "Keelung",
+        "Okinawa",
+        "Nagasaki",
+        "Osaka",
+        "Tokyo"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Comprehensive exploration from tropical Southeast Asia to Japan's cultural heart"
+    },
+    {
+      "name": "16-night China, Japan & Philippines Explorer",
+      "duration_nights": 16,
+      "ports": [
+        "Hong Kong",
+        "Shanghai",
+        "Nagasaki",
+        "Kagoshima",
+        "Okinawa",
+        "Manila",
+        "Boracay",
+        "Puerto Princesa",
+        "Singapore"
+      ],
+      "price_from_eur": 1799,
+      "highlight": "Rare Philippines archipelago routing with extended Asian port calls"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Arcadia",
+      "capacity": 2096,
+      "year": 2005,
+      "best_for": "Adults seeking refined, longer voyages",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Aurora",
+      "capacity": 1870,
+      "year": 2000,
+      "best_for": "Families and traditional cruisers",
+      "price_from_eur": 1399
+    }
+  ],
+  "whats_included": [
+    "All main dining and afternoon tea",
+    "Entertainment and guest speakers",
+    "Fitness centre and pools",
+    "Children's clubs (Aurora)",
+    "Port taxes",
+    "Fly-cruise flights where applicable"
+  ],
+  "whats_extra": [
+    "Speciality restaurants (£15-30pp)",
+    "Drinks packages (£45-55/day)",
+    "Shore excursions (£45-189)",
+    "Wi-Fi (£15-25/day)",
+    "Spa treatments",
+    "Laundry",
+    "Gratuities (£7pp/day recommended)"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection on these limited annual deployments; watch for P&O's 'Select Price' offers including onboard credit and parking",
+  "top_ports": [
+    {
+      "port": "Tokyo (Yokohama)",
+      "time_in_port": "7am-6pm (overnight on select sailings)",
+      "top_activity": "Mount Fuji & Hakone National Park (£159)",
+      "tip": "Request starboard cabins for Fuji views on departure"
+    },
+    {
+      "port": "Nagasaki",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Peace Park & Glover Garden (£65)",
+      "tip": "Compact city centre allows independent exploration"
+    },
+    {
+      "port": "Hong Kong",
+      "time_in_port": "7am-6pm (overnight on some itineraries)",
+      "top_activity": "Victoria Peak tram & harbour cruise (£89)",
+      "tip": "Evening sailaway provides spectacular skyline views"
+    },
+    {
+      "port": "Singapore",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Gardens by the Bay & night safari (£129)",
+      "tip": "Pre-cruise hotel stay recommended to recover from UK flight"
+    },
+    {
+      "port": "Ho Chi Minh City (Phu My)",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Cu Chi Tunnels & city highlights (£119)",
+      "tip": "90-minute coach transfer each way; book ship's excursion for reliability"
+    },
+    {
+      "port": "Osaka",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Kyoto temples & geisha district (£169)",
+      "tip": "Full-day excursion essential; Osaka Castle alternative for shorter visits"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Japan & Asia cruise cost?",
+      "answer": "P&O Cruises Japan and Asia voyages typically range from €1,299 for inside cabins on 14-night fly-cruises to €4,299 for suites on 21-night grand voyages. Shoulder season departures in March-April and October-November offer best value from €1,299 inside, €1,899 balcony, and €2,899 suite. Peak winter months command 15-20% premiums. World Cruise segments incorporating Japan and Asia start from €1,899. Prices include flights from London on fly-cruise packages, all meals, entertainment, and port taxes. Additional costs include gratuities (€7 per person daily), drinks, speciality dining, Wi-Fi, and shore excursions averaging €65-159 per port."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Japan & Asia?",
+      "answer": "P&O Cruises deploys Arcadia and Aurora for Japan and Asia itineraries in 2026. Arcadia, the line's adult-only mid-size ship carrying 2,096 passengers, specialises in longer exotic voyages with refined, relaxed atmosphere ideal for destination-focused travellers. Aurora, accommodating 1,870 guests, offers family-friendly facilities including children's clubs and more traditional British cruise experience. Both ships feature wrap-around promenade decks essential for scenic Asian sailing. Neither are the newer Britannia-class vessels; P&O deliberately uses these highly manoeuvrable, smaller ships for Asia's more constrained ports like Nagasaki and smaller Vietnamese harbours inaccessible to larger vessels."
+    },
+    {
+      "question": "When is best time to cruise Japan & Asia?",
+      "answer": "Optimal months for P&O's Japan and Asia cruises are March-April for cherry blossom season and October-November for autumn foliage and comfortable temperatures. Spring departures showcase Japan's iconic sakura blooms, though early booking essential for these popular sailings. Autumn offers dry conditions, harvest festivals, and fewer crowds. December-February provides cooler, drier weather ideal for Southeast Asia exploration but brings winter chill to northern Japan. Typhoon season from July-September is generally avoided in P&O's scheduling. The line strategically positions ships for these windows, with Arcadia typically offering spring Japan programmes and Aurora handling autumn Southeast Asia routes."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O Cruises Japan and Asia packages include return flights from London on fly-cruise bookings, all main dining across multiple restaurants, traditional afternoon tea, daytime and evening entertainment including guest lecturers on Asian culture, use of fitness centres, swimming pools, and deck games. Arcadia and Aurora both feature libraries, cinemas, and craft workshops. Children's clubs operate on Aurora. Port taxes and UK coach transfers are included. Accommodation with daily steward service comes standard. What's not included: drinks beyond water, tea, coffee at meals; speciality restaurants; Wi-Fi; spa; laundry; and shore excursions. Gratuities are discretionary though €7 per person daily is recommended."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O's Japan and Asia itineraries feature Tokyo (Yokohama) with Mount Fuji proximity, historic Nagasaki with its poignant peace memorial, Osaka serving Kyoto's temples, and scenic Kagoshima with active volcano views. South Korean calls include Busan and Jeju Island. Southeast Asian highlights encompass Singapore's modern efficiency, Hong Kong's harbour drama, Vietnam's Ho Chi Minh City and Nha Trang, plus occasional Philippines stops at Manila and Boracay. Chinese ports may include Shanghai. These extended voyages prioritise longer stays and overnights in key cities, with P&O's smaller ships accessing ports like Nagasaki and smaller Vietnamese harbours unavailable to mega-ships, maximising authentic regional immersion."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure P&O Japan and Asia cruises 12-18 months ahead for optimal cabin selection, particularly for cherry blossom March-April and autumn foliage October-November departures which sell rapidly. These itineraries represent limited annual deployments with restricted capacity aboard Arcadia and Aurora. Booking early accesses P&O's 'Select Price' benefits including onboard credit up to €300, UK parking, and preferential dining allocations. Late availability occasionally emerges 8-12 weeks before sailing, typically at full price with fewer inclusions. Fly-cruise packages have stricter booking windows due to flight inventory. World Cruise segments release 18-24 months ahead and command earliest commitment for best stateroom locations."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O's Japan and Asia offerings suit families specifically aboard Aurora, which provides children's clubs for ages 2-17, family pools, and evening entertainment suitable for mixed ages. Arcadia is adults-only and excludes under-18s entirely. Asia itineraries demand consideration: extensive port days with long coach transfers, significant time zone adjustments from UK, and cultural sites requiring sustained attention may challenge younger children. However, educational value is exceptional—temple visits, cuisine exploration, and geographic diversity create memorable learning. Shorter 14-night options suit families better than 21-night voyages. P&O's British familiarity helps children adapt, with familiar food options alongside Asian introductions. Family balcony cabins book quickly; early reservation essential."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O Cruises applies standard UK booking conditions: deposits from €250 per person secure reservations, with full balance due 90 days before departure. Cancellation charges escalate from loss of deposit at 90+ days, to 50% of fare at 60-89 days, 75% at 30-59 days, and 100% within 29 days. P&O's 'Select Price' bookings offer greater flexibility with reduced deposit options and ability to transfer to alternative sailing for administrative fee. Travel insurance with cruise cover is strongly recommended given medical evacuation costs from Asia. P&O's own insurance provides specific cruise protection. COVID-19 policies have normalised but may reactivate for regional outbreaks; current terms available at booking."
+    }
+  ]
+}

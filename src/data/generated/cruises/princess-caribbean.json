@@ -1,0 +1,216 @@
+{
+  "title": "Princess Cruises Caribbean Cruises 2026",
+  "intro": "Princess Cruises brings its signature \"Come Back New\" philosophy to the Caribbean, combining elegant ship design with immersive destination experiences. As one of the most established cruise lines in the region, Princess offers diverse itineraries spanning the Eastern, Western, and Southern Caribbean from multiple Florida and Texas homeports. The line distinguishes itself through its exclusive Princess Cays private island in the Bahamas, MedallionClass wearable technology for seamless onboard service, and Discovery at SEA enrichment programs. Caribbean sailings feature the line's renowned culinary program, including specialty restaurants by celebrity chefs, alongside Broadway-style productions and the popular Movies Under the Stars. Whether seeking relaxation on pristine beaches or adventure through ancient Mayan ruins, Princess Cruises delivers a refined yet accessible Caribbean experience with exceptional value and warm, attentive service that keeps guests returning year after year.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Nov",
+      "Dec"
+    ],
+    "ships_on_route": [
+      "Caribbean Princess",
+      "Sky Princess",
+      "Enchanted Princess",
+      "Discovery Princess",
+      "Crown Princess",
+      "Regal Princess"
+    ],
+    "departure_ports": [
+      "Fort Lauderdale",
+      "Miami",
+      "Galveston",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Shoulder (Apr-May, Nov)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Low (Jun-Nov)",
+      "inside_eur": 599,
+      "balcony_eur": 899,
+      "suite_eur": 1499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Eastern Caribbean",
+      "duration_nights": 7,
+      "ports": [
+        "Princess Cays",
+        "St. Thomas",
+        "St. Maarten"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Private island beach day"
+    },
+    {
+      "name": "10-night Southern Caribbean",
+      "duration_nights": 10,
+      "ports": [
+        "Aruba",
+        "Curaçao",
+        "Bonaire",
+        "Grenada"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "ABC islands exploration"
+    },
+    {
+      "name": "14-night Caribbean Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Costa Maya",
+        "Cozumel",
+        "Belize",
+        "Roatán",
+        "Grand Cayman"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Mayan ruins and reef diving"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Caribbean Princess",
+      "capacity": 3140,
+      "year": 2004,
+      "best_for": "Multi-generational families",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Sky Princess",
+      "capacity": 3660,
+      "year": 2019,
+      "best_for": "Couples and food enthusiasts",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Enchanted Princess",
+      "capacity": 3660,
+      "year": 2020,
+      "best_for": "Luxury seekers",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Discovery Princess",
+      "capacity": 3660,
+      "year": 2022,
+      "best_for": "Tech-savvy travelers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Regal Princess",
+      "capacity": 3560,
+      "year": 2014,
+      "best_for": "Adults and relaxation seekers",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "Main dining room meals",
+    "Buffet dining",
+    "Pizza and ice cream",
+    "Poolside snacks",
+    "Broadway-style shows",
+    "Movies Under the Stars",
+    "Fitness center",
+    "Kids and teen clubs",
+    "MedallionClass wearable technology",
+    "Room service (delivery fee applies)"
+  ],
+  "whats_extra": [
+    "Beverage packages",
+    "Specialty dining",
+    "Shore excursions",
+    "Spa treatments",
+    "WiFi packages",
+    "Casino gaming",
+    "Laundry services",
+    "Photos and artwork",
+    "Airport transfers",
+    "Gratuities (automatically added)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts; monitor Princess promotions for free upgrades and onboard credit offers; consider repositioning cruises for exceptional value.",
+  "top_ports": [
+    {
+      "port": "Princess Cays (Bahamas)",
+      "time_in_port": "9am-5pm",
+      "top_activity": "Private cabana rental ($249)",
+      "tip": "Reserve cabanas 90 days pre-cruise"
+    },
+    {
+      "port": "St. Thomas",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Magens Bay beach ($45)",
+      "tip": "Take early taxi to beat crowds"
+    },
+    {
+      "port": "Cozumel",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Palancar Reef snorkel ($89)",
+      "tip": "Book through Princess for guarantee"
+    },
+    {
+      "port": "Aruba",
+      "time_in_port": "8am-6pm",
+      "top_activity": "De Palm Island all-inclusive ($89)",
+      "tip": "Afternoon departure allows full day"
+    },
+    {
+      "port": "Grand Cayman",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Stingray City sandbar ($65)",
+      "tip": "Tender port—book early departure"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Caribbean cruise cost?",
+      "answer": "Princess Cruises Caribbean sailings typically range from €599 to €2,499 per person for standard accommodations, with inside cabins starting around €599-€899 in low season and €899-€1,199 during peak winter months. Balcony staterooms, highly recommended for Caribbean sailing, generally cost €899-€1,399 depending on season. Suite accommodations begin at approximately €1,499 and can exceed €4,000 for premium suites. Prices exclude gratuities (approximately €15 per person daily), beverages, specialty dining, and shore excursions. Princess frequently offers promotions including free upgrades, onboard credit, and reduced deposits. Repositioning and longer itineraries often provide exceptional value per night."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Caribbean?",
+      "answer": "Princess deploys multiple vessels to the Caribbean seasonally, led by Caribbean Princess which offers year-round Caribbean service and features the line's largest movies under the stars screen. Royal-class ships Sky Princess, Enchanted Princess, and Discovery Princess bring modern amenities including the Wake View Bar and enhanced Princess Live entertainment venue. Regal Princess and Crown Princess offer traditional elegance with proven itineraries. These ships range from 3,140 to 3,660 passengers and feature MedallionClass technology for personalized service, multiple specialty restaurants, expansive spa facilities, and dedicated adults-only Sanctuary retreats. Ship assignments vary by season with larger vessels typically operating peak winter departures."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "The optimal Caribbean cruising period runs December through April, offering ideal weather conditions with temperatures averaging 25-29°C, minimal rainfall, and low humidity. January and February particularly deliver perfect conditions though command premium pricing. March and April provide excellent weather with slightly lower crowds post-spring break. November and early December present good value with generally favorable conditions before holiday pricing begins. Hurricane season officially spans June through November, with September and October offering lowest prices but highest weather risk; Princess provides itinerary flexibility during this period. Southern Caribbean routes remain preferable during summer months as they lie below the main hurricane belt."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Cruises Caribbean fares include accommodation in chosen stateroom category, all main dining room meals, Horizon Court buffet, international café items, pizza, ice cream, and select poolside snacks. Entertainment encompasses Broadway-style production shows, live music venues, comedy performances, outdoor Movies Under the Stars, and enrichment lectures. Fitness center access, basketball and volleyball courts, and supervised programming for children ages 3-17 through Camp Discovery are complimentary. The innovative OceanMedallion wearable enables seamless boarding, cabin access, and contactless payment. Basic room service carries a delivery fee. Notably excluded are beverages beyond water, tea, coffee and juice at breakfast; specialty restaurants; shore excursions; spa services; WiFi; and gratuities which are automatically added to onboard accounts."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess Cruises Caribbean itineraries feature extensive port variety across three distinct regions. Eastern Caribbean sailings typically visit Princess Cays (the line's private Bahamian island), St. Thomas, St. Maarten, San Juan, and Grand Turk. Western Caribbean routes emphasize Mexican and Central American destinations including Cozumel, Costa Maya, Belize City, Roatán, and Grand Cayman, with extensive Mayan ruin excursion opportunities. Southern Caribbean itineraries, often 10-14 nights, reach the ABC islands (Aruba, Bonaire, Curaçao), Barbados, Grenada, Dominica, and St. Lucia. Select sailings include the Panama Canal partial transit. Departure ports comprise Fort Lauderdale and Miami year-round, with seasonal departures from Galveston, Tampa, and occasionally Barcelona for repositioning cruises."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For optimal Princess Caribbean cruises, advance booking of 9-12 months is strongly recommended, particularly for peak winter sailings, popular balcony categories, and suite accommodations. This timing captures early booking discounts typically 10-15% off, best cabin selection including midship balconies, and preferred dining times. Suites and mini-suites often sell out 6-8 months ahead. Last-minute deals occasionally emerge 60-90 days before sailing, primarily for inside cabins and less desirable locations. Group bookings should secure space 12-18 months ahead. Princess releases itineraries approximately 18 months in advance. Booking through Princess directly or knowledgeable agents ensures access to exclusive promotions including free gratuities, beverage packages, and onboard credit that enhance overall value."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Cruises excels for multi-generational Caribbean family travel, though families with young children should note the line traditionally skews toward adults and older children. The Discovery at SEA partnership with Discovery Networks provides immersive educational programming. Camp Discovery offers age-appropriate activities for Pelicans (3-7), Shockwaves (8-12), and Teens (13-17), with dedicated youth facilities and counselors. Family-friendly shore excursions include beach breaks, snorkeling adventures, and cultural experiences. Pool areas, sports courts, and family stateroom configurations accommodate groups. Evening entertainment suits broad age ranges. The MedallionClass technology particularly appeals to tech-comfortable children. Families seeking intensive children's programming may find dedicated family lines more comprehensive, though Princess delivers refined, relaxed family vacations with genuine destination focus."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises employs a tiered cancellation structure based on voyage length and timing. For standard Caribbean cruises under 30 days, cancellations 91+ days before departure incur no penalty; 90-61 days lose deposit; 60-31 days forfeit 50% of total fare; 30-15 days lose 75%; and 14 days or less sacrifice 100%. Extended voyages over 30 days carry stricter terms with penalties beginning 180 days out. Princess recommends travel insurance covering cancellation for medical and covered reasons. The line's Princess Vacation Protection plan, available for purchase, provides cash refunds versus future cruise credits for covered cancellations. COVID-19 protocols introduced flexible cancellation options including Future Cruise Credit for health-related cancellations, though standard terms have largely resumed. Rebooking to alternative sailings typically minimizes financial exposure."
+    }
+  ]
+}

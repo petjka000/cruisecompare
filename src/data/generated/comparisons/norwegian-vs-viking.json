@@ -1,0 +1,188 @@
+{
+  "title": "Norwegian Cruise Line vs Viking Cruises 2026",
+  "intro": "Norwegian Cruise Line and Viking Cruises represent two fundamentally different cruise philosophies. Norwegian pioneered freestyle cruising with massive resort-style ships, waterslides, and Broadway entertainment, targeting families, couples, and multi-generational groups seeking variety and flexibility. Viking dominates the premium small-ship segment with destination-focused itineraries, all-veranda staterooms, and an adults-only policy, appealing to culturally curious travellers aged 55-plus. Norwegian operates 19 ships globally with capacities up to 4,000 passengers, while Viking's 92-vessel fleet includes identical ocean ships carrying 930 guests. Both compete in the mid-market price bracket but deliver vastly different experiences. Your travel style, companions, and priorities determine the better fit.",
+  "at_a_glance": {
+    "norwegian": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "viking": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 2499
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "norwegian": "€799",
+      "viking": "€2,499"
+    },
+    {
+      "category": "Price (7-night balcony)",
+      "norwegian": "€1,199",
+      "viking": "€3,299"
+    },
+    {
+      "category": "Passenger capacity",
+      "norwegian": "1,936-4,004",
+      "viking": "930"
+    },
+    {
+      "category": "Crew-to-passenger ratio",
+      "norwegian": "1:2.4",
+      "viking": "1:1.7"
+    },
+    {
+      "category": "Included beverages",
+      "norwegian": "Extra (€89/day package)",
+      "viking": "All included"
+    },
+    {
+      "category": "Specialty dining",
+      "norwegian": "Extra (€25-55/meal)",
+      "viking": "All included"
+    },
+    {
+      "category": "Shore excursions",
+      "norwegian": "Extra (€59-299)",
+      "viking": "One included per port"
+    },
+    {
+      "category": "WiFi",
+      "norwegian": "Extra (€14.99/day)",
+      "viking": "Included"
+    },
+    {
+      "category": "Gratuities",
+      "norwegian": "Extra (€16/day)",
+      "viking": "Included"
+    },
+    {
+      "category": "Adults-only",
+      "norwegian": "No",
+      "viking": "Yes (18+)"
+    },
+    {
+      "category": "Waterslides/ropes courses",
+      "norwegian": "Yes",
+      "viking": "No"
+    },
+    {
+      "category": "Broadway shows",
+      "norwegian": "Yes",
+      "viking": "Enrichment lectures"
+    },
+    {
+      "category": "Casino",
+      "norwegian": "Yes",
+      "viking": "No"
+    },
+    {
+      "category": "Dress code",
+      "norwegian": "Resort casual",
+      "viking": "Elegant casual"
+    },
+    {
+      "category": "Stateroom size (standard)",
+      "norwegian": "13-15 m²",
+      "viking": "25 m²"
+    },
+    {
+      "category": "Balcony percentage",
+      "norwegian": "78%",
+      "viking": "100%"
+    },
+    {
+      "category": "Itinerary focus",
+      "norwegian": "Resort + ports",
+      "viking": "Destination immersion"
+    },
+    {
+      "category": "Evening entertainment",
+      "norwegian": "Production shows, comedy",
+      "viking": "Classical music, port talks"
+    }
+  ],
+  "choose_a_if": [
+    "You travel with children or teenagers who need waterslides, kids' clubs, and age-appropriate activities",
+    "You prefer flexible dining without fixed schedules and want 20+ restaurant choices including casual buffets and celebrity chef venues",
+    "You enjoy Vegas-style entertainment, casinos, late-night parties, and high-energy shipboard atmosphere",
+    "Your budget requires a lower upfront fare and you're willing to pay à la carte for extras",
+    "You want mega-ship amenities like go-kart tracks, laser tag, and multi-deck water parks at sea"
+  ],
+  "choose_b_if": [
+    "You are aged 55+ and seek a child-free environment with sophisticated, like-minded travellers",
+    "You value inclusive pricing where beverages, specialty dining, shore excursions, WiFi, and gratuities are bundled",
+    "You prioritise destination immersion over shipboard entertainment, preferring longer port stays and overnight calls",
+    "You want guaranteed balcony accommodation with Nordic-inspired design and under-stated elegance",
+    "You appreciate enrichment through lectures, cooking classes, and cultural performances rather than Broadway productions"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with children",
+      "winner": "Norwegian Cruise Line",
+      "reason": "Splash Academy kids' club (ages 3-17), waterslides, ropes courses, and family interconnecting staterooms make Norwegian unmatched for multi-generational holidays with younger travellers."
+    },
+    {
+      "type": "Couples 55+",
+      "winner": "Viking Cruises",
+      "reason": "No children, included wine with meals, spa thermal suite, and intimate 930-passenger ships create the refined, peaceful atmosphere this demographic prefers for cultural exploration."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Norwegian Cruise Line",
+      "reason": "Lower entry price and freestyle concept reduce intimidation; flexible dining and casual dress code ease newcomers into cruising without rigid traditions."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Norwegian Cruise Line",
+      "reason": "Norwegian's studio staterooms with exclusive lounge and no single supplement on select sailings outperform Viking's limited solo options and higher single occupancy rates."
+    },
+    {
+      "type": "Food and wine enthusiasts",
+      "winner": "Viking Cruises",
+      "reason": "All specialty restaurants included, kitchen table experience, regional wine pairings, and cooking school at sea deliver superior culinary value despite higher base fare."
+    },
+    {
+      "type": "Adventure seekers",
+      "winner": "Norwegian Cruise Line",
+      "reason": "Expedition-style activities on Norwegian's private island Harvest Caye, extreme waterslides, and active shore excursions better serve travellers wanting physical thrills."
+    },
+    {
+      "type": "Cultural travellers",
+      "winner": "Viking Cruises",
+      "reason": "Destination-focused programming, included walking tours, resident historians, and overnight stays in major ports enable deeper engagement with local heritage and arts."
+    },
+    {
+      "type": "Budget-conscious travellers",
+      "winner": "Norwegian Cruise Line",
+      "reason": "Promotional fares starting at €599 for 7 nights, plus frequent sales, make Norwegian accessible; Viking's premium all-inclusive model requires substantially higher initial outlay."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends on spending discipline. Norwegian's €799 base fare requires budgeting €300-500 extra for beverages, dining, WiFi, and gratuities, bringing true cost to €1,100-1,300. Viking's €2,499 fare includes virtually everything, often yielding lower total expenditure for moderate drinkers and excursion-takers. Analyse your habits: light spenders save with Norwegian; those who purchase packages find Viking's transparent pricing superior. Viking's included shore excursions (worth €80-150 daily) and premium beverages particularly benefit value-conscious travellers who would otherwise upgrade on Norwegian."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Norwegian Cruise Line dominates family cruising through dedicated youth programming across four age groups, from Guppies nursery (6 months-3 years) to Entourage teen lounge. Waterslides, ropes courses, and Broadway-calibre shows entertain diverse ages simultaneously. Viking prohibits guests under 18 entirely, making the comparison moot for family travel. Norwegian's family staterooms accommodate five, and their private island Harvest Caye features ziplines and wildlife encounters. For multi-generational groups where grandparents desire Viking's sophistication, consider splitting the holiday or choosing Norwegian's Haven suites for premium experience with family amenities."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Norwegian's published fares appear 60-70% lower than Viking's, but this obscures true cost comparison. A 7-night Mediterranean cruise in 2026 shows Norwegian inside at €799 versus Viking veranda at €2,499. However, adding Norwegian's Premium Plus Beverage Package (€89/day), 3 specialty dinners (€120), WiFi (€105), and gratuities (€112) increases Norwegian's total to €1,725. Viking's fare includes all these elements plus one excursion per port. Balcony comparisons narrow further: Norwegian balcony at €1,199 plus packages reaches €2,125, only €374 below Viking's superior product with larger staterooms and better crew ratios."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Viking wins on culinary consistency and inclusion, though Norwegian offers greater variety. Viking's Manfredi's Italian and Chef's Table provide fine dining without surcharge, with menus developed by consulting chefs. Norwegian's 20+ venues include excellent Cagney's steakhouse and Le Bistro French restaurant, but €25-55 cover charges apply. Viking's Kitchen Table experience (market tour plus cooking class) and regional destination menus demonstrate superior food-shore connection. Norwegian's buffet quality varies by ship age, while Viking maintains standards across its identical fleet. Wine enthusiasts prefer Viking's included pours; Norwegian's base package offers limited selections."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Norwegian Cruise Line suits most first-timers better due to lower financial risk and flexible structure. The freestyle concept eliminates anxiety about dress codes and fixed dining times that deter cruise-curious travellers. Norwegian's larger ships feel like floating resorts, easing the transition from land-based holidays. However, culturally oriented first-timers aged 50+ may find Viking's inclusive, simplified model less overwhelming than navigating Norwegian's à la carte options. Viking's smaller scale reduces intimidation, and included excursions eliminate decision fatigue. First-timers prioritising relaxation over exploration should choose Norwegian; those seeking intellectual stimulation prefer Viking."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental divergence lies in philosophy: Norwegian builds floating entertainment complexes where the ship is the destination; Viking builds elegant transportation to destinations. Norwegian accommodates 2,000-4,000 guests with casinos, waterslides, and production shows; Viking carries 930 guests with libraries, spas, and enrichment lectures. Norwegian targets ages 0-80 with family programming; Viking serves 55+ adults exclusively. Norwegian employs à la carte pricing with low entry fares; Viking uses premium all-inclusive pricing. Norwegian emphasises Caribbean and Bahamas resort cruising; Viking focuses on Mediterranean, Baltic, and expedition cultural itineraries. Staterooms differ dramatically: Norwegian's 13-15m² insides versus Viking's 25m² minimum all-veranda standard."
+    }
+  ]
+}

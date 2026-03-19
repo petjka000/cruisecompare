@@ -1,0 +1,39 @@
+{
+  "slug": "msc-mediterranean-7-night-from-499",
+  "title": "MSC Mediterranean 7-Night from €499",
+  "cruise_line": "MSC Cruises",
+  "destination": "Mediterranean",
+  "departure_port": "Genoa",
+  "duration_nights": 7,
+  "price_eur": 499,
+  "price_per_night": 71,
+  "original_price_eur": 749,
+  "discount_pct": 33,
+  "departure_dates": [
+    "2026-06-14",
+    "2026-07-05",
+    "2026-08-02"
+  ],
+  "ports_of_call": [
+    "Barcelona",
+    "Marseille",
+    "Valencia",
+    "Palermo"
+  ],
+  "includes": [
+    "meals",
+    "entertainment",
+    "pool"
+  ],
+  "excludes": [
+    "drinks",
+    "shore excursions",
+    "gratuities"
+  ],
+  "booking_url": "https://www.msccruises.com",
+  "source": "placeholder",
+  "scraped_at": "2026-03-19T13:01:47.256997+00:00",
+  "published_at": "2026-03-19T13:01:47.256997+00:00",
+  "meta_description": "MSC Mediterranean 7-night cruise from Genoa from €499. Visit Barcelona, Marseille, Valencia, and Palermo.",
+  "excerpt": "Visit Barcelona, Marseille, Valencia, and Palermo on this classic Mediterranean round-trip."
+}

@@ -1,0 +1,231 @@
+{
+  "title": "Norwegian Cruise Line Mediterranean Cruises 2026",
+  "intro": "Norwegian Cruise Line revolutionised Mediterranean cruising with its pioneering Freestyle Cruising concept, eliminating fixed dining times and formal dress codes. Their 2026 Mediterranean programme features seven contemporary ships sailing diverse itineraries from Barcelona, Rome and Venice, combining iconic destinations with hidden gems along the French Riviera, Greek Isles and Adriatic coast. Norwegian's distinctive approach appeals to independent travellers seeking flexibility—dine when you wish, dress as you please, and explore ashore without regimented schedules. Their newer Breakaway Plus and Prima-class vessels offer elevated dining with up to 27 venues, including specialty restaurants by Iron Chef Geoffrey Zakarian. The line particularly suits multi-generational groups, with dedicated adults-only retreats and award-winning youth programmes. Norwegian's private island, Great Stirrup Cay, occasionally features on repositioning itineraries, whilst Mediterranean sailings emphasise late-night port stays and overnight calls in Venice and Istanbul, maximising immersion in these cultural capitals.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Norwegian Viva",
+      "Norwegian Prima",
+      "Norwegian Escape",
+      "Norwegian Epic",
+      "Norwegian Getaway",
+      "Norwegian Jade",
+      "Norwegian Gem"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome (Civitavecchia)",
+      "Venice (Trieste)",
+      "Athens (Piraeus)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Nov)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Peak (May-Jun, Sep-Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "High Summer (Jul-Aug)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Western Mediterranean from Barcelona",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Florence/Pisa (Livorno)",
+        "Rome (Civitavecchia)",
+        "Naples",
+        "Palma de Mallorca"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Iconic cities with late departure from Rome"
+    },
+    {
+      "name": "10-night Greek Isles from Rome",
+      "duration_nights": 10,
+      "ports": [
+        "Rome (Civitavecchia)",
+        "Santorini",
+        "Athens (Piraeus)",
+        "Mykonos",
+        "Rhodes",
+        "Valletta",
+        "Naples"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Extended time in Santorini with overnight option"
+    },
+    {
+      "name": "14-night Adriatic & Greek Isles from Venice",
+      "duration_nights": 14,
+      "ports": [
+        "Venice (Trieste)",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Santorini",
+        "Mykonos",
+        "Athens (Piraeus)",
+        "Katakolon",
+        "Naples",
+        "Florence/Pisa (Livorno)",
+        "Rome (Civitavecchia)"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Comprehensive Adriatic exploration with overnight Venice embarkation"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Norwegian Viva",
+      "capacity": 3950,
+      "year": 2023,
+      "best_for": "Contemporary luxury seekers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Norwegian Prima",
+      "capacity": 3950,
+      "year": 2022,
+      "best_for": "Design-conscious travellers",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Norwegian Escape",
+      "capacity": 4266,
+      "year": 2015,
+      "best_for": "Families and entertainment lovers",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Norwegian Epic",
+      "capacity": 4100,
+      "year": 2010,
+      "best_for": "Solo travellers (studio cabins)",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Norwegian Jade",
+      "capacity": 2402,
+      "year": 2006,
+      "best_for": "Intimate, port-intensive sailing",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Norwegian Gem",
+      "capacity": 2394,
+      "year": 2007,
+      "best_for": "Value-conscious cruisers",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals",
+    "Casual buffet dining",
+    "Select casual venues including O'Sheehan's Neighborhood Bar & Grill",
+    "Broadway-style entertainment and live music",
+    "Fitness centre access",
+    "Kids' clubs and teen programmes",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverages (soda, alcohol, specialty coffee)",
+    "Specialty dining restaurants ($15-45 per person)",
+    "Shore excursions (€59-299 per person)",
+    "Wi-Fi packages ($25-35 per day)",
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Laundry and dry cleaning",
+    "Gratuities (€16-20 per person per day auto-added)",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for optimal cabin selection and lowest fares, particularly for balcony staterooms on Norwegian Viva and Prima. Norwegian frequently runs 'Free at Sea' promotions including beverage packages, specialty dining, Wi-Fi and excursion credits—value these at €400-600 when comparing. Wave Season (January-March) historically offers strongest incentives. Consider repositioning cruises in April or November for 30-40% savings. Solo travellers benefit from Norwegian's innovative studio cabins with exclusive lounge access, though these sell rapidly. Mediterranean summer 2026 inventory opened 18 months ahead; prime July-August sailings at 70% capacity by early 2025.",
+  "top_ports": [
+    {
+      "port": "Santorini, Greece",
+      "time_in_port": "1pm-10pm",
+      "top_activity": "Sunset catamaran cruise with dinner (€189)",
+      "tip": "Book afternoon excursions to avoid cruise ship crowds at Oia"
+    },
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "City walls walk with Game of Thrones tour (€79)",
+      "tip": "Walk the walls before 9am or after 4pm to avoid heat and congestion"
+    },
+    {
+      "port": "Florence/Pisa (Livorno), Italy",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Uffizi Gallery timed entry with guided walk (€149)",
+      "tip": "Livorno port requires 90-minute transfer; ship excursions minimise logistics"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Fortress hike with Bay of Kotor boat tour (€69)",
+      "tip": "Tender port—early departure essential; stunning fjord scenery en route"
+    },
+    {
+      "port": "Naples, Italy",
+      "time_in_port": "6:30am-5pm",
+      "top_activity": "Pompeii with Amalfi Coast drive (€199)",
+      "tip": "Pizza lunch in Naples old town beats ship food; allow time for Spaccanapoli"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Norwegian Cruise Line Mediterranean cruise cost?",
+      "answer": "Norwegian Cruise Line Mediterranean cruises in 2026 range from €699 for inside cabins on older ships during shoulder season to €2,599 for suites in peak summer. Typical seven-night sailings average €899-€1,299 for balcony accommodations. The 'Free at Sea' promotion significantly reduces onboard spending by bundling beverages, specialty dining, Wi-Fi and shore excursion credits—potentially saving €400-600. Solo travellers benefit from studio cabins starting €849 without single supplement penalties. Families should factor €16-20 daily gratuities per person and €150-300 for youth programme activities. Repositioning cruises in April and November offer 30-40% discounts, whilst Christmas and New Year sailings command premium pricing 25% above standard rates."
+    },
+    {
+      "question": "Which Norwegian Cruise Line ships sail to Mediterranean?",
+      "answer": "Seven Norwegian Cruise Line vessels operate Mediterranean itineraries in 2026. Norwegian Viva and Norwegian Prima, the line's newest Prima-class ships, offer elevated design and dining with 29-30% more space per guest than previous classes. Norwegian Escape and Norwegian Epic provide extensive entertainment including Broadway productions and comedy clubs. Norwegian Jade and Norwegian Gem, smaller post-refurbishment vessels, access intimate ports unavailable to larger ships. Norwegian Getaway alternates between Mediterranean and Northern European routes. Viva and Prima concentrate on Western Mediterranean and Greek Isles, whilst Jade and Gem specialise in Adriatic and Eastern Mediterranean deployments with overnight Venice stays."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "Optimal Mediterranean cruising occurs during shoulder seasons: May, early June, September and October, when temperatures range 20-26°C, crowds diminish, and prices drop 15-25% from peak summer. May offers wildflower displays in Greek islands and pleasant sightseeing conditions. September maintains warm seas ideal for swimming whilst harvest festivals enliven Italian and Spanish ports. July and August bring intense heat exceeding 35°C in inland excursion destinations like Rome and Athens, alongside peak pricing and congested attractions. November and March sailings suit budget-conscious travellers accepting cooler 15-20°C temperatures and reduced swimming appeal, though some seasonal restaurants close. Norwegian's Mediterranean programme runs March through November, with no winter operations."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Norwegian Cruise Line Mediterranean cruises include accommodation, all main dining room meals, casual buffet dining, select complimentary venues including O'Sheehan's 24-hour pub, Broadway-calibre entertainment, live music venues, fitness centre access, and supervised youth programmes for ages 3-17. Port taxes and fees are incorporated in advertised fares. Beverages beyond basic coffee, tea and water incur charges—alcohol packages run €109-139 daily. Specialty restaurants like Cagney's Steakhouse and Le Bistro carry €15-45 cover charges. Wi-Fi costs €25-35 daily. Gratuities of €16-20 per person per day are auto-added. Shore excursions, spa treatments, casino gaming and laundry remain additional. The 'Free at Sea' promotion frequently bundles beverage packages, specialty dining credits, Wi-Fi and excursion discounts."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Norwegian Cruise Line Mediterranean itineraries encompass Western Mediterranean classics including Barcelona, Marseille, Florence/Livorno, Rome/Civitavecchia, Naples and Palma de Mallorca. Greek Isles routes feature Santorini, Mykonos, Athens/Piraeus, Rhodes, Corfu and Katakolon (Olympia). Adriatic deployments visit Venice/Trieste, Dubrovnik, Kotor, Split and Zadar. Eastern Mediterranean extensions include Istanbul, Ephesus/Kusadasi and Haifa. Norwegian emphasises late departures and overnight stays—particularly Venice embarkations allowing full days pre-cruise, and Santorini calls extending to 10pm for sunset experiences. Smaller ships Norwegian Jade and Gem access intimate Montenegrin and Croatian ports unavailable to larger vessels. Norwegian does not currently include Turkish ports on regular Mediterranean itineraries due to operational adjustments."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Norwegian Mediterranean cruises 9-14 months ahead for optimal cabin selection and lowest pricing, particularly for balcony staterooms on Norwegian Viva and Prima where demand exceeds supply. Prime July-August 2026 sailings reached 60% capacity by mid-2025. Wave Season (January-March) historically delivers strongest promotional incentives including 'Free at Sea' upgrades. Solo travellers must book studio cabins immediately upon release—these 82-128 exclusive cabins sell within weeks. Last-minute Mediterranean availability rarely materialises given Norwegian's reduced European deployment post-pandemic. Final payment typically falls 90-120 days before sailing. Consider refundable deposits for itineraries 12+ months out, as Norwegian's cancellation penalties escalate closer to departure with 100% forfeiture within 30 days."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Norwegian Cruise Line excels for Mediterranean family cruising through flexible Freestyle dining accommodating varying schedules, extensive complimentary kids' clubs (Splash Academy ages 3-12, Entourage teens 13-17), and interconnected stateroom configurations. The line's newer ships feature multi-deck water parks, ropes courses, and virtual reality gaming—though Mediterranean port-intensive itineraries limit sea day enjoyment of these facilities. Family suites sleeping up to six include exclusive access to Prima-class's elevated sundeck. Shore excursions cater to families with bike tours, beach transfers and pizza-making classes. However, Mediterranean cruising demands substantial port walking and historical site engagement that may fatigue younger children. Norwegian's relaxed dress code and diverse dining options particularly suit families with selective eaters or teenagers resistant to formal cruise traditions."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Norwegian Cruise Line's Mediterranean cancellation policy operates on a sliding scale based on voyage length and timing. For standard 7-14 night cruises, cancellation 120+ days before departure incurs no penalty with refundable fares, or loss of deposit for non-refundable bookings. 119-90 days prior forfeits deposit; 89-61 days costs 50% of total fare; 60-31 days costs 75%; within 30 days incurs 100% forfeiture. 'Free at Sea' promotional components carry separate forfeiture schedules—unused beverage packages and dining credits are non-refundable after embarkation. Travel insurance through Norwegian's partners or independent providers is strongly recommended given Mediterranean air disruption risks. COVID-19 protocols have been discontinued, though Norwegian reserves right to deny boarding for symptomatic passengers without refund. Rebooking onto future sailings may be offered at cruise line discretion."
+    }
+  ]
+}

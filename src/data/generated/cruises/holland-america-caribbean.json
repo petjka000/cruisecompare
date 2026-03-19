@@ -1,0 +1,235 @@
+{
+  "title": "Holland America Line Caribbean Cruises 2026",
+  "intro": "Holland America Line brings its signature elegant cruising style to the Caribbean, combining classic maritime traditions with immersive destination experiences. Since 1873, this premium cruise line has perfected the art of relaxed sophistication, offering Caribbean voyages that appeal to discerning travelers seeking depth over speed. Their mid-sized ships navigate both popular eastern and western Caribbean routes, accessing ports that larger vessels cannot reach. Holland America's Caribbean program emphasizes cultural enrichment through EXC In-Depth shore excursions, cooking demonstrations featuring regional cuisines, and partnerships with BBC Earth for natural history programming. The line attracts an experienced demographic—typically 50-70 years old—who appreciate refined service, exceptional dining including the acclaimed Rudi's Sel de Mer, and spacious accommodations. Caribbean sailings range from 7-night escapes to 14-night explorations, with many itineraries incorporating the private island Half Moon Cay, consistently rated among cruise industry's best private destinations.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Zuiderdam"
+    ],
+    "departure_ports": [
+      "Fort Lauderdale",
+      "Tampa"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1499,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Shoulder (Mar-May, Nov)",
+      "inside_eur": 749,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Low (Jun-Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Eastern Caribbean Treasures",
+      "duration_nights": 7,
+      "ports": [
+        "Half Moon Cay",
+        "Grand Turk",
+        "San Juan",
+        "St. Thomas"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Overnight in San Juan with exclusive evening excursion access"
+    },
+    {
+      "name": "Western Caribbean Explorer",
+      "duration_nights": 7,
+      "ports": [
+        "Half Moon Cay",
+        "Ocho Rios",
+        "George Town",
+        "Cozumel"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Jamaican cultural immersion with plantation tour"
+    },
+    {
+      "name": "Southern Caribbean Seafarer",
+      "duration_nights": 10,
+      "ports": [
+        "Half Moon Cay",
+        "Aruba",
+        "Bonaire",
+        "Curacao",
+        "Cartagena"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "ABC islands with UNESCO World Heritage Cartagena"
+    },
+    {
+      "name": "Caribbean Circle",
+      "duration_nights": 14,
+      "ports": [
+        "Half Moon Cay",
+        "Aruba",
+        "Barbados",
+        "Dominica",
+        "St. Kitts",
+        "St. Thomas"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Comprehensive Lesser Antilles exploration with two sea days"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Rotterdam",
+      "capacity": 2668,
+      "year": 2021,
+      "best_for": "Culinary enthusiasts, art lovers",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Nieuw Statendam",
+      "capacity": 2666,
+      "year": 2018,
+      "best_for": "Music lovers, couples",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Zuiderdam",
+      "capacity": 1964,
+      "year": 2002,
+      "best_for": "Classic cruise experience, value seekers",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Nieuw Amsterdam",
+      "capacity": 2106,
+      "year": 2010,
+      "best_for": "Alaska-Caribbean combo cruisers",
+      "price_from_eur": 779
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals including breakfast, lunch, dinner",
+    "Lido Market buffet dining",
+    "24-hour room service",
+    "Daily housekeeping and turndown service",
+    "Evening entertainment including live music and production shows",
+    "BBC Earth natural history presentations",
+    "Cooking demonstrations and culinary workshops",
+    "Fitness center access",
+    "Port taxes and government fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (alcoholic and specialty coffee)",
+    "Shore excursions and EXC In-Depth tours",
+    "Specialty dining at Pinnacle Grill, Rudi's Sel de Mer, Tamarind",
+    "Spa services and salon treatments",
+    "Wi-Fi packages",
+    "Laundry and dry cleaning",
+    "Airport transfers",
+    "Gratuities (€16 per person per day recommended)",
+    "Photography services",
+    "Casino gaming",
+    "Medical services"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for optimal cabin selection and early booking savings up to 25%. Holland America frequently offers 'Have It All' promotions bundling drinks, excursions, Wi-Fi, and specialty dining. Wave season (January-March) brings strongest incentives. Consider repositioning cruises in April and November for 30-40% savings. Mariner Society loyalty members receive exclusive early access and onboard credits. Suite bookings include additional perks worth €500-800. Final payment typically due 90 days before sailing for standard bookings, 120 days for suites.",
+  "top_ports": [
+    {
+      "port": "Half Moon Cay (Private Island)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Horseback riding in surf ($149)",
+      "tip": "Reserve cabanas 6+ months ahead; only 25 available"
+    },
+    {
+      "port": "San Juan",
+      "time_in_port": "1pm-11pm",
+      "top_activity": "Evening bioluminescent bay kayak ($189)",
+      "tip": "Overnight calls allow independent Old San Juan exploration"
+    },
+    {
+      "port": "Aruba",
+      "time_in_port": "8am-11pm",
+      "top_activity": "De Palm Island all-inclusive ($129)",
+      "tip": "Book afternoon departure to avoid cruise crowds at Eagle Beach"
+    },
+    {
+      "port": "Bonaire",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Washington Slagbaai National Park 4x4 ($159)",
+      "tip": "Excellent shore diving; rent truck and tanks independently for $75"
+    },
+    {
+      "port": "Curacao",
+      "time_in_port": "8am-11pm",
+      "top_activity": "Jewish heritage and plantation tour ($139)",
+      "tip": "Willemstad's floating bridge opens on schedule; plan crossings"
+    },
+    {
+      "port": "St. Thomas",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Magens Bay beach transfer ($59)",
+      "tip": "Morning arrival beats afternoon cruise congestion; taxi cheaper than ship transfer"
+    },
+    {
+      "port": "Cartagena",
+      "time_in_port": "7am-3pm",
+      "top_activity": "San Pedro Claver Church and Getsemani walking tour ($119)",
+      "tip": "Short port time favors ship excursions; traffic unpredictable"
+    },
+    {
+      "port": "George Town (Grand Cayman)",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Stingray City sandbar encounter ($109)",
+      "tip": "Tender port—book early departure excursions to maximize time"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line Caribbean cruise cost?",
+      "answer": "Holland America Caribbean cruises range from €699 for interior cabins during low season to €2,499+ for suites in peak winter months. Seven-night itineraries typically cost €749-€1,499 depending on season and cabin category. Balcony staterooms, highly recommended for Caribbean sailing, run €999-€1,799. The 'Have It All' promotional pricing often provides best value, bundling drinks, Wi-Fi, excursions, and specialty dining for approximately €50 per day premium. Solo travelers face 50-100% single supplements, though occasional waived supplement promotions appear. Gratuities add €16 per person daily. Shore excursions average €89-€189 per port. Total vacation cost for couple: €2,500-€5,500 for moderate spending, €6,000+ with premium experiences."
+    },
+    {
+      "question": "Which Holland America Line ships sail to Caribbean?",
+      "answer": "Holland America deploys its Pinnacle-class and Vista-class vessels to Caribbean waters. Rotterdam (2021, 2,668 passengers) and Nieuw Statendam (2018, 2,666 passengers) serve as primary Caribbean ships, offering the line's newest amenities including the Music Walk entertainment district. Zuiderdam (2002, 1,964 passengers) provides more intimate sailing with classic Holland America ambiance. Nieuw Amsterdam (2010, 2,106 passengers) rotates between Caribbean and Alaska seasons. These mid-sized ships—significantly smaller than mega-ships from Royal Caribbean or Carnival—access ports like Kralendijk and Roseau that larger vessels cannot reach. All feature the Culinary Arts Center, Explorations Central destination programming, and extensive balcony stateroom inventory averaging 67% of accommodations."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "December through February offers ideal Caribbean conditions: minimal rainfall, steady 28°C temperatures, and lowest hurricane risk. This peak season commands premium pricing but guarantees reliable weather for beach excursions and water activities. March-April provides excellent conditions with slightly lower crowds post-spring break. May-June brings warming waters, blooming tropical flowers, and reduced rates before summer humidity rises. July-November constitutes hurricane season with highest precipitation and storm risk; however, modern forecasting allows itinerary adjustments, and prices drop 30-40%. Holland America's southern Caribbean routes (Aruba, Bonaire, Curacao) sit below hurricane belt, offering safer late-year options. Avoid September-October for eastern Caribbean destinations when storm probability peaks and some ports may close for repairs."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America's Caribbean cruises include accommodations, all main dining room meals, Lido Market buffet, 24-hour room service, daily housekeeping, evening entertainment, BBC Earth presentations, cooking demonstrations, and fitness center access. The line emphasizes enrichment: live music throughout Music Walk venues, destination lectures via Explorations Central, and culinary workshops. Beverages beyond coffee, tea, and water cost extra unless purchasing 'Have It All' package. Gratuities (€16 daily) are additional. Unlike premium competitors, airport transfers, Wi-Fi, and specialty dining require separate purchase. Room service carries nominal charges for certain items. Shore excursions, spa treatments, casino play, and photography are excluded. The inclusive value proposition targets travelers preferring quality over quantity, with exceptional dining standards in included venues."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America's Caribbean itineraries emphasize diverse destinations beyond standard tourist stops. Eastern Caribbean routes feature Half Moon Cay (private island), San Juan (overnight calls common), St. Thomas, and Grand Turk. Western Caribbean includes Cozumel, George Town (Grand Cayman), Ocho Rios, and Key West. Southern Caribbean itineraries—Holland America's specialty—reach Aruba, Bonaire, Curacao (ABC islands), Barbados, Dominica, St. Lucia, and Grenada. Extended voyages incorporate Cartagena, Colon (Panama Canal), and occasionally Amazon River gateways. The line's smaller ships access Roseau (Dominica), Kralendijk (Bonaire), and Bequia—ports unavailable to mega-ships. Half Moon Cay appears on 90% of Caribbean sailings, offering pristine beaches with limited daily visitors. Port times often exceed industry averages, with evening departures from San Juan and Curacao enabling authentic local dining experiences."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Optimal booking window for Holland America Caribbean cruises is 9-18 months in advance. This timing secures preferred stateroom categories—particularly verandah cabins facing desired directions and suites with Neptune Lounge access—while capturing early booking discounts up to 25%. Popular southern Caribbean itineraries and holiday sailings (Christmas, New Year, Presidents Week) require 12-18 month advance planning. Wave season (January-March) brings promotional incentives including reduced deposits, onboard credits, and 'Have It All' package inclusions. Last-minute deals appear 60-90 days before sailing for flexible travelers, though cabin selection becomes limited. Group bookings (8+ staterooms) should plan 12+ months ahead for coordinated accommodations. Cancel-for-any-reason insurance, recommended given 90-120 day final payment deadlines, must be purchased within 14 days of initial deposit for maximum coverage."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Caribbean cruises suit families with children aged 8+ rather than young families seeking intensive kids' programming. Club HAL serves ages 3-17 with supervised activities, though facilities are modest compared to Carnival or Royal Caribbean. The line excels for multigenerational travel: grandparents appreciate refined dining and enrichment, teens enjoy Music Walk venues and culinary workshops, while families connect during shore excursions and private island days at Half Moon Cay. Connecting staterooms and family suites accommodate larger groups. Evening entertainment—including BBC Earth productions and live classical music—may not engage younger children. Families prioritizing waterslides, character experiences, or extensive kids' clubs should consider alternatives. Holland America's strength lies in shared experiences: cooking classes, destination lectures, and beach days without overwhelming stimulation. Teen programs expand during holiday sailings when children's population increases."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America's standard Caribbean cancellation policy charges penalties based on departure proximity: full refund for cancellations 90+ days before sailing (excluding non-refundable deposits), 50% fare loss at 60-89 days, 75% at 30-59 days, and 100% forfeiture within 29 days. Suite bookings carry stricter terms: 120-day final payment and penalties beginning earlier. 'Have It All' promotional fares often feature non-refundable deposits (€250-€500 per person) even for early cancellations. Cancel-for-any-reason protection, available through Holland America's insurance partner or third parties, typically refunds 75% in cash or 100% in future cruise credit when purchased within 14 days of deposit. COVID-19 protocols remain flexible with cruise-with-confidence policies offering rebooking options for positive tests. Travel insurance strongly recommended given medical evacuation costs from Caribbean islands can exceed €50,000. Credit card travel protections may provide secondary coverage."
+    }
+  ]
+}

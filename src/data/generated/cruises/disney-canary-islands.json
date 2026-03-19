@@ -1,0 +1,176 @@
+{
+  "title": "Disney Cruise Line Canary Islands Cruises 2026",
+  "intro": "Disney Cruise Line brings its signature enchantment to the Canary Islands, combining Atlantic island exploration with world-class family entertainment. These repositioning and seasonal itineraries aboard Disney Wonder and the newer Disney Treasure offer a rare blend of European port sophistication and volcanic landscapes. Expect character meet-and-greets against Tenerife's Mount Teide backdrop, adult-exclusive Palo dinners while sailing between Gran Canaria and Lanzarote, and Disney's acclaimed kids' clubs giving parents freedom to explore Santa Cruz de la Palma. The 7-14 night voyages typically operate during Atlantic crossing seasons, merging Canary Islands with Portuguese or Moroccan ports. Disney's rotational dining, Broadway-caliber shows, and fireworks at sea transform sea days into highlights. With dedicated family pools, Marvel and Frozen themed spaces, and sophisticated adult venues, these cruises uniquely serve multigenerational groups seeking culture without sacrificing Disney magic.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Wonder",
+      "Treasure"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Canary Islands & Madeira",
+      "duration_nights": 7,
+      "ports": [
+        "Tenerife",
+        "Gran Canaria",
+        "Madeira",
+        "Lisbon"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Disney Wonder repositioning with two full sea days for onboard programming"
+    },
+    {
+      "name": "11-night Atlantic Crossing & Canaries",
+      "duration_nights": 11,
+      "ports": [
+        "Miami",
+        "Tenerife",
+        "Gran Canaria",
+        "Lanzarote",
+        "Barcelona"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Rare westbound crossing with extended Canary Islands exploration"
+    },
+    {
+      "name": "14-night Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Tenerife",
+        "Gran Canaria",
+        "Lanzarote",
+        "Agadir",
+        "Casablanca",
+        "Lisbon"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive Atlantic islands and North African cultural immersion"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Wonder",
+      "capacity": 2400,
+      "year": 1999,
+      "best_for": "Classic Disney fans, intimate ship feel",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Disney Treasure",
+      "capacity": 4000,
+      "year": 2024,
+      "best_for": "Modern amenities, larger families, Marvel fans",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Rotational dining at three themed restaurants",
+    "Unlimited soft drinks at meals and beverage stations",
+    "Character meet-and-greets and photos",
+    "Broadway-style shows and deck parties",
+    "Kids' clubs (Oceaneer Club, Lab, Edge, Vibe)",
+    "Family pools and waterslides",
+    "24-hour room service",
+    "Fitness center access",
+    "Fireworks at sea on select sailings"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty coffees",
+    "Palo and Enchanté adult-exclusive dining ($45-125/person)",
+    "Port adventures and excursions",
+    "Nursery care for under-3s ($9.50/hour)",
+    "Spa treatments and salon services",
+    "Bibbidi Bobbidi Boutique makeovers ($75-450)",
+    "Photos and photo packages",
+    "WiFi packages ($12-30/day)",
+    "Gratuities ($14.50/person/night suggested)"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for optimal cabin selection and early booking discounts up to 10%. Disney releases itineraries 15-18 months out. Repositioning cruises offer best value but limited inventory. Consider booking onboard previous cruise for 10% discount and reduced deposit. Florida residents and Disney Vacation Club members access additional discounts 60-90 days before sailing. Cabins with verandahs sell fastest on sea-day-heavy itineraries.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Mount Teide National Park excursion (€89)",
+      "tip": "Pre-book Disney's exclusive Teide summit access; altitude requires acclimatization"
+    },
+    {
+      "port": "Las Palmas de Gran Canaria",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Vegueta historic district and Casa de Colón (€45)",
+      "tip": "Walkable old town; skip ship excursion for independent exploration"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Timanfaya National Park and wine region (€75)",
+      "tip": "Short port time favors organized excursion; geothermal demonstrations unique"
+    },
+    {
+      "port": "Santa Cruz de la Palma",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Caldera de Taburiente hiking (€65)",
+      "tip": "Less crowded port; excellent for nature-focused families"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Monte toboggan ride and botanical gardens (€55)",
+      "tip": "Cable car and wicker sled combination popular with children"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Canary Islands cruise cost?",
+      "answer": "Disney Cruise Line Canary Islands cruises typically range from €699-1,599 per person for inside cabins on repositioning sailings, rising to €1,299-2,400 for verandah accommodations during peak periods. Concierge-level suites command €3,500-6,000. Prices include exceptional entertainment, rotational dining, and kids' programming that justifies premium over competitors. Best values emerge on 11-14 night Atlantic crossings in November-January. European school holiday periods see 40-60% increases. Solo travelers face 150-175% single supplements, though Disney occasionally offers reduced solo rates 60 days prior."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Canary Islands?",
+      "answer": "Disney Wonder primarily operates Canary Islands routes as part of transatlantic repositioning between Florida and Europe, offering intimate 2,400-passenger experience with classic Disney design. From late 2024, Disney Treasure joins with larger 4,000-guest capacity, Marvel-themed dining, and expanded adult spaces. Disney Magic occasionally substitutes during dry dock rotations. Wonder's smaller size enables access to tighter Canary ports like Santa Cruz de la Palma. Treasure brings Wish-class amenities including Arendelle restaurant and AquaMouse water coaster. Both ships feature rotational dining, though Treasure offers more specialty venues."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "December through February offers optimal Canary Islands cruising, with temperatures 18-22°C providing pleasant exploration without summer crowds. This aligns with Disney's Atlantic repositioning schedule. November and March sailings cost 15-20% less but carry slight weather risk. Canary Islands enjoy spring-like climate year-round, making them reliable winter sun destination when Mediterranean cruises are chilly. Sea conditions remain calmest December-February. Disney schedules these routes specifically during North American winter when Florida-based families seek warmer destinations, creating natural synergy between ship positioning and guest demand."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney Cruise Line includes rotational dining across three themed restaurants with dedicated serving team following guests, unlimited fountain beverages and coffee at meals, room service, character appearances and photos, live Broadway-caliber productions, deck parties with fireworks, kids' clubs divided by age (3-12, teens, tweens), family pools and waterslides, and fitness facilities. Notably, Disney does not charge for soda unlike competitors. Adult-exclusive dining at Palo and Enchanté, alcoholic beverages, spa services, nursery care for under-3s, and shore excursions incur additional fees. Gratuities are automatically added but adjustable."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Cruise Line Canary Islands itineraries typically visit Santa Cruz de Tenerife for Mount Teide access, Las Palmas de Gran Canaria for historic Vegueta district, and Arrecife on Lanzarote for volcanic Timanfaya National Park. Extended sailings include Santa Cruz de la Palma for caldera hiking. Repositioning cruises connect these with Lisbon, Cadiz, or Moroccan ports (Agadir, Casablanca). Departure ports are Barcelona for eastbound Atlantic crossings or Miami for westbound. Disney occasionally includes Funchal, Madeira as technical Canary Islands region stop. Port times average 8-10 hours, sufficient for major excursions."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Disney Cruise Line Canary Islands sailings 12-18 months in advance when itineraries release, particularly for verandah cabins and concierge categories that sell rapidly on sea-day-heavy repositioning routes. Popular family travel periods (Christmas, February half-term) require earliest booking. Disney offers 10% onboard booking discount with reduced deposit, advantageous for repeat cruisers. General public access opens 15 months out; Castaway Club members book earlier by loyalty tier. Last-minute deals under €600 occasionally appear 45-60 days prior for flexible travelers, though cabin selection becomes limited. European residents should monitor localized Disney Cruise Line websites for regional promotions."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Cruise Line excels for Canary Islands family travel, offering supervised kids' clubs enabling parents to enjoy volcanic landscapes and wine regions independently. Oceaneer Club and Lab serve ages 3-12 with Disney, Marvel, and Star Wars immersive spaces. Edge (11-14) and Vibe (14-17) provide tween/teen autonomy. Family port adventures include accessible Teide National Park visits and beach excursions. Rotational dining maintains children's engagement through themed environments. Pool areas separate family and adult spaces. Disney's acclaimed service anticipates family needs. The only limitation: nursery care for under-3s incurs hourly charges unlike competitors' free programs, and some Canary excursions have minimum age requirements for hiking."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line cancellation policy for Canary Islands cruises: full refund minus deposit if cancelled 120+ days before sailing; deposit forfeited 119-90 days out; 50% penalty 89-60 days; 75% penalty 59-30 days; 100% penalty under 30 days. Deposit is 20% of cruise fare, higher for concierge bookings. Travel insurance through Disney or independent providers covers medical and weather-related cancellations. For European Union bookings, 14-day cooling-off period applies to reservations made outside Disney's premises. Date changes permitted once without penalty more than 60 days out, retaining original pricing. Rebooking to different itinerary follows standard cancellation terms."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "title": "Disney Cruise Line Transatlantic Cruises 2026",
+  "intro": "Disney Cruise Line brings its signature magic to Transatlantic crossings, combining the romance of ocean voyages with world-class family entertainment. These repositioning cruises typically operate in spring and autumn as ships transition between European and Caribbean seasons. Passengers enjoy extended days at sea featuring Broadway-caliber shows, character meet-and-greets, and Disney's acclaimed youth clubs. The Transatlantic route offers a unique opportunity to experience Disney's legendary service while crossing between continents, with curated port stops in the Azores, Portugal, Spain, and the Canary Islands. Adults appreciate the exclusive Quiet Cove pool and Palo restaurant, while children delight in Marvel and Frozen-themed experiences. These voyages represent exceptional value, combining accommodation, dining, and entertainment in one fare, making them particularly attractive for families seeking a memorable crossing with guaranteed weather protection through Disney's climate-controlled environments.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "11-14 nights",
+    "best_months": [
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Disney Dream",
+      "Disney Fantasy"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Civitavecchia",
+      "Port Canaveral"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring Repositioning",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Autumn Repositioning",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Concierge Royal Suite",
+      "inside_eur": null,
+      "balcony_eur": null,
+      "suite_eur": 8999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Eastbound Transatlantic",
+      "duration_nights": 12,
+      "ports": [
+        "Port Canaveral",
+        "Ponta Delgada",
+        "Lisbon",
+        "Cartagena",
+        "Barcelona"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Three sea days with full Disney entertainment programming"
+    },
+    {
+      "name": "11-night Westbound Transatlantic",
+      "duration_nights": 11,
+      "ports": [
+        "Civitavecchia",
+        "Naples",
+        "Cartagena",
+        "Ponta Delgada",
+        "Port Canaveral"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Includes Pompeii excursion opportunity from Naples"
+    },
+    {
+      "name": "14-night Grand Transatlantic",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Malaga",
+        "Gibraltar",
+        "Ponta Delgada",
+        "Halifax",
+        "New York"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Rare Disney New York arrival with overnight stay"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Fantasy",
+      "capacity": 4000,
+      "year": 2012,
+      "best_for": "Families with teens and tweens",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Disney Dream",
+      "capacity": 4000,
+      "year": 2011,
+      "best_for": "First-time Disney cruisers and young families",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All meals in rotational dining restaurants and buffet",
+    "Live Broadway-style shows and deck parties",
+    "Character meet-and-greets and photo opportunities",
+    "Youth clubs for ages 3-17",
+    "Pools and waterslides",
+    "Fitness centre",
+    "Standard beverages (coffee, tea, water, soft drinks at meals)"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty cocktails",
+    "Palo and Remy adult-exclusive restaurants",
+    "Spa treatments and salon services",
+    "Port excursions and adventures",
+    "Photography packages and prints",
+    "Nursery care for under-3s",
+    "Premium internet packages",
+    "Gratuities (EUR 14.50 per person per night suggested)"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking discounts; Disney releases itineraries 15 months in advance. Consider booking during 'onboard booking' on any Disney cruise for 10% deposit and onboard credit. Balcony cabins sell fastest for Transatlantic due to sea day appeal. Canadian residents and military personnel qualify for special rates. Watch for 'Kids Sail Free' promotions typically released January-March for autumn sailings.",
+  "top_ports": [
+    {
+      "port": "Ponta Delgada, Azores",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sete Cidades crater lakes jeep tour (EUR 89)",
+      "tip": "Weather changes rapidly; bring layers"
+    },
+    {
+      "port": "Lisbon, Portugal",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Sintra palace excursion (EUR 129)",
+      "tip": "Tram 28 pre-booking essential"
+    },
+    {
+      "port": "Cartagena, Spain",
+      "time_in_port": "9am-6pm",
+      "top_activity": "Roman theatre and tapas walking tour (EUR 69)",
+      "tip": "Compact historic centre; easy independent exploration"
+    },
+    {
+      "port": "Gibraltar, UK",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Upper Rock Nature Reserve and ape encounter (EUR 59)",
+      "tip": "Cable car queues form early; book ship excursion"
+    },
+    {
+      "port": "Halifax, Nova Scotia",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Peggy's Cove and Titanic cemetery (EUR 79)",
+      "tip": "Fog common; morning excursions more reliable"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Transatlantic cruise cost?",
+      "answer": "Disney Transatlantic cruises typically range from EUR 899 for interior cabins during autumn repositioning to EUR 3,500+ for concierge-level suites in spring. Balcony cabins, highly recommended for sea days, average EUR 1,299-EUR 1,899. Families should budget EUR 4,500-EUR 7,000 total for a family of four in a balcony stateroom, including gratuities, one specialty dining experience, and minimal excursions. Solo travellers face 150-200% single supplements. Disney rarely discounts below initial release pricing, making early booking essential for value."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Transatlantic?",
+      "answer": "The Disney Dream and Disney Fantasy operate Transatlantic itineraries, both 4,000-passenger vessels launched in 2011 and 2012 respectively. These sister ships feature identical layouts with the acclaimed AquaDuck water coaster, Animator's Palate restaurant, and extensive youth facilities. The smaller Disney Magic and Wonder focus on European coastal cruises and do not typically perform Transatlantic crossings. The newer Disney Wish and Treasure currently concentrate on Caribbean and Bahamas routes, with Transatlantic deployment possible from 2027."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "Disney operates Transatlantic cruises during shoulder seasons: May for eastbound crossings to Europe, and September-October for westbound returns. May sailings offer calmer seas and warming European arrival weather, ideal for pre-cruise Mediterranean extensions. September-October crossings provide exceptional value with lower pricing and pleasant Atlantic conditions, though hurricane season requires itinerary flexibility. Disney avoids mid-winter crossings. Sea temperatures remain swimmable through October in southern routing."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney's inclusive fare covers rotational dining at three themed main restaurants, unlimited buffet access, 24-hour room service, all live entertainment including Frozen and Disney Dreams shows, deck parties with fireworks, unlimited youth club programming for ages 3-17, character appearances, fitness facilities, and standard beverages including soft drinks, coffee, tea, and water. Notable inclusions unique to Disney: soda is complimentary throughout the ship, not just at meals, and there are no additional charges for youth clubs or most activities."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Transatlantic itineraries strategically position ports to break up sea days. Eastbound departures from Port Canaveral typically include Ponta Delgada (Azores), Lisbon or Cadiz, and Barcelona or Civitavecchia. Westbound from Europe adds Cartagena or Malaga, with possible Gibraltar or Halifax stops. The Azores feature on nearly all crossings as a crucial mid-Atlantic break. Disney occasionally offers rare 14-night itineraries including New York, combining Transatlantic crossing with Canadian maritime provinces."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Disney releases Transatlantic itineraries approximately 15 months in advance, with optimal booking windows opening 12-18 months prior to sailing for cabin selection. Concierge suites and connecting rooms for families sell within days. Prices generally increase as sailing approaches with rare last-minute discounts. Past passengers should utilise onboard booking benefits: reduced deposit, 10% fare reduction, and onboard credit up to EUR 200. Final payment is due 90 days before sailing for standard bookings, 120 days for concierge."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Transatlantic cruises excel for families, particularly those with children aged 5-14 who can fully utilise extended sea days. The Oceaneer Club and Lab operate 9am-midnight with supervised activities, allowing parents genuine relaxation time. Character appearances occur more frequently on sea days. The unique 'crossing' experience becomes educational through navigation talks and star-gazing. However, families with under-3s should note nursery space is limited and incurs hourly fees. Teen programming is robust but requires self-motivation to engage."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney's cancellation structure for Transatlantic cruises: full refund minus deposit if cancelled 119+ days prior; deposit forfeited 90-118 days; 50% penalty 89-56 days; 75% penalty 55-30 days; 100% penalty under 30 days. Travel insurance is strongly recommended given Transatlantic positioning and international flight commitments. Disney offers 'Cruise Vacation Protection' covering cancellation for covered reasons plus 'Cancel For Any Reason' credit up to 75% of non-refundable amount. COVID-era flexible booking policies have largely concluded, though health protocols may still affect sailing eligibility."
+    }
+  ]
+}

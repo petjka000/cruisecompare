@@ -1,0 +1,138 @@
+{
+  "title": "Costa Cruises vs Regent Seven Seas 2026",
+  "intro": "Costa Cruises and Regent Seven Seas represent two fundamentally different cruise philosophies. Costa, Italy's largest cruise line, offers vibrant, entertainment-heavy Mediterranean-style cruising at accessible price points with a distinctly European atmosphere. Regent Seven Seas operates at the ultra-luxury tier, delivering all-inclusive experiences with smaller ships, exquisite dining, and inclusive shore excursions. This comparison examines how these divergent approaches cater to different traveller priorities, budgets, and expectations for 2026 sailings across global itineraries.",
+  "at_a_glance": {
+    "costa": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "regent": {
+      "price_tier": "ultra-luxury",
+      "avg_7night_inside_eur": 5500
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "costa": "€799",
+      "regent": "€5,500"
+    },
+    {
+      "category": "Price tier",
+      "costa": "Contemporary/Mid-market",
+      "regent": "Ultra-luxury"
+    },
+    {
+      "category": "Inclusions",
+      "costa": "Basic cruise, meals, entertainment; drinks/wifi/excursions extra",
+      "regent": "All-inclusive: drinks, wifi, excursions, gratuities, business-class air on select bookings"
+    },
+    {
+      "category": "Ship size",
+      "costa": "2,600-5,200 passengers",
+      "regent": "490-750 passengers"
+    },
+    {
+      "category": "Crew-to-guest ratio",
+      "costa": "1:3.5",
+      "regen": "1:1.5"
+    },
+    {
+      "category": "Dining venues",
+      "costa": "4-6 included, specialty restaurants extra",
+      "regent": "4-6 gourmet venues, all included"
+    },
+    {
+      "category": "Staterooms",
+      "costa": "Inside to Suite, 15-32 sqm",
+      "regent": "All-suite, minimum 28 sqm, 90%+ with balconies"
+    },
+    {
+      "category": "Evening atmosphere",
+      "costa": "Lively shows, discos, family entertainment",
+      "regent": "Refined: lectures, piano bars, enrichment"
+    },
+    {
+      "category": "Primary market",
+      "costa": "European families, couples, multi-generational",
+      "regent": "Affluent North American/European couples, 55+"
+    },
+    {
+      "category": "Itinerary focus",
+      "costa": "Mediterranean, Caribbean, Northern Europe, Asia",
+      "regent": "World cruise, exotic destinations, extended port stays"
+    }
+  ],
+  "choose_a_if": [
+    "You prioritise value and prefer to control your spending on extras",
+    "You enjoy lively entertainment, waterslides, and family-friendly activities",
+    "You want a distinctly European atmosphere with Italian dining options",
+    "You're travelling with children and need dedicated kids' clubs and family cabins",
+    "You prefer larger resort-style ships with multiple pools and entertainment venues"
+  ],
+  "choose_b_if": [
+    "You want genuinely all-inclusive pricing with no surprise bills",
+    "You value intimate ships, personalised service, and space",
+    "You seek sophisticated dining with complimentary specialty restaurants",
+    "You prefer adult-oriented cruising without children's facilities",
+    "You want included shore excursions and pre-cruise hotel packages"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Costa Cruises",
+      "reason": "Squok Club provides supervised activities for ages 3-17, family cabins accommodate 4-5 guests, and lively deck atmosphere suits energetic children."
+    },
+    {
+      "type": "Luxury seekers",
+      "winner": "Regent Seven Seas",
+      "reason": "All-suite accommodations, unlimited shore excursions, and genuinely all-inclusive pricing eliminate any compromise on quality or experience."
+    },
+    {
+      "type": "Budget-conscious couples",
+      "winner": "Costa Cruises",
+      "reason": "Lower base fares allow Mediterranean exploration without luxury markup; upgrade selectively if desired."
+    },
+    {
+      "type": "Celebration travellers",
+      "winner": "Regent Seven Seas",
+      "reason": "Impeccable service, spacious suites, and inclusive fine dining create memorable milestone experiences without logistical stress."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Costa Cruises",
+      "reason": "Lower financial commitment and resort-style familiarity make testing cruise travel less intimidating."
+    },
+    {
+      "type": "Cultural explorers",
+      "winner": "Regent Seven Seas",
+      "reason": "Complimentary unlimited shore excursions, enrichment lectures, and overnight port stays enable deeper destination immersion."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends on your spending habits. Costa's €799 base fare requires budgeting €300-500 extra for drinks, wifi, and excursions, potentially reaching €1,400 total. Regent's €5,500 includes virtually everything: premium drinks, unlimited shore excursions, wifi, gratuities, and often business-class flights. For travellers who would purchase these extras anyway, Regent's bundled pricing can represent superior value despite the higher upfront cost. Costa suits those who prefer minimal onboard spending and self-directed exploration."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Costa Cruises decisively wins for families. Their Squok Club offers complimentary supervised programmes for ages 3-17 with dedicated facilities, while family cabins and connecting rooms accommodate larger groups. Evening entertainment includes family-friendly shows and discos. Regent Seven Seas carries no children's facilities, no kids' clubs, and minimal programming for younger guests. The ultra-luxury atmosphere and adult-oriented enrichment programming suit mature travellers, making Regent inappropriate for families with children under 16."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "The price differential is substantial: Costa's 7-night Mediterranean inside cabin averages €799, while Regent's comparable itinerary starts at €5,500 for a minimum 28 sqm suite. This 7:1 ratio reflects fundamentally different product categories. However, Regent's fare includes €1,500-2,500 in typical extra costs (drinks, excursions, wifi, gratuities) that Costa charges separately. When comparing equivalent experiences, the gap narrows but Regent remains 3-4x more expensive, targeting distinctly different market segments."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Regent Seven Seas offers superior culinary quality across all venues, with gourmet menus developed by Michelin-influenced chefs, premium ingredients, and included specialty restaurants. Costa provides solid contemporary cruise dining with Italian regional emphasis, but quality varies and specialty restaurants incur extra charges. Regent's open-seating, anytime dining and intimate venue sizes create restaurant-quality experiences. Costa's main dining room operates on traditional seatings with banquet-style service. Food enthusiasts consistently favour Regent's uncompromising approach."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Costa Cruises suits first-timers better due to lower financial commitment and familiar resort-style amenities. The lively atmosphere, multiple pools, and entertainment options mirror land-based holiday expectations. Regent's refined environment and premium pricing create pressure to appreciate subtle luxuries that inexperienced cruisers may not value. However, first-timers seeking immediate introduction to luxury cruising may prefer starting with Regent to establish high benchmarks, provided their budget accommodates the investment."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental distinction lies in cruise philosophy: Costa operates mass-market contemporary cruising with à-la-carte pricing, European cultural immersion, and family orientation. Regent delivers ultra-luxury all-inclusive experiences with intimate ships, personalised service, and destination focus. Costa's 5,200-passenger vessels offer resort-scale amenities; Regent's 750-passenger ships prioritise space and serenity. Costa guests control spending through optional purchases; Regent eliminates decision fatigue through comprehensive inclusion. These differences reflect divergent target demographics rather than quality gradations within the same category."
+    }
+  ]
+}

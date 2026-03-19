@@ -1,0 +1,200 @@
+{
+  "title": "Royal Caribbean Greek Isles Cruises 2026",
+  "intro": "Royal Caribbean brings its signature innovation and scale to the ancient Aegean, combining world-class ship amenities with immersive Greek island exploration. Their Greek Isles itineraries blend iconic destinations like Santorini and Mykonos with lesser-known gems such as Katakolon and Rhodes, offering travelers the perfect balance of adventure and relaxation. Onboard, guests enjoy the line's acclaimed entertainment—from Broadway-caliber shows to surf simulators and zip lines—while waking to new horizons each morning. Royal Caribbean's strategic positioning of their newest, largest vessels on Mediterranean routes means passengers experience cutting-edge dining, the Ultimate Abyss slide, and vibrant neighborhoods like Central Park at sea. The line's Greek programming emphasizes extended port stays and overnight calls in select destinations, maximizing time for sunset dinners in Oia or late-night Mykonos nightlife. With multilingual crew and European departure options from Rome or Barcelona, these cruises appeal to both first-time cruisers and seasoned Aegean travelers seeking Royal Caribbean's distinctive energy.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Wonder of the Seas",
+      "Oasis of the Seas",
+      "Odyssey of the Seas"
+    ],
+    "departure_ports": [
+      "Rome (Civitavecchia)",
+      "Barcelona",
+      "Athens (Piraeus)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1699
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1099,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Late Season (Sep)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles & Italy",
+      "duration_nights": 7,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Mykonos",
+        "Santorini",
+        "Katakolon",
+        "Rome"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Perfect first-timer itinerary with two iconic Greek islands"
+    },
+    {
+      "name": "7-night Greek Isles from Athens",
+      "duration_nights": 7,
+      "ports": [
+        "Athens",
+        "Santorini",
+        "Ephesus (Kusadasi)",
+        "Mykonos",
+        "Nafplio",
+        "Athens"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Deep Greek immersion with overnight Santorini option"
+    },
+    {
+      "name": "12-night Mediterranean & Greek Isles",
+      "duration_nights": 12,
+      "ports": [
+        "Barcelona",
+        "Palma de Mallorca",
+        "Provence",
+        "Florence",
+        "Rome",
+        "Santorini",
+        "Ephesus",
+        "Mykonos",
+        "Athens"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive Western Med and Aegean combination"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Wonder of the Seas",
+      "capacity": 5734,
+      "year": 2022,
+      "best_for": "Families and multigenerational groups",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Odyssey of the Seas",
+      "capacity": 4180,
+      "year": 2021,
+      "best_for": "Couples and active travelers",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Oasis of the Seas",
+      "capacity": 5594,
+      "year": 2009,
+      "best_for": "Entertainment seekers",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining room and Windjammer buffet",
+    "Select casual dining venues",
+    "Broadway-style entertainment and live shows",
+    "AquaTheater and ice skating performances",
+    "Fitness center and most sports activities",
+    "Adventure Ocean youth programming",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (EUR 55-75/day)",
+    "Specialty dining (EUR 35-100/person)",
+    "Shore excursions (EUR 65-189/port)",
+    "Gratuities (EUR 16/person/day)",
+    "WiFi packages (EUR 15-25/day)",
+    "Spa and salon services",
+    "Casino play",
+    "Laundry and dry cleaning"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early saver rates; monitor Royal Caribbean's Cruise Planner for discounted add-ons 60-90 days before sailing; consider repositioning cruises in April or October for 30-40% savings.",
+  "top_ports": [
+    {
+      "port": "Santorini, Greece",
+      "time_in_port": "7am-7pm (overnight on select sailings)",
+      "top_activity": "Sunset catamaran cruise with dinner (EUR 189)",
+      "tip": "Book evening restaurant reservations 60 days ahead via Cruise Planner"
+    },
+    {
+      "port": "Mykonos, Greece",
+      "time_in_port": "8am-6pm (late stays until 10pm on select dates)",
+      "top_activity": "Delos archaeological site guided tour (EUR 89)",
+      "tip": "Take early tender to avoid crowds at windmills"
+    },
+    {
+      "port": "Katakolon (Olympia), Greece",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Olympia archaeological site and museum (EUR 79)",
+      "tip": "Tender port—priority booking essential for morning tours"
+    },
+    {
+      "port": "Ephesus (Kusadasi), Turkey",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Ephesus Terrace Houses VIP access (EUR 129)",
+      "tip": "Bring euros for carpet district bargaining"
+    },
+    {
+      "port": "Nafplio, Greece",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Palamidi Fortress hike or Mycenae tour (EUR 75)",
+      "tip": "Walkable port—explore old town independently for authentic Greek lunch"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Greek Isles cruise cost?",
+      "answer": "Royal Caribbean Greek Isles cruises typically range from EUR 699 to EUR 2,899 per person for standard accommodations. Inside cabins start around EUR 699-1,099 depending on season, with balcony staterooms running EUR 999-1,699. Suite categories command EUR 1,699-2,899 or higher for Grand Suites and above. Shoulder season sailings in April, May, and October offer the best value, often 30-40% below peak summer pricing. Families should budget an additional EUR 400-600 per person for gratuities, beverages, and one shore excursion per port. Solo travelers face 150-200% single supplements unless booking studio cabins on select ships."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Greek Isles?",
+      "answer": "Royal Caribbean deploys its most innovative vessels on Greek Isles routes. Wonder of the Seas, the world's largest cruise ship at 5,734 passengers, operates 7-night Western Mediterranean and Greek combination itineraries from Rome and Barcelona. Odyssey of the Seas, a Quantum Ultra-class ship, offers 7-night Greek-focused sailings from Rome with enhanced adult spaces and the North Star observation capsule. Oasis of the Seas brings its revolutionary neighborhood concept with Central Park and Boardwalk areas. Brilliance of the Seas occasionally handles smaller-market departures. Ship assignments rotate seasonally, with newer vessels typically scheduled June through August."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "The optimal window for Royal Caribbean Greek Isles cruises spans May through early October, with June and September offering the ideal balance of warm weather, manageable crowds, and competitive pricing. May delivers blooming landscapes and temperatures in the low 20s°C, perfect for active exploration without intense heat. June provides reliably sunny days before peak summer crowds arrive. July and August bring guaranteed sunshine but temperatures exceeding 35°C and packed archaeological sites. September remains excellent for swimming with warm seas and fewer cruise ships. October sailings can be unpredictable weather-wise but offer exceptional value and authentic local atmosphere as tourist infrastructure winds down."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean's Greek Isles fares include substantial value: all meals in the main dining room and Windjammer buffet, plus select casual venues like Sorrento's Pizza and Café Promenade. Entertainment encompasses full-scale Broadway productions, AquaTheater diving shows, ice skating performances, comedy clubs, and live music throughout the ship. Fitness center access, most sports activities including the FlowRider surf simulator and rock climbing wall, and Adventure Ocean youth programming are complimentary. Port taxes and fees are included in advertised prices. What's not covered: alcoholic beverages, specialty restaurants, shore excursions, WiFi, spa services, casino play, and gratuities (EUR 16/person/day recommended)."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean's Greek Isles itineraries typically feature 3-4 Greek ports plus often one Turkish or Italian stop. Core Greek destinations include Santorini for its caldera views and Oia sunsets, Mykonos for beaches and nightlife, Katakolon as the gateway to ancient Olympia, and Athens/Piraeus for the Acropolis. Secondary calls may include Nafplio, Crete (Souda Bay), Rhodes, or Corfu. Eastern Mediterranean routes incorporate Kusadasi (Ephesus, Turkey) for remarkable Greco-Roman ruins. Western Mediterranean combinations add Naples/Pompeii, Rome, Florence/Livorno, and French Riviera ports. Seven-night sailings from Rome usually include 2-3 Greek islands; Athens-based departures maximize Greek port time with 3-4 stops."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Royal Caribbean Greek Isles cruises, book 9-12 months in advance for optimal results, particularly for summer sailings and preferred cabin categories like balcony staterooms facing Santorini's caldera. The line releases itineraries approximately 18 months ahead, with best pricing typically appearing 10-14 months before departure. Families requiring connecting cabins or specific dining times should prioritize early booking. Last-minute deals occasionally emerge 60-90 days out for shoulder season, but summer availability becomes extremely limited. Royal Caribbean's Cruise Planner opens for add-on purchases around 90 days pre-cruise—booking specialty dining and excursions then secures preferred times. Flexible travelers monitoring prices can benefit from the line's Best Price Guarantee program."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean excels for families on Greek Isles cruises, offering unmatched children's programming and facilities. Adventure Ocean divides kids into age-appropriate groups (3-5, 6-8, 9-11, 12-14, 15-17) with complimentary supervised activities until 10pm, allowing parents evening independence. The line's largest ships feature Splashaway Bay water parks, Ultimate Abyss slides, zip lines, and surfing simulators that entertain during sea days. Family connecting staterooms and spacious suites accommodate larger groups. Greek ports provide educational opportunities—archaeological sites at Ephesus and Olympia bring ancient history alive. Teen discos and social spaces foster independence. Potential challenges: long port days require stamina; Santorini's cliffside paths challenge strollers; and specialty dining costs add up for families of four or more."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's cancellation policy for Greek Isles cruises imposes penalties based on departure proximity. Cancellations 90+ days before sailing receive full refund minus any non-refundable deposits or promotional fares. 89-75 days out: deposit amount forfeited. 74-61 days: 25% of total fare. 60-31 days: 50% of total fare. 30-15 days: 75% of total fare. 14 days or less: 100% forfeiture. Cancel For Any Reason protection, available for purchase within 14 days of initial deposit, provides future cruise credits worth 75-90% of cancellation penalties depending on plan selected. COVID-19 protocols have introduced additional flexibility, with the line periodically offering temporary relaxed cancellation terms. Travel insurance covering trip interruption is strongly recommended given Greek Isles weather and geopolitical considerations."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "title": "Princess Cruises South America Cruises 2026",
+  "intro": "Princess Cruises brings its signature 'Come Back New' philosophy to South America with thoughtfully crafted itineraries that immerse travellers in the continent's dramatic landscapes and vibrant cultures. From the thundering Iguazu Falls to the windswept beauty of Patagonia, Princess offers extended voyages that delve deeper than typical cruise experiences. The line's South America programme emphasises destination immersion with late-night and overnight stays in key ports like Buenos Aires and Rio de Janeiro. Onboard, passengers enjoy regionally inspired cuisine, enrichment lectures from naturalists and historians, and the relaxed, sophisticated atmosphere that distinguishes Princess from mass-market alternatives. These cruises particularly appeal to mature travellers seeking authentic cultural encounters combined with the comfort of a premium cruise experience.",
+  "quick_facts": {
+    "price_from_eur": 1499,
+    "duration_range": "14-21 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Emerald Princess",
+      "Diamond Princess",
+      "Sapphire Princess"
+    ],
+    "departure_ports": [
+      "Buenos Aires",
+      "Santiago (Valparaíso)",
+      "Fort Lauderdale"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Jan-Feb)",
+      "inside_eur": 1899,
+      "balcony_eur": 2599,
+      "suite_eur": 4299
+    },
+    {
+      "season": "Shoulder (Mar-Nov)",
+      "inside_eur": 1499,
+      "balcony_eur": 2099,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 2199,
+      "balcony_eur": 2999,
+      "suite_eur": 4899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Cape Horn & Strait of Magellan",
+      "duration_nights": 14,
+      "ports": [
+        "Buenos Aires",
+        "Montevideo",
+        "Puerto Madryn",
+        "Ushuaia",
+        "Punta Arenas",
+        "Puerto Montt",
+        "Santiago"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Scenic cruising past Cape Horn with glacier viewing"
+    },
+    {
+      "name": "17-night South America & Antarctica",
+      "duration_nights": 17,
+      "ports": [
+        "Buenos Aires",
+        "Montevideo",
+        "Falkland Islands",
+        "Ushuaia",
+        "Antarctic Peninsula",
+        "Punta Arenas"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Extended Antarctic exploration with expert naturalists"
+    },
+    {
+      "name": "21-night Grand South America & Amazon",
+      "duration_nights": 21,
+      "ports": [
+        "Fort Lauderdale",
+        "Aruba",
+        "Cartagena",
+        "Panama Canal",
+        "Lima",
+        "Manta",
+        "Manaus",
+        "Belém",
+        "Barbados"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Full continent traversal including Amazon River navigation"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Emerald Princess",
+      "capacity": 3080,
+      "year": 2007,
+      "best_for": "Couples & mature travellers",
+      "price_from_eur": 1499
+    },
+    {
+      "name": "Diamond Princess",
+      "capacity": 2670,
+      "year": 2004,
+      "best_for": "Adventure seekers & extended voyages",
+      "price_from_eur": 1599
+    },
+    {
+      "name": "Sapphire Princess",
+      "capacity": 2670,
+      "year": 2004,
+      "best_for": "Repeat Princess guests",
+      "price_from_eur": 1549
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Buffet restaurants",
+    "Traditional afternoon tea",
+    "Production shows & live music",
+    "Movies Under the Stars",
+    "Fitness centre & thermal suite access",
+    "Port lectures & destination seminars",
+    "Kids' club programming",
+    "Standard beverages (coffee, tea, water, juice)"
+  ],
+  "whats_extra": [
+    "Premier Beverage Package (€59/day)",
+    "Specialty restaurants (€25-45/person)",
+    "Shore excursions (€89-449/person)",
+    "Wi-Fi packages (€15-25/day)",
+    "Laundry services",
+    "Spa treatments",
+    "Casino gaming",
+    "Photography services",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for best cabin selection and early booking discounts of up to 35%. Princess typically releases South America itineraries 18 months in advance. Consider repositioning cruises in November or April for 40% savings. Past guests should leverage Captain's Circle loyalty benefits including priority booking and onboard credits.",
+  "top_ports": [
+    {
+      "port": "Buenos Aires",
+      "time_in_port": "7am-overnight (depart 6pm next day)",
+      "top_activity": "Tango show with dinner at El Viejo Almacén (€95)",
+      "tip": "Stay overnight—ship remains docked for full evening experience"
+    },
+    {
+      "port": "Rio de Janeiro",
+      "time_in_port": "8am-8pm",
+      "top_activity": "Corcovado & Christ the Redeemer with Sugarloaf (€129)",
+      "tip": "Avoid weekends when local crowds peak"
+    },
+    {
+      "port": "Ushuaia",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Tierra del Fuego National Park & End of the World Train (€149)",
+      "tip": "Layer clothing—temperatures fluctuate dramatically"
+    },
+    {
+      "port": "Punta Arenas",
+      "time_in_port": "8am-6pm",
+      "top_activity": "King Penguin colony excursion to Tierra del Fuego (€189)",
+      "tip": "Book through Princess—limited independent transport"
+    },
+    {
+      "port": "Montevideo",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Ciudad Vieja walking tour with Mercado del Puerto lunch (€79)",
+      "tip": "Walkable from port—no shuttle required"
+    },
+    {
+      "port": "Lima (Callao)",
+      "time_in_port": "5am-5pm",
+      "top_activity": "Culinary tour with ceviche class & market visit (€139)",
+      "tip": "Pre-cruise extension recommended—Lima deserves 2-3 days"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises South America cruise cost?",
+      "answer": "Princess South America cruises typically range from €1,499 for shoulder-season inside cabins to €4,899 for peak-season suites. The 14-night Cape Horn itineraries average €1,899-€2,599 for balcony accommodations, while comprehensive 21-night voyages including the Amazon start around €2,199. Antarctic sailings command premiums at €2,899-€4,299. Prices exclude flights, which add €800-€1,400 from European gateways. Princess frequently offers 'Plus' and 'Premier' packages bundling drinks, Wi-Fi and gratuities for €45-€65 daily, improving value for inclusive budgeting."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to South America?",
+      "answer": "Princess deploys its Grand-class vessels Emerald Princess, Diamond Princess and Sapphire Princess for South America operations. These 2,670-3,080 passenger ships are optimally sized for extended voyages—large enough for comprehensive entertainment and dining options, yet manoeuvrable enough for scenic fjord cruising and Antarctic navigation. Diamond and Sapphire Princess feature Japanese-influenced design elements from their Asia-Pacific service history. All three vessels offer extensive balcony inventory critical for Patagonian and Antarctic scenery. Princess typically rotates one ship through the region November-March, with occasional repositioning voyages extending the season."
+    },
+    {
+      "question": "When is best time to cruise South America?",
+      "answer": "January through March represents optimal cruising conditions, coinciding with South American summer. This period delivers warmest temperatures for Buenos Aires and Rio beach extensions, calmer Drake Passage crossings for Antarctic itineraries, and extended daylight for Patagonian scenic cruising. February offers ideal weather but peak crowds and pricing. November and December provide good value with acceptable conditions, though Antarctic ice may limit southern penetration. Avoid June-August when southern ports experience winter closures and rough seas. The Amazon operates year-round, with high water levels December-May enabling deeper river exploration."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess South America cruises include all main dining room meals, buffet restaurants, afternoon tea, production shows, live music, Movies Under the Stars screenings, fitness centre access, enrichment lectures, and youth programming. Accommodations include standard amenities with twice-daily housekeeping. Non-alcoholic beverages (coffee, tea, water, juice) are complimentary. Gratuities (€14.50/person/day) are typically added to onboard accounts. Notable inclusions distinguishing Princess: extensive destination lectures from naturalists and historians, regionally themed cuisine nights, and the Sanctuary adults-only retreat (surcharge applies). Premium packages bundling drinks, Wi-Fi, gratuities and specialty dining are available at booking for significant savings."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess South America itineraries span three primary routing patterns: Cape Horn voyages between Buenos Aires and Santiago visit Montevideo, Puerto Madryn, Ushuaia, Punta Arenas, and Puerto Montt; Antarctic sailings add Falkland Islands and Antarctic Peninsula scenic cruising; Amazon-integrated routes include Cartagena, Panama Canal transit, Lima, Manta, Manaus, and Belém. Overnight stays in Buenos Aires enable tango experiences and extended city exploration. Ushuaia and Punta Arenas serve as gateways to Patagonian wilderness. Princess emphasises late departures from Rio and Buenos Aires for evening cultural immersion. Select voyages include Chilean fjord scenic cruising without port calls."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure South America cruises 9-18 months prior to departure for optimal cabin selection, particularly for balcony staterooms essential for scenic cruising. Princess releases itineraries approximately 18 months in advance. Early booking discounts of 25-35% are standard, with past guests accessing Captain's Circle priority booking windows. Antarctic sailings require particular advance planning due to limited capacity and high demand. For budget-conscious travellers, last-minute deals emerge 60-90 days before departure, though cabin categories may be restricted. Consider repositioning cruises in November or April for 30-40% savings versus peak season, accepting some weather variability."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess South America cruises suit families with teenage children interested in nature, wildlife and cultural education, though younger children may find extended sea days and enrichment-focused programming less engaging than Caribbean alternatives. The line's Discovery at SEA youth programme operates for ages 3-17, with science and nature activities complementing the destination. Family-friendly shore excursions include wildlife encounters in Puerto Madryn (whale watching) and Ushuaia (penguin colonies). Connecting cabins and family suites are limited—book early. The demographic skews 55+ on these itineraries, so families should anticipate fewer children onboard than typical Princess sailings. Educational value for school-age children is exceptional."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises applies a tiered cancellation structure: full deposit refunded if cancelled 181+ days before departure; deposit forfeited 180-91 days prior; 25% of total fare retained 90-61 days before; 50% forfeited 60-31 days prior; 75% lost 30-15 days before; and 100% forfeited within 14 days of sailing. For South America and Antarctic itineraries, Princess strongly recommends comprehensive travel insurance covering trip cancellation, interruption, and medical evacuation, particularly given remote destinations and potential weather delays. 'Princess Vacation Protection' packages are available at booking, covering cancellation for any reason with future cruise credit (not cash refund) when standard policy exclusions apply. COVID-19 protocols remain subject to change."
+    }
+  ]
+}

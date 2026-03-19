@@ -1,0 +1,212 @@
+{
+  "title": "Princess Cruises Greek Isles Cruises 2026",
+  "intro": "Princess Cruises elevates Greek Isles exploration through its award-winning MedallionClass experience, combining authentic destination immersion with refined onboard elegance. Operating from Athens and Rome, Princess deploys its newest Sphere-class vessels to navigate the Aegean's iconic archipelago, offering extended evening stays in Santorini and overnight calls in Mykonos that competitors rarely match. The cruise line's North to Voyage program enriches each sailing with regionally inspired cuisine, Greek wine tastings, and expert-led archaeological lectures. Princess's private beach resort at Princess Cays serves as a distinctive pre- or post-cruise extension. With balconies comprising 80% of staterooms, passengers enjoy uninterrupted caldera views. The line's partnerships with local guides ensure authentic experiences—from olive oil harvesting in Crete to private after-hours access at Ephesus—positioning Princess as the premium choice for culturally curious travelers seeking Greek Isles depth without sacrificing comfort.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "ships_on_route": [
+      "Sun Princess",
+      "Star Princess",
+      "Sky Princess",
+      "Enchanted Princess"
+    ],
+    "departure_ports": [
+      "Athens (Piraeus)",
+      "Rome (Civitavecchia)",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Nov)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (May-Jun, Sep-Oct)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    },
+    {
+      "season": "High Summer (Jul-Aug)",
+      "inside_eur": 1399,
+      "balcony_eur": 1999,
+      "suite_eur": 3299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles & Turkey",
+      "duration_nights": 7,
+      "ports": [
+        "Athens",
+        "Santorini",
+        "Kusadasi",
+        "Mykonos",
+        "Crete (Chania)",
+        "Athens"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Extended evening in Santorini with sunset departure"
+    },
+    {
+      "name": "10-night Grand Mediterranean",
+      "duration_nights": 10,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Santorini",
+        "Kusadasi",
+        "Mykonos",
+        "Athens",
+        "Kotor",
+        "Sicily",
+        "Rome"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Combines Greek Isles with Adriatic gems"
+    },
+    {
+      "name": "14-night Adriatic & Aegean Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Athens",
+        "Santorini",
+        "Rhodes",
+        "Limassol",
+        "Haifa",
+        "Kusadasi",
+        "Mykonos",
+        "Nafplion",
+        "Athens"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Deep exploration with overnight in Haifa for Jerusalem"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Sun Princess",
+      "capacity": 4300,
+      "year": 2024,
+      "best_for": "Modern luxury seekers, couples",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Star Princess",
+      "capacity": 4300,
+      "year": 2025,
+      "best_for": "First-time cruisers, families",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Sky Princess",
+      "capacity": 3660,
+      "year": 2019,
+      "best_for": "Multi-generational groups",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Enchanted Princess",
+      "capacity": 3660,
+      "year": 2021,
+      "best_for": "Culinary enthusiasts, spa lovers",
+      "price_from_eur": 949
+    }
+  ],
+  "whats_included": [
+    "All main dining and buffet meals",
+    "MedallionClass wearable technology",
+    "Princess Theater productions and live entertainment",
+    "Movies Under the Stars outdoor cinema",
+    "Fitness center and basketball court",
+    "Youth and teen programs (ages 3-17)",
+    "Port lectures and destination presentations",
+    "Room service (delivery fee applies 11pm-6am)"
+  ],
+  "whats_extra": [
+    "Premier beverage packages (EUR 65-75/day)",
+    "Specialty dining (EUR 25-45/person)",
+    "Shore excursions (EUR 89-299/port)",
+    "Wi-Fi packages (EUR 15-25/day)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and lowest fares; Princess runs three major sales annually (Wave Season January-March, Summer Kickoff May, Black Friday November) with savings up to 35%. Interior and obstructed view balconies offer strongest value. Consider repositioning cruises between Rome and Athens for reduced one-way air costs. Third and fourth passengers sail at significantly reduced rates, making multi-occupancy balconies economical for families. Princess Plus and Princess Premier packages bundle Wi-Fi, drinks, and gratuities at 40% savings versus à la carte. Past passengers should monitor Captain's Circle offers for exclusive early access and onboard credit.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "12pm-10pm (extended evening)",
+      "top_activity": "Sunset catamaran cruise with dinner (EUR 159)",
+      "tip": "Book dining reservations 90 days pre-cruise for specialty restaurants"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "7am-7pm or overnight",
+      "top_activity": "Delos archaeological site guided tour (EUR 89)",
+      "tip": "Overnight calls allow beach club experiences without day-tripper crowds"
+    },
+    {
+      "port": "Kusadasi (Ephesus)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Ephesus Terrace Houses premium access (EUR 129)",
+      "tip": "Morning tours avoid afternoon heat and cruise ship congestion"
+    },
+    {
+      "port": "Athens (Piraeus)",
+      "time_in_port": "6am-6pm or overnight",
+      "top_activity": "Acropolis and New Acropolis Museum combined tour (EUR 109)",
+      "tip": "Pre-cruise overnight strongly recommended to recover from transatlantic travel"
+    },
+    {
+      "port": "Crete (Chania)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Samaria Gorge hiking excursion (EUR 79)",
+      "tip": "Explore Old Town independently—compact and walkable from port"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Greek Isles cruise cost?",
+      "answer": "Princess Cruises Greek Isles voyages typically range from EUR 899 for interior staterooms on 7-night shoulder-season sailings to EUR 3,299+ for suites during peak summer months. Balcony accommodations, essential for Aegean scenery, average EUR 1,299-1,999. The 2024-2025 Sun Princess and Star Princess command 15-20% premiums for their innovative Sphere-class design. Total vacation cost including flights, pre-cruise Athens hotel, beverages, excursions, and gratuities typically reaches EUR 2,500-4,500 per person for a week-long sailing. Princess Plus and Premier packages add EUR 50-75 daily but eliminate most onboard spending surprises."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Greek Isles?",
+      "answer": "Princess deploys its newest and most advanced vessels for Greek Isles service. The 2024-built Sun Princess and 2025-delivered Star Princess lead the fleet with revolutionary Sphere-class design featuring the glass-enclosed Dome entertainment venue and expanded balcony ratios. Sky Princess and Enchanted Princess, both Royal-class ships launched 2019-2021, offer MedallionClass technology and Alfredo's pizzeria. Seasonally, Crown Princess and Island Princess provide additional capacity. No Grand-class vessels currently operate Greek Isles routes, ensuring passengers experience Princess's most modern accommodations, dining venues, and environmental technologies across all sailings."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May, June, September, and October deliver optimal Greek Isles cruising conditions with temperatures 22-28°C, minimal rainfall, and manageable crowds. May and September offer ideal swimming temperatures without July-August's intense heat exceeding 35°C. Wildflowers bloom April-May; grape harvests occur September-October. July-August brings peak prices, crowded archaeological sites, and occasional Meltemi winds disrupting tender operations. March-April and November sailings provide 30% savings but cooler seas and reduced excursion availability. Princess schedules extended evening and overnight calls in Santorini and Mykonos during shoulder months when sunset timing aligns perfectly with ship departures."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Cruises includes all main dining room and buffet meals, 24-hour international café service, standard coffee, tea, and juices, Princess Theater productions, live music and comedy, Movies Under the Stars, fitness center access, basketball and pickleball courts, youth programs for ages 3-17, and MedallionClass wearable technology enabling touchless boarding, cabin access, and onboard payments. OceanMedallion facilitates food and drink delivery anywhere on ship. Stateroom accommodations with twice-daily service are included. Not included are alcoholic beverages, specialty restaurants, Wi-Fi, shore excursions, spa services, casino play, and gratuities (EUR 16-18/person/day recommended). Princess Plus and Premier packages bundle popular extras at discounted rates."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess Greek Isles itineraries center on Athens (Piraeus) as primary homeport, with secondary departures from Rome (Civitavecchia) and Barcelona for longer Mediterranean combinations. Core Greek ports include Santorini with extended evening stays for sunset viewing, Mykonos with regular overnight calls, Crete's Chania for authentic island culture, and Rhodes for medieval history. Turkish port Kusadasi provides access to Ephesus, often combined with Greek Isles on eastern Mediterranean routes. Lesser-visited calls include Nafplion, Volos, and Corfu on select itineraries. Princess's 10-14 night voyages add Montenegro's Kotor, Croatia's Dubrovnik, and Sicily's Messina, creating comprehensive Adriatic-Aegean exploration with minimal sea days."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Princess Greek Isles reservations 12-18 months ahead for optimal stateroom selection, particularly for balcony categories on Sun Princess and Star Princess where 80% of accommodations feature private verandas. Wave Season (January-March) historically offers strongest pricing with reduced deposits. Summer 2026 sailings opened for booking 18 months advance; popular dates including Greek Orthodox Easter and September equinox sunsets sell out 9-12 months ahead. Last-minute deals emerge 60-90 days pre-departure for flexible travelers, though cabin location and dining times become limited. Group bookings of 8+ staterooms require 12-month advance planning for complimentary amenities and reduced rates."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Cruises accommodates families well on Greek Isles sailings, though the demographic skews adult-oriented compared to Royal Caribbean or Disney. The Treehouse (ages 3-7), Lodge (ages 8-12), and Beach House (ages 13-17) provide complimentary supervised programming from 9am-midnight, with Greek mythology-themed activities and regional cooking classes. Family suites and connecting staterooms are limited—book 12+ months ahead. Shore excursions include family-friendly options: beach transfers, easy archaeological site walks, and catamaran sailing. Evening entertainment suits multi-generational groups. However, no water slides, rock climbing, or character experiences mean active children may prefer alternative lines. Teen programming receives consistently strong reviews for social engagement."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises applies tiered cancellation penalties based on voyage length and timing. For Greek Isles cruises under 30 nights: full refund minus deposit if cancelled 90+ days before sailing; 50% penalty 89-60 days; 75% penalty 59-30 days; 100% penalty within 29 days. Standard deposits are EUR 250-400 per person. Princess Vacation Protection plans, purchased within 14 days of initial deposit, provide cancellation for any reason credits up to 75% of non-refundable costs plus medical and trip interruption coverage. COVID-19 protocols eliminated most flexible booking options; standard terms now apply. Cancel for Any Reason upgrades to 100% future cruise credit available on select promotional fares with higher initial pricing."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Cunard Line vs Disney Cruise Line 2026",
+  "intro": "Cunard Line and Disney Cruise Line represent two distinct approaches to ocean cruising. Cunard offers refined British elegance, transatlantic heritage, and adult-focused sophistication across its iconic Queens. Disney delivers immersive family entertainment, beloved character encounters, and innovative ship design. Both command premium pricing but serve fundamentally different demographics—Cunard attracts traditionalists seeking formal evenings and literary programmes, while Disney captivates multi-generational families with Broadway-calibre shows and dedicated children's spaces. Your ideal choice depends entirely on whether you prioritise refined seafaring tradition or magical family memories.",
+  "at_a_glance": {
+    "cunard": {
+      "price_tier": "premium",
+      "avg_7night_inside_eur": 1199
+    },
+    "disney": {
+      "price_tier": "premium",
+      "avg_7night_inside_eur": 1899
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "cunard": "€1,199",
+      "disney": "€1,899"
+    },
+    {
+      "category": "Dress code",
+      "cunard": "Formal evenings, elegant casual",
+      "disney": "Cruise casual, optional formal"
+    },
+    {
+      "category": "Target audience",
+      "cunard": "Adults, mature travellers",
+      "disney": "Families with children 3-12"
+    },
+    {
+      "category": "Children's facilities",
+      "cunard": "Limited (The Zone for teens)",
+      "disney": "Extensive (Oceaneer Club, Edge, Vibe)"
+    },
+    {
+      "category": "Evening entertainment",
+      "cunard": "Ballroom dancing, lectures, theatre",
+      "disney": "Character shows, fireworks, deck parties"
+    },
+    {
+      "category": "Dining style",
+      "cunard": "Traditional assigned seating",
+      "disney": "Rotational dining, character meals"
+    },
+    {
+      "category": "Ship atmosphere",
+      "cunard": "Ocean liner heritage, refined",
+      "disney": "Themed decks, whimsical design"
+    },
+    {
+      "category": "Alcohol policy",
+      "cunard": "Permitted in cabins",
+      "disney": "Prohibited (confiscated at embarkation)"
+    },
+    {
+      "category": "Best known for",
+      "cunard": "Transatlantic crossings, White Star Service",
+      "disney": "Castaway Cay, Marvel/Star Wars days"
+    },
+    {
+      "category": "Stateroom size",
+      "cunard": "152 sq ft (inside)",
+      "disney": "169 sq ft (inside)"
+    }
+  ],
+  "choose_a_if": [
+    "You appreciate formal evenings, ballroom dancing, and maritime tradition",
+    "You prefer adult-oriented ambience with sophisticated enrichment programmes",
+    "You value transatlantic crossings and classic ocean liner experience",
+    "You enjoy assigned dining with consistent table companions",
+    "You seek literary lectures, wine tastings, and refined entertainment"
+  ],
+  "choose_b_if": [
+    "You are travelling with children aged 3-12 who love Disney characters",
+    "You want extensive supervised kids' clubs from 9am to midnight",
+    "You prioritise Broadway-quality shows and immersive themed experiences",
+    "You desire private island access (Castaway Cay) with family amenities",
+    "You prefer rotational dining with different restaurants each evening"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with young children",
+      "winner": "Disney Cruise Line",
+      "reason": "Unmatched children's programming, character dining, and family-focused ship design make Disney the clear choice for parents with kids under 12."
+    },
+    {
+      "type": "Couples without children",
+      "winner": "Cunard Line",
+      "reason": "Sophisticated ambience, adult-only spaces, and refined entertainment create romantic atmosphere without family cruise distractions."
+    },
+    {
+      "type": "Multi-generational groups",
+      "winner": "Disney Cruise Line",
+      "reason": "Something for every age, from toddler clubs to adult-only restaurants, plus shared experiences like fireworks and character encounters."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Cunard Line",
+      "reason": "Single-occupancy cabins without supplement, gentleman hosts for dancing, and structured social opportunities through lectures and events."
+    },
+    {
+      "type": "Luxury seekers",
+      "winner": "Cunard Line",
+      "reason": "Grills suites offer true luxury with dedicated restaurants and butler service at lower price point than Disney concierge."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Disney Cruise Line",
+      "reason": "Intuitive service, inclusive feel, and forgiving atmosphere reduce anxiety for newcomers intimidated by cruise conventions."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Cunard generally offers superior value for money, particularly for adults. Its base fares include more traditional inclusions, and the overall experience costs significantly less than Disney—often 30-40% lower for comparable itineraries. Disney's premium pricing reflects its intellectual property, character experiences, and exceptional children's programming. However, families with Disney-obsessed children find the value proposition compelling despite higher costs. Cunard's value shines through its inclusive afternoon tea, enrichment lectures, and lack of aggressive upselling. Both charge extra for specialty dining, beverages, and excursions, but Cunard's lower entry point makes it more accessible for budget-conscious premium travellers."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Disney Cruise Line dominates family cruising through purpose-built infrastructure. The Oceaneer Club and Lab accommodate ages 3-12 with themed Marvel, Star Wars, and Frozen spaces staffed by trained counsellors. Edge (tweens) and Vibe (teens) provide age-appropriate independence. Rotational dining ensures children experience varied environments while keeping families together. Character breakfasts, deck parties, and fireworks create magical moments impossible elsewhere. Cunard offers The Zone for teens and limited children's programming during school holidays, but lacks Disney's immersion and scale. For families prioritising adult time, Disney's secure kids' clubs operate until midnight, whereas Cunard expects parental supervision."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Disney Cruise Line commands the industry's highest per-night rates for mass-market cruising, with 7-night Caribbean sailings typically starting at €1,899 inside and exceeding €4,500 for verandah cabins during peak periods. Cunard's comparable Mediterranean or Northern Europe itineraries begin around €1,199 inside, with balcony cabins often available under €2,000. Disney rarely discounts, maintains strict pricing integrity, and excludes most beverages and gratuities from base fare. Cunard offers more promotional pricing, especially for last-minute bookings and transatlantic crossings. Gratuities are additional on both lines. Disney's Castaway Cay cabanas and specialty restaurants add further cost; Cunard's comparable extras are less aggressively marketed."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Cunard excels in traditional cruise dining with its Britannia Restaurant serving consistent, well-executed continental cuisine in elegant surroundings. The Queens Grill and Princess Grill offer exceptional luxury dining for suite guests with personalised menus. Afternoon tea remains a standout ritual. Disney innovates with rotational dining—guests experience three distinct restaurants with servers who follow—and themed venues like Animator's Palate with interactive elements. Palo and Remy provide adult-only fine dining rivalling land-based restaurants. Disney's food quality matches Cunard's but serves broader palates, particularly children. Cunard's cuisine leans more sophisticated; Disney prioritises accessibility and theatrical presentation. Both exceed mainstream cruise lines significantly."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Disney Cruise Line removes intimidation from cruising through intuitive design, explicit signage, and crew trained to anticipate novice questions. The rotational dining system eliminates confusion about reservations; the Navigator app provides real-time guidance. Families appreciate the structured environment where children thrive independently. Cunard assumes greater cruise literacy—formal dress codes, assigned seating, and maritime traditions require preparation. First-timers may find Cunard's elegance daunting or refreshing depending on temperament. Disney's inclusive atmosphere forgives mistakes; Cunard's refined environment rewards those who embrace its conventions. For anxious newcomers, Disney's safety and familiarity prevail. For confident travellers seeking distinctive experiences, Cunard offers authentic ocean travel."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental distinction lies in purpose: Cunard preserves ocean liner heritage for sophisticated travellers, while Disney creates immersive family entertainment. Cunard enforces formal evenings, maintains adult-focused spaces, and prioritises enrichment through lectures and ballroom dancing. Disney embraces casual flexibility, dedicates enormous space to children, and leverages intellectual property for themed experiences. Cunard's ships feel like grand hotels at sea; Disney's resemble floating theme parks. Service styles differ—Cunard's White Star Service is polished and reserved; Disney's is enthusiastic and character-driven. Itinerary overlap exists in Europe and Caribbean, yet Cunard specialises in transatlantic crossings while Disney dominates Bahamas routes with private island access. Pricing, demographics, and atmosphere diverge completely despite both occupying premium market segments."
+    }
+  ]
+}

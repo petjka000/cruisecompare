@@ -1,0 +1,252 @@
+{
+  "title": "Oceania Cruises British Isles Cruises 2026",
+  "intro": "Oceania Cruises elevates British Isles exploration through its acclaimed destination-focused philosophy, combining intimate ship experiences with immersive port immersion. The boutique luxury line's smaller vessels access historic harbours like Guernsey's St. Peter Port and Scotland's Kirkwall that larger ships cannot reach, delivering authentic encounters with Celtic heritage, medieval castles, and dramatic coastal landscapes. Renowned for its culinary excellence led by Master Chef Jacques Pépin, Oceania transforms British Isles voyages into gastronomic journeys featuring regional specialties from Scottish salmon to Irish farmhouse cheeses. With overnight stays in Edinburgh and Dublin, guests experience vibrant evening cultures while daytime excursions delve into whisky distilleries, ancient stone circles, and literary landmarks. The line's OLife Choice program bundles shore excursions, beverage packages, and shipboard credit, delivering exceptional value for discerning travellers seeking cultural depth rather than mass-market entertainment. Oceania's British Isles itineraries consistently earn the highest guest satisfaction scores in premium cruising.",
+  "quick_facts": {
+    "price_from_eur": 2899,
+    "duration_range": "10-16 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Sirena",
+      "Nautica",
+      "Insignia"
+    ],
+    "departure_ports": [
+      "London",
+      "Southampton",
+      "Dublin",
+      "Edinburgh"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Oct)",
+      "inside_eur": 2899,
+      "balcony_eur": 4199,
+      "suite_eur": 6899
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 3499,
+      "balcony_eur": 5299,
+      "suite_eur": 8499
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 3199,
+      "balcony_eur": 4799,
+      "suite_eur": 7699
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Celtic Kingdoms",
+      "duration_nights": 12,
+      "ports": [
+        "London",
+        "Portland",
+        "St. Peter Port",
+        "Cork",
+        "Dublin",
+        "Liverpool",
+        "Belfast",
+        "Greenock",
+        "Edinburgh",
+        "Leith"
+      ],
+      "price_from_eur": 3899,
+      "highlight": "Overnight in Dublin with exclusive Guinness Storehouse experience"
+    },
+    {
+      "name": "British Isles Brilliance",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "St. Peter Port",
+        "Cobh",
+        "Bantry Bay",
+        "Galway",
+        "Killybegs",
+        "Belfast",
+        "Rothesay",
+        "Oban",
+        "Invergordon",
+        "Edinburgh",
+        "Leith"
+      ],
+      "price_from_eur": 4599,
+      "highlight": "Remote Scottish Highlands including Isle of Iona abbey visit"
+    },
+    {
+      "name": "Gems of Northern Europe",
+      "duration_nights": 10,
+      "ports": [
+        "Amsterdam",
+        "Edinburgh",
+        "Invergordon",
+        "Kirkwall",
+        "Lerwick",
+        "Stavanger",
+        "Kristiansand",
+        "Copenhagen"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Orkney Islands UNESCO World Heritage prehistoric sites"
+    },
+    {
+      "name": "Irish Sea Discovery",
+      "duration_nights": 10,
+      "ports": [
+        "Dublin",
+        "Holyhead",
+        "Liverpool",
+        "Belfast",
+        "St. Kilda",
+        "Stornoway",
+        "Invergordon",
+        "Edinburgh"
+      ],
+      "price_from_eur": 3199,
+      "highlight": "Rare call at remote St. Kilda archipelago seabird colonies"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Sirena",
+      "capacity": 670,
+      "year": 1999,
+      "refurbished": 2019,
+      "best_for": "Intimate port access and culinary immersion",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "refurbished": 2022,
+      "best_for": "Cultural enrichment and destination depth",
+      "price_from_eur": 2999
+    },
+    {
+      "name": "Insignia",
+      "capacity": 670,
+      "year": 1998,
+      "refurbished": 2018,
+      "best_for": "Classic luxury and refined atmosphere",
+      "price_from_eur": 2899
+    }
+  ],
+  "whats_included": [
+    "Unlimited internet",
+    "Unlimited specialty restaurants",
+    "Room service",
+    "Fitness centre",
+    "Enrichment lectures",
+    "Destination seminars",
+    "Self-service laundry",
+    "OLife Choice benefits (shore excursions, beverage package, or shipboard credit)",
+    "Airport transfers",
+    "Gratuities"
+  ],
+  "whats_extra": [
+    "Airfare (unless OLife package selected)",
+    "Premium spirits and wines beyond House Select",
+    "Spa treatments",
+    "Premium shore excursions",
+    "Boutique purchases",
+    "Photography services",
+    "Casino",
+    "Medical services",
+    "Satellite phone"
+  ],
+  "booking_strategy": "Oceania Cruises releases British Isles itineraries 18-24 months ahead; secure balcony staterooms 12-18 months prior for optimal selection. Wave season (January-March) offers strongest incentives including free airfare, OLife Choice credits up to EUR 1,600, and reduced deposits. Solo travellers should book immediately upon release as single supplements are limited. Concierge Level and above include priority restaurant reservations and complimentary laundry—book these categories early for summer departures. Past guests receive additional 5-10% savings and early access. Final payment due 90 days prior; consider Oceania's flexible cancellation protection for peace of mind on international itineraries.",
+  "top_ports": [
+    {
+      "port": "Edinburgh (South Queensferry)",
+      "time_in_port": "7am-7pm or overnight",
+      "top_activity": "Royal Yacht Britannia with afternoon tea (EUR 89)",
+      "tip": "Book castle tickets independently for morning entry before crowds"
+    },
+    {
+      "port": "Dublin",
+      "time_in_port": "8am-6pm or overnight",
+      "top_activity": "Trinity College Book of Kells with Dublin Literary Pub Crawl (EUR 125)",
+      "tip": "Overnight stays include evening traditional music sessions in Temple Bar"
+    },
+    {
+      "port": "Cork (Cobh)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Jameson Distillery Midleton experience with tasting (EUR 109)",
+      "tip": "Titanic Experience Cobh is walking distance from pier"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Giant's Causeway and Dark Hedges full day (EUR 189)",
+      "tip": "Titanic Belfast requires 2.5 hours minimum; book morning slots"
+    },
+    {
+      "port": "St. Peter Port (Guernsey)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Victor Hugo House and Sausmarez Manor gardens (EUR 75)",
+      "tip": "Tender port—shore excursion guarantees priority tender"
+    },
+    {
+      "port": "Kirkwall (Orkney)",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Skara Brae Neolithic village and Ring of Brodgar (EUR 149)",
+      "tip": "Weather-dependent; flexible booking essential"
+    },
+    {
+      "port": "Liverpool",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Beatles Magical Mystery Tour and Albert Dock (EUR 95)",
+      "tip": "Free museum at dock; Beatles sites book solid in summer"
+    },
+    {
+      "port": "Invergordon",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Loch Ness cruise with Urquhart Castle (EUR 159)",
+      "tip": "Cruise line coaches reach castle before independent travellers"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises British Isles cruise cost?",
+      "answer": "Oceania Cruises British Isles voyages range from EUR 2,899 for 10-night shoulder-season inside staterooms to EUR 8,499+ for peak summer suites. Balcony accommodations, essential for scenic cruising, typically start at EUR 4,199. The OLife Choice program adds significant value: selecting free shore excursions provides approximately EUR 1,200 credit on a 12-night voyage, while the House Select beverage package covers premium wines and spirits worth EUR 75+ daily. Airfare promotions frequently include round-trip flights from major European gateways. Solo travellers face 150-200% single supplements, though Oceania occasionally offers reduced supplement sales. Total vacation investment including pre-cruise London or Dublin stays, premium excursions, and gratuities typically reaches EUR 5,500-9,000 per person for balcony accommodations."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to British Isles?",
+      "answer": "Oceania deploys its 670-guest R-class ships exclusively for British Isles itineraries: Sirena, Nautica, and Insignia. These intimate vessels—significantly smaller than mainstream competitors—navigate the narrow waterways of Scotland's Caledonian Canal and tender into Guernsey's St. Peter Port where larger ships cannot anchor. Sirena, most recently refurbished in 2019, features the Aquamar Spa and wellness focus. Nautica underwent comprehensive 2022 renovation with redesigned suites and public spaces. Insignia maintains classic Oceania elegance with extensive art collections. All three offer identical deck plans with four dining venues including Polo Grill steakhouse and Toscana Italian restaurant. Their shallow drafts enable calls at Lerwick, Kirkwall, and remote Scottish islands inaccessible to premium competitors. No Oceania O-class ships currently operate British Isles routes."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "May through September delivers optimal British Isles cruising conditions, with June and July offering longest daylight hours—up to 18 hours in Scottish ports—and highest probability of calm seas for tender ports. May and September provide excellent value with lower prices, fewer tourists at major sites, and vibrant spring or autumn landscapes; however, temperatures range 10-15°C requiring layered clothing. August coincides with Edinburgh Festival Fringe, creating extraordinary atmosphere but accommodation scarcity for pre-cruise stays. October voyages risk Atlantic storms affecting tender operations and outdoor excursions. Oceania's limited winter British Isles programming (December) features Christmas market itineraries with festive atmosphere but significantly reduced daylight and frequent rain. For photography and wildlife—puffins, seals, seabirds—May-June breeding season proves unmatched."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's British Isles cruises include unlimited internet, all specialty dining without cover charges, 24-hour room service, comprehensive fitness centre, destination lectures, self-service laundry, and airport transfers. The OLife Choice program provides one of three options: unlimited shore excursions (typically 4-6 tours per voyage), House Select beverage package (premium wines, spirits, beer), or shipboard credit up to EUR 1,600. Gratuities are included, eliminating daily service charges. Unique inclusions encompass Canyon Ranch spa access (treatments extra), cooking demonstrations, and bridge tours. Not included: airfare (unless promotional), premium shore excursions beyond OLife allowance, premium wines beyond House Select, spa services, and boutique purchases. Oceania's culinary program—featuring Jacques Pépin-designed menus and artisanal ingredients—represents exceptional included value compared to competitors charging specialty restaurant fees."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's British Isles itineraries emphasize depth over breadth, featuring 8-10 ports with extended stays and overnights in Edinburgh, Dublin, and occasionally London. Scottish calls include Edinburgh (South Queensferry), Invergordon (Loch Ness access), Kirkwall (Orkney Neolithic sites), Lerwick (Shetland), Oban (Highlands gateway), Greenock (Glasgow), and remote Stornoway. Irish ports encompass Dublin with overnight, Cork (Cobh), Galway, Bantry Bay, and Killybegs. English stops feature London (Tower Bridge), Southampton, Portland, and Liverpool. Welsh calls include Holyhead (Anglesey). Northern Ireland adds Belfast with Giant's Causeway access. The Channel Islands' St. Peter Port provides unique British-French cultural blend. Rare calls at St. Kilda—Scotland's remotest inhabited archipelago—distinguish select itineraries. Tender ports (Guernsey, some Scottish islands) require flexibility; Oceania's small ships maintain higher success rates than competitors."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Oceania British Isles cruises 12-18 months ahead for optimal stateroom selection, particularly Concierge Level and above categories that include priority restaurant reservations and complimentary pressing. Oceania releases itineraries approximately 24 months in advance; past guests receive early access 30 days before public sale. Summer departures (June-August) and holiday sailings sell 9-12 months out, especially balcony staterooms essential for scenic Scottish cruising. Solo travellers must book immediately upon release as single-occupancy inventory is severely limited. Wave season (January-March) offers strongest incentives—free airfare, enhanced OLife credits, reduced deposits—making this ideal booking window for flexible travellers. Final payment is due 90 days prior to sailing. For 2026 departures, booking by March 2025 captures early booking benefits while maintaining cancellation flexibility through Oceania's protection plans."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises explicitly targets adult travellers and maintains no children's programming, making British Isles voyages unsuitable for families with children under 16. The sophisticated enrichment focus—destination lectures, wine tastings, cooking demonstrations—presumes adult attention spans. Dining venues lack children's menus; dress codes (resort casual to elegant) prove challenging for younger passengers. No dedicated youth facilities, pools, or activities exist. However, mature multi-generational families with teenage children seeking cultural immersion may find Oceania appropriate if children appreciate history, cuisine, and independent exploration. The line's small-ship atmosphere fosters intergenerational conversation among guests. Families prioritizing British Isles should consider P&O Cruises, Princess, or Royal Caribbean for dedicated children's programming. Oceania's minimum age is 6 months (12 months for certain itineraries), though the experience is designed for guests 55+ seeking refined, educational travel."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania Cruises applies a graduated cancellation schedule: full refund minus EUR 200 administrative fee for cancellations 180+ days prior; 25% penalty 179-120 days; 50% penalty 119-90 days; 75% penalty 89-60 days; 100% penalty within 60 days. Cancellation protection plans are strongly recommended for British Isles bookings given international travel complexity. Oceania's standard plan (EUR 249-449 depending on voyage cost) waives penalties for covered reasons including illness, injury, or death of traveller or immediate family; non-covered cancellations receive future cruise credit minus fee. The Cancel For Any Reason upgrade (additional EUR 149-249) provides 80% future cruise credit for any cancellation reason up to 48 hours before sailing. All protection plans must be purchased within 14 days of initial deposit. COVID-19 policies remain flexible with future cruise credits extended for positive tests within 10 days of sailing."
+    }
+  ]
+}

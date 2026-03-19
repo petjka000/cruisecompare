@@ -1,0 +1,154 @@
+{
+  "title": "Princess Cruises vs Viking Cruises 2026",
+  "intro": "Princess Cruises and Viking Cruises represent two distinct approaches to ocean cruising. Princess, a Carnival Corporation brand established in 1965, operates large resort-style ships with broad appeal across demographics, carrying 3,000-4,300 passengers. Viking, founded in 1997 and entering ocean cruising in 2015, offers intimate, adults-only vessels for 930 guests with destination-focused itineraries. Both position in the mid-market but serve different traveller profiles: Princess excels at multi-generational family holidays with entertainment-rich sea days, while Viking targets culturally-curious adults seeking enrichment over amusement. This comparison examines 2026 Mediterranean, Northern Europe, and transatlantic deployments to determine optimal fit for your cruising priorities.",
+  "at_a_glance": {
+    "princess": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899,
+      "avg_7night_balcony_eur": 1499,
+      "ship_size": "large (3,000-4,300 guests)",
+      "demographic": "families, couples, multi-generational",
+      "atmosphere": "resort-style, entertainment-focused"
+    },
+    "viking": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 1999,
+      "avg_7night_balcony_eur": 2499,
+      "ship_size": "small-mid (930 guests)",
+      "demographic": "adults 55+, affluent couples",
+      "atmosphere": "intimate, culturally immersive"
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "princess": "€899",
+      "viking": "€1,999"
+    },
+    {
+      "category": "Price (7-night balcony)",
+      "princess": "€1,499",
+      "viking": "€2,499"
+    },
+    {
+      "category": "Included beverages",
+      "princess": "Basic coffee/tea only",
+      "viking": "Beer, wine, soft drinks at meals"
+    },
+    {
+      "category": "Shore excursions",
+      "princess": "Extra cost (€59-189)",
+      "viking": "One included per port"
+    },
+    {
+      "category": "WiFi",
+      "princess": "€14.99/day packages",
+      "viking": "Complimentary"
+    },
+    {
+      "category": "Specialty dining",
+      "princess": "Sabatini's, Crown Grill extra",
+      "viking": "No extra charge, all venues included"
+    },
+    {
+      "category": "Entertainment",
+      "princess": "Broadway shows, casinos, nightclubs",
+      "viking": "Lectures, classical music, destination films"
+    },
+    {
+      "category": "Children's facilities",
+      "princess": "Extensive (Discovery at SEA, teens)",
+      "viking": "None (adults-only)"
+    },
+    {
+      "category": "Dress code",
+      "princess": "Smart casual, formal nights",
+      "viking": "Elegant casual, no formal nights"
+    },
+    {
+      "category": "Stateroom size",
+      "princess": "14-16 sqm inside",
+      "viking": "23 sqm minimum, all with veranda"
+    },
+    {
+      "category": "Crew-to-guest ratio",
+      "princess": "1:2.5",
+      "viking": "1:1.7"
+    },
+    {
+      "category": "Pool decks",
+      "princess": "Multiple pools, waterslides (select ships)",
+      "viking": "Infinity pool, serene spa atmosphere"
+    }
+  ],
+  "choose_a_if": [
+    "Travelling with children or grandchildren requiring supervised activities and family-friendly entertainment",
+    "You prioritise Broadway-calibre production shows, casinos, and lively nightlife over destination immersion",
+    "Budget-conscious cruising appeals, accepting à-la-carte pricing for drinks, excursions, and specialty dining",
+    "You enjoy formal nights and traditional cruise rituals with photography and gala dinners"
+  ],
+  "choose_b_if": [
+    "You seek adults-only serenity with no children, no casino, and no announcements",
+    "Inclusive value matters: complimentary excursions, beverages, WiFi, and all dining without surcharges",
+    "Destination depth drives your travel decisions; you prefer longer port stays and enrichment lectures",
+    "You value spacious all-veranda staterooms and Nordic-design aesthetic over amusement-park features"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with children",
+      "winner": "Princess Cruises",
+      "reason": "Princess delivers unmatched family infrastructure: supervised kids' clubs, teen lounges, family suites, and character partnerships with Discovery and Sesame Street. Viking's adults-only policy excludes families entirely."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Viking Cruises",
+      "reason": "Viking's intimate scale, adults-only policy, and inclusive pricing create effortless romance without compromising on sophistication. Princess offers couples' amenities but within bustling, family-oriented environments."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Princess Cruises",
+      "reason": "Princess offers dedicated solo cabins on newer ships and structured social programming. Viking's higher entry price and couple-oriented design disadvantage solo travellers despite single-supplement waivers."
+    },
+    {
+      "type": "Cultural enthusiasts",
+      "winner": "Viking Cruises",
+      "reason": "Viking's resident historian programme, destination-focused dining, and included excursions prioritise authentic cultural engagement. Princess provides enrichment but emphasises entertainment over education."
+    },
+    {
+      "type": "Active seniors",
+      "winner": "Tie",
+      "reason": "Princess suits socially active seniors wanting variety and traditional cruise structure. Viking appeals to intellectually active seniors prioritising learning and unhurried exploration. Both excel in accessible design."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Princess Cruises",
+      "reason": "Princess offers lower entry prices and familiar resort-style amenities that match expectations from land-based holidays. Viking's distinctive approach rewards experienced travellers seeking cruise alternatives."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value assessment depends on spending patterns. Viking's higher upfront pricing (€1,999 vs €899 for seven nights) includes beverages, one excursion per port, WiFi, and all dining—typically €600-800 in extras on Princess. For moderate drinkers who self-book excursions and dine primarily in complimentary venues, Princess offers lower total cost. For travellers who would purchase beverage packages, specialty dining, and ship excursions regardless, Viking's bundled pricing eliminates nickel-and-diming and often proves superior value. Additionally, Viking's minimum 23 sqm veranda staterooms compare favourably to Princess's entry-level interiors. Calculate your anticipated onboard spending to determine genuine value for your habits."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Princess Cruises exclusively serves families; Viking Cruises prohibits guests under 18. Princess offers comprehensive children's programming across three age groups: Princess Pelicans (3-7), Shockwaves (8-12), and Remix teens (13-17), with supervised activities from 9am to midnight. Partnerships with Discovery and Sesame Street provide educational and entertainment content. Family suites, connecting staterooms, and children's menus support multi-generational travel. Family-specific shore excursions and pool areas with waterslides (on Royal-class ships) enhance the experience. Viking's adults-only policy makes family travel impossible, reflecting their deliberate positioning for child-free cultural exploration. Families must choose Princess or consider Disney, Royal Caribbean, or MSC for comparable family infrastructure."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Princess Cruises consistently undercuts Viking on base pricing: 2026 Mediterranean seven-night cruises start at €899 inside, €1,499 balcony on Princess versus €1,999 and €2,499 respectively on Viking. However, Viking's pricing includes significantly more: complimentary beer and wine at lunch and dinner, one shore excursion per port (valued at €80-150), unlimited WiFi, and all specialty dining. Princess charges €14.99 daily for WiFi, €59-189 for excursions, and €29-39 for specialty restaurants. A couple selecting moderate inclusions on Princess—basic beverage package, two specialty dinners, and two excursions—adds approximately €800 to the base fare, narrowing or eliminating Viking's premium. Viking's mandatory all-veranda stateroom policy also inflates apparent pricing against Princess's inside options."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Viking Cruises delivers superior culinary consistency and inclusivity. All dining venues carry no surcharge, including Manfredi's Italian and Chef's Table tasting menus. Menus emphasise regional cuisine with destination-sourced ingredients; Norwegian sailings feature Arctic char and cloudberries, Mediterranean voyages incorporate port-specific specialities. Princess offers greater variety—Sabatini's Italian trattoria, Crown Grill steakhouse, Kai Sushi, and 24-hour international café—but quality varies across complimentary venues, and surcharges apply to premium options. Princess's main dining room accommodates 1,500 guests with banquet-style service; Viking's smaller restaurants seat 200-300 with refined pacing. Food critics consistently rate Viking higher for culinary ambition, though Princess satisfies broader palates with familiar comfort options. Wine programmes favour Viking's inclusive model."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Princess Cruises better suits cruise novices by aligning with land-based resort expectations: multiple pools, varied entertainment, flexible dining times, and familiar hotel-style service. The learning curve is minimal; first-timers understand the value proposition immediately. Princess's lower entry pricing reduces financial risk for uncertain cruisers. Viking demands greater cruise literacy: its inclusive model requires understanding upfront value, its destination focus assumes interest in enrichment over entertainment, and its adults-only policy excludes travellers who might cruise with children later. However, Viking rewards adventurous first-timers seeking distinctive experiences over conventional holidays. Princess builds cruise confidence; Viking validates experienced travellers' decision to continue cruising through differentiated excellence."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental distinctions separate these lines. Scale: Princess operates 15 large ships (3,000-4,300 guests); Viking sails 10 identical small-mid vessels (930 guests). Demographics: Princess welcomes all ages; Viking enforces 18-plus minimum. Pricing philosophy: Princess follows traditional à-la-carte cruising with low entry and abundant extras; Viking pursues inclusive pricing with higher upfront costs covering most expenses. Atmosphere: Princess emphasises entertainment, nightlife, and amusement; Viking prioritises serenity, enrichment, and destination immersion. Design: Princess builds floating resorts with casinos, theatres, and shopping arcades; Viking creates intimate Scandinavian-influenced environments with libraries, spas, and cultural spaces. Shore time: Princess follows standard port schedules; Viking extends stays with overnights and late departures. These differences reflect divergent visions rather than quality hierarchies—optimal choice depends on traveller priorities."
+    }
+  ]
+}

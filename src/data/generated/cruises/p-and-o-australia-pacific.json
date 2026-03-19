@@ -1,0 +1,208 @@
+{
+  "title": "P&O Cruises Australia & Pacific Cruises 2026",
+  "intro": "P&O Cruises Australia has been the region's premier cruise operator for over 90 years, offering authentic local experiences unmatched by international competitors. Their Australia & Pacific itineraries explore the breathtaking Great Barrier Reef, pristine Fiji islands, Papua New Guinea's tribal cultures, and New Zealand's dramatic fjords. Unlike global brands, P&O employs predominantly Australian and New Zealand crew who understand local preferences, from flat white coffee to cricket updates. The line operates year-round from Sydney, Brisbane, Melbourne, and Auckland, with shorter 7-night escapes to longer 14-night explorations of remote Pacific archipelagos. P&O's Pacific Explorer and Pacific Adventure feature dedicated Australian culinary programs, local entertainment acts, and itineraries designed around school holiday calendars. For 2026, expanded Papua New Guinea and Solomon Islands routes offer rare access to untouched indigenous communities and world-class diving locations.",
+  "quick_facts": {
+    "price_from_eur": 649,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Pacific Explorer",
+      "Pacific Adventure"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Brisbane",
+      "Melbourne",
+      "Auckland"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Oct)",
+      "inside_eur": 649,
+      "balcony_eur": 999,
+      "suite_eur": 1699
+    },
+    {
+      "season": "Peak (Dec-Jan)",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Low (Feb-Mar, Jun-Aug)",
+      "inside_eur": 549,
+      "balcony_eur": 849,
+      "suite_eur": 1399
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Queensland Coast",
+      "duration_nights": 7,
+      "ports": [
+        "Sydney",
+        "Moreton Island",
+        "Airlie Beach",
+        "Cairns"
+      ],
+      "price_from_eur": 649,
+      "highlight": "Great Barrier Reef gateway with optional reef helicopter flights"
+    },
+    {
+      "name": "10-night Papua New Guinea",
+      "duration_nights": 10,
+      "ports": [
+        "Brisbane",
+        "Conflict Islands",
+        "Kitava",
+        "Rabaul",
+        "Kiriwina",
+        "Alotau"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Rare tribal culture encounters and pristine WWII dive sites"
+    },
+    {
+      "name": "12-night Fiji & South Pacific",
+      "duration_nights": 12,
+      "ports": [
+        "Sydney",
+        "Nouméa",
+        "Mystery Island",
+        "Dravuni Island",
+        "Suva",
+        "Lautoka",
+        "Isle of Pines"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Three distinct Fijian islands plus New Caledonian lagoon cruising"
+    },
+    {
+      "name": "14-night New Zealand Discovery",
+      "duration_nights": 14,
+      "ports": [
+        "Sydney",
+        "Bay of Islands",
+        "Auckland",
+        "Tauranga",
+        "Napier",
+        "Wellington",
+        "Picton",
+        "Dunedin",
+        "Fiordland"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Complete circumnavigation with Milford Sound scenic cruising"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Pacific Explorer",
+      "capacity": 1996,
+      "year": 1997,
+      "best_for": "Families & First-timers",
+      "price_from_eur": 649
+    },
+    {
+      "name": "Pacific Adventure",
+      "capacity": 2636,
+      "year": 2020,
+      "best_for": "Active couples & families",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Buffet breakfast, lunch & dinner",
+    "Poolside snacks & pizza",
+    "Broadway-style production shows",
+    "Live music & comedy performances",
+    "Kids club (2-17 years)",
+    "Fitness centre access",
+    "Port taxes & government fees",
+    "Basic Wi-Fi (social package)"
+  ],
+  "whats_extra": [
+    "Specialty restaurants ($25-45 per person)",
+    "Beverage packages ($59-89 per day)",
+    "Shore excursions ($89-399)",
+    "Spa treatments ($89-299)",
+    "Casino gaming",
+    "Premium Wi-Fi ($15-25 per day)",
+    "Laundry services",
+    "Gratuities (automatically added: AUD $13.50 per person per day)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak December-January school holidays and Papua New Guinea itineraries, which sell out fastest. Shoulder season (April-May, September-October) offers 30-40% savings with optimal weather. P&O releases itineraries 18 months in advance. Watch for 'Balcony Bonanza' sales upgrading interiors to balcony cabins for $99. Solo travellers should book early as single-occupancy cabins are limited. Final payment due 75 days before departure.",
+  "top_ports": [
+    {
+      "port": "Cairns",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Outer Reef pontoon with snorkelling ($289)",
+      "tip": "Pre-book helicopter transfer for reef arrival—saves 2 hours boat time"
+    },
+    {
+      "port": "Conflict Islands (PNG)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Pristine atoll snorkelling ($89)",
+      "tip": "Bring cash—no ATMs, limited card facilities on private island"
+    },
+    {
+      "port": "Dravuni Island (Fiji)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Village visit with kava ceremony ($45)",
+      "tip": "Wear modest clothing covering shoulders and knees for village respect"
+    },
+    {
+      "port": "Milford Sound (scenic cruising)",
+      "time_in_port": "8am-10am",
+      "top_activity": "Deck viewing of Stirling Falls",
+      "tip": "Position on starboard side departing, port side entering for best views"
+    },
+    {
+      "port": "Mystery Island (Vanuatu)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Champagne beach snorkelling (free)",
+      "tip": "Walk 15 minutes past tender pier for uncrowded coral gardens"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Australia & Pacific cruise cost?",
+      "answer": "P&O Cruises Australia & Pacific itineraries range from EUR 549 for 7-night low-season interior cabins to EUR 2,899 for peak-season suites on 14-night voyages. Most 7-night Queensland coastal cruises average EUR 649-999 for balcony cabins. Papua New Guinea and extended South Pacific routes command premiums at EUR 1,099-1,499. School holiday periods (December-January, April, September-October) see 40-60% price increases. Solo travellers pay 150-200% single supplement unless booking designated single cabins. Beverage packages add EUR 59-89 daily, while shore excursions average EUR 150-250 per port. Gratuities are automatically charged at AUD $13.50 per person daily."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Australia & Pacific?",
+      "answer": "P&O Cruises Australia operates two dedicated ships in the region. Pacific Explorer (1,996 passengers, refurbished 2017) serves as the workhorse with the most diverse itinerary portfolio including Papua New Guinea and short domestic escapes. Pacific Adventure (2,636 passengers, joined fleet 2020) offers enhanced facilities including dual waterslides, expanded specialty dining, and larger balcony cabin inventory. Both vessels are permanently based in Australia year-round, unlike international competitors who seasonally reposition. Pacific Adventure features Edge—an adults-only retreat with private cabanas—while Pacific Explorer emphasizes family programming with dedicated teen spaces. Neither ship offers the mega-ship amenities of Royal Caribbean but provides more intimate port access in Pacific islands."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "April-May and September-October offer optimal cruising conditions with stable 22-28°C temperatures, minimal rainfall, and lower prices before/after peak season. These shoulder months avoid cyclone risk (November-April) and the winter chill affecting southern New Zealand routes (June-August). December-January delivers hottest weather ideal for beach-focused itineraries but commands premium pricing and crowded ports during Australian school holidays. Papua New Guinea voyages specifically benefit from April-May timing when seas are calmest for tender operations. Fiji and Vanuatu remain pleasant year-round, though January-March carries humidity and tropical storm potential. Whale watching enthusiasts should target September-November Humpback migration along Australia's east coast."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O Australia cruises include all main dining venue meals—Waterfront Restaurant (formal dining) and Pantry (international buffet)—plus poolside grills, pizzeria, and select café items. Entertainment encompasses production shows in the main theatre, live music across multiple venues, comedy performances, and supervised kids club programming from 9am-10pm for ages 2-17. Accommodation, port taxes, and basic social Wi-Fi are included. Notably, P&O differs from international competitors by excluding gratuities from base fares—these are automatically added at AUD $13.50 per person daily. Beverages beyond water, tea, coffee, and juice at breakfast incur charges. Room service carries delivery fees. Specialty restaurants, spa treatments, casino play, and shore excursions require additional payment."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O's Australia & Pacific network spans 40+ ports across four countries. Australian departures operate from Sydney, Brisbane, Melbourne, and Fremantle with domestic calls at Moreton Island, Airlie Beach, Cairns, Darwin, and Hobart. International highlights include Fiji's Dravuni, Suva, and Lautoka; Vanuatu's Mystery Island and Port Vila; New Caledonia's Nouméa and Isle of Pines; and Papua New Guinea's Alotau, Rabaul, and Conflict Islands. New Zealand itineraries feature Auckland, Bay of Islands, Tauranga (Rotorua access), Wellington, and scenic cruising through Fiordland's Milford and Doubtful Sounds. Remote additions include Solomon Islands (Honiara) and Norfolk Island. Papua New Guinea and Solomon Islands routes require valid passports with 6+ months validity; some nationalities need visas."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure P&O Australia & Pacific cruises 9-12 months ahead for peak December-January school holiday periods when family cabins sell out rapidly. Papua New Guinea and 14-night South Pacific itineraries warrant similar advance booking due to limited annual departures. P&O releases schedules approximately 18 months in advance. Shoulder season (April-May, September-October) offers more flexibility with good availability 3-6 months out and frequent last-minute deals 4-8 weeks before sailing—though cabin selection becomes restricted. Solo travellers must book early as single-occupancy cabins number under 20 per ship. Final payment is due 75 days pre-departure, with penalties escalating from loss of deposit to 100% fare within 15 days of sailing."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O Australia excels for families with Australia's most comprehensive kids programming at sea. Turtle Cove (2-6 years), Shark Shack (7-10 years), HQ (11-14 years), and HQ+ (15-17 years) operate 9am-10pm with trained Australian staff—no additional fees apply. Family-friendly cabin configurations include quad-share interiors and connecting rooms. Both ships feature waterslides, rock climbing walls, and dedicated family pool areas. Dining accommodates picky eaters with extensive buffet options and complimentary kids menus. Evening family entertainment includes deck parties and movie screenings. School holiday sailings add enhanced programming but command 40% premiums. Teen-specific features like Pacific Adventure's Edge adults-only area (18+) create separation for multi-generational groups. Babysitting services are unavailable, limiting appeal for parents seeking adult-only evenings."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O Australia's cancellation policy imposes escalating penalties based on departure proximity. Cancellations 76+ days before sailing forfeit deposit only (typically EUR 200-400 per person). 75-43 days prior incurs 25% of total fare; 42-15 days triggers 50% penalty; and 14 days or less results in 100% forfeiture with no refund. Date changes within same booking incur EUR 50 per person fee plus fare differences. Name changes are prohibited—cancellations and rebookings required. Travel insurance is strongly recommended given strict penalties; P&O offers own policies covering cancellation for specified reasons. COVID-19 protocols have relaxed but positive pre-departure tests still trigger standard cancellation terms unless Future Cruise Credit elected. Refunds process within 90 days to original payment method."
+    }
+  ]
+}

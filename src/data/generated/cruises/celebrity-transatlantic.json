@@ -1,0 +1,209 @@
+{
+  "title": "Celebrity Cruises Transatlantic Cruises 2026",
+  "intro": "Celebrity Cruises elevates the classic Transatlantic crossing with sophisticated modern luxury, transforming ocean travel into an immersive cultural journey. Their repositioning cruises connect Europe and the Americas aboard stunning Edge Series and Solstice Class vessels, offering 10-14 night voyages that celebrate the romance of sea days. Passengers enjoy world-class dining at 30+ venues, the revolutionary Magic Carpet platform, and The Retreat exclusive suite experience. With overnight stays in cities like Lisbon and Tenerife, plus enriching programming from Smithsonian speakers and culinary workshops, these crossings appeal to discerning travelers seeking purposeful travel. Celebrity's elevated service, contemporary design, and destination-focused approach make their Transatlantic itineraries particularly attractive to couples and experienced cruisers who appreciate refined experiences without formality.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Celebrity Apex",
+      "Celebrity Beyond",
+      "Celebrity Silhouette",
+      "Celebrity Reflection"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Barcelona",
+      "Rome",
+      "Fort Lauderdale"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring Repositioning",
+      "inside_eur": 849,
+      "balcony_eur": 1399,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Fall Repositioning",
+      "inside_eur": 899,
+      "balcony_eur": 1499,
+      "suite_eur": 3199
+    },
+    {
+      "season": "Holiday",
+      "inside_eur": 1199,
+      "balcony_eur": 1999,
+      "suite_eur": 4299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Eastbound Transatlantic",
+      "duration_nights": 12,
+      "ports": [
+        "Fort Lauderdale",
+        "Ponta Delgada",
+        "Lisbon",
+        "Cherbourg",
+        "Southampton"
+      ],
+      "price_from_eur": 949,
+      "highlight": "Overnight in Lisbon with Azores discovery"
+    },
+    {
+      "name": "14-night Westbound Transatlantic",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Malaga",
+        "Tenerife",
+        "Ponta Delgada",
+        "Bermuda",
+        "Fort Lauderdale"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Canary Islands and Bermuda extended exploration"
+    },
+    {
+      "name": "10-night Iberia to Florida",
+      "duration_nights": 10,
+      "ports": [
+        "Lisbon",
+        "Ponta Delgada",
+        "Royal Naval Dockyard",
+        "Fort Lauderdale"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Compact crossing with Bermuda stop"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Apex",
+      "capacity": 2918,
+      "year": 2020,
+      "best_for": "Modern luxury seekers",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Celebrity Beyond",
+      "capacity": 3267,
+      "year": 2022,
+      "best_for": "Culinary enthusiasts",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Celebrity Silhouette",
+      "capacity": 2886,
+      "year": 2011,
+      "best_for": "Classic luxury travelers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Celebrity Reflection",
+      "capacity": 3046,
+      "year": 2012,
+      "best_for": "Spa and wellness focused",
+      "price_from_eur": 949
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "Main dining room meals",
+    "Oceanview Café buffet",
+    "Select casual dining venues",
+    "Broadway-style theater shows",
+    "Live music and comedy",
+    "Fitness center access",
+    "Pool and hot tub use",
+    "Kids club programming",
+    "Room service breakfast",
+    "Basic WiFi"
+  ],
+  "whats_extra": [
+    "Specialty dining restaurants",
+    "Premium beverage packages",
+    "Shore excursions",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Premium WiFi upgrade",
+    "Photos and artwork",
+    "Casino gaming",
+    "Airport transfers",
+    "Gratuities (€15-18/day recommended)"
+  ],
+  "booking_strategy": "Book 9-15 months ahead for optimal cabin selection and early booking savings of 20-30%. Consider MoveUp upgrades 60 days before sailing. AquaClass cabins offer excellent value for wellness-focused travelers. Watch for Celebrity's 'Sail Beyond' promotions offering onboard credit and beverage packages. Repositioning cruises often release 18 months in advance—secure balcony cabins early as these sell fastest on sea-day-intensive itineraries.",
+  "top_ports": [
+    {
+      "port": "Lisbon",
+      "time_in_port": "7am-6pm (or overnight)",
+      "top_activity": "Fátima and Óbidos full-day excursion (€189)",
+      "tip": "Take tram 28 for independent exploration"
+    },
+    {
+      "port": "Ponta Delgada, Azores",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sete Cidades crater lakes jeep tour (€159)",
+      "tip": "Book morning tours—afternoon fog common"
+    },
+    {
+      "port": "Tenerife, Canary Islands",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Mount Teide national park excursion (€179)",
+      "tip": "Pack layers—temperature drops 20°C at summit"
+    },
+    {
+      "port": "Bermuda",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Crystal Caves and Hamilton exploration (€149)",
+      "tip": "Purchase transport pass for independent beach hopping"
+    },
+    {
+      "port": "Malaga",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Alhambra Palace Granada full-day (€219)",
+      "tip": "Must book 60+ days ahead—limited daily entries"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Transatlantic cruise cost?",
+      "answer": "Celebrity Transatlantic cruises typically range from €849 to €4,500 per person depending on season, cabin category, and ship. Inside cabins start around €849-1,199, balcony cabins €1,399-2,199, and suites €2,899-6,500+. Spring and fall repositioning cruises offer best value. The Retreat suites with exclusive lounge access command premium pricing. Factor €15-18 daily gratuities, beverage packages (€55-75/day), and specialty dining (€35-65/person). Shore excursions average €120-220 per port. Total budget €2,500-5,500 per couple for mid-range balcony experience including extras."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Transatlantic?",
+      "answer": "Celebrity deploys their newest and most innovative ships for Transatlantic crossings. The Edge Series leads with Celebrity Apex (2020) and Celebrity Beyond (2022) featuring the revolutionary Magic Carpet, infinite verandas, and 29 dining venues. Solstice Class vessels Celebrity Silhouette and Celebrity Reflection also operate these routes, offering classic elegance with Lawn Club real grass deck. Ship assignments rotate seasonally based on European deployment schedules. Apex and Beyond typically handle spring eastbound and fall westbound crossings, while Solstice Class ships may operate shorter 10-night itineraries. All feature The Retreat suite complex, Canyon Ranch Spa, and extensive enrichment programming."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "Optimal Transatlantic timing aligns with repositioning seasons: April-May for eastbound (Caribbean to Europe) and October-November for westbound (Europe to Caribbean). These months offer mild Atlantic weather, calmer seas, and comfortable temperatures 15-22°C. Avoid January-March when storms are more frequent. April eastbound voyages catch European spring awakening; October westbound enjoy lingering Mediterranean warmth. Sea temperatures remain swimmable in heated pools year-round. Consider shoulder seasons for 30% lower pricing. Holiday crossings (Christmas/New Year) command premiums but offer festive programming. Celebrity typically operates 6-8 Transatlantic sailings annually, concentrated in these optimal windows."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's 'Always Included' fare covers accommodations, main dining room meals, Oceanview Café buffet, select casual venues, theater productions, live entertainment, fitness center, pools, and basic WiFi. The upgraded 'Elevate' package adds premium drinks and shore excursion credits; 'Indulge' adds streaming WiFi and additional dining credits. Not included: specialty restaurants (Eden, Le Voyage, Fine Cut Steakhouse), spa services, laundry, photos, casino, premium WiFi, and most shore excursions. Gratuities are additional (recommended €15-18/day). Room service incurs fees except Continental breakfast. The Retreat suite guests receive additional inclusions like premium drinks, streaming WiFi, and dedicated dining venue access."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity Transatlantic itineraries feature 3-5 port calls balancing sea days with destination immersion. Common stops include Ponta Delgada (Azores) for volcanic landscapes, Lisbon or Porto for Portuguese culture with overnight options, Tenerife or Gran Canaria for subtropical hiking, and Bermuda for British colonial charm. Some itineraries include Malaga, Cartagena, or Cadiz in Spain; Cherbourg or Le Havre in France. Embarkation ports are Southampton, Barcelona, Rome (Civitavecchia), or Fort Lauderdale. Disembarkation matches opposite side. Sea days typically number 5-7, making port selection crucial for activity variety. Celebrity emphasizes late stays and overnights in key ports like Lisbon to maximize exploration time."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Celebrity Transatlantic cruises 9-15 months in advance for optimal cabin selection, particularly for AquaClass spa cabins and The Retreat suites which sell first. Early booking yields 20-30% savings through 'Early Saver' rates. Edge Series ships on these routes book faster—reserve 12-18 months ahead. Last-minute deals under 90 days are rare for Transatlantic given limited inventory. Consider booking flights 6-9 months ahead for better Europe-USA routing options. Final payment due 90 days before sailing. MoveUp cabin upgrade bidding opens 60 days prior. Shore excursions and specialty dining reservations open 90 days for suite guests, 60 days for others."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity Transatlantic cruises suit families with older children (8+) rather than young kids, given sea-day intensity and sophisticated programming. The Camp at Sea kids club operates for ages 3-12 with STEM activities and culinary workshops; Teen Club serves 13-17 year olds. However, Transatlantic sailings see fewer families than Caribbean routes—expect 70%+ adult passengers. Families benefit from expanded bonding time during sea days, enrichment lectures, cooking classes, and pool activities. Connecting cabins and family verandas available but limited; book early. Children pricing typically reduces third/fourth berth rates 50-75%. Consider Apex or Beyond for most contemporary family appeal with more active spaces."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity's standard cancellation policy charges deposits from booking: 90+ days before sailing loses deposit only; 89-75 days loses 25% of total fare; 74-61 days loses 50%; 60-31 days loses 75%; 30 days or less forfeits 100%. 'Cruise with Confidence' flexible booking occasionally offers penalty-free changes. Cancel for Any Reason protection available as add-on (12-15% of fare) providing future cruise credit minus deposit. Travel insurance strongly recommended for Transatlantic given flight complexity—policies covering €10,000+ cancellation and medical evacuation essential. Note that airfare booked through Celebrity carries separate penalties. Rebooking on same itinerary may incur fare differences. Suite guests in The Retreat have dedicated concierge for cancellation assistance."
+    }
+  ]
+}

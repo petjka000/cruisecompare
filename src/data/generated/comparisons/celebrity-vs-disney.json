@@ -1,0 +1,131 @@
+{
+  "title": "Celebrity Cruises vs Disney Cruise Line 2026",
+  "intro": "Celebrity Cruises and Disney Cruise Line represent two distinct approaches to premium cruising. Celebrity targets sophisticated adults with modern luxury, contemporary design, and elevated culinary experiences across its Edge-class and Solstice-class ships. Disney Cruise Line delivers immersive family entertainment, beloved character interactions, and magical storytelling on its fleet including the new Wish-class vessels. While both operate in the premium segment, Celebrity emphasizes refined relaxation and destination immersion, whereas Disney prioritizes multi-generational family bonding through exclusive IP and youth programming. Your ideal choice depends on whether you seek adult-oriented elegance or enchanted family adventures.",
+  "at_a_glance": {
+    "celebrity": {
+      "price_tier": "premium",
+      "avg_7night_inside_eur": 1199
+    },
+    "disney": {
+      "price_tier": "premium",
+      "avg_7night_inside_eur": 1899
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "7-Night Inside Cabin (avg)",
+      "celebrity": "€1,199",
+      "disney": "€1,899"
+    },
+    {
+      "category": "7-Night Balcony Cabin (avg)",
+      "celebrity": "€1,799",
+      "disney": "€2,799"
+    },
+    {
+      "category": "Ship Capacity",
+      "celebrity": "2,900 passengers",
+      "disney": "2,500-4,000 passengers"
+    },
+    {
+      "category": "Adult-Only Areas",
+      "celebrity": "The Retreat, Solarium",
+      "disney": "Palo, Remy, Quiet Cove Pool"
+    },
+    {
+      "category": "Dining Style",
+      "celebrity": "Modern luxury, farm-to-table",
+      "disney": "Rotational dining, themed restaurants"
+    },
+    {
+      "category": "Entertainment Focus",
+      "celebrity": "Production shows, live music",
+      "disney": "Broadway-calibre Disney musicals"
+    },
+    {
+      "category": "Kids Programming",
+      "celebrity": "Camp at Sea (ages 3-17)",
+      "disney": "Oceaneer Club/Lab, Edge, Vibe"
+    },
+    {
+      "category": "Dress Code",
+      "celebrity": "Resort casual to chic",
+      "disney": "Cruise casual, optional formal"
+    },
+    {
+      "category": "Included Beverages",
+      "celebrity": "Classic drinks package often included",
+      "disney": "Soda, coffee, tea only"
+    },
+    {
+      "category": "Gratuities (per person/day)",
+      "celebrity": "€18",
+      "disney": "€14.50"
+    }
+  ],
+  "choose_a_if": [
+    "You prefer adult-oriented sophistication with contemporary design and elevated culinary experiences",
+    "You value destination immersion, modern luxury, and quieter, more refined onboard atmosphere",
+    "You want included drinks packages and fewer additional charges",
+    "You appreciate innovative ship architecture like the Magic Carpet and Infinite Verandas"
+  ],
+  "choose_b_if": [
+    "You are travelling with children who will engage with Disney characters and storytelling",
+    "You want guaranteed exceptional youth programming and family-friendly entertainment",
+    "You prioritize Broadway-quality Disney musicals and exclusive IP experiences",
+    "You value rotational dining with dedicated serving teams and themed restaurants"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with young children",
+      "winner": "Disney Cruise Line",
+      "reason": "Unmatched character interactions, Oceaneer Club's immersive spaces, and guaranteed child engagement justify the premium pricing for families with kids under 12."
+    },
+    {
+      "type": "Couples without children",
+      "winner": "Celebrity Cruises",
+      "reason": "Sophisticated ambiance, The Retreat sundeck, and fine dining at Eden and Fine Cut Steakhouse create superior adult-oriented experiences without family cruise distractions."
+    },
+    {
+      "type": "Multi-generational groups",
+      "winner": "Disney Cruise Line",
+      "reason": "Broad appeal across ages with separate adult and youth spaces, plus shared experiences like fireworks at sea and deck parties that unite grandparents and grandchildren."
+    },
+    {
+      "type": "Food enthusiasts",
+      "winner": "Celebrity Cruises",
+      "reason": "Partnerships with Daniel Boulud and Michelin-starred chefs, plus 30+ dining venues across Edge-class ships, deliver more sophisticated and varied culinary excellence."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Celebrity Cruises",
+      "reason": "More inclusive pricing, intuitive modern design, and less overwhelming scheduling create lower barriers to entry for cruise newcomers testing the experience."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Celebrity Cruises generally offers superior value for adults, with lower base fares, frequently included drinks packages, and fewer mandatory add-ons. A 7-night Caribbean cruise typically costs €700-€900 less per person than equivalent Disney sailings. However, Disney's value proposition strengthens for families when calculating the cost of equivalent land-based Disney experiences, character dining, and premium youth programming. Solo travellers and couples particularly benefit from Celebrity's pricing structure, while families with multiple children may find Disney's bundled entertainment justifies the premium when compared to purchasing separate character experiences and childcare elsewhere."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Disney Cruise Line dominates for families, especially those with children aged 3-12. The Oceaneer Club and Lab offer immersive themed spaces staffed by trained youth counselors, while character meet-and-greues require no additional fees or lengthy queues common at Disney parks. Rotational dining ensures children experience varied environments with familiar servers. Celebrity's Camp at Sea provides solid programming but lacks the depth, themed environments, and character integration that make Disney magical for young guests. Teenagers may actually prefer Celebrity's more mature atmosphere and Edge-class ship amenities, making the choice less clear for families with older children."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Disney Cruise Line commands a significant premium, with 7-night Caribbean balcony cabins averaging €2,799 versus Celebrity's €1,799 for comparable sailings. Inside cabins show similar gaps: €1,899 Disney versus €1,199 Celebrity. Disney rarely discounts, maintaining pricing integrity through loyalty programs and early booking incentives. Celebrity employs more dynamic pricing with frequent promotions including drinks packages, onboard credit, and reduced deposits. Gratuities differ modestly: Celebrity at €18 per person daily versus Disney's €14.50. Beverage costs accumulate faster on Disney without packages. Ultimately, Disney costs approximately 40-60% more for equivalent cabin categories and itineraries."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Celebrity Cruises leads in culinary sophistication, particularly on Edge-class ships featuring 30+ venues including Eden by Daniel Boulud, Fine Cut Steakhouse, and Le Voyage by Chef Daniel Boulud. The line emphasizes farm-to-table sourcing, regionally inspired menus, and contemporary presentation. Disney offers solid, crowd-pleasing cuisine with rotational dining concepts like Animator's Palate and themed restaurants, plus adult-exclusive Palo and Remy for French and Italian fine dining. Disney's strength lies in consistency and theatrical presentation; Celebrity's in innovation and chef partnerships. Food-focused travellers consistently rate Celebrity higher, while families appreciate Disney's reliability and accommodation of picky eaters."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Celebrity Cruises suits most first-timers better, offering intuitive modern ship design, inclusive pricing options that reduce surprise costs, and a relaxed atmosphere without overwhelming scheduling demands. The Edge-class ships particularly impress newcomers with contemporary aesthetics and accessible luxury. Disney's intensity—packed daily schedules, mandatory reservations, and premium pricing—can overwhelm cruise novices. However, Disney attracts families who would never otherwise consider cruising, converting theme park enthusiasts through familiar characters and service standards. First-time cruisers seeking traditional cruise experiences with contemporary refinement choose Celebrity; those prioritizing guaranteed family entertainment and brand familiarity select Disney despite the complexity."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental distinction lies in target demographic and experience philosophy. Celebrity pursues modern luxury for adults—contemporary design, destination immersion, culinary excellence, and understated service across ships like Apex and Beyond. Disney delivers enchanted family vacations—character integration, storytelling throughout, guaranteed youth engagement, and nostalgic IP on vessels including the Wish and Treasure. Celebrity's Edge-class innovations include the Magic Carpet platform and Infinite Verandas; Disney's ships feature AquaMouse water coasters and immersive theatrical spaces. Evening entertainment differs dramatically: Celebrity offers production shows and live music; Disney presents Broadway-calibre Disney musicals and deck parties. Pricing, dress codes, dining structures, and onboard atmosphere reflect these divergent identities comprehensively."
+    }
+  ]
+}

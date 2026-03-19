@@ -1,0 +1,220 @@
+{
+  "title": "Disney Cruise Line Caribbean Cruises 2026",
+  "intro": "Disney Cruise Line transforms Caribbean cruising into an immersive family adventure where beloved characters, Broadway-caliber shows, and exclusive private islands create unforgettable memories. Sailing from Florida ports, Disney's meticulously designed ships combine classic ocean liner elegance with whimsical Disney magic. The Caribbean itineraries balance action-packed port days with relaxing sea days featuring pools, waterslides, and kids' clubs that parents trust. Disney's Castaway Cay private island in the Bahamas elevates the experience with pristine beaches, dedicated family areas, and adult-only retreats. Rotational dining ensures families experience multiple themed restaurants with the same serving team. From Marvel Day at Sea to Pixar-themed deck parties, Disney infuses every Caribbean voyage with storytelling excellence. The line's attention to detail—from fireworks at sea to character meet-and-greets—justifies premium pricing for families seeking hassle-free, magical vacations.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "4-8 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "ships_on_route": [
+      "Disney Wish",
+      "Disney Fantasy",
+      "Disney Dream",
+      "Disney Magic"
+    ],
+    "departure_ports": [
+      "Port Canaveral",
+      "Miami",
+      "Fort Lauderdale"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Value (Jan-Early Feb, Sep-Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Regular (Late Feb-May, Nov-Dec)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 3599
+    },
+    {
+      "season": "Peak (June-Aug, Holidays)",
+      "inside_eur": 1599,
+      "balcony_eur": 2299,
+      "suite_eur": 4899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "4-night Bahamian Cruise",
+      "duration_nights": 4,
+      "ports": [
+        "Port Canaveral",
+        "Nassau",
+        "Castaway Cay"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Perfect introduction with full day at Disney's private island"
+    },
+    {
+      "name": "5-night Western Caribbean",
+      "duration_nights": 5,
+      "ports": [
+        "Miami",
+        "Cozumel",
+        "Grand Cayman",
+        "Castaway Cay"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Mix of Mexican culture and Disney's exclusive beach paradise"
+    },
+    {
+      "name": "7-night Eastern Caribbean",
+      "duration_nights": 7,
+      "ports": [
+        "Port Canaveral",
+        "Tortola",
+        "St. Thomas",
+        "Castaway Cay"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Extended Virgin Islands exploration with two Castaway Cay visits"
+    },
+    {
+      "name": "7-night Western Caribbean",
+      "duration_nights": 7,
+      "ports": [
+        "Port Canaveral",
+        "Cozumel",
+        "Grand Cayman",
+        "Jamaica",
+        "Castaway Cay"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Dunn's River Falls adventure combined with Disney magic"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Wish",
+      "capacity": 4000,
+      "year": 2022,
+      "best_for": "Families with young children",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Disney Fantasy",
+      "capacity": 4000,
+      "year": 2012,
+      "best_for": "7-night Caribbean specialists",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Disney Dream",
+      "capacity": 4000,
+      "year": 2011,
+      "best_for": "Short Bahamas getaways",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Disney Magic",
+      "capacity": 2700,
+      "year": 1998,
+      "best_for": "Intimate family experience",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Rotational dining in themed main restaurants",
+    "Unlimited soft drinks, coffee, tea at meals",
+    "Character meet-and-greets and photo opportunities",
+    "Broadway-style Disney shows and deck parties",
+    "Kids clubs for ages 3-17 (Oceaneer Club, Edge, Vibe)",
+    "Access to Castaway Cay private island",
+    "Pool areas and waterslides",
+    "Fitness center and sports courts",
+    "24-hour room service"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty drinks",
+    "Palo and Remy adult-exclusive restaurants",
+    "Spa treatments and salon services",
+    "Port adventures and shore excursions",
+    "Nursery care for under-3s",
+    "Premium internet packages",
+    "Photos and photo packages",
+    "Gratuities (€14.50 per person per night)",
+    "Specialty coffee bars"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and lowest rates. Disney releases itineraries 15-18 months in advance. Book early for concierge staterooms and desirable dining rotations. Watch for Florida resident, military, and Canadian resident discounts. Rebook onboard for 10% future cruise credit and reduced deposit.",
+  "top_ports": [
+    {
+      "port": "Castaway Cay (Disney's private island)",
+      "time_in_port": "8am-5pm (often extended)",
+      "top_activity": "Pelican Plunge water slides (included)",
+      "tip": "Rent private cabana 75 days ahead for concierge, 90 days for platinum Castaway Club"
+    },
+    {
+      "port": "Nassau, Bahamas",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Atlantis Aquaventure (€189)",
+      "tip": "Book through Disney for guaranteed return; independent taxis risk delays"
+    },
+    {
+      "port": "Cozumel, Mexico",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Chankanaab Beach Adventure Park (€65)",
+      "tip": "Short port day—prioritize one activity; downtown shopping overpriced"
+    },
+    {
+      "port": "Grand Cayman",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Stingray City sandbar excursion (€89)",
+      "tip": "Tender port—book early dining to avoid rush; Seven Mile Beach taxi €15"
+    },
+    {
+      "port": "Falmouth, Jamaica",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Dunn's River Falls climb (€79)",
+      "tip": "Late arrival allows relaxed morning; aggressive vendors outside port gates"
+    },
+    {
+      "port": "Tortola, BVI",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Virgin Gorda Baths excursion (€109)",
+      "tip": "Ferry-dependent excursion—Disney booking essential; beach closer to ship"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Caribbean cruise cost?",
+      "answer": "Disney Caribbean cruises range from €899 per person for 4-night value season inside cabins to over €8,000 for concierge suites during holidays. Typical families pay €1,500-€2,500 per person for balcony cabins in regular season. Prices include exceptional entertainment, dining, and kids programming that justify premium over competitors. Factor €400-€800 extra for port adventures, drinks, gratuities, and photos. Solo travelers pay 150-200% supplement. Third and fourth passengers in same cabin receive reduced rates, making Disney economical for families of four compared to booking two hotel rooms at Orlando parks."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Caribbean?",
+      "answer": "Four Disney ships operate Caribbean routes. Disney Wish, the newest flagship (2022), sails 3-4 night Bahamas cruises from Port Canaveral with innovative rotational dining and AquaMouse waterslide. Disney Fantasy specializes in 7-night Eastern and Western Caribbean voyages from Port Canaveral. Disney Dream offers 3-5 night Bahamas and Western Caribbean cruises from Fort Lauderdale and Miami. Disney Magic provides seasonal Caribbean departures with more intimate 2,700-passenger experience. Disney Treasure will join Caribbean deployment in late 2024. All ships feature distinctive Disney theming, though Wish and Fantasy offer the most advanced amenities and largest staterooms."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "January through April offers ideal Caribbean conditions: dry weather, moderate temperatures, and minimal hurricane risk. January and February provide lowest crowds post-holiday with attractive pricing. March and April bring spring break crowds but excellent weather. May through November is hurricane season with lower prices, higher humidity, and afternoon rain showers—Disney's flexible itinerary changes mitigate storm impacts. June through August combines school holidays with steamy weather and highest pricing. December pre-Christmas offers festive decorations without peak holiday premiums. Avoid Thanksgiving and Christmas weeks unless budget unlimited, as prices surge 40-60% above base rates."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney Caribbean cruises include remarkable value: all meals across rotational dining restaurants and casual venues, unlimited fountain sodas, coffee, tea, and ice cream at meals, 24-hour room service, and unlimited soft-serve. Entertainment encompasses Broadway-caliber Disney musicals, first-run Disney films, character meet-and-greets, deck parties with fireworks, and kids clubs divided by age. Pool areas, waterslides, fitness center, and sports courts are complimentary. Castaway Cay access includes beaches, BBQ lunch, and character interactions. Notably, Disney includes soda where competitors charge, and kids clubs operate without hourly fees. Exclusions are alcohol, specialty coffees, Palo/Remy restaurants, spa, nursery care, excursions, and gratuities."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Caribbean itineraries center on Port Canaveral, 45 minutes from Orlando, offering pre-post Disney World combinations. Miami and Fort Lauderdale provide additional Florida departure options. Eastern Caribbean routes visit Nassau, Castaway Cay, Tortola, and St. Thomas with pristine beaches and duty-free shopping. Western Caribbean calls include Cozumel for Mayan ruins and snorkeling, Grand Cayman's Stingray City, Falmouth for Dunn's River Falls, and Castaway Cay. The crown jewel is Castaway Cay, Disney's private island with dedicated dock, tram transportation, separate family and adult beaches, water play areas, and complimentary BBQ. Some 7-night itineraries feature double Castaway Cay visits. Disney's exclusive terminal at Port Canaveral enables seamless embarkation."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Disney Caribbean cruises 12-18 months in advance for optimal results. Disney releases itineraries 15-18 months ahead, and desirable categories—concierge suites, verandah cabins midship, and connecting rooms—sell rapidly. Early booking secures preferred dining rotation and main dining room table size. Prices typically increase as sailing approaches, with occasional last-minute deals rare for Caribbean routes. Castaway Club members (past guests) receive early booking windows: Pearl (1 cruise) at standard release, Silver (5 cruises) 90 days early, Gold (10 cruises) 105 days early, Platinum (15 cruises) 120 days early. Rebooking onboard yields 10% discount and reduced deposit. Holiday sailings require 18+ month advance booking for any cabin selection."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Caribbean cruises represent the gold standard for family ocean cruising. The Oceaneer Club and Lab engage ages 3-12 with immersive themed spaces—Marvel Super Hero Academy, Star Wars: Command Post, and Frozen Adventures—staffed by trained counselors, all complimentary and open until midnight. Edge (11-14) and Vibe (14-17) provide tween and teen exclusive hangouts. Nursery care for under-3s is available for hourly fee. Family activities span deck parties, trivia, and movies under stars. Adults enjoy Palo and Remy restaurants, Quiet Cove pool, and Cove Café. Rotational dining ensures families dine together while experiencing different themed restaurants. Staterooms designed for families feature split bathrooms and ample storage. The combination of togetherness and separate pursuits satisfies multigenerational groups."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line's cancellation policy penalizes progressively closer to sailing. For standard Caribbean cruises under 10 nights: cancellation 90+ days prior incurs no penalty beyond deposit; 89-45 days loses deposit; 44-30 days forfeits 50% of voyage fare; 29-15 days loses 75%; 14 days or less forfeits 100%. Concierge and suite bookings face stricter terms: 120+ days no penalty; 119-90 days loses deposit; 89-56 days forfeits 50%; 55-30 days loses 75%; 29 days or less forfeits 100%. Deposit is typically 20% of cruise fare. Travel insurance, available through Disney or third parties, is strongly recommended given strict penalties and Caribbean hurricane season risks. COVID-19 introduced temporary flexible policies but standard terms now apply."
+    }
+  ]
+}

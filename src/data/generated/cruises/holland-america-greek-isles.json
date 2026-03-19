@@ -1,0 +1,212 @@
+{
+  "title": "Holland America Line Greek Isles Cruises 2026",
+  "intro": "Holland America Line brings 150 years of maritime heritage to the Greek Isles, offering refined cruising for discerning travellers. Their mid-sized ships navigate the Aegean with precision, accessing smaller ports that mega-ships cannot reach. The line's Explorations Central programme enriches each island stop with cultural context, from Minoan archaeology to Byzantine history. Onboard, guests enjoy regionally inspired cuisine crafted by Culinary Council chefs, paired with wines from the award-winning cellar. The slower pace of HAL's Greek itineraries allows for overnight stays in Santorini and Mykonos, plus extended evenings in lesser-known gems like Monemvasia. With one crew member for every 2.3 guests, service remains attentive and personalised. The line's partnership with AFAR magazine ensures shore excursions deliver authentic local experiences beyond typical tourist trails.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Nieuw Statendam",
+      "Rotterdam",
+      "Oosterdam"
+    ],
+    "departure_ports": [
+      "Athens",
+      "Barcelona",
+      "Rome",
+      "Venice"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 2999
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 1099,
+      "balcony_eur": 1699,
+      "suite_eur": 2599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Aegean Allure",
+      "duration_nights": 7,
+      "ports": [
+        "Athens",
+        "Mykonos",
+        "Kusadasi",
+        "Patmos",
+        "Santorini",
+        "Nafplio"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Two Santorini evenings including sunset departure"
+    },
+    {
+      "name": "12-night Adriatic & Greek Gems",
+      "duration_nights": 12,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Corfu",
+        "Katakolon",
+        "Santorini",
+        "Mykonos",
+        "Athens"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Combines Croatia's coast with iconic Greek islands"
+    },
+    {
+      "name": "21-night Mediterranean Mosaic",
+      "duration_nights": 21,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Livorno",
+        "Rome",
+        "Naples",
+        "Santorini",
+        "Mykonos",
+        "Athens",
+        "Kusadasi",
+        "Rhodes",
+        "Crete",
+        "Valletta",
+        "Palermo"
+      ],
+      "price_from_eur": 2299,
+      "highlight": "Grand voyage with three Greek overnights"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Nieuw Statendam",
+      "capacity": 2666,
+      "year": 2018,
+      "best_for": "Couples & Culture Seekers",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Rotterdam",
+      "capacity": 2668,
+      "year": 2021,
+      "best_for": "Food & Wine Enthusiasts",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Oosterdam",
+      "capacity": 1964,
+      "year": 2003,
+      "best_for": "Intimate Port Access",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "24-hour room service",
+    "Evening entertainment & live music",
+    "Fitness centre & sports courts",
+    "Port lectures & destination programming",
+    "Kids club (ages 3-17)",
+    "Basic Wi-Fi (surf package)"
+  ],
+  "whats_extra": [
+    "Specialty dining ($25-75pp)",
+    "Beverage packages (from €55/day)",
+    "Shore excursions (€89-299pp)",
+    "Spa treatments & salon",
+    "Premium Wi-Fi upgrade",
+    "Laundry services",
+    "Gratuities (€16pp/day)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; wave season (Jan-Mar) offers free gratuities and beverage packages. Solo travellers should watch for reduced single supplements in shoulder months.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "1pm-11pm (overnight on select sailings)",
+      "top_activity": "Akrotiri archaeological site & Oia sunset (€89)",
+      "tip": "Take cable car early; donkey rides discouraged by line"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "8am-11pm",
+      "top_activity": "Delos island excursion (€119)",
+      "tip": "Book Delos morning; explore Mykonos town independently afternoon"
+    },
+    {
+      "port": "Katakolon (Olympia)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Olympia archaeological site & museum (€79)",
+      "tip": "Shade limited; bring hat and water"
+    },
+    {
+      "port": "Nafplio",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Palamidi fortress climb or Epidaurus theatre (€69)",
+      "tip": "HAL exclusive: olive oil tasting at family estate"
+    },
+    {
+      "port": "Rhodes",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Medieval Old Town & Lindos acropolis (€99)",
+      "tip": "Lindos beach time included on full-day tours"
+    },
+    {
+      "port": "Crete (Souda Bay)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Knossos palace & Heraklion museum (€89)",
+      "tip": "Combine with Cretan cooking class add-on"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line Greek Isles cruise cost?",
+      "answer": "Holland America Line Greek Isles cruises typically range from €899 for shoulder season inside cabins to €2,999 for peak summer suites. A standard 7-night balcony cabin averages €1,399-€1,899 depending on month. The 12-night Adriatic combinations run €1,499-€2,299. Solo travellers face 50-100% single supplements, though promotional periods reduce this. Gratuities add €16 per person daily. Beverage packages cost €55/day if purchased separately. Shore excursions average €89-€159 per port. Booking 9-12 months ahead secures best rates, with significant savings in April, May, and October compared to July-August peak pricing."
+    },
+    {
+      "question": "Which Holland America Line ships sail to Greek Isles?",
+      "answer": "Holland America deploys its Pinnacle and Vista-class ships to the Greek Isles. The 2,666-guest Nieuw Statendam leads deployment with its Music Walk entertainment and extensive art collection. The newer Rotterdam (2021) offers the most dining venues including specialty restaurants Rudi's Sel de Mer and Pinnacle Grill. The smaller Oosterdam provides intimate access to lesser ports like Monemvasia and Gythion that larger vessels cannot reach. All three feature Explorations Central for destination immersion, World Stage for evening shows, and the Greenhouse Spa. Ship choice depends on preference: Rotterdam for culinary focus, Nieuw Statendam for entertainment variety, Oosterdam for relaxed pace and unique itineraries."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May, June, September, and October offer optimal Holland America Greek Isles experiences. May brings wildflowers, comfortable 24°C temperatures, and fewer crowds at archaeological sites. June delivers ideal swimming conditions before peak heat. September maintains warm seas (25°C) with mature wine harvest opportunities on Crete and Santorini. October offers cultural events and reduced pricing, though some beach establishments close. July and August see temperatures exceeding 35°C, crowded ports, and premium pricing—though HAL's air-conditioned ships and late evening departures mitigate discomfort. April sailings suit budget travellers despite cooler seas. November-March Greek sailings are extremely limited; HAL typically repositions ships to Caribbean and Asia during these months."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America Greek Isles cruises include multiple main dining venues: the elegant Dining Room, casual Lido Market buffet, and 24-hour room service. All entertainment encompasses BBC Earth productions in World Stage, live music at Billboard Onboard and Lincoln Center Stage, and port lectures through Explorations Central. Fitness facilities, sports courts, and the main pool complex carry no charge. HAL's youth programme, Club HAL, entertains children 3-17. Basic surf Wi-Fi allows messaging and browsing. Accommodation stewards provide twice-daily service. What distinguishes HAL is the quality of included offerings: freshly baked Dutch bread, Indonesian rijsttafel lunch, and regionally sourced ingredients in main dining. Gratuities, beverages beyond basic coffee/tea/juice, specialty restaurants, and shore excursions require additional payment."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America Greek itineraries feature Piraeus (Athens) as primary embarkation and gateway to the Acropolis. Santorini receives extended evening calls or overnights for sunset experiences. Mykonos offers full days combining beach culture and Delos archaeological excursions. Katakolon provides access to ancient Olympia, birthplace of the Olympics. Nafplio, HAL's preferred Peloponnese port, charms with Venetian architecture and proximity to Epidaurus theatre. Rhodes delivers medieval history in its UNESCO Old Town plus Lindos acropolis. Crete calls at Souda Bay near Chania, with excursions to Knossos. Some itineraries include Monemvasia, a hidden Byzantine fortress town inaccessible to large ships. Turkish ports Kusadasi (Ephesus) and occasionally Istanbul complement pure Greek routes on eastern Mediterranean sailings."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Holland America Greek Isles cruises 9-12 months ahead for optimal cabin selection, particularly for sought-after aft-facing balconies and Neptune Suite categories. Suites with exclusive Neptune Lounge access sell first. Wave season (January through March) historically offers the strongest promotions: free gratuities, beverage packages, and onboard credit. Shoulder season sailings in May and October can be booked 3-6 months ahead with decent availability. Solo travellers benefit from monitoring single supplement promotions released quarterly. Last-minute deals under 60 days rarely appear for Greek summer peak. Group bookings (8+ cabins) require 12-18 month lead times. Flexible travellers considering guaranteed cabin categories (assignment at sailing) access modest savings 4-6 months prior."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Greek Isles cruises suit families with children aged 8 and older who appreciate cultural immersion over high-energy entertainment. Club HAL provides supervised programming 8am-midnight in port and sea days, with Greek mythology-themed activities and regional crafts. The line's partnership with O, The Oprah Magazine and BBC Earth creates educational content relevant to destinations. However, HAL lacks the water slides, rope courses, and character experiences of mass-market lines. Family connecting cabins are limited; book early. Shore excursions accommodate families with mild walking options at archaeological sites. Evening dining accommodates children with early seating and simplified menus. Teen facilities are modest compared to competitors. Families prioritising destination depth over shipboard thrills find HAL's Greek itineraries rewarding, particularly multi-generational groups."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America Line's standard cancellation policy for Greek Isles cruises penalises progressively by departure proximity. Cancellations 91+ days before sailing forfeit deposit only (typically 25% of fare). 90-76 days costs 50% of total fare; 75-61 days costs 75%; 60 days or less results in 100% forfeiture. Cancellation protection plans, purchasable until final payment, refund 80-90% in cruise credits regardless of timing. Cancel For Any Reason upgrades provide cash refunds at 75% value. COVID-19 protocols remain flexible: positive tests within 10 days of sailing permit full refund or future cruise credit. Name changes cost €50 per person. Group bookings face stricter terms with earlier deadlines. Travel insurance covering independent flights and pre-cruise hotels is strongly recommended given Greek sailing distances from major European gateways."
+    }
+  ]
+}

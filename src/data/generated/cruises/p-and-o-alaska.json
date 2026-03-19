@@ -1,0 +1,194 @@
+{
+  "title": "P&O Cruises Alaska Cruises 2026",
+  "intro": "P&O Cruises brings British cruising heritage to Alaska's untamed wilderness, offering an elegant alternative to American mass-market lines. Their Alaska itineraries combine sophisticated onboard experiences with immersive destination exploration, featuring extended port calls that maximize glacier viewing and wildlife encounters. Passengers enjoy traditional afternoon tea, formal nights, and refined entertainment while navigating the Inside Passage. P&O's Alaska programme emphasizes scenic cruising through Tracy Arm, Hubbard Glacier, and Glacier Bay with expert naturalist commentary. The line attracts mature British and international travellers seeking comfort without pretension, with sterling-based pricing and inclusive fare structures. Alaska sailings operate from Vancouver and Seattle, incorporating authentic local experiences like dog sledding, salmon fishing, and indigenous cultural encounters. The smaller ship size enables access to intimate ports larger vessels cannot reach, while maintaining P&O's signature warm service and culinary excellence.",
+  "quick_facts": {
+    "price_from_eur": 1149,
+    "duration_range": "10-16 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Arcadia",
+      "Ventura"
+    ],
+    "departure_ports": [
+      "Vancouver",
+      "Seattle"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 1149,
+      "balcony_eur": 1599,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1399,
+      "balcony_eur": 1999,
+      "suite_eur": 3199
+    },
+    {
+      "season": "Late Season (September)",
+      "inside_eur": 1249,
+      "balcony_eur": 1749,
+      "suite_eur": 2799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Alaskan Adventure",
+      "duration_nights": 10,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "College Fjord",
+        "Whittier"
+      ],
+      "price_from_eur": 1149,
+      "highlight": "Southbound glacier route with scenic cruising highlight"
+    },
+    {
+      "name": "Alaska & British Columbia",
+      "duration_nights": 12,
+      "ports": [
+        "Seattle",
+        "Victoria",
+        "Vancouver",
+        "Ketchikan",
+        "Tracy Arm",
+        "Juneau",
+        "Skagway",
+        "Hubbard Glacier"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Extended Inside Passage with Victoria overnight"
+    },
+    {
+      "name": "Ultimate Alaska",
+      "duration_nights": 16,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Seward",
+        "Anchorage",
+        "Homer",
+        "Hubbard Glacier"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Deep Alaska exploration including Kenai Peninsula"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Arcadia",
+      "capacity": 1952,
+      "year": 2005,
+      "best_for": "Adults-only cruising",
+      "price_from_eur": 1149
+    },
+    {
+      "name": "Ventura",
+      "capacity": 3097,
+      "year": 2008,
+      "best_for": "Families and multigenerational groups",
+      "price_from_eur": 1249
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining rooms and buffet",
+    "Afternoon tea service",
+    "Evening entertainment and live shows",
+    "Use of fitness centre and pools",
+    "Children's clubs (Ventura only)",
+    "Port taxes and service charges",
+    "Onboard activities and enrichment lectures"
+  ],
+  "whats_extra": [
+    "Speciality dining restaurants",
+    "Alcoholic and premium soft drinks",
+    "Shore excursions and glacier flightseeing",
+    "WiFi packages",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Gratuities (recommended £7 per person per day)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection, particularly for balcony cabins on glacier-facing side. P&O releases Alaska itineraries 18 months in advance. Consider Select Price for flexibility and onboard spending money. Wave season (January-March) offers strongest promotions with free cabin upgrades and onboard credit. Solo travellers should book early as single cabins sell quickly. Flights to Vancouver/Seattle not included—factor €400-800 return from UK.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Mendenhall Glacier helicopter tour (€289)",
+      "tip": "Book morning excursions for best weather window"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-8pm",
+      "top_activity": "White Pass & Yukon Route railway (€159)",
+      "tip": "Scenic railway sells out—reserve with cruise booking"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Misty Fjords flightseeing (€329)",
+      "tip": "Rain likely—bring waterproofs regardless of forecast"
+    },
+    {
+      "port": "Glacier Bay",
+      "time_in_port": "Scenic cruising 6am-3pm",
+      "top_activity": "Park ranger narration on deck",
+      "tip": "Position on forward decks early; park entry permits limited"
+    },
+    {
+      "port": "Hubbard Glacier",
+      "time_in_port": "Scenic cruising 2pm-6pm",
+      "top_activity": "Calving observation from balcony",
+      "tip": "Starboard side southbound for optimal glacier views"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Alaska cruise cost?",
+      "answer": "P&O Alaska cruises typically range from €1,149 for a 10-night inside cabin in shoulder season to €3,199 for peak summer suites. Balcony cabins, essential for glacier viewing, average €1,599-€1,999. Prices exclude flights (€400-800 from UK), drinks packages (€45/day), and excursions (€80-350 each). The Select Price fare structure offers flexibility with deposit protection and onboard spending money. Solo travellers face 40-60% single supplements, though Arcadia offers dedicated single cabins at lower premiums. Final pricing depends on exchange rates as P&O prices in sterling."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Alaska?",
+      "answer": "P&O deploys Arcadia and Ventura to Alaska. Arcadia (1,952 passengers, adults-only) offers refined, child-free cruising with extensive wrap-around promenade deck ideal for glacier viewing. Ventura (3,097 passengers) accommodates families with dedicated kids' clubs, larger pool complexes, and broader entertainment options. Both feature British-style service, sterling currency, and included afternoon tea. Arcadia's smaller size enables more intimate port experiences, while Ventura's scale delivers greater variety. Neither carries the massive capacity of American-market competitors, ensuring more personal Alaska experiences."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "May offers lowest prices, fewer crowds, and excellent snow-capped mountain photography, though wildlife is less abundant. June-July provides peak salmon runs attracting bears and orcas, with 18-20 hours of daylight, but highest prices and tourist congestion. August delivers warmest temperatures (15-20°C) and consistent wildlife sightings including humpback whales. September brings autumn colours, northern lights possibilities, and reduced rates, though rain increases and some excursions wind down. Glacier calving occurs throughout; Hubbard Glacier remains active year-round. Book July for families, May/September for value and tranquillity."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O Alaska cruises include all meals in main dining rooms, buffet, and casual venues; afternoon tea with sandwiches and scones; evening entertainment including theatre productions and live music; fitness centre, pools, and hot tubs; children's clubs on Ventura; port taxes; and service charges. Select Price adds deposit protection, priority dining allocation, and onboard spending credit. Not included: alcoholic drinks, speciality restaurants, WiFi, shore excursions, spa services, and flights. Gratuities are not compulsory but €7 per person daily is suggested. The fare structure is more inclusive than American competitors but less so than ultra-luxury lines."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O Alaska itineraries feature Vancouver or Seattle departures, then navigate the Inside Passage to Ketchikan (totem poles, Misty Fjords), Juneau (Mendenhall Glacier, whale watching), and Skagway (Gold Rush history, White Pass railway). Scenic cruising highlights include Glacier Bay National Park (6-hour park ranger narration), Hubbard Glacier (active calving), and Tracy Arm. Extended 12-16 night voyages reach Seward, Anchorage, and Homer on the Kenai Peninsula. Victoria or Vancouver overnight calls provide British Columbia exploration. Smaller ports like Haines and Sitka feature on select sailings."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure P&O Alaska cruises 9-12 months ahead for optimal cabin selection, particularly port-side balcony cabins for glacier viewing and single accommodations. Itineraries release 18 months in advance. Wave season (January-March) delivers strongest promotional pricing with free upgrades and onboard credit worth €150-300. Last-minute deals are rare for Alaska due to limited deployment. Flight-inclusive packages should be booked early for better routings. Excursion reservations open 90 days pre-cruise—priority for popular options like Mendenhall helicopter tours and White Pass railway. Final payment typically due 90 days before sailing."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Family suitability depends on ship choice. Ventura offers comprehensive facilities: Splashers kids' club (2-17 years), night nursery, family cabins, and dedicated family dining times. Arcadia is exclusively adults-only (18+), unsuitable for children. Alaska's expedition nature suits engaged older children (8+) capable of appreciating wildlife and outdoor activities. Excursion options include dog sledding, zip-lining, and wildlife cruises appropriate for ages 6+. Sea days feature enrichment lectures rather than high-energy entertainment. British school holiday timing (July-August) aligns with peak season pricing. Consider child's stamina for long port days and early morning glacier viewing."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O's cancellation structure operates by days before departure: 91+ days loses deposit only; 90-57 days forfeits 30% of fare; 56-29 days loses 60%; 28-15 days loses 90%; 14 days or less forfeits 100%. Select Price offers deposit protection allowing penalty-free changes up to 90 days out. Standard deposits range €250-500 per person. Travel insurance is strongly recommended covering cancellation, medical evacuation (essential for Alaska's remote locations), and missed port compensation. P&O's own insurance includes cruise-specific benefits. COVID-19 policies have reverted to standard terms; positive test before sailing requires insurance claim. Rebooking credits available for P&O-initiated cancellations."
+    }
+  ]
+}

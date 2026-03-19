@@ -1,0 +1,205 @@
+{
+  "title": "Regent Seven Seas Norwegian Fjords Cruises 2026",
+  "intro": "Regent Seven Seas Cruises delivers the most inclusive luxury experience to the Norwegian Fjords, combining all-suite accommodations, unlimited shore excursions, and roundtrip flights from Europe. As the only truly all-inclusive ultra-luxury line, Regent eliminates surprise costs while navigating dramatic fjord landscapes aboard intimate, elegant vessels. Sail past cascading waterfalls, sheer granite cliffs, and pristine glaciers while enjoying complimentary fine dining, premium spirits, gratuities, and unlimited WiFi. The Norwegian Fjords represent Regent's most popular European destination, with itineraries crafted to maximize daylight hours in ports like Geiranger, Flåm, and Bergen. With fewer than 750 guests per ship, you'll enjoy personalized service and spacious suites averaging 300+ square feet, many with private balconies perfect for fjord photography.",
+  "quick_facts": {
+    "price_from_eur": 5890,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Seven Seas Splendor",
+      "Seven Seas Navigator",
+      "Seven Seas Voyager"
+    ],
+    "departure_ports": [
+      "Copenhagen",
+      "Amsterdam",
+      "Stockholm",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 5890,
+      "balcony_eur": 6890,
+      "suite_eur": 12990
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 7290,
+      "balcony_eur": 8490,
+      "suite_eur": 15990
+    },
+    {
+      "season": "Luxury Suite Collection",
+      "inside_eur": 0,
+      "balcony_eur": 0,
+      "suite_eur": 24990
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Majestic Fjords",
+      "duration_nights": 7,
+      "ports": [
+        "Copenhagen",
+        "Stavanger",
+        "Olden",
+        "Alesund",
+        "Geiranger",
+        "Bergen"
+      ],
+      "price_from_eur": 5890,
+      "highlight": "Includes complimentary Regent Choice shore excursion to Briksdal Glacier"
+    },
+    {
+      "name": "10-night Fjords & British Isles",
+      "duration_nights": 10,
+      "ports": [
+        "Amsterdam",
+        "Stavanger",
+        "Eidfjord",
+        "Flåm",
+        "Geiranger",
+        "Bergen",
+        "Greenock",
+        "Dublin",
+        "Southampton"
+      ],
+      "price_from_eur": 8290,
+      "highlight": "Flåm Railway and Nærøyfjord UNESCO World Heritage experience"
+    },
+    {
+      "name": "12-night Arctic Circle & Fjords",
+      "duration_nights": 12,
+      "ports": [
+        "Copenhagen",
+        "Alesund",
+        "Tromsø",
+        "Honningsvåg",
+        "Geiranger",
+        "Olden",
+        "Bergen",
+        "Kristiansand"
+      ],
+      "price_from_eur": 11290,
+      "highlight": "Midnight Sun sailing above Arctic Circle with North Cape excursion"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Splendor",
+      "capacity": 746,
+      "year": 2020,
+      "best_for": "Luxury seekers wanting newest ship",
+      "price_from_eur": 6890
+    },
+    {
+      "name": "Seven Seas Voyager",
+      "capacity": 698,
+      "year": 2003,
+      "best_for": "Intimate fjord navigation with all-veranda suites",
+      "price_from_eur": 5890
+    },
+    {
+      "name": "Seven Seas Navigator",
+      "capacity": 496,
+      "year": 1999,
+      "best_for": "Smallest ship accessing narrowest fjords",
+      "price_from_eur": 6290
+    }
+  ],
+  "whats_included": [
+    "Roundtrip flights from Europe",
+    "All-suite accommodations",
+    "Unlimited shore excursions",
+    "All specialty dining",
+    "Premium wines and spirits",
+    "Gratuities",
+    "Unlimited WiFi",
+    "Valet laundry",
+    "Pre-cruise hotel night",
+    "Ground transfers"
+  ],
+  "whats_extra": [
+    "Spa treatments",
+    "Premium shore excursions (Regent Choice over allowance)",
+    "Casino gaming",
+    "Boutique purchases",
+    "Photography services",
+    "Medical services",
+    "Satellite phone"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best suite selection and early booking savings up to 25%. Regent's Norwegian Fjords cruises sell out 9-12 months in advance for peak summer dates. Consider shoulder season (late May or early September) for 15-20% savings and fewer crowds. Single supplements are reduced on select sailings.",
+  "top_ports": [
+    {
+      "port": "Geiranger",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Flydalsjuvet viewpoint & Dalsnibba mountain (included)",
+      "tip": "Request port side balcony for Seven Sisters waterfall views"
+    },
+    {
+      "port": "Flåm",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Flåm Railway to Myrdal (included)",
+      "tip": "Book early morning train for clearest mountain views"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Bryggen UNESCO site & Mount Fløyen funicular (included)",
+      "tip": "Fish market lunch not included—bring cash"
+    },
+    {
+      "port": "Olden",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Briksdal Glacier hike (Regent Choice, 2 included excursions)",
+      "tip": "Wear sturdy walking shoes for glacier terrain"
+    },
+    {
+      "port": "Stavanger",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Lysefjord cruise to Pulpit Rock viewpoint (included)",
+      "tip": "Old town Gamle Stavanger walking tour also complimentary"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Norwegian Fjords cruise cost?",
+      "answer": "Regent Seven Seas Norwegian Fjords cruises start from €5,890 per person for 7-night voyages in shoulder season, rising to €7,290-€8,490 for peak summer dates. Ten-night itineraries range €8,290-€10,990, while 12-night Arctic Circle sailings begin at €11,290. Penthouse and higher suites command €15,990-€24,990. These fares include flights, all-suite accommodation, unlimited excursions, dining, drinks, gratuities, and WiFi—representing exceptional value versus premium lines where extras accumulate. Early booking discounts of 10-25% apply 12+ months ahead."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Norwegian Fjords?",
+      "answer": "Three Regent Seven Seas ships operate Norwegian Fjords itineraries in 2026. Seven Seas Splendor, the newest at 2020 delivery, carries 746 guests with exceptional space ratios and modern luxury design. Seven Seas Voyager, refurbished in 2019, offers all-veranda suites for 698 passengers with intimate fjord access. Seven Seas Navigator, smallest at 496 guests, navigates the narrowest fjord arms including Nærøyfjord UNESCO passages impossible for larger vessels. All feature all-suite accommodations, multiple dining venues, and Canyon Ranch SpaClub facilities."
+    },
+    {
+      "question": "When is best time to cruise Norwegian Fjords?",
+      "answer": "June through August delivers optimal Norwegian Fjords cruising with longest daylight hours (18-20 hours), mildest temperatures (15-20°C), and peak waterfall volumes from snowmelt. May offers 15% savings with blooming fruit orchards near Hardangerfjord but cooler 10-15°C temperatures. September provides autumn colours and Northern Lights possibilities with reduced crowds. July is busiest and most expensive. Waterfall spectacle peaks late June-early July. For midnight sun experiences, select Arctic Circle itineraries June-July when sun remains visible 24 hours above 66°N latitude."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent Seven Seas provides the industry's most comprehensive inclusion package: roundtrip flights from Europe with business class upgrades available; one-night pre-cruise luxury hotel; all ground transfers; spacious suite accommodation with butler service in categories above Penthouse; unlimited shore excursions in every port including UNESCO site visits and cultural immersion; all dining across multiple specialty restaurants without surcharges; unlimited premium wines, spirits, and Champagne; all gratuities shipwide and ashore; unlimited Voom WiFi; valet laundry service; and stocked in-suite mini-bar replenished daily. No tipping, no drink packages to purchase, no excursion bills."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent Seven Seas Norwegian Fjords cruises visit UNESCO-listed Geirangerfjord with its Seven Sisters waterfall; Flåm on Aurlandsfjorden branch of Sognefjord, launching point for the dramatic Flåm Railway; Bergen, historic Hanseatic trading centre with Bryggen wharf; Olden accessing Jostedalsbreen glacier; Alesund with its Art Nouveau architecture; Stavanger gateway to Lysefjord and Pulpit Rock; and Eidfjord on Hardangerfjord. Extended itineraries include Tromsø and Honningsvåg above the Arctic Circle, plus British Isles calls at Greenock for Glasgow and Dublin. Copenhagen, Amsterdam, Stockholm, and Southampton serve as primary embarkation points."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Regent Seven Seas Norwegian Fjords cruises 12-18 months in advance for optimal suite selection, particularly Penthouse categories and above with butler service. Peak July sailings typically reach 80% capacity 9 months prior. Early booking incentives include 10-25% savings, shipboard credit up to €1,000 per suite, and reduced deposits. Shoulder season (May, September) offers more flexibility with 6-month booking windows. Waitlist options exist for sold-out dates. Final payment is due 150 days prior to sailing for suites below Penthouse, 240 days for higher categories. Rebooking on board yields additional future cruise credits."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas Norwegian Fjords cruises accommodate families exceptionally well despite adult-oriented positioning. Children aged 2-17 sail complimentary when sharing suites with parents, paying only taxes. Club Mariner youth program operates during summer and holiday sailings with supervised activities, though not daily. The educational value of fjord geography, glacier exploration, and Nordic culture appeals to school-age children. Spacious suites accommodate third berths; connecting suites are available. All-inclusive pricing eliminates budget concerns with teenagers. However, no dedicated children's facilities, waterslides, or character entertainment exist. Recommended for ages 8+ with genuine interest in nature and destinations rather than shipboard amusements."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas cancellation policies vary by booking date and suite category. For standard bookings, cancellation 151+ days prior incurs no penalty; 150-121 days loses deposit (typically 25% of fare); 120-91 days forfeits 50%; 90-61 days loses 75%; 60 days or less results in 100% forfeiture. Penthouse and above categories carry stricter 240-day final payment and cancellation terms. Cancel For Any Reason protection, available at additional cost, provides future cruise credits worth 90% of cancellation penalties. Travel insurance covering pre-existing conditions must be purchased within 21 days of initial deposit for full protection. COVID-19 protocols may modify standard terms."
+    }
+  ]
+}

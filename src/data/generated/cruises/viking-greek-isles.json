@@ -1,0 +1,220 @@
+{
+  "title": "Viking Cruises Greek Isles Cruises 2026",
+  "intro": "Viking Cruises brings its signature Scandinavian sophistication to the Greek Isles with intimate, culturally immersive voyages designed for discerning adult travelers. Unlike mass-market cruise lines, Viking's ocean fleet features all-veranda ships carrying just 930 guests, enabling access to smaller ports like Patmos and Náfplion that larger vessels cannot reach. The Greek Isles itinerary weaves together ancient mythology, Byzantine history, and contemporary Greek culture through carefully curated excursions led by resident historians and local guides. Onboard, guests enjoy destination-focused enrichment including lectures on classical archaeology, Greek wine tastings, and cooking demonstrations featuring regional cuisine. The serene, unhurried pace allows for deeper exploration—whether wandering the medieval streets of Rhodes, witnessing the sunset at Oia, or visiting the Palace of Knossos in Crete. With no casinos, no children under 18, and included shore excursions in every port, Viking delivers an elevated, educational journey through one of civilization's most storied archipelagos.",
+  "quick_facts": {
+    "price_from_eur": 3499,
+    "duration_range": "8-15 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Viking Sky",
+      "Viking Venus",
+      "Viking Mars",
+      "Viking Jupiter"
+    ],
+    "departure_ports": [
+      "Athens",
+      "Venice",
+      "Barcelona",
+      "Istanbul"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr, Oct)",
+      "inside_eur": 3499,
+      "balcony_eur": 4299,
+      "suite_eur": 7499
+    },
+    {
+      "season": "Peak (May-Jun, Sep)",
+      "inside_eur": 4299,
+      "balcony_eur": 5299,
+      "suite_eur": 8999
+    },
+    {
+      "season": "High Summer (Jul-Aug)",
+      "inside_eur": 4699,
+      "balcony_eur": 5799,
+      "suite_eur": 9999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Greek Odyssey",
+      "duration_nights": 8,
+      "ports": [
+        "Athens",
+        "Náfplion",
+        "Crete",
+        "Rhodes",
+        "Kusadasi",
+        "Patmos",
+        "Santorini",
+        "Athens"
+      ],
+      "price_from_eur": 3499,
+      "highlight": "Comprehensive Aegean exploration with included excursions to Ephesus and the Palace of Knossos"
+    },
+    {
+      "name": "Empires of the Mediterranean",
+      "duration_nights": 15,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Katakolon",
+        "Santorini",
+        "Athens",
+        "Crete",
+        "Rhodes",
+        "Kusadasi",
+        "Istanbul"
+      ],
+      "price_from_eur": 5999,
+      "highlight": "Extended journey combining Adriatic and Aegean treasures with overnight in Istanbul"
+    },
+    {
+      "name": "Journey to Antiquities",
+      "duration_nights": 12,
+      "ports": [
+        "Athens",
+        "Santorini",
+        "Kusadasi",
+        "Istanbul",
+        "Canakkale",
+        "Volos",
+        "Thessaloniki",
+        "Katakolon",
+        "Athens"
+      ],
+      "price_from_eur": 4899,
+      "highlight": "Deep dive into classical civilizations with Troy and Meteora monastery visits"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Sky",
+      "capacity": 930,
+      "year": 2017,
+      "best_for": "Culture-focused couples and solo travelers",
+      "price_from_eur": 3499
+    },
+    {
+      "name": "Viking Venus",
+      "capacity": 930,
+      "year": 2021,
+      "best_for": "Luxury seekers wanting newest amenities",
+      "price_from_eur": 3699
+    },
+    {
+      "name": "Viking Mars",
+      "capacity": 930,
+      "year": 2022,
+      "best_for": "Sustainable travel advocates",
+      "price_from_eur": 3599
+    },
+    {
+      "name": "Viking Jupiter",
+      "capacity": 930,
+      "year": 2019,
+      "best_for": "Scandinavian design enthusiasts",
+      "price_from_eur": 3499
+    }
+  ],
+  "whats_included": [
+    "One complimentary shore excursion per port",
+    "All meals in multiple dining venues",
+    "Wine, beer, and soft drinks with lunch and dinner",
+    "Wi-Fi",
+    "Access to Nordic spa thermal suite",
+    "24-hour room service",
+    "Port charges and taxes",
+    "Ground transfers with Viking air purchase",
+    "Enrichment lectures and destination performances"
+  ],
+  "whats_extra": [
+    "Premium beverage package (EUR 19/day)",
+    "Additional shore excursions beyond the included option",
+    "Specialty restaurant Chef's Table (EUR 89/person)",
+    "Silver Spirits beverage package upgrade",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Pre- and post-cruise extensions",
+    "Airfare unless promotional offer applies"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking savings of up to EUR 1,000 per person. Viking frequently offers 'Explore More' deals combining cruise with reduced airfare. Shoulder season departures in April and October provide EUR 800-1,200 savings over peak summer. Solo travelers should book early as single supplement waivers are limited. Consider Viking's 25% deposit option for flexibility. Final payment due 120 days prior to departure.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "2pm-10pm (overnight on some itineraries)",
+      "top_activity": "Sunset catamaran cruise with volcanic hot springs (EUR 189)",
+      "tip": "Book afternoon arrival to avoid cruise ship crowds; take cable car early to avoid donkey trail queues"
+    },
+    {
+      "port": "Kusadasi (Ephesus)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Ephesus Terrace Houses excavation with included excursion (EUR 0 base, EUR 89 upgrade)",
+      "tip": "Morning tours avoid heat and crowds; bring water as site has minimal shade"
+    },
+    {
+      "port": "Rhodes",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Walking tour of UNESCO-listed medieval Old Town (included)",
+      "tip": "Walk the Street of Knights before 10am for photography without crowds; lunch at Mavrikos in Lindos if time permits"
+    },
+    {
+      "port": "Náfplion",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Palamidi Fortress climb or Epidaurus theater excursion (EUR 89)",
+      "tip": "Small port with tender service—book early excursions to ensure departure; charming old town perfect for independent strolling"
+    },
+    {
+      "port": "Crete (Heraklion)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Palace of Knossos with Archaeological Museum (included option)",
+      "tip": "Knossos opens 8am—choose first departure to experience site nearly empty; Archanes village wine tasting worth the EUR 129 upgrade"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Greek Isles cruise cost?",
+      "answer": "Viking Greek Isles cruises in 2026 start from EUR 3,499 per person for an 8-night sailing in shoulder season, with veranda staterooms from EUR 4,299. Peak summer departures (June-September) typically range EUR 4,699-5,799 for standard veranda accommodations. Suite categories including Penthouse Junior Suites begin around EUR 7,499 and extend to EUR 12,000+ for Explorer Suites with wraparound balconies. These fares include one shore excursion per port, all meals, wine/beer with lunch and dinner, Wi-Fi, and port charges. Airfare is additional unless booked during promotional periods when roundtrip European flights are offered from EUR 599-999."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Greek Isles?",
+      "answer": "Viking deploys its identical all-veranda ocean fleet to the Greek Isles, primarily Viking Sky, Viking Venus, Viking Mars, and Viking Jupiter. Each carries 930 guests in 465 staterooms—no inside cabins exist. Viking Venus (2021) and Viking Mars (2022) represent the newest vessels with enhanced hybrid propulsion reducing fuel consumption. All feature the same Nordic-inspired design by SMC Design and Rottet Studio, with the LivNordic Spa, Wintergarden afternoon tea venue, and Manfredi's Italian restaurant. The small-ship scale enables docking in Athens' Piraeus port and tender access to intimate harbors like Patmos that mega-ships cannot approach."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May and September offer optimal conditions for Viking Greek Isles cruises—warm seas around 22-24°C, daytime temperatures 24-28°C, and minimal rainfall. April and October provide excellent value with EUR 800+ savings, though occasional showers and cooler evenings (16-20°C) require light layers. June delivers reliable sunshine before peak crowds arrive. July-August temperatures exceed 32°C with intense sun, making archaeological site visits strenuous; however, sea breezes and evening sailing hours mitigate discomfort. Santorini's famous caldera sunsets are spectacular year-round. Viking's longer port stays (often 10-12 hours) allow morning exploration before afternoon heat peaks."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's inclusive value proposition covers one guided shore excursion in every port—typically a comprehensive walking tour or cultural site visit—with premium options available for upgrade. All meals span multiple venues including the Restaurant (main dining), World Café (buffet with live cooking stations), and Manfredi's Italian (reservation recommended). Wine, beer, and soft drinks flow freely at lunch and dinner; premium spirits require Silver Spirits package (EUR 19/day). Wi-Fi, 24-hour room service, self-service laundry, and access to the thermal suite with snow grotto, sauna, and hydrotherapy pool are complimentary. Gratuities, while not mandatory, are neither automatically added nor expected, though EUR 14/day is typical for exceptional service."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking's Greek Isles itineraries emphasize depth over breadth, featuring 6-8 ports with extended stays. Core destinations include Athens (embarkation/debarkation with Acropolis access), Santorini (late arrival for sunset), Crete's Heraklion (Knossos Palace), and Rhodes (medieval UNESCO site). Kusadasi, Turkey provides gateway to Ephesus—often cited as guests' favorite excursion. Smaller gems include Náfplion (Nemea wine region, Epidaurus theater), Patmos (St. John's Monastery and Cave of the Apocalypse), and Volos (Meteora monasteries via 3-hour transfer). Some 15-night voyages extend to Istanbul with overnight stay, Venice, or Dubrovnik. Tender ports like Santorini and Patmos require ship-to-shore boat transfers."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Viking Greek Isles reservations 9-12 months in advance for optimal stateroom selection, particularly for sought-after categories like Penthouse Veranda midship on Deck 6. Early booking typically yields EUR 1,000 per person savings through Viking's 'Early Booking Rewards' program. Veranda staterooms on the starboard side offer preferred caldera views on northbound Santorini approaches. Solo travelers face particular urgency as single supplement waivers (normally 25-50% premium) are capacity-controlled and disappear quickly. Final payment is due 120 days before sailing. Viking's 25% deposit structure provides flexibility compared to competitors requiring 50-100% upfront. Waitlist options exist for sold-out departures with frequent cancellations."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Cruises maintains an adults-only policy with minimum age 18, making Greek Isles voyages unsuitable for families with children. This deliberate positioning creates a serene, culturally focused atmosphere where guests engage deeply with destination programming without child-oriented distractions. The demographic skews toward 55-75 year-olds, though active couples in their 40s-50s increasingly select Viking for educational travel. For multigenerational groups, consider Viking's expedition voyages or river cruises where age policies may differ. Families seeking Greek Isles experiences should evaluate Seabourn, Crystal, or Ponant for luxury options accommodating younger travelers, or mainstream lines like Royal Caribbean and Norwegian for dedicated children's facilities and programming."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's cancellation structure penalizes later withdrawals: 121+ days prior incurs EUR 250 per person administrative fee; 120-91 days loses deposit (25% of cruise fare); 90-61 days forfeits 50% total fare; 60-31 days surrenders 75%; 30 days or less retains no refund. Travel insurance is strongly recommended—Viking offers 'Travel Protection' at EUR 249-449 covering cancellation for covered reasons, trip interruption, medical emergencies, and baggage protection. 'Cancel For Any Reason' upgrade (60% future cruise credit) costs additional EUR 149-249. COVID-19 protocols have stabilized; testing is no longer required though recommended travel insurance now explicitly excludes pandemic-related cancellations unless medical documentation supports individual infection. Rebooking to future sailings within 24 months may avoid penalties if initiated before final payment."
+    }
+  ]
+}

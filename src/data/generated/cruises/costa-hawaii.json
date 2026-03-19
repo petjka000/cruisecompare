@@ -1,0 +1,185 @@
+{
+  "title": "Costa Cruises Hawaii Cruises 2026",
+  "intro": "Costa Cruises brings its distinctive Italian hospitality to the Pacific with Hawaii itineraries departing from Los Angeles and San Francisco. As Europe's largest cruise line, Costa infuses Aloha spirit with Mediterranean flair—think wood-fired pizza beside volcanic beaches and espresso bars overlooking Na Pali cliffs. The line's repositioning voyages and dedicated Hawaii programs typically operate seasonally, leveraging Costa's trans-Pacific expertise to deliver exceptional value on extended journeys. Passengers enjoy Costa's signature Samsara wellness program, Italian-designed staterooms, and multilingual international atmosphere. Hawaii sailings emphasize immersive port experiences across four islands, with overnight stays in Honolulu allowing deeper exploration. Costa's all-inclusive drink packages and family-friendly pricing make these Pacific crossings particularly attractive for European travellers seeking winter sun and American families wanting international flavour without transatlantic flights.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "15-18 nights",
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Apr",
+      "May"
+    ],
+    "ships_on_route": [
+      "Costa Firenze",
+      "Costa Venezia"
+    ],
+    "departure_ports": [
+      "Los Angeles",
+      "San Francisco",
+      "Vancouver"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Oct)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 1599,
+      "balcony_eur": 2299,
+      "suite_eur": 3599
+    },
+    {
+      "season": "Repositioning",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "16-night Hawaii & Mexico",
+      "duration_nights": 16,
+      "ports": [
+        "Los Angeles",
+        "Hilo",
+        "Honolulu",
+        "Kauai",
+        "Maui",
+        "Ensenada"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Four Hawaiian islands plus overnight in Honolulu"
+    },
+    {
+      "name": "18-night Pacific Crossing",
+      "duration_nights": 18,
+      "ports": [
+        "Vancouver",
+        "Hilo",
+        "Honolulu",
+        "Kauai",
+        "Maui",
+        "Los Angeles"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Scenic Inside Passage departure with volcanic exploration"
+    },
+    {
+      "name": "15-night Hawaii Intensive",
+      "duration_nights": 15,
+      "ports": [
+        "San Francisco",
+        "Hilo",
+        "Kona",
+        "Honolulu",
+        "Kauai",
+        "Maui"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Two stops on Big Island with Kona coffee region access"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Firenze",
+      "capacity": 4232,
+      "year": 2021,
+      "best_for": "Families & Italian cuisine lovers",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Costa Venezia",
+      "capacity": 4232,
+      "year": 2019,
+      "best_for": "Asian-Pacific fusion experiences",
+      "price_from_eur": 1199
+    }
+  ],
+  "whats_included": [
+    "Full board in main restaurants and buffet",
+    "Entertainment shows and live music",
+    "Fitness centre and pools",
+    "Kids club (3-17 years)",
+    "Port taxes and basic gratuities"
+  ],
+  "whats_extra": [
+    "Beverage packages (from €25/day)",
+    "Specialty dining (€25-45/person)",
+    "Shore excursions (€89-249)",
+    "Spa treatments",
+    "WiFi packages",
+    "Laundry service"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; repositioning voyages offer 30-40% savings 6 months out",
+  "top_ports": [
+    {
+      "port": "Honolulu, Oahu",
+      "time_in_port": "7am-6pm (often overnight)",
+      "top_activity": "Pearl Harbor & USS Arizona Memorial (€89)",
+      "tip": "Overnight stays allow evening luau bookings"
+    },
+    {
+      "port": "Kahului, Maui",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Road to Hana helicopter tour (€349)",
+      "tip": "Book helicopter 90 days pre-cruise for availability"
+    },
+    {
+      "port": "Hilo, Big Island",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Volcanoes National Park (€129)",
+      "tip": "Morning departure avoids afternoon rain"
+    },
+    {
+      "port": "Nawiliwili, Kauai",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Na Pali Coast catamaran (€189)",
+      "tip": "Short port time—pre-book essential"
+    },
+    {
+      "port": "Kona, Big Island",
+      "time_in_port": "9am-6pm",
+      "top_activity": "Manta ray night snorkel (€159)",
+      "tip": "Tender port—book early departure excursions"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Hawaii cruise cost?",
+      "answer": "Costa Cruises Hawaii voyages range from €999 for repositioning inside cabins to €3,599 for peak-season suites. Typical 15-18 night itineraries average €1,299-€1,899 for balcony staterooms in shoulder seasons. Prices include full board, entertainment, and port taxes. Beverage packages add €25-45 daily. Shore excursions across four islands typically total €400-€800 per person. Booking 9-12 months ahead secures early-bird discounts of 15-20%, while last-minute repositioning deals offer exceptional value under €1,200 for extended voyages. Family cabins and connecting rooms command premiums of 10-15%."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Hawaii?",
+      "answer": "Costa deploys its Venice-class ships Costa Firenze and Costa Venezia on Hawaii routes, both carrying 4,232 passengers. Costa Firenze, launched 2021, features Italian-designed interiors, a 1,200-square-metre spa, and dedicated Samsara wellness cabins. Costa Venezia, extensively refurbished for Pacific service in 2023, offers Asian-influenced dining reflecting her original China deployment. Both vessels provide extensive balcony availability crucial for Hawaii scenic cruising, multiple pools, and international multilingual programming. These ships alternate between Hawaii seasons and Alaska summers, with trans-Pacific repositioning voyages connecting the itineraries."
+    },
+    {
+      "question": "When is best time to cruise Hawaii?",
+      "answer": "September-October and April-May offer optimal Costa Hawaii cruising: pleasant 24-28°C temperatures, minimal rainfall, and lower European school holiday crowds. These shoulder seasons provide 20-30% pricing advantages over December-March peak. Winter months bring humpback whale migration visibility but higher demand and occasional North Pacific storms affecting sea conditions. Costa's limited Hawaii deployment concentrates in these optimal windows, with repositioning voyages in September and April offering exceptional value. Hurricane risk is negligible in Hawaii compared to Caribbean, making autumn particularly attractive for European travellers seeking reliable weather."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa Hawaii cruises include accommodation, all meals in main restaurants and buffet venues, daytime and evening entertainment, fitness facilities, pools, and supervised kids programming for ages 3-17. Port taxes and standard gratuities are incorporated in advertised fares. Accommodation taxes for overnight Honolulu stays are included. Not covered are beverages beyond breakfast juices and tap water, specialty restaurants, spa services, WiFi, laundry, and shore excursions. Costa's 'Piu Gusto' beverage packages (€25-45/day) cover unlimited drinks including premium Italian wines and coffees. Samsara wellness cabins include spa access and dedicated dining."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa Hawaii itineraries typically visit four islands: Oahu (Honolulu, often overnight), Maui (Kahului or Lahaina), Big Island (Hilo and/or Kona), and Kauai (Nawiliwili). Honolulu serves as primary hub with extended stays allowing independent exploration. Hilo provides volcano access; Kona offers coffee culture and manta ray experiences. Kahului enables Haleakala and Road to Hana excursions. Nawiliwili's Na Pali Coast represents Hawaii's most dramatic scenery. Some itineraries include Ensenada or Mexican Riviera ports on positioning segments. Tender operations at Kona and Lahaina require advance planning for mobility-impaired passengers."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Costa Hawaii bookings 9-12 months ahead for optimal cabin selection, particularly balcony staterooms essential for scenic Pacific cruising and Na Pali Coast viewing. Early booking yields 15-20% discounts and preferred dining times. Peak December-March departures sell out 6-8 months ahead. Repositioning voyages offer flexibility with attractive pricing 4-6 months pre-departure. Flight arrangements to Los Angeles or San Francisco require simultaneous booking for reasonable airfares. Costa's flexible deposit structure (typically €200-400 per person) allows reservation holding while finalising plans. Final payment falls 90 days before sailing."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa Hawaii voyages suit families with children 6+ due to sea day duration and time zone adjustments. The line's Squok kids club operates 3-17 years with Italian-English bilingual staffing. Family cabins and connecting rooms accommodate larger groups, though inventory is limited—early booking essential. Pool complexes and waterslides entertain sea days; Hawaiian cultural programming includes lei-making and ukulele workshops. Excursion intensity varies by port: volcano hiking suits teenagers, while beach transfers work for younger children. Dining flexibility with buffet options accommodates picky eaters. Evening entertainment runs late by European standards; consider cabin location carefully."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa Cruises applies standard European cancellation terms: full refund minus €50 administrative fee if cancelled 90+ days before sailing; 50% refund 89-60 days; 75% penalty 59-30 days; 100% penalty under 30 days. 'Costa Protection' insurance (€49-89 per person) enables full credit voucher for covered cancellations including medical reasons. COVID-19 protocols remain flexible with full credits for positive tests within 48 hours of departure. Name changes incur €100 fees until 30 days prior. Rebooking to alternative dates costs €50 before final payment; post-payment changes follow cancellation penalties. Travel insurance covering international medical evacuation is strongly recommended for Pacific crossings."
+    }
+  ]
+}

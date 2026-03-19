@@ -1,0 +1,136 @@
+{
+  "title": "Disney Cruise Line vs Oceania Cruises 2026",
+  "intro": "Disney Cruise Line and Oceania Cruises represent two fundamentally different approaches to premium cruising. Disney delivers immersive family entertainment with beloved characters, Broadway-calibre shows, and rotational dining across five purpose-built ships. Oceania, the upper-premium small-ship specialist under Norwegian Cruise Line Holdings, targets affluent adults with destination-rich itineraries, Jacques Pépin-curated cuisine, and intimate 684-1,250 passenger vessels. While both occupy the mid-to-upper price tier, their demographics rarely overlap. Disney dominates multigenerational family holidays; Oceania courts experienced travellers prioritising culinary excellence and extended port immersion. Your choice depends entirely on who travels with you and what you value most at sea.",
+  "at_a_glance": {
+    "disney": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 1899
+    },
+    "oceania": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 2499
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside, 2026)",
+      "disney": "€1,899",
+      "oceania": "€2,499"
+    },
+    {
+      "category": "Passenger capacity",
+      "disney": "2,500-4,000",
+      "oceania": "684-1,250"
+    },
+    {
+      "category": "Target demographic",
+      "disney": "Families with children 3-17",
+      "oceania": "Affluent adults 55+"
+    },
+    {
+      "category": "Dining style",
+      "disney": "Rotational dining, included",
+      "oceania": "Open-seating, specialty-focused"
+    },
+    {
+      "category": "Evening entertainment",
+      "disney": "Broadway shows, fireworks, deck parties",
+      "oceania": "Enrichment lectures, live music, subdued"
+    },
+    {
+      "category": "Children's facilities",
+      "disney": "Extensive (clubs, nurseries, teen spaces)",
+      "oceania": "Minimal (no dedicated youth programming)"
+    },
+    {
+      "category": "Included beverages",
+      "disney": "Soft drinks, limited alcohol packages",
+      "oceania": "Select wines, beer with lunch/dinner"
+    },
+    {
+      "category": "Gratuities",
+      "disney": "€14.50/person/day",
+      "oceania": "Included in fare"
+    },
+    {
+      "category": "Shore excursion focus",
+      "disney": "Family-oriented, character meet opportunities",
+      "oceania": "Culinary, cultural, small-group immersive"
+    },
+    {
+      "category": "Dress code",
+      "disney": "Cruise casual",
+      "oceania": "Country club casual, occasional formal"
+    }
+  ],
+  "choose_a_if": [
+    "You travel with children or grandchildren seeking character interactions and structured youth programming",
+    "You prioritise high-energy entertainment, Broadway productions, and fireworks at sea over culinary sophistication",
+    "You want guaranteed family bonding through shared Disney storytelling and accessible shore excursions",
+    "You prefer larger ships with extensive amenities (water coasters, multiple pools, expansive spa complexes)"
+  ],
+  "choose_b_if": [
+    "You travel without children and seek sophisticated, adult-oriented ambience throughout the vessel",
+    "You value culinary excellence above all else, with Jacques Pépin's influence and specialty restaurants included",
+    "You prefer longer, destination-intensive itineraries with overnight stays and smaller ports inaccessible to large ships",
+    "You desire inclusive pricing covering gratuities, basic beverages, and unlimited internet without nickel-and-diming"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with young children",
+      "winner": "Disney Cruise Line",
+      "reason": "Unmatched youth programming, character dining, and age-appropriate entertainment create stress-free family holidays where parents actually relax while children engage in supervised activities."
+    },
+    {
+      "type": "Empty nesters / retirees",
+      "winner": "Oceania Cruises",
+      "reason": "Intimate ships, sophisticated dining, enrichment programming, and absence of screaming children provide the refined, unhurried atmosphere discerning adult travellers expect."
+    },
+    {
+      "type": "Food and wine enthusiasts",
+      "winner": "Oceania Cruises",
+      "reason": "Jacques Pépin's culinary direction, La Reserve wine pairings, and Cooking Center hands-on classes represent the industry's most serious gastronomic commitment at sea."
+    },
+    {
+      "type": "Multigenerational groups",
+      "winner": "Disney Cruise Line",
+      "reason": "Disney uniquely accommodates toddlers through grandparents simultaneously, whereas Oceania offers minimal engagement for younger family members."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Disney Cruise Line",
+      "reason": "Intuitive service model, rotational dining eliminating decision fatigue, and familiar brand comfort reduce anxiety for cruising novices."
+    },
+    {
+      "type": "Repeat cruisers seeking novelty",
+      "winner": "Oceania Cruises",
+      "reason": "Itinerary diversity, overnight port stays, and sophisticated programming reward experienced travellers who have exhausted mainstream cruise offerings."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value assessment depends entirely on your travel party composition. Disney Cruise Line delivers superior value for families despite higher base fares, as youth programming, character interactions, and Broadway entertainment are included—equivalent experiences on land would cost substantially more. Oceania Cruises offers better value for solo travellers and couples when comparing inclusions: gratuities, unlimited internet, select beverages, and specialty dining are bundled, whereas Disney charges separately for alcohol packages, premium dining, and internet. Oceania's smaller ships also access ports that eliminate costly secondary transportation. For comparable balcony accommodations on Mediterranean seven-night sailings, expect €2,800-3,500 per person on Disney versus €3,200-4,200 on Oceania, with Oceania's inclusions narrowing the effective gap."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Disney Cruise Line dominates family cruising through deliberate, unmatched infrastructure. The Oceaneer Club and Lab accommodate ages 3-12 with Marvel, Star Wars, and Frozen-themed spaces staffed by trained youth counsellors; teens receive dedicated Edge and Vibe lounges. Nursery care for infants 6 months-3 years incurs hourly fees but provides parental respite. Character meet-and-greets, rotational dining with themed restaurants, and deck parties create cohesive family experiences. Oceania Cruises accepts children but offers no structured programming, no dedicated youth spaces beyond a small playroom, and an adult-oriented ambience where families may feel conspicuous. Oceania explicitly markets to adults; families should only consider Oceania if travelling exclusively with mature teenagers capable of independent self-entertainment."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Disney Cruise Line and Oceania Cruises occupy adjacent but distinct pricing tiers. For 2026 seven-night Caribbean or Mediterranean sailings, Disney inside cabins average €1,899-2,400, oceanview €2,200-2,800, and verandah €2,800-3,800 per person based on double occupancy. Oceania's entry-level pricing appears higher—inside cabins from €2,499, oceanview €2,899, balcony €3,499—but this includes gratuities (€100+ value), unlimited internet (€140+), and select beverages. Disney's base fare excludes these, adding €300-400 for comparable inclusions. Oceania frequently offers OLife Choice promotions including shore excursion credits or beverage packages. Disney rarely discounts; Oceania provides more aggressive early booking and past guest incentives. Solo travellers face brutal single supplements on both lines, though Oceania occasionally reduces these on select sailings."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Oceania Cruises unequivocally surpasses Disney Cruise Line in culinary execution, variety, and sophistication. Oceania's claim as 'The Finest Cuisine at Sea' rests on Jacques Pépin's enduring culinary direction, with all specialty restaurants—Polo Grill, Toscana, Red Ginger—included in fare. The Grand Dining Room offers Jacques' signature dishes; Marina and Riviera feature the exclusive La Reserve by Wine Spectator pairing dinners. The Culinary Center provides hands-on cooking instruction. Disney's rotational dining system (Animator's Palate, Royal Court, Tiana's Place) delivers consistent, crowd-pleasing quality with excellent service but prioritises accessibility over innovation. Disney's adult-exclusive Palo and Remy (surcharge) elevate experience significantly but remain optional. For gastronomic travellers, Oceania's integrated culinary philosophy represents the industry's benchmark below true luxury lines like Seabourn or Silversea."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Disney Cruise Line reduces friction for cruising novices through intuitive systems and familiar brand reassurance. Rotational dining eliminates daily restaurant decisions; your serving team follows you. Character experiences provide conversation anchors for shy children. The Disney Cruise Line Navigator app simplifies scheduling. Service standards are consistently warm and anticipatory without stuffiness. Oceania Cruises, while equally professional, assumes cruising competence—open-seating dining requires planning, dress codes demand wardrobe consideration, and the sophisticated ambience may intimidate those fearing 'doing something wrong.' However, experienced land-based luxury travellers may find Oceania's adult environment more immediately comfortable than Disney's sensory intensity. First-timers seeking pure relaxation without childcare responsibilities, or those intimidated by children's energy, should consider Oceania despite its steeper learning curve."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental divergence lies in target demographic and design philosophy. Disney Cruise Line engineers every element for multigenerational family harmony: ships accommodate 2,500-4,000 passengers with extensive children's infrastructure, high-decibel entertainment, and character immersion that sacrifices adult sophistication for inclusive family joy. Oceania Cruises designs for affluent adults seeking cultural and culinary depth: 684-1,250 passenger ships enable intimate service ratios, extended port stays, and conversation-friendly public spaces where children's voices are notably absent. Disney's pricing structure encourages onboard spending through à la carte premiums; Oceania bundles more inclusions for predictable budgeting. Disney sails predictable routes from Florida and California; Oceania operates globally with ambitious world cruises. Disney entertainment is spectacular and prescribed; Oceania enrichment is participatory and intellectually oriented. These differences are categorical, not incremental—choosing between them requires honest assessment of who accompanies you and what you seek from precious holiday time."
+    }
+  ]
+}

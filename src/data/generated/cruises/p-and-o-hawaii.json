@@ -1,0 +1,193 @@
+{
+  "title": "P&O Cruises Hawaii Cruises 2026",
+  "intro": "P&O Cruises offers an exceptional gateway to Hawaii's volcanic landscapes, pristine beaches, and Polynesian culture through their carefully curated transpacific itineraries. As Britain's favourite cruise line with over 180 years of heritage, P&O combines traditional British cruising elegance with modern amenities for Hawaiian adventures. Their Hawaii cruises typically feature extended voyages from the US West Coast, incorporating iconic ports like Honolulu, Maui, Kauai, and the Big Island. Passengers enjoy sea days crossing the Pacific with enrichment programmes focusing on Hawaiian history, lei-making workshops, and ukulele lessons. The line's adult-focused Arcadia and Aurora ships provide sophisticated atmospheres perfect for couples and mature travellers seeking cultural immersion. Onboard dining showcases Pacific Rim cuisine alongside British classics, while deck parties feature Hawaiian-themed entertainment. With competitive pricing and included gratuities, P&O delivers remarkable value for this bucket-list destination.",
+  "quick_facts": {
+    "price_from_eur": 1849,
+    "duration_range": "14-28 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Arcadia",
+      "Aurora"
+    ],
+    "departure_ports": [
+      "San Francisco",
+      "Los Angeles",
+      "Vancouver"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Oct)",
+      "inside_eur": 1849,
+      "balcony_eur": 2499,
+      "suite_eur": 3899
+    },
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 2199,
+      "balcony_eur": 2899,
+      "suite_eur": 4499
+    },
+    {
+      "season": "Low (Nov)",
+      "inside_eur": 1699,
+      "balcony_eur": 2299,
+      "suite_eur": 3599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Hawaiian Islands & South Pacific",
+      "duration_nights": 28,
+      "ports": [
+        "San Francisco",
+        "Honolulu",
+        "Maui (Lahaina)",
+        "Kauai (Nawiliwili)",
+        "Hilo",
+        "Kona",
+        "Bora Bora",
+        "Moorea",
+        "Papeete",
+        "San Francisco"
+      ],
+      "price_from_eur": 2849,
+      "highlight": "Ultimate bucket-list voyage combining Hawaii with French Polynesia"
+    },
+    {
+      "name": "California & Hawaii",
+      "duration_nights": 16,
+      "ports": [
+        "Los Angeles",
+        "San Francisco",
+        "Honolulu",
+        "Maui (Lahaina)",
+        "Ensenada",
+        "Los Angeles"
+      ],
+      "price_from_eur": 1849,
+      "highlight": "Perfect taster with four full days in Hawaiian ports"
+    },
+    {
+      "name": "Pacific Crossing & Hawaii",
+      "duration_nights": 21,
+      "ports": [
+        "Vancouver",
+        "San Francisco",
+        "Honolulu",
+        "Kauai (Nawiliwili)",
+        "Maui (Lahaina)",
+        "Hilo",
+        "Vancouver"
+      ],
+      "price_from_eur": 2399,
+      "highlight": "Scenic Inside Passage routing with extended Hawaiian exploration"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Arcadia",
+      "capacity": 2096,
+      "year": 2005,
+      "best_for": "Adult couples & solo travellers",
+      "price_from_eur": 1849
+    },
+    {
+      "name": "Aurora",
+      "capacity": 1870,
+      "year": 2000,
+      "best_for": "Mature travellers seeking traditional cruising",
+      "price_from_eur": 1799
+    }
+  ],
+  "whats_included": [
+    "Full-board dining in main restaurants",
+    "Afternoon tea",
+    "Entertainment and live shows",
+    "Fitness centre and pools",
+    "Children's clubs (Aurora only)",
+    "Port taxes and gratuities",
+    "Flight packages from UK (select fares)"
+  ],
+  "whats_extra": [
+    "Speciality dining (The Glass House, Sindhu, Epicurean)",
+    "Drinks packages and à la carte beverages",
+    "Shore excursions and luaus",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "WiFi packages",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking discounts up to 25%. Consider repositioning cruises in April or October for lowest fares. P&O's Select Price offers cabin choice and onboard credit; Saver Price provides lowest rates with assigned cabins.",
+  "top_ports": [
+    {
+      "port": "Honolulu, Oahu",
+      "time_in_port": "7am-11pm (overnight on some itineraries)",
+      "top_activity": "Pearl Harbor & USS Arizona Memorial (free, reserve ahead)",
+      "tip": "Stay onboard for sunset sail-away with Diamond Head views"
+    },
+    {
+      "port": "Lahaina, Maui",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Road to Hana helicopter tour (€289)",
+      "tip": "Walk to Front Street for art galleries and shaved ice"
+    },
+    {
+      "port": "Nawiliwili, Kauai",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Na Pali Coast boat excursion (€159)",
+      "tip": "Tender port—book early excursions to maximise time"
+    },
+    {
+      "port": "Hilo, Big Island",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Volcanoes National Park (€119)",
+      "tip": "Rainier side—pack waterproofs for rainforest walks"
+    },
+    {
+      "port": "Kona, Big Island",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Manta ray night snorkel (€179)",
+      "tip": "Walkable pier—explore historic Kailua village independently"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Hawaii cruise cost?",
+      "answer": "P&O Cruises Hawaii voyages typically range from €1,699 to €4,499 per person for 14-28 night itineraries. Inside cabins start around €1,849, balcony cabins from €2,499, and suites from €3,599. Prices include gratuities, main dining, and entertainment—unlike American lines. Shoulder season (April-May, September-October) offers best value, while December-January commands premiums. Select Fares include flights from UK airports, transfers, and onboard credit, representing better overall value than cruise-only Saver Fares when factoring transatlantic travel."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Hawaii?",
+      "answer": "P&O deploys their adult-only ships Arcadia and Aurora for Hawaii routes. Arcadia (2,096 passengers, 2005) features a glass-roofed spa pool and retractable roof, ideal for Pacific crossings. Aurora (1,870 passengers, 2000) offers a more intimate traditional experience with wrap-around promenade deck. Both are child-free environments perfect for couples and solo travellers seeking cultural immersion without family-focused distractions. These mid-sized vessels access smaller Hawaiian ports like Nawiliwili that mega-ships cannot, providing authentic local experiences."
+    },
+    {
+      "question": "When is best time to cruise Hawaii?",
+      "answer": "April-May and September-October offer optimal conditions—warm 24-28°C temperatures, minimal rainfall, and calmer Pacific crossings. These shoulder months avoid summer crowds and winter storm risks. December-March brings humpback whale watching but also higher prices and occasional rough seas on the transpacific stretch. November can be unpredictable with residual hurricane season activity. May specifically delivers ideal trade winds for sailing conditions and pre-summer flower blooms. P&O schedules most Hawaii departures during these favourable windows."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O's Hawaii cruises include substantial value: all main restaurant meals, afternoon tea, daytime activities, evening entertainment, fitness facilities, and swimming pools. Gratuities are included—unlike competitors charging €12-15 daily. Select Fares add return flights from UK, overseas transfers, and onboard spending money (typically €150-300). Extras cover speciality restaurants, drinks, spa services, WiFi, and shore excursions. The inclusive nature makes budgeting straightforward, with many passengers spending minimal extra beyond excursions and occasional bar purchases."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O Hawaii itineraries feature Honolulu (Oahu) for Pearl Harbor and Waikiki Beach; Lahaina (Maui) for Haleakalā volcano and Road to Hana; Nawiliwili (Kauai) accessing dramatic Na Pali Coast; and Hilo plus Kona on the Big Island for volcanic landscapes and coffee plantations. Extended voyages add Bora Bora, Moorea, and Papeete in French Polynesia. San Francisco or Los Angeles serve as primary embarkation points, with some sailings from Vancouver including Alaska's Inside Passage. Tender operations at Lahaina and Nawiliwili require advance excursion booking."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure P&O Hawaii cruises 12-18 months ahead for optimal cabin selection and early booking discounts reaching 25%. Balcony cabins for Pacific crossings sell fastest due to scenic sea days. Launch prices typically offer best value, rising as occupancy climbs. Last-minute deals occasionally appear 8-10 weeks before sailing for flexible travellers. Consider booking Select Fares early for flight inclusion, as air capacity to California gateways becomes restricted. Deposit is 15% with balance due 90 days pre-departure."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O's Hawaii cruises operate adult-only ships Arcadia and Aurora, prohibiting under-18s. This policy creates refined atmospheres ideal for couples, solo travellers, and friends seeking cultural enrichment without children's programming. Families should consider P&O's family-friendly Britannia or Iona for alternative destinations. The adult focus enables sophisticated Hawaiian-themed entertainment, lectures on Polynesian history, and relaxed deck ambience. Solo travellers benefit from dedicated single cabins without supplements and organised social events. The demographic skews 50+ with sophisticated expectations."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O's standard cancellation policy charges 15% deposit forfeiture if cancelled before 90 days; 50% of fare between 89-60 days; 75% between 59-42 days; and 100% within 41 days. Travel insurance with cruise cover is essential given Hawaii's remote location and potential medical evacuation costs exceeding €50,000. P&O offers Cruise Cover at booking (€45-85) providing cancellation protection for specified reasons. Post-pandemic, flexible booking options allow date changes up to final payment for €25 fee. Consider comprehensive annual policies covering transpacific travel."
+    }
+  ]
+}

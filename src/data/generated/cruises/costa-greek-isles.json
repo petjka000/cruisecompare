@@ -1,0 +1,215 @@
+{
+  "title": "Costa Cruises Greek Isles Cruises 2026",
+  "intro": "Costa Cruises brings Italian flair to the Greek Isles with immersive itineraries departing from Venice, Bari, and Piraeus. As Europe's largest cruise line, Costa combines Mediterranean hospitality with exceptional value, offering 7 to 14-night voyages through the Aegean and Ionian Seas. Passengers experience authentic Italian cuisine, multilingual entertainment, and family-friendly programming while exploring ancient ruins, volcanic beaches, and whitewashed villages. Costa's Greek Isles cruises emphasize cultural immersion with extended port stays in iconic destinations like Santorini and Mykonos, plus lesser-known gems including Kefalonia and Patmos. The line's all-inclusive options and competitive pricing make Greek island-hopping accessible without sacrificing quality. Evening departures from major ports maximize exploration time, while onboard amenities cater to European and international travelers seeking a distinctly Mediterranean cruise experience.",
+  "quick_facts": {
+    "price_from_eur": 599,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "September"
+    ],
+    "ships_on_route": [
+      "Costa Toscana",
+      "Costa Firenze",
+      "Costa Smeralda"
+    ],
+    "departure_ports": [
+      "Venice",
+      "Bari",
+      "Piraeus",
+      "Civitavecchia"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Oct)",
+      "inside_eur": 599,
+      "balcony_eur": 899,
+      "suite_eur": 1499
+    },
+    {
+      "season": "Peak (May-Jun, Sep)",
+      "inside_eur": 799,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "High Summer (Jul-Aug)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Aegean Discovery",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Bari",
+        "Corfu",
+        "Santorini",
+        "Mykonos",
+        "Dubrovnik"
+      ],
+      "price_from_eur": 649,
+      "highlight": "Overnight approach to Santorini's caldera sunset"
+    },
+    {
+      "name": "7-night Greek Islands & Italy",
+      "duration_nights": 7,
+      "ports": [
+        "Piraeus",
+        "Mykonos",
+        "Rhodes",
+        "Heraklion",
+        "Santorini",
+        "Katakolon"
+      ],
+      "price_from_eur": 599,
+      "highlight": "Maximum Greek island coverage with Crete exploration"
+    },
+    {
+      "name": "14-night Grand Mediterranean & Greek Isles",
+      "duration_nights": 14,
+      "ports": [
+        "Civitavecchia",
+        "Naples",
+        "Messina",
+        "Corfu",
+        "Kotor",
+        "Dubrovnik",
+        "Split",
+        "Venice",
+        "Bari",
+        "Santorini",
+        "Mykonos",
+        "Piraeus"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive Adriatic and Aegean combination voyage"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Toscana",
+      "capacity": 5524,
+      "year": 2021,
+      "best_for": "Families & couples seeking modern Italian design",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Costa Firenze",
+      "capacity": 5524,
+      "year": 2021,
+      "best_for": "Multi-generational groups and food enthusiasts",
+      "price_from_eur": 649
+    },
+    {
+      "name": "Costa Smeralda",
+      "capacity": 5524,
+      "year": 2019,
+      "best_for": "Eco-conscious travelers (LNG-powered)",
+      "price_from_eur": 599
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All meals in main dining room and buffet restaurants",
+    "Pool deck access and entertainment shows",
+    "Kids club programming (ages 3-17)",
+    "Port taxes and service charges",
+    "Basic WiFi package (limited speed)",
+    "Gym access and sports activities"
+  ],
+  "whats_extra": [
+    "Beverage packages (soft drinks €12/day, alcohol €35-55/day)",
+    "Specialty dining (€25-45 per person)",
+    "Shore excursions (€45-180 per tour)",
+    "Premium WiFi (€15-25/day)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 8-12 months ahead for optimal cabin selection and early booking discounts up to 30%. Peak summer sailings fill 9-10 months in advance. Consider repositioning cruises in April or October for 40% savings. Italian residents receive additional resident rates requiring fiscal code.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "2pm-10pm",
+      "top_activity": "Sunset catamaran cruise with dinner (€95)",
+      "tip": "Book afternoon arrival excursions immediately; tender operation delays common"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Delos archaeological site guided tour (€75)",
+      "tip": "Explore Chora independently in morning before cruise crowds arrive"
+    },
+    {
+      "port": "Corfu",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Paleokastritsa boat and monastery tour (€65)",
+      "tip": "Old Town walking distance from port; avoid organized tours here"
+    },
+    {
+      "port": "Rhodes",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Medieval city and Lindos Acropolis combination (€85)",
+      "tip": "Lindos beach time limited; prioritize acropolis climb early morning"
+    },
+    {
+      "port": "Heraklion (Crete)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Knossos Palace and archaeological museum (€75)",
+      "tip": "Palace extremely hot midday; morning excursions essential June-September"
+    },
+    {
+      "port": "Katakolon (Olympia)",
+      "time_in_port": "8am-3pm",
+      "top_activity": "Olympia archaeological site and museum (€65)",
+      "tip": "Short port time; pre-book excursion to guarantee site entry"
+    },
+    {
+      "port": "Kotor",
+      "time_in_port": "7am-5pm",
+      "top_activity": "City walls hike and boat to Our Lady of the Rocks (€55)",
+      "tip": "Arrive at wall entrance by 7:30am to complete hike before heat"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Greek Isles cruise cost?",
+      "answer": "Costa Cruises Greek Isles voyages start from €599 per person for inside cabins on 7-night itineraries during shoulder seasons (March-April, October). Peak season pricing (May-June, September) ranges €799-€1,199 for inside cabins, with balcony accommodations from €1,199-€1,899. High summer (July-August) commands €999-€1,499 inside and €1,499-€2,299 balcony. Suite accommodations span €1,499-€2,799 depending on season. All-inclusive beverage packages add €35-€55 daily. Italian residents qualify for additional resident rates with fiscal code submission. Early booking discounts of 20-30% are common 9-12 months prior to sailing. Children typically cruise free or at substantially reduced rates when sharing cabin with two adults."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Greek Isles?",
+      "answer": "Costa deploys its newest LNG-powered vessels on Greek Isles routes. Costa Toscana (2021, 5,524 passengers) and sister ship Costa Firenze (2021) operate primarily from Venice and Bari on 7-night rotations. Costa Smeralda (2019), Costa's first LNG ship, alternates between Piraeus-based Greek island intensive itineraries and longer Mediterranean combinations. These Excel-class ships feature Italian-designed interiors, expansive pool decks optimized for warm-weather cruising, and numerous specialty restaurants. Costa Deliziosa and Costa Luminosa occasionally supplement capacity on 10-14-night extended Greek Isles programs. Ship assignments finalize 12-18 months prior to season opening, with Toscana and Firenze typically confirmed earliest due to their deployment on core Venice-Greek routes."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May-June and September offer optimal Greek Isles cruising conditions with temperatures 22-28°C, minimal rainfall, calmer seas, and manageable crowds. May provides wildflower-covered hillsides and cooler exploration weather. June delivers ideal swimming temperatures before peak summer heat. September maintains warm seas with reduced tourist density and often lower prices. July-August brings intense heat (35°C+), crowded ancient sites, and premium pricing despite reliable sunshine. March-April and October represent value shoulder seasons with cooler swimming conditions but excellent sightseeing weather and 30-40% savings. Santorini's caldera sunsets remain spectacular year-round, though winter months see limited Costa deployment. Meltemi winds affect Aegean crossings June-September; larger Costa ships minimize disruption compared to smaller vessels."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa Cruises Greek Isles fares include accommodation, all main dining room and buffet meals, pool and fitness center access, daytime entertainment, evening theater shows, kids club programming for ages 3-17, and basic WiFi. Port taxes and service charges are incorporated in advertised prices—a notable Costa advantage. Cabin amenities include safe, minibar (stocked at extra charge), and satellite television. Multiple dining venues operate without supplementary fees, though specialty restaurants cost €25-€45. Beverages incur additional charges; water packages run €25-€35 for 7 nights. Room service carries delivery fees. Gratuities are prepaid rather than discretionary. Shore excursions, spa services, casino play, photography, and premium internet require separate payment. All-inclusive packages bundling drinks, WiFi, and excursions are available at booking for €35-€65 daily."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa Greek Isles itineraries feature Santorini, Mykonos, Corfu, Rhodes, Heraklion (Crete), and Katakolon (for Olympia) as primary ports. Santorini calls typically schedule afternoon-evening arrivals capturing caldera sunsets. Mykonos offers full-day exploration of beaches and Chora's windmills. Corfu and Rhodes provide medieval old towns accessible from port. Heraklion serves Knossos Palace, Europe's oldest city. Katakolon accesses ancient Olympia, birthplace of the Olympics. Secondary calls include Kefalonia, Patmos, Syros, and Thessaloniki on select itineraries. Venice, Bari, Piraeus, and Civitavecchia serve as embarkation points. Dubrovnik, Kotor, and Split appear on eastern Adriatic combination routes. Port times generally favor daytime exploration with evening departures, though Santorini's tender operation occasionally causes delays. Most ancient sites require 30-60 minute transfers from cruise terminals."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Costa Greek Isles cruises 8-12 months ahead for optimal cabin selection, especially for balcony categories facing Santorini's caldera. Peak summer sailings (July-August) and holiday periods fill 9-10 months in advance. Early booking discounts of 25-30% apply to reservations made 9+ months prior. Families requiring connecting cabins or quad occupancy should reserve 10-12 months ahead due to limited inventory. Last-minute deals emerge 60-90 days before sailing for flexible travelers, though cabin location and dining preferences may be compromised. Italian resident rates require fiscal code and book closer to departure. Suite categories and all-inclusive packages show strongest early demand. Final payment typically due 90 days prior. Cancelation penalties escalate from deposit loss to 100% within 30 days of sailing."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa Cruises excels for families on Greek Isles routes with complimentary Squok Club programming ages 3-17 operating until midnight, allowing parents extended evening exploration. Teen zones feature supervised activities and dedicated spaces. Family cabins accommodate 4-5 passengers with connecting options available. Italian-centric dining includes familiar options alongside Mediterranean specialties; children's menus and early dining seatings standard. Pool decks emphasize family recreation with multiple pools and waterslides on newer ships. Shore excursions offer family-rated difficulty levels and beach-focused alternatives to archaeological tours. Multi-generational groups appreciate Costa's multilingual environment and diverse entertainment. Kids sail free or at substantially reduced rates when sharing with two adults—a significant cost advantage. Babysitting services available for under-3s at hourly rates. Evening shows accommodate early bedtimes with family-friendly programming."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa Cruises applies graduated cancellation penalties based on departure proximity. Cancellations 90+ days prior incur deposit loss only (typically €200-€400 per person). 89-60 days before sailing triggers 25% of total fare forfeiture. 59-30 days advances to 50% penalty. 29-15 days costs 75%. Within 14 days, full fare is non-refundable. Travel insurance, available at booking for 8-10% of cruise cost, covers cancellation for covered reasons including illness and family emergency. 'Costa Protection' plans permit cancellation for any reason with future cruise credit minus processing fee. COVID-19 policies evolved to standard terms; positive tests before sailing require medical documentation for credit consideration. Name changes incur €50-€100 fees if permitted. Itinerary modifications by Costa entitle passengers to compensation or cancellation without penalty if changes exceed 24 hours or eliminate primary ports."
+    }
+  ]
+}

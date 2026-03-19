@@ -1,0 +1,197 @@
+{
+  "title": "Regent Seven Seas Transatlantic Cruises 2026",
+  "intro": "Regent Seven Seas Cruises redefines the Transatlantic crossing with uncompromising all-inclusive luxury aboard intimate, elegant vessels. Unlike mass-market repositioning cruises, Regent's Transatlantic voyages transform the legendary ocean passage into a sophisticated journey of culinary excellence, enrichment programming, and spacious suite accommodations. Sail between Europe and the Americas on ships carrying fewer than 750 guests, enjoying unlimited shore excursions in iconic ports like Ponta Delgada, Horta, and Halifax. The line's hallmark includes business-class airfare, pre-cruise hotel stays, gratuities, premium spirits, and specialty dining—all bundled into your fare. Sea days feature distinguished lecturers, cooking demonstrations at the Culinary Arts Kitchen, and serene spa experiences. For discerning travelers seeking the romance of traditional ocean travel without sacrificing modern luxury, Regent's Transatlantic crossings represent the pinnacle of repositioning cruise experiences.",
+  "quick_facts": {
+    "price_from_eur": 4899,
+    "duration_range": "14-16 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Seven Seas Explorer",
+      "Seven Seas Splendor",
+      "Seven Seas Grandeur"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Civitavecchia",
+      "Lisbon",
+      "Miami",
+      "New York"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring (Apr-May)",
+      "inside_eur": 0,
+      "balcony_eur": 4899,
+      "suite_eur": 6899
+    },
+    {
+      "season": "Autumn (Oct-Nov)",
+      "inside_eur": 0,
+      "balcony_eur": 5199,
+      "suite_eur": 7499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Barcelona to Miami",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Cartagena",
+        "Malaga",
+        "Ponta Delgada",
+        "Royal Naval Dockyard",
+        "Nassau",
+        "Miami"
+      ],
+      "price_from_eur": 4899,
+      "highlight": "Iconic westbound crossing with Azores stop"
+    },
+    {
+      "name": "16-night Lisbon to New York",
+      "duration_nights": 16,
+      "ports": [
+        "Lisbon",
+        "Horta",
+        "Ponta Delgada",
+        "Royal Naval Dockyard",
+        "Halifax",
+        "Newport",
+        "New York"
+      ],
+      "price_from_eur": 5699,
+      "highlight": "Extended northern route with Canadian Maritimes"
+    },
+    {
+      "name": "15-night Rome to Miami",
+      "duration_nights": 15,
+      "ports": [
+        "Civitavecchia",
+        "Cartagena",
+        "Malaga",
+        "Funchal",
+        "Ponta Delgada",
+        "Royal Naval Dockyard",
+        "Miami"
+      ],
+      "price_from_eur": 5299,
+      "highlight": "Mediterranean departure with Madeira"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Explorer",
+      "capacity": 750,
+      "year": 2016,
+      "best_for": "Luxury connoisseurs",
+      "price_from_eur": 4899
+    },
+    {
+      "name": "Seven Seas Splendor",
+      "capacity": 750,
+      "year": 2020,
+      "best_for": "Design enthusiasts",
+      "price_from_eur": 5199
+    },
+    {
+      "name": "Seven Seas Grandeur",
+      "capacity": 750,
+      "year": 2023,
+      "best_for": "Modern luxury seekers",
+      "price_from_eur": 5499
+    }
+  ],
+  "whats_included": [
+    "Unlimited shore excursions",
+    "Business-class intercontinental airfare",
+    "Pre-cruise luxury hotel stay",
+    "All-suite accommodations with private balconies",
+    "Unlimited beverages including premium wines and spirits",
+    "Specialty restaurants at no extra charge",
+    "Gratuities",
+    "WiFi",
+    "Valet laundry service",
+    "Onboard entertainment and enrichment"
+  ],
+  "whats_extra": [
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Boutique purchases",
+    "Medical services",
+    "Private car transfers beyond included options",
+    "Certain exclusive shore excursions"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for optimal suite selection and early booking savings of up to 25%. Regent's Regent Reassurance program offers flexible cancellation terms for bookings made in advance.",
+  "top_ports": [
+    {
+      "port": "Ponta Delgada, Azores",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Sete Cidades crater lakes tour (included)",
+      "tip": "Request morning departure for clearest crater views"
+    },
+    {
+      "port": "Horta, Faial",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Peter's Cafe Sport scrimshaw museum (included)",
+      "tip": "Walk the marina to see yachting tradition"
+    },
+    {
+      "port": "Royal Naval Dockyard, Bermuda",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Crystal Caves and Hamilton exploration (included)",
+      "tip": "Ferry to Hamilton offers scenic harbor views"
+    },
+    {
+      "port": "Halifax, Nova Scotia",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Peggy's Cove and Titanic cemetery (included)",
+      "tip": "Layered clothing essential for Atlantic winds"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan ride and botanical gardens (included)",
+      "tip": "Morning cable car avoids afternoon cloud cover"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Transatlantic cruise cost?",
+      "answer": "Regent Seven Seas Transatlantic cruises start from approximately €4,899 per person for 14-night voyages in balcony suites, with no interior cabins available. Prices typically range from €4,899 to €12,000+ depending on suite category, with Master Suites and Regent Suites commanding significantly higher fares. The fare includes business-class airfare, pre-cruise hotel, unlimited shore excursions, all beverages, specialty dining, and gratuities. Autumn repositionings from Europe to Florida often offer better value than spring eastbound crossings. Early booking discounts of 15-25% are common for reservations made 12+ months in advance."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Transatlantic?",
+      "answer": "The Regent Seven Seas fleet's three newest and most luxurious vessels operate Transatlantic crossings: Seven Seas Explorer (2016), Seven Seas Splendor (2020), and Seven Seas Grandeur (2023). Each accommodates 750 guests in all-suite accommodations with private balconies. Explorer pioneered the line's elevated design standards, Splendor refined the formula with enhanced culinary spaces, and Grandeur represents the newest flagship with the most advanced environmental systems. Unlike competitors, Regent does not deploy older vessels on these routes, ensuring consistent luxury standards. Ship assignment varies by season, with Grandeur typically handling peak autumn crossings."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "Optimal Transatlantic crossings occur during April-May (westbound Europe to Americas) and October-November (eastbound Americas to Europe), coinciding with ships repositioning between Mediterranean summer and Caribbean winter deployments. Spring crossings offer gradually warming weather and longer daylight hours, while autumn voyages provide stable conditions and spectacular sunset opportunities. Avoid December-March when Atlantic storms are most frequent. April and October particularly shine for port experiences in the Azores and Bermuda with comfortable temperatures. Sea temperatures remain moderate year-round, though pool usage is limited outside peak summer months."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent Seven Seas offers the industry's most comprehensive all-inclusive experience. Every Transatlantic cruise includes unlimited shore excursions in every port, business-class intercontinental airfare with ground transfers, one-night pre-cruise luxury hotel stay, all-suite accommodations with private balconies, unlimited premium beverages including wines and spirits, all specialty restaurants without surcharge, gratuities for all staff, unlimited WiFi, valet laundry service, and onboard enrichment programming. This genuinely inclusive model eliminates onboard spending decisions—guests may cruise without signing additional charges. The only extras are spa treatments, casino play, boutique purchases, and select ultra-premium excursions."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent Seven Seas Transatlantic itineraries emphasize strategic Atlantic waypoints rather than dense port schedules, respecting the traditional ocean crossing experience. Common ports include Spanish and Portuguese embarkation points (Barcelona, Lisbon, Malaga), the Azores archipelago (Ponta Delgada, Horta) for volcanic landscapes and maritime culture, Bermuda's Royal Naval Dockyard for British colonial heritage, and Canadian Maritimes (Halifax, Sydney) on northern routes. Disembarkation occurs in Miami, Fort Lauderdale, or New York. Sea days typically comprise 7-10 of a 14-night voyage, allowing genuine relaxation and enrichment programming."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Regent Seven Seas Transatlantic reservations 12-18 months in advance for optimal results. The line releases itineraries approximately 18-24 months ahead, and desirable suite categories—particularly Penthouse Suites and above with butler service—sell quickly due to limited inventory (750 guests maximum). Early booking yields savings of 15-25% through Regent's Early Booking Savings program. Past guests receive additional priority access. Last-minute availability is rare and typically limited to entry-level Veranda Suites at full fare. Deposit requirements are 25% with final payment due 120 days before sailing."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas Transatlantic cruises accommodate families but target affluent adult travelers seeking sophisticated, enrichment-focused voyages. Children are welcome and sail free as third guests in suites, though dedicated children's facilities are minimal—no water slides, kids' clubs, or teen discos. The extended sea days and formal evening dress codes suit mature travelers best. Families with children aged 10+ interested in maritime history, geography, and cultural immersion may find value, particularly with included shore excursions. Multi-generational groups often appreciate the all-inclusive simplicity. For families prioritizing children's programming, alternative lines better serve that market."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas cancellation terms are structured to encourage early commitment while protecting guests. Cancellations 151+ days before sailing incur no penalty. Between 150-121 days, deposit forfeiture applies. From 120-91 days, 25% of cruise fare is retained; 90-61 days, 50%; 60-31 days, 75%; and 30 days or less, full fare forfeiture. The Regent Reassurance program offers enhanced flexibility for bookings made during promotional periods, allowing one penalty-free date change. Travel insurance is strongly recommended given substantial cancellation penalties at shorter notice. Refunds process within 30 days of written cancellation request."
+    }
+  ]
+}

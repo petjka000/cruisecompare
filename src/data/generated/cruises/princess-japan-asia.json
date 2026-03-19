@@ -1,0 +1,229 @@
+{
+  "title": "Princess Cruises Japan & Asia Cruises 2026",
+  "intro": "Princess Cruises pioneered Japan cruising in 1964 and remains the destination's leading cruise line, offering immersive itineraries that blend ancient traditions with modern marvels across Japan, South Korea, Taiwan, Vietnam, Thailand, and Singapore. Their 2026 season features extended port stays in marquee destinations like Tokyo, Kyoto (Kobe), and Osaka, plus exclusive access to smaller Japanese ports inaccessible to larger vessels. Princess distinguishes itself through deep cultural programming including Taiko drumming workshops, sushi-making classes, and regionally authentic dining venues like Kai Sushi and Harmony. The line's MedallionClass technology enables seamless exploration ashore with multilingual wayfinding and OceanNow delivery. With roundtrip Tokyo departures and repositioning voyages between Tokyo and Singapore, Princess offers both intensive Japan immersion and broader Asia exploration for culturally curious travelers seeking premium comfort.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Diamond Princess",
+      "Majestic Princess",
+      "Discovery Princess"
+    ],
+    "departure_ports": [
+      "Tokyo",
+      "Singapore",
+      "Hong Kong",
+      "Seoul"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Cherry Blossom)",
+      "inside_eur": 1499,
+      "balcony_eur": 2199,
+      "suite_eur": 3899
+    },
+    {
+      "season": "Shoulder (Mar/Apr, Oct/Nov)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Low (Jul-Sep typhoon season)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Southern Japan Explorer",
+      "duration_nights": 7,
+      "ports": [
+        "Tokyo",
+        "Shimizu",
+        "Nagoya",
+        "Kobe",
+        "Kochi",
+        "Hiroshima",
+        "Tokyo"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Mt Fuji views from Shimizu with overnight Kyoto access via Kobe"
+    },
+    {
+      "name": "10-night Japan & South Korea",
+      "duration_nights": 10,
+      "ports": [
+        "Tokyo",
+        "Shimizu",
+        "Osaka",
+        "Kobe",
+        "Beppu",
+        "Busan",
+        "Nagasaki",
+        "Kanazawa",
+        "Aomori",
+        "Tokyo"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "UNESCO sites Himeji Castle and Gyeongju with hot springs in Beppu"
+    },
+    {
+      "name": "14-night Grand Asia",
+      "duration_nights": 14,
+      "ports": [
+        "Tokyo",
+        "Osaka",
+        "Kobe",
+        "Taipei",
+        "Hong Kong",
+        "Nha Trang",
+        "Ho Chi Minh City",
+        "Singapore"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Cross-cultural journey from Japanese refinement to Vietnamese vibrancy"
+    },
+    {
+      "name": "21-night Circle Japan Intensive",
+      "duration_nights": 21,
+      "ports": [
+        "Tokyo",
+        "Hakodate",
+        "Niigata",
+        "Kanazawa",
+        "Busan",
+        "Nagasaki",
+        "Kagoshima",
+        "Kochi",
+        "Tokushima",
+        "Osaka",
+        "Kobe",
+        "Shimizu",
+        "Tokyo"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Complete circumnavigation with 10 Japanese prefectures and Korean highlights"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Diamond Princess",
+      "capacity": 2670,
+      "year": 2004,
+      "best_for": "Japan specialists",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Majestic Princess",
+      "capacity": 3560,
+      "year": 2017,
+      "best_for": "Luxury seekers",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Discovery Princess",
+      "capacity": 3660,
+      "year": 2022,
+      "best_for": "Tech-forward travelers",
+      "price_from_eur": 1299
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining rooms and buffet",
+    "World-class entertainment and enrichment lectures",
+    "Fitness center and pools",
+    "MedallionClass wearable technology",
+    "Kids club programming",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Shore excursions (EUR 89-349)",
+    "Premier beverage packages (EUR 59/day)",
+    "Specialty dining (EUR 39-69)",
+    "WiFi packages (EUR 14.99/day)",
+    "Spa treatments",
+    "Laundry services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for cherry blossom season; 6-9 months for fall foliage; Princess Plus fare bundles add significant value for longer Asia voyages",
+  "top_ports": [
+    {
+      "port": "Tokyo (Yokohama)",
+      "time_in_port": "7am-5pm (or overnight)",
+      "top_activity": "Tsukiji Outer Market food tour (EUR 129)",
+      "tip": "Extend pre-cruise; Tokyo deserves 3+ days"
+    },
+    {
+      "port": "Kyoto (Kobe)",
+      "time_in_port": "8am-7pm",
+      "top_activity": "Private tea ceremony at Kinkaku-ji (EUR 189)",
+      "tip": "Bullet train to Kyoto takes 30 minutes; book Golden Pavilion early"
+    },
+    {
+      "port": "Hiroshima",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Miyajima Island and Peace Memorial Park (EUR 149)",
+      "tip": "Ropeway to Mt Misen offers spectacular views"
+    },
+    {
+      "port": "Busan, South Korea",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Gamcheon Culture Village and Jagalchi Market (EUR 99)",
+      "tip": "Korean BBQ lunch is included in most excursions"
+    },
+    {
+      "port": "Hong Kong",
+      "time_in_port": "7am-6pm (or overnight)",
+      "top_activity": "Victoria Peak tram and dim sum experience (EUR 119)",
+      "tip": "Evening Symphony of Lights from Star Ferry pier"
+    },
+    {
+      "port": "Ho Chi Minh City",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Cu Chi Tunnels and city highlights (EUR 159)",
+      "tip": "Long transfer from Phu My port; book ship excursion for reliability"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Japan & Asia cruise cost?",
+      "answer": "Princess Japan & Asia cruises start from EUR 899 per person for interior cabins on 7-night itineraries during low season, rising to EUR 1499+ for cherry blossom sailings. Balcony cabins range EUR 1299-2199 depending on season and itinerary length, while suites command EUR 1999-3899. The 21-night Circle Japan Intensive typically runs EUR 2899-4499. Princess Plus fares adding drinks, WiFi, and gratuities represent 30-40% savings over à la carte pricing. Solo travelers pay 150-200% supplement, though occasional sales reduce this to 125%."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Japan & Asia?",
+      "answer": "Diamond Princess is Princess's dedicated Japan-based ship, homeported in Tokyo year-round with Japanese-speaking crew and culturally tailored programming. Majestic Princess and Discovery Princess deploy to Asia seasonally for broader regional itineraries including Southeast Asia. Diamond Princess offers the most authentic experience with Japanese bathhouse (Izumi), karaoke lounges, and seasonal kaiseki menus. The larger Royal-class ships provide more contemporary amenities and entertainment venues. All three feature MedallionClass technology for seamless service and multilingual wayfinding essential for complex Asian port calls."
+    },
+    {
+      "question": "When is best time to cruise Japan & Asia?",
+      "answer": "March-April delivers iconic cherry blossom season with pink blooms tracking northward, though crowds peak and prices surge 40%. October-November offers autumn foliage, comfortable temperatures, and lower fares with excellent visibility for Mt Fuji. May and June provide pleasant weather before summer humidity and typhoon risk (July-September). Winter cruises (December-February) visit subtropical southern Japan and Southeast Asia with mild conditions. For comprehensive Japan coverage, spring and fall shoulder seasons balance weather, scenery, and value. Typhoon season requires flexible itineraries and travel insurance."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess fares include all main dining room and buffet meals, world-class production shows, enrichment lectures on Japanese culture and history, fitness facilities, pools and hot tubs, MedallionClass wearable technology, supervised youth programming, and port taxes. Accommodation, standard coffee and tea, and 24-hour room service are included. Extras comprise alcoholic beverages, specialty restaurants, shore excursions, WiFi, spa services, and gratuities (EUR 16/day recommended). Princess Plus and Princess Premier packages bundle popular extras at significant savings. Unlike some competitors, Princess includes authentic regional dining venues without surcharge."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess accesses over 40 Japanese ports including Tokyo, Kyoto (Kobe), Osaka, Hiroshima, Nagasaki, Kanazawa, Hakodate, and Aomori. Regional itineraries extend to Busan and Jeju (South Korea), Taipei (Taiwan), Hong Kong, Halong Bay and Da Nang (Vietnam), and Singapore. Smaller Japanese ports like Kochi, Tokushima, and Sakaiminato offer intimate cultural encounters. Diamond Princess reaches remote northern Japan including Russian Far East border regions. Select voyages include overnight stays in Tokyo, Kyoto, or Hong Kong enabling deeper exploration. Princess holds preferential berthing agreements at several Japanese ports."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book cherry blossom (late March-April) and fall foliage (October-November) sailings 9-12 months ahead, as balcony cabins on Diamond Princess sell out rapidly. Standard Japan itineraries require 6-9 month advance booking for optimal cabin selection. Repositioning voyages between Tokyo and Singapore offer better last-minute availability 3-6 months out. Princess typically releases Asia itineraries 18 months ahead. Early booking incentives include reduced deposits, onboard credit up to EUR 300, and complimentary upgrades. Wave season (January-March) brings additional promotions. Cancel-for-any-reason protection is advisable given Japan's occasional entry requirement changes."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Japan cruises suit families with children 8+ who can appreciate cultural immersion and handle moderate walking ashore. The Discovery and Majestic Princess offer expansive kids clubs (Camp Discovery) with Japan-themed activities including origami, anime drawing, and Japanese language basics. Teen programs include sushi-making and manga workshops. Diamond Princess has more limited youth facilities but still provides supervised programming. Shore excursions rarely accommodate strollers; baby equipment rental is unavailable in Japan. Family suites and connecting cabins book early. The educational value is exceptional, though families with young children may prefer resort-style Caribbean cruises over intensive port-heavy Asia itineraries."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess's standard policy permits full refund minus deposit (typically EUR 250-500) up to 90 days before departure for cruises 5+ nights. 89-60 days incurs 25% penalty; 59-30 days 50%; 29-15 days 75%; 14 days or less forfeits 100%. Cancel-for-any-reason protection (EUR 89-149) upgrades to future cruise credit worth 100% of non-refundable amounts. COVID-19 protocols remain flexible with full credits for positive tests within 10 days of sailing. Travel insurance covering trip interruption is strongly recommended for Asia given distance and complexity. Rebooking to alternative sailings within 12 months often waives change fees during promotional periods."
+    }
+  ]
+}

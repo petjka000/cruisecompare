@@ -1,0 +1,136 @@
+{
+  "title": "Royal Caribbean vs Holland America Line 2026",
+  "intro": "Royal Caribbean and Holland America Line represent two distinct philosophies of ocean cruising. Royal Caribbean dominates with megaships featuring record-breaking attractions, targeting families and adventure-seekers with surf simulators, skydiving tunnels, and Broadway entertainment. Holland America Line pursues refined elegance aboard smaller vessels, emphasising destination immersion, culinary excellence, and sophisticated programming for mature travellers. Both operate mid-market pricing but serve fundamentally different demographics. Royal Caribbean prioritises ship-as-destination entertainment; Holland America champions traditional cruising values with longer port stays and enrichment-focused voyages. Your ideal choice depends entirely on whether you seek adrenaline-fuelled resort experiences or cultured, relaxed maritime travel.",
+  "at_a_glance": {
+    "royal-caribbean": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "holland-america": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 749
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "royal-caribbean": "€899",
+      "holland-america": "€749"
+    },
+    {
+      "category": "Ship Size",
+      "royal-caribbean": "3,600-7,600 passengers",
+      "holland-america": "1,432-2,650 passengers"
+    },
+    {
+      "category": "Launch Year",
+      "royal-caribbean": "1999-2024",
+      "holland-america": "1999-2021"
+    },
+    {
+      "category": "Demographic",
+      "royal-caribbean": "Families, couples 30-55",
+      "holland-america": "55+, empty nesters"
+    },
+    {
+      "category": "Entertainment",
+      "royal-caribbean": "Broadway shows, AquaTheater, ice skating",
+      "holland-america": "BB King's Blues Club, Lincoln Center Stage"
+    },
+    {
+      "category": "Dining",
+      "royal-caribbean": "20+ venues, casual focus",
+      "holland-america": "Culinary Arts Center, fine dining emphasis"
+    },
+    {
+      "category": "Activities",
+      "royal-caribbean": "FlowRider, zip line, rock climbing",
+      "holland-america": "Cooking classes, digital workshops, port lectures"
+    },
+    {
+      "category": "Evening Atmosphere",
+      "royal-caribbean": "Lively, party-oriented",
+      "holland-america": "Refined, early evenings"
+    },
+    {
+      "category": "Children's Facilities",
+      "royal-caribbean": "Adventure Ocean, teen clubs, nursery",
+      "holland-america": "Club HAL limited, seasonal"
+    },
+    {
+      "category": "Dress Code",
+      "royal-caribbean": "Resort casual",
+      "holland-america": "Smart casual, formal nights"
+    }
+  ],
+  "choose_a_if": [
+    "You travel with children or teenagers who need constant stimulation and dedicated facilities",
+    "You prioritise shipboard thrills, waterslides, and Vegas-style entertainment over destination focus",
+    "You prefer casual dress codes and flexible dining without traditional cruise formalities",
+    "You want the newest, largest ships with cutting-edge architectural features and neighbourhoods"
+  ],
+  "choose_b_if": [
+    "You appreciate longer port stays, overnights, and destination-intensive itineraries",
+    "You value culinary excellence, wine programmes, and cooking demonstrations at sea",
+    "You seek peaceful, uncrowded public spaces and genuine maritime atmosphere",
+    "You prefer travelling without large numbers of children and desire sophisticated fellow passengers"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Royal Caribbean",
+      "reason": "Adventure Ocean divides children by age with supervised activities from 6 months, while teens gain dedicated spaces. Water parks, surf simulators, and character breakfasts justify the premium."
+    },
+    {
+      "type": "Romantic Couples",
+      "winner": "Holland America Line",
+      "reason": "Intimate ship dimensions, refined dining venues, and adults-only retreats create atmosphere impossible aboard Royal Caribbean's bustling megaships."
+    },
+    {
+      "type": "Solo Travellers",
+      "winner": "Holland America Line",
+      "reason": "Single supplement reductions, gentleman hosts for dancing, and enrichment lectures foster natural social connection without forced group activities."
+    },
+    {
+      "type": "Adventure Seekers",
+      "winner": "Royal Caribbean",
+      "reason": "Skydiving simulators, North Star observation capsules, and Perfect Day private islands deliver adrenaline that Holland America deliberately avoids."
+    },
+    {
+      "type": "Food Enthusiasts",
+      "winner": "Holland America Line",
+      "reason": "Culinary Arts Center with hands-on classes, exclusive BBC Earth partnerships, and regionally inspired menus demonstrate serious gastronomic commitment."
+    },
+    {
+      "type": "Mature Travellers",
+      "winner": "Holland America Line",
+      "reason": "Accessible staterooms, slower pacing, and medical facilities proportionally superior for mobility-conscious guests prioritising comfort over novelty."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Holland America Line generally delivers superior value for inclusive pricing, with gratuities, specialty dining credits, and beverage packages frequently bundled. Royal Caribbean's base fares appear competitive but escalate rapidly once you add Wi-Fi, drinks, and specialty restaurants. Holland America's longer port stays mean fewer sea days where onboard spending tempts. However, Royal Caribbean's sheer entertainment volume—Broadway productions, AquaTheater dives, ice shows—included in your fare represents remarkable value for families. Solo travellers particularly benefit from Holland America's reduced single supplements. Ultimately, value depends on your spending discipline; controlled budgets favour Holland America, while those who resist add-ons find Royal Caribbean's inclusive entertainment compelling."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Royal Caribbean dominates family cruising through infrastructure investment unmatched industry-wide. Adventure Ocean accommodates infants from six months with nursery care, dividing older children into age-appropriate groups with dedicated facilities on every ship. Teen programmes include DJ academies, fuel discos, and adventure activities. The DreamWorks partnership brings character breakfasts and photo opportunities. Pool decks feature dedicated children's areas with waterslides and splash zones. Holland America's Club HAL operates seasonally with limited hours and infrastructure, accepting children from five years without infant care. Family staterooms and connecting rooms are scarce. For multigenerational groups, Royal Caribbean's variety ensures every age finds satisfaction."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Holland America Line's 2026 seven-night Caribbean inside cabins average €749, undercutting Royal Caribbean's €899 by approximately sixteen percent. This differential widens in balcony categories where Royal Caribbean's newer ships command premiums exceeding thirty percent. Alaska and Northern Europe itineraries show narrower gaps, with Holland America occasionally pricing above Royal Caribbean during peak summer. Shore excursion credits and beverage packages bundled in Holland America's 'Have It All' promotion improve effective value. Royal Caribbean's dynamic pricing creates volatility; booking twelve months ahead yields significant savings versus last-minute purchases. Both lines offer resident and senior discounts, though Holland America's loyalty programme provides more tangible cabin upgrade benefits earlier."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Holland America Line consistently outperforms in culinary execution, sourcing from revered suppliers like Le Cordon Bleu for their Culinary Arts Center where passengers cook alongside chefs. Main dining room menus emphasise regional ingredients and preparation techniques from destinations visited. The Pinnacle Grill dry-aged steaks and Rudi's Sel de Mer seafood demonstrate serious gastronomic ambition. Royal Caribbean's food philosophy prioritises volume and variety over refinement; twenty-plus venues ensure choice but consistency suffers across such scale. Wonderland's molecular gastronomy impresses, yet main dining room experiences prove adequate rather than memorable. Specialty restaurants on both lines require supplements, though Holland America's included quality reduces necessity for paid upgrades."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "First-time cruisers seeking to understand whether cruising suits them should select Holland America Line for authentic maritime tradition without overwhelming scale. Smaller ships facilitate navigation, crew recognition, and social connection impossible aboard Royal Caribbean's floating cities. The relaxed pace allows genuine appreciation of seafaring fundamentals. Conversely, Royal Caribbean suits uncertain first-timers who fear boredom; the sheer activity volume guarantees stimulation regardless of weather or sea conditions. Those anxious about motion sickness benefit from Royal Caribbean's stabilised megaships. First-timers with children have no viable Holland America alternative. Ultimately, traditionalists prefer Holland America's introduction to cruising; entertainment-focused travellers require Royal Caribbean's spectacle to convert."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Scale fundamentally distinguishes these lines: Royal Caribbean's Icon Class carries 7,600 passengers across neighbourhoods including Central Park with living trees, while Holland America's Rotterdam accommodates 2,650 with classical maritime architecture. Royal Caribbean builds ships as destinations, scheduling minimal port time to maximise onboard revenue. Holland America inverts this, designing itineraries around extended destination immersion with overnight stays common. Demographics diverge sharply; Royal Caribbean's median age approximates forty-two with thirty percent children, versus Holland America's sixty-four with minimal youth presence. Entertainment philosophies contrast Vegas spectacle against chamber music and enrichment lectures. Dining approaches diverge similarly: Royal Caribbean's casual abundance against Holland America's refined restraint. These aren't competing products but alternative vacation categories."
+    }
+  ]
+}

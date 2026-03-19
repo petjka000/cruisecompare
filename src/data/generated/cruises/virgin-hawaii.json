@@ -1,0 +1,192 @@
+{
+  "title": "Virgin Voyages Hawaii Cruises 2026",
+  "intro": "Virgin Voyages brings its rebellious, adults-only luxury concept to the Pacific with Hawaii sailings that redefine tropical cruising. Departing from Los Angeles, these voyages aboard Scarlet Lady and Resilient Lady combine Richard Branson's signature party-at-sea atmosphere with Hawaii's volcanic landscapes and Polynesian culture. Unlike traditional Hawaii cruises, Virgin eliminates buffets, formal nights, and children—replacing them with 20+ included restaurants, drag brunches, and tattoo parlors. The 14-night repositioning cruises and dedicated Hawaiian itineraries feature extended port calls at Honolulu, Maui, and Kauai, with overnight stays that allow for sunrise hikes and late-night luaus. Virgin's distinctive approach includes all dining, WiFi, gratuities, and group fitness classes in the base fare, making budgeting straightforward for millennials and Gen X travelers seeking Instagram-worthy experiences without hidden costs.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "14-16 nights",
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Apr",
+      "May"
+    ],
+    "ships_on_route": [
+      "Scarlet Lady",
+      "Resilient Lady"
+    ],
+    "departure_ports": [
+      "Los Angeles",
+      "San Francisco"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Nov)",
+      "inside_eur": 1899,
+      "balcony_eur": 2499,
+      "suite_eur": 4299
+    },
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 2499,
+      "balcony_eur": 3299,
+      "suite_eur": 5699
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 3299,
+      "balcony_eur": 4499,
+      "suite_eur": 7899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Hawaii Adventure from LA",
+      "duration_nights": 14,
+      "ports": [
+        "Los Angeles",
+        "Hilo",
+        "Honolulu",
+        "Kahului",
+        "Nawiliwili",
+        "Ensenada"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Two full days in Honolulu with overnight stay"
+    },
+    {
+      "name": "Hawaii & Mexico Combo",
+      "duration_nights": 16,
+      "ports": [
+        "San Francisco",
+        "Hilo",
+        "Honolulu",
+        "Kahului",
+        "Nawiliwili",
+        "Cabo San Lucas",
+        "Puerto Vallarta"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Crosses both International Date Line and Tropic of Cancer"
+    },
+    {
+      "name": " repositioning: LA to Vancouver via Hawaii",
+      "duration_nights": 15,
+      "ports": [
+        "Los Angeles",
+        "Hilo",
+        "Honolulu",
+        "Kahului",
+        "Nawiliwili",
+        "Victoria",
+        "Vancouver"
+      ],
+      "price_from_eur": 2099,
+      "highlight": "Rare one-way option with Canadian Rockies extension potential"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Scarlet Lady",
+      "capacity": 2770,
+      "year": 2021,
+      "best_for": "Couples & friend groups seeking nightlife",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Resilient Lady",
+      "capacity": 2770,
+      "year": 2023,
+      "best_for": "Wellness-focused travelers with premium spa access",
+      "price_from_eur": 1999
+    }
+  ],
+  "whats_included": [
+    "20+ restaurants with no surcharges",
+    "All non-alcoholic beverages",
+    "WiFi throughout ship",
+    "Group fitness classes and yoga",
+    "Gratuities",
+    "Basic beverages including soda and drip coffee",
+    "Evening entertainment and shows",
+    "Beach club access at Bimini (Caribbean sailings)"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and premium coffee",
+    "Shore excursions and activities",
+    "Spa treatments and salon services",
+    "Tattoo services at Squid Ink",
+    "Casino gaming",
+    "Photography packages",
+    "Specialty fitness classes (Pilates reformer, etc.)",
+    "Room service delivery fee"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking incentives; watch for Virgin's frequent 'Sailor Loot' promotions adding onboard credit. Consider booking through Virgin's First Mates travel advisor network for exclusive perks. Prices typically drop 60-90 days before sailing for remaining cabins, but balcony rooms with hammock—Virgin's signature feature—sell out first. Join the Sailing Club loyalty program immediately for member-only access to new itinerary releases.",
+  "top_ports": [
+    {
+      "port": "Honolulu, Oahu",
+      "time_in_port": "8am (Day 2: 6pm)",
+      "top_activity": "Pearl Harbor National Memorial ($7.50 reservation fee)",
+      "tip": "Uber to Waikiki Beach faster than ship shuttles; book Arizona Memorial 60 days ahead"
+    },
+    {
+      "port": "Kahului, Maui",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Road to Hana private driver ($299)",
+      "tip": "Ship arrives early—book Haleakala sunrise for previous overnight if possible"
+    },
+    {
+      "port": "Hilo, Big Island",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Volcanoes National Park helicopter tour ($449)",
+      "tip": "Morning weather clearer for Kilauea viewing; rental car cheaper than ship excursion"
+    },
+    {
+      "port": "Nawiliwili, Kauai",
+      "time_in_port": "8am-2pm",
+      "top_activity": "Na Pali Coast catamaran cruise ($189)",
+      "tip": "Shortest port call—prioritize one activity; Waimea Canyon too far for timeline"
+    },
+    {
+      "port": "Ensenada, Mexico",
+      "time_in_port": "12pm-7pm",
+      "top_activity": "La Bufadora blowhole and wine country ($89)",
+      "tip": "Final port before LA—good for last-minute souvenirs and cheaper tequila"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages Hawaii cruise cost?",
+      "answer": "Virgin Voyages Hawaii cruises start from €1,899 per person for shoulder season 14-night sailings in an interior cabin, with balcony rooms from €2,499 and RockStar suites from €4,299. Peak December through March pricing rises to €2,499-€3,299 for standard cabins, while holiday sailings command €3,299-€4,499. These fares include all dining, WiFi, gratuities, and group fitness—unlike competitors where these add €50-€100 daily. Bar tab packages run €35-€55 daily when pre-purchased. Solo travelers face no single supplement on select voyages through Virgin's dedicated solo cabin program, though standard cabins incur 100% supplement. Airport transfers, flights to Los Angeles or San Francisco, and pre-cruise hotels are additional."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to Hawaii?",
+      "answer": "Virgin Voyages deploys Scarlet Lady and Resilient Lady on Hawaii itineraries, both identical 110,000-ton, 2,770-passenger adults-only vessels. Scarlet Lady, the line's inaugural ship launched 2021, handles the majority of Hawaii sailings with her proven Pacific deployment. Resilient Lady, debuting 2023, offers newer soft furnishings and refined restaurant layouts learned from her sister's operational experience. Neither ship features casinos or Broadway-style theaters, instead emphasizing immersive entertainment like 'Miss Behave' game shows and transformative dining at venues including the Korean BBQ restaurant Gunbae and experimental Test Kitchen. Both ships maintain Virgin's strict 18+ policy with no exceptions, making these Hawaii cruises unsuitable for family travel. The identical design means cabin categories and amenities match across both vessels."
+    },
+    {
+      "question": "When is best time to cruise Hawaii?",
+      "answer": "The optimal Hawaii cruising window spans April through May and September through November, balancing favorable weather with Virgin's lowest pricing. These shoulder months deliver 26-29°C temperatures with minimal rainfall on the leeward sides where ships dock, while avoiding summer's humid 32°C peaks and winter's occasional Kona storm disruptions. September and October particularly offer calm seas for the lengthy Pacific crossing from California. December through March, despite being peak pricing season, coincides with humpback whale migration—visible from ship decks and a compelling reason to pay premium rates. June through August brings family vacation crowds to islands despite Virgin's adults-only restriction, creating congested ports and higher hotel rates for pre-cruise stays. Hurricane risk is negligible in Hawaii compared to Caribbean routes."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages Hawaii cruises include substantially more than premium competitors: all 20+ restaurants without surcharges or reservations required, basic non-alcoholic beverages including still and sparkling water, sodas, drip coffee, and tea, unlimited WiFi with streaming capability, all gratuities for crew, group fitness classes spanning yoga to HIIT, evening entertainment from immersive theater to DJ sets, and access to the thermal spa suite on port days. Notably excluded are alcoholic beverages, premium coffees, shore excursions, spa treatments, and the signature Squid Ink tattoo parlor. The line's 'no nickel-and-diming' philosophy eliminates photographers, art auctions, and formal nights with associated photography packages. Room service carries a €7 delivery fee per order. Unlike traditional lines, Virgin includes all alternative restaurants—there is no main dining room hierarchy."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Virgin Voyages Hawaii itineraries visit four primary Hawaiian ports plus Mexican and California stops on repositioning routes. Honolulu on Oahu receives the most extended call with overnight stays allowing Pearl Harbor visits and Waikiki Beach exploration. Kahului, Maui serves as gateway to Haleakala crater and the Road to Hana, though the 7am-6pm window challenges comprehensive island coverage. Hilo on Hawaii Island provides volcanic landscapes including active Kilauea viewing, while Nawiliwili on Kauai offers Na Pali Coast access despite the brief 8am-2pm call being Virgin's shortest. Most itineraries include Ensenada, Mexico for legal compliance with the Passenger Vessel Services Act requiring foreign port stops on domestic routes. Select sailings add Cabo San Lucas and Puerto Vallarta for 16-night extended voyages. Victoria and Vancouver appear on northbound repositioning cruises."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Virgin Voyages Hawaii cruises 9-12 months in advance for optimal cabin selection, particularly balcony rooms featuring the line's signature red hammock—these comprise 86% of accommodations and sell out first. Early booking secures preferred dining times at high-demand venues like The Wake steakhouse and Korean BBQ restaurant Gunbae. Virgin releases itineraries approximately 18 months ahead with opening-day pricing typically 15-20% below final rates. The line's flexible cancellation policy allows full refund up to 120 days before sailing, reducing risk of early commitment. Last-minute deals emerge 60-90 days prior for remaining inventory, though cabin location and dining reservations suffer. Join Virgin's Sailing Club loyalty program immediately for early access to new route announcements. First Mates travel advisors often secure exclusive onboard credit unavailable through direct booking."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages Hawaii cruises are explicitly unsuitable for families with children under 18, as the line maintains a strict adults-only policy with no exceptions for infants, toddlers, or teenagers. This design targets millennials, Gen X travelers, and child-free couples seeking uninterrupted social atmosphere. The programming emphasizes late-night entertainment, alcohol-forward experiences like the onboard brewery and mixology classes, and adult-oriented humor in shows. Families seeking Hawaii cruises should consider Norwegian, Royal Caribbean, or Princess lines which offer robust children's programs, family cabins, and teen clubs. Virgin's demographic sweet spot spans ages 30-55, with the 14-16 night Hawaii duration particularly suited to remote workers leveraging included WiFi. The line's solo traveler program with dedicated single cabins and roommate matching serves independent travelers without family obligations."
+    },
+    {
+      "question": "What is Virgin Voyages' cancellation policy?",
+      "answer": "Virgin Voyages offers among the cruise industry's most flexible cancellation terms: full refund for cancellations made 120 days or more before sailing, with no administrative fees. Between 119-90 days, deposit converts to future voyage credit valid two years. Final payment due 120 days prior for standard cabins, 180 days for RockStar suites. Cancellations 89-60 days incur 50% fare penalty; 59-30 days 75% penalty; under 30 days forfeits full payment. The 'Book with Confidence' program periodically extends full refund windows to 45 days for new bookings during promotional periods. Travel insurance through Virgin's partner covers cancellation for covered reasons including illness, with Cancel For Any Reason upgrades providing 75% future credit. Name changes on bookings are permitted until 48 hours before sailing for €150 fee, allowing ticket transfers if plans change."
+    }
+  ]
+}

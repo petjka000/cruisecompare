@@ -1,0 +1,211 @@
+{
+  "title": "Holland America Line Africa & Canaries Cruises 2026",
+  "intro": "Holland America Line brings its legendary Dutch heritage and refined elegance to the Africa & Canaries region, offering discerning travellers an authentic exploration of volcanic archipelagos and African coastal gems. With over 150 years of maritime expertise, HAL's mid-sized ships navigate these waters with grace, delivering immersive cultural encounters from Tenerife's lunar landscapes to Senegal's vibrant markets. The cruise line's Explorations Central (EXC) programme enriches every voyage with destination insights, while culinary excellence featuring fresh regional ingredients elevates the experience. Holland America's longer port stays and overnight calls in key destinations like Cape Town allow deeper exploration than typical cruise itineraries. The line attracts mature, intellectually curious travellers seeking meaningful connections rather than mass tourism, with enrichment programmes ranging from photography workshops to cooking demonstrations that celebrate African and Canarian heritage.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "14-35 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Nieuw Statendam",
+      "Rotterdam",
+      "Volendam"
+    ],
+    "departure_ports": [
+      "Amsterdam",
+      "Barcelona",
+      "Cape Town"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/Mar)",
+      "inside_eur": 899,
+      "balcony_eur": 1499,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1299,
+      "balcony_eur": 2199,
+      "suite_eur": 3799
+    },
+    {
+      "season": "Grand Voyage (35 nights)",
+      "inside_eur": 3499,
+      "balcony_eur": 5499,
+      "suite_eur": 8999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Canaries & Morocco Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Cadiz",
+        "Casablanca",
+        "Arrecife",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Funchal",
+        "Lisbon"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Overnight in Casablanca with Sahara excursion option"
+    },
+    {
+      "name": "17-night West Africa Discovery",
+      "duration_nights": 17,
+      "ports": [
+        "Cape Town",
+        "Luderitz",
+        "Walvis Bay",
+        "Luanda",
+        "Sao Tome",
+        "Banjul",
+        "Dakar"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Rare calls in Angola and São Tomé with expedition-style landings"
+    },
+    {
+      "name": "35-night Grand Africa Voyage",
+      "duration_nights": 35,
+      "ports": [
+        "Amsterdam",
+        "Lisbon",
+        "Casablanca",
+        "Dakar",
+        "Banjul",
+        "Abidjan",
+        "Tema",
+        "Cape Town",
+        "Port Elizabeth",
+        "Durban",
+        "Maputo"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Full circumnavigation of Africa with overnight in Cape Town and Victoria Falls extension"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Nieuw Statendam",
+      "capacity": 2666,
+      "year": 2018,
+      "best_for": "Cultural immersion & culinary enthusiasts",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Rotterdam",
+      "capacity": 2668,
+      "year": 2021,
+      "best_for": "Grand Voyages & extended itineraries",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Volendam",
+      "capacity": 1432,
+      "year": 1999,
+      "best_for": "Intimate exploration & repeat HAL guests",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining room and Lido Market",
+    "24-hour room service",
+    "Daily housekeeping",
+    "Evening entertainment and live music",
+    "Fitness centre and sports courts",
+    "Port lectures and destination presentations",
+    "BBC Earth Experiences",
+    "America's Test Kitchen cooking shows",
+    "Digital workshop classes",
+    "Club Orange priority benefits (suites)"
+  ],
+  "whats_extra": [
+    "Beverage packages (€55-75/day)",
+    "Specialty dining (€25-45/person)",
+    "Shore excursions (€89-€599)",
+    "WiFi packages (€15-25/day)",
+    "Laundry and dry cleaning",
+    "Spa treatments and salon services",
+    "Photography purchases",
+    "Airport transfers",
+    "Pre/post hotel stays",
+    "Gratuities (€16/day recommended)"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for Grand Africa Voyages which sell out rapidly; shoulder season offers 30-40% savings. Look for 'Have It All' promotional packages bundling drinks, excursions, WiFi and specialty dining. Mariner Society loyalty members receive priority booking and onboard credits. Consider back-to-back segments for pricing advantages.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "7am-11pm",
+      "top_activity": "Teide National Park cable car and hiking (€89)",
+      "tip": "Evening departure allows sunset above clouds experience"
+    },
+    {
+      "port": "Casablanca",
+      "time_in_port": "6am-overnight",
+      "top_activity": "Hassan II Mosque and Marrakech overnight (€459)",
+      "tip": "Book mosque interior tours 48 hours ahead through ship"
+    },
+    {
+      "port": "Cape Town",
+      "time_in_port": "6am-overnight (2 nights)",
+      "top_activity": "Table Mountain and Robben Island combination (€189)",
+      "tip": "Second day ideal for Winelands independent exploration"
+    },
+    {
+      "port": "Dakar",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Gorée Island UNESCO heritage site (€79)",
+      "tip": "Negotiate taxi rates firmly; ship shuttle most reliable"
+    },
+    {
+      "port": "Walvis Bay",
+      "time_in_port": "6am-4pm",
+      "top_activity": "Namib Desert 4x4 adventure to Sandwich Harbour (€299)",
+      "tip": "Morning fog clears by 9am for optimal photography"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line Africa & Canaries cruise cost?",
+      "answer": "Holland America Line Africa & Canaries cruises typically range from €899 for interior cabins on 14-night Canaries sailings to €8,999 for Neptune suites on 35-night Grand Africa Voyages. Balcony cabins, essential for scenic cruising past volcanic coastlines, average €1,499-€2,199. The comprehensive 'Have It All' package adds approximately €400-€600 but includes premium drinks, shore excursions, WiFi and specialty dining. Solo travellers should note limited single cabins at 150% supplement versus standard 200%. Last-minute deals occasionally appear 60-90 days prior, though Grand Africa itineraries rarely discount significantly."
+    },
+    {
+      "question": "Which Holland America Line ships sail to Africa & Canaries?",
+      "answer": "Holland America deploys its Pinnacle-class and Signature-class vessels for Africa & Canaries itineraries. The Nieuw Statendam (2018, 2,666 passengers) handles most 14-21 night sailings with its Music Walk venues and World Stage technology. Rotterdam (2021, 2,668 passengers) operates the flagship 35-night Grand Africa Voyages with expanded cold storage for extended operations. Smaller Volendam (1,432 passengers) offers more intimate access to shallow African ports like São Tomé and Banjul. All feature HAL's Explorations Central programming, though Rotterdam offers the most comprehensive enrichment for this complex itinerary region."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "Optimal sailing months are November through March, coinciding with dry seasons across both regions. The Canaries enjoy eternal spring conditions (18-24°C) year-round, though December-Feb brings calmer seas for Sahara dust photography. West Africa's dry season (November-March) eliminates malaria risk in many areas and enables comfortable desert excursions. Cape Town operates opposite seasons, with January-March offering warm beach weather. Avoid April-October when West African humidity peaks and some smaller ports become inaccessible. Grand Africa Voyages specifically schedule January-Feb departures to maximise favourable conditions around the entire continent."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America includes all main dining room and Lido Market meals, 24-hour room service, standard coffee and tea, port lectures, BBC Earth Experiences, fitness centre access, and evening entertainment. Accommodation categories determine additional inclusions: Verandah cabins receive fresh fruit and mimosa service; Neptune and Pinnacle suites include concierge service, priority embarkation, and Club Orange dining. Notably excluded are beverages beyond basic coffee/tea, WiFi, specialty restaurants, and shore excursions. The 'Have It All' promotional fare bundles these extras at significant savings. Gratuities (recommended €16/person/day) are additional."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Canaries itineraries feature volcanic Tenerife, Gran Canaria, Lanzarote and La Palma with Moroccan calls at Casablanca or Agadir. West African routes include Senegal's Dakar, Gambia's Banjul, Ghana's Tema for Acccess, and Namibia's Walvis Bay for desert adventures. Grand Africa Voyages circumnavigate with additional stops in Angola, São Tomé and Príncipe, Ivory Coast, and multiple South African ports including overnight Cape Town stays. Some itineraries include remote Atlantic islands like Ascension or St. Helena. Port times are notably generous, with many overnight stays enabling independent exploration or multi-day excursion packages to Victoria Falls, Marrakech, or Serengeti."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Grand Africa Voyages 12-18 months ahead, as these 35-night circumnavigations sell out 9-12 months prior, particularly balcony cabins facing starboard for optimal African coastline views. Standard 14-17 night Canaries and West Africa sailings require 6-9 month advance booking for preferred cabin categories. Mariner Society loyalty members receive early access 120 days before public release. Wave season (January-March) offers optimal pricing for following year departures. Solo travellers should book immediately when single cabins release, as inventory is minimal. Final payment typically due 90 days prior, with penalty-free cancellation windows closing 120 days before sailing for Grand Voyages."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Africa & Canaries cruises suit families with teenage children interested in cultural immersion and wildlife rather than water slides and kids' clubs. Club HAL programming serves ages 3-17, though participation is lower on destination-intensive itineraries with limited sea days. The educational focus—port lectures, BBC Earth documentaries, photography workshops—engages curious adolescents. Shore excursions to game reserves, camel treks, and spice markets create memorable family experiences. However, families with young children may find the sophisticated atmosphere and lengthy port days challenging. Connecting cabins and triple/quad configurations are limited; booking two adjacent cabins often proves necessary and more comfortable for families."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America applies a tiered cancellation structure: 90+ days prior incurs no penalty for most sailings, though Grand Africa Voyages require 120+ days for full refund. 89-75 days loses deposit (typically 20%); 74-61 days forfeits 50%; 60-31 days loses 75%; 30 days or less results in 100% forfeiture. 'Cancel For Any Reason' protection through Holland America's Cancellation Protection Plan (€199-€399) provides future cruise credit minus administrative fee. COVID-19 protocols remain flexible with full credits for positive tests within 10 days of sailing. Travel insurance is strongly recommended given complex African medical evacuation requirements and excursion non-refundable deposits."
+    }
+  ]
+}

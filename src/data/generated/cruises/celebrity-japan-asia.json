@@ -1,0 +1,236 @@
+{
+  "title": "Celebrity Cruises Japan & Asia Cruises 2026",
+  "intro": "Celebrity Cruises elevates Japan & Asia exploration through its premium modern luxury lens, combining immersive cultural discovery with sophisticated onboard experiences. The Solstice-class vessels, designed with destination-rich cruising in mind, navigate the region with exceptional grace—featuring real grass lawns, glass-blowing studios, and globally inspired cuisine that complements Asian ports perfectly. From Tokyo's neon energy to Vietnam's lantern-lit rivers, Celebrity curates extended evening stays and overnight port calls that maximize cultural immersion. The line's partnership with local experts delivers authentic shore excursions, while onboard programming includes destination lectures, regional wine pairings, and Asian fusion dining at specialty restaurants like Silk Harvest. With smaller ship sizes than mass-market competitors, Celebrity accesses intimate harbours like Halong Bay and Phuket's hidden coves while maintaining spacious accommodations and intuitive service that discerning travellers expect.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "10-16 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Celebrity Solstice",
+      "Celebrity Millennium"
+    ],
+    "departure_ports": [
+      "Tokyo",
+      "Singapore",
+      "Hong Kong",
+      "Yokohama"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Oct-Nov)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak Cherry Blossom (Late Mar-Early Apr)",
+      "inside_eur": 1499,
+      "balcony_eur": 2199,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Summer (Jun-Aug)",
+      "inside_eur": 999,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Typhoon Season Value (Sep)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Japan Intensive",
+      "duration_nights": 12,
+      "ports": [
+        "Tokyo",
+        "Shimizu",
+        "Kyoto (Osaka)",
+        "Hiroshima",
+        "Fukuoka",
+        "Jeju",
+        "Nagasaki",
+        "Kochi",
+        "Tokyo"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Three overnight stays including Kyoto and Tokyo with full cherry blossom immersion"
+    },
+    {
+      "name": "14-night Southeast Asia Discovery",
+      "duration_nights": 14,
+      "ports": [
+        "Singapore",
+        "Koh Samui",
+        "Laem Chabang (Bangkok)",
+        "Ho Chi Minh City",
+        "Nha Trang",
+        "Hue/Da Nang",
+        "Halong Bay",
+        "Hong Kong"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Overnight in Bangkok and Hong Kong with UNESCO World Heritage site access"
+    },
+    {
+      "name": "10-night Best of Japan & Korea",
+      "duration_nights": 10,
+      "ports": [
+        "Yokohama",
+        "Mount Fuji (Shimizu)",
+        "Kyoto (Osaka)",
+        "Beppu",
+        "Busan",
+        "Nagasaki",
+        "Kagoshima",
+        "Yokohama"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Onsen experiences in Beppu and volcanic landscapes of Kagoshima"
+    },
+    {
+      "name": "16-night Asia Grand Voyage",
+      "duration_nights": 16,
+      "ports": [
+        "Tokyo",
+        "Nagoya",
+        "Kyoto (Osaka)",
+        "Hiroshima",
+        "Fukuoka",
+        "Busan",
+        "Shanghai",
+        "Nagasaki",
+        "Kagoshima",
+        "Tokyo"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Comprehensive East Asia exploration with two nights in Shanghai"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Solstice",
+      "capacity": 2850,
+      "year": 2008,
+      "best_for": "Couples and culture-focused travellers seeking premium amenities",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Celebrity Millennium",
+      "capacity": 2150,
+      "year": 2000,
+      "refurbished": 2019,
+      "best_for": "Intimate port access and relaxed luxury atmosphere",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Celebrity Eclipse",
+      "capacity": 2850,
+      "year": 2010,
+      "best_for": "Extended Asia voyages with enhanced spa and culinary programming",
+      "price_from_eur": 1299
+    }
+  ],
+  "whats_included": [
+    "All main dining room and buffet meals",
+    "Select beverages including coffees, teas, juices",
+    "Evening entertainment and live music",
+    "Fitness centre and pool access",
+    "Destination seminars and enrichment lectures",
+    "Kids' club programming (Ages 3-17)",
+    "Gratuities on select fare types",
+    "Room service (excluding late-night fee)"
+  ],
+  "whats_extra": [
+    "Premium drinks packages (Classic €65/day, Premium €78/day)",
+    "Specialty dining (€45-65 per person)",
+    "Shore excursions (€89-389 per tour)",
+    "Wi-Fi packages (€18-35/day)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for optimal cabin selection and early booking savings of 15-25%. Cherry blossom sailings require 12-18 month advance booking due to limited inventory. Consider Wave Season (January-March) for enhanced perks including onboard credit, beverage packages, and reduced deposits. Suite guests should book immediately upon release for preferred dining times and butler service availability.",
+  "top_ports": [
+    {
+      "port": "Kyoto (Osaka)",
+      "time_in_port": "7am-overnight (next day 6pm)",
+      "top_activity": "Private tea ceremony with geisha district walking tour (€289)",
+      "tip": "Stay onboard for second evening to avoid crowds at Fushimi Inari at dawn"
+    },
+    {
+      "port": "Halong Bay",
+      "time_in_port": "12pm-8pm",
+      "top_activity": "Luxury junk boat overnight with kayaking (€349)",
+      "tip": "Book ship's overland to avoid tender queues and maximize bay time"
+    },
+    {
+      "port": "Ho Chi Minh City",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Cu Chi Tunnels and Mekong Delta speedboat (€219)",
+      "tip": "City centre dock eliminates lengthy transfers—explore independently"
+    },
+    {
+      "port": "Hong Kong",
+      "time_in_port": "1pm-overnight (next day 5pm)",
+      "top_activity": "Victoria Peak tram and dim sum masterclass (€199)",
+      "tip": "Evening Symphony of Lights from ship's upper decks rivals paid tours"
+    },
+    {
+      "port": "Busan",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Haedong Yonggungsa Temple and seafood market (€149)",
+      "tip": "Jagalchi Market lunch—negotiate prices and point at live selections"
+    },
+    {
+      "port": "Singapore",
+      "time_in_port": "6am-departure/overnight",
+      "top_activity": "Gardens by Bay and hawker centre food tour (€179)",
+      "tip": "Pre-cruise stay recommended; ship docks at Marina Bay cruise centre"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Japan & Asia cruise cost?",
+      "answer": "Celebrity Cruises Japan & Asia voyages range from €899 for interior cabins during September typhoon season value periods to €3,499+ for suites during peak cherry blossom sailings. Typical 12-14 night itineraries average €1,199-€1,599 inside, €1,599-€2,199 balcony, and €2,499-€3,499 for AquaClass and suites. Pricing includes most dining and entertainment, though beverages, Wi-Fi, and excursions add €400-€800 per person weekly. Solo travellers face 50-75% single supplements, though occasional reduced supplement promotions appear 6-9 months pre-departure. Always compare fare types—Elevate and Indulge packages often provide better value than adding components separately."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Japan & Asia?",
+      "answer": "Celebrity deploys Solstice-class vessels specifically chosen for Asia's diverse conditions. Celebrity Solstice leads deployment with her real grass Lawn Club and enhanced culinary venues ideal for extended voyages. Celebrity Millennium, post-2019 Revolution refurbishment, offers more intimate 2,150-guest capacity accessing smaller Japanese ports like Kochi and Beppu. Celebrity Eclipse occasionally substitutes for grand voyages. These ships feature Asia-specific programming: Silk Harvest restaurant serving regional cuisine, Mandarin-speaking concierges, and destination lecturers including historians and culinary experts. All vessels offer acupuncture, Asian-inspired spa treatments, and tai chi sessions complementing the region's wellness traditions."
+    },
+    {
+      "question": "When is best time to cruise Japan & Asia?",
+      "answer": "March through April delivers Japan's iconic cherry blossom season—peak pricing reflects extraordinary demand with blooms tracking northward from Kyushu to Hokkaido. October and November offer ideal conditions: comfortable 20-25°C temperatures, minimal rainfall, and autumn foliage rivalling spring's appeal at lower prices. Avoid June-August's intense humidity and typhoon risk, though interior pricing drops 20-30%. September presents value opportunities despite theoretical storm exposure—modern ships navigate around weather systems effectively. For Southeast Asia specifically, November-February delivers dry season perfection. Chinese New Year (January-February) creates regional booking pressure requiring 12-month advance planning."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's Japan & Asia cruises include multiple dining venues: main restaurant with regionally adapted menus, Oceanview Café buffet, and casual pool grill. Accommodations feature eXhale bedding, premium toiletries, and twice-daily service. Entertainment spans theatre productions, live music, and enrichment lectures. Fitness facilities, pool access, and basic programming carry no surcharge. Standard fares exclude beverages beyond basic coffees, teas, and juices; alcoholic drinks, specialty coffees, and bottled water require packages or à la carte payment. Gratuities are added automatically (€15-€18 daily) unless prepaid. Room service incurs €4.95 late-night fees. Shore excursions, spa services, casino play, and Wi-Fi remain additional."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Japan & Asia network encompasses 40+ ports across nine countries. Japanese highlights include Tokyo/Yokohama (overnight standard), Kyoto via Osaka (extended stays), Hiroshima's Peace Memorial, and volcanic Beppu. Korean calls feature Busan's temples and Jeju's natural wonders. Chinese destinations include Shanghai overnights and Dalian. Southeast Asian routing incorporates Singapore, Thailand's Bangkok (overnight via Laem Chabang), Vietnam's Halong Bay and Ho Chi Minh City, plus Hong Kong overnights. Select voyages reach Malaysia's Penang and Langkawi, Indonesia's Bali, and Philippines' Manila. Itineraries emphasize cultural depth over beach stops—expect 8-10 hours minimum in significant ports with multiple overnight stays per voyage enabling independent evening exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Japan & Asia bookings 9-14 months pre-departure for optimal cabin selection and early booking incentives. Cherry blossom sailings demand 12-18 month commitment due to extreme demand—balcony categories frequently sell out 10 months ahead. Wave Season (January-March) historically offers enhanced value: onboard credit, complimentary beverage packages, and reduced deposits. Last-minute availability appears 60-90 days out, primarily interior and obstructed-view cabins with limited dining times. Suite categories require immediate booking upon release; Retreat-level accommodations include butler service and exclusive restaurant access that sells rapidly. Group bookings (8+ cabins) need 12-month advance coordination for contiguous dining arrangements and excursion allocations."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity accommodates families thoughtfully though targets couples and mature travellers. Camp at Sea programming engages ages 3-17 with STEM activities, art, and regional cultural projects—Japanese voyages feature origami, calligraphy, and language basics. Teen spaces include XClub with dedicated counselors and evening social events. Family-friendly shore excursions are limited; private arrangements often suit multi-generational groups better. Connecting cabins and family veranda staterooms exist but comprise under 15% of inventory—book immediately. Dining accommodates children's preferences though no dedicated kids' menus match mainstream lines. Evening entertainment trends sophisticated; families with younger children may find limited programming after 9pm. School holiday sailings increase family presence substantially."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity's cancellation structure penalizes progressively by departure proximity. Cancellations 90+ days pre-departure incur no penalty for standard fares; non-refundable deposit fares forfeit deposit only. 89-60 days: 50% of total fare retained. 59-30 days: 75% penalty. Under 30 days: full fare forfeiture. COVID-19 protocols introduced flexible cancellation allowing credit application within 12 months for health-related cancellations with documentation. Travel insurance strongly recommended—Celebrity's own policies cover cancellation for covered reasons plus interruption, medical evacuation, and baggage protection. Cancel for Any Reason upgrades reimburse 75% in credits if purchased within 14 days of initial deposit. Suite cancellations face identical timelines though butler-arranged pre-cruise services may incur separate non-refundable charges."
+    }
+  ]
+}

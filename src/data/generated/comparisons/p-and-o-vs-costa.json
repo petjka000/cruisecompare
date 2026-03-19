@@ -1,0 +1,151 @@
+{
+  "title": "P&O Cruises vs Costa Cruises 2026",
+  "intro": "P&O Cruises and Costa Cruises represent two distinct approaches to European cruising. P&O offers a refined British experience with elegant traditions, afternoon tea, and adult-focused ambience on modern ships. Costa brings Italian flair with vibrant entertainment, family-friendly activities, and Mediterranean warmth. Both operate mid-market pricing but cater to different traveller expectations. P&O dominates UK departures from Southampton, while Costa excels in Mediterranean and Caribbean itineraries from European ports. Your choice depends on preferred atmosphere—understated British sophistication versus lively Italian hospitality—and whether travelling with children influences your decision.",
+  "at_a_glance": {
+    "p-and-o": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "costa": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 649
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "p-and-o": "€899",
+      "costa": "€649"
+    },
+    {
+      "category": "Ships",
+      "p-and-o": "7 (Iona, Arvia newest)",
+      "costa": "11 (Smeralda, Toscana newest)"
+    },
+    {
+      "category": "Passengers",
+      "p-and-o": "Primarily British",
+      "costa": "Pan-European, Italian-led"
+    },
+    {
+      "category": "Dress code",
+      "p-and-o": "Smart casual, formal nights",
+      "costa": "Resort casual, relaxed"
+    },
+    {
+      "category": "Dining",
+      "p-and-o": "British-influenced, afternoon tea",
+      "costa": "Italian-focused, pizza/pasta daily"
+    },
+    {
+      "category": "Entertainment",
+      "p-and-o": "West End-style shows, live music",
+      "costa": "High-energy productions, parties"
+    },
+    {
+      "category": "Kids facilities",
+      "p-and-o": "Good (4-17, limited on adult ships)",
+      "costa": "Excellent (0-17, strong programmes)"
+    },
+    {
+      "category": "Language",
+      "p-and-o": "English only",
+      "costa": "Multi-language (Italian/English/German/French)"
+    },
+    {
+      "category": "Gratuities",
+      "p-and-o": "Included in fare",
+      "costa": "€11-12/day added"
+    },
+    {
+      "category": "Drinks packages",
+      "p-and-o": "£40-55/day",
+      "costa": "€35-50/day"
+    },
+    {
+      "category": "Home ports",
+      "p-and-o": "Southampton, Caribbean fly-cruise",
+      "costa": "Barcelona, Rome, Savona, Marseille"
+    },
+    {
+      "category": "WiFi",
+      "p-and-o": "£18-24/day",
+      "costa": "€15-20/day"
+    },
+    {
+      "category": "Adult-only option",
+      "p-and-o": "Yes (Arcadia, Aurora)",
+      "costa": "No"
+    }
+  ],
+  "choose_a_if": [
+    "You prefer British cultural touches, afternoon tea, and English-speaking fellow passengers",
+    "You want adult-only cruising options or quieter, more refined ship atmosphere",
+    "You appreciate included gratuities and straightforward pricing without hidden extras",
+    "You enjoy traditional cruise formalities with gala nights and dress codes"
+  ],
+  "choose_b_if": [
+    "You're travelling with children and want extensive kids' clubs and family activities",
+    "You prefer lively, high-energy entertainment and late-night parties",
+    "You want authentic Italian cuisine with excellent pizza, pasta, and espresso",
+    "You're comfortable with multilingual announcements and diverse European passengers"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Costa Cruises",
+      "reason": "Superior kids' facilities across all ships, dedicated 0-3 nurseries, strong teen programmes, and Italian family-friendly culture make Costa the clear choice for multi-generational holidays."
+    },
+    {
+      "type": "Couples",
+      "winner": "P&O Cruises",
+      "reason": "Adult-only ships Arcadia and Aurora offer peaceful sophistication, while the main fleet provides refined romance without overwhelming family noise."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "P&O Cruises",
+      "reason": "Single cabins on Iona and Arvia, British social atmosphere, and included gratuities create welcoming environment without language barriers."
+    },
+    {
+      "type": "Food enthusiasts",
+      "winner": "Costa Cruises",
+      "reason": "Authentic Italian gastronomy, dedicated pizzerias, gelato bars, and regional specialities surpass P&O's competent but unremarkable British-influenced cuisine."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "P&O Cruises",
+      "reason": "English-only environment, familiar cultural references, and transparent pricing reduce anxiety for newcomers uncertain about cruise conventions."
+    },
+    {
+      "type": "Budget-conscious",
+      "winner": "Costa Cruises",
+      "reason": "Lower base fares, frequent Mediterranean short cruises, and competitive promotions offer better value despite added gratuities."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Costa Cruises generally offers superior base value with 7-night Mediterranean inside cabins starting around €649 versus P&O's €899 from Southampton. However, value assessment depends on inclusions: P&O bundles gratuities (saving €80-100 weekly) and provides British-preferenced amenities. Costa's lower headline price accumulates extras—gratuities at €11-12 daily, drinks, excursions, and specialty dining. For families, Costa's included kids' programmes and frequent discounts make it unbeatable. For couples preferring included conveniences, P&O's transparent pricing often proves cheaper overall. Short Mediterranean hops favour Costa; fly-cruise Caribbean comparisons show narrower gaps."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Costa Cruises decisively wins for families. Their Squok Club accommodates babies from 6 months with dedicated nursery spaces—rare in cruising—while P&O's minimum age is 6 months with limited nursery options. Costa's ships feature water parks, rope courses, and dedicated family cabins sleeping five. Teen zones include discos and supervised activities until midnight. P&O offers solid kids' programmes but restricts Arcadia and Aurora to adults-only, and family facilities vary significantly by ship. Costa's Italian culture embraces multi-generational dining and flexible mealtimes, whereas P&O enforces fixed dining that may frustrate families with young children."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Costa Cruises undercuts P&O by approximately 25-30% on comparable 7-night itineraries. A Mediterranean inside cabin averages €649 with Costa versus €899 with P&O. However, pricing structures differ critically: P&O includes gratuities (€80-100 value), while Costa adds €11-12 daily. P&O's Southampton departures eliminate flight costs for UK travellers, potentially offsetting higher cruise fares. Costa's Mediterranean positioning requires flights for British passengers. Drinks packages run €35-50 daily with Costa versus £40-55 with P&O. Shore excursions and WiFi pricing aligns closely. Ultimately, Costa suits budget-focused flyers; P&O rewards convenience-preferring UK residents when total holiday costs are calculated."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Costa Cruises delivers superior culinary experiences through authentic Italian foundations. Their dedicated pizzerias produce genuine Neapolitan-style pizzas; pasta stations offer fresh daily preparations; gelato bars serve artisanal flavours. The main dining rooms feature regional Italian specialities alongside international options. P&O's food is competent and generously portioned but uninspired—British comfort cuisine with limited international range. Speciality dining on Costa (Archipelago by Bruno Barbieri) outshines P&O's equivalent options. However, P&O excels at traditional afternoon tea and accommodates British dietary preferences more intuitively. Vegetarians and allergy sufferers find P&O more responsive. For pure gastronomic pleasure, Costa prevails; for familiar comfort, P&O satisfies."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "P&O Cruises suits nervous first-timers through cultural familiarity. English-only announcements, British currency onboard, familiar food options, and Southampton departures eliminate travel anxieties. The included gratuities prevent bill-shock surprises common with Costa. P&O's dress codes and dining traditions introduce cruise conventions gradually without overwhelming multi-national complexity. Conversely, Costa suits adventurous beginners seeking Mediterranean immersion at lower cost. Their informal atmosphere requires no wardrobe investment, and shorter European itineraries allow trial cruising. However, multilingual environments, added service charges, and Italian-led scheduling confuse some newcomers. Recommend P&O for cautious British first-timers; Costa for confident Europeans or experienced travellers seeking casual introduction."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Cultural identity defines the fundamental divergence: P&O embodies restrained British cruising heritage with afternoon tea, formal nights, and adult-oriented sophistication; Costa represents exuberant Italian maritime tradition with late dinners, vibrant parties, and family-centric energy. Operationally, P&O sails exclusively from Southampton and Caribbean fly-cruise ports with English-only service; Costa operates from Mediterranean homeports with multilingual crews and pan-European passengers. P&O includes gratuities and maintains stricter dress codes; Costa adds service charges and embraces resort casual attire. P&O offers adult-only ships; Costa provides superior children's facilities fleetwide. Food philosophies differ—British comfort versus Italian authenticity. P&O targets familiarity; Costa pursues Mediterranean immersion at accessible prices."
+    }
+  ]
+}

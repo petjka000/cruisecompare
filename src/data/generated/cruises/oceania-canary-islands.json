@@ -1,0 +1,210 @@
+{
+  "title": "Oceania Cruises Canary Islands Cruises 2026",
+  "intro": "Oceania Cruises elevates Canary Islands exploration through its signature blend of destination immersion and refined luxury. Known as 'The Finest Cuisine at Sea,' this premium line positions smaller, more intimate vessels to access ports larger ships cannot reach, including Santa Cruz de La Palma and Arrecife. Oceania's extended evening stays and overnight calls in Las Palmas and Santa Cruz de Tenerife allow guests to experience authentic Canarian culture beyond typical cruise schedules. The culinary programme showcases regional specialities like papas arrugadas with mojo sauce and local wines from Tenerife and Lanzarote. With country-intensive voyages and comprehensive shore excursion collections, Oceania transforms Canary Islands cruising from a winter escape into a sophisticated cultural journey, appealing to discerning travellers who prioritise gastronomy, enrichment, and genuine destination connection over mass-market entertainment.",
+  "quick_facts": {
+    "price_from_eur": 2499,
+    "duration_range": "10-24 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Marina",
+      "Riviera",
+      "Insignia"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon",
+      "Southampton",
+      "Miami"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Oct-Nov, Apr)",
+      "inside_eur": 2499,
+      "balcony_eur": 3299,
+      "suite_eur": 5499
+    },
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 2899,
+      "balcony_eur": 3899,
+      "suite_eur": 6499
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 3499,
+      "balcony_eur": 4699,
+      "suite_eur": 7999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Canary Islands & Morocco Discovery",
+      "duration_nights": 12,
+      "ports": [
+        "Barcelona",
+        "Alicante",
+        "Málaga",
+        "Casablanca",
+        "Arrecife",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Funchal",
+        "Lisbon"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Overnight in Las Palmas with exclusive paella workshop"
+    },
+    {
+      "name": "Atlantic Isles & Iberia",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Vigo",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Arrecife",
+        "Agadir",
+        "Cádiz",
+        "Málaga",
+        "Barcelona"
+      ],
+      "price_from_eur": 3199,
+      "highlight": "Rare call at La Palma with volcano hiking excursion"
+    },
+    {
+      "name": "Transatlantic Canaries Crossing",
+      "duration_nights": 16,
+      "ports": [
+        "Miami",
+        "Ponta Delgada",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Arrecife",
+        "Cádiz",
+        "Lisbon"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Exceptional value repositioning with six sea days"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Culinary enthusiasts",
+      "price_from_eur": 2699
+    },
+    {
+      "name": "Riviera",
+      "capacity": 1250,
+      "year": 2012,
+      "best_for": "Wine connoisseurs",
+      "price_from_eur": 2699
+    },
+    {
+      "name": "Insignia",
+      "capacity": 670,
+      "year": 1998,
+      "refurbished": 2018,
+      "best_for": "Intimate destination focus",
+      "price_from_eur": 2499
+    }
+  ],
+  "whats_included": [
+    "All meals in multiple dining venues including specialty restaurants",
+    "Unlimited soft drinks, bottled water, specialty coffees and teas",
+    "Unlimited WiFi",
+    "Airport transfers",
+    "Shore excursions (one free per port on select bookings)",
+    "Gratuities",
+    "Room service 24 hours",
+    "Fitness centre access",
+    "Enrichment lectures and cooking demonstrations"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages (beverage packages available from €59/day)",
+    "Additional shore excursions (€89-€349 per person)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Premium internet streaming",
+    "Casino gaming",
+    "Photography services",
+    "Medical centre services"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for best cabin selection and early booking savings of up to 25%. Oceania's OLife Choice promotion typically includes free shore excursions, beverage package, or onboard credit—select based on itinerary port intensity. Repositioning crossings offer exceptional value under €200/night. Consider back-to-back bookings for comprehensive Canary Islands coverage.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-11pm",
+      "top_activity": "Teide National Park sunset excursion (€189)",
+      "tip": "Pre-book Teide cable car—sells out weeks ahead"
+    },
+    {
+      "port": "Las Palmas de Gran Canaria",
+      "time_in_port": "7am-10pm (overnight on select voyages)",
+      "top_activity": "Vega de San Mateo market with cooking class (€149)",
+      "tip": "Vegueta old town walkable from pier—no shuttle needed"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Timanfaya National Park fire mountains (€129)",
+      "tip": "Morning tours avoid coach congestion—book first departure"
+    },
+    {
+      "port": "Santa Cruz de La Palma",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Caldera de Taburiente hiking (€169)",
+      "tip": "Limited large ship access—Oceania's smaller vessels advantage"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan wicker sledge and botanical garden (€119)",
+      "tip": "Cable car queues form by 10am—disembark early"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Canary Islands cruise cost?",
+      "answer": "Oceania Cruises Canary Islands voyages typically range from €2,499 to €7,999 per person based on double occupancy. Entry-level inside cabins on repositioning crossings start around €2,499 for 16 nights, while peak season balcony accommodations average €3,899. Penthouse suites and above command €5,499-€7,999. The line's OLife Choice promotion significantly enhances value by including choice of free shore excursions, House Select beverage package, or onboard credit. Unlike premium competitors, Oceania includes gratuities, specialty dining, and unlimited WiFi, making true comparison pricing favourable despite higher base fares."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Canary Islands?",
+      "answer": "Oceania deploys its 1,250-guest Marina and Riviera sister ships for dedicated Canary Islands itineraries, offering the line's full culinary programme including Jacques Pépin's namesake restaurant and hands-on cooking classes at the Culinary Center. The more intimate 670-guest Insignia handles select repositioning crossings and smaller-port intensive voyages, accessing La Palma where larger vessels cannot dock. All three vessels feature the Canyon Ranch SpaClub and extensive wine programmes. Marina and Riviera's larger size supports additional specialty venues including Red Ginger and Toscana, while Insignia's compact dimensions enable extended evening stays and authentic local engagement in smaller Canarian ports."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "November through March constitutes optimal Canary Islands cruising season, when temperatures remain 18-24°C and rainfall is minimal. December and January deliver reliable winter sun with sea temperatures suitable for coastal excursions. February and March offer ideal conditions for hiking Teide and Timanfaya national parks before summer heat. Oceania schedules its most comprehensive itineraries during these months, including Christmas and New Year departures with enhanced onboard programming. April shoulder season provides excellent value with diminishing crowds, though Atlantic swells occasionally affect tender ports. Oceania's extended evening and overnight calls maximise daylight hours during shorter winter days, a significant advantage over lines with abbreviated port schedules."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Canary Islands cruises include substantially more than premium competitors: all meals across multiple dining venues including Jacques, Red Ginger, and Polo Grill specialty restaurants with no cover charges; unlimited soft drinks, bottled water, specialty coffees and teas; unlimited WiFi throughout the ship; airport transfers; one complimentary shore excursion per port on OLife Choice bookings; prepaid gratuities for housekeeping and dining staff; 24-hour room service from full menus; fitness centre and group classes; and comprehensive enrichment programming including destination lectures and culinary demonstrations. Beverages, additional excursions, spa services, and premium internet streaming incur extra charges. This inclusive structure particularly benefits Canary Islands itineraries with frequent port calls where excursion costs accumulate rapidly on less inclusive lines."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Canary Islands itineraries feature Santa Cruz de Tenerife with extended evening stays for Teide National Park exploration; Las Palmas de Gran Canaria offering overnight calls enabling complete old town immersion and mountain village visits; Arrecife, Lanzarote for Timanfaya's volcanic landscapes and César Manrique architecture; and Santa Cruz de La Palma, accessible only to smaller vessels like Insignia for Caldera de Taburiente hiking. Most voyages incorporate Funchal, Madeira for botanical gardens and toboggan rides. Extended Atlantic itineraries add Agadir or Casablanca for Moroccan contrast. Barcelona, Lisbon, and Southampton serve as primary embarkation points, with select repositioning crossings from Miami. Oceania's smaller ship advantage enables calls at La Palma unavailable to mass-market competitors."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Oceania Canary Islands reservations 9-14 months in advance for optimal stateroom selection and promotional pricing. The line releases itineraries approximately 18 months ahead, with early booking savings reaching 25% through OLife Choice promotions. Penthouse suites and above sell fastest given limited inventory on 1,250-guest vessels. December holiday departures require 12-14 month lead times for preferred accommodations. Last-minute availability occasionally emerges 60-90 days prior for flexible travellers, though cabin categories and dining reservations become restricted. Wave season (January-March) brings enhanced promotions for subsequent winter's Canary Islands sailings. Deposit requirements run €500-€1,000 per person with final payment due 90-150 days before departure depending on voyage length and category."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises targets sophisticated adult travellers rather than families, with no dedicated children's facilities, youth programmes, or babysitting services aboard Marina, Riviera, or Insignia. The Canary Islands itineraries particularly suit culinary-focused couples, solo travellers, and multigenerational adult groups seeking destination immersion over entertainment programming. Teenagers comfortable in adult environments may appreciate the Culinary Center's hands-on cooking classes and extensive shore excursion options including volcano hiking and watersports. Families with young children should consider premium competitors offering dedicated kids' clubs and family accommodations. Oceania's smaller scale, refined atmosphere, and enrichment focus create exceptional Canary Islands experiences for travellers prioritising gastronomy, culture, and authentic local engagement without children's programming distractions."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania Cruises applies graduated cancellation penalties based on voyage duration and timing. For standard itineraries under 30 days, cancellations 151+ days prior incur no penalty; 150-91 days forfeit deposit; 90-76 days lose 25% of fare; 75-61 days forfeit 50%; 60-31 days lose 75%; and 30 days or less retain 100% with no refund. Extended voyages over 30 days impose stricter terms: penalties begin 180 days prior. Oceania strongly recommends comprehensive travel insurance covering cancellation, medical evacuation, and trip interruption, particularly for Canary Islands itineraries involving multiple flight sectors and pre/post land arrangements. The line's CruiseCare protection plan, available at booking, provides cancel-for-any-reason coverage up to 75% of non-refundable amounts when purchased within 14 days of initial deposit."
+    }
+  ]
+}

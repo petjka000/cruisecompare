@@ -1,0 +1,194 @@
+{
+  "title": "Regent Seven Seas Africa & Canaries Cruises 2026",
+  "intro": "Regent Seven Seas Cruises redefines ultra-luxury exploration of Africa and the Canary Islands through its all-inclusive, all-suite fleet. Sail aboard intimate vessels carrying no more than 750 guests to discover Morocco's imperial cities, Senegal's vibrant markets, and Tenerife's volcanic landscapes. Every journey includes unlimited shore excursions, from private safaris in Casablanca to wine tastings in Lanzarote. The line's smaller ships access ports unavailable to larger vessels, including exotic calls at Banjul, The Gambia and Mindelo, Cape Verde. With round-trip business class air, pre-cruise hotel stays, and gratuities included, Regent eliminates the complexity of African travel while delivering uncompromising comfort. Gourmet dining rivals land-based Michelin establishments, and the Canyon Ranch spa provides sanctuary after days exploring ancient medinas and dramatic Atlantic coastlines.",
+  "quick_facts": {
+    "price_from_eur": 5699,
+    "duration_range": "10-24 nights",
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Mar",
+      "Apr"
+    ],
+    "ships_on_route": [
+      "Seven Seas Voyager",
+      "Seven Seas Navigator"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon",
+      "Cape Town"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Oct-Nov)",
+      "inside_eur": 0,
+      "balcony_eur": 5699,
+      "suite_eur": 7899
+    },
+    {
+      "season": "Peak (Mar-Apr)",
+      "inside_eur": 0,
+      "balcony_eur": 6899,
+      "suite_eur": 9899
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 0,
+      "balcony_eur": 7499,
+      "suite_eur": 11299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Agadir",
+        "Casablanca",
+        "Tangier",
+        "Barcelona"
+      ],
+      "price_from_eur": 6899,
+      "highlight": "Overnight in Casablanca with included excursion to Marrakech"
+    },
+    {
+      "name": "12-night West Africa Discovery",
+      "duration_nights": 12,
+      "ports": [
+        "Dakar",
+        "Banjul",
+        "Praia",
+        "Mindelo",
+        "Las Palmas",
+        "Arrecife"
+      ],
+      "price_from_eur": 5699,
+      "highlight": "Rare calls in The Gambia and Cape Verde with cultural immersion programs"
+    },
+    {
+      "name": "24-night Grand Africa Voyage",
+      "duration_nights": 24,
+      "ports": [
+        "Cape Town",
+        "Luderitz",
+        "Walvis Bay",
+        "Luanda",
+        "Sao Tome",
+        "Banjul",
+        "Dakar",
+        "Lisbon"
+      ],
+      "price_from_eur": 12499,
+      "highlight": "Comprehensive southern and western Africa with multiple overnights"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Voyager",
+      "capacity": 698,
+      "year": 2003,
+      "best_for": "Cultured couples and solo travelers seeking immersive destination focus",
+      "price_from_eur": 5899
+    },
+    {
+      "name": "Seven Seas Navigator",
+      "capacity": 490,
+      "year": 1999,
+      "best_for": "Intimate luxury experience with highest staff-to-guest ratio in fleet",
+      "price_from_eur": 5699
+    }
+  ],
+  "whats_included": [
+    "Round-trip business class air",
+    "All-suite accommodation with private balcony",
+    "Unlimited shore excursions",
+    "All meals including specialty restaurants",
+    "Premium wines and spirits",
+    "Gratuities",
+    "Pre-cruise hotel night",
+    "Unlimited WiFi",
+    "Laundry service",
+    "Airport transfers"
+  ],
+  "whats_extra": [
+    "Spa treatments at Canyon Ranch",
+    "Premium shore excursion upgrades",
+    "Boutique purchases",
+    "Casino gaming",
+    "Photography services",
+    "Premium caviar and wines by the bottle"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best suite selection and early booking savings up to 25%. Regent's inclusive pricing means fewer last-minute deals, though occasional solo traveler waivers appear 90 days out. Consider back-to-back segments for extended exploration.",
+  "top_ports": [
+    {
+      "port": "Casablanca",
+      "time_in_port": "7am-6pm next day",
+      "top_activity": "Marrakech overnight excursion with riad dinner (included)",
+      "tip": "Request balcony port side for Hassan II Mosque sunrise views"
+    },
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Teide National Park cable car and wine tasting (included)",
+      "tip": "Altitude affects some visitors; stay hydrated"
+    },
+    {
+      "port": "Dakar",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Goree Island historical tour (included)",
+      "tip": "Bargain respectfully at Kermel Market for local crafts"
+    },
+    {
+      "port": "Funchal",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan ride and botanical gardens (included)",
+      "tip": "Morning fog clears by 10am for best photos"
+    },
+    {
+      "port": "Tangier",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Medina walking tour with mint tea ceremony (included)",
+      "tip": "Ship-arranged guides navigate aggressive street vendors effectively"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Africa & Canaries cruise cost?",
+      "answer": "Regent Seven Seas Africa and Canaries cruises start from approximately €5,699 per person for 10-12 night voyages in shoulder season, rising to €6,899-€7,499 during peak months of March-April and December holidays. The 24-night Grand Africa Voyage commands €12,499+. Unlike mainstream lines, Regent's pricing is nearly all-inclusive: business class flights, unlimited shore excursions, all beverages, gratuities, and pre-cruise hotels are bundled. The apparent premium over mass-market lines typically equals or beats total vacation cost when comparing equivalent inclusions. Suite categories range from Veranda Suites to the 412-square-meter Regent Suite with private car and guide in every port."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Africa & Canaries?",
+      "answer": "Regent deploys Seven Seas Voyager and Seven Seas Navigator for Africa and Canary Islands itineraries. Seven Seas Voyager, refurbished in 2024, carries 698 guests in all-suite, all-balcony accommodation with four dining venues including the acclaimed Prime 7 steakhouse. Seven Seas Navigator, the fleet's most intimate vessel at 490 guests, offers the highest space-to-guest ratio and most personalized service. Both ships feature Canyon Ranch spa facilities, destination-focused enrichment programming, and complimentary unlimited shore excursions. Their smaller size enables calls at boutique ports like Banjul, The Gambia and Mindelo, Cape Verde inaccessible to larger vessels. Neither Seven Seas Explorer nor Seven Seas Splendor currently operate this route."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "October through November and March through April offer optimal conditions for Africa and Canary Islands cruising. Autumn voyages enjoy warm, dry weather in Morocco and the Canaries with temperatures 22-26°C, while spring brings wildflower blooms in Madeira and comfortable exploration conditions. December through February remains viable though Atlantic crossings can encounter rougher seas; this period suits travelers prioritizing holiday itineraries. Avoid June through September when Saharan dust affects visibility and West African humidity peaks. The Canary Islands maintain pleasant year-round temperatures, but North African ports become uncomfortably hot in summer. Regent schedules most departures during these shoulder seasons to align with ideal conditions for included excursions like desert treks and medina walking tours."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent Seven Seas delivers the industry's most comprehensive all-inclusive experience. Every Africa and Canaries cruise includes round-trip business class air from major European gateways, one pre-cruise hotel night, and all airport transfers. Aboard, all-suite accommodation with private balconies, all meals across multiple dining venues including specialty restaurants Prime 7 and Chartreuse, and unlimited premium wines and spirits are covered. The unlimited shore excursion program encompasses guided tours in every port—from Marrakech day trips to Goree Island historical visits—though premium options like private vehicle charters carry surcharges. Gratuities, unlimited WiFi, valet laundry, and basic self-service beverages in-suite complete the package. Only spa treatments, casino gaming, boutique purchases, and ultra-premium wines by the bottle require additional payment."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent's Africa and Canaries itineraries span iconic and emerging destinations. Canary Islands calls include Santa Cruz de Tenerife for Teide National Park, Las Palmas for historic Vegueta district, and Arrecife for Lanzarote's volcanic landscapes. Moroccan ports feature Casablanca with overnight stays enabling Marrakech excursions, Tangier for medina immersion, and Agadir for souk experiences. West African itineraries reach Dakar for Goree Island, Banjul for rare Gambia River access, and Cape Verde's Mindelo and Praia for Creole culture. Select voyages continue to Cape Town, Walvis Bay for Namibian desert encounters, and Luderitz for German colonial architecture. Each itinerary balances marquee destinations with intimate ports where Regent's smaller ships and included excursions provide authentic cultural access impossible for larger vessels or independent travelers."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Regent Seven Seas Africa and Canaries cruises 12-18 months in advance for optimal suite selection and pricing. The line's early booking bonus typically saves 10-25% off brochure rates, with highest discounts for longest advance commitments. Popular categories like Penthouse Suites and above sell out 9-12 months ahead, particularly for March-April and December holiday departures. Waitlist options exist but rarely clear for peak season. Regent releases itineraries approximately 18-24 months in advance. Last-minute availability occasionally appears 60-90 days out, sometimes with waived single supplements, though suite location and category choice become severely limited. Travel advisors with Regent Circle status can access pre-release inventory and exclusive amenities worth €300-€500 per booking."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas accommodates families with children aged 12 and above most effectively, though the Africa and Canaries itinerary particularly suits mature travelers and multigenerational groups with teenage or adult children. The line offers no dedicated children's facilities, kids' clubs, or pediatric programming—distinctly different from family-focused competitors. However, families appreciate the all-inclusive convenience: no surprise costs, flexible dining, and spacious suites that accommodate third and fourth guests in select categories. Shore excursions engage curious adolescents with historical and cultural depth unavailable in mainstream programming. The 12+ age recommendation reflects sophisticated destination focus and formal evenings rather than exclusion. For families prioritizing educational travel and shared experiences over waterslides and character breakfasts, Regent delivers exceptional value and minimal logistical friction in complex African destinations."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas applies a graduated cancellation schedule: full refund minus €150 administrative fee for cancellations 151+ days before sailing; deposit forfeiture (typically 20% of cruise fare) for cancellations 150-121 days out; 40% penalty for 120-91 days; 60% for 90-61 days; 80% for 60-31 days; and 100% forfeiture within 30 days of departure. The line strongly recommends comprehensive travel insurance covering cancellation for any reason, available as upgrade within 21 days of initial deposit. COVID-19 protocols remain flexible with full credits for positive tests within 10 days of sailing. Cancel for Any Reason protection, available for purchase, provides future cruise credits worth 75-90% of non-refundable amounts depending on timing. Rebooking to alternative sailings within 12 months often minimizes penalties compared to outright cancellation."
+    }
+  ]
+}

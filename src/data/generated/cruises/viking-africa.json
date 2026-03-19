@@ -1,0 +1,217 @@
+{
+  "title": "Viking Cruises Africa & Canaries Cruises 2026",
+  "intro": "Viking Cruises brings its signature understated elegance to the Africa & Canaries region with intimate, destination-focused voyages aboard small expedition and ocean vessels. Unlike mass-market operators, Viking emphasizes cultural immersion over onboard spectacle, with included shore excursions led by local guides and enrichment lectures from historians and naturalists. The Africa & Canaries itineraries blend the volcanic landscapes of Tenerife and Lanzarote with rare West African calls at Dakar, Banjul, and Lomé, plus expedition-style landings in Cape Verde. With just 930 guests on ocean ships and 378 on expedition vessels, these sailings access smaller ports impossible for larger ships. The Nordic-inspired design, all-veranda staterooms, and inclusive pricing structure—covering virtually everything except premium spirits—make this the sophisticated choice for culturally curious travellers seeking meaningful connection with this diverse region.",
+  "quick_facts": {
+    "price_from_eur": 4290,
+    "duration_range": "11-21 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Viking Mars",
+      "Viking Neptune",
+      "Viking Polaris",
+      "Viking Octantis"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon",
+      "Las Palmas",
+      "Cape Town"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov-Mar excluding holidays)",
+      "inside_eur": 0,
+      "balcony_eur": 4290,
+      "suite_eur": 6890
+    },
+    {
+      "season": "Peak (Christmas/New Year)",
+      "inside_eur": 0,
+      "balcony_eur": 5890,
+      "suite_eur": 9490
+    },
+    {
+      "season": "Expedition West Africa",
+      "inside_eur": 0,
+      "balcony_eur": 7890,
+      "suite_eur": 12490
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Canary Islands & Madeira",
+      "duration_nights": 11,
+      "ports": [
+        "Barcelona",
+        "Cartagena",
+        "Málaga",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Arrecife",
+        "Las Palmas"
+      ],
+      "price_from_eur": 4290,
+      "highlight": "Perfect introduction to Atlantic archipelagos with three distinct Canary islands"
+    },
+    {
+      "name": "West African Explorer",
+      "duration_nights": 21,
+      "ports": [
+        "Lisbon",
+        "Porto Santo",
+        "Santa Cruz de Tenerife",
+        "Dakar",
+        "Banjul",
+        "Abidjan",
+        "Takoradi",
+        "Lomé",
+        "São Tomé",
+        "Luanda",
+        "Walvis Bay",
+        "Cape Town"
+      ],
+      "price_from_eur": 7890,
+      "highlight": "Rare expedition itinerary accessing six West African nations with Zodiac landings"
+    },
+    {
+      "name": "Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Las Palmas",
+        "Santa Cruz de La Palma",
+        "Arrecife",
+        "Agadir",
+        "Casablanca",
+        "Tangier",
+        "Gibraltar",
+        "Málaga"
+      ],
+      "price_from_eur": 5290,
+      "highlight": "Combines volcanic landscapes with imperial Moroccan cities and British Gibraltar"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Mars",
+      "capacity": 930,
+      "year": 2022,
+      "best_for": "Culturally curious couples and solo travellers",
+      "price_from_eur": 4290
+    },
+    {
+      "name": "Viking Neptune",
+      "capacity": 930,
+      "year": 2022,
+      "best_for": "Destination-focused travellers preferring ocean vessel comfort",
+      "price_from_eur": 4290
+    },
+    {
+      "name": "Viking Polaris",
+      "capacity": 378,
+      "year": 2022,
+      "best_for": "Expedition enthusiasts seeking West Africa access",
+      "price_from_eur": 7890
+    },
+    {
+      "name": "Viking Octantis",
+      "capacity": 378,
+      "year": 2022,
+      "best_for": "Adventure travellers wanting Zodiac excursions and onboard scientific facilities",
+      "price_from_eur": 7890
+    }
+  ],
+  "whats_included": [
+    "All meals including specialty restaurants",
+    "Beer, wine and soft drinks with lunch and dinner",
+    "One included shore excursion per port",
+    "WiFi",
+    "Laundry",
+    "Gratuities",
+    "24-hour room service",
+    "Enrichment lectures and destination performances",
+    "Airport transfers on embarkation/disembarkation days"
+  ],
+  "whats_extra": [
+    "Premium spirits and cocktails beyond lunch/dinner",
+    "Spa treatments and salon services",
+    "Additional shore excursions beyond the included option",
+    "Premium wines by the glass or bottle",
+    "Laundry valet service",
+    "Pre- and post-cruise extensions",
+    "Business class airfare upgrades"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best veranda stateroom selection and early booking savings of 10-15%; expedition itineraries to West Africa sell out 18+ months in advance due to limited departures",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Teide National Park cable car ascent (€45)",
+      "tip": "Pre-book Teide access permits 60 days ahead; morning departures avoid afternoon cloud cover"
+    },
+    {
+      "port": "Dakar",
+      "time_in_port": "6am-6pm",
+      "top_activity": "Gorée Island UNESCO site with Maison des Esclaves (included excursion)",
+      "tip": "Viking includes this emotional but essential visit; afternoon independent exploration of Plateau district recommended"
+    },
+    {
+      "port": "Las Palmas",
+      "time_in_port": "7am-11pm",
+      "top_activity": "Vegueta historic quarter and Casa de Colón (€15 self-guided)",
+      "tip": "Evening departure allows beach time at Playa de Las Canteras post-excursion"
+    },
+    {
+      "port": "Funchal",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Monte toboggan ride and tropical gardens (€35)",
+      "tip": "Cable car to Monte operates independently of cruise line; combine with included walking tour for optimal day"
+    },
+    {
+      "port": "Walvis Bay",
+      "time_in_port": "6am-2pm",
+      "top_activity": "Living Desert 4x4 expedition with dune boarding (€189)",
+      "tip": "Morning wildlife optimal; book Viking's premium excursion for guaranteed flamingo and seal colonies access"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Africa & Canaries cruise cost?",
+      "answer": "Viking Cruises Africa & Canaries voyages start from €4,290 per person for 11-night ocean itineraries in a veranda stateroom, with no inside cabins available. Premium expedition sailings to West Africa begin at €7,890 for 21 nights. Suites range from €6,890 to €12,490 depending on itinerary length and season. Christmas and New Year departures command 25-35% premiums. Viking's value proposition lies in comprehensive inclusion—meals, drinks, excursions, WiFi, and gratuities—meaning total vacation cost often undercuts seemingly cheaper competitors once onboard spending is calculated. Solo travellers pay 150-200% supplement, though occasional no-single-supplement promotions appear."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Africa & Canaries?",
+      "answer": "Viking deploys both ocean and expedition vessels to Africa & Canaries. The 930-guest sister ships Viking Mars and Viking Neptune handle traditional Canary Islands and Morocco itineraries from Barcelona and Lisbon, offering all-veranda accommodation and Scandinavian design. For West African expedition voyages, the 378-guest polar-class vessels Viking Polaris and Viking Octantis operate with ice-strengthened hulls, Zodiac fleets, and onboard scientific laboratories. These smaller ships access shallow West African ports and landing sites impossible for larger vessels. All four ships feature the Nordic Spa, infinity pool, and LivNordic wellness philosophy, though expedition vessels emphasize active exploration with kayaks and submersibles."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "November through March offers optimal conditions for Viking's Africa & Canaries itineraries. The Canary Islands enjoy spring-like temperatures of 20-24°C with minimal rainfall, ideal for hiking volcanic terrain and coastal exploration. West African expedition routes benefit from dry season conditions—lower humidity, reduced malaria risk, and calmer seas for Zodiac operations. December and January provide excellent wildlife viewing at Walvis Bay's flamingo colonies and seal reserves. Avoid April through October when Saharan dust (calima) can affect Canary visibility, and West Africa's wet season brings challenging conditions. Viking schedules no departures June-October, concentrating sailings in the European winter escape window."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's Africa & Canaries cruises include substantially more than competitors: all meals across multiple restaurants including specialty venues like Manfredi's Italian and The Chef's Table; beer, wine and soft drinks with lunch and dinner; one comprehensive shore excursion per port with local guide; unlimited WiFi; self-service laundry; all gratuities; 24-hour room service; enrichment programming including destination lectures, resident historians, and cultural performances; and airport transfers on embarkation and disembarkation days. Expedition voyages additionally include all Zodiac excursions, kayaking, and use of expedition equipment. Notable exclusions are premium spirits beyond meal times, spa treatments, and additional excursions beyond the daily included option—though the base inclusion satisfies most guests."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking's Africa & Canaries network spans distinctive Atlantic destinations. Canary Islands calls include Santa Cruz de Tenerife for Mount Teide, Arrecife in Lanzarote for volcanic vineyards, Las Palmas for Gran Canaria's diverse microclimates, and Santa Cruz de La Palma for UNESCO-listed colonial architecture. Moroccan ports feature Casablanca, Tangier, and Agadir. West African expedition routes reach Dakar (Senegal), Banjul (Gambia), Abidjan (Ivory Coast), Takoradi (Ghana), Lomé (Togo), and São Tomé. Southern African extensions include Walvis Bay (Namibia) and Cape Town. Cape Verde's Porto Santo and São Vicente appear on select itineraries. Each port features Viking's included excursion plus 2-4 premium alternatives."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Viking Africa & Canaries cruises 12-18 months before departure for optimal stateroom selection and early booking incentives. Ocean itineraries to Canary Islands and Morocco typically release 18 months ahead with 10-15% savings for advance purchase. The limited West African expedition voyages—often just 2-3 departures annually—frequently sell out 18-24 months in advance due to extreme scarcity and repeat Viking guest demand. Veranda staterooms on higher decks with forward positioning command premiums and disappear first. Solo travellers should book immediately when no-single-supplement promotions appear, typically 9-12 months out. Final payment due 90 days before sailing; cancellations 120+ days ahead incur minimal penalties."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Cruises maintains an adults-only policy—no guests under 18 permitted—making Africa & Canaries itineraries unsuitable for families with children. This deliberate positioning creates a serene, culturally focused environment where enrichment programming, lecture schedules, and dining venues cater exclusively to adult preferences and attention spans. The demographic skews 55-75 with significant representation of retired academics, former educators, and lifelong learners seeking substantive destination engagement rather than entertainment spectacle. Families seeking African cruise experiences should consider alternative lines; adults without children will appreciate Viking's uninterrupted sophistication, quiet public spaces, and conversation-focused dining where fellow guests share intellectual curiosity about West African history, Canary geology, and Atlantic exploration heritage."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's cancellation structure for Africa & Canaries cruises penalizes later withdrawals progressively: 121+ days before departure forfeits €200 per person administrative fee; 120-90 days loses 15% of cruise fare; 89-60 days forfeits 35%; 59-30 days loses 50%; 29-15 days forfeits 75%; and 14 days or less loses 100% with no refund. Travel insurance is strongly recommended given substantial advance payment requirements and lengthy booking windows. Viking's own protection plan covers cancellation for covered reasons plus interruption, medical evacuation, and baggage protection. COVID-19 protocols have relaxed but booking with refundable airfare and flexible pre-cruise hotel arrangements remains prudent for complex West African itineraries where political developments or health situations could affect port access."
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "title": "Costa Cruises Mediterranean Cruises 2026",
+  "intro": "Costa Cruises, Italy's premier cruise line and Europe's largest, brings authentic Italian hospitality to Mediterranean cruising with unparalleled flair. Since 1948, Costa has perfected the art of Mediterranean exploration, offering guests an immersive Italian experience at sea complete with espresso bars, pasta-making demonstrations, and evening passeggiata traditions. Their Mediterranean itineraries showcase the cradle of civilization, from the ancient ruins of Rome and Athens to the sun-drenched glamour of the French Riviera and Greek Isles. Costa's fleet features distinctive Italian design, with interiors by renowned architects and artwork curated from Italian masters. The line's Mediterranean expertise means perfectly timed port arrivals, extended evening stays in key cities, and shore excursions crafted by local Italian guides. Whether savoring authentic Neapolitan pizza aboard or exploring Dubrovnik's walled city, Costa delivers Mediterranean cruising as only Italians can—with passion, style, and genuine warmth.",
+  "quick_facts": {
+    "price_from_eur": 549,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Costa Smeralda",
+      "Costa Toscana",
+      "Costa Firenze",
+      "Costa Diadema"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Civitavecchia",
+      "Marseille",
+      "Savona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Low (Mar-Apr, Nov)",
+      "inside_eur": 549,
+      "balcony_eur": 799,
+      "suite_eur": 1299
+    },
+    {
+      "season": "Shoulder (May, Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 799,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Western Mediterranean",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Savona",
+        "Civitavecchia",
+        "Naples",
+        "Palma de Mallorca"
+      ],
+      "price_from_eur": 549,
+      "highlight": "Classic Italian and Spanish ports with overnight option in Savona"
+    },
+    {
+      "name": "7-night Greece & Croatia",
+      "duration_nights": 7,
+      "ports": [
+        "Bari",
+        "Corfu",
+        "Santorini",
+        "Mykonos",
+        "Dubrovnik",
+        "Bari"
+      ],
+      "price_from_eur": 649,
+      "highlight": "Iconic Greek islands with extended evening in Santorini"
+    },
+    {
+      "name": "14-night Grand Mediterranean",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Savona",
+        "Civitavecchia",
+        "Naples",
+        "Heraklion",
+        "Santorini",
+        "Mykonos",
+        "Athens",
+        "Kotor",
+        "Venice"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive Mediterranean experience with overnight in Venice"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Smeralda",
+      "capacity": 6554,
+      "year": 2019,
+      "best_for": "Families & couples seeking Italian luxury",
+      "price_from_eur": 649
+    },
+    {
+      "name": "Costa Toscana",
+      "capacity": 6554,
+      "year": 2021,
+      "best_for": "Food enthusiasts and LNG sustainability",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Costa Firenze",
+      "capacity": 4232,
+      "year": 2021,
+      "best_for": "Art lovers and Renaissance-themed experience",
+      "price_from_eur": 599
+    },
+    {
+      "name": "Costa Diadema",
+      "capacity": 3725,
+      "year": 2014,
+      "best_for": "Value-conscious families",
+      "price_from_eur": 549
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All meals in main restaurants and buffet",
+    "Entertainment including theater shows and live music",
+    "Children's club activities (ages 3-17)",
+    "Fitness center and swimming pools",
+    "Port taxes and service charges",
+    "Basic WiFi (social package)"
+  ],
+  "whats_extra": [
+    "Beverages beyond water, coffee and tea at meals",
+    "Specialty dining restaurants",
+    "Shore excursions and guided tours",
+    "Premium WiFi packages",
+    "Spa treatments and salon services",
+    "Casino gambling",
+    "Laundry and dry cleaning services",
+    "Photography services",
+    "Gratuities (recommended €10 per person/day)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak summer sailings and preferred cabin categories. Costa frequently offers early booking discounts of 30-40% plus added perks like beverage packages or onboard credit. Consider repositioning cruises in April and November for exceptional value. Italian residents and past Costa guests receive additional loyalty discounts. Flexible fare options allow free cancellation up to 30 days before departure for a small premium.",
+  "top_ports": [
+    {
+      "port": "Civitavecchia (Rome)",
+      "time_in_port": "8am-7pm",
+      "top_activity": "Vatican & Colosseum full-day tour (€189)",
+      "tip": "Pre-book skip-the-line tickets; port is 90 minutes from Rome center"
+    },
+    {
+      "port": "Santorini",
+      "time_in_port": "1pm-9pm",
+      "top_activity": "Sunset wine tasting in Oia (€89)",
+      "tip": "Evening arrival captures golden hour; cable car or donkey ride to town"
+    },
+    {
+      "port": "Barcelona",
+      "time_in_port": "5pm-6pm+1",
+      "top_activity": "Gaudí architecture tour with Sagrada Família (€129)",
+      "tip": "Overnight departure allows full evening exploration of La Rambla"
+    },
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Game of Thrones walking tour with city walls (€79)",
+      "tip": "Arrive early at city gates to avoid cruise passenger crowds"
+    },
+    {
+      "port": "Naples",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Pompeii & Amalfi Coast combined tour (€199)",
+      "tip": "Pizza lunch at L'Antica Pizzeria da Michele is essential"
+    },
+    {
+      "port": "Kotor",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Medieval old town walking tour & fortress hike (€59)",
+      "tip": "Climb 1350 steps to San Giovanni Fortress for panoramic bay views"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Mediterranean cruise cost?",
+      "answer": "Costa Mediterranean cruises range from €549 inside cabins in low season to €2,199+ for suites during peak summer months. A typical 7-night balcony cabin averages €999-€1,399 depending on timing. School holiday periods command premiums of 40-60%. Costa's Italian pricing model often undercuts competitors by 15-25% while including more amenities. Look for promotional periods in January and September when Costa releases aggressive early-booking discounts. Total vacation cost including flights, drinks packages, excursions, and gratuities typically adds €400-€800 per person."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Mediterranean?",
+      "answer": "Costa deploys its newest and largest ships to Mediterranean routes. The LNG-powered Costa Smeralda and Costa Toscana (both 6,554 passengers) serve flagship Western and Eastern Mediterranean itineraries from Barcelona and Savona. Costa Firenze (4,232 passengers) offers Renaissance-themed cruising with enhanced Italian culinary programming. Costa Diadema and Costa Pacifica provide value-focused 7-night options with strong family facilities. Seasonally, Costa Serena and Costa Fascinosa join for expanded capacity. All Mediterranean-based ships feature Italian-designed interiors, multi-lingual crew, and Costa's signature 'Cruising Italian Style' experience with espresso bars and pasta stations."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "May, June, September, and October offer optimal Mediterranean cruising conditions with temperatures of 22-28°C, manageable crowds, and lower pricing than peak July-August. May delivers wildflower-covered hills and comfortable sightseeing weather. September provides warm seas ideal for swimming with reduced family traffic. July and August guarantee hot weather (30-35°C) and premium pricing but attract European holidaymakers creating busy ports. November and March offer exceptional value (€549 starting rates) with cooler 15-20°C temperatures and some attraction closures. December Mediterranean cruises feature Christmas markets in Barcelona and Marseille with festive ship decorations."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's Mediterranean cruises include accommodation, all main restaurant and buffet meals, standard coffee and tea at meals, theater entertainment, live music, discos, children's club programming, fitness center access, and swimming pools. The 'Experience' fare tier adds one beverage package and preferred dining times. Premium 'Total Comfort' fares include unlimited drinks, specialty dining, WiFi, and excursion credits. Not included are alcoholic beverages, specialty restaurants (€25-€45 cover), shore excursions (€59-€199), spa services, casino, premium WiFi (€15/day), and gratuities (€10/person/day recommended). Water, fruit juices at breakfast, and ice tea are complimentary throughout the day."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa's Mediterranean itineraries span three distinct regions. Western Mediterranean routes feature Barcelona, Marseille, Savona, Civitavecchia (Rome), Naples, Palermo, and Palma de Mallorca with Italian and Spanish cultural immersion. Eastern Mediterranean and Greek Isles cruises visit Bari, Dubrovnik, Kotor, Corfu, Santorini, Mykonos, Athens, and Rhodes with ancient history focus. Adriatic itineraries explore Venice, Split, Kotor, and Greek ports. Costa uniquely offers extended evening stays (until 9pm or overnight) in Savona, Barcelona, and Venice allowing authentic dining ashore. Most 7-night cruises visit 5-6 ports with one sea day. 14-night Grand Mediterranean combinations cover 10-12 ports across both regions."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Costa Mediterranean cruises 9-12 months ahead for peak summer sailings, preferred cabin categories, and early-booking discounts of 30-40%. July and August suites and balcony cabins often sell out 6-8 months in advance. Shoulder season (May, October) requires 4-6 months advance booking for best selection. Last-minute deals appear 60-90 days before departure, primarily for inside cabins and less popular departure dates. Christmas and Easter sailings demand earliest booking due to limited inventory. Costa's flexible 'Prima' fare allows free cancellation until final payment, while 'Super Prima' permits changes up to 30 days before departure—ideal for uncertain travel planning."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa excels at multigenerational Mediterranean family cruising with comprehensive complimentary kids' clubs divided by age: Mini (3-6), Maxi (7-11), Teen (12-14), and Young (15-17). Italian and English-speaking counselors lead activities from 9am to midnight. Family cabins accommodate up to five with connecting options. Pool areas include dedicated children's zones and waterslides on newer ships. Evening entertainment suits European family schedules with early dinner seatings and shows at 8:30pm. Excursion programming includes family-focused options like pizza-making in Naples and gladiator school in Rome. Children's pricing is aggressive—third and fourth passengers often pay €99-€199 for 7 nights. Babysitting services available for under-3s at hourly rates."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa's cancellation policy varies by fare type and departure date. Standard 'Classic' fares incur penalties of 25% deposit loss if cancelled 45-60 days before; 50% fare loss 30-44 days; 75% loss 15-29 days; and 100% loss within 14 days. 'Prima' flexible fares permit cancellation until final payment (typically 60 days) with full refund. 'Super Prima' fares allow cancellation until 30 days before departure with refund to future cruise credit. COVID-19 protections remain active: positive tests before departure receive full refund or future credit. Travel insurance through Costa or independent providers is strongly recommended for Mediterranean cruises given flight connection risks and pre-paid excursion investments. Rebooking fees are waived for changes made 60+ days ahead."
+    }
+  ]
+}

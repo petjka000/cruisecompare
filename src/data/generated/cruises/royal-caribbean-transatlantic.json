@@ -1,0 +1,227 @@
+{
+  "title": "Royal Caribbean Transatlantic Cruises 2026",
+  "intro": "Royal Caribbean's Transatlantic crossings offer an extraordinary blend of ocean voyage tradition and cutting-edge shipboard innovation. These repositioning cruises typically occur in spring and autumn as vessels relocate between European and Caribbean/Caribbean and European itineraries, delivering exceptional value with sea-intensive itineraries of 10-14 nights. Travellers experience the full spectrum of Royal Caribbean's acclaimed amenities—from surf simulators and zip lines to world-class dining and Broadway-calibre entertainment—while enjoying extended days at sea perfect for deep relaxation. The 2026 programme features Oasis and Quantum-class ships on these crossings, providing unparalleled facilities including Central Park open-air neighbourhoods and the AquaTheater. With fares significantly lower than standard itineraries, Transatlantic sailings attract experienced cruisers seeking uninterrupted ocean travel, enrichment programmes, and the unique opportunity to experience ship life at its most immersive before reaching iconic European or Caribbean destinations.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Wonder of the Seas",
+      "Oasis of the Seas",
+      "Anthem of the Seas",
+      "Odyssey of the Seas"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Fort Lauderdale",
+      "Barcelona",
+      "Southampton",
+      "Rome (Civitavecchia)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring Repositioning (Westbound)",
+      "inside_eur": 699,
+      "balcony_eur": 1199,
+      "suite_eur": 2299
+    },
+    {
+      "season": "Autumn Repositioning (Eastbound)",
+      "inside_eur": 749,
+      "balcony_eur": 1299,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak Holiday",
+      "inside_eur": 999,
+      "balcony_eur": 1699,
+      "suite_eur": 3299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Eastbound Transatlantic",
+      "duration_nights": 12,
+      "ports": [
+        "Miami",
+        "Sea Day",
+        "Sea Day",
+        "Sea Day",
+        "Sea Day",
+        "Sea Day",
+        "Ponta Delgada",
+        "Sea Day",
+        "Lisbon",
+        "Sea Day",
+        "Barcelona"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Six consecutive sea days for ultimate relaxation"
+    },
+    {
+      "name": "13-night Westbound Transatlantic",
+      "duration_nights": 13,
+      "ports": [
+        "Southampton",
+        "Sea Day",
+        "Sea Day",
+        "Lisbon",
+        "Sea Day",
+        "Ponta Delgada",
+        "Sea Day",
+        "Sea Day",
+        "Sea Day",
+        "Sea Day",
+        "Sea Day",
+        "Nassau",
+        "Perfect Day at CocoCay",
+        "Miami"
+      ],
+      "price_from_eur": 799,
+      "highlight": "Perfect Day private island finale"
+    },
+    {
+      "name": "10-night Barcelona to Miami",
+      "duration_nights": 10,
+      "ports": [
+        "Barcelona",
+        "Sea Day",
+        "Malaga",
+        "Sea Day",
+        "Sea Day",
+        "Sea Day",
+        "Sea Day",
+        "Sea Day",
+        "Nassau",
+        "Miami"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Spanish departure with Malaga stop"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Wonder of the Seas",
+      "capacity": 5738,
+      "year": 2022,
+      "best_for": "Families and multigenerational groups",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Oasis of the Seas",
+      "capacity": 5594,
+      "year": 2009,
+      "best_for": "Entertainment seekers",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Anthem of the Seas",
+      "capacity": 4180,
+      "year": 2015,
+      "best_for": "Couples and active adults",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Odyssey of the Seas",
+      "capacity": 3844,
+      "year": 2021,
+      "best_for": "Adventure-focused travellers",
+      "price_from_eur": 849
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and casual venue dining",
+    "Windjammer buffet restaurant access",
+    "Room service (continental breakfast complimentary, fees apply other times)",
+    "Broadway-style entertainment and live music",
+    "AquaTheater and ice skating shows",
+    "Fitness centre and most sports activities",
+    "Youth programmes (Adventure Ocean for ages 3-17)",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (alcoholic and premium non-alcoholic)",
+    "Specialty dining restaurants (€35-€75 per person)",
+    "Shore excursions (€45-€250+ per person)",
+    "Wi-Fi packages (€15-€25 per day)",
+    "Gratuities (€16 per person per day recommended)",
+    "Spa and salon treatments",
+    "Casino gambling",
+    "Laundry and dry cleaning services",
+    "Photos and retail purchases"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for optimal cabin selection and early booking incentives; balcony staterooms highly recommended for sea day enjoyment. Monitor Royal Caribbean's Wave Season promotions (January-March) for significant savings. Consider booking refundable fares initially, then switching to non-refundable if confident. Join Crown & Anchor Society before booking for member rates. Solo travellers should watch for reduced single supplement offers. Last-minute deals occasionally appear 60-90 days out but with limited cabin choice.",
+  "top_ports": [
+    {
+      "port": "Ponta Delgada, Azores",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sete Cidades crater lakes tour (€89)",
+      "tip": "Weather changes rapidly; bring layers"
+    },
+    {
+      "port": "Lisbon, Portugal",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Sintra and Pena Palace excursion (€159)",
+      "tip": "Early departure; book ship excursion for guaranteed return"
+    },
+    {
+      "port": "Malaga, Spain",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Alhambra Palace Granada (€189)",
+      "tip": "Extremely popular; must book months ahead"
+    },
+    {
+      "port": "Nassau, Bahamas",
+      "time_in_port": "12pm-7pm",
+      "top_activity": "Atlantis Aquaventure (€189)",
+      "tip": "Short port time; prioritize ship-sponsored excursion"
+    },
+    {
+      "port": "Perfect Day at CocoCay",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Thrill Waterpark (€89)",
+      "tip": "Arrive early for best beach chair locations"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Transatlantic cruise cost?",
+      "answer": "Royal Caribbean Transatlantic cruises represent exceptional value, with 2026 fares starting from €699 for interior staterooms on 10-night sailings. Balcony accommodations typically range €1,199-€1,699, while suites command €2,299-€3,299 depending on ship class and sailing date. Spring repositioning cruises (April-May) from Florida to Europe often offer the lowest base fares, whilst autumn eastbound crossings and holiday-adjacent sailings carry premiums. Total vacation cost should factor gratuities (€16 daily), beverage packages (€55-€75 daily), specialty dining, and excursions. Savvy cruisers can secure comprehensive packages under €2,500 per person for balcony accommodations when booking early during promotional periods."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Transatlantic?",
+      "answer": "Royal Caribbean deploys its most innovative vessels on Transatlantic routes, with 2026 crossings featuring Wonder of the Seas (world's largest cruise ship), Oasis of the Seas, Anthem of the Seas, and Odyssey of the Seas. Wonder and Oasis represent the revolutionary Oasis-class with seven distinct neighbourhood concepts including Central Park and Boardwalk. Anthem and Odyssey belong to the Quantum-class, offering North Star observation capsule, RipCord by iFLY skydiving simulator, and SeaPlex activity centre. Ship assignment rotates seasonally based on repositioning requirements. Oasis-class ships dominate spring westbound crossings from Europe, whilst Quantum-class vessels frequently handle autumn eastbound itineraries. Each ship carries 4,000-5,700 passengers and offers comprehensive facilities optimised for extended sea days."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "Optimal Transatlantic cruising occurs during April-May and October-November repositioning seasons when ships relocate between Caribbean winter and European summer deployments. Spring crossings (eastbound) deliver warming temperatures and increasingly longer daylight hours, whilst autumn sailings (westbound) offer stable late-summer conditions. Avoid December-Fbruary crossings due to rougher North Atlantic seas and limited itinerary availability. May and September provide ideal weather windows with moderate temperatures and calmer seas. Hurricane season (June-November) rarely affects eastern Atlantic routes significantly. Consider personal preferences: spring crossings build anticipation toward European arrival, whilst autumn voyages decompress after Mediterranean exploration. Sea temperatures remain swimmable through October on southern routes."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean Transatlantic cruises include substantial value within the base fare. Accommodation spans your chosen stateroom category with twice-daily servicing. Dining encompasses main dining room breakfast, lunch, and dinner; Windjammer buffet; select casual venues including Sorrento's pizza and Café Promenade; and room service continental breakfast. Entertainment covers all production shows, ice skating performances, AquaTheater spectaculars, live music venues, and comedy clubs. Activities include FlowRider surf simulator, rock climbing walls, mini-golf, basketball courts, and comprehensive fitness centre access. Youth programming through Adventure Ocean entertains ages 3-17 throughout sea days. Port taxes and basic gratuities for dining and housekeeping staff are incorporated. Notable exclusions comprise alcoholic beverages, specialty restaurants, shore excursions, Wi-Fi, and spa services."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean Transatlantic itineraries strategically incorporate ports that break lengthy ocean crossings whilst minimising deviation from great circle routes. European departure/arrival points include Barcelona, Rome (Civitavecchia), and Southampton, occasionally Lisbon or Malaga on western routes. American terminals comprise Miami and Fort Lauderdale. Mid-Atlantic essential stop: Ponta Delgada in the Azores—often the sole port call on 12-night crossings, offering volcanic landscapes and thermal springs. Some itineraries include Lisbon for cultural immersion or Nassau/Perfect Day at CocoCay for Caribbean conclusion. The defining characteristic remains multiple consecutive sea days (typically 5-7), making port selection secondary to shipboard experience. Western-bound crossings occasionally feature additional Spanish or Portuguese ports; eastern routes prioritise direct ocean transit."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Royal Caribbean Transatlantic reservations 9-18 months in advance for optimal outcomes. These limited-season sailings sell quickly, particularly balcony staterooms and suites that command premiums for sea day enjoyment. Early booking secures preferred cabin location—midship, lower decks minimise motion—and access to promotional incentives including onboard credit and discounted beverage packages. Wave Season (January-March) historically offers strongest pricing for autumn crossings. Final payment typically falls 90 days pre-departure; prior to this, fares remain adjustable if promotions improve. Last-minute availability exists 60-90 days out but restricts cabin selection to undesirable locations and limited dining times. Solo travellers particularly benefit from early booking when reduced single supplement offers emerge. Group bookings require 8+ cabins and demand 12+ month lead times."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean Transatlantic cruises present exceptional multigenerational opportunities despite extended sea days. Oasis and Quantum-class ships provide extraordinary facilities: Adventure Ocean youth programming operates sea days with extended hours, Teen Lounge activities for 13-17 year-olds, and complimentary nursery for 6-36 months. The sheer scale of entertainment—ice shows, AquaTheater high-diving spectaculars, Broadway productions—engages diverse ages. Multiple sea days enable deep family connection without port rush. However, families with younger children should carefully consider: no swimming pools on cooler crossings, potential motion discomfort, and limited port variety for educational stimulation. School-age children and teenagers thrive; infants and toddlers present challenges. Connecting staterooms and spacious suites accommodate extended families economically compared to European hotel alternatives."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's Transatlantic cancellation policy follows standard fare structure distinctions. Non-refundable deposits (lower base price) forfeit entire deposit upon cancellation regardless of timing, with escalating penalties: 75-90 days pre-departure loses 25% total fare; 74-61 days loses 50%; 60-31 days loses 75%; 30 days or less forfeits 100%. Refundable fares (higher initial cost) permit deposit return until final payment, then identical penalty schedule applies. Travel insurance—strongly recommended for Transatlantic bookings—can recover non-refundable portions for covered reasons including medical emergencies. Royal Caribbean's Cancel Anytime protection (additional purchase) provides future cruise credit for non-covered cancellations. COVID-19 protocols have stabilised; standard medical documentation now required for illness-related cancellations. Rebooking to alternative sailings often permitted with minimal fees outside penalty windows."
+    }
+  ]
+}

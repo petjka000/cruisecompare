@@ -1,0 +1,175 @@
+{
+  "title": "Royal Caribbean vs Viking Cruises 2026",
+  "intro": "Royal Caribbean and Viking Cruises represent two fundamentally different approaches to ocean cruising. Royal Caribbean dominates with massive resort-style ships featuring surf simulators, zip lines, and Broadway shows, targeting families and adventure seekers. Viking offers a refined, destination-focused experience aboard smaller, elegant vessels with no casinos or children under 18, appealing to culturally curious adults. Both operate globally but serve distinct traveller profiles. Your choice depends entirely on whether you prioritise onboard entertainment spectacle or immersive port exploration with understated luxury. This comparison examines pricing, amenities, and suitability to help you decide which cruise line aligns with your 2026 travel aspirations.",
+  "at_a_glance": {
+    "royal-caribbean": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "viking": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 2499
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside cabin)",
+      "royal-caribbean": "€899",
+      "viking": "€2,499"
+    },
+    {
+      "category": "Ship capacity",
+      "royal-caribbean": "2,500–7,500 guests",
+      "viking": "930 guests"
+    },
+    {
+      "category": "Target demographic",
+      "royal-caribbean": "Families, couples, multi-generational",
+      "viking": "Adults 55+, culturally curious"
+    },
+    {
+      "category": "Children allowed",
+      "royal-caribbean": "Yes, all ages",
+      "viking": "No, 18+ only"
+    },
+    {
+      "category": "Included dining",
+      "royal-caribbean": "Main dining room, buffet, select venues",
+      "viking": "All restaurants, room service, specialty dining"
+    },
+    {
+      "category": "Beverages",
+      "royal-caribbean": "Pay-as-you-go or packages from €65/day",
+      "viking": "Wine, beer, soft drinks with lunch/dinner included"
+    },
+    {
+      "category": "Shore excursions",
+      "royal-caribbean": "Extra charge (€50–€200)",
+      "viking": "One included excursion per port"
+    },
+    {
+      "category": "Wi-Fi",
+      "royal-caribbean": "From €18/day",
+      "viking": "Included"
+    },
+    {
+      "category": "Gratuities",
+      "royal-caribbean": "€16–€18/day auto-added",
+      "viking": "Included"
+    },
+    {
+      "category": "Evening entertainment",
+      "royal-caribbean": "Broadway shows, ice skating, aqua theatre",
+      "viking": "Classical music, lectures, destination performances"
+    },
+    {
+      "category": "Onboard activities",
+      "royal-caribbean": "FlowRider, rock climbing, zip lines, casinos",
+      "viking": "Cooking classes, port talks, Nordic spa, library"
+    },
+    {
+      "category": "Stateroom size",
+      "royal-caribbean": "Interior from 15m²",
+      "viking": "Veranda from 25m², no interior cabins"
+    },
+    {
+      "category": "Dress code",
+      "royal-caribbean": "Resort casual, occasional formal nights",
+      "viking": "Elegant casual, no formal nights"
+    },
+    {
+      "category": "Casino",
+      "royal-caribbean": "Yes, large casino complex",
+      "viking": "No casinos"
+    },
+    {
+      "category": "Itinerary focus",
+      "royal-caribbean": "Caribbean, Mediterranean, private islands",
+      "viking": "Northern Europe, Asia, extended port stays"
+    }
+  ],
+  "choose_a_if": [
+    "You are travelling with children or teenagers who need constant entertainment and activities",
+    "You want adrenaline-pumping onboard attractions like surf simulators, skydiving tunnels, and zip lines",
+    "You prefer a lively, high-energy atmosphere with casinos, nightclubs, and Broadway-style production shows",
+    "Your budget is tighter and you are comfortable paying à la carte for extras like drinks, Wi-Fi, and excursions",
+    "You enjoy massive ship amenities including multiple pools, water parks, and extensive shopping arcades",
+    "You want private island destinations like Perfect Day at CocoCay with exclusive beach and thrill attractions"
+  ],
+  "choose_b_if": [
+    "You are an adult seeking a child-free, serene environment focused on cultural enrichment",
+    "You prefer inclusive pricing where wine, beer, Wi-Fi, gratuities, and excursions are bundled upfront",
+    "You value destination immersion with longer port stays, overnight calls, and included walking tours",
+    "You appreciate understated Scandinavian design, spacious all-veranda staterooms, and no interior cabins",
+    "You want intellectual programming including guest lectures, cooking demonstrations, and classical music recitals",
+    "You prioritise culinary excellence with regional cuisine, premium ingredients, and no supplementary dining charges"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with children",
+      "winner": "Royal Caribbean",
+      "reason": "Royal Caribbean's Adventure Ocean kids club, teen lounges, family staterooms, and adrenaline attractions like FlowRiders and water parks create unmatched family value. Kids sail free promotions and character dining add further appeal."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Viking",
+      "reason": "Viking's adult-only policy, intimate ship size, included wine with dinner, and serene Nordic spa foster genuine connection. No crowded decks or screaming children enable peaceful sunsets and meaningful conversations."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Royal Caribbean",
+      "reason": "Royal Caribbean offers dedicated studio cabins, solo traveller meetups, and endless activities preventing loneliness. The sheer passenger volume increases odds of finding compatible companions throughout the voyage."
+    },
+    {
+      "type": "Active seniors",
+      "winner": "Viking",
+      "reason": "Viking's gentle walking tours, accessible ship design, included excursions, and enrichment programming suit mobile seniors perfectly. The absence of overwhelming crowds and noise reduces travel fatigue significantly."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Royal Caribbean",
+      "reason": "Royal Caribbean provides the quintessential cruise experience with predictable structure, abundant help staff, and forgiving atmosphere for cruise novices. Mistakes feel less consequential amid the constant stimulation."
+    },
+    {
+      "type": "Luxury seekers",
+      "winner": "Viking",
+      "reason": "Viking delivers superior value at the luxury threshold through genuinely inclusive pricing, premium linens, and refined service. Royal Caribbean's nickel-and-diming erodes perceived luxury despite higher absolute spending."
+    },
+    {
+      "type": "Adventure enthusiasts",
+      "winner": "Royal Caribbean",
+      "reason": "Royal Caribbean's private island zip lines, onboard skydiving simulators, and rock climbing walls satisfy thrill-seekers. Shore excursions include jet skiing, parasailing, and ATV adventures unavailable through Viking."
+    },
+    {
+      "type": "Culture and history buffs",
+      "winner": "Viking",
+      "reason": "Viking's resident historians, destination-focused itineraries, UNESCO site visits, and included walking tours provide authentic cultural immersion. Port talks and documentary screenings deepen understanding before each arrival."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends entirely on your spending behaviour and priorities. Royal Caribbean appears cheaper upfront at roughly €899 for seven nights, but realistic budgeting requires adding beverages (€455), Wi-Fi (€126), gratuities (€119), and excursions (€350–€600), pushing true costs toward €2,000–€2,500. Viking's €2,499 fare includes all these elements plus airport transfers and premium dining. For travellers who would purchase these extras anyway, Viking often proves better value despite the higher sticker price. Conversely, teetotallers who avoid excursions and use mobile data sparingly may extract superior value from Royal Caribbean's à la carte model. Calculate your likely onboard spending honestly before comparing."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Royal Caribbean is unequivocally superior for families, offering comprehensive children's programming from six months through seventeen years. Adventure Ocean divides kids by age with supervised activities including science experiments, arts and crafts, and themed parties. Teen spaces feature dedicated lounges, discos, and adventure activities without parental supervision. Family accommodations include connecting staterooms, suite configurations sleeping six, and innovative layouts like the Ultimate Family Suite with in-room slides. Dining accommodates picky eaters through extensive buffet options and complimentary kids menus. Viking explicitly prohibits passengers under eighteen, making family travel impossible. No exceptions exist for family celebrations or multi-generational groups including minors."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Royal Caribbean's published fares start significantly lower, with interior cabins from €899 for seven nights versus Viking's entry-level veranda staterooms at €2,499. However, this comparison misleads because Royal Caribbean's base fare excludes nearly everything beyond accommodation and basic meals. Viking's fare comprehensively covers all restaurants, wine and beer at meals, gratuities, Wi-Fi, one excursion per port, and airport transfers. When normalising for equivalent inclusions, Royal Caribbean typically costs €1,800–€2,200 while Viking remains at €2,499. Viking also avoids interior cabins entirely, meaning even their lowest fare includes natural light and balcony access. Promotional periods can narrow this gap considerably."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Viking demonstrably surpasses Royal Caribbean in culinary quality through superior ingredients, preparation standards, and inclusive access. Viking's kitchens emphasise regional sourcing, with Norwegian salmon in Bergen and Provençal herbs in Marseille. All restaurants carry no surcharge, encouraging exploration of Italian, Asian, and chef's table venues. Main dining room menus change daily with sophisticated options. Royal Caribbean's complimentary dining satisfies adequately but relies on volume production compromising refinement. Specialty restaurants like Wonderland and 150 Central Park match Viking's quality but cost €40–€75 per person extra. Buffet offerings favour quantity over distinction. Serious food enthusiasts consistently prefer Viking's integrated culinary philosophy."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Royal Caribbean generally suits first-time cruisers better by delivering the stereotypical cruise experience they anticipate. Massive ships provide forgiving environments where mistakes feel inconsequential amid thousands of passengers. Extensive staff, multiple help desks, and intuitive wayfinding reduce anxiety. The abundance of activities ensures something appeals regardless of personal taste. If cruising disappoints, the lower financial commitment minimises regret. Viking suits confident, experienced travellers who know their preferences and value understated elegance over spectacle. First-timers choosing Viking should research extensively, as the adult-only, enrichment-focused experience differs dramatically from cruise marketing imagery. Consider Royal Caribbean for experimentation, Viking when certainty exists."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental distinction lies in philosophy: Royal Caribbean builds floating entertainment resorts where the ship itself is the primary destination, while Viking creates elegant transportation enabling profound destination immersion. Royal Caribbean's vessels carry 2,500–7,500 guests with casinos, water parks, and Broadway shows; Viking's 930-passenger ships prohibit children, casinos, and photography sales. Pricing structures differ radically—Royal Caribbean unbundles everything while Viking includes virtually all costs upfront. Demographics separate sharply: Royal Caribbean serves families and multi-generational groups; Viking exclusively targets affluent adults over fifty. Itinerary design reflects these priorities, with Royal Caribbean emphasising private islands and sea days versus Viking's extended port stays and overnight calls."
+    }
+  ]
+}

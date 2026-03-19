@@ -1,0 +1,210 @@
+{
+  "title": "Holland America Line Japan & Asia Cruises 2026",
+  "intro": "Holland America Line brings over 150 years of maritime heritage to its Japan & Asia itineraries, offering an elegant, culturally immersive alternative to mass-market cruising. The line's mid-sized ships navigate intimate harbours that mega-liners cannot reach, from the historic canals of Osaka to the volcanic landscapes of Jeju Island. Holland America's EXC In-Depth Voyages feature extended port stays, overnight calls in Tokyo and Hong Kong, and enrichment programming including origami workshops, sake tastings, and lectures by regional historians. The culinary program showcases Asian flavours through partnerships with renowned chefs, while the Indonesian and Filipino crew provide genuine warmth rooted in decades of service tradition. With typical passenger demographics skewing 55+ and a focus on destination immersion over onboard spectacle, Holland America appeals to travellers seeking contemplative exploration of Japan's temples, gardens, and contemporary urban culture without sacrificing maritime elegance.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "14-28 nights",
+    "best_months": [
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Westerdam",
+      "Noordam"
+    ],
+    "departure_ports": [
+      "Yokohama",
+      "Singapore",
+      "Hong Kong"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring (Mar-Apr)",
+      "inside_eur": 1899,
+      "balcony_eur": 2499,
+      "suite_eur": 4199
+    },
+    {
+      "season": "Autumn (Oct-Nov)",
+      "inside_eur": 1799,
+      "balcony_eur": 2399,
+      "suite_eur": 3999
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 2199,
+      "balcony_eur": 2899,
+      "suite_eur": 4899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Japan Discovery",
+      "duration_nights": 14,
+      "ports": [
+        "Yokohama",
+        "Shimizu",
+        "Osaka",
+        "Hiroshima",
+        "Busan",
+        "Nagasaki",
+        "Kagoshima",
+        "Tokyo"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Cherry blossom season with overnight Tokyo stay"
+    },
+    {
+      "name": "28-night Far East Explorer",
+      "duration_nights": 28,
+      "ports": [
+        "Singapore",
+        "Koh Samui",
+        "Laem Chabang",
+        "Sihanoukville",
+        "Phu My",
+        "Da Nang",
+        "Halong Bay",
+        "Hong Kong",
+        "Shanghai",
+        "Nagasaki",
+        "Kagoshima",
+        "Osaka",
+        "Yokohama"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Comprehensive Southeast Asia to Japan grand voyage"
+    },
+    {
+      "name": "14-night Japan & South Korea",
+      "duration_nights": 14,
+      "ports": [
+        "Yokohama",
+        "Hakodate",
+        "Aomori",
+        "Busan",
+        "Nagasaki",
+        "Kagoshima",
+        "Kochi",
+        "Shimizu",
+        "Tokyo"
+      ],
+      "price_from_eur": 1999,
+      "highlight": "Autumn foliage with exclusive Jeju Island call"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Westerdam",
+      "capacity": 1964,
+      "year": 2004,
+      "refurbished": 2023,
+      "best_for": "Cultural immersion & destination focus",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Noordam",
+      "capacity": 1972,
+      "year": 2006,
+      "refurbished": 2023,
+      "best_for": "Extended voyages & grand Asia circuits",
+      "price_from_eur": 1799
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining room, Lido Market buffet, and select casual venues",
+    "Evening entertainment and live music venues",
+    "Fitness centre and sports courts",
+    "Port lectures and destination briefings",
+    "BBC Earth Experiences programming",
+    "America's Test Kitchen cooking demonstrations",
+    "Dancing with the Stars at Sea lessons",
+    "24-hour room service"
+  ],
+  "whats_extra": [
+    "Beverage packages (€55-75/day)",
+    "Specialty dining (€35-55/person)",
+    "Shore excursions (€89-389)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Internet packages (€25-35/day)",
+    "Gratuities (€16-18/person/day)",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking savings of 10-20%. Holland America's 'Have It All' promotion (typically released 9-12 months pre-departure) bundles drinks, specialty dining, shore excursions, and WiFi for significant value. Consider shoulder season departures in late October for 15-25% savings versus peak cherry blossom. Mariners loyalty members receive priority booking and exclusive cocktail receptions in Asian ports.",
+  "top_ports": [
+    {
+      "port": "Yokohama/Tokyo",
+      "time_in_port": "8am-overnight (next day 5pm)",
+      "top_activity": "Private guided Tsukiji Outer Market tour with sushi breakfast (€189)",
+      "tip": "Use overnight to experience Shibuya nightlife; ship provides 24-hour shuttle to Tokyo Station"
+    },
+    {
+      "port": "Osaka",
+      "time_in_port": "8am-11pm",
+      "top_activity": "Evening Dotonbori food tour with local guide (€149)",
+      "tip": "Ship docks at Tempozan; pre-book dinner reservations as local restaurants fill quickly"
+    },
+    {
+      "port": "Hiroshima",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Miyajima Island and Peace Memorial Park comprehensive tour (€169)",
+      "tip": "Morning light best for torii gate photography; allow 90 minutes minimum at museum"
+    },
+    {
+      "port": "Busan",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Haedong Yonggungsa Temple and Gamcheon Culture Village (€129)",
+      "tip": "Korean won essential for street food; ship offers currency exchange at competitive rates"
+    },
+    {
+      "port": "Hong Kong",
+      "time_in_port": "1pm-overnight (next day 6pm)",
+      "top_activity": "Evening harbour cruise with Symphony of Lights (€99)",
+      "tip": "Take Star Ferry independently for €0.50; Victoria Peak tram queues exceed 2 hours on weekends"
+    },
+    {
+      "port": "Nagasaki",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Gunkanjima (Battleship Island) UNESCO site boat tour (€159)",
+      "tip": "Weather-dependent landing; book refundable excursion and confirm morning of call"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line Japan & Asia cruise cost?",
+      "answer": "Holland America Japan & Asia cruises typically range from €1,799 to €4,199 per person for 14-night voyages, with 28-night grand voyages starting at €3,299. Inside cabins offer the most accessible entry point at €1,799-2,199, while verandah staterooms—highly recommended for scenic Japanese coastline cruising—run €2,399-2,899. Neptune and Pinnacle Suites command €3,999-6,999 but include exclusive amenities like Neptune Lounge access and complimentary laundry. Pricing fluctuates significantly by season: cherry blossom departures in late March command 25-30% premiums over October sailings. Holland America's 'Have It All' promotional fares, when available, bundle beverages, specialty dining, shore excursions, and WiFi, delivering 30-40% savings versus à la carte purchasing. Solo travellers should note single supplements of 150-200% apply, though occasional 'Singles Share' programs reduce this to 125%."
+    },
+    {
+      "question": "Which Holland America Line ships sail to Japan & Asia?",
+      "answer": "Holland America deploys its Vista-class vessels Westerdam and Noordam exclusively for Japan & Asia operations, with occasional support from Rotterdam on grand voyages. Westerdam, refurbished comprehensively in 2023, serves as the primary ship for 14-night Japan intensive itineraries and Southeast Asia circuits, featuring 810 staterooms including 152 verandah suites. Noordam handles the longer 21-28-night grand voyages connecting Singapore, Australia, and Japan, with enhanced medical facilities for extended ocean crossings. Both ships carry approximately 1,960 passengers at double occupancy—intimate enough for Asian port navigation yet substantial enough for diverse amenities. The line's signature Explorations Central (EXC) destination programming is particularly robust on these vessels, with dedicated EXC Guides providing port briefings in multiple languages. Neither ship features the water slides or go-karts of competitors; instead, investment focuses on culinary excellence, live music venues including B.B. King's Blues Club, and spacious public rooms designed for conversation and contemplation."
+    },
+    {
+      "question": "When is best time to cruise Japan & Asia?",
+      "answer": "The optimal Holland America Japan & Asia cruising window spans March through May and October through November, avoiding typhoon season and extreme temperatures. Late March to mid-April delivers iconic cherry blossom (sakura) season, though this popularity commands premium pricing and requires 12-18 month advance booking for balcony staterooms. May offers excellent value with azalea blooms, comfortable 20-24°C temperatures, and fewer domestic Japanese tourists. October and November provide spectacular autumn foliage (koyo), particularly in Kyoto and Nikko excursion regions, with stable weather and harvest-season culinary experiences. Avoid July through September when typhoon probability peaks, humidity exceeds 80%, and some Japanese ports restrict cruise calls during Obon festival periods. December sailings to Southeast Asia (Singapore, Thailand, Vietnam) offer dry season conditions but miss Japan entirely. Holland America's 2026 schedule emphasizes spring and autumn Japan departures, with limited winter repositioning voyages through Southeast Asia available November-January at reduced rates."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America's Japan & Asia cruises include substantial value through comprehensive base fares. All meals are covered across the main dining room (fixed or flexible seating), Lido Market buffet with extensive Asian and international stations, Dive-In burger bar, and New York Pizza. Accommodation includes twice-daily housekeeping, turndown service, and plush bedding. Entertainment encompasses BB King's Blues Club with Memphis-trained musicians, Lincoln Center Stage classical performances, Billboard Onboard dueling pianos, and BBC Earth Experiences with live orchestral accompaniment. Enrichment programming specific to Asia includes EXC Port Talks, destination lectures by regional experts, cooking demonstrations in partnership with America's Test Kitchen, and digital workshop classes. Fitness centre, sports courts, and main pool access carry no surcharge. Room service is available 24 hours without fee. Notably, Holland America does not nickel-and-dime for standard coffee, tea, or iced tea throughout the ship—a distinction from some competitors. Gratuities, beverages beyond basics, specialty dining, WiFi, and shore excursions require additional payment."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America's Japan & Asia itineraries feature 15-20 distinct ports across three primary routing patterns. Japan-intensive voyages concentrate on Honshu, Kyushu, and Hokkaido islands, calling Yokohama (Tokyo), Shimizu (Mount Fuji proximity), Osaka (overnight or extended stay), Hiroshima, Kagoshima, Nagasaki, Aomori, and Hakodate. South Korea integration adds Busan and occasional Jeju Island calls. Extended Southeast Asia circuits incorporate Singapore, Laem Chabang (Bangkok), Phu My (Ho Chi Minh City), Da Nang/Hue, Halong Bay, and Hong Kong with overnight stays. Unique to Holland America's smaller ships are calls at Kochi, Miyazaki, and Sakaiminato—ports inaccessible to mega-liners. The 2026 season introduces inaugural calls at Sasebo and Tsuruga on select itineraries. Port durations emphasize immersion over volume: Tokyo and Hong Kong feature overnight stays enabling evening exploration; Osaka typically offers 14-15 hour calls for Kyoto day trips; Hiroshima and Nagasaki allow full-day historical site visits. Tender ports include Miyajima Island and Halong Bay, requiring advance booking for ship-organized transfers."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Holland America Japan & Asia cruises, strategic timing significantly impacts both price and cabin selection. Book 12-18 months in advance for optimal results, particularly for cherry blossom (late March-mid April) and autumn foliage (October-November) departures when verandah and suite categories sell out 9-12 months pre-sailing. Early booking typically secures 10-20% savings through 'Early Booking Savings' promotions and preferred dining times. The sweet spot for value-conscious travellers emerges 6-9 months out when Holland America releases 'Have It All' promotional fares bundling beverages, specialty dining, shore excursions, and WiFi—often delivering €800-1,200 equivalent value on 14-night voyages. Last-minute deals within 60 days occasionally appear for inside cabins on less popular dates, though single supplements and limited air connectivity to Asian departure ports reduce appeal. Mariners Society loyalty members (past passengers) receive priority booking windows 30-60 days before public release, crucial for securing aft-facing verandahs and Neptune Suite categories. Deposit structures require 20% down, fully refundable until final payment 90 days pre-departure."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Japan & Asia cruises present a nuanced family proposition distinct from competitors. The line explicitly targets mature travellers (median age 65+ on Asian itineraries), with no dedicated children's facilities, water parks, or character entertainment. Club HAL youth programming operates limited hours and requires minimum 5 children enrolled to activate—uncommon on these routes outside holiday periods. Teen facilities are minimal. However, families with intellectually curious teenagers (ages 14+) find exceptional value in the destination-focused experience: immersive cultural programming, sophisticated enrichment lectures, and extended port calls enabling meaningful exploration. Multi-generational families appreciate spacious suite configurations and the relative tranquility absent from mega-ship alternatives. Families with young children should consider alternative lines unless specifically seeking adult-oriented travel. Holland America offers occasional 'Family Reunion' group rates for 8+ staterooms. School holiday departances (December, April) see marginally enhanced youth programming, though parents should manage expectations regarding peer interaction. The culinary program accommodates dietary restrictions effectively, and 24-hour room service supports irregular schedules."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America maintains a structured cancellation policy for Japan & Asia cruises with escalating penalties approaching departure. Cancellations 120+ days before sailing incur no penalty with full refund to original payment form. Between 119-90 days, deposit forfeiture applies (typically 20% of cruise fare). Penalties escalate to 50% of total fare for cancellations 89-64 days out; 75% for 63-43 days; and 100% for 42 days or fewer—no refund regardless of circumstances. This timeline accelerates for holiday departures (Christmas, New Year, Chinese New Year) where 100% penalties apply 60+ days pre-departure. Travel insurance is strongly recommended given substantial advance payment requirements and limited refund flexibility. Holland America's 'Cruise with Confidence' program, periodically offered, allows one-time penalty-free rebooking to alternative sailings within 12 months—a valuable option given Asia's evolving travel landscape. COVID-19 protocols have introduced additional flexibility: positive test cases within 10 days of sailing receive future cruise credits. Cancel For Any Reason (CFAR) insurance, available through Holland America partners for 10-12% of trip cost, reimburses 75% of non-refundable amounts when standard cancellation reasons don't apply."
+    }
+  ]
+}

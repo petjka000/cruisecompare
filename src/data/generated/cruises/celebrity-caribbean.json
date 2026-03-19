@@ -1,0 +1,192 @@
+{
+  "title": "Celebrity Cruises Caribbean Cruises 2026",
+  "intro": "Celebrity Cruises elevates Caribbean exploration through its signature Modern Luxury philosophy, blending sophisticated design with immersive destination experiences. The premium cruise line distinguishes itself with elevated culinary programs, including partnerships with Michelin-starred chefs and farm-to-table dining concepts that showcase regional Caribbean flavors. Their thoughtfully curated itineraries balance iconic ports like St. Maarten and San Juan with intimate island calls that larger vessels cannot access. Celebrity's onboard experience emphasizes wellness through the Canyon Ranch SpaClub and innovative fitness programming, while their enrichment lectures deepen cultural understanding of Caribbean history and ecology. The line's commitment to sustainable cruising aligns with the fragile marine ecosystems of the region, employing advanced wastewater treatment and shore power capabilities. Whether sailing the Eastern Caribbean's colonial heritage routes or discovering Western Caribbean's Mayan archaeological sites, Celebrity delivers refined accommodations, intuitive service, and destination-focused programming that appeals to discerning travelers seeking authentic connection with the Caribbean's diverse cultures and natural beauty.",
+  "quick_facts": {
+    "price_from_eur": 749,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Celebrity Apex",
+      "Celebrity Beyond",
+      "Celebrity Equinox",
+      "Celebrity Reflection"
+    ],
+    "departure_ports": [
+      "Fort Lauderdale",
+      "Miami",
+      "Tampa"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 949,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Shoulder (Apr-May, Nov)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Low (Jun-Nov)",
+      "inside_eur": 649,
+      "balcony_eur": 899,
+      "suite_eur": 1499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Eastern Caribbean",
+      "duration_nights": 7,
+      "ports": [
+        "San Juan",
+        "St. Thomas",
+        "St. Maarten",
+        "Nassau"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Overnight in San Juan allows authentic Old San Juan exploration"
+    },
+    {
+      "name": "10-night Southern Caribbean",
+      "duration_nights": 10,
+      "ports": [
+        "Aruba",
+        "Curaçao",
+        "Bonaire",
+        "Barbados",
+        "St. Lucia"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "ABC islands immersion with extended port times for diving and cultural exploration"
+    },
+    {
+      "name": "7-night Western Caribbean",
+      "duration_nights": 7,
+      "ports": [
+        "Cozumel",
+        "George Town",
+        "Falmouth",
+        "Labadee"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Mayan heritage focus with certified guide excursions to Chichen Itza and Tulum"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Beyond",
+      "capacity": 3260,
+      "year": 2022,
+      "best_for": "Adults & culinary enthusiasts",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Celebrity Apex",
+      "capacity": 2900,
+      "year": 2020,
+      "best_for": "Wellness-focused travelers",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Celebrity Equinox",
+      "capacity": 2850,
+      "year": 2009,
+      "best_for": "First-time Celebrity guests",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Celebrity Reflection",
+      "capacity": 3046,
+      "year": 2012,
+      "best_for": "Families with teens",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "Main dining room meals",
+    "Casual dining venues",
+    "Standard beverages (coffee, tea, water)",
+    "Evening entertainment and shows",
+    "Fitness center access",
+    "Kids club programming",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Specialty dining ($45-75pp)",
+    "Premium beverage packages ($65-85/day)",
+    "Shore excursions ($89-349pp)",
+    "Wi-Fi packages ($25-35/day)",
+    "Spa treatments",
+    "Laundry services",
+    "Gratuities ($18-20/day recommended)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal cabin selection and early booking incentives; monitor Celebrity's 'Always Included' promotions which bundle drinks, Wi-Fi, and gratuities for superior value over base fares.",
+  "top_ports": [
+    {
+      "port": "San Juan",
+      "time_in_port": "3pm-overnight",
+      "top_activity": "Bioluminescent Bay kayak tour ($145)",
+      "tip": "Arrive early for pre-cruise Old San Juan exploration; many restaurants offer mofongo cooking classes"
+    },
+    {
+      "port": "St. Maarten",
+      "time_in_port": "8am-6pm",
+      "top_activity": "12 Metre Regatta racing experience ($189)",
+      "tip": "Split day between French (Marigot) and Dutch (Philipsburg) sides via affordable public ferry"
+    },
+    {
+      "port": "Cozumel",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Certified dive at Palancar Reef ($129)",
+      "tip": "Early port arrival suits morning dives; afternoon excursions to mainland ruins require 45-minute ferry plus transport"
+    },
+    {
+      "port": "Barbados",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Mount Gay Rum distillery heritage tour ($79)",
+      "tip": "Harrison's Cave tram tours book quickly; reserve through Celebrity pre-cruise for guaranteed availability"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Caribbean cruise cost?",
+      "answer": "Celebrity Caribbean cruises typically range from €649 for interior cabins during low season (June-November) to €2,499+ for suites during peak winter months. Balcony cabins, which represent the line's signature experience, average €899-€1,399 depending on season. The 'Always Included' fare structure (€150-€200 premium) bundles drinks, Wi-Fi, and gratuities, often delivering better value than purchasing à la carte. Solo travelers face 150-200% single supplements, though promotional periods occasionally reduce this. Third and fourth passengers in staterooms receive substantial discounts, typically €299-€499. Airport transfers, specialty dining, and premium excursions add €400-€800 per person for a comprehensive experience."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Caribbean?",
+      "answer": "Celebrity deploys its newest Edge-class vessels Apex and Beyond to Caribbean routes, featuring the revolutionary Magic Carpet platform and infinite veranda staterooms. The enhanced Solstice-class ships Equinox and Reflection handle high-capacity Eastern and Western Caribbean itineraries with signature Lawn Club real grass decks. These vessels range from 2,850 to 3,260 passengers, striking balance between intimate port access and comprehensive amenities. Millennium-class ships occasionally operate repositioning Caribbean segments. The line rotates ships seasonally, with newer vessels typically assigned to premium Southern Caribbean routes requiring longer port stays. Ship deployment finalized approximately 18 months in advance, with specific vessel assignments confirmed at booking."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "January through March delivers optimal Caribbean cruising conditions: minimal rainfall, consistent 28°C temperatures, and calm seas ideal for balcony dining and watersports. This peak season commands premium pricing but guarantees reliable weather for outdoor programming. April-May offers 20-30% savings with diminishing hurricane risk and pleasant 26-29°C conditions. June-August suits families despite higher humidity and brief afternoon showers; water temperatures peak at 29°C, excellent for snorkeling. September-November presents lowest prices and highest hurricane probability, though Celebrity's flexible itinerary protocols and comprehensive travel insurance mitigate disruption risks. Eastern Caribbean routes show greater weather sensitivity than Western Caribbean alternatives during shoulder seasons."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's Caribbean cruises include main dining room breakfast, lunch, and dinner with regionally inspired menus; casual venues including Oceanview Café buffet and Mast Grill; standard beverages (drip coffee, brewed tea, filtered water, iced tea, lemonade); nightly theater productions and live music; supervised programming for ages 3-17 at Camp at Sea; fitness center with Technogym equipment and select group classes; and basic Wi-Fi for messaging apps. Pool towels, deck chair access, and standard room service (breakfast complimentary, $4.95 delivery other times) are included. Port taxes and onboard gratuities are itemized separately unless 'Always Included' fare selected. Room amenities include bathrobes, basic toiletries, and twice-daily housekeeping service."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Eastern Caribbean itineraries emphasize San Juan (frequently overnight), St. Thomas, St. Maarten, St. Kitts, Antigua, and the Dominican Republic's Amber Cove. Western Caribbean routes feature Cozumel, Costa Maya, and Progreso (Mexico); Belize City; Roatán (Honduras); and Falmouth or Ocho Rios (Jamaica). Southern Caribbean voyages—the line's specialty—reach Aruba, Curaçao, Bonaire, Barbados, St. Lucia, Grenada, and Dominica, often with sea days between distant islands. Private destination experiences include exclusive beach club access at select ports. Celebrity's smaller Solstice-class ships access ports unavailable to mega-ships, including Grenada's St. George's harbor and Dominica's Roseau, enabling authentic cultural immersion beyond typical cruise infrastructure."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure optimal stateroom selection 9-12 months ahead, particularly for Edge-class ships and suite categories with limited inventory. Celebrity releases itineraries approximately 18 months in advance; early booking incentives typically include onboard credit (€150-€300) and reduced deposits. Wave season (January-March) brings aggressive promotional pricing for sailings 6-12 months out. Last-minute Caribbean availability exists 30-60 days pre-departure, though cabin location and dining preferences suffer. Group bookings (8+ staterooms) require 12-month advance planning for complimentary berths and customized amenities. Holiday sailings (Christmas, New Year, Presidents Week) demand earliest booking—often 12-15 months—for reasonable pricing. Flexible travelers monitoring Cruise Critic fare alerts can capitalize within 90 days."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity accommodates families thoughtfully, though positions distinctly from mass-market competitors. Camp at Sea offers age-appropriate programming (3-5, 6-9, 10-12, 13-17) with STEM activities, culinary workshops, and destination-focused learning rather than character entertainment. Family staterooms and connecting rooms comprise limited inventory requiring early booking. Teen spaces include XClub with dedicated counselors and late-night programming. Family-friendly shore excursions feature beach breaks, snorkeling, and cultural experiences suitable for varied ages. Dining accommodates children's preferences with simplified menus, though no dedicated children's dining rooms. Pool areas include designated family zones; the Lawn Club offers bocce and croquet. Families with children under 3 face limited services—no dedicated nursery, though in-stateroom babysitting arranged privately. Multigenerational groups appreciate the line's balance of adult sophistication with genuine family accommodation."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity's standard Caribbean cancellation policy imposes penalties escalating by departure proximity: full refund for cancellations 90+ days before sailing; deposit forfeiture (typically €250-€500pp) at 89-75 days; 25% penalty at 74-61 days; 50% penalty at 60-31 days; 75% penalty at 30-15 days; and full fare forfeiture within 14 days. 'Cruise with Confidence' flexible booking (periodically offered) permits penalty-free cancellation up to 48 hours before departure with future cruise credit. Travel insurance through Celebrity's partner or independent providers strongly recommended for Caribbean hurricane season (June-November), covering interruption due to named storms. Cancel for Any Reason upgrades (60-75% reimbursement) available within 14 days of initial deposit. COVID-19 protocols eliminated; standard medical documentation applies for illness-related cancellations."
+    }
+  ]
+}

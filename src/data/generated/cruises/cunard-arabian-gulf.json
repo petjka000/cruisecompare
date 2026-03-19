@@ -1,0 +1,181 @@
+{
+  "title": "Cunard Line Arabian Gulf Cruises 2026",
+  "intro": "Cunard Line brings its legendary White Star Service to the Arabian Gulf, offering an elegant escape where British maritime tradition meets the mystique of the Middle East. Aboard the intimate Queen Victoria, guests discover a more refined way to explore this captivating region—no mega-ship crowds, just timeless sophistication. From the glittering skyline of Dubai to the ancient forts of Muscat, Cunard's Arabian Gulf itineraries balance cultural immersion with unparalleled comfort. Afternoon tea is served daily as the ship navigates between emirates, while enrichment lectures illuminate the region's Bedouin heritage and pearl-diving past. With overnight stays in key ports and extended evenings for desert safaris or souk explorations, Cunard transforms Arabian Gulf cruising into a truly transformative journey for discerning travellers seeking authenticity without compromise.",
+  "quick_facts": {
+    "price_from_eur": 1499,
+    "duration_range": "9-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Queen Victoria"
+    ],
+    "departure_ports": [
+      "Dubai",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1899,
+      "balcony_eur": 2499,
+      "suite_eur": 4299
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 1499,
+      "balcony_eur": 1999,
+      "suite_eur": 3299
+    },
+    {
+      "season": "Low (Apr)",
+      "inside_eur": 1299,
+      "balcony_eur": 1699,
+      "suite_eur": 2799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "9-night Arabian Gulf Explorer",
+      "duration_nights": 9,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Muscat",
+        "Doha",
+        "Dubai"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Overnight in Dubai plus full day in Muscat"
+    },
+    {
+      "name": "12-night Arabian Gulf & India",
+      "duration_nights": 12,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Muscat",
+        "Mumbai",
+        "Goa",
+        "Dubai"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Combines Gulf splendour with India's Golden Triangle"
+    },
+    {
+      "name": "14-night Grand Arabian Adventure",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Malaga",
+        "Valletta",
+        "Suez Canal",
+        "Aqaba",
+        "Dubai"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Full repositioning with Suez Canal transit"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Victoria",
+      "capacity": 2074,
+      "year": 2007,
+      "refurbished": 2021,
+      "best_for": "Couples & mature travellers seeking traditional elegance",
+      "price_from_eur": 1499,
+      "signature_features": "Royal Court Theatre, Queens Room ballroom, Golden Lion pub, Canyon Ranch spa"
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom grade",
+    "All meals in Britannia Restaurant or selected alternative venues",
+    "Afternoon tea served daily",
+    "Nightly entertainment and enrichment lectures",
+    "Fitness centre and swimming pools",
+    "Port taxes and fees",
+    "24-hour room service"
+  ],
+  "whats_extra": [
+    "Gratuities (€12-15 per person daily)",
+    "Beverages and premium dining venues",
+    "Shore excursions",
+    "Spa treatments and salon services",
+    "WiFi packages",
+    "Laundry and dry cleaning",
+    "Flights and transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; Cunard releases Arabian Gulf itineraries 18 months in advance. Consider Cunard's 'Sailaway' fares for 20-30% savings on inside/balcony cabins with restrictions. Past passengers should leverage Cunard World Club benefits for early access and onboard credit. Dubai departure cruises often yield better value than Southampton repositionings.",
+  "top_ports": [
+    {
+      "port": "Dubai",
+      "time_in_port": "Overnight + full day",
+      "top_activity": "Burj Khalifa At The Top experience (€89)",
+      "tip": "Pre-book evening fountain show viewing from Dubai Mall"
+    },
+    {
+      "port": "Abu Dhabi",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Sheikh Zayed Grand Mosque tour (€65)",
+      "tip": "Dress modestly; women receive abayas at entrance"
+    },
+    {
+      "port": "Muscat",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Wahiba Sands desert safari (€189)",
+      "tip": "Morning departures avoid afternoon heat"
+    },
+    {
+      "port": "Doha",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Souq Waqif and Museum of Islamic Art (€45)",
+      "tip": "Friday mornings limited; souq comes alive after 4pm"
+    },
+    {
+      "port": "Sir Bani Yas Island",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Arabian wildlife drive (€95)",
+      "tip": "Cunard's exclusive beach experience included; book wildlife tour early"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Arabian Gulf cruise cost?",
+      "answer": "Cunard Arabian Gulf cruises typically range from €1,299 for an inside cabin in shoulder season to over €4,299 for Queens Grill suites during peak winter months. A standard 9-night itinerary in a balcony cabin averages €2,199-€2,499. Prices include meals, entertainment, and port taxes but exclude gratuities, drinks, and excursions. Cunard's 'Sailaway' fares offer 20-30% savings with cabin assignment at boarding. Solo travellers face 50-75% single supplements, though occasional promotions reduce this. Repositioning cruises from Southampton cost more initially but include more sea days and unique Suez Canal transits."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Arabian Gulf?",
+      "answer": "Queen Victoria is Cunard's dedicated Arabian Gulf vessel, offering winter 2026 itineraries from November through March. Unlike her larger sisters, Queen Victoria's intimate 2,074-passenger capacity allows access to smaller ports like Sir Bani Yas Island. The ship underwent extensive 2021 refurbishment, adding updated Britannia Club dining and enhanced spa facilities. Queen Mary 2 occasionally offers repositioning segments, but her size limits Gulf port options. Queen Victoria's traditional ocean liner design—with her distinctive red funnel and elegant Queens Room ballroom—provides an authentic Cunard experience perfectly suited to the region's sophisticated atmosphere."
+    },
+    {
+      "question": "When is best time to cruise Arabian Gulf?",
+      "answer": "November through March offers ideal conditions: daytime temperatures of 24-28°C, cool evenings, and minimal rainfall. December and January peak season brings Christmas markets in Dubai and perfect beach weather, though prices rise 25-30%. February maintains excellent conditions with fewer crowds. March sees warming temperatures but excellent value. April cruises become uncomfortably hot above 35°C; Cunard typically repositions Queen Victoria to Mediterranean by late April. Avoid May-October entirely when temperatures exceed 40°C with extreme humidity. The winter months coincide with Dubai Shopping Festival (January) and Abu Dhabi Grand Prix (November), creating exceptional cultural opportunities alongside your cruise."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's Arabian Gulf fares include accommodation, all main dining room meals, afternoon tea, nightly entertainment, enrichment lectures, fitness facilities, and port taxes. Your Britannia Restaurant assignment depends on cabin grade—Britannia Club and Queens Grill passengers enjoy single-seating dining with expanded menus. Room service is complimentary 24 hours. What's notably extra: all beverages (water, coffee, alcohol), specialty restaurants like Steakhouse at The Verandah, shore excursions, WiFi (€20/day), spa services, and gratuities (€12-15/person daily). Unlike premium competitors, Cunard maintains traditional à la carte pricing for drinks and extras, though beverage packages are available. The trade-off is superior service standards and more inclusive cultural programming."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Arabian Gulf itineraries centre on Dubai, with overnight stays allowing evening desert safaris and fountain shows. Abu Dhabi offers the magnificent Sheikh Zayed Grand Mosque and Louvre Abu Dhabi. Muscat, Oman provides authentic Arabian atmosphere with its waterfront Muttrah Souq and hilltop forts. Doha showcases Qatar's rapid transformation through the Museum of Islamic Art and traditional dhow harbour. Sir Bani Yas Island—Cunard's private destination—features Arabian wildlife reserves and pristine beaches. Extended itineraries may include Mumbai and Goa for India combination cruises, or Aqaba for Petra access on repositioning sailings. Each port features Cunard's curated shore excursion programme with English-speaking guides."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard Arabian Gulf cruises 9-12 months ahead for optimal cabin selection, particularly for Queens Grill suites and balcony cabins on port side for scenic Suez Canal transits. Cunard releases itineraries 18 months in advance; past passengers gain early booking windows through Cunard World Club. December holiday sailings sell out by September. For value-focused travellers, last-minute 'Sailaway' fares appear 60-90 days before departure with 20-30% discounts, though cabin location is assigned at check-in. Repositioning cruises from Southampton require earlier booking due to limited availability. Consider booking flights and pre-cruise Dubai hotels simultaneously—Cunard offers packages with guaranteed ship transfers."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard Arabian Gulf cruises suit families with children 8+ rather than young families seeking water slides and kids' clubs. The Zone (ages 8-17) offers supervised activities, but facilities are modest compared to resort-style ships. The educational enrichment—lectures on Middle Eastern history, astronomy nights, and ballroom dance classes—engages curious teenagers. Family-friendly shore excursions include desert safaris, dhow cruises, and wildlife drives. Connecting cabins and third/fourth berths are limited; book early. Evening entertainment trends formal—Gala Nights require cocktail attire. Families prioritising pool time and casual dining may find Cunard's traditional structure restrictive. The Arabian Gulf's safety, English prevalence, and excellent medical facilities at all ports reassure parents."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's standard cancellation policy for Arabian Gulf cruises: full refund minus deposit if cancelled 91+ days before departure; 50% fare loss 90-61 days; 75% loss 60-31 days; 100% loss within 30 days. Deposit requirements vary—typically 25% for cruises under 14 nights, rising to 50% for suites. 'Sailaway' promotional fares are non-refundable from booking. Cunard offers Cruise Care protection (€89-€149) covering cancellation for covered reasons, interruption, and medical evacuation. COVID-19 protocols remain flexible—positive pre-cruise tests typically permit future cruise credit. Consider booking through ABTA/ATOL-protected agents for additional security. Final payment is due 90 days before sailing for most 2026 Arabian Gulf departures."
+    }
+  ]
+}

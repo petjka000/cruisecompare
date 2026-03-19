@@ -1,0 +1,195 @@
+{
+  "title": "Costa Cruises Black Sea Cruises 2026",
+  "intro": "Costa Cruises brings Italian elegance to the Black Sea, combining Mediterranean hospitality with one of Europe's most culturally rich cruising regions. As the only major cruise line with deep roots in Italian maritime tradition, Costa offers Black Sea itineraries that traverse ancient trade routes connecting Istanbul, Odessa, and the Crimean coast. These voyages appeal to culturally curious travelers seeking UNESCO World Heritage sites, Orthodox monasteries, and vibrant port cities with layered histories. Costa's Italian-themed programming—complete with pasta-making classes, opera evenings, and designer shopping—creates a distinctive onboard atmosphere. The Black Sea's calmer waters and moderate distances between ports make this an ideal region for first-time cruisers and seasoned travelers alike. With competitive pricing and inclusive dining options, Costa delivers exceptional value for European explorers.",
+  "quick_facts": {
+    "price_from_eur": 649,
+    "duration_range": "7-11 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Costa Fascinosa",
+      "Costa Favolosa"
+    ],
+    "departure_ports": [
+      "Venice",
+      "Bari",
+      "Istanbul"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/Oct)",
+      "inside_eur": 649,
+      "balcony_eur": 949,
+      "suite_eur": 1599
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Late Season (Nov)",
+      "inside_eur": 549,
+      "balcony_eur": 799,
+      "suite_eur": 1299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Black Sea Explorer",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Bari",
+        "Kotor",
+        "Corfu",
+        "Katakolon",
+        "Istanbul"
+      ],
+      "price_from_eur": 649,
+      "highlight": "Venice to Istanbul with Montenegro gem"
+    },
+    {
+      "name": "9-night Black Sea Grand Voyage",
+      "duration_nights": 9,
+      "ports": [
+        "Istanbul",
+        "Varna",
+        "Constanta",
+        "Odessa",
+        "Sochi",
+        "Sinop",
+        "Istanbul"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Complete Black Sea circuit with overnight in Odessa"
+    },
+    {
+      "name": "11-night Adriatic & Black Sea",
+      "duration_nights": 11,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Santorini",
+        "Istanbul",
+        "Varna",
+        "Constanta"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Extended journey combining Adriatic and Black Sea highlights"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Fascinosa",
+      "capacity": 3015,
+      "year": 2012,
+      "best_for": "Families & Couples",
+      "price_from_eur": 649
+    },
+    {
+      "name": "Costa Favolosa",
+      "capacity": 3015,
+      "year": 2011,
+      "best_for": "Multi-generational groups",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "All meals in main restaurants",
+    "Buffet dining 20 hours daily",
+    "Entertainment shows",
+    "Fitness center access",
+    "Kids club activities",
+    "Pool access",
+    "Port taxes"
+  ],
+  "whats_extra": [
+    "Beverage packages (from €35/day)",
+    "Specialty restaurants (€25-45)",
+    "Shore excursions (€45-189)",
+    "Spa treatments",
+    "WiFi packages",
+    "Gratuities (€11/day recommended)",
+    "Laundry",
+    "Casino",
+    "Photos"
+  ],
+  "booking_strategy": "Book 8-12 months ahead for peak summer departures; shoulder season offers 30-40% savings with similar weather. Monitor Costa's Italian website for exclusive EUR pricing often 15% lower than international sites. Consider repositioning cruises in October for lowest Black Sea fares.",
+  "top_ports": [
+    {
+      "port": "Istanbul",
+      "time_in_port": "7am-6pm (overnight on some itineraries)",
+      "top_activity": "Hagia Sophia & Blue Mosque guided tour (€89)",
+      "tip": "Pre-book evening Bosphorus dinner cruise separately"
+    },
+    {
+      "port": "Odessa",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Potemkin Steps & Opera House (€65)",
+      "tip": "Ukrainian currency useful for local markets; verify current operational status"
+    },
+    {
+      "port": "Varna",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Aladzha Monastery & Roman baths (€55)",
+      "tip": "Beach extension possible in summer—taxi to Golden Sands €15"
+    },
+    {
+      "port": "Constanta",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Mamaia Beach & Casino Constanta (€45)",
+      "tip": "Short port time—book ship excursion or arrange private driver"
+    },
+    {
+      "port": "Kotor",
+      "time_in_port": "12pm-8pm",
+      "top_activity": "Medieval walled city & fortress hike (free-€35)",
+      "tip": "Arrive early for photography before cruise crowds; 1350 steps to fortress"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Black Sea cruise cost?",
+      "answer": "Costa Cruises Black Sea voyages start from €649 per person for inside cabins during shoulder season (May and October), rising to €899-1199 for peak summer departures. Balcony cabins range €949-1299, while suites command €1599-2199 depending on season. Prices include meals, entertainment, and port taxes but exclude beverages, excursions, and gratuities. Costa frequently offers promotional fares with onboard credit or free cabin upgrades. Children typically sail at reduced rates or free during family promotions. Final pricing varies by departure port, with Venice-based cruises often commanding premium over Bari departures."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Black Sea?",
+      "answer": "Costa deploys its Concordia-class vessels to Black Sea routes, primarily Costa Fascinosa (2012, 3015 passengers) and Costa Favolosa (2011, 3015 passengers). Both ships feature Italian-designed interiors with Murano glass, marble staircases, and expansive spa facilities. These mid-sized ships navigate Black Sea ports efficiently while offering multiple dining venues, theaters, and pools. Costa Fascinosa emphasizes family programming with larger kids facilities, while Favolosa caters slightly more to adult couples. Neither ultra-large nor intimate, these ships balance amenities with port accessibility for Black Sea's varied infrastructure."
+    },
+    {
+      "question": "When is best time to cruise Black Sea?",
+      "answer": "May-June and September-October offer optimal Black Sea cruising conditions: temperatures 18-26°C, minimal rainfall, and calmer seas. July-August brings peak heat (28-32°C) and crowded ports, particularly Istanbul and Odessa. September delivers warm water ideal for swimming at Varna and Constanta beaches. October sees harvest festivals in wine regions near Odessa and Constanta. November cruises risk cooler temperatures and occasional storms. Winter sailings are extremely limited due to port closures and harsh conditions. Avoid early May when some Black Sea resorts remain closed; late May through mid-June provides the best combination of pleasant weather, open attractions, and moderate pricing."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa Cruises Black Sea fares include accommodation in chosen cabin category, all meals in main dining rooms and buffet venues operating up to 20 hours daily, standard coffee and tea with meals, entertainment including theater shows and live music, supervised kids club activities for ages 3-17, fitness center and sports court access, pool and hot tub use, and port taxes. Notable exclusions requiring additional purchase include all alcoholic and soft drinks, bottled water, specialty restaurants, shore excursions, WiFi, spa services, laundry, and gratuities. Costa's 'Piu Gusto' beverage package (€35/day) covers unlimited drinks; pre-purchasing saves 15-20% versus onboard rates."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa Black Sea itineraries typically include Istanbul (Turkey) as primary embarkation or turnaround point, featuring Hagia Sophia and Grand Bazaar. Ukrainian port Odessa showcases Potemkin Steps and elaborate 19th-century architecture. Bulgaria's Varna offers Roman ruins and Black Sea beaches, while Romania's Constanta provides access to Mamaia resort and Danube Delta. Some itineraries incorporate Kotor (Montenegro) and Greek islands as western extensions. Crimean ports including Yalta and Sevastopol appear on historical itineraries but require verification of current operational status due to geopolitical circumstances. Koper or Venice commonly serve as western termini for complete Adriatic-Black Sea circuits."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Costa Black Sea cruises 8-12 months in advance for peak summer departures, particularly July itineraries and balcony cabins on popular routes. Shoulder season sailings in May and October offer greater flexibility with viable booking windows of 3-6 months. Costa releases itineraries 18 months ahead, with early booking discounts typically 10-15% below final prices. Last-minute availability exists primarily for inside cabins on less popular departure dates, sometimes 30-45 days prior. Group bookings (8+ cabins) require 12-month advance notice for preferred cabin blocks. Consider booking airfare and pre/post hotel simultaneously, as Istanbul and Venice accommodation prices spike during cruise season."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa Cruises Black Sea sailings suit families with children aged 8-17 who appreciate cultural exploration and moderate adventure. The Squok Club provides complimentary supervised activities by Italian-speaking staff, though English programming varies. Pool complexes appeal to children, while shore excursions to ancient sites and fortresses engage school-age kids. Teen facilities include dedicated lounges and discos. Families should note that Black Sea itineraries emphasize historical and cultural ports over beach-focused destinations—consider Greek isle extensions for swimming emphasis. Connecting cabins and family staterooms book quickly; request at reservation. Children's menus available in main restaurants, though Italian-focused cuisine may challenge picky eaters."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa Cruises applies standard European cancellation terms: full refund minus €50 administrative fee for cancellations 90+ days before departure; 20% penalty 89-60 days; 50% penalty 59-30 days; 75% penalty 29-15 days; no refund within 14 days. 'Flex' fare upgrades (approximately €75-150) permit one date change without penalty up to 30 days prior. Travel insurance is strongly recommended for Black Sea cruises given geopolitical considerations affecting Ukrainian and Turkish ports. Costa offers future cruise credits rather than cash refunds for passenger-initiated cancellations within penalty periods. Force majeure situations including port closures may trigger itinerary modifications with proportional refunds; comprehensive travel insurance should cover independent arrangements."
+    }
+  ]
+}

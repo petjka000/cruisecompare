@@ -1,0 +1,112 @@
+{
+  "title": "Cunard Line vs Oceania Cruises 2026",
+  "intro": "Cunard Line and Oceania Cruises represent two distinct approaches to premium cruising. Cunard, with its 184-year heritage, offers transatlantic glamour, white-gloved service, and formal traditions aboard iconic ocean liners. Oceania, founded in 2002, delivers relaxed luxury with a culinary focus and destination-intensive itineraries. While both occupy the upper-mid market, Cunard emphasizes ceremony and British elegance, whereas Oceania prioritizes gastronomy and extended port stays. Your choice hinges on whether you prefer structured sophistication or informal indulgence.",
+  "at_a_glance": {
+    "cunard": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "oceania": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 1699
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "cunard": "€899",
+      "oceania": "€1,699"
+    },
+    {
+      "category": "Price (7-night balcony)",
+      "cunard": "€1,499",
+      "oceania": "€2,299"
+    },
+    {
+      "category": "Passenger Capacity",
+      "cunard": "2,691 (Queen Mary 2) / 3,000 (Queen Anne)",
+      "oceania": "670–1,250"
+    },
+    {
+      "category": "Dress Code",
+      "cunard": "Formal (gala evenings)",
+      "oceania": "Resort casual, elegant optional"
+    },
+    {
+      "category": "Dining",
+      "cunard": "Traditional dining, Britannia/Grills tiers",
+      "oceania": "Open seating, Jacques Pépin curated"
+    },
+    {
+      "category": "Inclusions",
+      "cunard": "Basic fare, pay-extra specialty dining",
+      "oceania": "Airfare, transfers, shore excursions credit on select fares"
+    },
+    {
+      "category": "Itinerary Style",
+      "cunard": "Ocean crossings, world voyages, grand journeys",
+      "oceania": "Port-intensive, overnight stays"
+    },
+    {
+      "category": "Target Demographic",
+      "cunard": "55–75, British/American traditionalists",
+      "oceania": "50–70, food-focused, well-traveled"
+    }
+  ],
+  "choose_a_if": [
+    "You cherish maritime tradition, formal evenings, and the romance of ocean liners",
+    "You dream of a transatlantic crossing or world voyage with structured elegance"
+  ],
+  "choose_b_if": [
+    "Culinary excellence is your primary motivation for cruising",
+    "You prefer intimate ships, flexible dining, and extended time in port"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Cunard Line",
+      "reason": "Cunard's Kids' Zone and teen programs on Queen Mary 2 and Queen Anne provide structured activities, while Oceania's adult-oriented ambiance offers limited child facilities."
+    },
+    {
+      "type": "Food Enthusiasts",
+      "winner": "Oceania Cruises",
+      "reason": "Oceania's Culinary Center cooking school, Jacques Pépin partnership, and six gourmet restaurants including Red Ginger exceed Cunard's solid but traditional dining."
+    },
+    {
+      "type": "Solo Travelers",
+      "winner": "Cunard Line",
+      "reason": "Cunard's dedicated single cabins and ballroom dancing culture create natural social opportunities absent from Oceania's more couple-oriented environment."
+    },
+    {
+      "type": "Luxury Seekers",
+      "winner": "Oceania Cruises",
+      "reason": "Oceania's all-inclusive OLife packages, smaller ships, and Canyon Ranch spa treatments deliver more comprehensive luxury despite higher base fares."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Cunard offers superior entry-level value with lower base fares, particularly for transatlantic crossings where inside cabins start under €900. However, nickel-and-diming for specialty dining, drinks packages, and Wi-Fi erodes this advantage. Oceania's higher upfront cost incorporates more inclusions—complimentary airfare, transfers, and shore excursion credits on OLife fares—making total vacation cost comparable for balcony guests. Analytical travelers should calculate total expenditure: Cunard suits budget-conscious traditionalists, Oceania rewards those prioritizing hassle-free luxury. For seven nights, expect €1,400–€1,800 total per person on Cunard versus €2,200–€2,800 on Oceania with equivalent experiences."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Cunard accommodates families substantially better despite not being child-focused. Queen Mary 2 and Queen Anne feature supervised Kids' Zone programs for ages 2–17, family swimming pools, and early dining options. The ships' scale permits separation—children enjoy activities while parents attend formal evenings. Oceania Cruises explicitly targets adults; no dedicated children's facilities exist, and the sophisticated dining and entertainment environments prove challenging for younger passengers. Families with children under 12 should avoid Oceania entirely. Teenagers might appreciate Oceania's culinary focus and port-intensive itineraries, but Cunard remains the pragmatic choice for multigenerational travel."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Cunard's 2026 pricing begins at €899 for seven-night Mediterranean inside cabins, rising to €1,499 for balconies. Oceania's equivalent itineraries start at €1,699 inside and €2,299 for verandas—nearly double. The disparity narrows when comparing total costs: Cunard charges €45–€65 daily for drinks packages, €25 for specialty dining, and €20 for Wi-Fi. Oceania's OLife fares bundle these with airfare worth €400–€800. Transatlantic crossings uniquely favor Cunard—Oceania operates none—while Oceania's extended Asia and South America voyages justify premiums through included overland programs. Last-minute Cunard deals occasionally drop below €600; Oceania rarely discounts below €1,400."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Oceania Cruises decisively wins gastronomically. Executive Culinary Director Jacques Pépin's oversight ensures restaurant-quality consistency across six venues, including authentic Asian at Red Ginger and French at Jacques. The Culinary Center offers hands-on cooking classes rare in cruising. Cunard's food is competent—solid British and Continental cuisine in main dining rooms, excellent steakhouse at The Verandah—but lacks innovation. Cunard's strength lies in white-gloved afternoon tea service, a ceremonial tradition unmatched elsewhere. Oceania's Terrace Café buffet exceeds most competitors' main dining rooms. Serious food travelers should select Oceania; those valuing ritual over culinary adventure may prefer Cunard's structured dining experience."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Cunard suits first-timers seeking classic cruise archetypes: assigned dining, captain's receptions, ballroom dancing, and deck chair contemplation. The experience matches historical expectations—helpful for travelers uncertain about cruising. However, Cunard's formal requirements and large ships intimidate some novices. Oceania offers gentler introduction through flexible dining, intuitive small-ship layout, and inclusive pricing reducing onboard decision fatigue. First-timers prioritizing destinations over ship experience benefit from Oceania's port-intensive itineraries maximizing cultural immersion. Conversely, those wanting to 'test' cruising with minimal commitment find Cunard's lower entry fares attractive. Neither punishes inexperience, but Oceania's relaxed luxury proves more accessible for contemporary travelers."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Scale and philosophy diverge most significantly. Cunard operates large ocean liners (2,691–3,000 passengers) emphasizing maritime heritage, formal dress codes, and structured social hierarchy through Britannia/Grill dining tiers. Oceania's intimate ships (670–1,250 passengers) prioritize culinary excellence, destination immersion with overnight port stays, and egalitarian luxury. Cunard's entertainment features West End-caliber production shows, orchestras, and guest lecturers; Oceania offers cooking demonstrations, enrichment seminars, and localized entertainment. Cunard attracts British loyalists and American Anglophiles; Oceania draws well-traveled North Americans seeking gastronomic authenticity. Fundamentally, Cunard sells transportation-as-experience; Oceania sells dining-and-destination immersion. Your preference for ceremony versus casual sophistication determines suitability."
+    }
+  ]
+}

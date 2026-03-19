@@ -1,0 +1,252 @@
+{
+  "title": "MSC Cruises Mediterranean Cruises 2026",
+  "intro": "MSC Cruises brings its distinctive European flair to Mediterranean voyages, offering exceptional value for travellers seeking authentic cultural immersion. As a family-owned Italian line, MSC delivers Mediterranean cruising with unmatched authenticity, from onboard pasta-making demonstrations to multilingual ambience. Their modern fleet features some of the most environmentally advanced ships at sea, including LNG-powered vessels. Mediterranean itineraries span from the sun-drenched Greek Isles to historic Adriatic ports, with extended evening stays in key destinations allowing genuine exploration. The line's 'MSC World Class' ships offer revolutionary neighbourhood concepts, while smaller vessels access intimate harbours. With competitive pricing, extensive kids-sail-free programmes, and a strong European passenger mix, MSC provides a distinctly international cruising experience. Their private island, Ocean Cay MSC Marine Reserve in the Bahamas, occasionally features on repositioning itineraries combining Mediterranean and Caribbean segments.",
+  "quick_facts": {
+    "price_from_eur": 549,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "MSC World Europa",
+      "MSC Seaview",
+      "MSC Seaside",
+      "MSC Grandiosa",
+      "MSC Bellissima"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Genoa",
+      "Civitavecchia",
+      "Marseille",
+      "Valencia"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Nov)",
+      "inside_eur": 549,
+      "balcony_eur": 799,
+      "suite_eur": 1299
+    },
+    {
+      "season": "Peak (May-Jun, Sep-Oct)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    },
+    {
+      "season": "High Summer (Jul-Aug)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Western Mediterranean",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Genoa",
+        "Naples",
+        "Messina",
+        "Valletta",
+        "Barcelona"
+      ],
+      "price_from_eur": 549,
+      "highlight": "Iconic cities with overnight potential in Barcelona"
+    },
+    {
+      "name": "7-night Greek Isles & Adriatic",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Split",
+        "Santorini",
+        "Mykonos",
+        "Dubrovnik",
+        "Venice"
+      ],
+      "price_from_eur": 649,
+      "highlight": "Extended evening in Santorini for sunset"
+    },
+    {
+      "name": "14-night Grand Mediterranean",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Genoa",
+        "Naples",
+        "Heraklion",
+        "Suez Canal",
+        "Aqaba",
+        "Jeddah"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Repositioning with Suez Canal transit"
+    },
+    {
+      "name": "10-night Eastern Mediterranean",
+      "duration_nights": 10,
+      "ports": [
+        "Civitavecchia",
+        "Katakolon",
+        "Piraeus",
+        "Haifa",
+        "Limassol",
+        "Rhodes",
+        "Santorini",
+        "Civitavecchia"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Holy Land combination with Greek islands"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "MSC World Europa",
+      "capacity": 6762,
+      "year": 2022,
+      "best_for": "Families & modern cruisers",
+      "price_from_eur": 649
+    },
+    {
+      "name": "MSC Seaview",
+      "capacity": 5179,
+      "year": 2018,
+      "best_for": "Outdoor living enthusiasts",
+      "price_from_eur": 549
+    },
+    {
+      "name": "MSC Seaside",
+      "capacity": 5179,
+      "year": 2017,
+      "best_for": "Caribbean-style Mediterranean",
+      "price_from_eur": 549
+    },
+    {
+      "name": "MSC Grandiosa",
+      "capacity": 6334,
+      "year": 2019,
+      "best_for": "Entertainment seekers",
+      "price_from_eur": 599
+    },
+    {
+      "name": "MSC Bellissima",
+      "capacity": 5714,
+      "year": 2019,
+      "best_for": "Tech-forward travellers",
+      "price_from_eur": 549
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All meals in main dining rooms and buffet",
+    "Entertainment including theatre shows and live music",
+    "Access to pools, fitness centre, and most public areas",
+    "Kids clubs and teen programmes",
+    "Port taxes and basic service charges"
+  ],
+  "whats_extra": [
+    "Beverage packages (EUR 35-60/day)",
+    "Speciality dining (EUR 15-45/person)",
+    "Shore excursions (EUR 45-189)",
+    "Spa treatments and thermal suite access",
+    "WiFi packages (EUR 12-22/day)",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photography services",
+    "Yacht Club upgrade for premium experience"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts; monitor MSC's frequent 'Drinks & WiFi included' promotions; consider repositioning cruises in spring and autumn for exceptional value; join MSC Voyagers Club for member rates; book balcony cabins on Seaview/Seaside for maximum outdoor enjoyment",
+  "top_ports": [
+    {
+      "port": "Santorini (Thira)",
+      "time_in_port": "2pm-10pm",
+      "top_activity": "Caldera sunset dinner cruise (EUR 89)",
+      "tip": "Book evening dining ashore for iconic sunset views"
+    },
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "7am-7pm",
+      "top_activity": "City walls walk (EUR 35)",
+      "tip": "Arrive at walls by 8am to avoid cruise crowds"
+    },
+    {
+      "port": "Barcelona",
+      "time_in_port": "8am-6pm or overnight",
+      "top_activity": "Sagrada Família guided tour (EUR 45)",
+      "tip": "Pre-book tickets 30 days ahead; consider overnight itinerary"
+    },
+    {
+      "port": "Naples",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Pompeii & Vesuvius combined (EUR 89)",
+      "tip": "MSC's 'Pompeii Express' avoids main crowds"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "8am-8pm",
+      "top_activity": "Delos archaeological site (EUR 55)",
+      "tip": "Morning ferry to Delos; explore Mykonos town afternoon"
+    },
+    {
+      "port": "Valletta",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Three Cities harbour cruise (EUR 35)",
+      "tip": "Use lift from port to Upper Barrakka Gardens"
+    },
+    {
+      "port": "Katakolon (Olympia)",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Ancient Olympia tour (EUR 65)",
+      "tip": "Short port time—book ship excursion for reliability"
+    },
+    {
+      "port": "Piraeus (Athens)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Acropolis & Parthenon (EUR 55)",
+      "tip": "Metro direct from port to Acropolis; cheaper than excursion"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a MSC Cruises Mediterranean cruise cost?",
+      "answer": "MSC Mediterranean cruises typically range from EUR 549 to EUR 2,299 per person for standard cabins, with shoulder season 7-night voyages starting around EUR 549 inside, EUR 799 balcony, and EUR 1,299 suite. Peak summer pricing increases substantially, with July-August balconies reaching EUR 1,399+. The Yacht Club experience, MSC's ship-within-a-ship concept, commands premiums from EUR 2,500. Watch for promotional periods offering 'All-In' packages bundling drinks, WiFi, and service charges—often saving EUR 400+ per couple. Gratuities add approximately EUR 12 per person daily unless pre-paid. Flights, transfers, and shore excursions represent significant additional costs, with typical 7-night excursion packages exceeding EUR 400."
+    },
+    {
+      "question": "Which MSC Cruises ships sail to Mediterranean?",
+      "answer": "MSC deploys its most innovative vessels to Mediterranean homeports. MSC World Europa, the 2022 LNG-powered flagship featuring the revolutionary 'Y-shaped' open aft and promenade, operates Western Mediterranean routes from Barcelona and Genoa. MSC Seaview and MSC Seaside bring their unique outdoor-focused design with extensive pool decks and waterfront boardwalks. MSC Grandiosa and MSC Bellissima offer the line's most advanced entertainment technology including LED dome experiences. Seasonally, MSC Lirica and MSC Sinfonia provide more intimate options for Adriatic and Greek Isles itineraries. Ship deployment varies by season, with larger vessels concentrated May-September. World Europa represents MSC's environmental commitment with shore power compatibility and advanced wastewater treatment."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "May, June, September, and October offer optimal Mediterranean cruising conditions—pleasant 22-28°C temperatures, moderate crowds, and competitive pricing. May and October particularly reward with wildflower displays and harvest activities. June provides longest daylight hours for sightseeing. September maintains warm sea temperatures ideal for beach extensions. July and August bring intense heat often exceeding 35°C, peak pricing, and overcrowded attractions, though suit families constrained by school holidays. March-April and November offer exceptional value with temperatures 15-20°C, though unpredictable weather and limited swimming. Winter Mediterranean cruises are rare except repositioning voyages. MSC's shoulder season positioning typically delivers 30-40% savings versus peak summer with more authentic port experiences and comfortable exploration conditions."
+    },
+    {
+      "question": "What is included?",
+      "answer": "MSC Mediterranean cruises include accommodation, all main restaurant and buffet meals, standard entertainment including Broadway-style theatre productions, live music, pools, fitness centre access, and comprehensive children's programming through age 17. The line's 'Fantastica' and 'Aurea' experience levels add priority boarding, cabin location choice, and spa access respectively. Notably excluded are beverages beyond basic water, tea, and coffee at meals; WiFi; speciality dining; and shore excursions. MSC's 'All-In' promotional periods bundle drinks packages and WiFi—worth seeking. Gratuities are technically optional but automatically added at EUR 12 daily. The Yacht Club experience includes premium drinks, butler service, private restaurant, and exclusive sundeck at substantial premium. Room service incurs delivery charges except for Yacht Club guests."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "MSC Mediterranean itineraries span three primary regions. Western Mediterranean routes typically include Barcelona, Marseille, Genoa, Naples, Messina, and Valletta with occasional Lisbon and Cadiz calls. Eastern Mediterranean voyages feature Venice, Split, Dubrovnik, Katakolon, Piraeus, Santorini, Mykonos, Rhodes, Limassol, and Haifa. Adriatic-focused itineraries emphasise Venice, Split, Kotor, and Dubrovnik with Greek island extensions. MSC's unique strength includes overnight stays in Barcelona, Haifa, and Istanbul on select itineraries, enabling deeper exploration. The line occasionally offers Holy Land combinations visiting Jerusalem via Ashdod. Repositioning cruises in spring and autumn transit the Suez Canal connecting Mediterranean and Red Sea/Arabian Gulf itineraries. Homeports include Barcelona, Genoa, Civitavecchia, Marseille, and Venice with seasonal Valencia and Bari additions."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book MSC Mediterranean cruises 9-12 months ahead for optimal cabin selection, particularly for Yacht Club suites and preferred balcony locations on Seaview/Seaside's unique outward-facing designs. Early booking typically secures 'All-In' promotional rates bundling drinks and WiFi worth EUR 400+ per couple. Peak summer and holiday periods require maximum advance planning. However, MSC frequently releases last-minute deals 60-90 days before sailing, especially for interior cabins—ideal for flexible travellers. Shoulder season bookings can be successful 3-6 months ahead. Group bookings of 8+ cabins should plan 12-18 months ahead for best rates and dining arrangements. Monitor MSC's website for 'Cruise Deals' section and consider working with agents accessing group space. Repositioning cruises often see deepest discounts 30-45 days pre-departure."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "MSC excels as a family-friendly Mediterranean option with industry-leading children's programmes and exceptional value. Kids aged 2-17 sail free on many itineraries when sharing cabins with parents—paying only port taxes. The complimentary kids clubs operate in five age divisions with multilingual staff, operating until midnight. Teen zones include dedicated discos and video game areas. Family cabins accommodating 3-5 passengers are abundant and well-designed. Water parks, bowling alleys, and Formula 1 simulators entertain across ages. Dining flexibility accommodates picky eaters with extensive buffet options. The line's European passenger mix exposes children to international cultures. Potential drawbacks include late dining seatings, smoking-permitted casino areas, and multilingual announcements. MSC's 'Family Explorer' shore excursions specifically designed for multi-generational groups address varying energy levels and interests."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "MSC's standard cancellation policy imposes penalties escalating by departure proximity. Cancellations 90+ days before sailing typically forfeit deposit only (EUR 200-400 depending on voyage length and cabin category). 89-61 days incurs 25% penalty; 60-46 days 50%; 45-16 days 75%; and 15 days or less forfeits 100% of cruise fare. 'Bella' experience bookings carry stricter terms than 'Fantastica' or 'Aurea'. Cancellation protection plans, available for purchase within 14 days of initial deposit, refund 90% of non-refundable amounts for covered reasons or provide future cruise credits for cancellations up to departure day for any reason. COVID-19 policies have evolved; currently standard terms apply though MSC maintains flexibility for positive tests documented within 10 days of sailing. Travel insurance with 'cancel for any reason' coverage is strongly recommended given Mediterranean flight disruption risks."
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "title": "Cunard Line Northern Europe Cruises 2026",
+  "intro": "Cunard Line brings its legendary transatlantic heritage to Northern Europe with refined voyages aboard iconic ocean liners. Experience the Norwegian fjords, Baltic capitals, and Arctic wonders with white-glove service, formal evenings, and sophisticated enrichment programmes that celebrate maritime tradition. Queen Mary 2 and Queen Anne navigate dramatic coastlines from Hamburg to Reykjavik, offering spacious staterooms, the largest libraries at sea, and planetarium shows unique to Cunard. Passengers enjoy afternoon tea served by white-gloved waiters, ballroom dancing, and lectures from historians and naturalists. Northern Europe itineraries showcase the midnight sun, Viking history, and contemporary Scandinavian design. Cunard appeals to discerning travellers seeking elegance over entertainment excess, with dress codes, single-seating dining, and a refined atmosphere distinguished from mainstream cruising. The line's British heritage complements destinations from Edinburgh's castles to St. Petersburg's palaces.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug"
+    ],
+    "ships_on_route": [
+      "Queen Mary 2",
+      "Queen Anne"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Hamburg",
+      "Rotterdam"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Oct)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1699,
+      "balcony_eur": 2499,
+      "suite_eur": 4999
+    },
+    {
+      "season": "Late Summer (Aug-Sep)",
+      "inside_eur": 1499,
+      "balcony_eur": 2199,
+      "suite_eur": 4299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Norwegian Fjords",
+      "duration_nights": 7,
+      "ports": [
+        "Southampton",
+        "Stavanger",
+        "Olden",
+        "Hellesylt",
+        "Geiranger",
+        "Bergen",
+        "Southampton"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "UNESCO-listed Geirangerfjord and dramatic cliff scenery"
+    },
+    {
+      "name": "14-night Baltic Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Hamburg",
+        "Copenhagen",
+        "Stockholm",
+        "Tallinn",
+        "St. Petersburg",
+        "Helsinki",
+        "Warnemünde",
+        "Southampton"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Two full days in imperial St. Petersburg with visa-free shore access"
+    },
+    {
+      "name": "12-night Iceland & British Isles",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Edinburgh",
+        "Invergordon",
+        "Lerwick",
+        "Tórshavn",
+        "Reykjavik",
+        "Isafjordur",
+        "Akureyri",
+        "Southampton"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Midnight sun experiences and geothermal wonders of Iceland"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Mary 2",
+      "capacity": 2695,
+      "year": 2003,
+      "best_for": "Traditional luxury seekers, transatlantic enthusiasts",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Queen Anne",
+      "capacity": 3000,
+      "year": 2024,
+      "best_for": "Contemporary luxury with Cunard heritage",
+      "price_from_eur": 1399
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom grade",
+    "Breakfast, lunch and dinner in main dining rooms",
+    "Afternoon tea in Queens Room",
+    "Nightly entertainment and enrichment lectures",
+    "Planetarium shows (Queen Mary 2)",
+    "Use of fitness centre and pools",
+    "Children's programming (The Zone, Play Zone)",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverages and wine packages",
+    "Shore excursions and port transfers",
+    "Speciality dining (Verandah, Steakhouse)",
+    "Spa treatments and salon services",
+    "Internet packages and telephone calls",
+    "Gratuities (€14 per person per day)",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for best cabin selection and early booking discounts up to 25%. Fares include onboard credit promotions typically released October-November for following summer. Consider Cunard World Club loyalty status for additional savings. Balcony cabins on port side recommended for fjord sailing. World Voyage segments offer exceptional value for longer itineraries.",
+  "top_ports": [
+    {
+      "port": "Geiranger",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Dalsnibba viewpoint and Eagle Road coach tour (€89)",
+      "tip": "Book port side cabin for fjord approach"
+    },
+    {
+      "port": "St. Petersburg",
+      "time_in_port": "Overnight 7am day 2-6pm",
+      "top_activity": "Hermitage Museum private tour with early entry (€189)",
+      "tip": "Cunard arranges visa-free shore access—book excursions early"
+    },
+    {
+      "port": "Reykjavik",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Golden Circle coach tour with Geysir and Gullfoss (€119)",
+      "tip": "Currency not required—cards accepted everywhere"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Fløibanen funicular and Edvard Grieg museum (€65)",
+      "tip": "Fish market lunch offers authentic local experience"
+    },
+    {
+      "port": "Tallinn",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Medieval Old Town walking tour with Toompea Castle (€55)",
+      "tip": "Compact centre—easy independent exploration"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Northern Europe cruise cost?",
+      "answer": "Cunard Northern Europe cruises start from €1,299 for inside cabins on 7-night Norwegian fjord itineraries, with balcony staterooms from €1,899 and suites from €3,499. Peak summer departures command premiums of 20-30% above shoulder season. Longer Baltic or Iceland voyages range €2,199-€4,999 depending on duration and accommodation grade. Fares include meals, afternoon tea, and entertainment, with beverages, excursions, and gratuities adding €400-€800 per person for a typical week. Early booking discounts and onboard credit promotions can reduce effective costs significantly when reserved 12-18 months ahead."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Northern Europe?",
+      "answer": "Queen Mary 2 and Queen Anne operate Northern Europe itineraries from May through September. Queen Mary 2, the flagship ocean liner, offers 7-night Norwegian fjords and 14-night Baltic voyages with her distinctive transatlantic heritage, planetarium, and kennels. Queen Anne, launched 2024, brings contemporary luxury with expanded balcony accommodation, new speciality dining venues, and enhanced spa facilities while maintaining Cunard traditions. Both ships sail from Southampton, with Queen Anne also offering Hamburg and Rotterdam departures. Queen Victoria occasionally substitutes for maintenance periods."
+    },
+    {
+      "question": "When is best time to cruise Northern Europe?",
+      "answer": "June and July offer optimal conditions with long daylight hours, mild temperatures of 15-22°C, and peak accessibility for fjord and Arctic destinations. May and September provide lower fares and fewer crowds with acceptable weather, though some attractions have reduced hours. Midnight sun experiences occur above the Arctic Circle from late May to mid-July. August brings warmest sea temperatures for swimming pools but highest prices. Avoid April and October when weather becomes unpredictable and some ports reduce cruise calls. St. Petersburg is accessible May-September only."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard fares include accommodation, all meals in Britannia or Grills restaurants, afternoon tea, nightly entertainment, enrichment lectures, fitness centre access, children's programming, and port taxes. Queen Mary 2 includes unique planetarium shows. Not included are beverages, wine packages, speciality dining, shore excursions, spa services, internet, telephone, laundry, and gratuities of €14 per person daily. Grills-level bookings include additional perks: priority embarkation, exclusive restaurant access, butler service in suites, and complimentary bar setups. All fares include 24-hour room service and nightly turndown with chocolates."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Northern Europe itineraries feature Norwegian fjord ports including Geiranger, Olden, Flåm, and Bergen with dramatic glacier-carved landscapes. Baltic routes visit Copenhagen, Stockholm, Tallinn, Helsinki, and overnight in St. Petersburg for imperial palace and museum access. Iceland calls include Reykjavik, Akureyri, and Isafjordur for geothermal and volcanic experiences. British Isles extensions feature Edinburgh, Invergordon for Loch Ness, and Lerwick in Shetland. Arctic Circle voyages reach Tromsø and Honningsvåg. Hamburg, Rotterdam, and Southampton serve as primary embarkation points with excellent rail connections."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Reserve Cunard Northern Europe cruises 9-18 months ahead for optimal stateroom selection, particularly for port-side balcony cabins preferred for fjord scenery. Early booking discounts of 15-25% typically apply 12+ months before departure. Queen Anne's maiden season 2024-2025 saw rapid sellouts suggesting comparable demand for 2026. Grills suites require earliest booking due limited inventory. World Voyage segments released 18 months advance offer exceptional value. Final payment due 90 days before sailing. Last-minute availability exists occasionally for inside cabins at 60-90 days, though itinerary and cabin choice become severely restricted."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard welcomes families but maintains adult-oriented atmosphere with formal dress codes and refined entertainment unsuited to young children. The Zone (ages 8-17) and Play Zone (under 7s) operate sea days and select evenings only, not full days. No waterslides, ropes courses, or character meet-and-greets found on mainstream lines. Families appreciate spacious staterooms, swimming pools, and educational programming. Recommended for ages 12+ with interest in history, culture, and maritime heritage. School holiday sailings include enhanced children's activities. Families seeking constant entertainment should consider alternatives; those valuing shared cultural experiences find Cunard distinctive and memorable."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's standard cancellation policy charges deposit loss immediately upon booking for fares under €2,500, with escalating penalties from 90 days before sailing: 25% of fare at 90-61 days, 50% at 60-31 days, 75% at 30-15 days, and 100% within 14 days. Cruise protection plans available at 8% of fare provide cancellation for covered reasons plus interruption protection. COVID-19 flexible booking terms allowed transfers to future sailings with full credit during 2020-2022; standard terms now apply. Grills suite bookings carry stricter penalties with non-refundable deposits. Travel insurance strongly recommended given Northern Europe weather-related disruption possibilities."
+    }
+  ]
+}

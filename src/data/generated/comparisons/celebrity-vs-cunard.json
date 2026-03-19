@@ -1,0 +1,147 @@
+{
+  "title": "Celebrity Cruises vs Cunard Line 2026",
+  "intro": "Celebrity Cruises and Cunard Line represent two distinct approaches to premium ocean cruising. Celebrity offers contemporary sophistication with modern design, innovative dining, and destination-focused itineraries appealing to affluent professionals. Cunard delivers timeless British elegance, formal traditions, and transatlantic heritage attracting those seeking classic maritime experiences. Both occupy the upper-premium segment, yet diverge significantly in atmosphere, dress codes, and onboard culture. Celebrity prioritises relaxed luxury and culinary excellence, while Cunard maintains structured formality with gala evenings and afternoon tea rituals. Understanding these fundamental differences ensures travellers select the line matching their personal preferences for dress, dining, and daily rhythm at sea.",
+  "at_a_glance": {
+    "celebrity": {
+      "price_tier": "mid-premium",
+      "avg_7night_inside_eur": 899
+    },
+    "cunard": {
+      "price_tier": "mid-premium",
+      "avg_7night_inside_eur": 749
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Average 7-night inside cabin",
+      "celebrity": "€899",
+      "cunard": "€749"
+    },
+    {
+      "category": "Average balcony cabin",
+      "celebrity": "€1,299",
+      "cunard": "€1,149"
+    },
+    {
+      "category": "Gratuities (per person/day)",
+      "celebrity": "€18",
+      "cunard": "€16"
+    },
+    {
+      "category": "Specialty dining average",
+      "celebrity": "€55-75",
+      "cunard": "€35-55"
+    },
+    {
+      "category": "Drinks package (7 nights)",
+      "celebrity": "€420",
+      "cunard": "€385"
+    },
+    {
+      "category": "WiFi (7 nights)",
+      "celebrity": "€210",
+      "cunard": "€175"
+    },
+    {
+      "category": "Fleet size",
+      "celebrity": "15 ships",
+      "cunard": "3 ships"
+    },
+    {
+      "category": "Passenger capacity range",
+      "celebrity": "2,218-3,405",
+      "cunard": "2,081-3,005"
+    },
+    {
+      "category": "Dress code emphasis",
+      "celebrity": "Smart casual",
+      "cunard": "Formal/Black tie"
+    },
+    {
+      "category": "Sea days focus",
+      "celebrity": "Wellness & culinary",
+      "cunard": "Enrichment & tradition"
+    }
+  ],
+  "choose_a_if": [
+    "You prefer contemporary design and modern luxury aesthetics",
+    "Destination immersion and shore excursions matter most",
+    "You want flexible, anytime dining without fixed seating",
+    "Wellness, spa, and fitness are vacation priorities",
+    "You enjoy innovative, globally-inspired cuisine",
+    "Relaxed dress codes suit your travel style",
+    "You value extensive entertainment and nightlife options"
+  ],
+  "choose_b_if": [
+    "You appreciate formal traditions and elegant gala evenings",
+    "Transatlantic crossings and sea voyages appeal to you",
+    "You prefer structured days with set dining times",
+    "British maritime heritage and afternoon tea rituals attract you",
+    "You seek intellectual enrichment through lectures and workshops",
+    "Classic ocean liner atmosphere matters more than modern amenities",
+    "You enjoy ballroom dancing and traditional entertainment"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with children",
+      "winner": "Celebrity Cruises",
+      "reason": "Camp at Sea programme, more flexible dining, and modern facilities better accommodate multi-generational families than Cunard's adult-oriented, formal environment."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Tie",
+      "reason": "Celebrity offers intimate modern luxury; Cunard provides timeless glamour. Choice depends on preference for contemporary or classic romantic atmosphere."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Celebrity Cruises",
+      "reason": "Purpose-built solo cabins, dedicated single supplements, and more social programming create better independent travel experience than Cunard's couples-focused design."
+    },
+    {
+      "type": "Luxury seekers",
+      "winner": "Celebrity Cruises",
+      "reason": "The Retreat suite complex, Luminae restaurant, and more inclusive pricing edge ahead of Cunard's traditional but less comprehensive premium offerings."
+    },
+    {
+      "type": "Traditionalists",
+      "winner": "Cunard Line",
+      "reason": "Unmatched heritage, white-glove service, and maintained maritime rituals satisfy those seeking authentic classic cruising experience."
+    },
+    {
+      "type": "Food enthusiasts",
+      "winner": "Celebrity Cruises",
+      "reason": "Eden restaurant, Le Petit Chef, and 29 distinct dining venues outperform Cunard's solid but less innovative culinary programme."
+    },
+    {
+      "type": "Cultural explorers",
+      "winner": "Celebrity Cruises",
+      "reason": "Destination-focused itineraries, longer port stays, and immersive shore excursions prioritise exploration over Cunard's sea voyage emphasis."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Cunard typically offers lower base fares, particularly for transatlantic crossings and traditional itineraries, with 7-night Mediterranean cruises starting around €749 inside compared to Celebrity's €899. However, Celebrity includes more in their base price, particularly with promotional packages bundling drinks, WiFi, and gratuities. When comparing fully-loaded costs, the difference narrows considerably. Cunard's a la carte pricing for extras can accumulate, while Celebrity's more inclusive approach provides predictable budgeting. Value ultimately depends on your consumption patterns; light drinkers and independent travellers may find Cunard cheaper, while those wanting comprehensive packages benefit from Celebrity's bundled offerings."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Celebrity Cruises significantly outperforms Cunard for family travel. Camp at Sea offers age-appropriate programming for 3-17 year-olds with STEM activities, arts, and sports, operating daily until midnight. Family-friendly accommodations include connecting rooms and suite configurations unavailable on Cunard. Dining flexibility accommodates picky eaters and irregular schedules, while pools and recreational facilities welcome children throughout the day. Cunard's programme, while existent, operates more limited hours and lacks the infrastructure investment of Celebrity. The formal atmosphere, fixed dining, and adult-oriented entertainment on Cunard create friction for families, making Celebrity the clear recommendation for those travelling with children."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Base pricing shows Cunard approximately 15-20% lower for comparable itineraries, with Mediterranean 7-nights averaging €749 inside versus Celebrity's €899. Balcony differential remains similar at roughly €150-200. However, pricing structures diverge significantly. Celebrity frequently promotes inclusive packages adding drinks, WiFi, and gratuities worth €600+ per person weekly. Cunard maintains traditional a la carte pricing where beverages, internet, and service charges accumulate separately. Transatlantic crossings represent Cunard's strongest value proposition, often pricing 40% below comparable Celebrity repositioning cruises. Suite categories show narrower gaps, with both lines pricing premium accommodations similarly. Last-minute availability favours Cunard due to smaller fleet and capacity constraints."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Celebrity Cruises leads in culinary innovation and variety, offering 29 distinct dining venues across their Edge-class ships, including the theatrical Eden restaurant, interactive Le Petit Chef, and Daniel Boulud partnerships. Main dining room quality exceeds industry standards with regionally-inspired menus. Cunard provides solid, traditional cuisine emphasising British and continental classics executed reliably but without comparable creativity. Their strength lies in white-glove service and formal presentation rather than gastronomic adventure. Specialty dining on Celebrity commands €55-75 versus Cunard's €35-55, reflecting quality differentials. Vegetarian, vegan, and dietary accommodation is more sophisticated on Celebrity. Cunard's afternoon tea remains unmatched, representing their singular culinary achievement."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Celebrity Cruises better suits first-time cruisers through intuitive ship design, flexible scheduling, and contemporary resort-style atmosphere reducing intimidation factors. The mobile app streamlines reservations, dining, and activity planning, while anytime dining eliminates anxiety about fixed seating protocols. Crew training emphasises welcoming novices, explaining traditions without condescension. Cunard's formal requirements, structured days, and maritime customs create potential friction for those uncertain about cruise expectations. The learning curve for Cunard's etiquette—gala evenings, afternoon tea protocols, ballroom dancing—can overwhelm beginners. However, travellers specifically seeking classic cruise romance may find Cunard's distinctive experience worth the adjustment period, provided expectations are properly set beforehand."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Atmosphere represents the fundamental divergence: Celebrity embodies relaxed modern luxury with smart-casual dress codes, flexible scheduling, and contemporary design; Cunard preserves formal maritime traditions with gala evenings, structured days, and classical elegance. Celebrity's fleet of 15 newer ships emphasises destination immersion, wellness, and culinary innovation. Cunard's three-vessel fleet prioritises sea voyages, enrichment programming, and transatlantic heritage. Dining approaches contrast sharply—Celebrity offers 29 venues with global experimentation; Cunard maintains traditional British service with set seating. Entertainment differs similarly: Celebrity provides Broadway-style productions and nightlife; Cunard features ballroom dancing, lectures, and classical music. Demographically, Celebrity attracts 45-65 affluent professionals; Cunard draws 55-75 established traditionalists seeking heritage experiences."
+    }
+  ]
+}

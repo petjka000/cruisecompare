@@ -1,0 +1,200 @@
+{
+  "title": "Royal Caribbean Indian Ocean Cruises 2026",
+  "intro": "Royal Caribbean brings its signature innovation and adventure to the Indian Ocean, combining exotic destinations with world-class ship amenities. Sail from Dubai, Singapore, or Mumbai aboard magnificent vessels designed for tropical exploration. Experience the perfect blend of cultural immersion and resort-style relaxation as you discover pristine beaches in the Maldives, vibrant markets in Sri Lanka, and the stunning Seychelles archipelago. Royal Caribbean's Indian Ocean itineraries offer unique opportunities for snorkeling over coral reefs, exploring UNESCO World Heritage sites, and enjoying private island experiences. With exceptional dining, Broadway-caliber entertainment, and adventure activities from rock climbing to surfing simulators, these cruises deliver unforgettable journeys where ancient spice routes meet modern luxury. Ideal for families, couples, and multigenerational travelers seeking both discovery and comfort.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Wonder of the Seas",
+      "Oasis of the Seas",
+      "Spectrum of the Seas"
+    ],
+    "departure_ports": [
+      "Dubai",
+      "Singapore",
+      "Mumbai",
+      "Colombo"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    },
+    {
+      "season": "Shoulder (Mar-May, Oct-Nov)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1699
+    },
+    {
+      "season": "Low (Jun-Sep)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Arabian Sea & India",
+      "duration_nights": 7,
+      "ports": [
+        "Dubai",
+        "Muscat",
+        "Mumbai",
+        "Goa",
+        "Dubai"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Cultural immersion from futuristic Dubai to historic Goa"
+    },
+    {
+      "name": "10-night Southeast Asia & Indian Ocean",
+      "duration_nights": 10,
+      "ports": [
+        "Singapore",
+        "Phuket",
+        "Colombo",
+        "Male",
+        "Cochin",
+        "Singapore"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Maldives paradise with overnight in Male"
+    },
+    {
+      "name": "14-night Grand Indian Ocean Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Dubai",
+        "Muscat",
+        "Mumbai",
+        "Goa",
+        "Mangalore",
+        "Cochin",
+        "Colombo",
+        "Male",
+        "Dubai"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Comprehensive exploration of India, Sri Lanka and Maldives"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Wonder of the Seas",
+      "capacity": 5732,
+      "year": 2022,
+      "best_for": "Families and multigenerational groups",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Spectrum of the Seas",
+      "capacity": 4246,
+      "year": 2019,
+      "best_for": "Asian market focus with enhanced features",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Oasis of the Seas",
+      "capacity": 5594,
+      "year": 2009,
+      "best_for": "Adventure seekers and entertainment lovers",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and select casual venues",
+    "Broadway-style entertainment and live shows",
+    "Access to pools, fitness center, and most ship facilities",
+    "Kids and teens programming (Adventure Ocean)",
+    "Room service breakfast",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages and individual drinks (€8-15 per cocktail)",
+    "Specialty dining restaurants (€35-65 per person)",
+    "Shore excursions (€45-189 per person)",
+    "WiFi packages (€15-25 per day)",
+    "Spa treatments and salon services",
+    "Gratuities (€16 per person per day recommended)",
+    "Laundry and dry cleaning",
+    "Casino and shopping purchases",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts of up to 30%. Wave season (January-March) offers the strongest promotions including onboard credit and complimentary beverage packages. Consider repositioning cruises in April and October for exceptional value. Balcony cabins are highly recommended for Indian Ocean itineraries due to stunning coastal and island scenery. Solo travelers should watch for reduced single supplement promotions.",
+  "top_ports": [
+    {
+      "port": "Male, Maldives",
+      "time_in_port": "7am-6pm (overnight on select sailings)",
+      "top_activity": "Private sandbank excursion with snorkeling (€159)",
+      "tip": "Book water villa day pass early; limited availability"
+    },
+    {
+      "port": "Colombo, Sri Lanka",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Sigiriya Rock Fortress UNESCO tour (€189)",
+      "tip": "Full day tour requires early departure; reserve ship excursion"
+    },
+    {
+      "port": "Mumbai, India",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Bollywood studio tour with Elephanta Caves (€129)",
+      "tip": "Traffic is unpredictable; stick to organized tours"
+    },
+    {
+      "port": "Phuket, Thailand",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Phi Phi Islands speedboat with beach barbecue (€149)",
+      "tip": "May-September rainy season affects water clarity"
+    },
+    {
+      "port": "Muscat, Oman",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Wahiba Sands desert safari with dune bashing (€139)",
+      "tip": "Conservative dress code required outside resort areas"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Indian Ocean cruise cost?",
+      "answer": "Royal Caribbean Indian Ocean cruises typically range from €699 to €2,499 per person for 7-14 night itineraries. Inside cabins start around €699-899 in low season, rising to €899-1,199 during peak December-February period. Balcony cabins, highly recommended for scenic cruising, cost €999-1,599 depending on season. Suite accommodations range from €1,499 to €2,499+. Prices exclude gratuities, beverages, and excursions. Early booking discounts of 20-30% are common, and Wave Season promotions (January-March) frequently add onboard credit and complimentary packages."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Indian Ocean?",
+      "answer": "Royal Caribbean deploys its most innovative ships to the Indian Ocean region. Wonder of the Seas, the world's largest cruise ship (5,732 guests, 2022), offers Dubai-based itineraries with unmatched amenities including the Suite Neighborhood and Wonder Playscape. Spectrum of the Seas (4,246 guests, 2019) is specifically designed for the Asian market with enhanced features like the Sky Pad virtual reality experience and Golden Suite class. Oasis of the Seas (5,594 guests, 2009) brings the original neighborhood concept with Central Park and Boardwalk areas. These vessels rotate seasonally, with repositioning cruises connecting Asia and Europe."
+    },
+    {
+      "question": "When is best time to cruise Indian Ocean?",
+      "answer": "The optimal period for Royal Caribbean Indian Ocean cruises is December through February, when temperatures range 26-30°C with minimal rainfall and calm seas. This dry season coincides with European winter, making it ideal for escaping cold weather. March-April and October-November offer good value with slightly higher humidity but fewer crowds. Avoid June through September when monsoon rains affect the western Indian Ocean, particularly Maldives and Sri Lanka, though Dubai-based itineraries remain viable year-round. Peak season prices reflect perfect weather conditions, while shoulder months provide 15-25% savings with acceptable conditions."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean Indian Ocean cruises include accommodation, all main dining room meals, and access to Windjammer buffet and select casual venues like Sorrento's Pizza and Café Promenade. Entertainment encompasses Broadway-caliber shows in the main theater, AquaTheater performances on Oasis-class ships, ice skating shows, and live music throughout the vessel. Fitness center access, pools, waterslides, and Adventure Ocean youth programming are complimentary. Room service breakfast carries no charge. Not included are beverages beyond basic coffee, tea, and water; specialty restaurants; shore excursions; WiFi; spa services; and gratuities. Beverage packages (€55-75 per day) and dining packages offer savings for those planning extensive use."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean's Indian Ocean itineraries feature diverse ports spanning ancient trading centers and tropical paradises. Key destinations include Dubai (UAE) for its futuristic architecture and traditional souks; Male and resort atolls in the Maldives for world-class snorkeling and overwater experiences; Colombo and Hambantota in Sri Lanka offering UNESCO sites like Sigiriya and tea plantations; Mumbai and Goa representing India's cultural depth and Portuguese heritage; Phuket (Thailand) for iconic limestone karsts and beaches; and Muscat (Oman) with its dramatic mountain and desert landscapes. Singapore frequently serves as embarkation point for eastern itineraries, combining urban sophistication with gateway access."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Royal Caribbean Indian Ocean cruises, booking 9-12 months in advance secures optimal cabin selection, particularly for balcony rooms and suites facing scenic coastlines. Early booking discounts typically offer 20-30% savings plus reduced deposits. Wave Season (January-March) brings the year's strongest promotions including onboard credit, complimentary beverage packages, and kids sail free offers. For peak December-February departures, especially Christmas and New Year sailings, book 12-18 months ahead as these sell out rapidly. Last-minute deals exist for low-season repositioning cruises in April-May and October, though cabin categories are limited. Solo travelers should book early as single-occupancy cabins are scarce."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean Indian Ocean cruises excel for families, combining educational cultural exposure with unmatched shipboard facilities. Adventure Ocean provides complimentary age-appropriate programming for ages 3-17, including science experiments, themed parties, and teen lounges with supervised activities. Shore excursions in India, Sri Lanka, and Oman offer enriching experiences from elephant sanctuaries to spice plantation tours suitable for school-age children. Onboard, families enjoy the Ultimate Abyss slide, FlowRider surf simulator, rock climbing walls, and ice skating rinks. Family-connected staterooms and suites accommodate larger groups. The diverse itinerary appeals to multigenerational travelers, with something for grandparents, parents, and children across varied ports and sea days."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's cancellation policy for Indian Ocean cruises varies by fare type and sailing date. Standard refundable deposits allow cancellation with full refund up to final payment, typically 90 days before departure for 7-night cruises and 120 days for longer voyages. Non-refundable deposits offer lower fares but forfeit deposit amount upon cancellation. After final payment, penalties escalate: 75-89 days prior costs 25% of total fare; 50-74 days costs 50%; 30-49 days costs 75%; and under 30 days forfeits 100%. Cancel For Any Reason protection, available as upgrade, provides future cruise credit for 75% of cancellation penalties. COVID-19 protocols may modify policies; currently, positive tests within 10 days of sailing qualify for full refund or future cruise credit."
+    }
+  ]
+}

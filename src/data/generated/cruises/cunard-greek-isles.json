@@ -1,0 +1,199 @@
+{
+  "title": "Cunard Line Greek Isles Cruises 2026",
+  "intro": "Cunard Line brings its legendary White Star Service to the Greek Isles, offering a refined voyage aboard iconic ocean liners. Unlike mass-market alternatives, Cunard delivers transatlantic heritage with afternoon tea, gala evenings, and distinguished enrichment programmes as you island-hop through the Aegean. Queen Anne, the newest flagship, joins Queen Victoria on these Mediterranean routes in 2026. Passengers experience Santorini's caldera from a promenade deck, Mykonos' windmills from an elegant balcony, and Rhodes' medieval streets after a proper English breakfast. Cunard's Greek Isles itineraries typically embark from Southampton or Rome (Civitavecchia), with select fly-cruises from Athens. The line appeals to discerning travellers seeking cultural immersion rather than water slides—though families are welcome, the atmosphere skews sophisticated. With single-seating dining, extensive libraries, and planetarium shows at sea, Cunard transforms Greek island exploration into an occasion.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Queen Anne",
+      "Queen Victoria"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Rome (Civitavecchia)",
+      "Athens (Piraeus)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1699,
+      "balcony_eur": 2499,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Festive (Dec)",
+      "inside_eur": 1599,
+      "balcony_eur": 2299,
+      "suite_eur": 4299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles Explorer",
+      "duration_nights": 7,
+      "ports": [
+        "Athens (Piraeus)",
+        "Mykonos",
+        "Kusadasi (Ephesus)",
+        "Patmos",
+        "Rhodes",
+        "Santorini",
+        "Athens (Piraeus)"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Overnight in Santorini with sunset dining"
+    },
+    {
+      "name": "14-night Mediterranean & Greek Isles",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Barcelona",
+        "Rome (Civitavecchia)",
+        "Naples",
+        "Santorini",
+        "Mykonos",
+        "Athens (Piraeus)",
+        "Kotor",
+        "Valletta",
+        "Southampton"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Full transatlantic-style experience with four sea days"
+    },
+    {
+      "name": "12-night Adriatic & Greek Isles",
+      "duration_nights": 12,
+      "ports": [
+        "Rome (Civitavecchia)",
+        "Dubrovnik",
+        "Corfu",
+        "Katakolon (Olympia)",
+        "Santorini",
+        "Rhodes",
+        "Mykonos",
+        "Athens (Piraeus)",
+        "Naples",
+        "Rome (Civitavecchia)"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Combines Croatia's coast with classic Greek islands"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Anne",
+      "capacity": 3000,
+      "year": 2024,
+      "best_for": "Modern luxury seekers, art enthusiasts",
+      "price_from_eur": 1499
+    },
+    {
+      "name": "Queen Victoria",
+      "capacity": 2078,
+      "year": 2007,
+      "best_for": "Traditional Cunard loyalists, couples",
+      "price_from_eur": 1299
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining rooms and buffet",
+    "Afternoon tea service",
+    "Evening entertainment and enrichment lectures",
+    "Gym and fitness classes",
+    "Children's programming (The Play Zone)",
+    "Port taxes and fees",
+    "White Star Service gratuities"
+  ],
+  "whats_extra": [
+    "Beverages and specialty coffees",
+    "Shore excursions",
+    "Specialty dining (Verandah, Lido alternative restaurants)",
+    "Spa treatments and thermal suite access",
+    "Satellite internet packages",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking savings of up to 25%. Cunard releases itineraries 18 months in advance. Shoulder season (May, October) offers optimal value with mild weather. Consider Cunard Fare for flexibility or Early Saver for lowest rates. Solo travellers should book early as single cabins sell rapidly. Past passengers receive advance booking windows and onboard credit incentives.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "7am-8pm or overnight",
+      "top_activity": "Caldera sunset catamaran cruise with dinner (€189)",
+      "tip": "Book portside cabins for volcano views; tendering required—priority disembarkation for Cunard Grill guests"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "8am-6pm or overnight",
+      "top_activity": "Delos archaeological site guided tour (€149)",
+      "tip": "Wander Little Venice early morning before cruise crowds; beach clubs 15-minute taxi from port"
+    },
+    {
+      "port": "Rhodes",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Palace of the Grand Masters and medieval walking tour (€129)",
+      "tip": "Lindos acropolis alternative available; compact old town walkable from pier"
+    },
+    {
+      "port": "Athens (Piraeus)",
+      "time_in_port": "6am-6pm",
+      "top_activity": "Acropolis and Parthenon with skip-the-line access (€159)",
+      "tip": "Metro connects port to city centre for independent exploration; allow 90 minutes return"
+    },
+    {
+      "port": "Katakolon (Olympia)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Ancient Olympia archaeological site and museum (€119)",
+      "tip": "Small port with limited facilities—excursion recommended; site 35-minute drive inland"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Greek Isles cruise cost?",
+      "answer": "Cunard Greek Isles cruises in 2026 range from €1,299 for an inside cabin on Queen Victoria during shoulder season to €4,899+ for Queens Grill suites in peak summer. Typical 7-night fly-cruises average €1,699-€2,499 for balcony accommodations. Fares include meals, entertainment, and gratuities, though beverages, excursions, and specialty dining add €400-€800 per person weekly. Early booking discounts of 15-25% apply 9-12 months ahead. Solo travellers pay 150-175% supplement unless booking dedicated single cabins. Cunard's fare structure offers three tiers: Early Saver (lowest, restrictive), Select (moderate flexibility with onboard credit), and Flexible (full cancellation rights)."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Greek Isles?",
+      "answer": "Cunard deploys Queen Anne and Queen Victoria to Greek Isles routes in 2026. Queen Anne, launched 2024, brings modern luxury with 3,000 passengers, expanded wellness facilities, and contemporary art programming. Queen Victoria, a 2,078-guest vessel refreshed in 2023, maintains traditional Cunard elegance with intimate proportions and loyal following. Queen Anne operates primarily from Rome and Athens on 7-12 night intensive Greek itineraries, while Queen Victoria offers longer 14-night voyages from Southampton combining Spain, Italy, and Greece. Neither Queen Mary 2 nor Queen Elizabeth are scheduled for Greek Isles in 2026—QM2 maintains transatlantic crossings, while Queen Elizabeth focuses on Asia-Pacific."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May, June, September, and October deliver optimal Greek Isles cruising conditions with temperatures 22-28°C, minimal rainfall, and manageable crowds. May offers wildflowers and uncrowded archaeological sites; September brings warm seas ideal for swimming and harvest festivals. July and August peak at 35°C+ with packed ports and premium pricing—avoid unless school holidays dictate. October provides excellent value with lingering warmth and empty beaches, though some island businesses begin closing late month. April and November sailings exist but risk cool, windy conditions and reduced excursion availability. Cunard's Mediterranean season runs April through November, with no winter Greek Isles deployments."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard fares include accommodation, all main dining room and buffet meals, traditional afternoon tea, evening entertainment from theatre productions to live music, comprehensive enrichment lectures, fitness centre access, children's programming for ages 2-17, and gratuities for housekeeping and dining staff. Accommodation-level perks escalate: Britannia passengers receive standard service; Princess Grill and Queens Grill guests enjoy exclusive restaurants, butler service, priority embarkation, and dedicated lounges. Not included: alcoholic beverages, specialty dining venues (Verandah steakhouse, Lido alternative restaurants), shore excursions, WiFi packages, spa treatments, laundry, and casino play. Beverage packages cost €65-€85 daily; WiFi runs €16-€24 daily depending on speed."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Greek Isles itineraries feature Piraeus (Athens) as primary embarkation and gateway to the Acropolis. Santorini delivers dramatic caldera views with tender port access requiring advance planning. Mykonos combines cosmopolitan beaches with Delos archaeological excursions. Rhodes showcases Europe's largest medieval old town and Palace of the Grand Masters. Katakolon serves Olympia, birthplace of the Olympics. Additional calls may include Corfu, Patmos (St. John's Monastery), Crete (Heraklion), and Kusadasi (Ephesus, Turkey). Eastern Mediterranean extensions add Dubrovnik, Kotor, and Valletta. Most itineraries mix Greek ports with Italian stops (Naples, Rome) or Adriatic destinations. Port times typically allow 8-10 hours ashore, with occasional overnight stays in Santorini or Mykonos."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard Greek Isles cruises 9-12 months ahead for optimal cabin selection and early booking discounts up to 25%. Cunard releases itineraries approximately 18 months in advance; past passengers receive priority booking windows. Queens Grill suites and single cabins require earliest commitment due to limited inventory. Booking 6-9 months ahead still yields good availability with moderate savings. Within 90 days, expect limited cabin categories and full pricing. Wave season (January-March) occasionally offers promotional fares with onboard credit, though Greek Isles remain in high demand. Final payment typically due 90 days before departure. Consider travel insurance with Cancel For Any Reason protection given Mediterranean weather variability."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard accommodates families respectfully without targeting children as primary demographic. The Play Zone (ages 2-7) and Zone (ages 8-17) operate sea days and select port days with British-trained staff. Family cabins and interconnecting rooms exist but comprise limited inventory—book early. Children's tea, disco parties, and themed activities provided; however, no water slides, rock climbing, or character breakfasts found on mass-market lines. Evening entertainment suits mature audiences with formal nights requiring cocktail attire. Shore excursions lack dedicated children's programming. Families seeking educational, cultured travel thrive; those wanting constant stimulation may prefer alternatives. Best for ages 8+ who appreciate history, evening shows, and refined dining environments. School holiday sailings see more families; term-time skews heavily retired."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation terms vary by fare type. Early Saver fares: full deposit forfeited upon booking; 90-56 days before departure, 50% of cruise fare; 55-30 days, 75%; under 30 days, 100% penalty. Select and Flexible fares offer greater protection: deposit refundable until final payment; post-payment, standard schedule applies with 90/75/50/25% penalties at decreasing intervals. Cancel For Any Reason protection available via Cunard Care insurance (purchased within 14 days of deposit) providing 75% future cruise credit for non-covered reasons. COVID-19 protocols eliminated; standard medical cancellation applies. Name changes permitted for €35 fee until 7 days before sailing. Booking through travel agents may offer additional flexibility—confirm specific terms at reservation."
+    }
+  ]
+}

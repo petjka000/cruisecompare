@@ -1,0 +1,200 @@
+{
+  "title": "Virgin Voyages Africa & Canaries Cruises 2026",
+  "intro": "Virgin Voyages brings its rebellious, adults-only luxury to the sun-drenched shores of Africa and the Canary Islands, departing from Mediterranean hubs for 2026. Sailors can expect the brand's signature yacht-inspired aesthetic, Michelin-curated dining at 20+ venues, and a strictly 18+ atmosphere that replaces traditional cruise conventions with wellness-focused programming and late-night entertainment. The Africa & Canaries route combines volcanic landscapes, Saharan proximity, and vibrant port cities like Casablanca and Tenerife with Virgin's innovative onboard experience—no buffets, no formal nights, no children. The line's 2026 repositioning and seasonal deployments target travellers seeking winter sun without Caribbean crowds, offering extended port stays and overnight calls in key destinations. With fares inclusive of gratuities, WiFi, and basic beverages, this represents a premium yet transparently priced entry point to African exploration.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Resilient Lady",
+      "Scarlet Lady"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/Early Dec)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1699
+    },
+    {
+      "season": "Peak (Late Dec-Feb)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Spring (Mar)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Canary Islands Escape",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Málaga",
+        "Casablanca",
+        "Lanzarote",
+        "Tenerife",
+        "Lisbon"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Overnight in Casablanca with optional Marrakech excursion"
+    },
+    {
+      "name": "11-night Morocco & Canary Islands",
+      "duration_nights": 11,
+      "ports": [
+        "Lisbon",
+        "Casablanca",
+        "Agadir",
+        "Arrecife",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Funchal",
+        "Barcelona"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Three full days in Morocco plus volcanic Lanzarote"
+    },
+    {
+      "name": "14-night Grand Africa & Canaries",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Málaga",
+        "Casablanca",
+        "Agadir",
+        "Arrecife",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Mindelo",
+        "Dakar",
+        "Lisbon"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Rare Cape Verde and Senegal calls with expedition-style programming"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Resilient Lady",
+      "capacity": 2770,
+      "year": 2023,
+      "best_for": "Adults seeking wellness and nightlife balance",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Scarlet Lady",
+      "capacity": 2770,
+      "year": 2021,
+      "best_for": "First-time Virgin sailors and entertainment seekers",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "All dining at 20+ restaurants",
+    "Gratuities",
+    "Basic WiFi",
+    "Group fitness classes",
+    "Entertainment and shows",
+    "Soda and filtered water",
+    "Tea and coffee"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and premium coffee",
+    "Shore excursions and destination experiences",
+    "Spa treatments and salon services",
+    "Premium WiFi upgrades",
+    "Casino gaming",
+    "Laundry and dry cleaning",
+    "Flights and transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking incentives; monitor for periodic 'Sailor Loot' onboard credit promotions; consider repositioning sailings in November and March for lowest fares; join the Virgin Voyages loyalty program for access to pre-sale windows.",
+  "top_ports": [
+    {
+      "port": "Casablanca",
+      "time_in_port": "7am-10pm (overnight on select sailings)",
+      "top_activity": "Marrakech full-day excursion (€189-249)",
+      "tip": "Book Marrakech trips before sailing—limited capacity and passport required"
+    },
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Teide National Park volcano tour (€79-129)",
+      "tip": "Morning departures essential for clear summit views"
+    },
+    {
+      "port": "Lanzarote (Arrecife)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Timanfaya National Park and wine region (€89)",
+      "tip": "Virgin's included shuttle stops at Arrecife town; book Timanfaya separately"
+    },
+    {
+      "port": "Agadir",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Atlas Mountains and Berber village experience (€149)",
+      "tip": "Short port time—ship excursions recommended over independent travel"
+    },
+    {
+      "port": "Mindelo, Cape Verde",
+      "time_in_port": "8am-5pm",
+      "top_activity": "São Vicente island tour with Cesária Évora heritage sites (€69)",
+      "tip": "Cash preferred for local markets; limited ATM access"
+    },
+    {
+      "port": "Dakar, Senegal",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Gorée Island and African Renaissance Monument (€99)",
+      "tip": "Visa not required for EU citizens; confirm Yellow Fever certificate requirements"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages Africa & Canaries cruise cost?",
+      "answer": "Virgin Voyages Africa & Canaries cruises start from €699 per person for interior cabins during shoulder season, with balcony cabins typically ranging €999-€1,599 and RockStar Suites from €1,699-€2,499 depending on sailing date. Peak December-February departures command 40-60% premiums. All fares include gratuities, WiFi, dining, and basic beverages—alcohol packages add €350-€550 for week-long sailings. Shore excursions average €79-€249 per person per port. Unlike mainstream lines, Virgin does not offer interior guarantees at deep discounts; the entry-level 'Insider' cabin still features premium finishes and smart technology. Solo sailors pay 125-150% supplement, though periodic 'Solo Sailor' promotions reduce this to 100%."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to Africa & Canaries?",
+      "answer": "Virgin Voyages deploys Resilient Lady and Scarlet Lady on Africa & Canaries routes for 2026. Resilient Lady, delivered in 2023, handles the majority of seasonal deployments from Barcelona and Lisbon with her modern wellness facilities and refined entertainment programming. Scarlet Lady, the 2021 inaugural vessel, covers select repositioning sailings and peak winter dates. Both are 110,000-gross-ton, 2,770-passenger sister ships featuring identical layouts: 1,330 cabins (93% with balconies), 20+ dining venues, the Redemption spa, Athletic Club outdoor fitness space, and The Manor nightclub. Neither ship carries children—strict 18+ policy applies. Resilient Lady's newer status means marginally updated technology and soft furnishings, though operational standards are consistent across the fleet."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "November through March delivers optimal conditions for Africa & Canaries cruising, with Canary Islands enjoying spring-like 18-24°C temperatures and minimal rainfall. December-February represents peak demand for winter sun seekers, particularly Northern Europeans escaping harsh winters. Morocco's Atlantic coast remains pleasant though evenings can be cool; pack layers for Casablanca and Agadir. Cape Verde and Senegal calls on extended itineraries experience drier, windier conditions December-February—ideal for water sports but potentially rougher seas. Avoid August-October when Sahara dust (calima) can reduce visibility and Sahara heat extends south. Virgin's 2026 schedule concentrates sailings November-March, with repositioning cruises in late October and early April offering value pricing before and after optimal weather windows."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages' inclusive fare covers all dining at 20+ restaurants with no specialty upcharges, including Korean BBQ at Gunbae, experimental cuisine at Test Kitchen, and elevated Italian at Extra Virgin. Gratuities, basic WiFi (sufficient for messaging and browsing), group fitness classes (yoga, cycling, HIIT), and all entertainment—from immersive theater to DJ sets and live music—are included. Non-alcoholic beverages encompass soda, filtered still and sparkling water, drip coffee, and tea. The line's 'No Buffets, No Big Dining Rooms, No Formal Nights, No Kids' philosophy means included dining is à la carte with made-to-order preparation. Notably excluded: alcoholic drinks, premium coffee, shore excursions, spa treatments, casino play, and premium WiFi streaming packages. This transparent model eliminates surprise charges while allowing customisation."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Virgin Voyages Africa & Canaries itineraries feature 6-8 ports across Morocco, the Canary Islands, and on extended sailings, West Africa. Core ports include Casablanca (with overnight options and Marrakech access), Agadir (gateway to Anti-Atlas Mountains), and Moroccan beach resorts. Canary Islands coverage spans Lanzarote's volcanic Timanfaya National Park, Tenerife's Teide volcano and Santa Cruz, and Gran Canaria's Las Palmas. Lisbon and Barcelona serve as primary embarkation/debarkation hubs with pre-cruise stay options. Select 11-14 night sailings reach Mindelo (São Vicente, Cape Verde) for Creole culture and music heritage, and Dakar (Senegal) for Gorée Island's historical significance and contemporary African art scenes. Port times emphasize late stays and overnights—Casablanca and Tenerife often extend past 10pm."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Virgin Voyages Africa & Canaries cruises 9-12 months in advance for optimal cabin selection, particularly for Sea Terrace balconies and RockStar Suites which comprise limited inventory. The line releases itineraries approximately 18 months ahead; early booking captures 'Sailor Loot' onboard credit promotions typically €100-€300 per cabin. Peak December-February sailings to the Canaries sell out 6-8 months ahead, especially Christmas/New Year departures commanding premium pricing. Shoulder season November and March offers more flexibility with viable booking windows 3-6 months out. Virgin's flexible cancellation policy—full refund up to 120 days before sailing, future cruise credit thereafter—reduces risk of early commitment. Join the 'Sailing Club' loyalty program for 48-hour pre-sale access to new itinerary releases, critical for limited West Africa calls."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages operates strict adults-only policy—minimum age 18 for all sailors, making Africa & Canaries cruises unsuitable for families with children or teenagers. This deliberate positioning targets couples, friend groups, and solo travellers seeking sophisticated, child-free environments. The 18+ policy extends to all facilities: no kids' clubs, family suites, or children's menus exist. For adult family groups (parents with grown children, multi-generational celebrations), Virgin offers compelling value through inclusive dining and entertainment that appeals to diverse ages. The Africa & Canaries itinerary particularly suits culturally curious adults comfortable with independent exploration and evening programming. Families requiring child-friendly cruising should consider Royal Caribbean, MSC, or Norwegian's comparable routes; Virgin explicitly competes for the 'kid-free' market segment with premium positioning and nightlife-focused amenities."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Virgin Voyages offers industry-leading flexibility: full refund to original payment method for cancellations 120+ days before sailing; Future Voyage Credit (FVC) for 119-45 days with 100% value preserved; 50% FVC for 44-30 days; no refund or credit within 30 days. This 'Book with Confidence' structure exceeds standard cruise line penalties, which often withhold deposits from 90 days. FVCs remain valid 12 months from issue for new bookings. Travel insurance is strongly recommended given limited medical facilities in West African ports and potential itinerary disruptions from Saharan weather or political conditions in Morocco/Senegal. Virgin's 'Voyage Protection' add-on (€89-€149) includes cancel-for-any-reason credit up to 75% of cruise fare. Name changes permitted up to 48 hours before sailing for €50 fee—useful for group bookings adjusting to changing plans."
+    }
+  ]
+}

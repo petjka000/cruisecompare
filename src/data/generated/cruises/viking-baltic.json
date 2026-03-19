@@ -1,0 +1,246 @@
+{
+  "title": "Viking Cruises Baltic & Scandinavia Cruises 2026",
+  "intro": "Viking Cruises brings its signature understated elegance to the Baltic & Scandinavia, offering intimate small-ship voyages that dive deep into Nordic heritage and Hanseatic history. Unlike mass-market lines, Viking's ocean fleet carries just 930 guests, enabling access to smaller ports like Bornholm and Gdańsk that larger vessels cannot reach. The line's Scandinavian roots shine through in every detail, from the Nordic spa thermal suite to menus featuring local ingredients like reindeer and herring. Viking's Baltic itineraries balance iconic capitals—Stockholm, Copenhagen, St. Petersburg—with lesser-known gems such as Tallinn's medieval Old Town and the Curonian Spit's sand dunes. Enrichment programming includes lectures on Viking history, Russian politics, and Baltic architecture. With no casinos, no formal nights, and no children under 18, these voyages attract culturally curious travelers seeking immersive destination experiences rather than onboard spectacle.",
+  "quick_facts": {
+    "price_from_eur": 3299,
+    "duration_range": "10-15 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Viking Star",
+      "Viking Sky",
+      "Viking Jupiter",
+      "Viking Mars"
+    ],
+    "departure_ports": [
+      "Bergen",
+      "Stockholm",
+      "Copenhagen",
+      "London"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 3299,
+      "balcony_eur": 4499,
+      "suite_eur": 7499
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 4299,
+      "balcony_eur": 5899,
+      "suite_eur": 9899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Viking Homelands",
+      "duration_nights": 14,
+      "ports": [
+        "Bergen",
+        "Stavanger",
+        "Aalborg",
+        "Copenhagen",
+        "Berlin",
+        "Gdańsk",
+        "Tallinn",
+        "St. Petersburg",
+        "Helsinki",
+        "Stockholm"
+      ],
+      "price_from_eur": 4999,
+      "highlight": "Comprehensive Nordic capitals with overnight in St. Petersburg"
+    },
+    {
+      "name": "Baltic Jewels & the Midnight Sun",
+      "duration_nights": 12,
+      "ports": [
+        "London",
+        "Amsterdam",
+        "Copenhagen",
+        "Stockholm",
+        "Helsinki",
+        "St. Petersburg",
+        "Tallinn",
+        "Riga",
+        "Klaipėda"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Extended White Nights season exploration"
+    },
+    {
+      "name": "Trade Routes of the Middle Ages",
+      "duration_nights": 10,
+      "ports": [
+        "Stockholm",
+        "Helsinki",
+        "St. Petersburg",
+        "Tallinn",
+        "Riga",
+        "Klaipėda",
+        "Gdańsk",
+        "Berlin"
+      ],
+      "price_from_eur": 3599,
+      "highlight": "UNESCO World Heritage-rich Hanseatic cities"
+    },
+    {
+      "name": "Into the Midnight Sun",
+      "duration_nights": 14,
+      "ports": [
+        "Bergen",
+        "Geiranger",
+        "Lofoten Islands",
+        "Tromsø",
+        "Honningsvåg",
+        "Kristiansund",
+        "Alesund",
+        "Flåm"
+      ],
+      "price_from_eur": 5299,
+      "highlight": "Arctic Norway fjords with North Cape"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Star",
+      "capacity": 930,
+      "year": 2015,
+      "best_for": "Culture-focused couples and solo travelers",
+      "price_from_eur": 3299
+    },
+    {
+      "name": "Viking Sky",
+      "capacity": 930,
+      "year": 2017,
+      "best_for": "Scandinavian design enthusiasts",
+      "price_from_eur": 3399
+    },
+    {
+      "name": "Viking Jupiter",
+      "capacity": 930,
+      "year": 2019,
+      "best_for": "Extended itinerary seekers",
+      "price_from_eur": 3499
+    },
+    {
+      "name": "Viking Mars",
+      "capacity": 930,
+      "year": 2022,
+      "best_for": "Latest amenities with classic Viking style",
+      "price_from_eur": 3599
+    }
+  ],
+  "whats_included": [
+    "All meals in multiple dining venues including specialty restaurants",
+    "Wine, beer and soft drinks with lunch and dinner",
+    "One shore excursion in every port",
+    "Wi-Fi",
+    "Access to Nordic spa thermal suite",
+    "24-hour room service",
+    "Airport transfers on embarkation/disembarkation days",
+    "Self-service laundry",
+    "Lectures and destination performances",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Premium spirits and cocktails beyond meal times",
+    "Additional shore excursions beyond the included option",
+    "Silver Spirits beverage package upgrade (EUR 249 per person)",
+    "Spa treatments and salon services",
+    "Laundry valet service",
+    "Gratuities (EUR 15 per person per day recommended)",
+    "Pre- and post-cruise extensions",
+    "Business class airfare upgrades"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for best cabin selection and early booking discounts up to EUR 800 per person; Viking frequently offers airfare deals including free or reduced international flights from Europe. Shoulder season departures in May and September offer EUR 800-1,200 savings over peak summer. Solo travelers benefit from no single supplement promotions released quarterly. Staterooms with verandas on Deck 6 provide optimal balance of location and value. Russia visa requirements for St. Petersburg are handled via included shore excursions or pre-arranged e-visas—verify current geopolitical status before booking.",
+  "top_ports": [
+    {
+      "port": "St. Petersburg",
+      "time_in_port": "2 full days (overnight)",
+      "top_activity": "Hermitage Museum private opening (EUR 189)",
+      "tip": "Book Fabergé Museum independently if included tour sells out"
+    },
+    {
+      "port": "Stockholm",
+      "time_in_port": "6am-6pm",
+      "top_activity": "Vasa Museum and Gamla Stan walking tour (EUR 89)",
+      "tip": "Take included Drottningholm Palace excursion, explore city independently afternoon"
+    },
+    {
+      "port": "Tallinn",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Medieval Old Town food tour (EUR 79)",
+      "tip": "Walkable from port—skip shuttle, arrive early for Toompea Hill sunrise photos"
+    },
+    {
+      "port": "Copenhagen",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Rosenborg Castle and canal cruise (EUR 95)",
+      "tip": "Nyhavn is crowded; explore Christianshavn for authentic atmosphere"
+    },
+    {
+      "port": "Gdańsk",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Solidarity Center and amber workshops (EUR 69)",
+      "tip": "Port is industrial; shuttle required—allow 30 minutes each way"
+    },
+    {
+      "port": "Helsinki",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Suomenlinna Sea Fortress and Design District (EUR 59)",
+      "tip": "Take public ferry to fortress independently for flexibility"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "Embarkation 2pm or 12pm-7pm",
+      "top_activity": "Fløibanen funicular and Edvard Grieg museum (EUR 55)",
+      "tip": "Arrive one day early for Norway in a Nutshell pre-extension"
+    },
+    {
+      "port": "Riga",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Art Nouveau architecture and Central Market (EUR 65)",
+      "tip": "Compact old town—easy to self-guide after morning orientation"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Baltic & Scandinavia cruise cost?",
+      "answer": "Viking Baltic & Scandinavia cruises typically range from EUR 3,299 to EUR 9,899 per person depending on season, itinerary length, and stateroom category. Shoulder season 10-night voyages in May or September start around EUR 3,299 for a veranda stateroom, while peak summer 14-night comprehensive itineraries run EUR 4,999-EUR 5,899. Explorer suites with wraparound balconies command EUR 7,499-EUR 9,899. These fares include shore excursions, beverages with meals, Wi-Fi, and gratuities—making direct comparison with premium lines requiring add-on packages essential. Airfare promotions frequently reduce total trip cost by EUR 800-1,400."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Baltic & Scandinavia?",
+      "answer": "Viking deploys its identical 930-guest ocean sister ships on Baltic & Scandinavia routes: Viking Star (2015, the line's first ocean vessel), Viking Sky (2017), Viking Jupiter (2019), and Viking Mars (2022). All feature Scandinavian design by Rottet Studio, infinity pools, glass-walled Explorers' Lounges, and the LivNordic spa. The small-ship scale enables overnight stays in St. Petersburg and navigation through Stockholm's archipelago—experiences impossible for larger vessels. Identical layouts mean consistent experience regardless of specific ship assignment."
+    },
+    {
+      "question": "When is best time to cruise Baltic & Scandinavia?",
+      "answer": "Late May through early September offers optimal Baltic cruising conditions, with June and July delivering the famous White Nights—near-24-hour daylight extending exploration hours. June averages 18-20°C with minimal rainfall; July-August peak at 22-25°C but draw larger crowds and premium pricing. May and September provide EUR 800-1,200 savings with blooming gardens or autumn colors, though some outdoor venues may have reduced hours. St. Petersburg's Hermitage and palace fountains operate May-September only. Avoid April and October when attractions close and weather turns unpredictable."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's all-inclusive approach covers all meals across multiple restaurants including specialty venues Manfredi's Italian and The Chef's Table; wine, beer and soft drinks with lunch and dinner; one shore excursion in every port; Wi-Fi; 24-hour room service; self-service laundry; airport transfers; and port charges. The Nordic spa thermal suite—snow grotto, steam room, sauna, and thalassotherapy pool—is complimentary. What distinguishes Viking is the absence of casinos, formal nights, and photography sales, creating an uncluttered experience where the destination remains central. Gratuities, premium spirits, and spa treatments are additional."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking's Baltic itineraries encompass Norway's fjord villages and North Cape; Denmark's Copenhagen and Aalborg; Germany's Berlin (Warnemünde) and Hamburg; Poland's Gdańsk; Lithuania's Klaipėda; Latvia's Riga; Estonia's Tallinn; Russia's St. Petersburg (overnight); Finland's Helsinki; and Sweden's Stockholm, Gothenburg, and Visby. The 14-night Viking Homelands covers the broadest range, while focused 10-night itineraries emphasize either Baltic capitals or Norwegian fjords. Small-ship access enables Bornholm, Lofoten Islands, and Curonian Spit—ports excluded from mainstream cruise routes."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Reserve Baltic & Scandinavia voyages 9-18 months ahead, particularly for June-July departures when veranda staterooms sell out 12 months in advance. Viking releases itineraries approximately 18 months forward with early booking discounts of EUR 400-800 per person. Solo travelers should monitor quarterly No Single Supplement promotions covering select cabin categories. St. Petersburg's complex visa requirements—currently addressed through included shore excursions or e-visas—demand additional planning buffer. Final payment is due 90 days prior to sailing, with full refund available until that point for most fares."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Ocean Cruises maintain an adults-only policy with no guests under 18 permitted, making Baltic itineraries unsuitable for families with children. This policy reflects the line's focus on destination immersion, extended port stays, and enrichment programming designed for mature travelers. Families seeking Scandinavian cruises should consider Viking's river cruise division (minimum age 12) or competitors like MSC and Royal Caribbean operating Baltic routes with extensive children's facilities. Viking's demographic skews 55-75 with interests in history, culture, and culinary experiences rather than family-oriented activities."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's standard cancellation policy permits full refund up to 90 days before departure for most ocean cruise fares. Cancellations 89-60 days prior incur loss of deposit (typically EUR 500-1,000 per person); 59-30 days forfeit 50% of fare; 29-0 days surrender 100%. Cancel For Any Reason protection, available as upgrade at booking, provides future cruise credit equal to 100% of non-refundable amounts when cancelled 48+ hours before departure. Travel insurance through Viking or third-party providers is strongly recommended given Baltic itinerary costs and potential medical evacuation needs from remote Norwegian ports."
+    }
+  ]
+}

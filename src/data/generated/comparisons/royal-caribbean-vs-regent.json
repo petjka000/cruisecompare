@@ -1,0 +1,160 @@
+{
+  "title": "Royal Caribbean vs Regent Seven Seas 2026",
+  "intro": "Royal Caribbean and Regent Seven Seas represent two fundamentally different cruise philosophies. Royal Caribbean operates the world's largest cruise ships with mass-market appeal, delivering high-energy entertainment and family-focused experiences at scale. Regent Seven Seas occupies the ultra-luxury segment with all-inclusive pricing, smaller intimate vessels, and refined service. While Royal Caribbean prioritises innovation and volume—think surf simulators and zip lines—Regent emphasises exclusivity with unlimited shore excursions, fine dining, and spacious suites. Your choice hinges on whether you seek adventure-packed value or seamless, understated elegance without hidden costs.",
+  "at_a_glance": {
+    "royal-caribbean": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "regent": {
+      "price_tier": "luxury",
+      "avg_7night_inside_eur": 5200
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Average 7-night fare (inside/entry suite)",
+      "royal-caribbean": "€899",
+      "regent": "€5,200"
+    },
+    {
+      "category": "Inclusions",
+      "royal-caribbean": "Accommodation, basic dining, entertainment; drinks/wifi/excursions extra",
+      "regent": "All-inclusive: drinks, wifi, gratuities, unlimited shore excursions, specialty dining, business-class air on select bookings"
+    },
+    {
+      "category": "Ship size",
+      "royal-caribbean": "2,200–7,600 passengers (Icon/Oasis class)",
+      "regent": "490–750 passengers"
+    },
+    {
+      "category": "Crew-to-guest ratio",
+      "royal-caribbean": "1:2.5",
+      "regent": "1:1.5"
+    },
+    {
+      "category": "Dining venues",
+      "royal-caribbean": "15–25 (pay-extra specialty restaurants common)",
+      "regent": "4–6 (all complimentary, including specialty)"
+    },
+    {
+      "category": "Stateroom size (entry)",
+      "royal-caribbean": "15–17 sqm interior",
+      "regent": "28 sqm suite minimum (no interior cabins)"
+    },
+    {
+      "category": "Entertainment style",
+      "royal-caribbean": "Broadway shows, aqua theaters, ice skating, surf simulators, zip lines",
+      "regent": "Enrichment lectures, live music, destination-focused performances"
+    },
+    {
+      "category": "Children's facilities",
+      "royal-caribbean": "Extensive: water parks, kids clubs, teen zones, nursery",
+      "regent": "Limited; not designed for families with young children"
+    },
+    {
+      "category": "Dress code",
+      "royal-caribbean": "Resort casual to smart casual; occasional formal nights optional",
+      "regent": "Elegant casual; no formal nights required but refined atmosphere"
+    },
+    {
+      "category": "Shore excursions",
+      "royal-caribbean": "Pay-per-excursion, group sizes 25–40",
+      "regent": "Unlimited included, small groups, bespoke options available"
+    }
+  ],
+  "choose_a_if": [
+    "You want maximum onboard entertainment and activities for all ages",
+    "You prefer paying only for what you use and controlling your budget",
+    "You're travelling with children or multi-generational groups",
+    "You enjoy large-scale production shows and adrenaline attractions",
+    "You want the newest, largest ships with groundbreaking features",
+    "You're a first-time cruiser wanting accessible, high-energy introduction"
+  ],
+  "choose_b_if": [
+    "You value all-inclusive simplicity with no surprise bills",
+    "You prefer intimate ships with personalised, anticipatory service",
+    "You want spacious suites with balconies as standard",
+    "You prioritise culinary excellence and fine dining without surcharges",
+    "You seek immersive destination experiences with included excursions",
+    "You desire refined, adult-oriented atmosphere without crowds"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with children under 12",
+      "winner": "Royal Caribbean",
+      "reason": "Adventure Ocean kids club, Splashaway Bay water parks, nursery services, and family staterooms make Royal Caribbean purpose-built for young families."
+    },
+    {
+      "type": "Families with teens",
+      "winner": "Royal Caribbean",
+      "reason": "Surf simulators, zip lines, escape rooms, teen discos, and social spaces keep adolescents engaged in ways luxury ships simply cannot match."
+    },
+    {
+      "type": "Multi-generational groups",
+      "winner": "Royal Caribbean",
+      "reason": "Diverse activities at multiple price points accommodate grandparents, parents, and children simultaneously without forcing uniform experiences."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Regent Seven Seas",
+      "reason": "Intimate ambience, uncrowded spaces, included champagne, and suite balconies create effortless romantic atmosphere without fighting crowds."
+    },
+    {
+      "type": "Active seniors",
+      "winner": "Regent Seven Seas",
+      "reason": "Included shore excursions eliminate mobility concerns, while smaller ships enable easier navigation and priority tendering in remote ports."
+    },
+    {
+      "type": "Culture and history enthusiasts",
+      "winner": "Regent Seven Seas",
+      "reason": "Complimentary, curated excursions led by expert guides provide deeper destination immersion than standard cruise line offerings."
+    },
+    {
+      "type": "Food and wine connoisseurs",
+      "winner": "Regent Seven Seas",
+      "reason": "Le Cordon Bleu-trained chefs, included specialty dining, and unlimited premium beverages deliver gastronomic excellence without incremental costs."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Regent Seven Seas",
+      "reason": "Single supplements frequently waived, included excursions eliminate awkward group dynamics, and intimate settings foster genuine connections."
+    },
+    {
+      "type": "Celebration travellers (milestones)",
+      "winner": "Regent Seven Seas",
+      "reason": "The celebratory value of all-inclusive luxury—no bill anxiety, seamless service, and memorable experiences—justifies premium for special occasions."
+    },
+    {
+      "type": "Budget-conscious travellers",
+      "winner": "Royal Caribbean",
+      "reason": "Base fares allow controlled spending; savvy bookers can cruise for under €100 per person daily, impossible in luxury all-inclusive segment."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends entirely on your travel style. Royal Caribbean offers lower entry prices with à la carte flexibility—ideal if you skip extras. Regent Seven Seas commands premium upfront pricing but includes virtually everything: drinks, gratuities, wifi, unlimited shore excursions, and specialty dining. For travellers who would purchase premium packages separately, Regent often proves better value when total costs are compared. A Royal Caribbean cruiser adding drink packages, specialty restaurants, and excursions can approach €2,500–€3,500 for seven nights; Regent's €5,200 includes superior accommodations and service. Analyse your actual spending habits rather than sticker prices to determine true value for your preferences."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Royal Caribbean dominates family cruising with purpose-built infrastructure: Adventure Ocean kids clubs (ages 3–17), Splashaway Bay water parks, nursery services for infants, family stateroom configurations, and teen-specific zones. Ships like Wonder of the Seas feature entire neighbourhoods designed for families. Regent Seven Seas accepts children but offers minimal dedicated facilities—no kids clubs, water slides, or youth programming. The refined, adult-oriented atmosphere can feel restrictive for energetic children. Families prioritising child engagement, parental flexibility, and multi-generational harmony should choose Royal Caribbean. Regent suits families with mature teenagers or adult children seeking shared cultural experiences rather than onboard entertainment."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "The pricing gap is substantial and structurally different. Royal Caribbean's 2026 seven-night Mediterranean inside cabins start around €899; balcony cabins €1,299; suites with perks €2,500–€4,000. Regent Seven Seas' entry-level suites begin at approximately €5,200, with veranda suites typically €6,500–€8,000. However, Regent's fare includes business-class intercontinental flights on bookings over 14 nights, unlimited shore excursions (€150–€400 value daily), premium drinks, specialty dining, wifi, and gratuities. Royal Caribbean's comparable additions—Ultimate Beverage Package, dining packages, excursions, wifi, and gratuities—add €1,500–€2,500 per couple. Normalised for inclusions, the effective difference narrows considerably though Regent remains premium."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Regent Seven Seas delivers demonstrably superior culinary experiences across all metrics. With Le Cordon Bleu culinary partnerships, all restaurants complimentary (including French bistro Chartreuse and Asian-fusion Pacific Rim), and no capacity constraints forcing reservations, dining becomes a central pleasure rather than logistical challenge. Ingredients are premium—dry-aged steaks, sustainably sourced seafood, artisanal breads. Royal Caribbean offers quantity over consistency: 15–25 venues including complimentary main dining and windjammer, plus pay-extra specialty restaurants like Chops Grille and Izumi. While specialty venues compete reasonably, the base experience varies significantly. For food-motivated travellers, Regent's all-inclusive gourmet approach eliminates the psychological friction of surcharges while maintaining higher standards."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Royal Caribbean generally suits first-time cruisers better. The accessible price point reduces commitment anxiety, while the sheer variety—shows, activities, dining options—ensures something resonates. The learning curve is gentle: large ships offer anonymity if desired, and the demographic diversity means fewer etiquette concerns. Regent Seven Seas, while impeccably serviced, assumes cruising sophistication—understanding gratuity norms, excursion booking strategies, and luxury dining pacing. First-timers may not appreciate the value proposition (included excursions, premium drinks) sufficiently to justify costs, or may find the refined atmosphere constraining. However, first-timers seeking celebration travel or those definitively preferring boutique hotels over resorts should consider Regent despite the learning curve."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Scale versus intimacy defines the fundamental divergence: Royal Caribbean's 7,600-passenger Icon-class ships are floating cities with neighbourhoods, parks, and neighbourhoods; Regent's 490-passenger vessels resemble elegant yachts. Pricing philosophy differs radically—Royal Caribbean unbundles for choice; Regent bundles for predictability. Demographics separate distinctly: Royal Caribbean serves families, multi-generational groups, and value-seekers aged 30–70; Regent targets affluent empty-nesters and experienced travellers prioritising refinement over novelty. Service intensity varies: Regent's 1:1.5 crew-to-guest ratio enables anticipatory, personalised attention impossible at Royal Caribbean's scale. Finally, destination approach contrasts: Royal Caribbean emphasises ship-as-destination with ports secondary; Regent structures itineraries around immersive, included shore experiences with ship as elegant transport."
+    }
+  ]
+}

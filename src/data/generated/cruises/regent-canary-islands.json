@@ -1,0 +1,172 @@
+{
+  "title": "Regent Seven Seas Canary Islands Cruises 2026",
+  "intro": "Regent Seven Seas Cruises elevates Canary Islands exploration to unprecedented luxury, combining all-inclusive excellence with intimate ship experiences. As the world's premier ultra-luxury cruise line, Regent delivers complimentary shore excursions in every port, from Tenerife's volcanic Teide National Park to Lanzarote's otherworldly Timanfaya landscapes. Seven Seas Voyager and Seven Seas Navigator navigate these Atlantic archipelagos with fewer than 750 guests, ensuring personalized service and spacious all-suite accommodations. Your fare encompasses unlimited shore excursions, fine wines and spirits, gratuities, specialty dining, and even pre-cruise hotel stays. The Canary Islands' eternal spring climate—averaging 20-24°C year-round—pairs perfectly with Regent's sophisticated ambiance. Whether sampling Gran Canaria's award-winning wines, exploring La Palma's UNESCO-listed biosphere, or strolling Santa Cruz de Tenerife's colonial streets, every moment ashore is curated. Return to elegant suites with private balconies, butler service in upper categories, and cuisine that rivals Europe's finest restaurants.",
+  "quick_facts": {
+    "price_from_eur": 4899,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Seven Seas Voyager",
+      "Seven Seas Navigator"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 0,
+      "balcony_eur": 4899,
+      "suite_eur": 8900
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 0,
+      "balcony_eur": 4299,
+      "suite_eur": 7600
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Canary Islands Discovery",
+      "duration_nights": 10,
+      "ports": [
+        "Barcelona",
+        "Casablanca",
+        "Arrecife",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Funchal",
+        "Lisbon"
+      ],
+      "price_from_eur": 4899,
+      "highlight": "Comprehensive archipelago exploration with overnight in Tenerife"
+    },
+    {
+      "name": "14-night Atlantic Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Casablanca",
+        "Agadir",
+        "Arrecife",
+        "Santa Cruz de Tenerife",
+        "San Sebastian de La Gomera",
+        "Las Palmas",
+        "Funchal",
+        "Vigo",
+        "Southampton"
+      ],
+      "price_from_eur": 6299,
+      "highlight": "Rare visit to unspoiled La Gomera with four Canary Islands"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Voyager",
+      "capacity": 698,
+      "year": 2003,
+      "refurbished": 2023,
+      "best_for": "Luxury seekers wanting immersive destination focus",
+      "price_from_eur": 4899
+    },
+    {
+      "name": "Seven Seas Navigator",
+      "capacity": 490,
+      "year": 1999,
+      "refurbished": 2024,
+      "best_for": "Intimate ultra-luxury with highest space-to-guest ratio",
+      "price_from_eur": 5199
+    }
+  ],
+  "whats_included": [
+    "Unlimited shore excursions",
+    "All-suite accommodations with private balconies",
+    "Unlimited beverages including fine wines and premium spirits",
+    "All specialty restaurants",
+    "Gratuities",
+    "Pre-cruise hotel night",
+    "Airport transfers",
+    "Unlimited WiFi",
+    "Valet laundry service",
+    "Gourmet room service"
+  ],
+  "whats_extra": [
+    "Spa treatments",
+    "Premium shore excursion upgrades",
+    "Boutique purchases",
+    "Casino gaming",
+    "Flight deviations from included air"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best suite selection and early booking savings up to 25%. Regent's value proposition peaks with their 'Ultimate All-Inclusive' fares combining business-class air, pre-cruise hotel, and unlimited excursions—often representing 40% savings versus à la carte luxury cruising.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm (overnight on select sailings)",
+      "top_activity": "Teide National Park cable car and volcanic hike (included)",
+      "tip": "Request sunrise excursion for clearest summit views"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Timanfaya National Park fire mountain tour (included)",
+      "tip": "Upgrade to private volcanic wine tasting at Bodega La Geria"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Vegueta historic district and Casa de Colón (included)",
+      "tip": "Explore independently—city center walkable from port"
+    },
+    {
+      "port": "San Sebastian de La Gomera",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Garajonay National Park laurel forest hike (included)",
+      "tip": "Smaller ship Navigator required; rare inclusion on Voyager substitute calls"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Canary Islands cruise cost?",
+      "answer": "Regent Seven Seas Canary Islands cruises start from €4,899 per person for 10-night voyages in Veranda Suite category, with fares ranging to €12,000+ for Master Suites on 14-night itineraries. Unlike premium lines, Regent has no interior or standard balcony cabins—all accommodations are suites with private verandas. The fare includes business-class intercontinental flights (or economy with credit), unlimited shore excursions in every port, all beverages, specialty dining, gratuities, and pre-cruise hotel. When comparing value, factor that comparable luxury experiences on semi-inclusive lines typically cost 35-50% more when excursions, drinks, and gratuities are added. Early booking incentives and past-guest savings can reduce fares by €800-1,500."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Canary Islands?",
+      "answer": "Regent deploys Seven Seas Voyager and Seven Seas Navigator on Canary Islands itineraries from November through March. Seven Seas Voyager (698 guests, refurbished 2023) offers the more frequent service with comprehensive 10-14 night routes combining Morocco, Madeira, and the archipelago. Seven Seas Navigator (490 guests, refurbished 2024) provides rarer, more intimate voyages with access to smaller ports like La Gomera that larger luxury vessels cannot accommodate. Both ships feature all-suite, all-balcony accommodations, multiple specialty restaurants including Chartreuse French dining and Pacific Rim Asian fusion, and extensive spa facilities. Navigator's smaller size particularly suits travelers prioritizing exclusivity and destination immersion over onboard entertainment variety."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "November through March represents optimal Regent Seven Seas Canary Islands cruising, coinciding with the archipelago's peak season and Regent's Atlantic deployment. Winter temperatures of 20-24°C offer ideal conditions for hiking Teide National Park and exploring Timanfaya's volcanic landscapes without summer crowds. December and January deliver festive atmosphere in Las Palmas and Santa Cruz with minimal rainfall. February and March provide whale watching peak season off Tenerife and La Gomera. Avoid April-October when Regent repositions ships to Northern Europe or Alaska. Sea conditions remain calm year-round due to island sheltering, though Atlantic crossings to/from Southampton (October/November and March/April) may encounter rougher seas—Barcelona or Lisbon departures ensure calmer cruising."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent Seven Seas provides the industry's most comprehensive all-inclusive experience. Your fare covers unlimited shore excursions in every port—from standard group tours to small-group 'Regent Choice' adventures with minimal supplement. All beverages including premium spirits, vintage wines, and Champagne flow without charge across all venues. All dining is complimentary: main restaurant, pool grill, room service, and specialty venues Compass Rose, Chartreuse, Prime 7, and Pacific Rim. Gratuities are included for all staff. Accommodations are all suites with private balconies, marble bathrooms, and butler service at Concierge Suite and above. Pre-cruise luxury hotel night, airport transfers, unlimited WiFi, valet laundry, and even business-class intercontinental flights complete the inclusive package."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent Seven Seas Canary Islands itineraries typically visit three to four archipelago ports combined with Moroccan and Portuguese stops. Santa Cruz de Tenerife serves as primary hub with access to Spain's highest peak and colonial architecture. Arrecife on Lanzarote showcases César Manrique's artistic integration with volcanic terrain. Las Palmas on Gran Canaria offers Spain's largest historic district and exceptional urban beaches. Rare calls at San Sebastian de La Gomera (Navigator only) access UNESCO laurel forests and Columbus departure history. Most 10-14 night voyages originate Barcelona or Lisbon and conclude alternatively, sometimes including Southampton for complete Atlantic exploration. Moroccan ports Casablanca and Agadir, plus Madeira's Funchal, complement the island experience."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Regent Seven Seas Canary Islands cruises 12-18 months prior to sailing for optimal suite selection and pricing. The line releases itineraries approximately 18-24 months in advance, with early booking savings of 10-25% available until 180 days before departure. Penthouse and above categories—featuring butler service and significantly larger accommodations—sell first, often 12+ months out. Past guests (Seven Seas Society members) gain advance booking windows and additional 5% savings. Final payment is due 150 days before sailing for suites below Penthouse, 180 days for higher categories. Cancellation penalties escalate from deposit loss at 151+ days to 100% fare within 90 days, making comprehensive travel insurance essential for these significant investments."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas Canary Islands cruises accommodate families with children 12+ most effectively, though the line specifically targets affluent adults seeking sophisticated, child-free environments. No dedicated children's facilities, clubs, or programs exist—unlike premium competitors. The destination itself suits active families: volcano hiking, whale watching, and water sports appeal to teenagers. Multi-generational groups occasionally book connecting suites, particularly during holiday periods when Regent sees 5-10% family occupancy. Children pay full adult fares with no discounts, making this exceptionally expensive for families compared to premium lines offering third/fourth berth reductions. For couples seeking romantic, uninterrupted exploration of the Canary Islands' dramatic landscapes and colonial culture, Regent's adult-oriented ambiance represents a definitive advantage over family-focused alternatives."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas maintains stringent cancellation terms reflecting its ultra-luxury positioning and high-demand itineraries. Cancellations 151+ days before sailing forfeit deposit (typically 25% of cruise fare). Between 150-121 days, penalty increases to 50% of total fare. From 120-91 days, 75% is forfeited. Within 90 days, no refund applies—100% loss. These penalties exceed premium cruise lines significantly, necessitating robust travel insurance covering 'cancel for any reason' provisions. Regent's 'Regent Reassurance' program (complimentary for limited periods) allows one penalty-free rebooking to alternative sailings within 24 months if cancellation occurs before final payment. Travel insurance purchased through Regent's partner offers additional protection, though independent policies often provide superior coverage for substantially lower premiums."
+    }
+  ]
+}

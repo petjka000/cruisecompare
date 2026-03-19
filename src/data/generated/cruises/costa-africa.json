@@ -1,0 +1,207 @@
+{
+  "title": "Costa Cruises Africa & Canaries Cruises 2026",
+  "intro": "Costa Cruises brings authentic Italian cruising to the sun-drenched shores of Africa and the Canary Islands. As Europe's leading cruise line, Costa offers exceptional value with its signature Mediterranean hospitality, world-class entertainment, and diverse dining options. Africa & Canaries itineraries combine the volcanic landscapes of Tenerife and Lanzarote with exotic Moroccan ports like Casablanca and Agadir, plus vibrant Senegalese destinations. These routes are perfect for European travelers seeking winter warmth without long-haul flights. Costa's Italian-style cruising emphasizes social atmosphere, family-friendly activities, and late-night entertainment. The Canary Islands provide reliable sunshine year-round, while African ports offer rich cultural immersion. With departures primarily from Spain and Italy, these cruises deliver exceptional value for money with comprehensive packages starting under €700.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Costa Smeralda",
+      "Costa Toscana",
+      "Costa Diadema"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Civitavecchia",
+      "Marseille",
+      "Savona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Low (Nov-early Dec)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    },
+    {
+      "season": "Peak (Christmas-February)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2099
+    },
+    {
+      "season": "Shoulder (Mar-Apr)",
+      "inside_eur": 799,
+      "balcony_eur": 1149,
+      "suite_eur": 1799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Canaries & Morocco",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Casablanca",
+        "Arrecife",
+        "Puerto del Rosario",
+        "Santa Cruz de Tenerife",
+        "Barcelona"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Perfect winter sun escape with Moroccan spice markets and volcanic Lanzarote landscapes"
+    },
+    {
+      "name": "11-night Africa & Canaries Grand Voyage",
+      "duration_nights": 11,
+      "ports": [
+        "Savona",
+        "Marseille",
+        "Barcelona",
+        "Casablanca",
+        "Agadir",
+        "Dakar",
+        "Santa Cruz de Tenerife",
+        "Arrecife",
+        "Malaga",
+        "Savona"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Rare West African combination featuring Senegal's vibrant capital and Morocco's Atlantic coast"
+    },
+    {
+      "name": "14-night Atlantic Islands Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Civitavecchia",
+        "Barcelona",
+        "Casablanca",
+        "Agadir",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Funchal",
+        "Malaga",
+        "Civitavecchia"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Comprehensive Canary Islands immersion plus Madeira's gardens and Morocco's imperial cities"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Smeralda",
+      "capacity": 6554,
+      "year": 2019,
+      "best_for": "Families and couples seeking modern Italian design",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Costa Toscana",
+      "capacity": 6554,
+      "year": 2021,
+      "best_for": "Food enthusiasts and LNG-powered sustainable cruising",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Costa Diadema",
+      "capacity": 4947,
+      "year": 2014,
+      "best_for": "Value-conscious travelers wanting classic Costa atmosphere",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All meals in main restaurants and buffet",
+    "Entertainment shows and live music",
+    "Children's clubs and activities",
+    "Gym and fitness facilities",
+    "Pool access and deck chairs",
+    "Port taxes and service charges"
+  ],
+  "whats_extra": [
+    "Beverage packages (from €25/day)",
+    "Specialty dining (€25-45 per person)",
+    "Shore excursions (€45-189)",
+    "Spa treatments and salon services",
+    "WiFi packages (from €10/day)",
+    "Laundry services",
+    "Casino gambling",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 6-9 months ahead for best cabin selection and early booking discounts up to 30%. Last-minute deals appear 60-90 days before departure, but cabin choice becomes limited. Peak winter months (December-February) sell out fastest, especially balcony cabins. Consider repositioning cruises in November and March for exceptional value. Italian school holidays and Christmas/New Year command premium pricing.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Teide National Park cable car (€45)",
+      "tip": "Pre-book volcano excursions; afternoon clouds often obscure summit views"
+    },
+    {
+      "port": "Casablanca",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Hassan II Mosque guided tour (€35)",
+      "tip": "Friday mornings unavailable due to prayers; modest dress required"
+    },
+    {
+      "port": "Agadir",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Souss-Massa National Park 4x4 safari (€89)",
+      "tip": "Souk haggling starts at 40% of asking price; English widely spoken"
+    },
+    {
+      "port": "Dakar",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Gorée Island UNESCO tour (€65)",
+      "tip": "Obtain CFA francs locally; credit cards rarely accepted outside port"
+    },
+    {
+      "port": "Arrecife (Lanzarote)",
+      "time_in_port": "9am-6pm",
+      "top_activity": "Timanfaya National Park fire mountain tour (€55)",
+      "tip": "Morning departures avoid afternoon winds; César Manrique sites book quickly"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Africa & Canaries cruise cost?",
+      "answer": "Costa Cruises Africa & Canaries itineraries start from €699 per person for an inside cabin on 7-night voyages during low season (November-early December). Peak winter months (December-February) range €899-€1,099 inside, €1,299-€1,599 balcony, and €1,999-€2,599 for suites. Longer 11-14 night grand voyages begin at €1,099 inside. Prices include accommodation, meals, entertainment, and port taxes. Beverage packages add €25-€45 daily. Shore excursions average €55-€120 per port. Families benefit from significant child discounts—third and fourth passengers often pay just port taxes and fees (€150-€250). Costa frequently offers promotions including free cabin upgrades and onboard credit of €100-€300."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Africa & Canaries?",
+      "answer": "Costa deploys its newest and largest LNG-powered ships on Africa & Canaries routes. Costa Smeralda (2019, 6,554 passengers) and Costa Toscana (2021, 6,554 passengers) are the flagship vessels, offering cutting-edge environmental technology and extensive dining options. Costa Diadema (2014, 4,947 passengers) provides a more traditional Italian cruising experience with excellent value pricing. These ships feature multiple pools, spa complexes, theaters with 360-degree LED walls, and extensive children's facilities. All three vessels offer Costa's signature Italian design with elegant public spaces, promenade decks, and dedicated areas for families, couples, and solo travelers. Ship assignments rotate seasonally with winter 2026 seeing Smeralda and Toscana on primary Canaries routes."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "November through March delivers optimal conditions for Africa & Canaries cruising. The Canary Islands enjoy spring-like temperatures of 20-24°C with minimal rainfall, making this Europe's premier winter sun destination. November and early December offer excellent value before Christmas crowds arrive. January-February provide the most reliable sunshine though Atlantic crossings can encounter rougher seas. March brings pleasant warmth with fewer families and lower prices. Avoid August-September when Saharan dust (calima) can reduce visibility and African heat makes port visits uncomfortable. Moroccan ports are particularly pleasant November-February when daytime temperatures stay 18-22°C. Senegal's dry season (November-April) ensures comfortable exploration without tropical humidity or malaria risk."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's Africa & Canaries cruises include accommodation in your chosen cabin category, all meals in main restaurants and buffet venues, daytime and evening entertainment including theater shows and live music, supervised children's clubs for ages 3-17, fitness center access, pool and deck facilities, and port taxes. The Italian-inspired dining features pizza, pasta stations, and gelato daily. Costa's unique inclusion is the 'Pranzo Italiano' multi-course lunch experience. Service charges are now bundled into fares. Not included are beverages (water, coffee, soft drinks, alcohol), specialty restaurants, shore excursions, WiFi, spa services, and laundry. Costa offers comprehensive beverage packages from €25/day covering unlimited soft drinks, beer, and wine by the glass. Some promotional fares include 'Easy' drink packages."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa's Africa & Canaries itineraries feature diverse ports blending European, African, and Atlantic island cultures. Spanish departure ports include Barcelona, with some voyages from Savona, Civitavecchia (Rome), and Marseille. Canary Islands stops typically include Santa Cruz de Tenerife (Spain's highest peak and colonial architecture), Las Palmas (Gran Canaria's cosmopolitan capital), Arrecife (Lanzarote's volcanic moonscapes), and Puerto del Rosario (Fuerteventura's beaches). Moroccan ports feature Casablanca (Hassan II Mosque and Rick's Café) and Agadir (beach resorts and Souss Valley). Select itineraries reach Dakar, Senegal, for Gorée Island's poignant history and vibrant African markets. Some routes include Portuguese Funchal (Madeira) and Malaga (Spain's Costa del Sol). Port times range 7-10 hours, with overnight stays rare except on grand voyages."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Costa Africa & Canaries cruises 6-9 months ahead for optimal cabin selection and early booking discounts reaching 30%. Peak winter departures (Christmas through February half-term) require 9-12 month advance booking, especially for balcony cabins and suites. Costa releases itineraries 18 months ahead with best prices typically appearing 10-12 months before sailing. Last-minute deals emerge 60-90 days prior but with limited cabin categories—often only inside or obstructed views remain. Italian school holiday periods (late December, mid-February) sell out completely by 6 months ahead. Repositioning cruises in November and late March offer exceptional last-minute value. Consider booking shore excursions 90 days ahead for popular activities like Teide National Park or Gorée Island, which frequently sell out."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa excels for families on Africa & Canaries routes with exceptional children's programming and competitive pricing. The Squok Club entertains ages 3-17 with age-appropriate activities, while teens enjoy dedicated hangout spaces and discos. Family cabins accommodating 3-4 passengers are abundant and affordable—third/fourth berths often cost just €150-€250 including all meals and entertainment. Pool complexes feature waterslides on Smeralda and Toscana. Evening entertainment suits multi-generational groups with early dining options and late-night shows. Port excursions offer family-friendly alternatives to intensive cultural tours. However, sea days on Atlantic crossings can feel long for active children, and Moroccan ports require cultural sensitivity with dress codes. Costa's Italian-centric atmosphere means announcements and many activities are multilingual—excellent for European families, potentially challenging for English-only speakers."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa's cancellation policy operates on a sliding scale based on departure date. Cancel 90+ days before sailing: deposit forfeited (typically €200-€400 per person). 89-60 days: 25% of total fare retained. 59-30 days: 50% forfeited. 29-15 days: 75% penalty. 14 days or less: 100% non-refundable. Costa strongly recommends comprehensive travel insurance covering cruise cancellation, medical evacuation from remote Atlantic ports, and missed port protection. 'Costa Total Comfort' flexible fare upgrades (approximately €50-€100 per person) permit one free date change up to 30 days before departure. COVID-19 policies have normalized but may reactivate for specific outbreaks—currently standard medical protocols apply. Name changes incur €50-€100 fees if permitted. Rebooking to future cruises rather than cancellation often preserves more value through future cruise credits valid 24 months."
+    }
+  ]
+}

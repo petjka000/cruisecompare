@@ -1,0 +1,205 @@
+{
+  "title": "Royal Caribbean Black Sea Cruises 2026",
+  "intro": "Royal Caribbean brings its signature blend of innovation and adventure to the culturally rich Black Sea region, offering discerning travellers an exceptional way to explore one of Europe's most historic waterways. These carefully crafted itineraries combine the line's world-class onboard experience with immersive shore excursions through ancient civilisations and stunning coastal landscapes. From the architectural splendour of Istanbul to the vineyard-covered hills of Odessa, guests experience diverse cultures whilst enjoying Royal Caribbean's acclaimed entertainment, dining, and accommodation standards. The Black Sea's relatively compact geography allows for meaningful port immersion without lengthy sea days, making these voyages particularly appealing to culturally curious travellers seeking depth alongside the line's trademark resort-style cruising. Royal Caribbean's deployment here represents a strategic commitment to offering alternatives to overcrowded Mediterranean routes.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Rhapsody of the Seas",
+      "Brilliance of the Seas"
+    ],
+    "departure_ports": [
+      "Rome (Civitavecchia)",
+      "Athens (Piraeus)",
+      "Istanbul"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/Oct)",
+      "inside_eur": 849,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Late Summer (Sep)",
+      "inside_eur": 999,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Black Sea & Mediterranean",
+      "duration_nights": 7,
+      "ports": [
+        "Athens",
+        "Kusadasi",
+        "Istanbul",
+        "Varna",
+        "Constanta",
+        "Odessa"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Maximum port density with overnight in Istanbul"
+    },
+    {
+      "name": "10-night Black Sea Intensive",
+      "duration_nights": 10,
+      "ports": [
+        "Rome",
+        "Kotor",
+        "Corfu",
+        "Athens",
+        "Istanbul",
+        "Varna",
+        "Odessa",
+        "Constanta"
+      ],
+      "price_from_eur": 1249,
+      "highlight": "Extended exploration with two full days in Odessa"
+    },
+    {
+      "name": "12-night Grand Black Sea",
+      "duration_nights": 12,
+      "ports": [
+        "Istanbul",
+        "Varna",
+        "Burgas",
+        "Constanta",
+        "Odessa",
+        "Sochi",
+        "Batumi",
+        "Trabzon"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Comprehensive regional coverage including Georgia and Russia"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Rhapsody of the Seas",
+      "capacity": 2435,
+      "year": 1997,
+      "refurbished": 2021,
+      "best_for": "Cultural explorers & couples",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Brilliance of the Seas",
+      "capacity": 2150,
+      "year": 2002,
+      "refurbished": 2022,
+      "best_for": "Luxury-focused travellers",
+      "price_from_eur": 949
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Windjammer buffet",
+    "Basic beverages (water, tea, coffee, juice)",
+    "Broadway-style entertainment",
+    "Rock climbing wall",
+    "Fitness centre access",
+    "Kids' programming (Adventure Ocean)",
+    "Pool and hot tub access",
+    "Room service (continental breakfast)",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Specialty dining ($25-65 per person)",
+    "Beverage packages ($55-75/day)",
+    "Shore excursions ($45-189 per port)",
+    "Gratuities ($16/day per person)",
+    "Spa treatments",
+    "Casino gambling",
+    "WiFi packages ($13-25/day)",
+    "Laundry services",
+    "Photos and souvenirs",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for optimal cabin selection and early booking incentives; shoulder season (May/late September) offers 15-25% savings with superior weather stability than peak July-August period.",
+  "top_ports": [
+    {
+      "port": "Istanbul, Turkey",
+      "time_in_port": "7am-6pm (overnight on select sailings)",
+      "top_activity": "Hagia Sophia & Blue Mosque guided tour (€129)",
+      "tip": "Request port side cabin for Bosphorus arrival views"
+    },
+    {
+      "port": "Odessa, Ukraine",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Privoz Market food tour with opera house (€89)",
+      "tip": "Potemkin Steps best photographed in morning light"
+    },
+    {
+      "port": "Varna, Bulgaria",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Aladzha Monastery & Golden Sands (€79)",
+      "tip": "Taxi to city centre cheaper than ship shuttle"
+    },
+    {
+      "port": "Constanta, Romania",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Bucharest full-day excursion via Danube (€189)",
+      "tip": "Short port time makes independent exploration challenging"
+    },
+    {
+      "port": "Sochi, Russia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Olympic Park & Stalin's Dacha (€149)",
+      "tip": "Russian visa required unless on ship-organised tour"
+    },
+    {
+      "port": "Batumi, Georgia",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Wine region of Adjara with lunch (€109)",
+      "tip": "Excellent independent walking city—save excursion budget"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Black Sea cruise cost?",
+      "answer": "Royal Caribbean Black Sea cruises typically range from €849 to €2,499 per person based on double occupancy, depending on season, cabin category, and itinerary length. Inside cabins start around €849-€1,099, balcony staterooms from €1,199-€1,599, and suites from €1,899-€2,499. Shoulder season sailings in May and October offer the best value, often 20-30% below peak summer pricing. Additional costs include gratuities (€16/day), beverage packages (€55-75/day), and shore excursions averaging €75-150 per port. Solo travellers face 150-200% single supplements unless booking studio cabins when available. Early booking discounts and resident rates can reduce base fares significantly."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Black Sea?",
+      "answer": "Royal Caribbean deploys its Radiance-class vessels to the Black Sea, specifically Rhapsody of the Seas and Brilliance of the Seas. These mid-sized ships (2,150-2,435 passengers) are optimally sized for Black Sea ports, which often have infrastructure limitations preventing larger Oasis-class deployment. Rhapsody of the Seas, refurbished in 2021, offers intimate cruising with panoramic glass elevators and extensive glass viewing areas. Brilliance of the Seas, refreshed in 2022, features the line's updated interior design concepts. Both vessels provide the full Royal Caribbean experience—rock climbing walls, multiple dining venues, and Adventure Ocean programming—whilst maintaining manoeuvrability for smaller harbours like Batumi and Constanta that cannot accommodate mega-ships."
+    },
+    {
+      "question": "When is best time to cruise Black Sea?",
+      "answer": "The optimal Black Sea cruising window runs from late May through mid-October, with June and September offering the ideal combination of pleasant weather, manageable crowds, and competitive pricing. July and August bring peak temperatures (28-32°C) and higher fares, though sea breezes moderate discomfort. May and October provide excellent value with temperatures of 18-24°C, though occasional rain is possible. The region experiences significant winter closure; no regular cruise operations occur November through April due to storm frequency and port infrastructure limitations. September particularly rewards travellers with warm seawater for beach extensions, harvest-season wine experiences in Georgia and Bulgaria, and reduced tourist density at major attractions like Istanbul's historic peninsula."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean Black Sea cruises include substantial value: all meals in main dining rooms and the Windjammer buffet, basic beverages (filtered water, tea, coffee, select juices), extensive entertainment including original production shows and live music, supervised kids' programming through Adventure Ocean, fitness centre access, rock climbing wall, pool and hot tub usage, and standard room service (continental breakfast complimentary, fees apply other times). Accommodation, port taxes, and onboard activities like trivia and dance classes are covered. Not included are alcoholic beverages, specialty dining, shore excursions, spa services, casino play, WiFi, photographs, and gratuities. The Cruise Planner website offers pre-purchase discounts on beverage packages, dining, and excursions that can reduce onboard spending significantly."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean Black Sea itineraries feature a compelling mix of established and emerging destinations. Turkish ports include Istanbul (often with overnight stays) and Kusadasi for Ephesus access. Bulgarian calls visit Varna, the maritime capital with Roman ruins, and occasionally Burgas. Romanian stops focus on Constanta, gateway to Bucharest and the Danube Delta. Ukrainian visits centre on Odessa, celebrated for its 19th-century architecture and culinary scene. Longer itineraries extend to Sochi, Russia (2014 Winter Olympics host) and Batumi, Georgia, a rapidly developing resort city with exceptional wine culture. Some sailings include Greek islands or Croatian ports as bookends. Port times vary considerably—Istanbul often receives 24-36 hours whilst Constanta may see only 9 hours, influencing excursion choices significantly."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Royal Caribbean Black Sea cruises, optimal booking windows are 9-14 months in advance for peak summer departures, when cabin selection is broadest and early booking incentives—typically onboard credits of €100-300 or complimentary beverage packages—are most generous. Shoulder season sailings in May and October can be booked 4-6 months ahead with reasonable availability, though suite categories sell earlier. Wave season (January-March) historically offers the year's strongest promotions across all departure dates. Final payment is typically due 90 days before sailing. Given the Black Sea's limited deployment window and Royal Caribbean's reduced fleet presence versus Mediterranean routes, inventory constraints make procrastination costly—popular balcony categories on 10-night itineraries frequently sell out 6 months ahead."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean Black Sea cruises suit families with children aged 8 and above who possess genuine interest in history, culture, and diverse experiences, though they differ fundamentally from the line's Caribbean product. The Radiance-class ships deployed here lack the water parks, surfing simulators, and expansive teen facilities of Oasis-class vessels, though Adventure Ocean programming (ages 3-17) operates fully. The educational value is exceptional—children encounter Byzantine, Ottoman, Soviet, and ancient Greek history firsthand. Port-intensive itineraries with limited sea days reduce onboard programming time. Families should consider that Black Sea ports involve substantial walking, less English signage than Western Europe, and occasional security considerations (particularly in eastern destinations). For culture-oriented families, these voyages create extraordinary shared learning; those seeking pure resort-style relaxation may prefer Royal Caribbean's Western Mediterranean or Caribbean offerings."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's standard cancellation policy for Black Sea cruises imposes penalties escalating by departure proximity: full refund minus deposit for cancellations 90+ days before sailing; loss of deposit (typically €250-€500 per person) for cancellations 89-75 days out; 25% of total fare for 74-61 days; 50% for 60-31 days; 75% for 30-15 days; and 100% forfeiture within 14 days. Cancel For Any Reason (CFAR) protection, available as add-on cruise insurance through Royal Caribbean's partner or third-party providers, typically reimburses 75% of non-refundable amounts when cancelled 48+ hours before departure. Standard travel insurance covers cancellation for covered reasons (medical, weather, etc.) at 100%. Given geopolitical considerations affecting some Black Sea destinations, review policy wording regarding government travel advisory triggers, as these vary between insurance products and may not activate standard cancellation coverage."
+    }
+  ]
+}

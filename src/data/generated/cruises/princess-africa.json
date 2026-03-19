@@ -1,0 +1,206 @@
+{
+  "title": "Princess Cruises Africa & Canaries Cruises 2026",
+  "intro": "Princess Cruises brings its signature MedallionClass experience to Africa & Canaries voyages, combining exotic wildlife encounters with volcanic island exploration. Sail aboard refined vessels to witness Morocco's imperial cities, Senegal's vibrant markets, and the Canary Islands' dramatic landscapes. Princess excels at destination immersion through Discovery at SEA programs, offering expert-led shore excursions from Casablanca's Hassan II Mosque to Tenerife's Teide National Park. The line's OceanMedallion technology ensures seamless service as you traverse ancient trade routes and Atlantic archipelagos. With enrichment lectures on African culture and Canarian wine-making, plus regionally inspired cuisine at Sabatini's Italian Trattoria, these cruises appeal to curious travellers seeking authentic experiences without sacrificing comfort. Extended port stays and overnight calls in Cape Town or Las Palmas maximize exploration time.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "10-21 nights",
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Mar",
+      "Apr"
+    ],
+    "ships_on_route": [
+      "Sky Princess",
+      "Island Princess",
+      "Crown Princess"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Civitavecchia",
+      "Barcelona",
+      "Cape Town"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Oct-Nov, Mar-Apr)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1399,
+      "balcony_eur": 1999,
+      "suite_eur": 3299
+    },
+    {
+      "season": "Repositioning",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Casablanca",
+        "Agadir",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Funchal",
+        "Vigo",
+        "Southampton"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Round-trip from UK with three full days in Morocco"
+    },
+    {
+      "name": "17-night Africa & Indian Ocean",
+      "duration_nights": 17,
+      "ports": [
+        "Cape Town",
+        "Walvis Bay",
+        "Luanda",
+        "Sao Tome",
+        "Banjul",
+        "Dakar",
+        "Las Palmas"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Rare African west coast expedition with overnight in Cape Town"
+    },
+    {
+      "name": "10-night Canaries & Madeira",
+      "duration_nights": 10,
+      "ports": [
+        "Barcelona",
+        "Malaga",
+        "Arrecife",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Funchal",
+        "Lisbon"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Convenient one-way positioning with volcanic hiking excursions"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Sky Princess",
+      "capacity": 3660,
+      "year": 2019,
+      "best_for": "Couples & Active Adults",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Island Princess",
+      "capacity": 2216,
+      "year": 2003,
+      "best_for": "Intimate Exploration & World Cruisers",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Crown Princess",
+      "capacity": 3082,
+      "year": 2006,
+      "best_for": "Families & Multigenerational Groups",
+      "price_from_eur": 999
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Buffet breakfast, lunch & dinner",
+    "Room service (delivery fee applies 11pm-5am)",
+    "Broadway-style production shows",
+    "Movies Under the Stars outdoor cinema",
+    "Fitness centre & basketball court",
+    "MedallionClass wearable device",
+    "Youth & teen programmes",
+    "Port taxes & fees"
+  ],
+  "whats_extra": [
+    "Specialty restaurants (€25-45pp)",
+    "Premier Beverage Package (€59/day)",
+    "Shore excursions (€49-299pp)",
+    "Spa treatments & thermal suite",
+    "WiFi packages",
+    "Laundry & dry cleaning",
+    "Gratuities (€16pp/day recommended)",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection on limited Africa & Canaries departures; watch for Princess's 'Sail' sales in January and September offering up to 40% off and free gratuities. Consider repositioning cruises in October/November for lowest fares. Reserve shore excursions 120 days pre-cruise for popular activities like gorilla trekking in Rwanda extensions or camel rides in Maspalomas dunes.",
+  "top_ports": [
+    {
+      "port": "Casablanca, Morocco",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Hassan II Mosque guided tour with seaside promenade (€89)",
+      "tip": "Friday mosque closures; book morning tours to avoid afternoon heat"
+    },
+    {
+      "port": "Santa Cruz de Tenerife, Canary Islands",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Mount Teide National Park cable car & hiking (€119)",
+      "tip": "Altitude reaches 3,555m; bring layers and pre-book cable car tickets"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Vegueta historic quarter & Casa de Colón museum (€59)",
+      "tip": "Free Sunday morning entry to museums; excellent tapas at Mercado del Puerto"
+    },
+    {
+      "port": "Walvis Bay, Namibia",
+      "time_in_port": "6am-4pm",
+      "top_activity": "Pelican Point kayaking with seal colonies (€149)",
+      "tip": "Morning fog common; afternoon departures have better visibility"
+    },
+    {
+      "port": "Dakar, Senegal",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Gorée Island UNESCO memorial & local art galleries (€79)",
+      "tip": "Ferry schedule limits time; book ship's excursion for guaranteed return"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Africa & Canaries cruise cost?",
+      "answer": "Princess Cruises Africa & Canaries voyages range from €899 for repositioning inside cabins to €3,299 for peak-season suites. Typical 14-night balcony fares fall between €1,599-€1,999. Shoulder season (October-November, March-April) offers 20-30% savings versus December-Fbruary departures. Solo travellers pay 150-200% supplement unless booking Studio Interior cabins on select ships. Third/fourth passengers in same stateroom receive reduced rates from €499. Princess frequently includes free gratuities, onboard credit (€100-300 per cabin), and reduced deposits during promotional periods. Flight-inclusive packages from European gateways add €400-800pp."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Africa & Canaries?",
+      "answer": "Princess deploys three primary vessels on Africa & Canaries routes. Sky Princess (2019, 3,660 passengers) operates the most departures with modern amenities including the Sky Suite and Take Five jazz lounge. Island Princess (2003, 2,216 passengers) handles extended voyages and world cruise segments, prized for her intimate scale and extensive open decks. Crown Princess (2006, 3,082 passengers) offers family-friendly programming with expanded youth facilities. All three feature Princess's MedallionClass technology for contactless boarding, keyless stateroom entry, and personalized service. No Royal-class mega-ships currently serve this region due to port infrastructure limitations in West African destinations."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "Optimal months are October-November and March-April, combining pleasant Canaries temperatures (22-26°C), minimal rainfall, and calmer Atlantic crossings. These shoulder periods avoid peak pricing while delivering ideal conditions for Morocco's imperial cities and Namibia's wildlife. December-Fbruary offers the warmest weather (24-28°C) but commands premium fares and encounters stronger trade winds. West Africa's dry season (November-March) maximizes comfort for Senegal and Gambia explorations. Avoid June-September when Sahara dust (Calima) reduces visibility and humidity peaks. Cape Town departures work best October-March during South Africa's summer. Princess schedules most Africa & Canaries itineraries specifically within these favourable windows."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess includes all main dining venue meals, casual buffet options, room service (except late-night delivery fee), standard beverages (water, tea, coffee, juice), Broadway-calibre production shows, live music venues, Movies Under the Stars, fitness centre access, basketball and tennis courts, youth programmes for ages 3-17, and MedallionClass wearable technology. Enrichment programming through Discovery at SEA features destination experts and naturalists. Accommodation, port taxes, and basic gratuities are covered. Not included are alcoholic beverages, specialty restaurants, shore excursions, spa services, WiFi, laundry, and casino play. Princess's 'Princess Plus' package (€50/day) bundles drinks, WiFi, and gratuities for better value than à la carte purchasing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess Africa & Canaries itineraries feature 15-20 distinct ports across four regions. Canary Islands highlights include Las Palmas, Santa Cruz de Tenerife, Arrecife (Lanzarote), and Puerto del Rosario (Fuerteventura). Moroccan calls encompass Casablanca, Agadir, and Tangier. West African rare ports include Dakar (Senegal), Banjul (Gambia), Abidjan (Ivory Coast), Luanda (Angola), and Walvis Bay (Namibia) with its flamingo lagoons. Madeira's Funchal and Cape Verde's Mindelo appear on select routes. Cape Town serves as turnaround point for Indian Ocean segments. European departure ports are Southampton, Barcelona, Civitavecchia, and Lisbon. Many itineraries include sea days between distant African ports, with lecturers covering colonial history, wildlife, and cultural anthropology."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Africa & Canaries cruises 12-18 months in advance due to limited annual departures and high repeat-booking demand from Princess's loyal clientele. Best cabin categories—particularly balcony staterooms with obstructed views and mini-suites—sell out 9-12 months ahead. Early booking (180+ days) locks in 'Early Booking Savings' of 10-15% and preferred dining times. Shore excursions for capacity-limited experiences like gorilla trekking extensions or private medina tours in Fez should be reserved at 120 days when booking opens. Last-minute deals emerge 60-90 days pre-departure for inside cabins only, typically saving 20-25% but with limited itinerary choice. World cruise segments booking 2+ years ahead offer lowest per-diem rates."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Africa & Canaries cruises suit families with children aged 8+ who can appreciate cultural and natural destinations, though younger children may find sea days and port-intensive schedules challenging. Crown Princess offers the most robust family programming with expanded Camp Discovery youth centres, while Island Princess has limited dedicated children's facilities. The educational value is exceptional—Discovery at SEA programmes cover African wildlife, volcanic geology, and marine biology. Shore excursions accommodate families with moderate activity levels, though some West African ports require vaccinations and malaria prophylaxis unsuitable for infants. Teen programmes include late-night dance parties and sports tournaments. Family staterooms and connecting rooms book quickly; reserve 12+ months ahead. No dedicated kids' pools on these ships."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess's standard cancellation policy charges no penalty until final payment (typically 90 days before departure for cruises 6+ nights). Between 89-75 days, deposit is forfeited (€250-€1,000 depending on cruise length and stateroom category). 74-43 days incurs 25% penalty; 42-29 days 50%; 28-15 days 75%; 14 days or less 100% of cruise fare. 'Princess Vacation Protection' insurance (€129-€249pp) enables cancellation for any reason with future cruise credit minus administrative fee. COVID-19 protocols have introduced flexible 'Cruise with Confidence' policies allowing rebooking without penalty during specified booking windows. Cancel for medical reasons with physician documentation for full refund minus insurance premium. Group bookings of 8+ staterooms face stricter 120-day final payment and cancellation terms."
+    }
+  ]
+}

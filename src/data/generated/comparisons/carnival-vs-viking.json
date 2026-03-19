@@ -1,0 +1,133 @@
+{
+  "title": "Carnival Cruise Line vs Viking Cruises 2026",
+  "intro": "Carnival Cruise Line and Viking Cruises represent two fundamentally different cruise philosophies. Carnival, the world's largest cruise line, delivers high-energy, mass-market vacations with water slides, casinos, and non-stop entertainment across 24 ships. Viking operates a boutique fleet of ocean and river vessels exclusively for adults 18+, emphasizing cultural immersion, destination-focused itineraries, and Scandinavian design elegance. While both operate globally, they target entirely different traveller profiles. Carnival dominates Caribbean and short-break markets; Viking specialises in longer, port-intensive voyages with included excursions. Understanding these distinctions is essential for matching your travel style to the right experience.",
+  "at_a_glance": {
+    "carnival": {
+      "price_tier": "budget",
+      "avg_7night_inside_eur": 649
+    },
+    "viking": {
+      "price_tier": "premium",
+      "avg_7night_inside_eur": 3299
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Average 7-Night Inside Cabin",
+      "carnival": "€649",
+      "viking": "€3,299"
+    },
+    {
+      "category": "Passenger Capacity (typical ship)",
+      "carnival": "3,000-5,200",
+      "viking": "930"
+    },
+    {
+      "category": "Crew-to-Passenger Ratio",
+      "carnival": "1:2.5",
+      "viking": "1:1.7"
+    },
+    {
+      "category": "Minimum Age",
+      "carnival": "6 months (most sailings)",
+      "viking": "18 years"
+    },
+    {
+      "category": "Drinks Package (7 nights)",
+      "carnival": "€308",
+      "viking": "Included"
+    },
+    {
+      "category": "Shore Excursions",
+      "carnival": "Extra charge (€49-199)",
+      "viking": "One included per port"
+    },
+    {
+      "category": "Specialty Dining",
+      "carnival": "€30-45 per person",
+      "viking": "Included"
+    },
+    {
+      "category": "Wi-Fi",
+      "carnival": "€14.45/day",
+      "viking": "Included"
+    },
+    {
+      "category": "Gratuities (7 nights)",
+      "carnival": "€112",
+      "viking": "Included"
+    },
+    {
+      "category": "Evening Dress Code",
+      "carnival": "Casual",
+      "viking": "Elegant casual"
+    }
+  ],
+  "choose_a_if": [
+    "You travel with children or multigenerational groups requiring dedicated kids' clubs and family activities",
+    "You prioritise budget-conscious base fares and enjoy à-la-carte pricing for add-ons",
+    "You seek high-energy entertainment including Broadway-style shows, comedy clubs, and water parks",
+    "You prefer shorter Caribbean itineraries with sea days and onboard resort-style amenities",
+    "You enjoy casino gaming, nightclubs, and lively pool deck atmospheres"
+  ],
+  "choose_b_if": [
+    "You desire an adults-only environment with sophisticated, culturally immersive experiences",
+    "You value inclusive pricing covering excursions, drinks, Wi-Fi, and gratuities with no hidden costs",
+    "You prioritise destination depth over onboard spectacle, preferring longer port stays and overnight visits",
+    "You appreciate understated Scandinavian design, spa-wellness focus, and enrichment lectures",
+    "You seek longer itineraries (10-21 nights) exploring Northern Europe, Asia, or expedition destinations"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with children",
+      "winner": "Carnival Cruise Line",
+      "reason": "Camp Ocean kids' programmes, Dr. Seuss partnerships, water parks, and family cabins make Carnival unbeatable for younger cruisers."
+    },
+    {
+      "type": "Couples 50+",
+      "winner": "Viking Cruises",
+      "reason": "Adult-only serenity, included wine with meals, cultural enrichment, and spacious veranda staterooms suit mature travellers perfectly."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Viking Cruises",
+      "reason": "No single supplement on many sailings, included excursions for easy socialising, and intimate ship size foster genuine connections."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Carnival Cruise Line",
+      "reason": "Lower entry price, familiar American-style service, and shorter itineraries reduce commitment risk for cruise novices."
+    },
+    {
+      "type": "Culture enthusiasts",
+      "winner": "Viking Cruises",
+      "reason": "Destination-focused programming, resident historians, included walking tours, and port-intensive scheduling maximise cultural immersion."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends on your spending habits. Carnival's base fare appears cheaper at €649 for seven nights, but adding drinks (€308), gratuities (€112), Wi-Fi (€101), and two excursions (€150) totals €1,320. Viking's €3,299 includes all these elements plus specialty dining. For travellers who utilise inclusions, Viking often delivers superior value per dollar spent, while Carnival suits those who minimise extras and accept interior cabins."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Carnival exclusively accommodates families, offering dedicated facilities from toddlers through teens: Camp Ocean (2-11), Circle C (12-14), and Club O2 (15-17). Partnerships with Dr. Seuss and Hasbro provide branded activities, while water parks and family harbour accommodations suit multigenerational groups. Viking's 18-plus policy automatically disqualifies families with children, making this comparison straightforward for parents."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Carnival operates in the €500-1,200 range for seven-night Caribbean sailings in inside cabins, with balcony accommodations typically €200-400 additional. Viking's ocean voyages start at €2,800-4,500 for comparable durations, reflecting all-inclusive structure and smaller vessel premium. River cruises command €2,200-3,800. When normalising for inclusions, Viking's effective premium reduces to approximately 2-2.5x Carnival's total spend rather than the headline 5x multiple."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Viking demonstrably leads culinary quality, with menus developed in consultation with chefs from Relais & Châteaux properties, regional destination-inspired cuisine, and no surcharge venues. The Kitchen Table interactive dining and afternoon tea service elevate experiences. Carnival offers quantity over refinement: extensive buffet selections, Guy Fieri burger partnerships, and reliable if unexceptional main dining room fare. Specialty restaurants like Fahrenheit 555 steakhouse compete but incur €38-45 charges."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Carnival better introduces cruise sceptics through lower financial commitment, familiar American hospitality standards, and forgiving itineraries with sea days for acclimatisation. The informal atmosphere reduces anxiety about dress codes or etiquette. However, Viking suits mature first-timers seeking immediate immersion without navigating complex à-la-carte pricing or contending with crowds. Your comfort with upfront investment and preference for adult company determines optimal choice."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental distinctions span demographics, pricing philosophy, and experience design. Carnival: family-permissive, high-capacity ships (3,000-5,200 guests), entertainment-centric, à-la-carte pricing, casual atmosphere, Caribbean focus. Viking: adults-only, intimate vessels (930 guests), destination-centric, all-inclusive pricing, refined atmosphere, global and expedition itineraries. Carnival monetises onboard spending; Viking bundles costs into higher fares. Carnival competes with land resorts; Viking competes with luxury small-group touring."
+    }
+  ]
+}

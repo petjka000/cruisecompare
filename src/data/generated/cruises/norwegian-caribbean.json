@@ -1,0 +1,266 @@
+{
+  "title": "Norwegian Cruise Line Caribbean Cruises 2026",
+  "intro": "Norwegian Cruise Line pioneered freestyle cruising, and their Caribbean itineraries deliver maximum flexibility for sun-seekers. Unlike traditional cruise lines with fixed dining times, NCL lets you eat when and where you want across multiple complimentary restaurants. Their Caribbean sailings feature private island Great Stirrup Cay in the Bahamas, offering exclusive beach experiences unavailable elsewhere. The fleet's newest Breakaway Plus and Prima-class ships bring Broadway entertainment, racetracks, and expansive waterfront promenades to warm-weather routes. Norwegian excels at Eastern Caribbean island-hopping to St. Thomas, Tortola, and Puerto Rico, plus Western Caribbean adventures to Cozumel, Belize, and Roatan. With departures from Miami, Tampa, New Orleans, and New York, NCL provides unmatched accessibility. Their Haven suites offer ship-within-a-ship luxury, while studio cabins cater to solo travelers without single supplements.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Norwegian Prima",
+      "Norwegian Viva",
+      "Norwegian Escape",
+      "Norwegian Breakaway",
+      "Norwegian Encore",
+      "Norwegian Bliss",
+      "Norwegian Jade",
+      "Norwegian Pearl",
+      "Norwegian Sky",
+      "Norwegian Sun"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Tampa",
+      "New Orleans",
+      "New York",
+      "Orlando (Port Canaveral)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Shoulder (Mar-May, Nov)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Low (Jun-Oct)",
+      "inside_eur": 599,
+      "balcony_eur": 899,
+      "suite_eur": 1499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Eastern Caribbean from Miami",
+      "duration_nights": 7,
+      "ports": [
+        "Miami",
+        "Puerto Plata",
+        "St. Thomas",
+        "Tortola",
+        "Great Stirrup Cay",
+        "Miami"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Perfect beach balance with Virgin Islands and private island"
+    },
+    {
+      "name": "7-night Western Caribbean from Tampa",
+      "duration_nights": 7,
+      "ports": [
+        "Tampa",
+        "Cozumel",
+        "Belize City",
+        "Roatan",
+        "Costa Maya",
+        "Tampa"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Mayan ruins and world-class snorkeling"
+    },
+    {
+      "name": "10-night Southern Caribbean from Miami",
+      "duration_nights": 10,
+      "ports": [
+        "Miami",
+        "Aruba",
+        "Curaçao",
+        "Bonaire",
+        "St. Lucia",
+        "Antigua",
+        "St. Thomas",
+        "Miami"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "ABC islands and deep Caribbean exploration"
+    },
+    {
+      "name": "14-night Caribbean roundtrip from New York",
+      "duration_nights": 14,
+      "ports": [
+        "New York",
+        "San Juan",
+        "St. Thomas",
+        "Tortola",
+        "Antigua",
+        "Barbados",
+        "St. Lucia",
+        "St. Kitts",
+        "New York"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "No-fly Caribbean with extensive island coverage"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Norwegian Prima",
+      "capacity": 3950,
+      "year": 2022,
+      "best_for": "Modern luxury seekers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Norwegian Viva",
+      "capacity": 3950,
+      "year": 2023,
+      "best_for": "Contemporary cruising",
+      "price_from_eur": 949
+    },
+    {
+      "name": "Norwegian Encore",
+      "capacity": 3998,
+      "year": 2019,
+      "best_for": "Families with teens",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Norwegian Bliss",
+      "capacity": 4004,
+      "year": 2018,
+      "best_for": "Alaska-Caribbean crossover fans",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Norwegian Escape",
+      "capacity": 4266,
+      "year": 2015,
+      "best_for": "Entertainment lovers",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Norwegian Breakaway",
+      "capacity": 3963,
+      "year": 2013,
+      "best_for": "Value-conscious families",
+      "price_from_eur": 649
+    },
+    {
+      "name": "Norwegian Jade",
+      "capacity": 2402,
+      "year": 2006,
+      "best_for": "Intimate ship experience",
+      "price_from_eur": 599
+    },
+    {
+      "name": "Norwegian Sky",
+      "capacity": 2004,
+      "year": 1999,
+      "best_for": "Short getaway cruises",
+      "price_from_eur": 549
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All meals in complimentary dining venues including main dining rooms and buffet",
+    "Select beverages: coffee, tea, juice at breakfast, tap water",
+    "Broadway-style entertainment and live music",
+    "Access to pools, fitness center, and sports courts",
+    "Kids and teens clubs programming",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (alcohol and specialty coffees)",
+    "Specialty dining restaurants ($15-50 per person)",
+    "Gratuities (€16-20 per person per day automatically added)",
+    "Shore excursions (€50-300 per activity)",
+    "WiFi packages",
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Laundry services",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and lowest rates on new ships Prima and Viva. Norwegian frequently runs 'Free at Sea' promotions bundling beverage packages, specialty dining, WiFi, and excursion credits—wait for these sales rather than booking base fares. Solo travelers should monitor studio cabin availability as they sell quickly. Haven suite guests benefit from priority booking 120 days out. Avoid booking inside 90 days unless seeking last-minute deals on older ships like Sky or Jade. Consider repositioning cruises in April and November for exceptional value.",
+  "top_ports": [
+    {
+      "port": "Great Stirrup Cay (NCL Private Island)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Silver Cove cabana rental (€329)",
+      "tip": "Free BBQ lunch included; premium spots require early tender ticket"
+    },
+    {
+      "port": "Cozumel",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Palancar Reef snorkeling (€89)",
+      "tip": "Taxi to Playa San Francisco beaches beats crowded cruise terminal"
+    },
+    {
+      "port": "St. Thomas",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Magens Bay beach (€45 with taxi)",
+      "tip": "Morning arrival—book early excursion to avoid afternoon crowds"
+    },
+    {
+      "port": "San Juan",
+      "time_in_port": "5pm-11pm or overnight",
+      "top_activity": "Old San Juan food tour (€75)",
+      "tip": "Evening departure allows full day exploring; many ships stay until 2am"
+    },
+    {
+      "port": "Belize City",
+      "time_in_port": "8am-5pm (tender)",
+      "top_activity": "Cave tubing and zip-lining (€129)",
+      "tip": "Tender port—book ship excursion to guarantee on-time return"
+    },
+    {
+      "port": "Roatan",
+      "time_in_port": "8am-4pm",
+      "top_activity": "West Bay Beach break (€55)",
+      "tip": "Mahogany Bay cruise terminal has private beach; independent taxis cheaper to West Bay"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Norwegian Cruise Line Caribbean cruise cost?",
+      "answer": "Norwegian Cruise Line Caribbean cruises range from €549 for 4-night getaways on older ships like Norwegian Sky to €2,500+ for 14-night Southern Caribbean sailings in The Haven suites. Inside cabins on 7-night cruises typically start at €699-899, balconies at €1,099-1,399, and suites at €1,799-2,199. Peak season (December-February) commands 30-40% premiums over hurricane season pricing. Watch for 'Free at Sea' promotions that add €400+ value through bundled beverage packages, specialty dining, and WiFi. Solo travelers benefit from studio cabins starting at €849 without single supplement penalties common on other lines."
+    },
+    {
+      "question": "Which Norwegian Cruise Line ships sail to Caribbean?",
+      "answer": "Norwegian deploys 8-10 ships annually to Caribbean waters. The newest Prima-class sisters Norwegian Prima and Norwegian Viva offer the most modern experience with infinity pools and elevated dining. Breakaway Plus ships (Encore, Bliss, Escape) feature go-kart tracks and massive water slides ideal for families. Breakaway and Getaway provide strong value with extensive entertainment. Smaller vessels Jade, Pearl, Sky, and Sun rotate through Caribbean routes offering more intimate port experiences and lower prices. Ship assignments shift seasonally—Prima and Viva typically handle Eastern Caribbean while older ships dominate short Bahamas runs from Miami and Orlando."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "December through April delivers ideal conditions: minimal rainfall, stable 26-29°C temperatures, and calm seas for smooth sailing. January and February offer the driest weather but highest demand and pricing. March brings spring break crowds—excellent for families, challenging for tranquility seekers. May and November provide 20-30% savings with acceptable weather risk; brief afternoon showers rarely disrupt itineraries. June through October is hurricane season with lowest prices (€599 inside cabins common) but requires flexible travel insurance. September statistically sees the most tropical activity though ships simply reroute around storms. Eastern Caribbean routes generally experience less rainfall than Western Caribbean year-round."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Norwegian's freestyle cruising includes accommodations, all meals in main dining rooms, buffets, and casual venues like O'Sheehan's Neighborhood Bar & Grill. Complimentary entertainment spans Broadway productions, comedy clubs, live music, and deck parties. Kids clubs (Splash Academy for 3-12, Entourage for 13-17), fitness center access, and pool use carry no surcharge. Coffee, tea, juice at breakfast, and tap water are free. What's not included: alcoholic beverages, specialty coffees, specialty restaurants, gratuities (€16-20 daily), WiFi, shore excursions, and spa services. Norwegian's 'Free at Sea' promotion bundles these extras—strategic booking during these sales essentially creates an all-inclusive experience without the premium pricing of luxury competitors."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Norwegian's Caribbean network spans 30+ ports across three regions. Eastern Caribbean itineraries feature San Juan, St. Thomas, Tortola, St. Lucia, Antigua, and exclusive Great Stirrup Cay with its private lagoon and cabanas. Western Caribbean calls include Cozumel, Costa Maya, Belize City, Roatan, and Costa Rica's Puerto Limon. Southern Caribbean routes reach the ABC islands (Aruba, Bonaire, Curaçao), Barbados, and Grenada. Repositioning cruises occasionally visit Dominican Republic's Puerto Plata and Amber Cove. Norwegian uniquely offers Bermuda combined with Caribbean on select sailings. Most 7-night cruises include 3-4 port days plus sea days; longer itineraries maximize port-intensive exploration of lesser-visited islands like Dominica and St. Kitts."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For optimal cabin selection on Norwegian's newest ships, book 9-12 months ahead, particularly for The Haven suites and studio cabins that sell quickly. Families needing connecting rooms or specific categories should secure 10-11 months out. Solo travelers face particular urgency as studio inventory is limited to 20-40 cabins per ship. Price-sensitive cruisers can find value 6-9 months ahead during 'Free at Sea' promotional windows. Last-minute deals emerge 45-90 days out primarily on older ships (Jade, Sky, Sun) and repositioning cruises. Holiday sailings (Christmas, New Year, February half-term) require 12+ month booking for any availability. Caribbean hurricane season (June-November) offers booking flexibility with frequent price drops 60 days prior."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Norwegian excels at multigenerational Caribbean cruising with industry-leading children's programming and flexible dining that accommodates unpredictable family schedules. Splash Academy divides kids 3-12 into age-appropriate groups with complimentary supervised activities from morning to night. Entourage teen club provides video games, music, and social spaces without parental embarrassment. Family-friendly ships (Encore, Bliss, Escape) feature the most elaborate water parks, go-kart tracks, and laser tag. Connecting staterooms and family suites are abundant. The 'Free at Sea' promotion's included beverage and dining packages simplify budgeting. However, Norwegian lacks the character dining and extensive nursery services of Disney; infants under six months cannot sail. Shore excursions cater poorly to toddlers—plan independent beach days."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Norwegian's standard cancellation policy charges penalties escalating by departure proximity: full refund for cancellations 121+ days out; deposit forfeited 120-91 days; 25% penalty 90-61 days; 50% penalty 60-31 days; 75% penalty 30-15 days; 100% penalty under 15 days. 'Free at Sea' promotional fares carry stricter terms—often non-refundable deposits and penalties starting at 91 days. Cancel for Any Reason protection (€89-149 per person) upgrades to 90% future cruise credit regardless of timing. COVID-era flexibility has largely ended; standard medical documentation required for illness cancellations. Travel insurance strongly recommended for Caribbean hurricane season bookings. Suite guests in The Haven receive slightly more lenient rebooking options through dedicated concierge services."
+    }
+  ]
+}

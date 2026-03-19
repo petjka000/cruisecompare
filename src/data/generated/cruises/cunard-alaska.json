@@ -1,0 +1,189 @@
+{
+  "title": "Cunard Line Alaska Cruises 2026",
+  "intro": "Cunard Line brings its legendary transatlantic elegance to the wild frontiers of Alaska, offering a refined alternative to mainstream cruise experiences. Sailing aboard the iconic Queen Elizabeth, passengers discover the Inside Passage through the lens of British maritime heritage—white-gloved afternoon tea, black-tie evenings, and lectures from naturalists and historians. Cunard's Alaska program emphasizes immersive destination engagement over high-energy entertainment, with extended port stays in Juneau, Skagway, and Ketchikan allowing deeper exploration of glaciers, indigenous cultures, and Gold Rush history. The line's partnership with local operators ensures exclusive shore experiences unavailable to larger vessels. With fewer than 2,100 guests, Queen Elizabeth navigates narrower fjords and quieter anchorages that megaships cannot access. Cunard's Alaska voyages particularly appeal to mature travelers, history enthusiasts, and those seeking contemplative wilderness encounters without sacrificing civilized comforts—making the journey as memorable as the destination itself.",
+  "quick_facts": {
+    "price_from_eur": 1849,
+    "duration_range": "9-12 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Queen Elizabeth"
+    ],
+    "departure_ports": [
+      "Vancouver",
+      "Seattle"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 1849,
+      "balcony_eur": 2649,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 2299,
+      "balcony_eur": 3299,
+      "suite_eur": 6199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Alaska Glacier Discovery",
+      "duration_nights": 9,
+      "ports": [
+        "Vancouver",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Ketchikan",
+        "Seattle"
+      ],
+      "price_from_eur": 1999,
+      "highlight": "Full day in Glacier Bay National Park with park ranger narration"
+    },
+    {
+      "name": "Alaska Intensive Voyage",
+      "duration_nights": 12,
+      "ports": [
+        "Seattle",
+        "Sitka",
+        "Juneau",
+        "Hubbard Glacier",
+        "Skagway",
+        "Icy Strait Point",
+        "Ketchikan",
+        "Victoria",
+        "Vancouver"
+      ],
+      "price_from_eur": 2649,
+      "highlight": "Includes rare Hubbard Glacier approach and extended Victoria overnight"
+    },
+    {
+      "name": "Alaska with Denali Land Tour",
+      "duration_nights": 14,
+      "ports": [
+        "Vancouver",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Seward (disembark)",
+        "Denali National Park",
+        "Anchorage"
+      ],
+      "price_from_eur": 3899,
+      "highlight": "Three-night Denali wilderness lodge with Tundra Wilderness Tour included"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Elizabeth",
+      "capacity": 2081,
+      "year": 2010,
+      "best_for": "Mature travelers, history enthusiasts, luxury seekers",
+      "price_from_eur": 1849
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining rooms and Lido buffet",
+    "Afternoon tea service",
+    "Nightly entertainment and enrichment lectures",
+    "Fitness center and swimming pools",
+    "Port taxes and fees",
+    "Basic WiFi (one device per stateroom)"
+  ],
+  "whats_extra": [
+    "Beverages and specialty coffees",
+    "Shore excursions and flightseeing",
+    "Specialty dining (Verandah Restaurant)",
+    "Gratuities (€14.50 per person daily)",
+    "Spa treatments and salon services",
+    "Premium WiFi upgrades",
+    "Laundry and dry cleaning"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best balcony cabin selection; Cunard releases Alaska inventory 18 months in advance. Shoulder season (May/September) offers 20-30% savings and superior wildlife viewing. Consider Cunard's 'Sailaway' fares for maximum value if cabin location is flexible. Early booking incentives typically include onboard credit of €150-300 per stateroom.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Mendenhall Glacier helicopter trek (€489)",
+      "tip": "Book morning flights for clearer weather; afternoon often clouds in"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-8:30pm",
+      "top_activity": "White Pass & Yukon Route railway (€139)",
+      "tip": "Cunard includes extended evening stay—take the 6pm train for golden hour photography"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Misty Fjords floatplane (€329)",
+      "tip": "Rain is likely; embrace it—waterfalls are most spectacular in wet weather"
+    },
+    {
+      "port": "Glacier Bay",
+      "time_in_port": "Full day scenic cruising",
+      "top_activity": "Margerie Glacier calving observation from deck",
+      "tip": "Reserve forward-facing Observation Deck seats by 6am; bring binoculars"
+    },
+    {
+      "port": "Sitka",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sea otter wildlife cruise (€189)",
+      "tip": "Visit Sheldon Jackson Museum independently—excellent Russian indigenous artifacts"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "12pm-8pm",
+      "top_activity": "World's longest zip line (€159)",
+      "tip": "Hoonah village walking tour offers authentic Tlingit cultural encounter"
+    },
+    {
+      "port": "Victoria",
+      "time_in_port": "6pm-11:30pm",
+      "top_activity": "Butchart Gardens evening illumination (€89)",
+      "tip": "Cunard's late stay coincides with garden night lighting—magical atmosphere"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Alaska cruise cost?",
+      "answer": "Cunard Alaska cruises typically range from €1,849 to €6,500 per person for cruise-only fares, depending on season and accommodation. Inside cabins start around €1,849 in shoulder season (May/September), rising to €2,299 in peak summer months. Balcony staterooms—essential for glacier viewing—run €2,649 to €3,299. Suites with butler service begin at €4,899. Land-tour combinations with Denali add €1,200-1,800. Gratuities (€14.50 daily), drinks packages (€65/day), and shore excursions (€89-489 each) represent additional costs. Cunard's fare structure includes more than premium competitors—afternoon tea, enrichment programming, and basic WiFi are complimentary."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Alaska?",
+      "answer": "The Queen Elizabeth operates Cunard's entire Alaska program, bringing the line's signature ocean liner aesthetic to the Inside Passage. Launched in 2010 and extensively refurbished in 2019, this 90,901-ton vessel carries 2,081 passengers in Art Deco-inspired surroundings reminiscent of 1930s transatlantic travel. At 964 feet, she navigates Alaska's narrower waterways more gracefully than larger resort ships while maintaining stabilizer-equipped comfort. Queen Elizabeth features the only planetarium at sea, a 6,000-book library, and dedicated ballroom—unusual amenities for Alaska cruising. Her relatively intimate scale allows access to Sitka and Icy Strait Point, ports often skipped by megaships. No other Cunard vessel currently serves this market."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "Cunard's Alaska season runs May through September, with distinct advantages each month. May offers drier weather, snow-capped mountains, and aggressive pricing 20-30% below peak—ideal for budget-conscious travelers prioritizing scenery over warmth. June brings the midnight sun (nearly 19 hours of daylight), peak whale migration, and wildflower blooms, though rain increases. July-August represent peak season with warmest temperatures (15-20°C) and highest wildlife activity, including bear salmon-feeding—expect premium pricing and occasional port congestion. September delivers autumn foliage, northern lights possibilities, and excellent value, though some excursions wind down post-Labor Day. Cunard's enrichment programming peaks June-August with guest naturalists and National Geographic photographers aboard."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's Alaska fares include substantial value compared to contemporary cruise lines. All dining in the Britannia Restaurant, Lido buffet, and Golden Lion Pub is complimentary, as is the renowned white-gloved afternoon tea service. Entertainment spans nightly West End-style productions, classical recitals in the Royal Court Theatre, and Cunard Insights lectures by historians, authors, and naturalists. Fitness facilities, swimming pools, deck games, and basic WiFi (one device) carry no surcharge. Notably excluded are beverages beyond morning juices and basic coffee, specialty dining at the Verandah steakhouse, shore excursions, spa services, and gratuities. Cunard's 'Fare Choices' allow passengers to upgrade inclusivity—selecting packages that bundle drinks, WiFi, and gratuities for €45-65 daily."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Alaska itineraries emphasize cultural depth over port quantity, typically visiting 4-5 destinations with extended stays. Vancouver and Seattle serve as primary embarkation points. Juneau, Alaska's capital accessible only by sea or air, anchors every voyage with Mendenhall Glacier proximity. Skagway receives Cunard's longest port calls (up to 13.5 hours) enabling White Pass railway journeys and independent exploration. Ketchikan, the 'Salmon Capital,' offers indigenous heritage at Saxman Village and Creek Street. Glacier Bay National Park constitutes a full-day scenic cruising highlight with National Park rangers boarding to narrate. Select itineraries include Sitka (Russian history), Icy Strait Point (Tlingit culture), and Victoria, British Columbia—with Cunard's signature late evening stays allowing garden illuminations."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Cunard Alaska, advance planning significantly impacts cabin selection and pricing. The line releases itineraries approximately 18 months ahead, with optimal booking windows opening 12-15 months prior for preferred balcony categories—particularly sheltered balconies on Decks 1-3, prized for unobstructed glacier viewing. Prices typically escalate 20-30% within six months of sailing as inventory tightens. Last-minute deals are rare given Cunard's loyal repeat passenger base and Alaska's limited season. Early booking incentives usually include onboard credits of €150-300 per stateroom and reduced deposits. For 2026 sailings, securing reservations by September 2025 ensures best availability. Cunard's 'Cunard World Club' members receive priority booking windows 24 hours before public release."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard's Alaska program suits families differently than mass-market alternatives. Children are welcome and sail free (as third/fourth passengers) when sharing with two adults, with dedicated Night Nursery for under-2s and Kids' Zone programming for ages 2-17. However, the line's refined atmosphere—formal dress codes, classical entertainment, lecture-heavy sea days—attracts predominantly 55+ passengers, potentially leaving teenagers seeking peers disappointed. Families prioritizing educational enrichment over waterslides find exceptional value: naturalist-led deck watches, junior ranger programs in Glacier Bay, and supervised shore excursions. The ship's planetarium, largest library at sea, and fencing lessons offer unusual diversions. For multi-generational groups blending grandparents' preferences with children's needs, Cunard strikes a considered balance, though families seeking high-energy programming should evaluate mainstream alternatives."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation structure penalizes later withdrawals progressively. For Alaska cruises, cancellations 91+ days before departure forfeit the deposit (typically 25% of cruise fare). Days 90-61 incur loss of 50% total fare; 60-31 days sacrifice 75%; within 30 days, 100% forfeiture applies. This policy is stricter than some competitors, reflecting Cunard's premium positioning and limited Alaska inventory. Travel insurance is strongly recommended—Cunard offers policies covering cancellation for covered reasons including illness, with 'Cancel for Any Reason' upgrades available for 75% future cruise credit. COVID-19 protocols have introduced temporary flexibility: currently, positive tests within 10 days of sailing permit full refund or future cruise credit. Booking through Cunard's 'Flexible Fares' (higher base price) reduces penalties significantly, allowing changes until 30 days with minimal fees."
+    }
+  ]
+}

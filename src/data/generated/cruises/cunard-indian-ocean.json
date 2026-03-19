@@ -1,0 +1,172 @@
+{
+  "title": "Cunard Line Indian Ocean Cruises 2026",
+  "intro": "Cunard Line brings its legendary White Star Service to the Indian Ocean, offering an elegant escape aboard classic ocean liners. These voyages combine British maritime heritage with exotic destinations, sailing from Arabian hubs through the Seychelles, Maldives, Mauritius, and Sri Lanka. Guests experience afternoon tea, gala evenings, and sophisticated enrichment programs while exploring spice-scented ports and pristine coral atolls. Cunard's Indian Ocean itineraries appeal to discerning travellers seeking cultural immersion paired with timeless luxury, featuring extended port stays that allow for deeper exploration of ancient trading posts, colonial architecture, and UNESCO-protected marine ecosystems.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "14-21 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Queen Victoria",
+      "Queen Elizabeth"
+    ],
+    "departure_ports": [
+      "Dubai",
+      "Singapore",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 2499,
+      "balcony_eur": 3899,
+      "suite_eur": 7499
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 1899,
+      "balcony_eur": 2899,
+      "suite_eur": 5499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Arabian Sea & Indian Ocean",
+      "duration_nights": 14,
+      "ports": [
+        "Dubai",
+        "Muscat",
+        "Mumbai",
+        "Goa",
+        "Mangalore",
+        "Colombo",
+        "Malé"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Overnight in Mumbai for Taj Mahal excursion"
+    },
+    {
+      "name": "21-night Indian Ocean Explorer",
+      "duration_nights": 21,
+      "ports": [
+        "Singapore",
+        "Phuket",
+        "Colombo",
+        "Malé",
+        "Seychelles",
+        "Mauritius",
+        "Réunion",
+        "Durban"
+      ],
+      "price_from_eur": 3499,
+      "highlight": "Three sea days for relaxation between island gems"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Victoria",
+      "capacity": 2061,
+      "year": 2007,
+      "best_for": "Traditionalists & cultural cruisers",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Queen Elizabeth",
+      "capacity": 2068,
+      "year": 2010,
+      "best_for": "Art deco enthusiasts & British heritage",
+      "price_from_eur": 1999
+    }
+  ],
+  "whats_included": [
+    "All meals in main restaurants and buffet",
+    "Afternoon tea service",
+    "Evening entertainment and live music",
+    "Lectures by Cunard Insights speakers",
+    "Fitness centre and swimming pools",
+    "Gratuities for restaurant and housekeeping staff",
+    "Shuttle buses in most ports"
+  ],
+  "whats_extra": [
+    "Beverages and specialty coffees",
+    "Shore excursions and destination experiences",
+    "Specialty dining restaurants",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Wi-Fi packages",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; Cunard releases Indian Ocean itineraries 18 months in advance. Consider Cunard's 'Sailaway' fares for lowest prices on interior cabins, or book early for complimentary upgrades. World Club members receive additional discounts and priority boarding.",
+  "top_ports": [
+    {
+      "port": "Mumbai (Bombay)",
+      "time_in_port": "7am-6pm (overnight on some sailings)",
+      "top_activity": "Private Taj Mahal excursion by charter flight ($899)",
+      "tip": "Request port side cabin for Gateway of India views"
+    },
+    {
+      "port": "Malé, Maldives",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Seaplane transfer to private island resort ($445)",
+      "tip": "Book water villa day pass early—limited availability"
+    },
+    {
+      "port": "Victoria, Seychelles",
+      "time_in_port": "7am-6pm",
+      "top_activity": "La Digue island tour with Anse Source d'Argent ($189)",
+      "tip": "Tender port—secure early tender ticket"
+    },
+    {
+      "port": "Port Louis, Mauritius",
+      "time_in_port": "8am-7pm",
+      "top_activity": "Chamarel Seven Coloured Earth & rum distillery ($165)",
+      "tip": "Sunday arrivals may encounter closed shops"
+    },
+    {
+      "port": "Colombo, Sri Lanka",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Sigiriya Rock Fortress UNESCO tour ($299)",
+      "tip": "Full day excursion requires 4am departure—book dinner ashore"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Indian Ocean cruise cost?",
+      "answer": "Cunard Indian Ocean cruises typically range from €1,899 to €7,499 per person. Interior cabins start around €1,899 in shoulder season (November, March), rising to €2,499 during peak winter months. Balcony cabins command €2,899-€3,899, while Princess Grill and Queens Grill suites span €5,499-€7,499 with butler service and exclusive dining. Flights to Dubai or Singapore departure ports add €600-€1,200. Cunard frequently offers early booking discounts of up to 25% and onboard credit promotions worth €200-€500."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Indian Ocean?",
+      "answer": "Queen Victoria and Queen Elizabeth operate Cunard's Indian Ocean itineraries. Queen Victoria, launched 2007 and refurbished 2017, carries 2,061 passengers with emphasis on traditional ocean travel. Queen Elizabeth, 2010-built and 2019-refurbished, accommodates 2,068 guests with art deco interiors inspired by 1930s liners. Both vessels feature Royal Court Theatre, Queens Room ballroom for dancing, and libraries with 6,000+ volumes. Neither offers rock-climbing walls or water slides—instead prioritising refined entertainment, white-glove service, and enrichment programs suited to longer voyages."
+    },
+    {
+      "question": "When is best time to cruise Indian Ocean?",
+      "answer": "November through March delivers optimal conditions, with temperatures of 26-32°C and minimal rainfall. December to February represents peak season with calmest seas and lowest humidity, ideal for Maldives and Seychelles beach extensions. November and March offer 15-20% lower fares with occasional afternoon showers. April brings rising humidity and pre-monsoon unsettled weather; May-October sees heavy rains, rough seas, and limited Cunard sailings. Christmas and New Year departures command premium pricing but feature special gala celebrations. For diving enthusiasts, December-March offers 30-metre visibility at coral sites."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's Indian Ocean fares include accommodation, all meals in Britannia Restaurant or Lido buffet, afternoon tea with white-gloved service, evening entertainment from live orchestras to production shows, daily enrichment lectures, fitness facilities, swimming pools, and gratuities for restaurant and housekeeping staff. Shuttle buses to city centres are provided in most ports. Not included are beverages, specialty dining, shore excursions, spa services, Wi-Fi, and laundry. Britannia Club, Princess Grill, and Queens Grill fares add priority embarkation, dedicated restaurants, and enhanced cabin amenities including butler service at suite level."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Indian Ocean itineraries feature Dubai and Singapore as primary embarkation points, with calls at Mumbai, Goa, Mangalore, and Colombo on western routes; and Phuket, Malé, Seychelles, Mauritius, and Réunion on eastern circuits. Key destinations include overnight stays in Mumbai enabling Taj Mahal excursions, tender ports at Malé and Seychelles requiring advance planning, and extended evenings in Port Louis for local dining. Some 21-night voyages continue to Durban or Cape Town. Cunard occasionally includes lesser-visited ports like Kochi, the Maldives' outer atolls, or Madagascar on repositioning sailings between world cruise segments."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Reserve 9-12 months ahead for optimal cabin selection, particularly for Queens Grill suites and sheltered balcony categories popular in tropical climates. Cunard releases Indian Ocean itineraries approximately 18 months in advance; early booking typically secures fares 20-25% below final pricing. World Club members gain priority access to new sailings. For peak December-February departures, book by June to avoid sellouts. Last-minute deals occasionally appear 60-90 days prior, limited to interior and obstructed-view cabins. Consider Cunard's 'Flexible Fares' for deposit protection or 'Sailaway Fares' for maximum savings with assigned cabin at boarding."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard's Indian Ocean cruises suit families with children 8+ seeking educational, destination-focused travel rather than high-energy activities. The Zone and Play Zone provide supervised programs for ages 2-17 during sea days, though facilities are modest compared to mega-ships. Evening entertainment runs late; children are welcome at early dinner seatings. Family-friendly shore excursions include wildlife encounters in Mauritius, glass-bottom boat trips in Seychelles, and cultural tours with moderate walking. Connecting cabins and third-berth rooms are limited—book early. Infants must be six months old; no dedicated baby care. Formal nights require appropriate attire, which families should prepare for."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation policy charges deposits of 20% for voyages over 28 nights, 25% for 5-27 nights, forfeited if cancelled 90+ days prior. Cancellations 89-60 days before sailing lose 50% of fare; 59-30 days forfeit 75%; 29 days or less lose 100%. 'Cruise Care' travel protection, available at 8% of fare, permits cancellation for any reason with future cruise credit minus administrative fee. COVID-19 protocols remain flexible with full refunds for cruise line cancellations. Name changes incur €50-€150 fees. Consider booking with Cunard's 'Flexible Fares' for reduced penalties, particularly valuable for Indian Ocean itineraries with complex pre-cruise arrangements."
+    }
+  ]
+}

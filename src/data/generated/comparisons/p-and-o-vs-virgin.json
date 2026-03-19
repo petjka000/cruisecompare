@@ -1,0 +1,136 @@
+{
+  "title": "P&O Cruises vs Virgin Voyages 2026",
+  "intro": "P&O Cruises, Britain's best-loved cruise line since 1837, offers traditional maritime heritage with family-friendly facilities across its fleet including Britannia and Iona. Virgin Voyages, Richard Branson's 2021 entrant, revolutionises cruising with adults-only voyages, innovative design, and inclusive pricing. Both operate mid-market positioning but serve fundamentally different demographics—P&O embraces multi-generational British cruising while Virgin targets experience-seeking millennials and Gen X travellers wanting contemporary luxury without children aboard. Your choice depends entirely on whether you prioritise familiar cruising conventions or radical reinvention of the seafaring experience.",
+  "at_a_glance": {
+    "p-and-o": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "virgin": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 699
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "p-and-o": "€799",
+      "virgin": "€699"
+    },
+    {
+      "category": "Target Audience",
+      "p-and-o": "Families, couples, British traditionalists",
+      "virgin": "Adults 18+, millennials, LGBTQ+ friendly"
+    },
+    {
+      "category": "Onboard Atmosphere",
+      "p-and-o": "Formal nights, deck quoits, afternoon tea",
+      "virgin": "No formal nights, tattoo parlour, drag brunches"
+    },
+    {
+      "category": "Dining",
+      "p-and-o": "Main dining rooms, buffet, speciality surcharges",
+      "virgin": "20+ included restaurants, no buffets, no main dining room"
+    },
+    {
+      "category": "Entertainment",
+      "p-and-o": "West End-style theatre, live bands, cinema",
+      "virgin": "Immersive theatre, DJ sets, late-night parties"
+    },
+    {
+      "category": "Gratuities",
+      "p-and-o": "€8-12/day automatic",
+      "virgin": "Included in fare"
+    },
+    {
+      "category": "WiFi",
+      "p-and-o": "Pay-per-package from €15/day",
+      "virgin": "Basic included, premium upgrade available"
+    },
+    {
+      "category": "Fitness",
+      "p-and-o": "Gym, spa, some classes free",
+      "virgin": "Extensive classes included, outdoor boxing ring, running track"
+    },
+    {
+      "category": "Cabins",
+      "p-and-o": "Traditional categories, some single cabins",
+      "virgin": "No balconies—'Sea Terraces', 93% ocean view, RockStar suites"
+    },
+    {
+      "category": "Dress Code",
+      "p-and-o": "Formal, semi-formal, casual nights",
+      "virgin": "No dress code, 'come as you are'"
+    }
+  ],
+  "choose_a_if": [
+    "You want multi-generational family holidays with dedicated kids' clubs and teen spaces",
+    "You appreciate traditional British cruising: formal nights, afternoon tea, deck games, and maritime heritage",
+    "You prefer predictable cruise structures with main dining rooms, set seating times, and Broadway-style shows",
+    "You're sailing with children under 18 or want intergenerational group travel"
+  ],
+  "choose_b_if": [
+    "You're seeking an adults-only escape without children anywhere on board",
+    "You value inclusive pricing covering gratuities, WiFi, dining, and fitness classes",
+    "You want contemporary, design-forward ships with innovative entertainment and late-night culture",
+    "You reject traditional cruise conventions and prefer flexible, unstructured dining and entertainment"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "P&O Cruises",
+      "reason": "Virgin Voyages prohibits under-18s entirely. P&O offers The Reef kids' clubs (2-17), family cabins, and child-friendly dining across all ships."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Virgin Voyages",
+      "reason": "Adults-only policy ensures uninterrupted intimacy. Suite cabins include exclusive access to Richard's Rooftop, and dining venues suit date nights."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "P&O Cruises",
+      "reason": "Dedicated single cabins without supplements, singles meet-ups, and traditional social structures make solo cruising more accessible and affordable."
+    },
+    {
+      "type": "LGBTQ+ travellers",
+      "winner": "Virgin Voyages",
+      "reason": "Explicitly inclusive branding, diverse crew, Pride celebrations, and a welcoming contemporary culture prioritise queer travellers' comfort."
+    },
+    {
+      "type": "Food enthusiasts",
+      "winner": "Virgin Voyages",
+      "reason": "Test Kitchen's experimental tasting menus, Korean BBQ, and 20+ included venues outperform P&O's more conventional dining programme."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Virgin Voyages",
+      "reason": "Simplified, all-inclusive pricing removes complexity. No formal nights or tipping confusion reduces anxiety for cruise novices."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Virgin Voyages typically offers superior value when comparing like-for-like inclusions. At €699 versus P&O's €799 base fare, Virgin includes gratuities (€84-126 value), basic WiFi (€105), and all dining including speciality restaurants. P&O's lower headline price accumulates surcharges: automatic gratuities, paid WiFi packages, and speciality dining averaging €25-40 per person. However, P&O's family offerings—kids' clubs, children's fares, and intergenerational activities—deliver value for multi-generational groups that Virgin cannot match due to its adults-only policy. Solo travellers may find P&O's single cabins more economical than Virgin's single supplements."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "P&O Cruises exclusively. Virgin Voyages prohibits all guests under 18, making it unsuitable for families entirely. P&O's The Reef programme spans ages 2-17 with age-appropriate clubs: Splashers (2-4), Surfers (5-8), Scubas (9-12), and H2O (13-17). Family cabins accommodate up to five passengers. Shore excursions cater to children, and dining includes early children's meals and flexible family seating. Britannia and Iona feature dedicated family pools and cinemas. Virgin's adults-only policy extends to all spaces—no exceptions for infants or teenagers—making P&O the only viable option for family cruising between these lines."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Virgin Voyages' 2026 base fares average €699 for seven-night inside cabins versus P&O's €799, though both fluctuate by itinerary and season. Virgin's pricing includes more: gratuities, WiFi, all dining, and fitness classes. P&O's comparable 'all-inclusive' fare with drinks package, WiFi, and gratuities typically reaches €1,100-1,300. Virgin's premium cabins (RockStar Suites) command higher prices than P&O's suites but include exclusive perks. P&O offers more promotional discounts and loyalty benefits for repeat guests. Last-minute Virgin fares occasionally drop below €500, while P&O maintains steadier pricing. Always compare total voyage cost including desired add-ons rather than base fares alone."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Virgin Voyages dominates culinary innovation. Its 20+ restaurants—all included—feature Michelin-guided chef collaborations: The Test Kitchen's molecular gastronomy, Pink Agave's elevated Mexican, and Korean BBQ with personal grills. No buffets or main dining rooms eliminate cruise food clichés. P&O offers solid British and international cuisine across main dining rooms, buffet, and paid speciality venues (The Epicurean, Sindhu), but lacks Virgin's creativity and variety. Virgin's 24-hour diner and drag brunch experiences have no P&O equivalent. However, P&O's afternoon tea and traditional roasts satisfy British comfort food preferences. Virgin's food quality and inclusivity justify premium positioning for culinary-focused travellers."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Virgin Voyages reduces cruise complexity for novices. Inclusive pricing eliminates tipping calculations, WiFi package decisions, and speciality dining reservations anxiety. No formal nights remove packing pressure and dress code uncertainty. The contemporary, hotel-like environment feels familiar to land-based holidaymakers. P&O's traditional structure—set dining times, formal nights, and cruise-specific customs—requires more research and adaptation. However, P&O's British orientation and familiar conventions comfort travellers preferring predictable experiences. Virgin's party atmosphere and late-night programming may overwhelm conservative first-timers. Choose Virgin for simplicity and modernity; P&O for gentle introduction to classic cruising traditions."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental divergence is demographics: P&O welcomes all ages; Virgin prohibits under-18s entirely. P&O preserves cruise traditions—formal nights, set dining, deck games, maritime heritage—while Virgin reinvents every convention: no buffets, no main dining room, no dress codes, no gratuity tipping. P&O's British identity permeates currency, entertainment, and staffing; Virgin's international, American-influenced culture targets global millennials. Pricing structures differ: P&O à la carte with surcharges; Virgin inclusive with few extras. Ship design contrasts P&O's elegant conservatism against Virgin's bold, Instagram-optimised spaces. Entertainment diverges between P&O's West End theatre and Virgin's immersive, participatory experiences. These aren't variations but entirely different holiday categories."
+    }
+  ]
+}

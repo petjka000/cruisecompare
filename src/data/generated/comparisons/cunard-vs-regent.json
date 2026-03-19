@@ -1,0 +1,146 @@
+{
+  "title": "Cunard Line vs Regent Seven Seas 2026",
+  "intro": "Cunard Line and Regent Seven Seas represent two distinct luxury approaches to ocean cruising. Cunard, with 184 years of British maritime heritage, operates iconic ocean liners like Queen Mary 2 on transatlantic crossings and world voyages, emphasizing timeless elegance, formal nights, and ballroom dancing. Regent Seven Seas, an ultra-luxury all-inclusive brand, offers spacious suites, unlimited shore excursions, and premium beverages fleetwide. While both command premium positioning, their value propositions differ significantly: Cunard sells cruise experiences with optional add-ons, whereas Regent bundles virtually everything into the fare. Your choice depends on whether you prefer structured tradition or unstructured, inclusive indulgence.",
+  "at_a_glance": {
+    "cunard": {
+      "price_tier": "premium",
+      "avg_7night_inside_eur": 1299
+    },
+    "regent": {
+      "price_tier": "ultra-luxury",
+      "avg_7night_inside_eur": 5499
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "7-Night Inside Cabin (avg)",
+      "cunard": "€1,299",
+      "regent": "€5,499"
+    },
+    {
+      "category": "Veranda Suite (avg)",
+      "cunard": "€2,199",
+      "regent": "€5,499"
+    },
+    {
+      "category": "Drinks Included",
+      "cunard": "No (packages extra)",
+      "regent": "Yes (premium spirits)"
+    },
+    {
+      "category": "Gratuities",
+      "cunard": "€14/day charged",
+      "regent": "Included"
+    },
+    {
+      "category": "Shore Excursions",
+      "cunard": "€89-€299 each",
+      "regent": "Unlimited included"
+    },
+    {
+      "category": "Wi-Fi",
+      "cunard": "€24/day packages",
+      "regent": "Unlimited included"
+    },
+    {
+      "category": "Specialty Dining",
+      "cunard": "€35-€55 cover",
+      "regent": "All included"
+    },
+    {
+      "category": "Airfare",
+      "cunard": "Separate",
+      "regent": "Included (business class intercontinental)"
+    },
+    {
+      "category": "Ship Size",
+      "cunard": "2,691-3,056 guests",
+      "regent": "490-750 guests"
+    },
+    {
+      "category": "Dress Code",
+      "cunard": "Formal nights required",
+      "regent": "Elegant casual"
+    },
+    {
+      "category": "Itinerary Focus",
+      "cunard": "Transatlantic, World Cruises",
+      "regent": "Exotic, immersive destinations"
+    },
+    {
+      "category": "Loyalty Program",
+      "cunard": "World Club (points-based)",
+      "regent": "Seven Seas Society (tier benefits)"
+    }
+  ],
+  "choose_a_if": [
+    "You appreciate maritime tradition, formal evenings, and ballroom dancing",
+    "Transatlantic crossings on an ocean liner appeal to you",
+    "You prefer larger ships with multiple entertainment venues and distinct social spaces",
+    "You want flexibility to control spending on drinks, excursions, and extras",
+    "British-style service, afternoon tea, and enrichment lectures matter",
+    "You cruise frequently and want lower entry fares with optional upgrades"
+  ],
+  "choose_b_if": [
+    "You want genuinely all-inclusive pricing with no surprise bills",
+    "You prefer intimate ships with higher staff-to-guest ratios",
+    "Unlimited, high-quality shore excursions are priorities",
+    "You value included business-class airfare on long-haul journeys",
+    "You dislike formal nights and prefer relaxed elegance",
+    "Spacious all-suite accommodations with butler service appeal",
+    "You want premium spirits, wines, and specialty dining without surcharges"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Cunard Line",
+      "reason": "Cunard's larger ships offer dedicated kids' clubs (ages 2-17), family pools, and more flexible cabin configurations at lower base fares. Regent's adult-oriented, small-ship atmosphere and high price point make it less suitable for children."
+    },
+    {
+      "type": "Luxury Seekers",
+      "winner": "Regent Seven Seas",
+      "reason": "Regent delivers true all-inclusive ultra-luxury: all-suite ships, butler service, unlimited excursions, and premium everything. No nickel-and-diming, superior space ratios, and intimate service eclipse Cunard's premium-but-a-la-carte model."
+    },
+    {
+      "type": "Transatlantic Purists",
+      "winner": "Cunard Line",
+      "reason": "Only Cunard operates scheduled transatlantic liner service on Queen Mary 2, purpose-built for open-ocean crossings with kennels, planetarium, and maritime heritage. Regent offers no equivalent scheduled ocean liner experience."
+    },
+    {
+      "type": "Active Explorers",
+      "winner": "Regent Seven Seas",
+      "reason": "Regent's included, unlimited shore excursions—often small-group and immersive—plus overnight port stays maximize destination engagement. Cunard charges per excursion, limiting spontaneous exploration for budget-conscious travellers."
+    },
+    {
+      "type": "Solo Travellers",
+      "winner": "Cunard Line",
+      "reason": "Cunard offers more single cabins at lower supplements (starting 75% supplement) and robust solo traveller social programming. Regent's all-suite configuration and pricing structure heavily penalise solo occupancy."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends entirely on your spending habits. Cunard's lower entry fares (€1,299 vs €5,499 for 7 nights) suit travellers who skip extras, but realistic total costs often converge. A Cunard passenger buying drinks packages (€350), gratuities (€100), Wi-Fi (€170), two specialty dinners (€90), and four excursions (€600) spends €2,609—still €2,890 below Regent's fare, but with inferior accommodations and service. Regent's value proposition strengthens on longer, exotic itineraries where included airfare, excursions, and premium drinks would cost thousands separately. For 14+ night voyages with multiple ports, Regent typically delivers superior net value despite higher sticker prices."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Cunard decisively wins for families. Queen Mary 2, Queen Victoria, and Queen Elizabeth feature The Zone (ages 2-7), The Zone (8-12), and Teen Zone (13-17) with supervised activities, family pools, and connecting cabins. Children's fares start at 50% off, and formal nights create memorable dress-up occasions. Regent Seven Seas actively discourages families: no dedicated kids' facilities, minimum age recommendations of 12+ years, adult-oriented entertainment, and pricing that multiplies painfully for multiple occupants. Regent's small ships lack space for children's programming, and the sophisticated, quiet atmosphere suits couples rather than families. Choose Cunard for multi-generational voyages; Regent for adult-only celebrations."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Cunard and Regent occupy different pricing tiers entirely. Cunard's 2026 Mediterranean 7-night inside cabins start at €1,299, verandas at €2,199, and Queens Grill suites at €4,500—premium but accessible. Regent's entry-level 7-night fares begin at €5,499 for the smallest suite, with Master Suites reaching €25,000+. However, direct comparison misleads: Regent includes business-class intercontinental airfare (€2,000+ value), unlimited shore excursions (€800-€1,500 value), all drinks including premium spirits (€400+ value), gratuities (€150 value), and Wi-Fi (€170 value). A Cunard cruise with comparable inclusions often approaches €4,500-€5,500. For 14+ night voyages, Regent's inclusions frequently undercut Cunard's total cost while delivering superior hardware and service."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Both excel but serve different philosophies. Cunard offers traditional British and continental cuisine across main dining rooms, with specialty venues like The Verandah (French, €55 cover) and Steakhouse at The Verandah. Afternoon tea remains legendary. However, Cunard's included dining, while solid, cannot match Regent's all-inclusive excellence. Regent's Compass Rose serves customised dishes cooked to order; Sette Mari offers Italian; Prime 7 rivals land-based steakhouses; Chartreuse delivers modern French; and Pacific Rim provides pan-Asian—all included, all exceptional, with no surcharges. Regent's culinary program, developed under culinary director Jacques Pépin's influence, sources superior ingredients and permits more ambitious execution. For food-focused travellers, Regent's variety, quality, and inclusion prevail."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "First-timers' ideal choice depends on expectations and budget. Cunard suits those wanting classic cruise romance—formal nights, captain's receptions, ballroom dancing, and maritime tradition—at manageable cost. The larger ships feel safer for cruise novices, with abundant public spaces, multiple restaurants, and structured entertainment. However, Cunard's a-la-carte pricing surprises many first-timers; unexpected bills for drinks, Wi-Fi, and excursions generate frustration. Regent eliminates billing anxiety entirely: everything is included, permitting genuine relaxation. The intimate scale (490-750 guests) feels less overwhelming than mega-ships, and included excursions simplify destination exploration. If budget permits, Regent's seamless experience better represents luxury cruising's potential; if testing waters economically, Cunard offers accessible entry with eyes open to extras."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Six fundamental differences separate these brands. First, pricing philosophy: Cunard is premium with options; Regent is ultra-luxury all-inclusive. Second, ship scale: Cunard's 2,691-3,056 guests enable grand entertainment; Regent's 490-750 guests ensure intimacy and service access. Third, accommodations: Cunard offers cabins to suites; Regent is exclusively all-suite with minimum 28m². Fourth, formality: Cunard maintains gala nights with dress codes; Regent is elegantly relaxed. Fifth, destinations: Cunard emphasises iconic routes (transatlantic, world voyages); Regent prioritises immersive, off-the-beaten-path exploration with longer port stays. Sixth, heritage versus innovation: Cunard trades on 184 years of maritime history; Regent represents contemporary ultra-luxury's state-of-the-art. These distinctions rarely overlap—your preferences will clearly favour one."
+    }
+  ]
+}

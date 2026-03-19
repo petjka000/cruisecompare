@@ -1,0 +1,208 @@
+{
+  "title": "Celebrity Cruises Canary Islands Cruises 2026",
+  "intro": "Celebrity Cruises elevates Canary Islands exploration through its refined, premium approach that perfectly complements this Atlantic archipelago's dramatic volcanic landscapes and subtropical climate. The line's modern luxury ethos transforms the journey between Tenerife, Gran Canaria, Lanzarote and La Palma into an immersive cultural experience. Celebrity's thoughtfully designed itineraries balance extended port calls with rejuvenating sea days, allowing guests to fully absorb each island's distinct character—from Tenerife's Mount Teide to Lanzarote's otherworldly Timanfaya National Park. The ships' world-class culinary programs, featuring regionally inspired menus, mirror the Canaries' emerging gastronomic scene. With sophisticated enrichment programming covering volcanic geology, indigenous Guanche history, and sustainable wine production, Celebrity attracts discerning travelers seeking substance alongside style. The line's signature Canyon Ranch spa treatments prove especially appealing after active shore excursions, while the Rooftop Garden and Sunset Bar provide unmatched Atlantic sunset viewing during westbound crossings.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Celebrity Apex",
+      "Celebrity Beyond",
+      "Celebrity Silhouette"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Barcelona",
+      "Lisbon"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov-Dec)",
+      "inside_eur": 849,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (Jan-Mar)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2399
+    },
+    {
+      "season": "Holiday (Dec 20-Jan 5)",
+      "inside_eur": 1399,
+      "balcony_eur": 1999,
+      "suite_eur": 3299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Canary Islands & Madeira",
+      "duration_nights": 10,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Southampton"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Perfect introduction with three full sea days"
+    },
+    {
+      "name": "Canary Islands Intensive",
+      "duration_nights": 12,
+      "ports": [
+        "Barcelona",
+        "Malaga",
+        "Arrecife",
+        "Santa Cruz de Tenerife",
+        "San Sebastian de La Gomera",
+        "Las Palmas",
+        "Funchal",
+        "Lisbon"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Includes rare La Gomera call with ancient laurel forests"
+    },
+    {
+      "name": "Atlantic Islands Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de La Palma",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Casablanca",
+        "Seville",
+        "Southampton"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Adds Morocco and Spain for comprehensive Iberian-Atlantic experience"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Apex",
+      "capacity": 2900,
+      "year": 2020,
+      "best_for": "Contemporary luxury seekers",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Celebrity Beyond",
+      "capacity": 3200,
+      "year": 2022,
+      "best_for": "Culinary enthusiasts",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Celebrity Silhouette",
+      "capacity": 2850,
+      "year": 2011,
+      "best_for": "Traditionalists preferring intimate scale",
+      "price_from_eur": 849
+    }
+  ],
+  "whats_included": [
+    "Main dining room meals",
+    "Casual dining venues",
+    "Most non-alcoholic beverages",
+    "Evening entertainment and shows",
+    "Fitness center access",
+    "Pool and hot tub use",
+    "Kids club programming",
+    "Port taxes and fees",
+    "Basic Wi-Fi"
+  ],
+  "whats_extra": [
+    "Specialty dining reservations",
+    "Alcoholic beverages and premium coffees",
+    "Shore excursions and private tours",
+    "Spa treatments and salon services",
+    "Premium Wi-Fi packages",
+    "Laundry and dry cleaning",
+    "Onboard photography",
+    "Casino gaming",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal cabin selection and early booking savings of 10-15%; monitor Celebrity's 'Sail Beyond' promotions for included perks like drinks packages or onboard credit.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Mount Teide cable car and national park tour (€89)",
+      "tip": "Morning departure recommended for clear summit views before clouds form"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Vegueta old town walking tour with Canarian tapas (€65)",
+      "tip": "Walkable from port; independent exploration highly rewarding"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Timanfaya National Park volcanic experience (€79)",
+      "tip": "Short port call—book ship excursion to guarantee return timing"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan wicker sledge ride and botanical gardens (€55)",
+      "tip": "Cable car operates independently; combine with sledge for classic experience"
+    },
+    {
+      "port": "Santa Cruz de La Palma",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Caldera de Taburiente national park hiking (€75)",
+      "tip": "Less visited island—excellent for avoiding crowds and authentic encounters"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Canary Islands cruise cost?",
+      "answer": "Celebrity Cruises Canary Islands voyages typically range from €849 to €3,299 per person based on double occupancy, depending on season, cabin category, and itinerary length. Inside cabins start around €849-€999 for 10-night sailings, while balcony accommodations—highly recommended for Atlantic scenery—run €1,199-€1,999. Suite accommodations including AquaClass and Retreat-level options span €1,899-€3,299. Holiday departures command 30-40% premiums. All fares include meals, entertainment, and port taxes, though beverages, Wi-Fi, and excursions require additional purchase unless promotional packages are secured."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Canary Islands?",
+      "answer": "Celebrity deploys its Edge-class flagship vessels Apex and Beyond for primary Canary Islands service, offering revolutionary Infinite Veranda staterooms and 29 distinct dining venues. The recently revolutionized Celebrity Silhouette provides alternative sailings with more intimate 2,850-passenger capacity and beloved Lawn Club real grass deck. These ships rotate between Southampton, Barcelona, and Lisbon departures throughout the November-March season. Edge-class ships feature the Magic Carpet floating platform and Eden immersive venue, while Silhouette appeals to guests preferring traditional cruise architecture with modern amenities."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "November through March constitutes optimal Canary Islands cruising season, with temperatures hovering 18-24°C and minimal rainfall—ideal for hiking volcanic terrain and coastal exploration. December and January offer festive atmosphere with local celebrations, though holiday weeks carry premium pricing. February and March provide excellent value with pleasant conditions and fewer crowds. The islands' subtropical climate ensures year-round viability, but summer sailings are rare due to Celebrity's Mediterranean and Northern Europe deployment shifts. Sea conditions remain generally calm year-round on Atlantic crossing segments."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's Canary Islands cruises include accommodations, main dining room meals with regionally inspired menus, casual venues like Oceanview Café, most non-alcoholic beverages, comprehensive evening entertainment from production shows to live music, fitness center and group classes, supervised kids programming, and all port taxes. Pool areas, hot tubs, and library access come standard. The line's 'Always Included' promotion—frequently available—adds Classic Beverage Package, basic Wi-Fi, and prepaid gratuities. Specialty dining, alcoholic beverages without packages, shore excursions, spa services, premium internet, and laundry remain additional charges."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Canary Islands itineraries feature Santa Cruz de Tenerife for Mount Teide access, Las Palmas on Gran Canaria for colonial architecture and dunes, and Arrecife on Lanzarote for César Manrique's volcanic artistry. Extended programs include Santa Cruz de La Palma for laurel forest hiking and San Sebastian de La Gomera for whistling language heritage. Most sailings incorporate Funchal, Madeira for botanical gardens and toboggan rides. Western Atlantic routes add Lisbon, Casablanca, or Seville. Southampton, Barcelona, and Lisbon serve as primary embarkation points with convenient flight connections."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Celebrity Canary Islands reservations 9-12 months in advance for optimal cabin selection, particularly for AquaClass spa-access staterooms and Retreat-suite accommodations with exclusive lounge and restaurant privileges. Early booking typically yields 10-15% savings and preferred dining times. Wave season promotions run January-March offering valuable perks like onboard credit, beverage packages, or complimentary excursions. Last-minute deals under 60 days exist but sacrifice cabin location and itinerary choice. Consider refundable deposits for flexibility, as Celebrity's cancellation penalties escalate from deposit loss to 50% of fare at 89-60 days prior to sailing."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity accommodates families well on Canary Islands sailings, though the line primarily targets adult luxury travelers. The Camp at Sea program engages ages 3-12 with STEM activities and regional cultural programming, while XClub serves teens with dedicated spaces and social events. Family-connected staterooms and suite configurations exist, though less numerous than family-focused competitors. The destination itself suits active families with volcano hiking, whale watching, and water sports. Shore excursions specifically designed for multi-generational groups are available. Families should note that children's programming reduces during school-term sailings when fewer minors travel."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity's cancellation policy for Canary Islands cruises imposes penalties escalating by departure proximity: full refund minus deposit for cancellations 90+ days out, deposit forfeiture at 89-75 days, 25% penalty at 74-61 days, 50% at 60-31 days, 75% at 30-15 days, and 100% penalty under 15 days. 'Cruise with Confidence' flexible booking terms occasionally allow future cruise credit transfers. Travel insurance covering cancellation for medical or other covered reasons is strongly recommended given substantial penalties. Cancel for Any Reason policies typically reimburse 75% in cruise credit rather than cash. Special air/sea packages carry additional restrictions."
+    }
+  ]
+}

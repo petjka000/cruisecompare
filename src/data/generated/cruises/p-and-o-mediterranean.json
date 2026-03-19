@@ -1,0 +1,251 @@
+{
+  "title": "P&O Cruises Mediterranean Cruises 2026",
+  "intro": "P&O Cruises brings quintessential British cruising to the sun-drenched Mediterranean, combining relaxed elegance with exceptional value. As Britain's favourite cruise line, P&O offers Mediterranean itineraries that showcase the region's rich tapestry of history, cuisine, and coastal beauty. Sail aboard purpose-built ships featuring familiar comforts from home, including sterling currency, British plug sockets, and menus crafted for UK palates. The Mediterranean collection spans classic Western routes through Spain and France to immersive Eastern voyages exploring Greek islands and Croatian coastlines. With dedicated adult-only ships alongside family-friendly options, P&O caters to diverse travellers seeking authentic cultural encounters. Their Southampton departures eliminate flight hassles, while fly-cruises from Mediterranean ports maximise destination time. Expect thoughtful enrichment programmes, traditional afternoon tea, and entertainment from home favourites, all delivered with the warm, unpretentious service that defines this beloved British institution.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Arvia",
+      "Iona",
+      "Britannia",
+      "Azura",
+      "Ventura"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Barcelona",
+      "Valencia",
+      "Malaga"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct-Nov)",
+      "inside_eur": 849,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Festive (Dec)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Spain, France & Italy",
+      "duration_nights": 7,
+      "ports": [
+        "Southampton",
+        "La Coruna",
+        "Lisbon",
+        "Gibraltar",
+        "Malaga",
+        "Barcelona"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Perfect introduction to Mediterranean cruising with no-fly convenience from Southampton"
+    },
+    {
+      "name": "14-night Mediterranean Collection",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Cadiz",
+        "Barcelona",
+        "Marseille",
+        "Livorno",
+        "Civitavecchia",
+        "Naples",
+        "Valletta",
+        "Malaga"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Comprehensive Western and Central Mediterranean immersion with extended sea days for relaxation"
+    },
+    {
+      "name": "7-night Greek Islands Fly-Cruise",
+      "duration_nights": 7,
+      "ports": [
+        "Malaga",
+        "Valencia",
+        "Barcelona",
+        "Marseille",
+        "Livorno",
+        "Civitavecchia"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Flight-inclusive option maximising time in iconic destinations"
+    },
+    {
+      "name": "12-night Canary Islands & Portugal",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Cadiz"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Winter sun escape combining Atlantic islands with mainland Portugal"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Arvia",
+      "capacity": 5200,
+      "year": 2022,
+      "best_for": "Families & active adults",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Iona",
+      "capacity": 5200,
+      "year": 2021,
+      "best_for": "Families & food enthusiasts",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Britannia",
+      "capacity": 3647,
+      "year": 2015,
+      "best_for": "Traditional British cruisers",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Azura",
+      "capacity": 3100,
+      "year": 2010,
+      "best_for": "Adults seeking relaxed atmosphere",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Ventura",
+      "capacity": 3092,
+      "year": 2008,
+      "best_for": "Families with younger children",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "Full board meals in main restaurants and buffet",
+    "Afternoon tea and late-night snacks",
+    "Entertainment including theatre shows and live music",
+    "Use of pools, gym, and sports facilities",
+    "Children's clubs and family activities",
+    "Port taxes and onboard gratuities",
+    "Sterling currency onboard",
+    "British plug sockets in cabins"
+  ],
+  "whats_extra": [
+    "Speciality dining restaurants",
+    "Alcoholic drinks and premium soft drinks",
+    "Shore excursions and port transfers",
+    "Spa treatments and salon services",
+    "WiFi packages",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Professional photographs"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak summer sailings and school holiday dates; 6-9 months for shoulder season; watch for P&O's 'Summer Sale' in January and 'Wave Season' offers in February-March for free cabin upgrades and onboard credit; Select Fare offers flexibility with deposits from 15% versus Saver Fares with strict terms but lower prices; solo travellers should book early as single cabins sell quickly; late deals occasionally available 8-12 weeks before departure for flexible travellers",
+  "top_ports": [
+    {
+      "port": "Barcelona",
+      "time_in_port": "7am-6pm (typical)",
+      "top_activity": "Sagrada Familia guided tour (€65)",
+      "tip": "Pre-book Gaudi tickets independently to skip queues and save 40%"
+    },
+    {
+      "port": "Civitavecchia (Rome)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Vatican Museums & Sistine Chapel (€95)",
+      "tip": "Allow 90 minutes each way for transfer; P&O's express shuttle often faster than independent options"
+    },
+    {
+      "port": "Livorno (Florence/Pisa)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Florence walking tour with Uffizi (€110)",
+      "tip": "Pisa alone is closer; Florence requires full commitment due to 90-minute drive"
+    },
+    {
+      "port": "Naples",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Pompeii & Mount Vesuvius (€85)",
+      "tip": "Combine both sites in one excursion or explore Naples' historic centre independently via metro"
+    },
+    {
+      "port": "Marseille",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Calanques boat cruise (€55)",
+      "tip": "Old Port is walkable from ship; local ferry to Chateau d'If offers independent alternative"
+    },
+    {
+      "port": "Valletta",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Mdina medieval city tour (€45)",
+      "tip": "Compact city centre easily explored on foot; lift from port to Upper Barrakka Gardens is free"
+    },
+    {
+      "port": "Santorini",
+      "time_in_port": "7am-6pm (tender port)",
+      "top_activity": "Oia sunset village & winery (€75)",
+      "tip": "Cable car queues can exceed 2 hours; book ship's priority tender for earliest access"
+    },
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "7am-4pm",
+      "top_activity": "City walls walk & Game of Thrones tour (€55)",
+      "tip": "Early morning wall walk avoids cruise crowds; port is 10-minute walk to Old Town"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Mediterranean cruise cost?",
+      "answer": "P&O Mediterranean cruises typically range from €849 to €2,499 per person for standard cabins, with inside cabins starting around €849-€1,199, balcony cabins from €1,199-€1,699, and suites from €1,899-€2,499 depending on season. Peak summer departures in July and August command premium pricing, while shoulder months of May and October offer excellent value. No-fly cruises from Southampton often provide better overall value when flight costs are factored in. Solo travellers face supplement charges of 40-100%, though P&O offers dedicated single cabins on most ships at lower supplements. Children aged 2-17 travel at reduced rates when sharing with two adults, typically 50-60% off adult fares. Final costs should include drinks packages (€45-€55 per day), speciality dining (€25-€40 per person), and shore excursions averaging €55-€110 per port."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Mediterranean?",
+      "answer": "P&O deploys its newest and largest ships to Mediterranean routes, led by Arvia (2022) and Iona (2021), both 5,200-passenger Excel-class vessels featuring revolutionary LNG propulsion, extensive outdoor spaces, and diverse dining. Britannia (2015, 3,647 passengers) offers traditional British cruising with elegant interiors and the popular Cookery Club. Adults-only Azura (2010, 3,100 passengers) provides a more intimate, relaxed atmosphere with extensive spa facilities. Ventura (2008, 3,092 passengers) caters strongly to families with comprehensive children's facilities. Arcadia and Aurora occasionally offer longer Mediterranean voyages. Ship deployment varies seasonally, with Iona and Arvia dominating summer 2026 schedules from Southampton, while Azura and Ventura handle more fly-cruise itineraries from Mediterranean ports. Each vessel maintains P&O's signature British style while offering distinct personalities suited to different traveller preferences."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "The optimal Mediterranean cruising window runs from May through October, with specific advantages across this period. May and June deliver pleasant temperatures of 20-26°C, blooming landscapes, fewer crowds at major attractions, and excellent value pricing before peak season surcharges apply. July and August offer guaranteed sunshine and warm seas ideal for beach excursions, though ports become crowded and temperatures can exceed 35°C in Southern Spain and Greece. September maintains warm weather (22-28°C) with calmer seas and thinning crowds, making it particularly popular with experienced cruisers. October provides the best value with temperatures still comfortable for sightseeing (18-24°C), though some beach destinations begin winding down. April and November sailings suit budget-conscious travellers accepting cooler conditions and occasional rain. P&O's winter Mediterranean programme focuses on Canary Islands routes for guaranteed warmth when mainland Europe turns cold."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O Mediterranean cruises include substantial value with full-board dining across main restaurants, casual buffets, and poolside grills, plus the beloved daily afternoon tea service. All entertainment encompasses West End-calibre theatre productions, live music venues, comedy clubs, and cinema screenings. Families benefit from Ofsted-registered children's clubs divided by age groups (2-4, 5-8, 9-12, 13-17), supervised activities, and family-friendly pools with waterslides on newer ships. Fitness facilities including gyms, sports courts, and jogging tracks are complimentary. Accommodation steward service, port taxes, and onboard gratuities are included—a significant saving compared to American lines. British conveniences extend to sterling currency throughout, UK plug sockets, and no automatic service charges. Notable exclusions are drinks beyond basic tea, coffee, and water; speciality restaurants; spa services; WiFi; and shore excursions. P&O's 'Peninsular' restaurant club offers loyalty benefits including priority booking and exclusive events for repeat guests."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O's Mediterranean itineraries encompass an extensive port network spanning Western, Central, and Eastern regions. Western Mediterranean staples include Barcelona's architectural wonders, Marseille's Provençal charm, Livorna's gateway to Tuscany, Civitavecchia for Rome, and Naples with Vesuvius and Pompeii. The French Riviera features Villefranche and Cannes, while Italian highlights extend to Genoa, Venice, and Sicily's Messina and Palermo. Central Mediterranean routes incorporate Malta's historic Valletta, Tunisia's Carthage, and Sardinia's Cagliari. Eastern Mediterranean voyages reach Greek island gems including Santorini, Mykonos, Rhodes, and Corfu, plus Athens' Piraeus port and Croatia's spectacular Dubrovnik. Turkish ports such as Kusadasi for Ephesus feature on select itineraries. No-fly cruises from Southampton add Portuguese stops at Lisbon and Oporto, plus Spanish mainland ports including Cadiz, Malaga, and Valencia. P&O occasionally includes more unusual calls at Monte Carlo, St. Tropez, Kotor, and Split, with overnight stays in Barcelona, Venice, and Istanbul on extended voyages allowing deeper exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Strategic timing significantly impacts P&O Mediterranean bookings and pricing. For peak summer sailings, especially school holiday periods and itineraries featuring popular ports like Santorini or Venice, reserve 9-12 months ahead to secure preferred cabin grades and dining sittings. Families requiring interconnecting cabins or multiple rooms should book at launch, typically 18 months before departure. Shoulder season cruises (May, late September, October) offer more flexibility with 6-9 month booking windows typically sufficient. Solo travellers face particular urgency as single cabins represent under 5% of inventory and sell rapidly. P&O releases cruises in tranches; booking at launch secures 'Select Fare' benefits including cabin choice, priority dining, and flexibility to change dates for a fee. The January 'Summer Sale' and February 'Wave Season' traditionally offer free cabin upgrades and onboard credit worth €150-€300. Last-minute deals emerge 8-12 weeks before departure for flexible travellers accepting limited cabin selection, though Mediterranean routes rarely discount below 30% off launch prices due to consistent demand."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O Mediterranean cruises excel for British families seeking hassle-free holidays with familiar comforts and excellent children's programming. The line's family-friendly ships—Arvia, Iona, Britannia, and Ventura—feature dedicated facilities including splash pools, waterslides, climbing walls, and sports courts. Ofsted-registered kids' clubs operate from 9am to 11pm in age-appropriate groups with qualified British staff, offering activities from treasure hunts to science experiments and evening discos, all complimentary. Teenagers benefit from dedicated hangout spaces, gaming zones, and supervised shore excursions. Family cabins accommodate up to four with configurations including interleading rooms and sofa beds. Dining flexibility allows children to eat early with kids' menus featuring familiar favourites, while parents enjoy later adult dining. Evening entertainment includes family-friendly theatre shows and cinema screenings. Educational shore excursions bring history alive at Pompeii, Rome's Colosseum, and Athens' Acropolis. The no-fly Southampton option eliminates airport stress for young children. Adults-only ships Azura and Arcadia provide peaceful alternatives when parents cruise without children."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O Cruises offers two fare structures with distinct cancellation terms. Select Fare, typically 15-20% more expensive, provides greatest flexibility: cancellations up to 90 days before departure incur only loss of deposit (15% of cruise fare); 89-57 days triggers 50% penalty; 56-29 days 75%; and under 29 days full forfeiture. Select Fare also permits date changes for a €75 administration fee per person. Saver Fare offers lowest prices but with strict non-refundable, non-transferable terms—cancellations at any stage result in complete loss of payment, though name changes are permitted for €75 per person until 14 days before sailing. Both fares include P&O's 'Book with Confidence' protection, allowing one free date change up to 90 days before departure for bookings made during promotional periods. Travel insurance is strongly recommended as standard policies rarely cover 'disinclination to travel.' P&O's own insurance offers cruise-specific coverage including missed port protection and cabin confinement benefits. COVID-19 policies have evolved to standard terms, though testing positive before departure may qualify for future cruise credit at P&O's discretion."
+    }
+  ]
+}

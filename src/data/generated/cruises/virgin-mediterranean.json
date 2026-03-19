@@ -1,0 +1,188 @@
+{
+  "title": "Virgin Voyages Mediterranean Cruises 2026",
+  "intro": "Virgin Voyages brings its rebellious, adults-only luxury concept to the Mediterranean, transforming classic European cruising into something entirely fresh. Say goodbye to buffets and formal nights—hello to 20+ included restaurants, late-night DJ sets, and wellness-forward programming. Their sleek Scarlet Lady and Valiant Lady ships dock in iconic ports from Barcelona to the Amalfi Coast, offering extended stays and overnight calls in cities like Ibiza and Cannes. Virgin's unique approach includes no nickel-and-diming: gratuities, WiFi, basic beverages, and group fitness classes are all built into your fare. The Mediterranean becomes your playground, whether you're hiking Cinque Terre at sunrise, sampling natural wines in Marseille, or dancing until 4am in Mykonos. This is cruising reimagined for travellers who want sophistication without stuffiness, designed exclusively for guests 18 and older.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Scarlet Lady",
+      "Valiant Lady"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Athens",
+      "Rome (Civitavecchia)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1699
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night French Daze & Ibiza Nights",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Cannes",
+        "Palma de Mallorca",
+        "Ibiza (overnight)"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Overnight in Ibiza with exclusive Beach Club access"
+    },
+    {
+      "name": "10-night Mediterranean Antiquities",
+      "duration_nights": 10,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Catania",
+        "Valletta",
+        "Mykonos",
+        "Santorini",
+        "Athens"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Greek island immersion with late stays in Mykonos"
+    },
+    {
+      "name": "12-night Adriatic & Greek Gems",
+      "duration_nights": 12,
+      "ports": [
+        "Athens",
+        "Kotor",
+        "Dubrovnik",
+        "Split",
+        "Venice",
+        "Corfu",
+        "Katakolon"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Adriatic coastline with overnight in Venice"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Scarlet Lady",
+      "capacity": 2770,
+      "year": 2021,
+      "best_for": "Couples & friends seeking nightlife",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Valiant Lady",
+      "capacity": 2770,
+      "year": 2022,
+      "best_for": "Wellness enthusiasts & food lovers",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "All dining at 20+ restaurants",
+    "Gratuities",
+    "Basic WiFi",
+    "Group fitness classes",
+    "Entertainment shows",
+    "Non-alcoholic beverages",
+    "Beach Club at Bimini (Caribbean sailings)"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Premium WiFi upgrades",
+    "Bar tab (pre-purchasable at discount)",
+    "Flights & transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; watch for 'Bar Tab' promotions offering bonus onboard credit. Virgin frequently runs limited-time sales with 30% off and reduced deposits. Consider booking a 'Sea Terrace' balcony as entry-level cabins have no windows. Lock in 2026 sailings before October 2025 for lowest fares.",
+  "top_ports": [
+    {
+      "port": "Barcelona",
+      "time_in_port": "6pm departure or overnight",
+      "top_activity": "Sagrada Família guided tour (€65)",
+      "tip": "Arrive early to explore Gothic Quarter before boarding"
+    },
+    {
+      "port": "Ibiza",
+      "time_in_port": "Overnight (2 days)",
+      "top_activity": "Sunset at Café del Mar (free) or beach club day pass (€89)",
+      "tip": "Virgin's Beach Club in Bimini mirrors Ibiza vibe—pace yourself"
+    },
+    {
+      "port": "Marseille",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Calanques national park boat tour (€75)",
+      "tip": "Take ship's shuttle to Vieux Port; local transport is unreliable"
+    },
+    {
+      "port": "Santorini",
+      "time_in_port": "2pm-10pm",
+      "top_activity": "Wine tasting at Venetsanos Winery (€55)",
+      "tip": "Late departure means sunset dinner in Oia without crowds"
+    },
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Game of Thrones walking tour with city walls (€45)",
+      "tip": "Book first tender—cable car to Mount Srđ opens 9am"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages Mediterranean cruise cost?",
+      "answer": "Virgin Voyages Mediterranean cruises start from €699 per person for a 7-night shoulder-season sailing in an interior cabin, with balcony cabins from €999. Peak summer voyages (July-August) typically range €899-€1,299 for balconies, while suites including the Massive Suite run €1,699-€2,799. Bar tabs, excursions, and flights are additional. Virgin's transparent pricing includes gratuities and WiFi, making true costs easier to predict than traditional cruise lines."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to Mediterranean?",
+      "answer": "Virgin Voyages deploys two identical sister ships in the Mediterranean: Scarlet Lady (2021) and Valiant Lady (2022). Both carry 2,770 passengers in 1,408 cabins, featuring the distinctive red hull and mermaid logo. Scarlet Lady typically handles western Mediterranean routes from Barcelona, while Valiant Lady covers eastern Mediterranean and Adriatic itineraries from Athens and Rome. Both offer the same restaurant lineup, entertainment venues, and wellness programming—choose based on itinerary and dates rather than ship differences."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "The optimal window for Virgin Voyages Mediterranean cruises is May-June and September-October, offering warm temperatures (22-28°C), fewer crowds, and lower fares than peak summer. July and August bring intense heat (30-35°C) and premium pricing, though Virgin's late-night port stays help avoid midday sun. April sailings can be unpredictable weather-wise, while October offers excellent wine harvest experiences in France and Italy. Virgin's adults-only policy means no school holiday constraints—shoulder season provides superior value."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages includes more than traditional premium lines: all dining at 20+ restaurants (no main dining room or buffet), gratuities, basic WiFi, group fitness classes including yoga and cycling, all entertainment from drag brunches to immersive theatre, and non-alcoholic beverages. Your fare covers access to the thermal suite and gym. Notably absent: alcoholic drinks (purchase Bar Tab pre-cruise for bonus credit), shore excursions, spa treatments, and premium WiFi upgrades. This inclusive model eliminates surprise charges while allowing customisation of your spending."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Virgin Voyages Mediterranean itineraries feature 20+ ports across three main regions. Western Mediterranean: Barcelona, Marseille, Cannes, Palma de Mallorca, Ibiza (overnight), Rome, Naples, Livorno. Eastern Mediterranean: Athens, Mykonos (late stay), Santorini (late stay), Katakolon, Corfu. Adriatic: Venice (overnight), Dubrovnik, Split, Kotor. Virgin prioritises late departures and overnights in party ports like Ibiza and Mykonos, recognising their adult guests' preferences. Most itineraries are 7-12 nights, with some repositioning voyages reaching 14 nights."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Virgin Voyages Mediterranean cruises 9-12 months in advance for optimal cabin selection, particularly for Sea Terrace balconies and RockStar Quarters suites which sell first. Virgin releases itineraries approximately 18 months ahead. Booking early locks in 'Bar Tab' promotions offering €100-€200 bonus drink credit. Last-minute deals appear 60-90 days before sailing but with limited cabin categories. For 2026 sailings, book before October 2025 to avoid price increases. Virgin's flexible deposit structure (often 20% down) makes early commitment low-risk."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages is explicitly adults-only—minimum age 18, with no exceptions for infants, children, or teenagers. This policy fundamentally shapes the experience: no kids' clubs, family suites, or early dinner seatings. Instead, programming targets couples, friend groups, and solo travellers aged 25-55 with nightlife, wellness, and culinary focus. The Mediterranean routes particularly suit honeymooners, anniversary celebrations, and multi-generational adult groups. Families seeking Mediterranean cruising should consider MSC, Royal Caribbean, or Norwegian Cruise Line instead. Virgin's niche is intentional and strictly enforced."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Virgin Voyages offers a 'Book with Confidence' policy: cancellations made 120+ days before sailing receive full refund; 119-91 days incur 25% penalty; 90-61 days lose 50%; 60-31 days forfeit 75%; 30 days or less results in 100% forfeiture. 'Voyage Protection' insurance (approximately 8% of fare) adds 'Cancel for Any Reason' coverage allowing future cruise credit. During promotional periods, Virgin has offered more flexible terms including full refunds until final payment. Always verify current terms at booking, as policies evolved post-pandemic and may shift for 2026 sailings."
+    }
+  ]
+}

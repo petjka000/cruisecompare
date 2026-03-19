@@ -1,0 +1,226 @@
+{
+  "title": "Norwegian Cruise Line Greek Isles Cruises 2026",
+  "intro": "Norwegian Cruise Line brings its signature Freestyle Cruising concept to the Greek Isles, offering unparalleled flexibility for exploring ancient civilizations and stunning Mediterranean landscapes. Unlike traditional cruise lines with fixed dining times, NCL allows you to savour Greek-inspired cuisine at your leisure across multiple complimentary restaurants. The Greek Isles itinerary showcases NCL's strategic deployment of modern, resort-style ships perfectly sized for both iconic ports like Santorini and Mykonos, and lesser-known gems such as Kefalonia and Volos. Norwegian's exclusive port arrangements often include extended evening stays in hotspots like Corfu and Rhodes, maximising your time for authentic taverna dinners and sunset photography. With open-bar packages and shore excursion credits frequently bundled into Greek sailings, NCL delivers exceptional value for travellers seeking independence without sacrificing premium amenities in this culturally rich destination.",
+  "quick_facts": {
+    "price_from_eur": 749,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Norwegian Jade",
+      "Norwegian Gem",
+      "Norwegian Pearl",
+      "Norwegian Viva"
+    ],
+    "departure_ports": [
+      "Athens",
+      "Rome",
+      "Barcelona",
+      "Venice"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Holiday (Jul-Aug)",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 2999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles from Athens",
+      "duration_nights": 7,
+      "ports": [
+        "Athens",
+        "Mykonos",
+        "Ephesus",
+        "Patmos",
+        "Santorini",
+        "Crete",
+        "Rhodes",
+        "Athens"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Iconic whitewashed villages and ancient ruins with overnight in Rhodes"
+    },
+    {
+      "name": "10-night Greek Isles & Italy",
+      "duration_nights": 10,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Sicily",
+        "Corfu",
+        "Santorini",
+        "Mykonos",
+        "Athens",
+        "Florence",
+        "Rome"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Combines Renaissance treasures with Cycladic island hopping"
+    },
+    {
+      "name": "12-night Adriatic & Greek Isles",
+      "duration_nights": 12,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Santorini",
+        "Mykonos",
+        "Athens",
+        "Katakolon",
+        "Venice"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "UNESCO World Heritage sites from Venice to Athens with extended port times"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Norwegian Jade",
+      "capacity": 2402,
+      "year": 2006,
+      "best_for": "Couples & culture seekers",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Norwegian Gem",
+      "capacity": 2394,
+      "year": 2007,
+      "best_for": "Multi-generational families",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Norwegian Pearl",
+      "capacity": 2394,
+      "year": 2006,
+      "best_for": "Adventure travellers",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Norwegian Viva",
+      "capacity": 3215,
+      "year": 2023,
+      "best_for": "Luxury seekers & foodies",
+      "price_from_eur": 1199
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All meals in complimentary dining venues including main restaurants, buffet and casual eateries",
+    "Entertainment including Broadway-style shows, live music and comedy",
+    "Access to pools, fitness centre and sports facilities",
+    "Kids and teens clubs programming",
+    "Port taxes and fees",
+    "24-hour room service"
+  ],
+  "whats_extra": [
+    "Beverage packages (€59-89 per day)",
+    "Specialty dining reservations (€15-55 per person)",
+    "Shore excursions (€89-289 per person)",
+    "Gratuities (€16 per person per day)",
+    "Spa treatments and salon services",
+    "WiFi packages (€29 per day)",
+    "Laundry and dry cleaning",
+    "Airport transfers and pre/post hotels"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts up to 30%. Norwegian's Free at Sea promotion typically includes beverage packages, specialty dining, shore excursion credits and WiFi—valued at €400+ per person. For Greek Isles, secure balcony cabins on port side for Santorini sail-in views. Wave Season (January-March) offers peak promotional value. Consider repositioning cruises in April or November for 40% savings.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "2pm-10pm",
+      "top_activity": "Caldera sunset catamaran cruise (€189)",
+      "tip": "Pre-book Oia sunset transport as tender operations create bottlenecks"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "8am-8pm",
+      "top_activity": "Delos archaeological tour (€129)",
+      "tip": "Morning Delos visit avoids crowds; beach clubs require reservations by noon"
+    },
+    {
+      "port": "Athens",
+      "time_in_port": "6am-6pm",
+      "top_activity": "Acropolis and Parthenon guided tour (€109)",
+      "tip": "Ship docks Piraeus—allow 45 minutes transit to Athens centre"
+    },
+    {
+      "port": "Corfu",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Paleokastritsa monastery and beach (€89)",
+      "tip": "Explore Corfu Town's Venetian architecture independently via shuttle"
+    },
+    {
+      "port": "Rhodes",
+      "time_in_port": "7am-6pm (often overnight)",
+      "top_activity": "Medieval Old Town and Lindos Acropolis (€139)",
+      "tip": "Overnight calls allow dinner ashore in Rhodes Town—book restaurant in advance"
+    },
+    {
+      "port": "Katakolon",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Ancient Olympia archaeological site (€79)",
+      "tip": "Site is 30km inland—ship excursion recommended for time efficiency"
+    },
+    {
+      "port": "Crete",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Knossos Palace and Heraklion museum (€119)",
+      "tip": "Port of Souda requires shuttle to Chania—factor in transport time"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Norwegian Cruise Line Greek Isles cruise cost?",
+      "answer": "Norwegian Cruise Line Greek Isles cruises start from €749 per person for inside cabins during shoulder seasons (April-May, October), rising to €999-1199 in peak summer months. Balcony cabins range €1099-1799 depending on season and ship age, with the newer Norwegian Viva commanding premiums of 30-40%. Suite accommodations begin at €1799 and exceed €2999 for Haven suites with butler service. The Free at Sea promotion frequently bundles beverage packages, specialty dining, WiFi and excursion credits—potentially saving €400+ per person. Gratuities add €16 per person daily, while flights to Athens, Rome or Venice departure ports require separate budgeting."
+    },
+    {
+      "question": "Which Norwegian Cruise Line ships sail to Greek Isles?",
+      "answer": "Norwegian Cruise Line deploys four primary vessels on Greek Isles routes for 2026. Norwegian Jade and Norwegian Gem, both 2,400-passenger mid-size ships, offer intimate port access and extensive 2026 Greek programming following their 2017-2018 refurbishments. Norwegian Pearl provides similar capacity with enhanced adventure-focused amenities. The flagship Norwegian Viva, launched 2023, represents NCL's Prima-class innovation with 3,215 guests, elevated dining concepts, and expanded suite offerings including the exclusive Haven complex. Norwegian Epic and Norwegian Getaway occasionally operate Greek itineraries during repositioning seasons. Ship selection significantly impacts experience—Jade and Gem suit traditional cruisers, while Viva attracts luxury-seeking food and wellness enthusiasts."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "The optimal Norwegian Cruise Line Greek Isles cruising window spans May through June and September, balancing ideal weather with manageable crowds and pricing. May offers wildflower-covered hillsides, comfortable 24°C temperatures, and shoulder-season rates from €749. June delivers perfect beach weather before peak summer intensity. September provides warm seas for swimming, reduced cruise ship congestion, and harvest-season culinary experiences. July and August, while offering guaranteed sunshine, bring extreme heat exceeding 35°C, packed archaeological sites, and premium pricing 40-60% higher. October sailings present bargain opportunities but risk occasional rainfall and reduced excursion availability. Norwegian extends Greek Isles seasons into November with repositioning cruises offering exceptional value for climate-tolerant travellers."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Norwegian Cruise Line Greek Isles cruises include accommodation, all meals across complimentary venues including main dining rooms, Garden Café buffet, and casual options like O'Sheehan's Neighborhood Bar & Grill. Entertainment encompasses Broadway-calibre productions, comedy shows, live music, and deck parties. Fitness centres, pools, waterslides, and kids/teens clubs operate without surcharge. Port taxes and fees are included in quoted fares. What distinguishes NCL is the Freestyle Cruising flexibility—no fixed dining times or formal nights. However, beverages beyond basic coffee, tea and juice incur charges; alcoholic drinks, specialty coffees, and bottled water require packages or à la carte payment. Room service is complimentary though gratuity applies. Spa, casino, photographs, and laundry remain extra."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Norwegian Cruise Line Greek Isles itineraries feature an exceptional range of ports balancing iconic destinations with authentic experiences. Santorini and Mykonos anchor every sailing with extended evening stays capturing legendary sunsets. Athens (Piraeus) serves as primary embarkation or key port for Acropolis access. Rhodes offers medieval UNESCO heritage and frequent overnight calls. Katakolon provides gateway to Ancient Olympia, while Crete calls typically access Chania or Heraklion for Knossos. Corfu delivers Venetian architecture and emerald waters. Lesser-visited gems include Volos (Meteora monasteries access), Patmos (St. John's monastery), and Kefalonia. Eastern Mediterranean extensions incorporate Ephesus (Turkey) and Dubrovnik. Norwegian's strategic port timing maximises exploration—Santorini arrivals align with afternoon light, while Mykonos departures permit dinner ashore."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Norwegian Cruise Line Greek Isles cruises, optimal booking windows open 12-18 months ahead for peak summer sailings, particularly balcony cabins and Haven suites which comprise limited inventory. Nine to twelve months provides strong early-booking discounts typically 20-30% below later rates, plus best cabin location selection. Wave Season (January-March) annually delivers NCL's most aggressive promotions including Free at Sea enhancements. Last-minute Greek Isles deals emerge 60-90 days pre-departure primarily for inside cabins on older Jade/Gem vessels, though itinerary desirability limits deep discounts. Suite categories and connecting cabins for families require earliest commitment. 2026 bookings should ideally conclude by September 2025 for June-August sailings, with shoulder season offering flexibility through early 2026."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Norwegian Cruise Line excels for Greek Isles family cruising through comprehensive kids programming and flexible dining accommodating varied schedules. Splash Academy entertains ages 3-12 with Greek mythology-themed activities, while Entourage provides teen-exclusive spaces until midnight. Family balcony cabins and connecting stateroom configurations suit multi-generational groups. The casual, resort-style atmosphere eliminates formal night pressures—families dine when hungry across multiple venues including kid-favourite buffets and complimentary Asian options. Pool complexes with waterslides, sports courts, and arcade zones engage sea days. Shore excursions offer family-rated options: beach breaks, easy archaeological walks, and boat tours. Greek port infrastructure generally supports stroller and limited mobility needs better than independent island hopping. Haven suite families receive priority boarding and dedicated concierge services."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Norwegian Cruise Line Greek Isles bookings follow structured cancellation tiers based on departure proximity. Cancellations 120+ days before sailing incur no penalty for most fare types. 119-90 days prior triggers loss of deposit (typically €250 per person). 89-61 days costs 25% of total fare, escalating to 50% at 60-31 days. Final month cancellations forfeit 75%, while 15 days or less results in 100% charge. Cancel For Any Reason protection, available at booking for 10% surcharge, provides future cruise credits rather than cash refunds. Standard travel insurance through NCL's partners covers medical and trip interruption but not discretionary cancellation. 2026 Greek bookings made under promotional rates may carry stricter non-refundable deposit terms—verify specific fare conditions at purchase."
+    }
+  ]
+}

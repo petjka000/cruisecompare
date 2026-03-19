@@ -1,0 +1,209 @@
+{
+  "title": "Royal Caribbean Mediterranean Cruises 2026",
+  "intro": "Royal Caribbean brings its signature blend of innovation and adventure to the Mediterranean, combining ancient wonders with world-class entertainment. Their Oasis-class and Quantum-class ships offer an unmatched resort experience at sea, featuring surf simulators, zip lines, and Broadway-caliber shows between stops at Europe's most storied ports. From Barcelona's architectural masterpieces to the Greek Isles' azure waters, Royal Caribbean crafts itineraries that balance cultural immersion with onboard thrills. The line excels at multi-generational travel, with dedicated kids' programs, teen lounges, and adult-exclusive retreats ensuring every traveler finds their perfect pace. Mediterranean sailings capitalize on extended daylight hours, maximizing time for exploration while returning to ships that never sleep.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Wonder of the Seas",
+      "Oasis of the Seas",
+      "Allure of the Seas",
+      "Symphony of the Seas",
+      "Odyssey of the Seas"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome (Civitavecchia)",
+      "Southampton",
+      "Copenhagen"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Late Season (Sep)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Western Mediterranean",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Palma de Mallorca",
+        "Marseille",
+        "La Spezia",
+        "Civitavecchia",
+        "Naples"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Iconic cities with overnight option in Rome"
+    },
+    {
+      "name": "12-night Greek Isles & Turkey",
+      "duration_nights": 12,
+      "ports": [
+        "Barcelona",
+        "Valencia",
+        "Malta",
+        "Santorini",
+        "Mykonos",
+        "Ephesus (Kusadasi)",
+        "Athens"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive Aegean exploration with UNESCO sites"
+    },
+    {
+      "name": "7-night Italy & Croatia",
+      "duration_nights": 7,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Sicily (Messina)",
+        "Valletta",
+        "Dubrovnik",
+        "Venice"
+      ],
+      "price_from_eur": 799,
+      "highlight": "Adriatic coastline and Game of Thrones filming locations"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Wonder of the Seas",
+      "capacity": 5738,
+      "year": 2022,
+      "best_for": "Families with children",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Oasis of the Seas",
+      "capacity": 5594,
+      "year": 2009,
+      "best_for": "Multi-generational groups",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Symphony of the Seas",
+      "capacity": 5518,
+      "year": 2018,
+      "best_for": "Adventure seekers",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Odyssey of the Seas",
+      "capacity": 4180,
+      "year": 2021,
+      "best_for": "Couples and modern luxury",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and select specialty venues",
+    "Windjammer Marketplace buffet",
+    "Entertainment including Broadway shows and AquaTheater performances",
+    "Access to pools, fitness center, and sports courts",
+    "Kids and teen programming through Adventure Ocean",
+    "Basic WiFi (Surf package)"
+  ],
+  "whats_extra": [
+    "Beverage packages (alcoholic and premium non-alcoholic)",
+    "Specialty dining restaurants ($35-75 per person)",
+    "Shore excursions (€89-289 per port)",
+    "Gratuities (€16 per person daily)",
+    "Spa and salon services",
+    "Casino gaming",
+    "Voom Surf & Stream WiFi upgrade",
+    "Laundry and dry cleaning",
+    "Photography packages"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal cabin selection and early booking discounts up to 30%. Mediterranean itineraries release 18 months in advance. Wave season (January-March) offers the year's best promotions with reduced deposits and onboard credit. Consider repositioning cruises in April and October for 40% savings. Suite guests should book immediately upon release for preferred locations. Last-minute deals under €599 appear 60-90 days out but with limited cabin choices.",
+  "top_ports": [
+    {
+      "port": "Barcelona, Spain",
+      "time_in_port": "5am-6pm (embarkation day)",
+      "top_activity": "Sagrada Familia guided tour (€65)",
+      "tip": "Arrive 2 days early to recover from jet lag"
+    },
+    {
+      "port": "Santorini, Greece",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Caldera sunset catamaran cruise (€189)",
+      "tip": "Book tender tickets immediately upon boarding"
+    },
+    {
+      "port": "Rome (Civitavecchia), Italy",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Vatican Museums & Sistine Chapel skip-line (€149)",
+      "tip": "Train to Rome takes 80 minutes; shore excursion recommended"
+    },
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "City walls walk with Lokrum Island (€89)",
+      "tip": "Early morning avoids cruise crowds on walls"
+    },
+    {
+      "port": "Naples, Italy",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Pompeii & Vesuvius combined tour (€159)",
+      "tip": "Pizza at L'Antica Pizzeria da Michele is essential"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Mediterranean cruise cost?",
+      "answer": "Royal Caribbean Mediterranean cruises typically range from €699 for interior cabins during shoulder season to €2,499 for suites in peak summer. A realistic budget for two travelers sharing a balcony cabin runs €1,800-3,200 including flights, drinks package, and excursions. Inside cabins average €749-1,099, oceanview €849-1,299, balconies €999-1,599, and suites €1,799-2,799 depending on season. Repositioning cruises in April and October offer exceptional value at €599-799. Families should budget €150-200 daily extra for drinks, specialty dining, and activities."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Mediterranean?",
+      "answer": "Royal Caribbean deploys its most innovative ships to the Mediterranean. Wonder of the Seas (2022), the world's largest cruise ship, offers Barcelona and Rome roundtrips with revolutionary neighborhood design. Oasis of the Seas and Symphony of the Seas bring signature seven-zone layouts with Central Park open-air gardens. Odyssey of the Seas, the newest Quantum Ultra-class vessel, sails from Rome and Southampton featuring the North Star observation capsule and robotic bartenders. Allure of the Seas joins the rotation for summer 2026. These ships carry 4,180-5,738 passengers and feature surf simulators, zip lines, and AquaTheater high-diving shows unique to Royal Caribbean."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "The optimal Mediterranean cruise window runs May through early June and September through mid-October. May offers blooming landscapes, comfortable 22-25°C temperatures, and fewer crowds at major sites. September delivers warm seas ideal for swimming, harvest festivals, and reduced family travel. July and August bring reliably sunny weather but intense heat (32-35°C), packed attractions, and premium pricing. October provides excellent value with pleasant 20-24°C conditions though shorter daylight hours. April sailings can encounter unsettled weather and cool evenings. November through March sees limited Royal Caribbean Mediterranean operations with weather-related itinerary changes possible."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean Mediterranean cruises include accommodation, all main dining venue meals, Windjammer buffet, room service (delivery fee applies), Broadway-style entertainment, AquaTheater and ice skating shows, access to pools, fitness centers, and sports courts, Adventure Ocean kids programming for ages 3-17, and basic Surf WiFi. Complimentary dining covers breakfast, lunch, dinner, and late-night snacks. Coffee, tea, water, and select juices are free in dining venues. Not included are alcoholic beverages, specialty restaurants, shore excursions, spa services, casino play, gratuities, premium WiFi, and photographs. The Cruise Planner pre-purchase system offers 30-40% discounts on extras before sailing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean Mediterranean itineraries feature three primary regions. Western Mediterranean cruises from Barcelona or Rome visit Palma de Mallorca, Marseille, French Riviera ports, Florence/Pisa (Livorno), Naples, and Sicily. Eastern Mediterranean and Greek Isles routes include Venice, Dubrovnik, Kotor, Corfu, Santorini, Mykonos, Athens, and Ephesus (Kusadasi). Some 12-14 night grand Mediterranean voyages combine both regions. Holy Land itineraries visit Haifa and Jerusalem seasonally. Adriatic-focused sailings emphasize Croatia, Montenegro, and Slovenia. Each 7-night cruise typically visits 5-6 ports with one or two sea days. Royal Caribbean also offers overnight stays in Barcelona, Rome, and Venice on select itineraries."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Royal Caribbean Mediterranean cruises 9-12 months ahead for optimal results, particularly for summer sailings and preferred cabin categories. Suite accommodations and connecting family rooms require immediate booking when itineraries release 18 months prior. Balcony cabins with specific locations (midship, higher decks) sell quickly. Wave season promotions from January through March offer the year's best values with reduced deposits and onboard credits. Price protection allows rebooking if fares drop before final payment. Last-minute Mediterranean deals under €599 emerge 60-90 days out but sacrifice cabin selection and may require immediate full payment. Groups of 8+ cabins should book 12+ months ahead for group amenities."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean excels at multi-generational Mediterranean cruising with comprehensive programming for all ages. Adventure Ocean divides children into Aquanauts (3-5), Explorers (6-8), Voyagers (9-11), and Teens (12-17) with age-appropriate activities including science experiments, sports tournaments, and themed parties. Late-night party zone allows parents evening ashore. Family-connected staterooms offer adjacent rooms with internal doors. Ships feature dedicated kids' pools with splash zones, rock climbing walls, ice skating rinks, and surf simulators. Shore excursions include family-friendly options like pizza-making in Naples and gladiator school in Rome. Dining accommodates picky eaters with extensive Windjammer options and complimentary kids' menus. Babysitting services available for additional fee."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's Mediterranean cancellation policy operates on a tiered schedule based on sailing length and timing. For standard 7-night cruises, cancellations 90+ days before sailing receive full refund minus deposit. 89-75 days lose deposit amount. 74-61 days forfeit 25% of total fare. 60-31 days lose 50%. 30 days or less surrender 100% with no refund. Cancel For Any Reason protection, available at booking for 10% of cruise fare, provides future cruise credit minus cancellation fees. COVID-19 related cancellations may receive enhanced flexibility. Travel insurance strongly recommended given Mediterranean flight costs and pre-cruise hotel commitments. Rebooking to alternative dates typically incurs $100 per person change fee plus fare differences."
+    }
+  ]
+}

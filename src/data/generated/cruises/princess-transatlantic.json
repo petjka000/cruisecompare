@@ -1,0 +1,202 @@
+{
+  "title": "Princess Cruises Transatlantic Cruises 2026",
+  "intro": "Princess Cruises offers an elegant repositioning experience across the Atlantic, combining classic ocean voyaging with modern luxury. These seasonal crossings connect North America and Europe aboard refined mid-size and large vessels, featuring sea days filled with enrichment programs, spa treatments, and fine dining. Transatlantic sailings appeal to experienced travelers seeking unhurried journeys with no jet lag, allowing gradual timezone adjustment. Princess distinguishes itself through destination-focused programming, with guest lecturers, regional cuisine previews, and cultural workshops preparing passengers for European or Caribbean arrivals. The line's MedallionClass technology enhances the experience with personalized service and seamless navigation. Whether eastbound in spring or westbound in autumn, these voyages offer exceptional value with numerous sea days maximizing onboard amenities utilization.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "14-18 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Sky Princess",
+      "Enchanted Princess",
+      "Discovery Princess",
+      "Regal Princess"
+    ],
+    "departure_ports": [
+      "Fort Lauderdale",
+      "Southampton",
+      "Barcelona",
+      "Civitavecchia"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring Eastbound",
+      "inside_eur": 849,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Autumn Westbound",
+      "inside_eur": 799,
+      "balcony_eur": 1299,
+      "suite_eur": 2299
+    },
+    {
+      "season": "Holiday Crossing",
+      "inside_eur": 1099,
+      "balcony_eur": 1799,
+      "suite_eur": 3299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Westbound Transatlantic",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Ponta Delgada",
+        "New York"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Iconic ocean crossing with Azores stopover"
+    },
+    {
+      "name": "16-night Eastbound Transatlantic",
+      "duration_nights": 16,
+      "ports": [
+        "Fort Lauderdale",
+        "Bermuda",
+        "Ponta Delgada",
+        "Lisbon",
+        "Southampton"
+      ],
+      "price_from_eur": 1049,
+      "highlight": "Extended journey with Bermuda exploration"
+    },
+    {
+      "name": "18-night Barcelona to Fort Lauderdale",
+      "duration_nights": 18,
+      "ports": [
+        "Barcelona",
+        "Malaga",
+        "Lisbon",
+        "Ponta Delgada",
+        "Bermuda",
+        "Fort Lauderdale"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive Iberian and Atlantic experience"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Sky Princess",
+      "capacity": 3660,
+      "year": 2019,
+      "best_for": "Couples and enrichment seekers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Enchanted Princess",
+      "capacity": 3660,
+      "year": 2020,
+      "best_for": "Food and wine enthusiasts",
+      "price_from_eur": 949
+    },
+    {
+      "name": "Discovery Princess",
+      "capacity": 3660,
+      "year": 2022,
+      "best_for": "Modern luxury preferences",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Regal Princess",
+      "capacity": 3560,
+      "year": 2014,
+      "best_for": "Value-conscious travelers",
+      "price_from_eur": 849
+    }
+  ],
+  "whats_included": [
+    "All main dining and buffets",
+    "Broadway-style production shows",
+    "Movies Under the Stars",
+    "Fitness center and basketball court",
+    "Pool and hot tub access",
+    "MedallionClass wearable technology",
+    "Port lectures and destination seminars",
+    "Kids and teen programs",
+    "Daily activities and game shows",
+    "Room service (delivery fee applies)"
+  ],
+  "whats_extra": [
+    "Beverage packages (EUR 65-75/day)",
+    "Specialty dining (EUR 25-45/person)",
+    "Shore excursions (EUR 45-189/port)",
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "WiFi packages (EUR 15-25/day)",
+    "Laundry and dry cleaning",
+    "Photos and artwork",
+    "Airport transfers",
+    "Gratuities (EUR 16-18/person/day)"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for best cabin selection and early booking discounts up to 35%. Repositioning cruises release itineraries 18 months prior. Balcony cabins command premium but offer essential outdoor space during sea days. Consider Princess Plus or Premier packages for bundled value. Last-minute deals emerge 60-90 days before sailing for flexible travelers.",
+  "top_ports": [
+    {
+      "port": "Ponta Delgada, Azores",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sete Cidades crater lakes tour (EUR 89)",
+      "tip": "Book independent taxi for flexible photography stops"
+    },
+    {
+      "port": "Lisbon, Portugal",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Sintra palace excursion (EUR 129)",
+      "tip": "Early disembarkation essential for full day"
+    },
+    {
+      "port": "Bermuda",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Crystal caves and beach combo (EUR 109)",
+      "tip": "Ferry to Hamilton offers independent exploration"
+    },
+    {
+      "port": "New York",
+      "time_in_port": "Arrival 6am",
+      "top_activity": "Post-cruise Manhattan stay",
+      "tip": "Extend hotel booking for full day sightseeing"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Transatlantic cruise cost?",
+      "answer": "Princess Transatlantic cruises typically range from EUR 849 for interior cabins on autumn westbound crossings to EUR 3,299 for suites during holiday periods. Balcony cabins, highly recommended for sea day enjoyment, average EUR 1,299-1,799. Spring eastbound crossings command slightly higher prices. The 14-18 night duration delivers exceptional per-night value compared to standard Caribbean or Mediterranean cruises. Princess Plus and Premier packages add EUR 50-75 daily but include beverages, WiFi, and gratuities, often proving cost-effective. Solo travelers face 50-100% single supplements, though occasional reduced supplement promotions appear."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Transatlantic?",
+      "answer": "Princess deploys its Royal-class vessels for Transatlantic crossings: Sky Princess (2019), Enchanted Princess (2020), Discovery Princess (2022), and occasionally Regal Princess (2014). These 3,560-3,660 passenger ships feature the line's signature Piazza atrium, Sanctuary adults-only retreat, and Take Five jazz lounge. The vessels offer extensive enrichment programming ideal for sea days, including cooking demonstrations, art history lectures, and destination briefings. All feature Princess Live television studio and Voice of the Ocean competition. The consistent class design ensures familiar layouts for repeat passengers regardless of specific ship assignment."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "Optimal Transatlantic crossings occur during April-May (eastbound) and September-October (westbound), avoiding winter storms and peak hurricane season. Spring crossings enjoy warming weather and longer daylight hours approaching Europe. Autumn sailings offer stable conditions and potential for northern lights sightings on northern routes. Mid-Atlantic weather remains unpredictable year-round, though modern ships handle moderate seas comfortably. June crossings risk fog near Newfoundland; August brings hurricane concerns affecting Bermuda or Azores stops. October-November westbound voyages provide excellent value but cooler temperatures. Princess schedules primarily follow these optimal windows for passenger comfort and operational reliability."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Transatlantic cruises include accommodation, all main dining venues including buffets and traditional dining rooms, Broadway-style theater productions, live music throughout venues, Movies Under the Stars poolside cinema, fitness center access, sports courts, swimming pools and hot tubs, MedallionClass wearable device for keyless entry and ordering, supervised programming for ages 3-17, port lectures and enrichment seminars, daily activities and trivia, and standard room service with nominal delivery fee. Beverages beyond basic coffee, tea, and water incur charges unless purchasing a package. Gratuities, specialty dining, spa services, casino play, shore excursions, and WiFi require additional payment."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess Transatlantic itineraries typically feature 3-4 port calls amid 10-14 sea days. Common eastbound ports include Fort Lauderdale, Bermuda, Ponta Delgada (Azores), Lisbon, and Southampton with occasional Barcelona or Civitavecchia embarkation. Westbound routes reverse this pattern, sometimes adding Malaga or Cartagena. The Azores represents the quintessential mid-Atlantic stop, offering volcanic landscapes and whale watching. Lisbon provides European cultural immersion before British arrival. Bermuda serves as western Atlantic break on longer crossings. Some itineraries incorporate Caribbean islands like St. Maarten or Antigua. Princess occasionally offers unique northern routes via Iceland or Greenland on select voyages."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Princess Transatlantic bookings 12-18 months ahead for optimal cabin selection, particularly for balcony and mini-suite categories essential for sea day comfort. Early booking incentives typically include onboard credits up to EUR 300 and reduced deposits. Repositioning itineraries release approximately 18 months prior to sailing. Wave season (January-March) brings additional promotional pricing. Last-minute availability emerges 60-90 days before departure with discounts reaching 30-40%, though cabin location and category options narrow significantly. Solo travelers should book earliest due to limited single-occupancy inventory. Travel agents specializing in cruises often access group rates unavailable directly."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Transatlantic cruises suit families with children aged 8+ who appreciate structured programming and sea day activities. The line's Discovery at SEA youth programs operate sea days with science experiments, art projects, and themed events. Teen centers provide dedicated hangout spaces and social activities. However, the limited port stops and 10+ consecutive sea days challenge younger children requiring constant stimulation. Families thrive when selecting connecting cabins or mini-suites for space. The abundance of family-friendly entertainment including game shows, trivia, and pool activities engages mixed ages. Parents appreciate the security of MedallionClass tracking. Shore excursions in Azores and Lisbon offer educational opportunities complementing the voyage experience."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises applies standard cancellation penalties increasing by departure proximity. Cancellations 90+ days before sailing incur no penalty for most fares. 89-75 days prior: deposit forfeiture (typically EUR 250-400). 74-43 days: 25% of total fare. 42-15 days: 50% of total fare. 14-4 days: 75% of total fare. 3 days or less: 100% forfeiture. Cancel For Any Reason protection, available within 14 days of initial deposit, provides future cruise credits up to 75% of non-refundable amounts. Standard travel insurance through Princess or third-party providers covers medical and emergency cancellation. COVID-19 protocols have introduced temporary flexible cancellation options; verify current terms at booking as policies evolve."
+    }
+  ]
+}

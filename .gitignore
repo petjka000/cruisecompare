@@ -1,5 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# Generated logs and caches
+logs/*.log
+__pycache__/
+*.pyc
+*.tar.gz
+
 # dependencies
 /node_modules
 /.pnp
@@ -15,7 +21,7 @@
 
 # next.js
 /.next/
-/out/
+# /out/ — kept in git so CI can deploy pre-built static output without rebuilding
 
 # production
 /build

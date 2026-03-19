@@ -1,0 +1,101 @@
+{
+  "title": "Royal Caribbean Canary Islands Cruises 2026",
+  "intro": "Royal Caribbean brings its signature innovation and adventure to the sun-drenched Canary Islands, offering a perfect blend of volcanic landscapes, year-round spring climate, and world-class onboard entertainment. Sail aboard the largest and most technologically advanced ships in the fleet as you explore seven unique islands with dramatic terrain from black sand beaches to lush pine forests. Royal Caribbean's Canary Islands itineraries combine the archipelago's UNESCO-listed national parks with Madeira's botanical gardens and Moroccan coastal gems. Families thrive with the award-winning Adventure Ocean program, while couples enjoy exclusive adults-only solariums and specialty dining. The line's private Perfect Day island experiences complement your Atlantic crossing with adrenaline-pumping thrills. Whether you're hiking Teide National Park or surfing Tenerife's famous breaks, Royal Caribbean delivers exceptional value with included entertainment that transforms sea days into highlights of your journey.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Wonder",
+      "Oasis"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Canary Islands",
+      "duration_nights": 7,
+      "ports": [
+        "Santa Cruz de Tenerife",
+        "Las Palmas de Gran Canaria"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Great itinerary"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Wonder of the Seas",
+      "capacity": 5700,
+      "year": 2022,
+      "best_for": "Families",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "Meals",
+    "Entertainment"
+  ],
+  "whats_extra": [
+    "Drinks",
+    "Excursions"
+  ],
+  "booking_strategy": "Book 6-12 months ahead",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Teide National Park excursion (€89)",
+      "tip": "Book early"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Canary Islands cruise cost?",
+      "answer": "Royal Caribbean Canary Islands cruises typically range from €699 to €2,499 per person depending on season, cabin category, and itinerary length. Inside cabins start around €699-899, oceanview €799-1,099, balcony €1,099-1,599, and suites from €1,799-2,499. Peak winter months (December-February) command premium pricing as Europeans seek sunshine. Repositioning crossings from Miami offer exceptional value at €699-999 for 10-14 nights. Solo travelers face 150-200% supplements unless booking studio cabins. Children third and fourth guests often sail at reduced rates or free during promotional periods. Shore excursions average €45-120 per port."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Canary Islands?",
+      "answer": "Royal Caribbean deploys its most innovative vessels for Canary Islands itineraries, primarily Wonder of the Seas and Oasis of the Seas, the world's largest cruise ships at 236,857 gross tons. These Quantum and Oasis-class giants feature seven distinct neighborhoods, surf simulators, zip lines, and AquaTheater shows. Wonder of the Seas (2022) offers the Ultimate Family Suite and expanded Suite Neighborhood. Smaller Vision and Radiance-class ships occasionally handle winter seasonals from Barcelona. All vessels feature the North Star observation capsule, RipCord by iFLY skydiving simulator, and FlowRider surf simulators. Ship selection depends on departure port and itinerary length."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "The optimal months for Royal Caribbean Canary Islands cruises are December through February, when temperatures hover at pleasant 20-24°C while continental Europe freezes. This peak season delivers guaranteed sunshine with minimal rainfall, though prices surge 30-40%. March-April and October-November offer excellent value with temperatures around 18-22°C and fewer crowds. Summer months bring stronger winds ideal for watersports but occasional Saharan dust calimas. Sea conditions remain remarkably stable year-round due to the archipelago's position in the Atlantic subtropical high-pressure zone. Royal Caribbean strategically positions ships here October-April, avoiding hurricane season Caribbean disruptions while capturing European winter sun demand."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean's Canary Islands cruises include accommodation, all main dining room and buffet meals, basic beverages (coffee, tea, water, juice), onboard entertainment including Broadway-caliber shows, Adventure Ocean youth programming, fitness center access, and port taxes. The complimentary dining spans Windjammer Marketplace buffet, main dining room multi-course dinners, and casual venues like Sorrento's Pizza and Café Promenade. Entertainment includes AquaTheater high-diving spectacles, ice skating shows, parades, and live music. Pool decks, waterslides, and sports courts are included. Not covered are alcoholic beverages, specialty restaurants, spa treatments, casino play, Wi-Fi packages, shore excursions, and gratuities (€14.50/day automatically added). Beverage packages and dining packages can be pre-purchased at discounts."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean Canary Islands itineraries feature Santa Cruz de Tenerife, gateway to Spain's highest peak Mount Teide and UNESCO-listed national park. Las Palmas de Gran Canaria offers vibrant Vegueta old town and Maspalomas dunes. Arrecife on Lanzarote showcases Timanfaya's volcanic moonscapes and César Manrique architecture. Lesser-visited La Palma (Santa Cruz) delivers pristine stargazing locations as a UNESCO Biosphere Reserve. Fuerteventura's Puerto del Rosario provides access to Corralejo's beaches. Extended itineraries include Funchal, Madeira for botanical gardens and toboggan rides, plus Agadir or Casablanca, Morocco for souks and kasbahs. Some repositionings add Lisbon, Cádiz, or Malaga on mainland Spain. Sea days maximize onboard activity utilization on these crossing-heavy routes."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Royal Caribbean recommends booking Canary Islands cruises 6-12 months in advance for optimal cabin selection and pricing, particularly for balcony cabins and suites which comprise 70% of inventory on newer ships. Wave Season (January-March) historically offers the best promotions with reduced deposits and onboard credits. European school holiday periods (Christmas, February half-term, Easter) sell out 9-12 months ahead. Solo travelers seeking studio cabins should book immediately upon release. Last-minute deals emerge 60-90 days before sailing for flexible travelers, though cabin location suffers. Royal Caribbean's price protection allows rebooking if fares drop before final payment. Crown & Anchor loyalty members gain early access 12+ months out with exclusive rates."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean excels for Canary Islands family cruises with industry-leading Adventure Ocean programming divided by age: Aquanauts (3-5), Explorers (6-8), Voyagers (9-11), and teen clubs for 12-17 year-olds, all complimentary until 10pm. The Solarium adults-only retreat gives parents sanctuary. Family-friendly shore excursions include camel rides in Maspalomas, submarine safaris in Tenerife, and volcanic cave exploration. Onboard, families enjoy the Ultimate Abyss slide, Splashaway Bay aquapark, mini-golf, rock climbing walls, and ice skating. Connecting cabins and family suites accommodate multi-generational groups. Dining flexibility with My Time Dining suits family schedules. The Canary Islands' mild climate ensures outdoor activities function year-round, unlike seasonal Mediterranean alternatives. Kids sail free promotions frequently apply."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's Canary Islands cancellation policy operates on a tiered structure: full refund minus deposit for cancellations 90+ days before sailing; 75% refund 89-75 days out; 50% refund 74-61 days out; 25% refund 60-31 days out; and no refund within 30 days. Deposit amounts vary by itinerary length and cabin category, typically €200-500 per person. Cancel For Any Reason protection can be purchased within 14 days of initial deposit, providing future cruise credit for 75% of non-refundable costs if cancelled for non-covered reasons, or 100% for covered reasons like illness. COVID-19 protocols have introduced flexible rebooking options. Travel insurance is strongly recommended for European medical coverage and trip interruption protection given the Atlantic sailing distances involved."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "title": "Royal Caribbean vs Cunard Line 2026",
+  "intro": "Royal Caribbean and Cunard Line represent two distinct philosophies in cruising. Royal Caribbean dominates with massive resort-style ships packed with adrenaline attractions, water parks, and Broadway entertainment, targeting families and adventure seekers. Cunard preserves traditional ocean liner elegance, emphasizing formal dress codes, afternoon tea, ballroom dancing, and transatlantic heritage. Both operate in the mid-market price tier but deliver radically different experiences—one contemporary and activity-driven, the other refined and culturally immersive. Your choice depends entirely on whether you prioritize high-energy entertainment or timeless maritime sophistication.",
+  "at_a_glance": {
+    "royal-caribbean": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "cunard": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 699
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "royal-caribbean": "€799",
+      "cunard": "€699"
+    },
+    {
+      "category": "Ship Size",
+      "royal-caribbean": "5,400 passengers (Icon Class)",
+      "cunard": "3,000 passengers (Queen Mary 2)"
+    },
+    {
+      "category": "Dress Code",
+      "royal-caribbean": "Resort casual, no formal nights",
+      "cunard": "Gala evenings, formal attire required"
+    },
+    {
+      "category": "Entertainment",
+      "royal-caribbean": "Surf simulators, zip lines, aqua shows",
+      "cunard": "String quartets, lectures, ballroom dancing"
+    },
+    {
+      "category": "Dining Style",
+      "royal-caribbean": "Flexible, 20+ venues, casual",
+      "cunard": "Traditional assigned seating, white-glove service"
+    },
+    {
+      "category": "Kids Facilities",
+      "royal-caribbean": "Splashaway Bay, teen clubs, nursery",
+      "cunard": "Limited, The Play Zone on select sailings"
+    },
+    {
+      "category": "Itineraries",
+      "royal-caribbean": "Caribbean, Mediterranean, private islands",
+      "cunard": "Transatlantic, world voyages, Northern Europe"
+    },
+    {
+      "category": "Stateroom Size",
+      "royal-caribbean": "15-18 sqm inside",
+      "cunard": "18-22 sqm inside"
+    }
+  ],
+  "choose_a_if": [
+    "You want non-stop activities and adrenaline attractions for all ages",
+    "You prefer flexible dining and casual dress codes on vacation"
+  ],
+  "choose_b_if": [
+    "You value elegant traditions, formal evenings, and sophisticated ambience",
+    "You seek transatlantic crossings and culturally enriching voyages"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Royal Caribbean",
+      "reason": "Unmatched kids clubs, water parks, and family accommodations make it the clear choice for multigenerational holidays with children of any age."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Cunard",
+      "reason": "Intimate ballroom dancing, champagne bars, and refined atmosphere create timeless romantic moments without crowds or noise."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Cunard",
+      "reason": "Gentleman hosts for dancing, single-occupancy cabins without supplements, and structured social events foster genuine connections."
+    },
+    {
+      "type": "Adventure seekers",
+      "winner": "Royal Caribbean",
+      "reason": "Skydiving simulators, rock climbing, and North Star observation capsules deliver adrenaline that Cunard simply cannot match."
+    },
+    {
+      "type": "Luxury on budget",
+      "winner": "Cunard",
+      "reason": "Lower base fares include more inclusive dining and daily gratuities, delivering perceived luxury value at reduced entry cost."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Cunard typically offers lower entry-level fares at €699 versus Royal Caribbean's €799 for seven nights, but value depends on priorities. Cunard includes daily gratuities and more complimentary dining options in the fare. Royal Caribbean charges extra for specialty restaurants, beverage packages, and premium activities. Families extract superior value from Royal Caribbean's included entertainment infrastructure. Couples and solo travellers often find Cunard's inclusive elegance more economical when comparing total onboard spend. Consider your spending patterns—Cunard front-loads value, Royal Caribbean spreads costs across optional experiences."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Royal Caribbean dominates family cruising with dedicated children's facilities across all age groups. Adventure Ocean kids club operates from 6 months to 17 years with complimentary programming. Icon-class ships feature Category 6 water park, Surfside family neighborhood, and the Ultimate Family Suite. Dining flexibility accommodates picky eaters. Cunard offers The Play Zone primarily during school holidays with limited hours and no dedicated teen facilities. Children must adhere to dress codes during formal nights. For multigenerational groups, Royal Caribbean's ship-within-a-ship concept allows families to reunite while pursuing individual interests."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Seven-night inside cabins average €799 with Royal Caribbean versus €699 with Cunard for 2026 Mediterranean and Caribbean departures. However, pricing structures diverge significantly. Royal Caribbean employs dynamic pricing with substantial variations by ship class—Oasis and Icon commands premiums while older vessels discount heavily. Cunard maintains more consistent pricing across its three-ship fleet. Balcony premiums run steeper with Royal Caribbean at 40-60% above inside rates versus Cunard's 25-35%. Watch for Royal Caribbean's frequent Kids Sail Free promotions and Cunard's single-occupancy cabin availability without supplements, which can reverse value equations for specific traveller profiles."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Cunard excels in traditional cruise dining with white-glove service, assigned seating, and multi-course gala menus in main restaurants. The Britannia Restaurant maintains ocean liner standards with silver service. Queens Grill and Princess Grill suites access exclusive restaurants with exceptional quality. Royal Caribbean offers quantity over refinement—20+ venues including complimentary options and premium specialty restaurants like Wonderland and 150 Central Park. Main dining room food quality improved but remains inconsistent. Specialty dining at Royal Caribbean rivals Cunard's premium offerings but requires additional expenditure. Cunard's afternoon tea service remains unmatched industry-wide for elegance and authenticity."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Royal Caribbean reduces cruise anxiety through intuitive ship design, flexible scheduling, and familiar resort-style atmosphere. First-timers appreciate My Time Dining eliminating rigid meal schedules, and the sheer volume of activities ensures something appeals to everyone. The learning curve for cruise customs is minimal. Cunard demands more preparation—understanding dress codes, dining assignments, and maritime traditions requires research. First-timers who embrace this education discover deeply rewarding experiences, but those seeking relaxation may find constraints burdensome. Royal Caribbean's private island destinations provide controlled, predictable port experiences ideal for building cruising confidence before exploring independent travel."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Philosophy separates these lines entirely. Royal Caribbean builds floating resorts prioritizing innovation, scale, and entertainment technology. Ships are destinations themselves with neighborhoods, parks, and adrenaline infrastructure. The demographic skews younger families and active couples seeking variety. Cunard preserves ocean liner heritage emphasizing service tradition, intellectual engagement, and maritime ceremony. Ships maintain classic profiles with promenade decks and grand staircases. The demographic attracts mature travellers, history enthusiasts, and those seeking structured social environments. Operational differences include Royal Caribbean's flexible dining and casual dress versus Cunard's assigned seating and formal nights. Itinerary focus differs—Royal Caribbean emphasizes Caribbean and private islands while Cunard specializes in transatlantic crossings and extended voyages."
+    }
+  ]
+}

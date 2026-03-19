@@ -1,0 +1,193 @@
+{
+  "title": "Disney Cruise Line Greek Isles Cruises 2026",
+  "intro": "Disney Cruise Line brings its signature enchantment to the Aegean Sea, combining world-class family entertainment with the timeless beauty of the Greek Isles. Sail aboard the Disney Dream or Disney Fantasy to discover whitewashed Santorini villages, ancient Athenian ruins, and the legendary Palace of Knossos in Crete. Disney's Greek itineraries uniquely blend cultural immersion with magical moments—imagine your children meeting Mickey at sunset in Mykonos or enjoying fireworks at sea with the Acropolis glowing in the distance. The cruise line's rotational dining system, Broadway-caliber shows like 'Frozen, A Musical Spectacular,' and dedicated children's clubs ensure every family member experiences their perfect vacation. With Disney's attention to detail extending from Greek-inspired cuisine to port adventures led by expert guides, these voyages transform Mediterranean exploration into unforgettable family storytelling.",
+  "quick_facts": {
+    "price_from_eur": 1249,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Disney Dream",
+      "Disney Fantasy"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Civitavecchia (Rome)",
+      "Piraeus (Athens)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 1249,
+      "balcony_eur": 1899,
+      "suite_eur": 4299
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1699,
+      "balcony_eur": 2499,
+      "suite_eur": 5899
+    },
+    {
+      "season": "Late Season (October)",
+      "inside_eur": 1399,
+      "balcony_eur": 2099,
+      "suite_eur": 4699
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles from Barcelona",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Naples",
+        "Santorini",
+        "Mykonos",
+        "Piraeus (Athens)"
+      ],
+      "price_from_eur": 1249,
+      "highlight": "Iconic Greek islands with overnight possibilities in Athens"
+    },
+    {
+      "name": "9-night Greek Isles & Adriatic",
+      "duration_nights": 9,
+      "ports": [
+        "Civitavecchia (Rome)",
+        "Santorini",
+        "Kusadasi",
+        "Mykonos",
+        "Dubrovnik",
+        "Venice"
+      ],
+      "price_from_eur": 1799,
+      "highlight": "Combines Greek classics with Croatian coastline"
+    },
+    {
+      "name": "12-night Mediterranean & Greek Isles",
+      "duration_nights": 12,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Livorno",
+        "Civitavecchia (Rome)",
+        "Naples",
+        "Santorini",
+        "Mykonos",
+        "Piraeus (Athens)"
+      ],
+      "price_from_eur": 2299,
+      "highlight": "Comprehensive western and eastern Mediterranean experience"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Dream",
+      "capacity": 4000,
+      "year": 2011,
+      "best_for": "Families with children 3-12",
+      "price_from_eur": 1249
+    },
+    {
+      "name": "Disney Fantasy",
+      "capacity": 4000,
+      "year": 2012,
+      "best_for": "Multi-generational families",
+      "price_from_eur": 1299
+    }
+  ],
+  "whats_included": [
+    "Rotational dining in three themed restaurants",
+    "Broadway-style live shows and entertainment",
+    "Disney character meet-and-greets",
+    "Youth clubs for ages 3-17 (Oceaneer Club, Edge, Vibe)",
+    "Pool areas and waterslides",
+    "24-hour room service",
+    "Soft drinks at meals and fountain stations",
+    "Standard Wi-Fi (basic)",
+    "Port taxes and government fees"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty cocktails",
+    "Premium dining at Palo and Remy (adults-only)",
+    "Port adventures and shore excursions",
+    "Gratuities (€14 per person per night suggested)",
+    "Premium Wi-Fi packages",
+    "Spa and salon services",
+    "Photography packages",
+    "Nursery care for infants 6 months-3 years"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for optimal cabin selection and early booking discounts; Disney opens itineraries 15 months in advance. Consider repositioning cruises in May or September for 20-30% savings. Book port adventures 120 days ahead if staying in concierge staterooms, 90 days for other guests. Watch for 'Kids Sail Free' promotions on select sailings.",
+  "top_ports": [
+    {
+      "port": "Santorini, Greece",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Sunset Catamaran Cruise with Oia Visit (€189)",
+      "tip": "Take the cable car early; donkey rides are controversial and strenuous"
+    },
+    {
+      "port": "Mykonos, Greece",
+      "time_in_port": "8am-7pm",
+      "top_activity": "Delos Island Archaeological Tour (€159)",
+      "tip": "Beach clubs fill fast—reserve at Psarou or Ornos in advance"
+    },
+    {
+      "port": "Piraeus (Athens), Greece",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Acropolis and Parthenon Guided Tour (€149)",
+      "tip": "Visit Acropolis at opening to avoid crowds and heat; afternoon museum visits recommended"
+    },
+    {
+      "port": "Kusadasi, Turkey",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Ephesus Ancient City Tour (€169)",
+      "tip": "Bring euros for shopping in port; haggling expected at bazaar"
+    },
+    {
+      "port": "Naples, Italy",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Pompeii and Amalfi Coast Drive (€219)",
+      "tip": "Pizza at L'Antica Pizzeria da Michele is worth the queue—Disney excursion includes skip-line options"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Greek Isles cruise cost?",
+      "answer": "Disney Greek Isles cruises typically range from €1,249 to €2,899 per person for standard staterooms, depending on season and duration. Inside cabins start around €1,249 in shoulder seasons (May, September), rising to €1,699 in peak summer months. Oceanview and balcony staterooms command premiums of 30-50%, with concierge-level accommodations starting at €4,299. Families should budget €800-1,500 additional per person for port adventures, specialty dining at Palo or Remy (€50-125 per person), alcoholic beverages, and gratuities (€14 per person nightly). The 12-night extended Mediterranean itineraries offer better per-night value at approximately €190-260 nightly versus €180-360 for shorter voyages. Early booking discounts and occasional 'Kids Sail Free' promotions can reduce costs significantly for families."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Greek Isles?",
+      "answer": "Disney deploys the Disney Dream and Disney Fantasy for Greek Isles itineraries, both 4,000-passenger vessels launched in 2011 and 2012 respectively. These sister ships feature the distinctive Disney hull design with Mickey Mouse profile and offer identical deck plans with minor decorative theming differences. The Dream typically operates 7-night Barcelona-Rome or Barcelona-Athens routes, while the Fantasy handles longer 9-12 night voyages and repositioning cruises between European homeports. Both vessels boast the AquaDuck water coaster, Animator's Palate restaurant with interactive animation experiences, and the adult-exclusive Palo and Remy restaurants. Neither Disney Wish nor Disney Treasure currently sail Greek routes, as these newer ships are assigned to Caribbean and Bahamian itineraries. Ship assignments are confirmed approximately 18 months prior to sailing."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "The optimal window for Disney Greek Isles cruises spans May through September, with June and September offering the ideal balance of warm weather, manageable crowds, and moderate pricing. May delivers pleasant 20-25°C temperatures, blooming landscapes, and lower fares, though seawater remains cool for swimming. June provides reliably sunny days before peak summer heat and cruise congestion. July-August guarantee hot beach weather (30-35°C) but bring premium pricing and crowded archaeological sites—essential for families with school-age children. September emerges as the sweet spot: warm seas, harvest festivals, reduced cruise ship traffic, and occasionally 15-20% fare reductions. October sailings risk itinerary disruptions from autumn storms. Disney specifically schedules Greek voyages during these months, avoiding winter when ships reposition to Caribbean homeports."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney's Greek Isles fares encompass substantial value compared to premium competitors. All rotational dining experiences are included—guests rotate through three themed restaurants (Animator's Palate, Enchanted Garden, Royal Palace) with dedicated serving teams following each rotation. Broadway-caliber entertainment includes exclusive Disney productions like 'Beauty and the Beast' and 'Frozen, A Musical Spectacular,' plus deck parties with fireworks at sea. Youth programming through Oceaneer Club, Edge (tweens), and Vibe (teens) operates from morning until midnight at no charge. Unlimited soft drinks, coffee, tea, and fountain beverages are complimentary—unlike most cruise lines. Standard Wi-Fi, room service, and character meet-and-greets require no additional payment. Notable exclusions are alcoholic beverages, adult-exclusive Palo/Remy restaurants, shore excursions, spa services, and specialty coffees at Cove Café."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney's Greek Isles itineraries feature an expertly curated selection of Aegean and Eastern Mediterranean destinations. Santorini provides the iconic caldera experience with optional overnight stays on select sailings. Mykonos offers cosmopolitan beaches and Delos archaeological excursions. Piraeus serves as the gateway to Athens' Acropolis and Parthenon, with Disney's extended port times maximizing exploration. Kusadasi (Turkey) enables access to magnificent Ephesus, one of antiquity's best-preserved cities. Western Mediterranean segments typically include Naples for Pompeii and Amalfi Coast access, plus Barcelona or Rome as embarkation points. Disney occasionally includes Crete (Heraklion) for Knossos palace visits and Rhodes for its medieval Old Town, a UNESCO site. Itineraries are designed to minimize sea days—rarely more than one consecutive day at sea—maximizing destination immersion for families with limited patience for open ocean cruising."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Securing preferred staterooms on Disney Greek Isles cruises demands exceptional advance planning due to the line's loyal repeat guest base and limited seasonal deployment. Disney releases European itineraries approximately 15 months in advance; concierge staterooms and desirable mid-ship verandah categories frequently sell out within 30-60 days of release. For optimal selection, book 12-18 months ahead, particularly for summer school holiday periods when family demand peaks. Disney Vacation Club members and Castaway Club loyalty tiers (Silver, Gold, Platinum) receive early booking windows 90-120 days before general public access. Final payment is typically due 90 days prior to sailing. Last-minute Greek availability is virtually nonexistent; unlike Caribbean routes, Disney does not discount Mediterranean sailings significantly closer to departure. Waitlists for sold-out categories occasionally clear 60-90 days out due to cancellations."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney's Greek Isles cruises represent the pinnacle of family-oriented Mediterranean travel, architected specifically for multi-generational groups. The cruise line's youth programming operates with unmatched hours and staffing ratios—children as young as 3 can participate in supervised Oceaneer Club activities from 9am until midnight, allowing parents genuine vacation time. Greek mythology and ancient history curricula are woven into kids' programming, with counselors leading themed activities about gods, heroes, and archaeological discovery. Character appearances in Mediterranean costume create unique photo opportunities unavailable at theme parks. Family staterooms accommodate five passengers, a rarity in cruising. Adult-exclusive dining at Palo and Remy provides romantic evenings while children enjoy supervised dinners. The rotational dining system eliminates family mealtime negotiations. However, families with children under three face limitations: nursery space is limited and incurs hourly fees, and many port adventures have minimum age requirements of 4-8 years."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line maintains structured cancellation terms that escalate penalties closer to departure. For standard sailings 1-5 nights, full refunds are available until 90 days before sailing; 89-75 days incurs deposit forfeiture; 74-30 days triggers 50% penalty; 29-15 days demands 75% forfeiture; and 14 days or less results in 100% loss. For 6-9 night Greek itineraries, the 50% penalty period extends to 60 days before sailing, with 75% penalty applying 59-30 days out. Extended 10+ night Mediterranean voyages impose stricter terms: 50% penalty begins 90 days prior, escalating to 75% at 89-60 days and full forfeiture within 59 days. Travel insurance, available through Disney or third parties, is strongly recommended given the substantial advance payment requirements and non-refundable air arrangements. Cancel for Any Reason upgrades typically reimburse 75% of penalties as future cruise credit. Rebooking on identical itineraries within 30 days of cancellation may waive change fees in certain circumstances."
+    }
+  ]
+}

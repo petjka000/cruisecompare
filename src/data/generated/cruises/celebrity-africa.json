@@ -1,0 +1,209 @@
+{
+  "title": "Celebrity Cruises Africa & Canaries Cruises 2026",
+  "intro": "Celebrity Cruises elevates Africa and Canary Islands exploration with sophisticated, destination-immersive voyages aboard its premium fleet. These carefully crafted itineraries combine the volcanic landscapes of Tenerife and Lanzarote with vibrant Moroccan ports like Casablanca and Agadir, plus rare African calls at Dakar and Banjul. Celebrity's modern luxury approach shines through with locally inspired cuisine, enrichment lectures on regional culture and wildlife, and overnight stays in key ports. The line's signature Lawn Club, spa-focused wellness programming, and suite-class amenities complement days exploring UNESCO-listed old towns, Sahara-adjacent dunes, and Atlantic archipelagos. With smaller ship access to intimate harbours impossible for mega-ships, these cruises attract discerning travellers seeking authentic cultural encounters without sacrificing contemporary comfort. Celebrity's partnership with local guides ensures meaningful shore excursions, from camel trekking in Gran Canaria to medina walking tours in Tangier.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Mar",
+      "Apr"
+    ],
+    "ships_on_route": [
+      "Celebrity Apex",
+      "Celebrity Beyond",
+      "Celebrity Silhouette"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Barcelona",
+      "Lisbon"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Oct-Nov)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak Winter (Dec-Feb)",
+      "inside_eur": 1199,
+      "balcony_eur": 1899,
+      "suite_eur": 3299
+    },
+    {
+      "season": "Spring (Mar-Apr)",
+      "inside_eur": 999,
+      "balcony_eur": 1599,
+      "suite_eur": 2799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Canaries & Morocco",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Gibraltar",
+        "Casablanca",
+        "Agadir",
+        "Tenerife",
+        "Lanzarote",
+        "Madeira",
+        "Southampton"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Overnight in Casablanca with Hassan II Mosque visit"
+    },
+    {
+      "name": "14-night West Africa Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Alicante",
+        "Malaga",
+        "Casablanca",
+        "Agadir",
+        "Arrecife",
+        "Santa Cruz de Tenerife",
+        "Dakar",
+        "Banjul",
+        "Lisbon",
+        "Barcelona"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Rare Senegal and Gambia calls with wildlife reserves"
+    },
+    {
+      "name": "10-night Canary Islands Intensive",
+      "duration_nights": 10,
+      "ports": [
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de La Palma",
+        "Santa Cruz de Tenerife",
+        "Puerto del Rosario",
+        "Arrecife",
+        "Lanzarote",
+        "Lisbon"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Three full days exploring Tenerife's diverse landscapes"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Apex",
+      "capacity": 2900,
+      "year": 2020,
+      "best_for": "Modern luxury seekers",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Celebrity Beyond",
+      "capacity": 3200,
+      "year": 2022,
+      "best_for": "Culinary enthusiasts",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Celebrity Silhouette",
+      "capacity": 2850,
+      "year": 2011,
+      "best_for": "Classic Celebrity experience",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Main dining room meals",
+    "Buffet restaurant access",
+    "Most entertainment and shows",
+    "Fitness centre access",
+    "Pool and hot tub use",
+    "Kids club programming",
+    "Room service (continental breakfast)",
+    "Basic WiFi (surf package)"
+  ],
+  "whats_extra": [
+    "Specialty dining restaurants",
+    "Premium beverage packages",
+    "Shore excursions",
+    "Spa treatments and salon services",
+    "Premium WiFi (stream package)",
+    "Gratuities (€14.50/person/day)",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photos and retail purchases"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts; suite guests should reserve 12+ months ahead for Retreat access. Watch for Celebrity's 'Sail Beyond Event' promotions offering onboard credit and beverage packages. Consider repositioning cruises in October and April for lowest fares. Always compare MoveUp upgrade bids after final payment.",
+  "top_ports": [
+    {
+      "port": "Casablanca",
+      "time_in_port": "7am-6pm (often overnight)",
+      "top_activity": "Hassan II Mosque guided tour (€89)",
+      "tip": "Dress modestly; mosque non-Muslim access limited to guided tours"
+    },
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Teide National Park excursion (€119)",
+      "tip": "Book cable car combination for summit access; altitude affects some visitors"
+    },
+    {
+      "port": "Arrecife (Lanzarote)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Timanfaya National Park fire mountains (€79)",
+      "tip": "Morning departures avoid afternoon heat and crowds"
+    },
+    {
+      "port": "Dakar",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Gorée Island UNESCO site (€95)",
+      "tip": "Sensitive historical content; prepare emotionally for slave house visit"
+    },
+    {
+      "port": "Funchal (Madeira)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan wicker sled ride (€65)",
+      "tip": "Combine with botanical garden visit; book morning for cooler temperatures"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Africa & Canaries cruise cost?",
+      "answer": "Celebrity Cruises Africa and Canaries voyages typically range from €899 to €3,500 per person for standard accommodations. Inside cabins start around €899-€1,199 in shoulder seasons, while balcony staterooms run €1,399-€1,899 depending on timing. Suites in The Retreat begin at €2,499 and can exceed €5,000 for top-tier accommodations. Prices include meals, basic entertainment, and port fees, but exclude gratuities, drinks, and excursions. Peak winter months command 30-40% premiums. Repositioning cruises in October and April offer the best value, sometimes including free beverage packages or onboard credit promotions."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Africa & Canaries?",
+      "answer": "Celebrity deploys its Edge-class and Solstice-class vessels on Africa and Canaries routes. Celebrity Apex and Celebrity Beyond, the newest Edge-series ships, offer revolutionary Infinite Veranda staterooms and 29 distinct dining venues. Celebrity Silhouette, a refined Solstice-class option, provides the line's signature Lawn Club real grass deck and more intimate atmosphere. These ships range from 2,850 to 3,200 passengers, striking balance between amenities and port accessibility. Edge-class ships feature the Magic Carpet venue and Eden immersive space, while Silhouette emphasises traditional cruise elegance with modern updates following 2020 refurbishment."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "October through November and March through April offer optimal conditions for Africa and Canaries cruising. These shoulder periods deliver comfortable 20-25°C temperatures, minimal rainfall, and calmer Atlantic crossings. Winter months from December to February remain popular despite slightly cooler weather and higher prices, particularly for Europeans seeking sunshine. Avoid August sailing when Saharan dust can reduce visibility and temperatures exceed 30°C. The Canaries maintain pleasant year-round climates, but West African ports become uncomfortably humid in summer. Birdwatchers prefer November-January for migratory species, while spring sailings showcase wildflower blooms in Madeira and the Canaries."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity Cruises includes main dining room breakfast, lunch, and dinner; Oceanview Café buffet; most entertainment including theatre productions and live music; fitness centre and pool access; Celebrity's Camp at Sea kids programming; and basic surf WiFi. Accommodations feature luxurious bedding, bath amenities, and twice-daily housekeeping. The line's signature service includes dedicated attendants and 24-hour room service for continental breakfast. Not included are specialty restaurants, alcoholic beverages, shore excursions, spa services, premium WiFi, and gratuities. Suite guests in The Retreat receive additional perks: exclusive restaurant, lounge, sundeck, premium drinks, and dedicated concierge service."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Africa and Canaries itineraries feature diverse Atlantic and Moroccan destinations. Canary Islands calls include Santa Cruz de Tenerife, Arrecife (Lanzarote), Puerto del Rosario (Fuerteventura), and Santa Cruz de La Palma, each offering volcanic landscapes and distinct character. Moroccan ports comprise Casablanca with its iconic mosque, Tangier's medina, and Agadir's beach resorts. West African routes extend to Dakar, Senegal for Gorée Island history, and Banjul, Gambia for wildlife reserves. European departure and transit ports include Barcelona, Lisbon, Southampton, and Gibraltar. Some itineraries include Madeira's Funchal for botanical gardens and wine culture. Overnight stays in Casablanca enable deeper exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Celebrity Africa and Canaries cruises 9-12 months in advance for optimal cabin selection, particularly for balcony staterooms and suites. The Retreat suites and AquaClass spa cabins sell out earliest due to limited inventory. Booking early locks in 'Sail Beyond' promotional rates including beverage packages and onboard credit. Last-minute deals occasionally appear 60-90 days before sailing, but cabin categories and dining times become restricted. Repositioning cruises in October and April offer more flexibility with shorter booking windows. Group bookings require 8-12 months advance notice. Always purchase travel insurance within 14 days of deposit for maximum coverage including pre-existing conditions."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity Cruises accommodates families well on Africa and Canaries routes, though the demographic skews older than competitors. Camp at Sea provides complimentary programming for ages 3-17 with STEM activities, art, and regional cultural education tailored to destinations. Family-friendly shore excursions include camel rides in Lanzarote, cable car adventures in Madeira, and beach breaks in the Canaries. Connecting staterooms and family veranda configurations sleep up to five. However, limited water slides and absence of dedicated teen discos may disappoint thrill-seeking adolescents. The educational value of African and Moroccan cultural immersion appeals to families with curious children. School holiday periods see increased family programming and multi-generational group offerings."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity Cruises applies standard cancellation penalties increasing by departure proximity. Cancellations 90+ days before sailing incur no penalty for most fares. 89-75 days prior: deposit forfeited (typically €200-€500 per person). 74-61 days: 50% of total fare retained. 60-31 days: 75% penalty. 30 days or less: full fare forfeited. 'Cruise with Confidence' flexible booking occasionally extends penalty-free windows during promotional periods. Travel insurance through Celebrity or third-party providers covers cancellation for covered reasons including illness. 'Cancel for Any Reason' upgrades typically reimburse 75% in future cruise credit. Suite guests and Captain's Club loyalty members receive modified terms with reduced penalties. Always verify specific fare conditions at booking."
+    }
+  ]
+}

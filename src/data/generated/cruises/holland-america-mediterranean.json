@@ -1,0 +1,252 @@
+{
+  "title": "Holland America Line Mediterranean Cruises 2026",
+  "intro": "Holland America Line brings its signature Dutch heritage and refined elegance to the Mediterranean, offering culturally immersive voyages aboard mid-sized ships perfectly suited for this historic region. With over 150 years of seafaring tradition, HAL delivers destination-rich itineraries that linger longer in port, often including overnight stays in iconic cities like Venice, Barcelona, and Istanbul. Their Explorations Central program enriches every journey with expert-led talks, regional cuisine workshops, and curated shore excursions. The Mediterranean collection emphasizes the 'slow travel' philosophy—fewer sea days, more meaningful connections. Guests enjoy spacious staterooms, award-winning dining including fresh Mediterranean ingredients, and the exclusive Club Orange suite benefits. Whether sailing the Greek Isles, Adriatic coast, or Western Mediterranean, Holland America appeals to discerning travelers seeking sophistication without pretension, exceptional value, and authentic cultural encounters in the cradle of Western civilization.",
+  "quick_facts": {
+    "price_from_eur": 1199,
+    "duration_range": "10-21 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Oosterdam",
+      "Zuiderdam"
+    ],
+    "departure_ports": [
+      "Rotterdam",
+      "Civitavecchia",
+      "Barcelona",
+      "Athens",
+      "Venice"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1599,
+      "balcony_eur": 2299,
+      "suite_eur": 3899
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 1399,
+      "balcony_eur": 1999,
+      "suite_eur": 3299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Greek Odyssey & Aegean Jewels",
+      "duration_nights": 12,
+      "ports": [
+        "Athens",
+        "Santorini",
+        "Kusadasi",
+        "Istanbul",
+        "Mykonos",
+        "Katakolon",
+        "Naples",
+        "Civitavecchia"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Overnight in Istanbul with exclusive evening Bosphorus cruise"
+    },
+    {
+      "name": "Mediterranean Tapestry",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Monte Carlo",
+        "Livorno",
+        "Civitavecchia",
+        "Naples",
+        "Catania",
+        "Valletta",
+        "Kotor",
+        "Dubrovnik",
+        "Venice"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Comprehensive Western and Eastern Mediterranean in one voyage"
+    },
+    {
+      "name": "Adriatic Dream & Venice",
+      "duration_nights": 10,
+      "ports": [
+        "Venice",
+        "Split",
+        "Kotor",
+        "Corfu",
+        "Santorini",
+        "Katakolon",
+        "Naples",
+        "Civitavecchia"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Late departure from Venice and scenic cruising Bay of Kotor"
+    },
+    {
+      "name": "Holy Land & Ancient Kingdoms",
+      "duration_nights": 21,
+      "ports": [
+        "Athens",
+        "Haifa",
+        "Jerusalem",
+        "Limassol",
+        "Rhodes",
+        "Kuşadası",
+        "Istanbul",
+        "Mykonos",
+        "Santorini",
+        "Naples",
+        "Civitavecchia"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Rare overnight in Haifa with full-day Jerusalem excursions"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Rotterdam",
+      "capacity": 2668,
+      "year": 2021,
+      "best_for": "Culinary enthusiasts & culture seekers",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Nieuw Statendam",
+      "capacity": 2666,
+      "year": 2018,
+      "best_for": "Music lovers & romantic getaways",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Oosterdam",
+      "capacity": 1964,
+      "year": 2003,
+      "best_for": "Intimate atmosphere & traditional cruisers",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Zuiderdam",
+      "capacity": 1964,
+      "year": 2002,
+      "best_for": "Art collectors & mature travelers",
+      "price_from_eur": 1099
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "24-hour room service",
+    "Classic beverages (coffee, tea, juice)",
+    "Evening entertainment & live music",
+    "Fitness center & pool access",
+    "Port taxes & fees",
+    "Explorations Central programming",
+    "Cooking demonstrations",
+    "Digital workshops",
+    "Club HAL youth activities"
+  ],
+  "whats_extra": [
+    "Specialty dining (Pinnacle Grill, Tamarind €35-55pp)",
+    "Beverage packages (€55-75/day)",
+    "Shore excursions (€65-289pp)",
+    "WiFi packages (€15-25/day)",
+    "Spa treatments & salon services",
+    "Laundry & dry cleaning",
+    "Airport transfers",
+    "Pre/post hotel stays",
+    "Photography services",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for best cabin selection and early booking bonuses up to €400 onboard credit; wave season (Jan-Mar) offers reduced deposits and free upgrades; past guests receive 10-15% loyalty discounts; suite bookings include Club Orange perks worth €300+ daily",
+  "top_ports": [
+    {
+      "port": "Istanbul",
+      "time_in_port": "8am-6pm+ (overnight on select voyages)",
+      "top_activity": "Private Hagia Sophia & Blue Mosque tour with rooftop lunch (€189)",
+      "tip": "Request port side stateroom for mosque views at sail-in"
+    },
+    {
+      "port": "Santorini",
+      "time_in_port": "12pm-8pm",
+      "top_activity": "Sunset catamaran cruise with wine tasting (€145)",
+      "tip": "Book tender ticket early; cable car lines exceed 2 hours by 10am"
+    },
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Game of Thrones walking tour with city walls (€89)",
+      "tip": "Gruz port requires shuttle; allow 30 minutes each way to Old Town"
+    },
+    {
+      "port": "Kotor",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Fjord kayak expedition to Our Lady of the Rocks (€79)",
+      "tip": "Scenic sailing at 6am—set alarm for unparalleled photography"
+    },
+    {
+      "port": "Venice",
+      "time_in_port": "Disembark/embark or 8am-5pm",
+      "top_activity": "After-hours St. Mark's Basilica private visit (€165)",
+      "tip": "Overnight sailings offer magical evening departure past St. Mark's Square"
+    },
+    {
+      "port": "Haifa",
+      "time_in_port": "6am-11pm (overnight)",
+      "top_activity": "Full-day Jerusalem & Bethlehem pilgrimage (€269)",
+      "tip": "Religious sites require modest dress; bring covered shoulders and knees"
+    },
+    {
+      "port": "Barcelona",
+      "time_in_port": "Disembark/embark or 8am-5pm",
+      "top_activity": "Sagrada Família fast-track tickets with tower access (€125)",
+      "tip": "Pre-cruise stay recommended; HAL offers excellent hotel packages"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line Mediterranean cruise cost?",
+      "answer": "Holland America Mediterranean cruises typically range from €1,199 for interior staterooms on 10-night shoulder season sailings to €4,500+ for Neptune Suites during peak summer months. Balcony cabins, highly recommended for Mediterranean scenic cruising, average €1,699-€2,299 depending on season. The 21-night Holy Land voyages command premium pricing from €2,499. Solo travelers benefit from reduced single supplements (often 25-50% rather than 100%) on select departures. All fares include meals, entertainment, and port taxes, with frequent promotions offering onboard credits up to €400, free gratuities, or beverage packages. Third and fourth guests in staterooms pay significantly reduced rates, making HAL excellent value for couples traveling together."
+    },
+    {
+      "question": "Which Holland America Line ships sail to Mediterranean?",
+      "answer": "Four Holland America vessels deploy to the Mediterranean in 2026. Rotterdam, the flagship launched 2021, offers the most modern amenities including specialty restaurants Rudi's Sel de Mer and Nami Sushi. Nieuw Statendam features the innovative Music Walk with live venues spanning classical to rock. Smaller sisters Oosterdam and Zuiderdam provide more intimate 1,964-passenger experiences with enhanced space ratios and shorter tender waits. Rotterdam and Nieuw Statendam dominate summer peak season with alternating 12-14 night itineraries, while Oosterdam and Zuiderdam handle shoulder season and repositioning voyages. All four carry the line's signature Explorations Central program and Dutch heritage design elements. Rotterdam and Nieuw Statendam offer the exclusive Club Orange suite benefits."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "April-May and September-October deliver optimal Holland America Mediterranean experiences with mild 18-24°C temperatures, fewer crowds at major sites, and lower fares 20-30% below peak season. Spring brings wildflower displays in Greek islands and comfortable conditions for hiking Dubrovnik's walls. Autumn offers harvest season culinary experiences and warmer seas for swimming. June-August provides longest daylight hours and guaranteed beach weather but brings intense heat exceeding 35°C in Athens and Rome, packed attractions, and premium pricing. HAL's late October repositioning cruises to Florida represent exceptional value with unique ports like Gibraltar and Ponta Delgado. Avoid November-March when many Mediterranean ports reduce services and weather becomes unpredictable for reliable cruising."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America Mediterranean cruises include substantial value: all main dining room meals featuring regionally inspired menus, 24-hour complimentary room service, classic non-alcoholic beverages, evening entertainment including BBC Earth productions and live music in multiple venues, fitness center access, pool and hot tub use, port taxes and fees, Explorations Central destination programming with expert lectures, digital workshops, cooking demonstrations, and supervised Club HAL activities for children. Stateroom amenities encompass twice-daily housekeeping, turndown service, and basic toiletries. Gratuities are additional (€16-18/day) unless promotional offers include them. HAL's 'Have It All' premium package bundles WiFi, drinks, specialty dining, and excursions for €55-75 daily—often worthwhile given à la carte pricing. Room service breakfast and lunch carry no surcharge."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America's Mediterranean portfolio spans 40+ ports across three primary regions. Western Mediterranean highlights include Barcelona's architectural wonders, Monte Carlo's glamour, Florence/Livorno for Renaissance art, Rome/Civitavecchia for ancient history, and Naples for Pompeii access. Eastern Mediterranean emphasizes Greek Isles—Santorini's caldera sunsets, Mykonos's windmills, Rhodes's medieval Old Town—plus Kusadasi for Ephesus and Istanbul's Byzantine-Ottoman splendor. The Adriatic features Venice overnight calls, Dubrovnik's fortified beauty, Kotor's fjord-like bay, and Split's Roman palace. Rare Holy Land itineraries include Haifa and Ashdod for Jerusalem, Bethlehem, and Galilee explorations. HAL distinguishes itself with longer port stays, multiple overnights in Venice and Istanbul, and extended evening departures from Santorini and Mykonos for authentic local dining experiences unavailable to ships departing at 5pm."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Holland America Mediterranean reservations 9-14 months in advance for optimal stateroom selection, particularly for coveted aft-facing balconies and Neptune Suites with exclusive Club Orange benefits. Early booking typically yields €200-400 onboard credit per cabin and reduced deposits. Wave Season (January-March) brings the year's strongest promotions including free gratuities, beverage packages, and cabin upgrades. Past guests with Mariner Society status access exclusive sales 30 days before public release and enjoy 10-15% fare reductions. Last-minute Mediterranean deals emerge 60-90 days pre-departure primarily for interior and obstructed-view cabins, though itinerary desirability means deep discounts are rare. Group bookings (8+ cabins) qualify for additional concessions including complimentary berths. Rebooking onboard future cruises secures best available rates with reduced deposits."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Mediterranean cruises suit families with children aged 8+ who appreciate cultural immersion over waterslides and character parades. Club HAL provides complimentary supervised programming for ages 3-17, with Mediterranean-focused activities including Greek mythology workshops, Italian cooking classes, and scavenger hunts in historic ports. The smaller ship environment fosters genuine connections among multi-generational groups. However, HAL explicitly targets adults—no water parks, no late-night teen discos, and sophisticated evening entertainment that may not engage younger children. Families seeking intense activity should consider Royal Caribbean or Norwegian instead. HAL excels for grandparents traveling with grandchildren, offering spacious family staterooms, early dining options, and shore excursions accommodating varied mobility levels. Third and fourth guest rates (often €299-599) make Mediterranean exploration accessible for larger families compared to land-based European vacations."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America's standard Mediterranean cancellation policy imposes penalties increasing with proximity to departure: full refund for cancellations 91+ days before sailing; deposit forfeiture (typically €300-600pp) at 90-76 days; 50% of fare at 75-56 days; 75% of fare at 55-30 days; and 100% forfeiture under 30 days. Cancel For Any Reason (CFAR) protection, available for purchase within 14 days of initial deposit, refunds 90% in future cruise credits rather than cash. Standard travel insurance through HAL's partner covers medical emergencies and trip interruption but excludes pandemic-related cancellations unless specifically purchased upgrade. COVID-19 protocols have stabilized but remain subject to change—currently requiring vaccination for some itineraries visiting Turkey and Israel. Rebooking to a different sailing within same promotional period typically avoids penalties if completed 90+ days pre-departure, though fare differences apply."
+    }
+  ]
+}

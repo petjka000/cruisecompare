@@ -1,0 +1,202 @@
+{
+  "title": "Royal Caribbean Alaska Cruises 2026",
+  "intro": "Royal Caribbean brings its signature blend of innovation and adventure to Alaska's breathtaking wilderness in 2026. Sail past towering glaciers, witness breaching whales, and explore frontier towns aboard purpose-built ships designed for spectacular viewing. The cruise line's Alaska program emphasizes outdoor adventure with North Star observation capsules extending 90 metres above sea level, signature FlowRider surf simulators, and dedicated Alaska-focused enrichment programs. Royal Caribbean appeals particularly to active families and multigenerational groups seeking glacier experiences combined with resort-style amenities. The line's Alaska itineraries balance iconic destinations like Juneau and Skagway with lesser-known gems such as Icy Strait Point. Onboard, guests enjoy Broadway-caliber entertainment, diverse dining venues, and Adventure Ocean youth programs that keep younger travellers engaged during scenic cruising through the Inside Passage.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "ships_on_route": [
+      "Quantum of the Seas",
+      "Ovation of the Seas",
+      "Brilliance of the Seas"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Vancouver",
+      "Seward"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 699,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2299
+    },
+    {
+      "season": "July School Holidays",
+      "inside_eur": 1099,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Alaska Glacier Experience",
+      "duration_nights": 7,
+      "ports": [
+        "Seattle",
+        "Juneau",
+        "Skagway",
+        "Endicott Arm",
+        "Victoria"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Scenic cruising through Endicott Arm with Dawes Glacier viewing"
+    },
+    {
+      "name": "7-night Alaska Northbound Glacier",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Inside Passage",
+        "Juneau",
+        "Skagway",
+        "Icy Strait Point",
+        "Hubbard Glacier",
+        "Seward"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Hubbard Glacier close approach and one-way positioning for land tours"
+    },
+    {
+      "name": "12-night Alaska Ultimate Adventure",
+      "duration_nights": 12,
+      "ports": [
+        "Seattle",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Icy Strait Point",
+        "Hubbard Glacier",
+        "Sitka",
+        "Victoria"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Extended time in Sitka with Russian heritage and wildlife focus"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Quantum of the Seas",
+      "capacity": 4180,
+      "year": 2014,
+      "best_for": "Families and tech-forward travellers",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Ovation of the Seas",
+      "capacity": 4180,
+      "year": 2016,
+      "best_for": "Adventure seekers with North Star priority",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Brilliance of the Seas",
+      "capacity": 2150,
+      "year": 2002,
+      "best_for": "Intimate glacier viewing and traditional cruising",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and Windjammer buffet",
+    "Select casual dining venues including Sorrento's and Café Promenade",
+    "Broadway-style entertainment and live music",
+    "Adventure Ocean youth club (ages 3-17)",
+    "Fitness centre access",
+    "Pool and hot tub use",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (alcoholic and premium non-alcoholic)",
+    "Specialty restaurants (Chops Grille, Izumi, Wonderland)",
+    "Shore excursions and flightseeing tours",
+    "WiFi packages",
+    "Spa treatments and salon services",
+    "Gratuities (recommended EUR 14-16 per person daily)",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photos and retail purchases"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best balcony cabin selection during glacier viewing; shoulder season (late May and September) offers 20-30% savings with excellent wildlife spotting. Consider refundable deposits for Alaska weather uncertainty. Solo travellers should book early as single supplements rise closer to sailing. Bundle excursions pre-cruise for 10-15% savings.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Mendenhall Glacier helicopter and trek (EUR 389)",
+      "tip": "Book morning flights for clearest weather"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-8:30pm",
+      "top_activity": "White Pass Railway and Yukon suspension bridge (EUR 189)",
+      "tip": "Railway sells out; reserve with cruise booking"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "7am-4pm",
+      "top_activity": "World's longest ziprider (EUR 149)",
+      "tip": "Short port day—prioritize one major activity"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Misty Fjords flightseeing (EUR 299)",
+      "tip": "Rain gear essential; wettest town in Alaska"
+    },
+    {
+      "port": "Sitka",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sea otter and whale quest (EUR 179)",
+      "tip": "Tender port—book early departure tender tickets"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Alaska cruise cost?",
+      "answer": "Royal Caribbean Alaska cruises in 2026 start from EUR 699 per person for an inside cabin on shoulder season seven-night sailings, with balcony cabins from EUR 1099 and suites from EUR 1899. Peak summer pricing rises to EUR 899 inside, EUR 1399 balcony, and EUR 2299 suite. School holiday periods in July command premiums of 20-30%. Total vacation cost including flights from Europe, pre-cruise hotel, drinks package, gratuities, and excursions typically ranges EUR 2500-4500 per person for a week. Solo travellers face 150-200% single supplements unless booking studio cabins on Quantum-class ships."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Alaska?",
+      "answer": "Royal Caribbean deploys three ships to Alaska in 2026. Quantum of the Seas and Ovation of the Seas, the line's groundbreaking Quantum-class vessels, offer North Star observation capsules, bumper cars, and RipCord by iFly skydiving simulators alongside Alaska-focused programming. These larger ships carry approximately 4180 guests and sail primarily from Seattle. Brilliance of the Seas, a smaller Radiance-class vessel with capacity for 2150 guests, offers more intimate glacier viewing with extensive glass surfaces and operates from Vancouver and Seward. All three feature Royal Caribbean's Adventure Ocean youth programming and specialty dining venues adapted for Alaska itineraries."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "The optimal Alaska cruise season runs May through September, with distinct advantages each month. May offers snow-capped mountains, lowest prices, and active waterfalls from snowmelt, though wildlife is less abundant. June and July provide the longest daylight hours—up to 19 hours—and peak salmon runs attracting bears, but also the highest prices and crowds. August delivers warmest temperatures and best whale watching as humpbacks feed before migration. September brings autumn colours, aurora possibilities, and significant savings, though some excursions may be limited. Royal Caribbean's glacier viewing success is highest in July and August when clearer skies improve visibility of calving events."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean Alaska cruises include accommodation, all main dining room meals, Windjammer buffet, select casual venues like Sorrento's pizza and Café Promenade, Broadway-style shows, live music, pool and fitness centre access, and Adventure Ocean youth programming. Staterooms feature daily housekeeping and basic toiletries. Enrichment lectures on Alaska wildlife and culture are complimentary. Not included are alcoholic beverages, specialty restaurants, shore excursions, WiFi, spa services, and gratuities. Royal Caribbean offers pre-cruise beverage and dining packages at 10-20% discounts. Alaska-specific inclusions feature park ranger narrations during glacier days and use of thermal spa facilities on sea days for suite guests."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean's Alaska itineraries feature Southeast Alaska's Inside Passage ports including Juneau (state capital with Mendenhall Glacier access), Skagway (Gold Rush history and White Pass Railway), Ketchikan (totem poles and Misty Fjords), and Icy Strait Point (Hoonah Native village with adventure activities). Some sailings include Sitka, offering Russian heritage and excellent wildlife viewing. Scenic cruising highlights Hubbard Glacier, Endicott Arm's Dawes Glacier, and Tracy Arm Fjord. Vancouver or Seattle serve as primary departure ports, with some northbound itineraries beginning or ending in Seward for combined land tours to Denali. Victoria, British Columbia provides a Canadian port call satisfying maritime regulations."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Royal Caribbean recommends booking Alaska cruises 9-12 months in advance, with optimal pricing and cabin selection typically available 10-11 months before sailing. Balcony cabins facing starboard on northbound routes and port on southbound routes sell first for glacier viewing. Wave season promotions (January-March) often include onboard credit or complimentary beverage packages. Last-minute deals are rare for Alaska due to strong demand; prices typically rise within 90 days of departure. European travellers should coordinate flight availability with cruise deposits. Cancel-for-any-reason insurance is advisable given Alaska's weather variability and the significant investment in flights and pre-cruise accommodations."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean excels as Alaska's most family-friendly cruise line, with Adventure Ocean dividing children into age-appropriate groups from Aquanauts (3-5) to Voyagers (9-11) and Teens (12-17). Alaska-specific programming includes junior ranger activities, wildlife identification games, and glacier science experiments. The North Star observation capsule on Quantum-class ships thrills all ages with 90-metre aerial views. Family staterooms accommodate up to six guests. Multigenerational groups appreciate diverse dining options accommodating varied tastes and the flexibility of My Time Dining. Shore excursions offer family pricing, and onboard spending accounts allow parents to control children's purchases. The line's complimentary dining and entertainment eliminate constant expense decisions during the vacation."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's standard cancellation policy for Alaska cruises allows full refund when cancelling 90 days or more before sailing. Cancellations 89-75 days prior incur deposit forfeiture; 74-61 days lose 25% of total fare; 60-31 days lose 50%; 30-15 days lose 75%; and 14 days or less forfeit 100%. Cancel-for-any-reason protection, available as upgrade within 21 days of booking, provides 75% future cruise credit for any cancellation reason. COVID-19 protocols may modify policies; currently health-related cancellations receive full refunds. European travellers should verify travel insurance covers cruise-specific cancellation reasons including flight delays. Name changes incur EUR 50-100 fees depending on advance notice."
+    }
+  ]
+}

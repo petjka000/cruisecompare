@@ -1,0 +1,256 @@
+{
+  "title": "Oceania Cruises South America Cruises 2026",
+  "intro": "Oceania Cruises elevates South American exploration through its acclaimed fleet of intimate, mid-sized vessels designed for discerning travelers. Renowned for the finest cuisine at sea, Oceania delivers immersive itineraries along Brazil's vibrant coastline, through Chile's dramatic fjords, and around Argentina's storied ports. The 2026 season features extended stays in Buenos Aires, overnight calls in Rio de Janeiro during Carnival season, and rare visits to the remote Falkland Islands. With fewer than 1,250 guests aboard, Oceania's ships access boutique harbors unreachable by larger vessels, from colonial Paraty to the wildlife-rich Valdés Peninsula. Each voyage combines The Culinary Center cooking classes, destination-focused enrichment programs, and complimentary shore excursions in select packages. Oceania's South America collection emphasizes cultural depth—tango lessons in Montevideo, wine tastings in Mendoza, and Antarctic gateway experiences from Ushuaia.",
+  "quick_facts": {
+    "price_from_eur": 2849,
+    "duration_range": "10-24 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Marina",
+      "Insignia",
+      "Regatta"
+    ],
+    "departure_ports": [
+      "Buenos Aires",
+      "Rio de Janeiro",
+      "Lima",
+      "Santiago"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/Mar)",
+      "inside_eur": 2849,
+      "balcony_eur": 4199,
+      "suite_eur": 6899
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 3599,
+      "balcony_eur": 5299,
+      "suite_eur": 8799
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 4899,
+      "balcony_eur": 7299,
+      "suite_eur": 12499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Brazil & Argentina Explorer",
+      "duration_nights": 10,
+      "ports": [
+        "Rio de Janeiro",
+        "Buzios",
+        "Ilha Grande",
+        "Paraty",
+        "Montevideo",
+        "Buenos Aires"
+      ],
+      "price_from_eur": 2849,
+      "highlight": "Overnight in Rio with Carnival timing options"
+    },
+    {
+      "name": "14-night Chilean Fjords & Patagonia",
+      "duration_nights": 14,
+      "ports": [
+        "Santiago",
+        "Puerto Montt",
+        "Puerto Chacabuco",
+        "Cruise Chilean Fjords",
+        "Punta Arenas",
+        "Ushuaia",
+        "Port Stanley",
+        "Montevideo",
+        "Buenos Aires"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Scenic cruising through Glacier Alley with expert naturalists"
+    },
+    {
+      "name": "18-night Andean Coast & Amazon",
+      "duration_nights": 18,
+      "ports": [
+        "Lima",
+        "Pisco",
+        "Arica",
+        "Coquimbo",
+        "Santiago",
+        "Puerto Montt",
+        "Puerto Chacabuco",
+        "Cruise Chilean Fjords",
+        "Punta Arenas",
+        "Ushuaia",
+        "Montevideo",
+        "Buenos Aires"
+      ],
+      "price_from_eur": 5899,
+      "highlight": "Pre-cruise Machu Picchu land program available"
+    },
+    {
+      "name": "24-night Grand South America",
+      "duration_nights": 24,
+      "ports": [
+        "Rio de Janeiro",
+        "Buzios",
+        "Ilha Grande",
+        "Paraty",
+        "Santos",
+        "Porto Belo",
+        "Montevideo",
+        "Punta del Este",
+        "Buenos Aires",
+        "Puerto Madryn",
+        "Port Stanley",
+        "Ushuaia",
+        "Punta Arenas",
+        "Cruise Chilean Fjords",
+        "Puerto Chacabuco",
+        "Puerto Montt",
+        "Santiago"
+      ],
+      "price_from_eur": 7899,
+      "highlight": "Comprehensive circumnavigation with three overnight stays"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Culinary enthusiasts and destination immersion",
+      "price_from_eur": 2999
+    },
+    {
+      "name": "Insignia",
+      "capacity": 684,
+      "year": 1998,
+      "refurbished": 2018,
+      "best_for": "Intimate port access and longer voyages",
+      "price_from_eur": 2849
+    },
+    {
+      "name": "Regatta",
+      "capacity": 684,
+      "year": 1998,
+      "refurbished": 2019,
+      "best_for": "Classic Oceania experience with refreshed amenities",
+      "price_from_eur": 2849
+    }
+  ],
+  "whats_included": [
+    "Unlimited internet",
+    "All specialty restaurants",
+    "Beverages including select wines and spirits",
+    "Shore excursions (select packages)",
+    "Airport transfers",
+    "Gratuities",
+    "Fitness classes",
+    "Destination lectures",
+    "Self-service laundry"
+  ],
+  "whats_extra": [
+    "Premium shore excursions",
+    "Spa treatments",
+    "Premium wines and spirits beyond standard selection",
+    "Pre/post-cruise hotel stays",
+    "Airfare (unless package selected)",
+    "Boutique purchases",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for optimal cabin selection; Oceania's OLife Choice promotions typically release 12-18 months out offering free shore excursions, beverage packages, or onboard credit. Shoulder season departures in November and March offer 25-30% savings over peak December-Feb dates. Solo travelers should inquire about single supplement waivers, occasionally available on select sailings.",
+  "top_ports": [
+    {
+      "port": "Rio de Janeiro",
+      "time_in_port": "8am-overnight-6pm",
+      "top_activity": "Corcovado Mountain & Christ the Redeemer with Sugarloaf ($189)",
+      "tip": "Schedule cable car ascent before 10am to avoid cloud cover"
+    },
+    {
+      "port": "Buenos Aires",
+      "time_in_port": "7am-overnight-6pm",
+      "top_activity": "Private tango lesson with milonga evening ($245)",
+      "tip": "La Boca neighborhood safest during daylight hours; book Recoleta cemetery guided tour"
+    },
+    {
+      "port": "Ushuaia",
+      "time_in_port": "10am-8pm",
+      "top_activity": "Tierra del Fuego National Park hiking with End of the World Train ($165)",
+      "tip": "Pack layers regardless of season; weather changes rapidly"
+    },
+    {
+      "port": "Punta Arenas",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Magdalena Island penguin colony by Zodiac ($195)",
+      "tip": "Morning departures have calmer strait crossings"
+    },
+    {
+      "port": "Port Stanley",
+      "time_in_port": "8am-5pm",
+      "time_note": "Tender port",
+      "top_activity": "Volunteer Point king penguin expedition by 4x4 ($289)",
+      "tip": "Book wildlife excursions immediately upon boarding; limited tender capacity"
+    },
+    {
+      "port": "Puerto Montt",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Petrohué Falls & Osorno Volcano with German colonial Frutillar ($175)",
+      "tip": "Rain gear essential; this is one of Chile's wettest regions"
+    },
+    {
+      "port": "Montevideo",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Bodega Bouza winery with Old City walking tour ($155)",
+      "tip": "Ciudad Vieja weekend markets offer authentic crafts without tourist markup"
+    },
+    {
+      "port": "Lima",
+      "time_in_port": "Pre-cruise overnight",
+      "top_activity": "Larco Museum private evening with ceviche masterclass ($225)",
+      "tip": "Extend 2-3 nights pre-cruise for Machu Picchu connections via Vistadome train"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises South America cruise cost?",
+      "answer": "Oceania Cruises South America voyages range from €2,849 for 10-night shoulder-season itineraries in Oceanview staterooms to €12,499+ for Owner's Suites during holiday departures. Balcony accommodations typically start at €4,199 in November/March and €5,299 during peak December-February season. The 18-night Andean Coast voyages average €5,899, while comprehensive 24-night Grand South America circumnavigations begin at €7,899. OLife Choice promotions frequently add value through complimentary shore excursions, beverage packages, or onboard credit worth €400-800. Solo travelers face standard 150-175% single supplements, though waiver promotions appear periodically."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to South America?",
+      "answer": "Oceania deploys three intimately-scaled vessels for South America: the 1,250-guest Marina serves as flagship with her dedicated Culinary Center, multiple specialty restaurants including Jacques Pépin's namesake venue, and expansive spa facilities; the 684-guest Insignia and identical Regatta offer enhanced port access to boutique harbors like Paraty and Puerto Chacabuco that larger vessels cannot navigate. All three underwent recent refurbishments (Marina 2021, Insignia 2018, Regatta 2019) maintaining Oceania's country-club ambiance. Marina dominates peak season departures, while Insignia and Regatta handle extended voyages and repositioning itineraries through the Panama Canal."
+    },
+    {
+      "question": "When is best time to cruise South America?",
+      "answer": "The optimal South America cruise season spans November through March, coinciding with Southern Hemisphere summer. December through February delivers warmest temperatures ideal for Brazil's beaches and Patagonian trekking, though this peak period commands premium pricing and larger crowds at major attractions. November and March offer excellent value with 25-30% lower fares, fewer tourists, and pleasant 20-25°C temperatures—particularly advantageous for Buenos Aires exploration and Chilean wine region visits. January-February aligns with Brazilian Carnival (dates vary annually), creating extraordinary but crowded Rio overnight experiences. Antarctic-extension voyages from Ushuaia operate exclusively December-February when Drake Passage conditions moderate."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's South America cruises feature among the most comprehensive inclusions in premium cruising: unlimited WiFi throughout the vessel; all specialty restaurants including Polo Grill, Toscana, and Red Ginger with no surcharges; standard wines, beers, and spirits during lunch and dinner plus complimentary coffee bar beverages; fitness classes and destination lectures; self-service laundry facilities; and gratuities for housekeeping and dining staff. OLife Choice packages add either $600-800 shore excursion credit, House Select beverage package extending drinks throughout the day, or additional onboard credit. Airfare and ground transfers are included with OLife Air promotions. Notable exclusions: premium shore excursions, spa services, casino play, and vintage wine selections."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's South America itineraries encompass 40+ ports across five countries, emphasizing immersive duration over superficial stops. Signature destinations include Rio de Janeiro with overnight stays enabling Corcovado and Sugarloaf experiences; Buenos Aires with dual overnights for tango immersion and Colonia del Sacramento day trips; Ushuaia as Antarctic gateway with Tierra del Fuego excursions; and the Chilean fjord system featuring scenic cruising through Glacier Alley. Rare calls include colonial Paraty (UNESCO status), wildlife-rich Puerto Madryn (southern right whales December-March), and the Falkland Islands' Port Stanley requiring tender operations. Amazon itineraries add Macapá, Santarém, and Boca da Valeria with river navigation on select extended voyages."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Oceania recommends securing South America reservations 9-14 months in advance, with holiday departures and suite categories requiring 12-18 month lead times due to limited inventory. The line typically releases itineraries 18-24 months ahead, with early booking incentives including OLife Choice benefits (excursions, beverages, or credit) and reduced deposits. Last-minute availability occasionally appears 60-90 days out, primarily in inside and oceanview categories, though cabin selection becomes severely constrained. Solo travelers should monitor single supplement waiver promotions, announced quarterly and selling rapidly. Final payment is due 90 days prior to sailing, with full penalty applying thereafter—consider travel insurance given South America's distance and investment level."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises positions explicitly as adults-oriented, with no dedicated children's facilities, youth programs, or babysitting services aboard Marina, Insignia, or Regatta. The South America product particularly suits mature travelers seeking cultural immersion, culinary excellence, and destination depth over family entertainment. Minimum age is 6 months for most sailings, though the line rarely attracts families with children under 16. Multi-generational groups occasionally book during holiday periods, finding the relaxed atmosphere and educational programming suitable for engaged teenagers. Families prioritizing South America should consider Oceania only for adult children or companions; those requiring youth facilities should explore expedition lines with dedicated family departures or larger contemporary cruise operators."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania's standard cancellation policy imposes escalating penalties based on departure proximity: deposits are fully refundable for 15 days post-booking; thereafter, loss of deposit applies until 90 days before sailing. Cancellation 90-76 days prior forfeits 25% of total fare; 75-61 days loses 50%; 60-31 days sacrifices 75%; and 30 days or less incurs 100% penalty with no refund. Travel insurance through Oceania's preferred provider or independent carriers is strongly advised given substantial investment and remote destination challenges. Cancel For Any Reason upgrades typically reimburse 75% of non-refundable amounts when purchased within 21 days of initial deposit. COVID-19 protocols have introduced temporary flexible booking options; verify current terms at reservation."
+    }
+  ]
+}

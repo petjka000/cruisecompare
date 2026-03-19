@@ -1,0 +1,224 @@
+{
+  "title": "Celebrity Cruises Mediterranean Cruises 2026",
+  "intro": "Celebrity Cruises elevates Mediterranean exploration through its signature Modern Luxury philosophy, combining sophisticated design with immersive destination experiences. The premium cruise line operates seasonal Mediterranean deployments from April through October, featuring overnight stays in iconic cities like Barcelona, Rome, and Istanbul. Celebrity's Edge-class ships revolutionize sea views with infinite veranda staterooms and the Magic Carpet platform, while the Retreat experience offers exclusive suite accommodations with private lounge access. Culinary excellence shines through 30+ dining venues including Michelin-starred chef partnerships. The line emphasizes destination immersion with longer port stays and over 150 shore excursions ranging from olive oil tastings in Tuscany to archaeological deep-dives in Ephesus. With a refined adult-oriented atmosphere yet family-friendly amenities, Celebrity attracts discerning travelers seeking contemporary elegance without formality. Sustainability initiatives include solar panel technology and elimination of single-use plastics fleetwide.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Celebrity Apex",
+      "Celebrity Beyond",
+      "Celebrity Edge",
+      "Celebrity Reflection"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome (Civitavecchia)",
+      "Athens",
+      "Istanbul"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1299,
+      "balcony_eur": 1999,
+      "suite_eur": 3599
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 1099,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Western Mediterranean",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Provence (Marseille)",
+        "Monaco",
+        "Florence/Pisa (Livorno)",
+        "Rome (Civitavecchia)",
+        "Naples",
+        "Barcelona"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Iconic Riviera cities with overnight in Barcelona"
+    },
+    {
+      "name": "10-night Greek Isles & Turkey",
+      "duration_nights": 10,
+      "ports": [
+        "Athens",
+        "Santorini",
+        "Ephesus (Kusadasi)",
+        "Istanbul",
+        "Mykonos",
+        "Rhodes",
+        "Crete",
+        "Nafplio",
+        "Athens"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Extended overnight in Istanbul with Bosphorus exploration"
+    },
+    {
+      "name": "12-night Adriatic & Amalfi Coast",
+      "duration_nights": 12,
+      "ports": [
+        "Rome (Civitavecchia)",
+        "Sorrento",
+        "Amalfi",
+        "Dubrovnik",
+        "Split",
+        "Venice",
+        "Kotor",
+        "Corfu",
+        "Sicily (Messina)",
+        "Naples",
+        "Rome"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Comprehensive Adriatic exploration with Venice overnight"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Apex",
+      "capacity": 2900,
+      "year": 2021,
+      "best_for": "Couples & design enthusiasts",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Celebrity Beyond",
+      "capacity": 3200,
+      "year": 2022,
+      "best_for": "Luxury seekers & foodies",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Celebrity Edge",
+      "capacity": 2900,
+      "year": 2018,
+      "best_for": "Innovation lovers",
+      "price_from_eur": 949
+    },
+    {
+      "name": "Celebrity Reflection",
+      "capacity": 3046,
+      "year": 2012,
+      "best_for": "Families & value seekers",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "Main dining room meals",
+    "Buffet restaurant",
+    "Select casual dining venues",
+    "Theater entertainment",
+    "Pool access",
+    "Fitness center",
+    "Kids club programming",
+    "Room service (breakfast)",
+    "Basic WiFi (speed limited)"
+  ],
+  "whats_extra": [
+    "Premium beverage packages",
+    "Specialty restaurants (€45-€195 per person)",
+    "Shore excursions (€65-€395)",
+    "Spa treatments",
+    "Casino",
+    "Premium WiFi",
+    "Laundry services",
+    "Gratuities (€15-€18/day recommended)",
+    "Flights & transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal cabin selection and early booking savings up to €400. Consider Wave Season (January-March) for added perks like onboard credit, beverage packages, or free gratuities. Solo travelers should book early as single supplements apply. Retreat suite bookings include premium drinks, WiFi, and gratuities—compare total costs against booking separately.",
+  "top_ports": [
+    {
+      "port": "Barcelona",
+      "time_in_port": "6am-6pm (often overnight)",
+      "top_activity": "Sagrada Família guided tour (€89)",
+      "tip": "Pre-book Gaudí sites; Metro day pass saves taxi costs"
+    },
+    {
+      "port": "Santorini",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Sunset catamaran cruise with dinner (€165)",
+      "tip": "Take cable car early; donkey rides controversial—avoid"
+    },
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Game of Thrones walking tour with city walls (€75)",
+      "tip": "Arrive before 8am to beat cruise crowds on walls"
+    },
+    {
+      "port": "Istanbul",
+      "time_in_port": "Overnight 1pm-2pm next day",
+      "top_activity": "Private Bosphorus yacht with palace visits (€245)",
+      "tip": "Hagia Sophia requires modest dress; closed Friday mornings"
+    },
+    {
+      "port": "Rome (Civitavecchia)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Vatican Museums & Sistine Chapel skip-line (€125)",
+      "tip": "90-minute train to city center; book Vatican months ahead"
+    },
+    {
+      "port": "Amalfi",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Ravello villa gardens with limoncello tasting (€95)",
+      "tip": "Ferry to Positano faster than winding bus in summer"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Mediterranean cruise cost?",
+      "answer": "Celebrity Mediterranean cruises range from €899 inside cabins in shoulder season to €3,599+ for suites during peak summer. Balcony staterooms—the line's most popular category—typically run €1,399-€1,999. The Retreat suite experience starts around €2,499 and includes premium drinks, WiFi, gratuities, and exclusive lounge access. Shore excursions add €65-€395 per port, while specialty dining averages €45-€75 per person. Total vacation costs including flights, pre-cruise hotels, and onboard spending typically reach €2,500-€5,000 per person for a 7-night sailing."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Mediterranean?",
+      "answer": "Celebrity deploys its newest Edge-class vessels for Mediterranean summer 2026: Celebrity Apex (2021), Celebrity Beyond (2022), and flagship Celebrity Edge (2018) offer revolutionary infinite veranda staterooms and the Magic Cantilevered platform. Solstice-class favorite Celebrity Reflection provides excellent value with traditional balcony cabins and broader family amenities. These ships range 2,900-3,200 passengers, significantly smaller than mega-ships, enabling access to intimate ports like Amalfi and Santorini's tender piers. Edge-class ships feature 29 dining venues, rooftop gardens, and Eden's transformative evening entertainment."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "May, June, and September offer optimal Mediterranean cruising: pleasant 22-28°C temperatures, fewer crowds than July-August, and lower pricing (€300-€500 savings per cabin). July-August brings peak heat (32°C+), maximum prices, and congested attractions, though ideal for beach-focused itineraries. April and October provide bargain hunting opportunities (€899 starting rates) with cooler weather and some rain risk. December Mediterranean sailings are rare—Celebrity typically repositions ships to Caribbean and UAE. For Greek Isles specifically, late May wildflowers and September grape harvests enhance shore experiences beyond standard sightseeing."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's fare includes main dining room breakfast, lunch, and dinner; Oceanview Café buffet; select casual venues like Mast Grill and Spa Café; theater productions and live music; pool and fitness center access; and standard-speed WiFi. The Retreat booking tier adds premium drinks, high-speed streaming WiFi, daily gratuities, two specialty dining nights, and exclusive sundeck access. Not included: specialty restaurants (Eden, Fine Cut Steakhouse), shore excursions, spa services, casino, premium coffees, and most beverages. The Elevate and Indulge packages bundle popular extras at 15-20% savings versus à la carte purchasing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Western Mediterranean itineraries feature Barcelona, Rome (Civitavecchia), Florence/Pisa (Livorno), Provence (Marseille), Monaco, and Naples with Amalfi Coast access. Eastern Mediterranean and Greek Isles routes include Athens, Santorini, Mykonos, Rhodes, Crete, plus Ephesus (Kusadasi) and overnight Istanbul stops. Adriatic sailings reach Venice (with overnights), Dubrovnik, Split, and Kotor. Lesser-visited gems include Sicily (Messina), Nafplio, Corfu, and Catania. Celebrity emphasizes longer stays—frequently 10-12 hours or overnight—enabling authentic evening dining and cultural immersion unavailable on rushed port calls common with other premium lines."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Celebrity Mediterranean bookings 9-12 months ahead for optimal cabin selection, particularly for Edge-class infinite veranda staterooms and Retreat suites which sell fastest. Early booking incentives typically include onboard credits (€150-€300), complimentary beverage packages, or reduced deposits. Wave Season (January-March) historically offers the strongest promotional value. Solo travelers face limited availability and 150-200% supplements—booking 12+ months ahead is essential. Final payment due 90 days before sailing; prices often increase significantly after this threshold as inventory tightens. Last-minute deals under 60 days are rare for Mediterranean summer sailings."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity welcomes families but maintains adult-oriented sophistication versus competitors like Royal Caribbean. Camp at Sea (ages 3-12) and teen programs operate sea days and select port days with STEM activities, culinary workshops, and sports tournaments. Family-friendly ships Celebrity Reflection and Apex offer connecting staterooms and expanded pool deck space. However, no water slides, climbing walls, or character experiences—families seeking high-energy children's programming may prefer sister brand Royal Caribbean. Family pricing benefits include third/fourth passenger discounts (often 50-75% off), though most suites accommodate maximum three guests. Recommended for families with tweens/teens appreciating cultural immersion over pure entertainment."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity's standard cancellation policy refunds deposits minus €100 per person administrative fee when cancelling 90+ days before sailing. 89-75 days: deposit forfeited. 74-57 days: 25% penalty. 56-29 days: 50% penalty. 28-15 days: 75% penalty. Under 14 days: 100% forfeiture. Cancel For Any Reason protection (purchased within 14 days of deposit) refunds 75% future cruise credit or 90% if upgrading to Platinum plan. COVID-19 protocols remain flexible with full refunds for positive tests within 10 days of sailing. Travel insurance strongly recommended given Mediterranean flight costs and pre-cruise hotel commitments; Celebrity's partnered policies cover trip interruption and medical evacuation."
+    }
+  ]
+}

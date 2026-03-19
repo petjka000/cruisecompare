@@ -1,0 +1,246 @@
+{
+  "title": "Holland America Line Canary Islands Cruises 2026",
+  "intro": "Holland America Line brings its signature elegant cruising style to the sun-drenched Canary Islands, offering discerning travelers an immersive cultural journey unlike any other. With over 150 years of maritime heritage, HAL combines classic ocean liner traditions with modern sophistication as you explore these volcanic Atlantic archipelagos. Their thoughtfully curated itineraries balance leisurely sea days with extended port calls, allowing genuine exploration of Tenerife's dramatic landscapes, Gran Canaria's diverse ecosystems, and Lanzarote's otherworldly terrain. Onboard, indulge in exceptional culinary programs featuring regional Canarian wines and ingredients, while the line's renowned Explorations Central enrichment hub deepens your understanding of destination history and ecology. Smaller mid-size vessels navigate intimate harbors inaccessible to mega-ships, delivering authentic connections with local culture. For travelers seeking refined adventure without crowds, Holland America's Canary Islands voyages represent exceptional value in premium cruising.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Zuiderdam"
+    ],
+    "departure_ports": [
+      "Amsterdam",
+      "Rotterdam",
+      "Civitavecchia",
+      "Barcelona",
+      "Lisbon"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov-Dec)",
+      "inside_eur": 699,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Peak (Jan-Mar)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Late Season (Apr)",
+      "inside_eur": 799,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Amsterdam",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Agadir",
+        "Casablanca",
+        "Cadiz",
+        "Lisbon",
+        "Amsterdam"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive Atlantic islands exploration with Moroccan cultural immersion"
+    },
+    {
+      "name": "10-night Canary Islands & Madeira",
+      "duration_nights": 10,
+      "ports": [
+        "Rotterdam",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de La Palma",
+        "Santa Cruz de Tenerife",
+        "Arrecife",
+        "Las Palmas",
+        "Lisbon",
+        "Rotterdam"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Four Canary Islands plus Madeira's lush gardens"
+    },
+    {
+      "name": "7-night Canary Islands Intensive",
+      "duration_nights": 7,
+      "ports": [
+        "Santa Cruz de Tenerife",
+        "San Sebastian de La Gomera",
+        "Santa Cruz de La Palma",
+        "Arrecife",
+        "Puerto del Rosario",
+        "Las Palmas",
+        "Santa Cruz de Tenerife"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Round-trip Tenerife with maximum island exposure"
+    },
+    {
+      "name": "21-night Grand Voyage: Canary Islands & Cape Verde",
+      "duration_nights": 21,
+      "ports": [
+        "Amsterdam",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Mindelo",
+        "Praia",
+        "Dakar",
+        "Banjul",
+        "Las Palmas",
+        "Lisbon",
+        "Amsterdam"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Rare Cape Verde access with West African cultural encounters"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Rotterdam",
+      "capacity": 2668,
+      "year": 2021,
+      "best_for": "Culinary enthusiasts & culture seekers",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Nieuw Statendam",
+      "capacity": 2666,
+      "year": 2018,
+      "best_for": "Music lovers & multi-generational travelers",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Zuiderdam",
+      "capacity": 1964,
+      "year": 2002,
+      "refurbished": 2017,
+      "best_for": "Traditional cruisers & value seekers",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals & casual venue dining",
+    "24-hour room service",
+    "Daily housekeeping & turndown service",
+    "Evening entertainment & live music",
+    "Fitness center access & basic classes",
+    "Explorations Central destination programming",
+    "BBC Earth Experiences natural history content",
+    "America's Test Kitchen cooking demonstrations",
+    "Port taxes & government fees"
+  ],
+  "whats_extra": [
+    "Beverage packages & individual drinks (EUR 8-15 per cocktail)",
+    "Specialty dining (EUR 35-55 per person)",
+    "Shore excursions (EUR 65-189 per tour)",
+    "WiFi packages (EUR 15-25 per day)",
+    "Spa & salon services",
+    "Laundry & dry cleaning",
+    "Gratuities (EUR 16 per person per day recommended)",
+    "Photography services",
+    "Casino gaming",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for optimal cabin selection and early booking savings up to EUR 300; monitor Wave Season (Jan-Mar) for promotional onboard credits and reduced deposits; consider repositioning cruises in November for lowest fares; suite bookings include additional perks worth EUR 400+",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-11pm",
+      "top_activity": "Teide National Park excursion (EUR 89)",
+      "tip": "Evening departure allows sunset dining ashore"
+    },
+    {
+      "port": "Las Palmas de Gran Canaria",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Vegueta historic district walking tour (EUR 45)",
+      "tip": "Walkable old town; skip ship excursion"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Timanfaya National Park & wine tour (EUR 75)",
+      "tip": "Book volcano restaurant experience early"
+    },
+    {
+      "port": "Santa Cruz de La Palma",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Caldera de Taburiente hiking (EUR 65)",
+      "tip": "Compact port; easy independent exploration"
+    },
+    {
+      "port": "Puerto del Rosario, Fuerteventura",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Corralejo dunes & beach day (EUR 55)",
+      "tip": "Short port time; prioritize beach over town"
+    },
+    {
+      "port": "San Sebastian de La Gomera",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Garajonay National Park rainforest (EUR 70)",
+      "tip": "Less visited; authentic Canarian culture"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Monte toboggan & botanical gardens (EUR 55)",
+      "tip": "Cable car offers stunning valley views"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line Canary Islands cruise cost?",
+      "answer": "Holland America Line Canary Islands cruises typically range from EUR 699 for a 7-night intensive itinerary in an inside cabin during shoulder season, to EUR 2,199 for peak season balcony accommodations on longer voyages. Suite categories command EUR 1,799-2,500+. Repositioning cruises in November offer exceptional value at EUR 100-150 less per night. Total vacation cost including flights, pre-cruise hotel, beverages, gratuities, and excursions averages EUR 2,500-4,000 per person for a 10-14 night voyage. Early booking discounts of EUR 200-300 and promotional onboard credits of EUR 100-200 are frequently available."
+    },
+    {
+      "question": "Which Holland America Line ships sail to Canary Islands?",
+      "answer": "Holland America deploys its Pinnacle and Vista-class vessels for Canary Islands service. The Rotterdam (2021, 2,668 passengers) serves as flagship with the most comprehensive itinerary offerings including Grand Voyages. Nieuw Statendam (2018, 2,666 passengers) features the innovative Music Walk venues and serves peak winter demand. Zuiderdam (2002, refurbished 2017, 1,964 passengers) offers intimate scale and value-focused positioning. These mid-size ships access smaller Canarian ports like San Sebastian de La Gomera that mega-ships cannot reach, while providing spacious public areas, extensive veranda stateroom inventory, and refined service standards that distinguish Holland America's premium positioning."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "November through March represents optimal cruising season for the Canary Islands, with daytime temperatures averaging 20-24°C and minimal rainfall. January and February offer ideal conditions for hiking volcanic terrain and exploring botanical gardens at peak bloom. December combines pleasant weather with festive Spanish holiday traditions. November and April shoulder months provide excellent value with 15-20% lower pricing and fewer crowds. Summer cruising is generally avoided as vessels redeploy to Northern Europe; the Canaries become uncomfortably hot for extensive outdoor exploration. Sea conditions remain remarkably calm year-round due to archipelago location, though Atlantic crossings to/from Amsterdam may encounter rougher seas in winter months."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America Line's fare includes accommodation, all main dining room and casual venue meals, 24-hour room service, daily housekeeping, evening entertainment, live music venues, fitness center access, and comprehensive enrichment programming through Explorations Central. Unique inclusions feature America's Test Kitchen cooking demonstrations, BBC Earth Experiences with nature documentaries and live musicians, and digital workshop instruction. Beverages, specialty dining, shore excursions, WiFi, and gratuities remain additional. Have It All premium package (EUR 50/day) bundles WiFi, drinks, specialty dining, and excursions for comprehensive value. Suite guests receive additional privileges including concierge service, priority boarding, and complimentary laundry."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America itineraries comprehensively cover the Canary Islands archipelago with extended calls at Santa Cruz de Tenerife (Teide volcano, colonial architecture), Las Palmas de Gran Canaria (UNESCO Vegueta district, diverse microclimates), Arrecife Lanzarote (Timanfaya volcanic landscapes, César Manrique architecture), Santa Cruz de La Palma (Caldera de Taburiente rainforest, historic naval heritage), and Puerto del Rosario Fuerteventura (Corralejo dunes, water sports). Less common stops include San Sebastian de La Gomera (Columbus history, laurel forests). Most itineraries incorporate Funchal Madeira with its famous toboggan rides and gardens. Grand Voyages extend to Cape Verde, Morocco, and West Africa for comprehensive Atlantic exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Optimal booking window for Holland America Canary Islands cruises is 9-18 months prior to departure, securing preferred stateroom categories, dining times, and early booking savings of EUR 200-300 per cabin. Suite inventory particularly requires advance commitment. Wave Season (January-March) brings promotional incentives including reduced deposits, onboard credits to EUR 300, and complimentary beverage packages. Last-minute deals occasionally appear 60-90 days out for flexible travelers, though cabin selection becomes limited. Repositioning cruises in November should be booked 12+ months ahead for best pricing. Group bookings of 8+ cabins warrant 12-18 month lead time for additional concessions and coordinated accommodations."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Line attracts predominantly adult travelers (median age 55+) with limited dedicated children's programming, making Canary Islands cruises most suitable for multi-generational families with teenagers or adult children rather than young families. Club HAL operates limited hours for ages 3-17 with supervised activities, though facilities are modest compared to family-focused lines. The destination itself offers exceptional family appeal: volcano exploration, whale watching, water sports, and accessible hiking suit active teens. Connecting staterooms and suite configurations accommodate family groups. Families seeking comprehensive kids' clubs and water parks should consider alternative lines; those prioritizing cultural immersion, flexible dining, and destination depth will find Holland America appropriate for mature family travelers."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America Line's standard cancellation policy imposes penalties escalating by departure proximity: full refund minus deposit for cancellations 90+ days out; loss of deposit (typically EUR 250-500) for 89-75 days; 25% penalty for 74-61 days; 50% for 60-31 days; 75% for 30-15 days; and 100% forfeiture inside 14 days. Cancel For Any Reason protection (EUR 150-250 per person) permits cash refunds up to 48 hours before sailing. COVID-19 flexible policies may temporarily adjust timelines. Travel insurance strongly recommended for Canary Islands voyages given flight connection requirements and potential weather disruptions. Rebooking to alternative sailings within 12 months often permitted with administrative fees waived for covered reasons."
+    }
+  ]
+}

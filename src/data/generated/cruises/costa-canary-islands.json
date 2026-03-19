@@ -1,0 +1,227 @@
+{
+  "title": "Costa Cruises Canary Islands Cruises 2026",
+  "intro": "Costa Cruises brings Italian flair to Canary Islands cruising with year-round departures from Mediterranean homeports. As Europe's largest cruise line, Costa offers exceptional value for sun-seeking passengers wanting to explore Tenerife, Gran Canaria, Lanzarote and Fuerteventura without transatlantic flights. Their Canary Islands itineraries typically combine Spanish mainland ports like Barcelona or Cadiz with three to four island stops, maximizing beach time and volcanic landscapes. Costa's ships deliver authentic Italian dining, multilingual entertainment, and family-friendly programming at prices consistently below premium competitors. The winter 2026 season features enhanced schedules responding to strong British, German and French market demand for guaranteed warmth December through March. Passengers appreciate Costa's flexible dining, extensive spa facilities, and the convenience of euro-denominated onboard pricing throughout the journey.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Costa Smeralda",
+      "Costa Toscana",
+      "Costa Firenze"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Savona",
+      "Civitavecchia"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 799,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Shoulder (Mar-May, Oct-Nov)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    },
+    {
+      "season": "Low (Jun-Sep)",
+      "inside_eur": 599,
+      "balcony_eur": 899,
+      "suite_eur": 1399
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Canary Islands & Madeira",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Cadiz",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Funchal",
+        "Barcelona"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Perfect winter sun escape with two full days in Tenerife"
+    },
+    {
+      "name": "11-night Grand Canary Islands",
+      "duration_nights": 11,
+      "ports": [
+        "Savona",
+        "Barcelona",
+        "Cadiz",
+        "Arrecife",
+        "Puerto del Rosario",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Funchal",
+        "Malaga",
+        "Savona"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Comprehensive four-island coverage plus Madeira and Moroccan coast"
+    },
+    {
+      "name": "14-night Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Civitavecchia",
+        "Genoa",
+        "Barcelona",
+        "Malaga",
+        "Casablanca",
+        "Agadir",
+        "Arrecife",
+        "Puerto del Rosario",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Lisbon",
+        "Cadiz",
+        "Civitavecchia"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Ultimate winter voyage combining islands with imperial Moroccan cities"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Smeralda",
+      "capacity": 6554,
+      "year": 2019,
+      "best_for": "Families & couples seeking modern Italian design",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Costa Toscana",
+      "capacity": 6554,
+      "year": 2021,
+      "best_for": "Food enthusiasts with 11 dining venues",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Costa Firenze",
+      "capacity": 5240,
+      "year": 2021,
+      "best_for": "Value-conscious families wanting newer ship amenities",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Costa Diadema",
+      "capacity": 4947,
+      "year": 2014,
+      "best_for": "Entertainment-focused cruisers with strong show programming",
+      "price_from_eur": 599
+    },
+    {
+      "name": "Costa Fascinosa",
+      "capacity": 3780,
+      "year": 2012,
+      "best_for": "Budget travelers prioritizing destination over ship features",
+      "price_from_eur": 549
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining room and buffet",
+    "Daily entertainment and evening shows",
+    "Kids club programming (3-17 years)",
+    "Fitness center access",
+    "Pool and hot tub use",
+    "Port taxes and service charges",
+    "Basic Wi-Fi (social package)"
+  ],
+  "whats_extra": [
+    "Beverage packages (soft drinks €12/day, alcohol €35-55/day)",
+    "Specialty restaurants (€15-35 per person)",
+    "Shore excursions (€45-189 per port)",
+    "Spa treatments and salon services",
+    "Premium Wi-Fi streaming packages",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photos and souvenirs"
+  ],
+  "booking_strategy": "Book 8-12 months ahead for peak winter dates; Costa releases Canary Islands schedules 18 months in advance with early booking discounts of 20-30% on balcony cabins. Monitor Italian school holiday calendars as these drive pricing spikes. Consider repositioning cruises in October/November for lowest rates. Join Costa Club loyalty program before booking for additional 5% discount and priority boarding.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Teide National Park volcano tour (€89)",
+      "tip": "Pre-book morning excursions to avoid afternoon cloud cover on mountain"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Maspalomas dunes and beach day (€45)",
+      "tip": "Walkable old town Vegueta offers free cathedral and Columbus museum if skipping excursions"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Timanfaya National Park fire mountains (€75)",
+      "tip": "Late departure allows independent taxi to Puerto del Carmen beach resorts for €15 each way"
+    },
+    {
+      "port": "Puerto del Rosario, Fuerteventura",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Corralejo sand dunes jeep safari (€65)",
+      "tip": "Port area limited; book excursion or take public bus to Corralejo (€3.40, 45 minutes)"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan wicker sled ride (€35 with gardens)",
+      "tip": "Cable car to Monte (€13) offers spectacular views; combine with botanical garden visit"
+    },
+    {
+      "port": "Cadiz, Spain",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Seville full-day excursion (€189)",
+      "tip": "Compact old town walkable from pier; cathedral and tapas bars need no excursion"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Canary Islands cruise cost?",
+      "answer": "Costa Cruises Canary Islands cruises range from €549 for interior cabins on older ships in low season to €1,899 for suites during peak winter months. Typical 7-night voyages average €699-799 inside, €999-1,199 balcony, with 11-14 night extended itineraries from €899-1,499. Prices include meals, entertainment, and port taxes but exclude beverages and excursions. Costa frequently offers early booking discounts of 20-30%, free cabin upgrades, and reduced deposits for past guests. Families benefit from third/fourth passenger rates from €299. Peak pricing applies December through February when European passengers seek guaranteed warmth."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Canary Islands?",
+      "answer": "Costa deploys its newest LNG-powered vessels to Canary Islands routes: Costa Smeralda (2019, 6,554 passengers) and sister ship Costa Toscana (2021) lead winter 2026 schedules with 7-14 night itineraries. Costa Firenze (2021, 5,240 passengers) offers value-focused alternatives with similar amenities. Mid-size options include Costa Diadema (2014) with strong entertainment programming, and seasonal deployments may feature Costa Fascinosa or Costa Pacifica. All ships offer Italian-designed interiors, multiple pools, spa complexes, and kids clubs. Newer vessels emphasize environmental performance and expanded dining options including themed restaurants by renowned Italian chefs."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "December through February represents peak season with ideal temperatures of 20-24°C, minimal rainfall, and reliable sunshine when continental Europe experiences winter. This period commands premium pricing but guarantees beach weather. March-April and October-November offer excellent value with slightly cooler seas but pleasant 18-22°C conditions and fewer crowds. May and September provide warmest water temperatures for swimming. June-August sees lowest cruise prices despite 25-28°C heat, though Atlantic winds keep conditions comfortable; however, some itineraries reduce Canary stops for Mediterranean alternatives. Hurricane season does not affect this region, making winter bookings exceptionally reliable."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa Cruises Canary Islands packages include accommodation, all meals in main dining room and buffet restaurants, daily entertainment programming, evening theater shows, supervised kids clubs for ages 3-17, fitness center and sports court access, pool and hot tub use, and basic Wi-Fi for social media. Port taxes and service charges are included in advertised fares. Not included are beverages (water, soft drinks, alcohol), specialty dining, shore excursions, spa services, casino play, premium internet, laundry, and photographs. Beverage packages range €12-55 daily. Gratuities are prepaid in European market fares but verify for British-originated bookings where they may be added separately."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa Cruises Canary Islands itineraries feature Santa Cruz de Tenerife (Spain's highest peak Mount Teide), Las Palmas de Gran Canaria (UNESCO old town and Maspalomas dunes), Arrecife Lanzarote (volcanic Timanfaya National Park), and Puerto del Rosario Fuerteventura (Corralejo beaches). Extended cruises add Funchal Madeira (gardens and toboggan rides), Moroccan ports Casablanca and Agadir, and Spanish mainland calls at Barcelona, Malaga, Cadiz, or Lisbon. Departure ports are Barcelona, Savona (near Genoa), and Civitavecchia (Rome). Most 7-night cruises include 3-4 Canary Islands with sea days; 11-14 night voyages achieve comprehensive four-island coverage plus Atlantic destinations."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Costa Canary Islands cruises 8-12 months ahead for optimal selection and pricing, especially for winter peak season December-February when demand exceeds supply. Costa releases schedules 18 months in advance with strongest early booking incentives: 20-30% discounts, free balcony upgrades, and reduced deposits from €150 per person. Past Costa Club members access sales 48 hours early and receive additional 5% off. Last-minute deals exist for low season but cabin categories and dining times become restricted. School holiday periods (Italian Carnival, Easter, UK half-terms) sell out 9-12 months ahead. Flexible cancellation policies until 30 days before departure reduce booking risk for early commitments."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa Cruises excels for Canary Islands family holidays with complimentary Squok Club programming divided into ages 3-6, 7-11, and 12-17, operating daily 9am-midnight with lunch and dinner supervision. Teen zones feature dedicated discos and sports tournaments. Family cabins accommodate 3-5 passengers with connecting room options. Pools include dedicated children's areas and waterslides on newer ships. Italian-centric dining offers pizza, pasta, and gelato that appeals to younger palates, though main dining room service runs slower than American lines. Evening entertainment suits European family schedules with early show times. Excursion pricing includes children's discounts. Multilingual staff accommodates diverse European nationalities. Consider Costa Toscana or Smeralda for newest kids facilities."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa Cruises Canary Islands bookings cancelled 90+ days before departure receive full refund minus €50 administrative fee per person. 89-60 days: 25% penalty of cruise fare. 59-30 days: 50% penalty. 29-15 days: 75% penalty. 14 days or less: 100% penalty with no refund. Travel insurance covering cancellation for medical reasons is strongly recommended as standard terms are strict. COVID-19 flexible booking policies may extend risk-free cancellation windows during promotional periods—verify current terms at booking. Name changes permitted until 7 days before sailing for €50 fee. Deposits are typically €150-300 per person with final payment due 60 days before departure for bookings over 7 nights."
+    }
+  ]
+}

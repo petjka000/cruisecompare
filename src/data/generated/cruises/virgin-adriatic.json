@@ -1,0 +1,192 @@
+{
+  "title": "Virgin Voyages Adriatic Cruises 2026",
+  "intro": "Virgin Voyages brings its adults-only, yacht-inspired luxury to the Adriatic Sea with a bold reimagining of Mediterranean cruising. Sailors aboard the Scarlet Lady and Valiant Lady discover Croatia's Dalmatian Coast, Montenegro's Bay of Kotor, and Slovenia's Piran without the constraints of traditional cruising—no buffets, no assigned dining times, no children. The line's signature RockStar Quarters, 20+ eateries with Michelin-starred chefs, and immersive entertainment from provocative shows to secret parties transform the Adriatic into your personal playground. With overnight stays in Dubrovnik and late departures from Split, Virgin maximizes exploration time. The Adriatic route specifically showcases the region's crystalline waters, UNESCO World Heritage sites, and emerging culinary scenes through a lens of rebellious sophistication that attracts younger, experience-seeking travelers craving authenticity over convention.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-11 nights",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "ships_on_route": [
+      "Scarlet Lady",
+      "Valiant Lady"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Athens",
+      "Rome (Civitavecchia)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Holiday",
+      "inside_eur": 1599,
+      "balcony_eur": 2299,
+      "suite_eur": 4299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Adriatic Anthems",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Cannes",
+        "Livorno",
+        "Civitavecchia"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Western Mediterranean gateway with Adriatic extension options"
+    },
+    {
+      "name": "10-night Adriatic Sea & Greek Gems",
+      "duration_nights": 10,
+      "ports": [
+        "Athens",
+        "Kotor",
+        "Dubrovnik",
+        "Split",
+        "Trieste",
+        "Corfu",
+        "Santorini",
+        "Mykonos"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Overnight in Dubrovnik with extended Kotor fjord navigation"
+    },
+    {
+      "name": "11-night Venice to Athens",
+      "duration_nights": 11,
+      "ports": [
+        "Venice",
+        "Rijeka",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Sarande",
+        "Corfu",
+        "Katakolon",
+        "Athens"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Comprehensive Dalmatian Coast with Albania's emerging destination"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Scarlet Lady",
+      "capacity": 2770,
+      "year": 2021,
+      "best_for": "Adults seeking nightlife & social atmosphere",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Valiant Lady",
+      "capacity": 2770,
+      "year": 2022,
+      "best_for": "Adults prioritizing wellness & culinary exploration",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All dining at 20+ restaurants",
+    "Basic beverages (still water, juices, teas, coffees)",
+    "Group fitness classes",
+    "Entertainment & shows",
+    "WiFi",
+    "Gratuities",
+    "Port taxes"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages & premium coffees",
+    "Shore excursions",
+    "Spa treatments",
+    "RockStar Quarters upgrades",
+    "Bar tab purchases",
+    "Flights & transfers",
+    "Travel insurance"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; wave season (Jan-Mar) offers 30% off second sailor and free bar tabs up to €600. Consider repositioning cruises in April/October for 40% savings.",
+  "top_ports": [
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "8am-11pm (overnight on select sailings)",
+      "top_activity": "City walls walk & Lokrum Island kayak (€85)",
+      "tip": "Book restaurant reservations inside walls for sunset"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Fjord kayak to Our Lady of the Rocks (€95)",
+      "tip": "Hike city walls early morning before cruise crowds arrive"
+    },
+    {
+      "port": "Split, Croatia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Diocletian's Palace underground & food tour (€110)",
+      "tip": "Virgin's late departure allows beach club time at Bacvice"
+    },
+    {
+      "port": "Trieste, Italy",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Ljubljana day trip with Lake Bled (€189)",
+      "tip": "Shorter port time—pre-book excursions to maximize Slovenia exposure"
+    },
+    {
+      "port": "Sarande, Albania",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Butrint UNESCO archaeological site (€75)",
+      "tip": "Emerging destination—authentic experiences before overtourism"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages Adriatic cruise cost?",
+      "answer": "Virgin Voyages Adriatic cruises range from €899 per person for 7-night shoulder-season sailings in interior Sea View cabins to €4,299+ for Mega RockStar Suites during peak summer. Balcony cabins typically run €1,299-€2,299 depending on season. The line's pricing is more inclusive than competitors—gratuities, WiFi, all restaurants, and basic beverages are included. Bar tabs average €35-€50 per person daily for moderate drinkers. Shore excursions add €75-€200 per port. Wave season promotions (January-March) frequently offer 30% off second sailor and complimentary bar credits worth €300-€600, effectively reducing total trip costs by 15-25% for couples."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to Adriatic?",
+      "answer": "The Scarlet Lady and Valiant Lady operate Virgin's Adriatic itineraries, both purpose-built 110,000-gross-ton vessels accommodating 2,770 sailors in exclusively adult environments. Scarlet Lady launched in 2021 as the fleet's pioneering ship, while Valiant Lady debuted in 2022 with refined dining venues and expanded wellness programming. Both feature identical cabin configurations from 130-square-foot Insider rooms to 2,147-square-foot Massive Suites. The ships rotate between Western Mediterranean, Adriatic, and Greek Island routes seasonally, with Adriatic deployments concentrated May through October when weather optimizes outdoor venue utilization and late-night deck parties that define the Virgin experience."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "May, June, September, and October offer optimal Adriatic cruising conditions with temperatures 20-26°C, minimal rainfall, and fewer crowds than peak July-August. May and October provide exceptional value with 30-40% lower fares and wildflower-covered Dalmatian hillsides or autumn grape harvests. June and September balance reliable swimming temperatures with manageable tourist volumes in Dubrovnik and Split. July-August delivers guaranteed sunshine but brings intense heat (32°C+), inflated hotel prices for pre/post stays, and shoulder-to-shoulder conditions on Dubrovnik's walls. Kotor's dramatic fjord scenery photographs best in September's golden afternoon light, while the Venetian influence in Split's architecture shines under June's extended daylight hours."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages Adriatic cruises include substantially more than premium competitors: unlimited dining across 20+ restaurants ranging from Korean BBQ to experimental tasting menus, with no surcharges for specialty venues. All gratuities, WiFi, group fitness classes (yoga, cycling, HIIT), and entertainment—including boundary-pushing productions like 'Duel Reality' and secret immersive parties—are bundled. Basic non-alcoholic beverages (still water, juices, drip coffee, tea) flow freely. What's revolutionary is the absence of nickel-and-diming: no buffet, no main dining room hierarchy, no photography package pressure. The Bar Tab system lets sailors pre-purchase alcohol credits at slight discounts. What remains excluded—alcohol, spa services, shore excursions, flights—reflects genuine choice rather than stripped-down base fares."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Virgin's Adriatic itineraries emphasize Croatian destinations with strategic overnight and late stays unavailable to larger vessels. Dubrovnik anchors most routes with 14-16 hour port calls enabling sunset wall walks and evening dining inside the old town. Split's 10-hour stays accommodate both Diocletian's Palace exploration and beach time. Kotor, Montenegro offers fjord navigation unmatched in cruising—sailors wake to mountains rising directly from crystalline waters. Emerging ports include Rijeka (Croatia's 2020 European Capital of Culture), Trieste (gateway to Slovenia's Ljubljana and Lake Bled), and Sarande, Albania's rapidly developing riviera. Some itineraries incorporate Greek Islands (Corfu, Santorini) or Italian ports (Bari, Ancona) creating comprehensive Eastern Mediterranean experiences rather than isolated Adriatic loops."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Virgin Voyages Adriatic cruises 9-12 months in advance for optimal cabin selection, particularly RockStar Quarters and aft-facing balcony cabins with superior wake views through Kotor's fjord. The line releases itineraries approximately 18 months ahead. Booking windows matter strategically: opening inventory offers lowest guaranteed rates before dynamic pricing escalates. Wave season (January-March) delivers the year's best promotions—historically 30% off second sailor plus complimentary bar tabs—making this ideal booking period even for later sailings. Last-minute Adriatic availability rarely materializes given the route's popularity and ship capacity constraints. Flexible sailors monitoring price drops can reprice existing bookings through Virgin's generous policy, though suite categories typically sell out 6-8 months pre-departure."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages explicitly prohibits passengers under 18, making Adriatic cruises unsuitable for families with children. This adults-only policy (minimum age 18, no exceptions for infants or teens) fundamentally shapes the experience: no kids clubs, no family suites, no early dining hours, no watered-down entertainment. The decision reflects founder Richard Branson's vision of a cruise line he'd personally enjoy. For adult children traveling with parents, the 18+ threshold enables genuine multigenerational bonding without age-segregated programming. The Adriatic specifically suits this demographic—late-night deck parties, provocative shows, and extensive bar programming assume mature audiences. Families seeking Adriatic cruising should consider MSC, Royal Caribbean, or Norwegian; adults escaping family obligations find Virgin's child-free environment liberating, particularly in romantic destinations like Dubrovnik and Santorini."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Virgin Voyages offers tiered cancellation protection for Adriatic bookings. Standard fares allow full refund if cancelled 120+ days before sailing; 119-90 days incurs 50% penalty; 89-45 days loses 75%; under 45 days forfeits 100%. The 'Book with Confidence' add-on (approximately 10% of fare) extends flexibility: cancel any time until 48 hours before departure for future voyage credit. COVID-19 policies evolved to standard medical documentation requirements. Travel insurance through Virgin's partners or independent providers strongly recommended given Adriatic airfare costs and pre-paid excursion investments. Name changes permitted for €50 fee until final payment. Rebooking to different sailings typically allowed once without penalty during promotional windows. Always verify current terms at booking—policies shifted post-pandemic and may adjust for 2026 deployments."
+    }
+  ]
+}

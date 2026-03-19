@@ -1,0 +1,198 @@
+{
+  "title": "Disney Cruise Line Northern Europe Cruises 2026",
+  "intro": "Disney Cruise Line brings its signature magic to Northern Europe with immersive voyages through the Baltic Sea, Norwegian fjords, and British Isles. Families discover fairy-tale castles in Copenhagen, explore the enchanting Tivoli Gardens, and witness the midnight sun in Norway's dramatic Geirangerfjord. Disney's unique rotational dining system features themed restaurants inspired by Frozen and Beauty and the Beast, while Broadway-caliber shows captivate guests of all ages. Kids enjoy Marvel Super Hero Academy and Frozen-themed deck parties, while adults retreat to exclusive lounges and spa sanctuaries. Port adventures include private Disney-guided tours to St. Petersburg's Hermitage Museum and exclusive access to Scottish castles. With character meet-and-greets featuring Nordic-inspired costumes and special fireworks at sea, these sailings blend cultural discovery with Disney's unparalleled family entertainment in one of cruising's most spectacular regions.",
+  "quick_facts": {
+    "price_from_eur": 1849,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Disney Dream",
+      "Disney Fantasy"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Copenhagen",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 1849,
+      "balcony_eur": 2499,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 2199,
+      "balcony_eur": 2999,
+      "suite_eur": 5899
+    },
+    {
+      "season": "Holiday Sailings",
+      "inside_eur": 2599,
+      "balcony_eur": 3599,
+      "suite_eur": 6999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Northern European Capitals",
+      "duration_nights": 7,
+      "ports": [
+        "Copenhagen",
+        "Stockholm",
+        "Tallinn",
+        "St. Petersburg",
+        "Helsinki"
+      ],
+      "price_from_eur": 1849,
+      "highlight": "Two full days in St. Petersburg with Disney-exclusive Hermitage access"
+    },
+    {
+      "name": "10-night Norwegian Fjords",
+      "duration_nights": 10,
+      "ports": [
+        "Southampton",
+        "Bergen",
+        "Geiranger",
+        "Stavanger",
+        "Copenhagen",
+        "Amsterdam"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Scenic cruising through UNESCO-listed fjords with deck party under midnight sun"
+    },
+    {
+      "name": "12-night British Isles & Northern Europe",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Edinburgh",
+        "Invergordon",
+        "Stavanger",
+        "Copenhagen",
+        "Bruges",
+        "Le Havre"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Pixar-themed day at sea plus exclusive Disney castle experiences in Scotland"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Dream",
+      "capacity": 4000,
+      "year": 2011,
+      "best_for": "Families with young children",
+      "price_from_eur": 1849
+    },
+    {
+      "name": "Disney Fantasy",
+      "capacity": 4000,
+      "year": 2012,
+      "best_for": "Multi-generational families",
+      "price_from_eur": 1999
+    }
+  ],
+  "whats_included": [
+    "Rotational dining at themed restaurants",
+    "Broadway-caliber Disney shows",
+    "Kids clubs (Oceaneer Club, Edge, Vibe)",
+    "Character meet-and-greets",
+    "Pool access and waterslides",
+    "24-hour room service",
+    "Soda, coffee, tea at meals",
+    "Deck parties and fireworks",
+    "Fitness center access"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty coffees",
+    "Port adventures and excursions",
+    "Palo and Remy adult dining",
+    "Spa treatments and salon services",
+    "Nursery care for under-3s",
+    "WiFi packages",
+    "Gratuities (€14.50 per person/day)",
+    "Photography packages",
+    "Airfare and transfers"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking discounts; Disney releases itineraries 15 months in advance with lowest prices typically 12-15 months out. Concierge staterooms and connecting rooms sell fastest. Consider booking during Disney's 'Wave Season' (January-March) for onboard credits. European residents should check for resident rates 60-90 days before sailing. Flexible cruisers can find last-minute deals 30-45 days out, though cabin categories will be limited.",
+  "top_ports": [
+    {
+      "port": "St. Petersburg",
+      "time_in_port": "8am-10pm (overnight)",
+      "top_activity": "Disney-exclusive Hermitage Museum tour with Fabergé collection (€289)",
+      "tip": "Russian visa required unless on Disney-approved excursion"
+    },
+    {
+      "port": "Geiranger",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Disney-arranged fjord kayak expedition (€189)",
+      "tip": "Book port side cabin for best fjord views"
+    },
+    {
+      "port": "Copenhagen",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Tivoli Gardens with Disney VIP access (€149)",
+      "tip": "Walk to Nyhavn from port; no shuttle needed"
+    },
+    {
+      "port": "Stockholm",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Vasa Museum and Gamla Stan walking tour (€129)",
+      "tip": "Use Disney's guaranteed return policy for independent exploration"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Fløibanen funicular and fish market (€89)",
+      "tip": "Morning weather clears best for mountain views"
+    },
+    {
+      "port": "Edinburgh",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Private Disney castle experience with Mary King's Close (€219)",
+      "tip": "Tender port; book early tender tickets through app"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Northern Europe cruise cost?",
+      "answer": "Disney Northern Europe cruises typically range from €1,849 to €6,999 per person for 7-12 night sailings. Inside staterooms start around €1,849 in shoulder season (May/September), rising to €2,199 in peak summer. Oceanview cabins average €2,299-€2,799, while verandah staterooms run €2,499-€3,599. Concierge-level accommodations with exclusive lounge access start at €4,899 and exceed €6,999 for suites. Prices include all meals, entertainment, kids clubs, and soda at meals. Families should budget €800-€1,500 extra for port adventures, €400-€600 for gratuities, and €300+ for specialty dining and beverages per week."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Northern Europe?",
+      "answer": "Disney deploys the Disney Dream and Disney Fantasy to Northern Europe for summer 2026, both 4,000-passenger vessels specifically designed for family cruising. The Disney Dream offers 7-night Baltic capitals itineraries from Copenhagen, while the Disney Fantasy operates longer 10-12 night Norwegian fjords and British Isles voyages from Southampton. Both ships feature the AquaDuck water coaster, Marvel Super Hero Academy, Frozen-themed dining at Arendelle: A Frozen Dining Adventure, and dedicated adult-exclusive areas. Neither ship sails Northern Europe in winter; Disney Wonder handles occasional repositioning cruises in spring and fall. All Northern Europe sailings feature enhanced Disney cultural programming with Nordic-inspired entertainment."
+    },
+    {
+      "question": "When is best time to cruise Northern Europe?",
+      "answer": "June and July offer optimal conditions for Disney Northern Europe cruises, with temperatures of 15-22°C, 18-20 hours of daylight, and peak midnight sun experiences in Norway. May and September provide shoulder season savings of 15-20% with fewer crowds and blooming gardens or autumn colors, though some Baltic ports feel cooler. August combines reliable weather with school holiday timing for families. Avoid late September when fjord attractions begin seasonal closures. St. Petersburg is spectacular June-July during White Nights. Norwegian fjord waterfalls peak in June-July with snowmelt. Disney schedules most sailings May through early September, with no winter operations due to harsh conditions and limited daylight hours."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney Northern Europe cruises include exceptional value with rotational dining at three themed restaurants including Animator's Palate and Tiana's Place, unlimited soft drinks, coffee, tea, and ice cream at meals, and 24-hour room service. Entertainment encompasses original Disney musicals like 'Frozen, A Musical Spectacular,' deck parties with fireworks at sea, first-run Disney movies, and character meet-and-greets in Nordic costumes. Kids clubs are included for ages 3-17: Oceaneer Club (3-12), Edge (11-14), and Vibe (14-17). Fitness center, pools, and waterslides carry no surcharge. Not included are alcoholic beverages, specialty adult dining at Palo/Remy, shore excursions, WiFi, spa services, nursery care for under-3s, and gratuities (€14.50/person/day)."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Northern Europe itineraries feature culturally rich ports across the Baltic, Norway, and British Isles. Baltic cruises visit Copenhagen, Stockholm, Tallinn, overnight in St. Petersburg, and Helsinki. Norwegian fjords sailings include Bergen, Geiranger, Stavanger, and often Ålesund or Olden, with scenic cruising through UNESCO fjords. British Isles combinations add Edinburgh, Invergordon, and sometimes Dublin or Liverpool. Southampton and Copenhagen serve as primary homeports with occasional Barcelona departures for repositioning. St. Petersburg requires visa-free entry through Disney's approved tours. Geiranger and some Scottish ports are tender ports requiring water shuttle service. Disney offers exclusive port adventures including private castle access, Viking heritage experiences, and Frozen-themed Norwegian cultural programs unavailable through independent booking."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Disney recommends booking Northern Europe cruises 12-18 months in advance for optimal stateroom selection, particularly for connecting rooms, verandah cabins, and Concierge categories that sell out fastest. Disney releases European itineraries approximately 15 months before sailing with lowest prices typically available 12-15 months out. Families needing specific cabin configurations should book immediately upon release. Wave Season (January-March) often includes onboard credit incentives for early bookings. European residents may find resident rates 60-90 days before departure. Last-minute availability exists 30-45 days out at reduced rates, though cabin categories become severely limited. Final payment is due 90 days before sailing, when many cancellations occur and rebooking opportunities arise."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Northern Europe cruises excel for families with unmatched age-appropriate programming and educational cultural immersion. The Oceaneer Club features Frozen-themed activities, Marvel Super Hero Academy, and interactive storytelling tied to Nordic legends. tweens and teens have dedicated spaces with supervised activities and port excursions designed for independence. Disney's rotational dining ensures children experience varied themed restaurants nightly while parents enjoy adult-exclusive venues Palo and Remy. Staterooms accommodate families of 5-6 with split bathrooms unique to Disney. Port adventures include kid-friendly Viking experiences, princess castle visits, and hands-on cultural workshops. Babysitting in the It's a Small World Nursery (extra fee) allows adult evening exploration. The only limitation: Northern Europe's sophisticated history focus may challenge children under 5; Disney recommends ages 6+ for this itinerary."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line's cancellation policy for Northern Europe sailings imposes penalties based on departure proximity. Cancellations 90+ days before sailing receive full refund minus deposit. 89-45 days incurs deposit loss (typically €250-€500 per person). 44-30 days costs 50% of total fare. 29-15 days forfeits 75%, and 14 days or less loses 100% with no refund. Travel insurance through Disney or independent providers is strongly recommended given Northern Europe's weather variability and health considerations. Disney offers 'Cruise with Confidence' flexible booking on select sailings allowing changes without fees. COVID-19 policies have returned to standard terms; vaccination and testing requirements vary by port country. Rebooking on future sailings may be possible with Disney credit, subject to fare differences and availability restrictions."
+    }
+  ]
+}

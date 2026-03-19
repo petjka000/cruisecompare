@@ -1,0 +1,188 @@
+{
+  "title": "Disney Cruise Line British Isles Cruises 2026",
+  "intro": "Disney Cruise Line brings its signature enchantment to the British Isles, combining legendary storytelling with centuries of European history. Sail aboard Disney Dream or Disney Fantasy as you explore medieval castles, ancient Celtic ruins, and vibrant cities across England, Scotland, Ireland, and Wales. Disney's immersive entertainment extends beyond the ship with exclusive shore excursions featuring local folklore and history reimagined through Disney's creative lens. Adults appreciate refined dining and spa experiences, while children encounter beloved characters in historic settings. The British Isles itinerary uniquely balances educational discovery with Disney magic—imagine your family exploring Edinburgh's Royal Mile before returning to Broadway-caliber shows and fireworks at sea. With rotational dining, adults-only retreats, and dedicated youth clubs, Disney Cruise Line transforms British heritage into unforgettable family memories. These summer-season voyages represent Disney's most culturally immersive European experience.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "Jun",
+      "Jul",
+      "Aug"
+    ],
+    "ships_on_route": [
+      "Disney Dream",
+      "Disney Fantasy"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Copenhagen"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1899,
+      "balcony_eur": 2499,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 1599,
+      "balcony_eur": 2099,
+      "suite_eur": 3999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night British Isles from Southampton",
+      "duration_nights": 7,
+      "ports": [
+        "Southampton",
+        "Liverpool",
+        "Dublin",
+        "Cork",
+        "Portland",
+        "Southampton"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Liverpool's Beatles heritage and Dublin's literary history with Disney character experiences"
+    },
+    {
+      "name": "12-night British Isles & Iceland",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Edinburgh",
+        "Invergordon",
+        "Lerwick",
+        "Reykjavik",
+        "Akureyri",
+        "Greenock",
+        "Belfast",
+        "Southampton"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Disney's exclusive access to Edinburgh Castle and Northern Lights viewing opportunities"
+    },
+    {
+      "name": "10-night Western Europe & British Isles",
+      "duration_nights": 10,
+      "ports": [
+        "Copenhagen",
+        "Amsterdam",
+        "Zeebrugge",
+        "Le Havre",
+        "Southampton",
+        "Liverpool",
+        "Dublin",
+        "Cork",
+        "Southampton"
+      ],
+      "price_from_eur": 2399,
+      "highlight": "Disney's Marvel Day at Sea en route combined with Bruges medieval charm"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Dream",
+      "capacity": 4000,
+      "year": 2011,
+      "best_for": "Families with children 3-12",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Disney Fantasy",
+      "capacity": 4000,
+      "year": 2012,
+      "best_for": "Multi-generational families",
+      "price_from_eur": 1999
+    }
+  ],
+  "whats_included": [
+    "Rotational dining with table service",
+    "Disney character meet-and-greets",
+    "Broadway-style shows and deck parties",
+    "Youth clubs (ages 3-17)",
+    "Non-alcoholic beverages at meals",
+    "Room service",
+    "Fitness center access",
+    "Live music and entertainment"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty coffees",
+    "Port adventures and shore excursions",
+    "Palo and Remy adult dining",
+    "Spa and salon services",
+    "Nursery care for under 3s",
+    "Photography packages",
+    "Internet packages",
+    "Gratuities (EUR 14.50 per person/night)"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking incentives. Disney releases British Isles itineraries 15 months prior to sailing. Concierge staterooms and connecting rooms for families sell fastest. Consider booking during Disney's 'Wave Season' promotion (January-March) for reduced deposits and onboard credits. Castaway Club members receive early booking windows.",
+  "top_ports": [
+    {
+      "port": "Edinburgh (South Queensferry)",
+      "time_in_port": "7:30am-5:30pm",
+      "top_activity": "Disney-exclusive Edinburgh Castle experience (EUR 189)",
+      "tip": "Book Disney's private castle access—limited to 200 guests"
+    },
+    {
+      "port": "Dublin",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Disney Character Irish Heritage Tour (EUR 129)",
+      "tip": "Tender port—book early dining to avoid evening rush"
+    },
+    {
+      "port": "Liverpool",
+      "time_in_port": "7am-5:30pm",
+      "top_activity": "Beatles Magical History Tour (EUR 99)",
+      "tip": "Walkable from dock—explore Royal Albert Dock independently"
+    },
+    {
+      "port": "Reykjavik (Iceland sailings)",
+      "time_in_port": "10am-8pm",
+      "top_activity": "Blue Lagoon & Golden Circle (EUR 249)",
+      "tip": "Longer port stay allows independent exploration after Disney tour"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Giant's Causeway & Game of Thrones locations (EUR 159)",
+      "tip": "Disney offers exclusive Titanic Belfast after-hours access"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line British Isles cruise cost?",
+      "answer": "Disney Cruise Line British Isles cruises typically range from EUR 1,599 to EUR 4,899 per person for standard staterooms, with Concierge-level accommodations reaching EUR 6,500-12,000. Inside cabins start around EUR 1,599 during shoulder season (May/September) and climb to EUR 1,899-2,299 in peak summer. Oceanview staterooms command EUR 2,099-2,799, while verandah rooms run EUR 2,499-3,499. Suites including Royal and Concierge categories range EUR 3,999-12,000 depending on sailing and suite level. Prices include rotational dining, character experiences, and youth programming but exclude gratuities, alcohol, and port adventures. British Isles itineraries command premium pricing due to limited seasonal deployment and high demand from European and North American families."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to British Isles?",
+      "answer": "Disney Cruise Line deploys Disney Dream and Disney Fantasy for British Isles itineraries, with Disney Dream handling the majority of 7-night Southampton round-trips and Disney Fantasy operating longer 10-12 night voyages including Iceland and Northern Europe. Both 4,000-passenger vessels feature Disney's signature split-atrium design, AquaDuck water coaster, and dedicated British Isles programming including themed menus and regional entertainment. Disney Dream underwent 2023 dry-dock enhancements adding Rapunzel's Royal Table. Disney Fantasy offers the additional attraction of the Marvel Super Hero Academy in youth spaces. Neither Disney Wish nor Disney Treasure currently operate British Isles routes, though this may expand with Disney's growing fleet. Ship assignment typically rotates every 2-3 years based on dry-dock schedules."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "The optimal window for Disney Cruise Line British Isles cruises spans June through August when daylight extends past 10pm and temperatures reach 15-22°C. July offers the warmest conditions and most reliable weather for outdoor deck activities and port exploration, though crowds peak during school holidays. June provides excellent value with longer days, blooming gardens, and lower pricing before peak season. August brings Edinburgh Festival Fringe atmosphere when calling at South Queensferry. May and September shoulder seasons offer 15-20% savings but risk cooler temperatures (10-16°C) and occasional rain disrupting pool deck programming. Disney schedules no British Isles sailings October-April due to rough seas and limited daylight. Northern Lights itineraries in late August-September provide unique astronomical opportunities but require warmer clothing packing."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney Cruise Line British Isles fares encompass substantial inclusions distinguishing the premium product. All meals feature rotational dining through three themed restaurants with assigned servers following your party, plus unlimited casual dining at Cabanas and quick-service venues. Character meet-and-greets require no additional fees—unlike Disney parks—including princess gatherings and Marvel appearances on select sailings. Entertainment includes original Broadway-caliber productions (Frozen, Beauty and the Beast), deck parties with fireworks at sea, first-run Disney films in 4D theaters, and live music throughout lounges. Youth programming spans secured clubs for ages 3-17 with trained counselors, while adults access dedicated pools, fitness facilities, and nightlife venues. Non-alcoholic beverages at meals, room service, and basic Wi-Fi for Disney Cruise Line Navigator app usage complete the package. Gratuities, alcohol, specialty coffee, spa services, and port adventures require supplemental payment."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Cruise Line British Isles itineraries feature strategically selected ports maximizing both cultural immersion and family accessibility. Southampton serves as primary embarkation hub with pre-cruise London extension options. Liverpool delivers Beatles heritage and waterfront regeneration accessible via short walk from dock. Dublin and Cork (Cobh) provide Irish immersion with Disney-exclusive experiences at castles and folklore sites. Edinburgh (South Queensferry) offers Disney's signature private Edinburgh Castle access unavailable to independent travelers. Invergordon accesses Scottish Highlands and Loch Ness mythology. Extended Iceland sailings incorporate Reykjavik's geothermal wonders and Akureyri's northern landscapes. Belfast presents Titanic heritage and Giant's Causeway natural wonders. Amsterdam, Zeebrugge (Bruges), and Le Havre (Paris) appear on Western Europe combination itineraries. Disney prioritizes ports with manageable tender operations or direct dock access, minimizing complexity for families with young children and mobility considerations."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Disney Cruise Line British Isles cruises demand exceptional advance planning due to limited seasonal deployment and intense family demand. Booking windows open 15 months prior to sailing for general public, with Castaway Club members (past cruisers) accessing Silver (90 days early), Gold (105 days), and Platinum (120 days) privileges. Concierge staterooms and desirable connecting rooms for multi-generational families frequently sell out within 48 hours of release. Optimal booking occurs 12-18 months ahead securing preferred dining rotation, early/late seating, and port adventure availability. Last-minute British Isles inventory rarely discounts below 60 days due to European school holiday patterns. Disney's 'Wave Season' (January-March) offers reduced deposits and onboard credits for advance bookings. Consider using Disney's placeholder reservation system if exact dates remain uncertain—EUR 250 deposits hold pricing for future conversion."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Cruise Line British Isles cruises represent the industry's gold standard for multi-generational family travel, uniquely balancing educational destination immersion with entertainment infrastructure preventing child boredom during historical excursions. The It's a Small World Nursery (ages 6 months-3 years, extra fee) and complimentary Oceaneer Club/Lab (ages 3-12), Edge (11-14), and Vibe (14-17) provide supervised programming allowing parents independent exploration of Edinburgh Castle or Dublin's literary pubs. Rotational dining eliminates mealtime decisions while accommodating picky eaters. Disney characters appear in culturally contextualized settings—imagine Mickey in Scottish tartan or princesses in medieval castle backdrops. Evening entertainment satisfies all ages simultaneously through deck fireworks, family-friendly shows, and adults-only lounge alternatives. Staterooms designed for family occupancy include split bathrooms and Murphy beds. The primary consideration: British Isles weather requires indoor backup plans, where Disney's enclosed pool areas and extensive programming shine versus competitors."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line British Isles cancellation policies impose stricter penalties than many competitors reflecting premium positioning and high demand. Cancellations 90+ days prior to sailing incur deposit forfeiture only (typically EUR 250-20% of fare depending on cruise length). 89-45 days triggers 50% cancellation fee of total fare. 44-30 days demands 75% forfeiture. Final payment due 90 days before sailing triggers 100% penalty for cancellations within 29 days. Travel insurance through Disney or independent providers strongly recommended given British Isles weather variability and European air connection complexity. 'Cancel for Any Reason' upgrades provide 75% future cruise credit versus standard 100% cash reimbursement for covered reasons. COVID-19 protocols eliminated most flexibility; current policies returned to pre-pandemic structure. Rebooking to alternate British Isles sailing within 12 months may transfer deposits minus EUR 50 change fee if completed before penalty dates. Concierge bookings carry enhanced deposit requirements and modified terms."
+    }
+  ]
+}

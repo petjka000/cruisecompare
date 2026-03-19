@@ -1,0 +1,142 @@
+{
+  "title": "Princess Cruises vs Cunard Line 2026",
+  "intro": "Princess Cruises and Cunard Line represent two distinct approaches to premium ocean cruising under the Carnival Corporation umbrella. Princess offers contemporary, destination-focused voyages with broad appeal across demographics, while Cunard preserves British maritime traditions with formal elegance and transatlantic heritage. Both operate mid-sized to large vessels, yet cater to markedly different traveller psychologies—Princess emphasises relaxed accessibility and innovative entertainment, Cunard prioritises refined ceremony and intellectual enrichment. Your choice hinges on whether you seek casual sophistication with flexible dining and family amenities, or structured grandeur with white-glove service and ballroom culture. Pricing remains surprisingly comparable, making this decision primarily about atmosphere and personal cruising philosophy.",
+  "at_a_glance": {
+    "princess": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "cunard": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 949
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "princess": "€899",
+      "cunard": "€949"
+    },
+    {
+      "category": "Passenger capacity",
+      "princess": "2,670-4,300",
+      "cunard": "2,081-2,691"
+    },
+    {
+      "category": "Dress code evenings",
+      "princess": "Smart casual, 1-2 formal optional",
+      "cunard": "Gala evenings, strict formal required"
+    },
+    {
+      "category": "Dining structure",
+      "princess": "Anytime Dining, flexible",
+      "cunard": "Traditional set seating, two sittings"
+    },
+    {
+      "category": "Children's facilities",
+      "princess": "Comprehensive, ages 6 months-17",
+      "cunard": "Limited, no dedicated teen spaces"
+    },
+    {
+      "category": "Entertainment style",
+      "princess": "Broadway-style shows, Movies Under Stars",
+      "cunard": "Lectures, ballroom dancing, string quartets"
+    },
+    {
+      "category": "Onboard currency",
+      "princess": "USD",
+      "cunard": "USD (GBP on QM2 transatlantic)"
+    },
+    {
+      "category": "Gratuities (daily)",
+      "princess": "€16-18",
+      "cunard": "€16"
+    },
+    {
+      "category": "Wi-Fi packages",
+      "princess": "MedallionNet from €9.99/day",
+      "cunard": "Essential from €16/day"
+    },
+    {
+      "category": "Alcohol packages",
+      "princess": "Plus Beverage €65/day",
+      "cunard": "Drinks Package €55/day"
+    }
+  ],
+  "choose_a_if": [
+    "You prefer flexible dining without fixed meal times or table assignments",
+    "Travelling with children or teenagers who need dedicated clubs and activities",
+    "You want contemporary entertainment like Broadway productions and outdoor cinema",
+    "Destination immersion matters more than shipboard traditions",
+    "You value casual dress codes and relaxed atmosphere",
+    "Medallion wearable technology for seamless service appeals to you",
+    "You cruise frequently and want consistent, predictable experiences"
+  ],
+  "choose_b_if": [
+    "You appreciate formal evenings with black-tie requirements and ballroom dancing",
+    "Intellectual enrichment through guest lectures and classical music matters",
+    "You prefer structured days with set dining times and traditional service",
+    "Transatlantic crossings and maritime heritage hold special appeal",
+    "You seek adult-oriented atmosphere with minimal children",
+    "British service standards and afternoon tea rituals attract you",
+    "You value smaller passenger numbers and more intimate public spaces"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with young children",
+      "winner": "Princess Cruises",
+      "reason": "Princess offers comprehensive kids' clubs from 6 months, dedicated teen spaces, family pools and flexible dining that accommodates unpredictable schedules."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Tie",
+      "reason": "Princess offers intimate balcony dining and Sanctuary retreats; Cunard provides ballroom glamour and afternoon tea. Both excel differently."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Cunard Line",
+      "reason": "Cunard's structured dining facilitates social connection at shared tables, while single occupancy supplements are often lower than Princess."
+    },
+    {
+      "type": "Luxury seekers",
+      "winner": "Cunard Line",
+      "reason": "Cunard's Grills experience with butler service and exclusive restaurants edges closer to true luxury, though both remain premium rather than ultra-luxury."
+    },
+    {
+      "type": "Active seniors",
+      "winner": "Princess Cruises",
+      "reason": "Princess offers more accessible fitness programmes, pickleball courts and varied enrichment without the physical demands of formal evenings."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Princess Cruises",
+      "reason": "Lower barrier to entry with flexible options, less intimidating dress codes and more intuitive modern systems reduce anxiety for novices."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Princess generally delivers superior value for mainstream cruisers, with comparable base fares but more inclusions at lower tiers. Your fare covers MedallionNet Wi-Fi on select packages, and beverage packages run €10 less daily. Cunard's base fare appears competitive but nickel-and-diming accumulates—specialty dining carries premiums, and strict formal requirements necessitate wardrobe investment. However, Cunard's transatlantic crossings offer exceptional per-day value given the extended sea days and included enrichment. For seven-night Caribbean or Mediterranean itineraries, Princess wins on pure economics. For crossing enthusiasts, Cunard's Queen Mary 2 justifies modest premium through unique experience unavailable elsewhere."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Princess Cruises dominates decisively for family travel. Their Discovery at SEA programme partners with Discovery and Animal Planet, offering immersive educational activities. Kids' clubs span ages 6 months through 17 with dedicated teen lounges, unlike Cunard's limited Pelican and Play Zone for younger children only. Princess provides family suites, interconnecting cabins, and flexible dining that accommodates irregular meal times. Movies Under the Stars creates shared evening entertainment. Cunard actively discourages young families—no dedicated teen programming, limited children's hours, and formal evenings prove challenging for youngsters. Cunard's minimum age for sailing is six months versus Princess's four months, but the onboard experience gap remains substantial."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Direct comparison proves complex due to differing inclusions. Princess's 2026 seven-night Mediterranean inside cabins average €899, Cunard's comparable €949. However, Princess frequently runs promotions including drinks packages and Wi-Fi, narrowing effective gaps. Cunard's transatlantic crossings command premiums—seven-night eastbound crossings start €1,199 inside—but per-day costs compete favourably given comprehensive sea day programming. Gratuities align at approximately €16 daily. Where Cunard extracts additional revenue: specialty dining (€35-55pp), photos, and strict formal attire requirements. Princess's MedallionNet Wi-Fi undercuts Cunard's packages significantly. Ultimately, comparable seven-night itineraries show 5-10% Princess advantage, though promotional timing dramatically affects final pricing."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Cunard wins on traditional dining quality and service ceremony, Princess on variety and innovation. Cunard's main dining rooms execute classic continental cuisine with precision—think chateaubriand carved tableside, soufflés requiring advance ordering. Their Grills restaurants (Princess Grill, Queens Grill) genuinely compete with luxury lines. However, Cunard's buffet and casual options disappoint, and rigid dining times frustrate. Princess offers superior flexibility through Anytime Dining, plus standout specialty venues like Sabatini's Italian and Crown Grill steakhouse. Their culinary programme emphasises regional destination cuisine. Princess's Horizon Court buffet exceeds Cunard's Kings Court in variety and quality. For food-focused travellers wanting flexibility, Princess prevails; for ceremonial dining traditionalists, Cunard satisfies."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Princess Cruises proves overwhelmingly superior for cruise novices. Their MedallionClass technology eliminates friction—automatic doors, contactless payment, and location-aware service reduce anxiety for inexperienced travellers. Flexible dining means no commitment to fixed meal times while learning personal preferences. Casual dress codes prevent wardrobe panic. The contemporary atmosphere feels accessible rather than intimidating. Princess's larger ships offer more hiding places and activity variety for those uncertain about sea days. Cunard's structured formality, required gala attire, and fixed seating create pressure first-timers may find overwhelming. Cunard assumes cruising competence; Princess cultivates it. Post-voyage, Princess graduates report higher likelihood of repeat cruising than Cunard initiates."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental distinctions centre on flexibility versus tradition. Princess operates contemporary resort-style cruising: flexible dining, casual dress, family orientation, technology integration, and destination focus. Cunard preserves ocean liner heritage: fixed dining times, mandatory formal evenings, adult atmosphere, maritime rituals, and ship-as-destination philosophy. Princess builds around Princess Medallion wearable enabling seamless service; Cunard maintains human hierarchy with white-glove formality. Princess's entertainment emphasises production shows and outdoor screens; Cunard's features lectures, ballroom dancing, and classical music. Princess carries 2,700-4,300 passengers across classes; Cunard's fleet remains smaller and more intimate. Neither superior absolutely—Princess suits adaptable, experience-seeking travellers; Cunard rewards those seeking structured elegance and nostalgic maritime atmosphere."
+    }
+  ]
+}

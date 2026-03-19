@@ -1,0 +1,200 @@
+{
+  "title": "Norwegian Cruise Line Australia & Pacific Cruises 2026",
+  "intro": "Norwegian Cruise Line brings its signature Freestyle Cruising to Australia and the South Pacific, offering unparalleled flexibility for exploring this stunning region. Unlike traditional cruise lines with fixed dining times and formal nights, NCL lets you dine when and where you want as you sail from Sydney's iconic harbour to the pristine beaches of Fiji, the volcanic landscapes of New Caledonia, and the Great Barrier Reef. The Australia & Pacific itineraries balance cosmopolitan city experiences with remote island escapes, perfect for travellers seeking both adventure and relaxation. NCL's ships in this region feature extensive aqua parks, Broadway-calibre entertainment, and diverse dining options from casual buffets to specialty restaurants. With overnight stays in key ports and extended time ashore, you can fully immerse yourself in Aboriginal culture, world-class wine regions, and some of the planet's most spectacular marine ecosystems.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "10-16 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Norwegian Spirit",
+      "Norwegian Sun",
+      "Norwegian Star"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Auckland",
+      "Melbourne"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/Mar)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1699,
+      "balcony_eur": 2499,
+      "suite_eur": 3799
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 2199,
+      "balcony_eur": 3299,
+      "suite_eur": 4999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Australia & New Zealand",
+      "duration_nights": 12,
+      "ports": [
+        "Sydney",
+        "Melbourne",
+        "Dunedin",
+        "Wellington",
+        "Napier",
+        "Tauranga",
+        "Auckland"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Two countries, seven ports including overnight in Auckland"
+    },
+    {
+      "name": "10-night South Pacific from Sydney",
+      "duration_nights": 10,
+      "ports": [
+        "Sydney",
+        "Brisbane",
+        "Mystery Island",
+        "Nouméa",
+        "Isle of Pines",
+        "Sydney"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Tropical island hopping with two sea days"
+    },
+    {
+      "name": "14-night Australia & Indonesia Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Sydney",
+        "Brisbane",
+        "Cairns",
+        "Darwin",
+        "Bali (Benoa)",
+        "Komodo",
+        "Darwin"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Exotic Indonesia with Komodo dragon encounters"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Norwegian Spirit",
+      "capacity": 2016,
+      "year": 2020,
+      "best_for": "Intimate destination immersion",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Norwegian Sun",
+      "capacity": 1936,
+      "year": 2018,
+      "best_for": "Value-conscious travellers",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Norwegian Star",
+      "capacity": 2348,
+      "year": 2015,
+      "best_for": "Balcony lovers",
+      "price_from_eur": 1399
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "Main dining room meals",
+    "Buffet restaurant access",
+    "Entertainment shows",
+    "Fitness centre access",
+    "Kids club programmes",
+    "Port taxes"
+  ],
+  "whats_extra": [
+    "Specialty dining ($15-50 per person)",
+    "Beverage packages (from €89/day)",
+    "Shore excursions (€59-399)",
+    "Spa treatments",
+    "WiFi packages",
+    "Casino",
+    "Laundry services",
+    "Gratuities (€16/day per person)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; watch for Free at Sea promotions including beverage packages and specialty dining; consider repositioning cruises in October/November for 30-40% savings",
+  "top_ports": [
+    {
+      "port": "Sydney",
+      "time_in_port": "7am-5pm (embark/disembark often)",
+      "top_activity": "Sydney Harbour BridgeClimb (€189)",
+      "tip": "Arrive two days early to recover from jet lag"
+    },
+    {
+      "port": "Great Barrier Reef (Cairns)",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Helicopter to outer reef with landing (€349)",
+      "tip": "Book reef excursions early—weather cancels are common"
+    },
+    {
+      "port": "Nouméa, New Caledonia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Amedee Island snorkelling with marine reserve (€129)",
+      "tip": "French territory—euros accepted, excellent patisseries"
+    },
+    {
+      "port": "Bali (Benoa)",
+      "time_in_port": "8am-6pm (overnight on some itineraries)",
+      "top_activity": "Ubud rice terraces and temple tour (€89)",
+      "tip": "Use ship's shuttle or Grab app—taxi scams common"
+    },
+    {
+      "port": "Auckland",
+      "time_in_port": "10am-8pm or overnight",
+      "top_activity": "Waiheke Island wine tour (€159)",
+      "tip": "Overnight stays allow dinner at Sky Tower restaurants"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Norwegian Cruise Line Australia & Pacific cruise cost?",
+      "answer": "Norwegian Cruise Line Australia & Pacific cruises typically range from €1,199 for interior cabins on shoulder-season 10-night sailings to €4,999 for suites during peak Christmas periods. Most travellers spend €1,699-€2,499 for balcony cabins on 12-night itineraries. The Free at Sea promotion can add significant value—often including unlimited drinks, specialty dining, shore excursion credits, and WiFi worth €800-€1,200. Factor in flights to Sydney or Auckland (€900-€1,400 return from Europe), pre-cruise accommodation, and onboard spending of €400-€800 per person for a realistic total budget."
+    },
+    {
+      "question": "Which Norwegian Cruise Line ships sail to Australia & Pacific?",
+      "answer": "Norwegian Cruise Line deploys three primarily refurbished ships to Australia & Pacific: Norwegian Spirit (2,016 passengers, extensively renovated 2020) offers the most intimate experience with enhanced suites; Norwegian Sun (1,936 passengers, refurbished 2018) provides excellent value with 10 dining venues; and Norwegian Star (2,348 passengers, 2015 refurbishment) features the most balcony cabins. These mid-sized vessels can access smaller Pacific islands that mega-ships cannot, while still offering NCL's signature amenities like the Spice H2O adults-only retreat and extensive specialty dining. Ship assignments rotate seasonally, with Norwegian Spirit typically handling the most exotic Indonesia itineraries."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "The optimal cruising season runs November through March, coinciding with Australian summer and dry season in the South Pacific. December to February offers warmest waters (26-29°C) ideal for Great Barrier Reef snorkelling, though this is peak pricing period. November and March provide 20% lower fares with excellent weather and fewer crowds. Avoid April-October when cyclone risk exists in tropical regions and southern Australian ports become chilly. Christmas and New Year sailings command premium prices but feature special celebrations. For wildlife enthusiasts, November-December aligns with coral spawning and whale shark season on Ningaloo Reef extensions."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Norwegian Cruise Line includes accommodation in your chosen category, all meals in main dining rooms and buffets, complimentary dining at O'Sheehan's Neighbourhood Bar & Grill, entertainment including Broadway-style shows and comedy clubs, supervised kids programmes for ages 3-17, fitness centre access, and port taxes. The unique Freestyle Cruising concept means no fixed dining times, no formal dress codes, and no assigned seating. Not included are specialty restaurants, alcoholic beverages, shore excursions, WiFi, spa services, and gratuities (€16 per person daily). The valuable Free at Sea promotion often bundles drinks, dining credits, excursion credits, and WiFi when booking—always compare this inclusive fare against base pricing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Norwegian Cruise Line Australia & Pacific itineraries feature diverse ports spanning cosmopolitan cities to remote islands. Australian highlights include Sydney (overnight possible), Melbourne's cultural scene, Brisbane's gateway to Gold Coast, and Cairns for Great Barrier Reef access. New Zealand calls encompass Auckland, the geothermal wonders of Tauranga, Art Deco Napier, Wellington's craft beer scene, and Scottish-influenced Dunedin. South Pacific gems include Nouméa's French sophistication in New Caledonia, Isle of Pines' pristine beaches, Fiji's Dravuni Island, and Vanuatu's Mystery Island. Extended voyages reach Indonesia's Komodo Island for dragon viewing and Bali's spiritual Ubud. Port times vary from 8 hours to overnight stays, with tendering required at smaller islands."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Norwegian Cruise Line Australia & Pacific cruises, book 9-12 months ahead for optimal cabin selection, particularly for balcony staterooms and suites which comprise limited inventory on these ships. Holiday season sailings (December-January) should be secured 12-18 months in advance as they sell out completely. The best promotional pricing typically appears 10-11 months prior when NCL releases Free at Sea offers. Last-minute deals under 60 days occasionally appear for shoulder season, but cabin categories are restricted. Airfare to Australia requires similar advance planning—coordinate cruise booking with flight availability. Deposit structures are favourable: usually €250 per person with final payment 90 days before sailing."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Norwegian Cruise Line excels for families in Australia & Pacific with complimentary Splash Academy for ages 3-17, featuring educational programmes about marine biology and indigenous cultures relevant to the itinerary. Teens enjoy Entourage nightclub and dedicated hangout spaces. Family-friendly accommodations include connecting staterooms and spacious mini-suites. The casual Freestyle dining eliminates stress of formal nights with restless children. However, sea days between distant Pacific ports can challenge younger children—shorter 10-night itineraries work better than 14-night voyages for families. Shore excursions cater well to families with reef snorkelling, wildlife parks, and beach breaks. Note that Australian school holidays (mid-December to late January) bring heavy family crowds and premium pricing."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Norwegian Cruise Line's Australia & Pacific cancellation policy operates on a tiered structure: cancel 120+ days before sailing for full refund minus €25 processing fee; 119-90 days loses deposit; 89-61 days forfeits 25% of total fare; 60-31 days loses 50%; 30 days or less retains 100% with no refund. Travel insurance is strongly recommended given high airfare costs to reach embarkation ports. NCL's Peace of Mind policy allows one fee-free cruise change if made 15 days prior to sailing, though fare differences apply. For bookings made as part of Free at Sea promotions, cancellation of promotional perks follows the same timeline. Consider Cancel For Any Reason insurance covering 75% of non-refundable costs for maximum protection on this significant investment."
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "title": "Oceania Cruises Northern Europe Cruises 2026",
+  "intro": "Oceania Cruises elevates Northern Europe exploration through its refined, destination-focused approach aboard intimate, luxurious vessels. Unlike mass-market alternatives, Oceania's mid-size ships—carrying just 670-1,200 guests—navigate closer to historic Baltic capitals, Norwegian fjords, and remote Arctic harbours inaccessible to larger competitors. The line's acclaimed Culinary Centre and hands-on cooking classes complement immersive shore excursions led by expert local guides. Savouring authentic regional cuisine crafted by Master Chef Jacques Pépin, guests witness the midnight sun illuminate Iceland's volcanic landscapes, trace Viking heritage through Scandinavia, and discover St. Petersburg's imperial splendour on extended overnight stays. Oceania's inclusive value proposition—encompassing complimentary dining across multiple specialty venues, unlimited internet, and shore excursion credits—positions these voyages as exceptional investments for discerning travellers seeking cultural depth without sacrificing comfort.",
+  "quick_facts": {
+    "price_from_eur": 2849,
+    "duration_range": "10-24 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Marina",
+      "Vista",
+      "Nautica",
+      "Sirena"
+    ],
+    "departure_ports": [
+      "Copenhagen",
+      "Stockholm",
+      "Amsterdam",
+      "Southampton",
+      "Reykjavik"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May, September)",
+      "inside_eur": 2849,
+      "balcony_eur": 3899,
+      "suite_eur": 6499
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 3499,
+      "balcony_eur": 4899,
+      "suite_eur": 7999
+    },
+    {
+      "season": "Late Season (October)",
+      "inside_eur": 2599,
+      "balcony_eur": 3599,
+      "suite_eur": 5899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Viking Homelands",
+      "duration_nights": 12,
+      "ports": [
+        "Copenhagen",
+        "Oslo",
+        "Kristiansand",
+        "Stavanger",
+        "Flam",
+        "Alesund",
+        "Hellesylt",
+        "Geiranger",
+        "Bergen",
+        "Southampton"
+      ],
+      "price_from_eur": 3899,
+      "highlight": "Comprehensive Norwegian fjords with two UNESCO Geirangerfjord visits"
+    },
+    {
+      "name": "Baltic Marvels",
+      "duration_nights": 10,
+      "ports": [
+        "Stockholm",
+        "Helsinki",
+        "St. Petersburg",
+        "Tallinn",
+        "Riga",
+        "Klaipeda",
+        "Gdansk",
+        "Copenhagen"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Three-day St. Petersburg stay with Hermitage private viewing"
+    },
+    {
+      "name": "Iceland & British Isles Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Reykjavik",
+        "Isafjordur",
+        "Akureyri",
+        "Torshavn",
+        "Lerwick",
+        "Invergordon",
+        "Edinburgh",
+        "Dublin",
+        "Cork",
+        "Portsmouth"
+      ],
+      "price_from_eur": 4599,
+      "highlight": "Circumnavigation of Iceland with Faroe Islands discovery"
+    },
+    {
+      "name": "Arctic & Northern Capitals",
+      "duration_nights": 18,
+      "ports": [
+        "Amsterdam",
+        "Eidfjord",
+        "Alesund",
+        "Tromso",
+        "Honningsvag",
+        "Longyearbyen",
+        "Reykjavik",
+        "Greenock",
+        "Belfast",
+        "Liverpool",
+        "Dublin"
+      ],
+      "price_from_eur": 5899,
+      "highlight": "Svalbard archipelago expedition with polar bear spotting opportunities"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Culinary enthusiasts & extended Baltic exploration",
+      "price_from_eur": 2999
+    },
+    {
+      "name": "Vista",
+      "capacity": 1200,
+      "year": 2023,
+      "best_for": "Contemporary luxury seekers with newest amenities",
+      "price_from_eur": 3499
+    },
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "refurbished": 2022,
+      "best_for": "Intimate port access & boutique atmosphere",
+      "price_from_eur": 2849
+    },
+    {
+      "name": "Sirena",
+      "capacity": 670,
+      "year": 1999,
+      "refurbished": 2019,
+      "best_for": "Authentic small-ship experience with wellness focus",
+      "price_from_eur": 2799
+    }
+  ],
+  "whats_included": [
+    "Unlimited dining across all specialty restaurants",
+    "Unlimited Starlink-powered WiFi",
+    "Complimentary room service",
+    "Beverages including select wines with lunch and dinner",
+    "Shore excursion credit (EUR 600-1,200 per stateroom)",
+    "Airport transfers",
+    "Pre-paid gratuities",
+    "Fitness centre and wellness classes",
+    "Enrichment lectures and destination seminars",
+    "Self-service laundry"
+  ],
+  "whats_extra": [
+    "Premium beverage packages and vintage wines",
+    "Additional shore excursions beyond credit",
+    "Spa treatments and salon services",
+    "The Culinary Centre hands-on cooking classes",
+    "Artist Loft creative workshops",
+    "Airfare (unless promotional package selected)",
+    "Travel insurance",
+    "Pre- and post-cruise hotel stays",
+    "Specialty dining reservations for large groups",
+    "Satellite phone usage"
+  ],
+  "booking_strategy": "Secure reservations 12-18 months ahead for optimal stateroom selection and early booking amenities including free shore excursions, onboard credit, and beverage packages. Oceania's OLife Choice promotions typically release 18 months prior to departure. Shoulder season departures in May and September offer 15-20% savings with fewer crowds at major attractions. Consider repositioning crossings between Northern Europe and Mediterranean for exceptional value. Solo travellers should monitor single supplement waiver promotions, periodically offered at 0-25% rather than standard 100%. Last-minute availability within 60 days occasionally yields 30% reductions but limits cabin category selection.",
+  "top_ports": [
+    {
+      "port": "St. Petersburg, Russia",
+      "time_in_port": "2-3 days overnight",
+      "top_activity": "Hermitage Museum private after-hours tour (EUR 189)",
+      "tip": "Obtain Russian visa or book ship-sponsored excursion for visa-free entry"
+    },
+    {
+      "port": "Geirangerfjord, Norway",
+      "time_in_port": "Scenic cruising 6-8 hours",
+      "top_activity": "Dalsnibba viewpoint via Eagle Road (EUR 129)",
+      "tip": "Reserve portside balcony for optimal waterfall photography"
+    },
+    {
+      "port": "Tromso, Norway",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Arctic Cathedral and cable car to Fjellheisen (EUR 95)",
+      "tip": "Midnight sun visibility late May-July; aurora possible September sailings"
+    },
+    {
+      "port": "Reykjavik, Iceland",
+      "time_in_port": "Overnight 2 days",
+      "top_activity": "Golden Circle and Blue Lagoon combination (EUR 249)",
+      "tip": "Independent exploration viable; walk to Harpa concert hall from port"
+    },
+    {
+      "port": "Copenhagen, Denmark",
+      "time_in_port": "Embarkation/overnight",
+      "top_activity": "Tivoli Gardens evening admission (EUR 45)",
+      "tip": "Arrive 2 days early for Nyhavn and Christiania district exploration"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Northern Europe cruise cost?",
+      "answer": "Oceania Cruises Northern Europe voyages range from EUR 2,599 to EUR 8,000+ per person for cruise-only fares, depending on season, duration, and accommodation category. Shoulder season 10-night itineraries in balcony staterooms typically start at EUR 3,200, while peak summer 14-night suite accommodations exceed EUR 7,500. OLife Choice promotions frequently add significant value through included airfare, shore excursion credits worth EUR 600-1,200, and beverage packages. All fares include specialty dining, WiFi, and gratuities—unlike competitors charging premiums for these amenities. Taxes and port fees add approximately EUR 250-450 per person."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Northern Europe?",
+      "answer": "Four Oceania vessels operate Northern Europe itineraries in 2026. Marina (1,250 guests, 2011) and Vista (1,200 guests, 2023) serve as primary Baltic and Norwegian fjord specialists with extensive specialty restaurant options. The intimate Nautica and Sirena (670 guests each) access narrower waterways and smaller ports including Flam, Hellesylt, and Scottish island harbours impossible for larger vessels. Vista, Oceania's newest ship, features expanded Culinary Centre and Aquamar wellness venues. Marina offers the Bon Appétit Culinary Center and Artist Loft. All four vessels maintain the line's acclaimed 1:1.6 crew-to-guest ratio ensuring personalised service throughout extended Baltic and Arctic voyages."
+    },
+    {
+      "question": "When is best time to cruise Northern Europe?",
+      "answer": "June through August delivers optimal Northern Europe cruising conditions with temperatures averaging 15-22°C, extended daylight hours, and fully operational tourist infrastructure. July offers the midnight sun above the Arctic Circle, ideal for Norway's fjords and Iceland's volcanic landscapes. May and September provide 15-20% fare reductions with fewer crowds, though some attractions maintain limited hours; September sailings may encounter early aurora borealis activity. St. Petersburg's White Nights festival in late June creates magical evening atmospheres. Avoid October when daylight diminishes rapidly and Baltic ports reduce services. Weather remains unpredictable throughout—packing layers and waterproof outerwear proves essential regardless of departure month."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's inclusive Northern Europe experience encompasses unlimited dining across all specialty venues including French, Italian, Asian, and steakhouse restaurants—no surcharges or reservations required. Complimentary Starlink-powered unlimited WiFi, pre-paid gratuities, and select wines with lunch and dinner eliminate typical onboard expense accumulation. Each stateroom receives shore excursion credits (EUR 600-1,200 depending on voyage length) applicable toward curated small-group tours. Room service, fitness facilities, enrichment lectures, and self-service laundry carry no additional fees. Beverage packages, spa treatments, premium shore excursions beyond credits, and Culinary Centre cooking classes incur extra charges. This value structure particularly benefits Northern Europe's port-intensive itineraries where competitors' specialty dining and excursion costs escalate rapidly."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Northern Europe network spans 40+ ports across Scandinavia, the Baltic states, British Isles, Iceland, and Arctic Norway. Signature destinations include St. Petersburg (2-3 day overnight stays enabling comprehensive imperial palace exploration), Norwegian fjord villages Geiranger and Flam accessible only to smaller vessels, and Iceland's Reykjavik with overnight stays for Golden Circle excursions. Arctic itineraries reach Honningsvag (North Cape) and Longyearbyen, Svalbard's northernmost settlement. Baltic capitals Copenhagen, Stockholm, Helsinki, Tallinn, and Riga feature prominently. British Isles calls include Edinburgh, Dublin, Belfast, and remote Scottish islands. German ports Warnemunde (Berlin access) and Kiel complement Polish Gdansk and Lithuanian Klaipeda for comprehensive historical and cultural immersion unavailable on mainstream alternatives."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Reserve Oceania Northern Europe cruises 12-18 months before departure to secure preferred stateroom categories, particularly Concierge Level verandas and Penthouse Suites selling rapidly on limited-capacity vessels. Early booking through OLife Choice promotions typically includes complimentary shore excursions, onboard credit, and beverage packages worth EUR 800-1,500 combined. Popular itineraries like 12-night Viking Homelands and Baltic Marvels with St. Petersburg overnights frequently reach capacity 9-12 months out. Solo travellers benefit from monitoring periodic single supplement reductions to 0-25%. Last-minute bookings within 60 days occasionally yield 25-35% savings but restrict cabin selection to interior or obstructed views. Deposit requirements run EUR 1,000-2,500 per person with final payment due 90-120 days pre-departure."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises intentionally targets adult travellers seeking sophisticated cultural immersion rather than family vacationers. No dedicated children's facilities, youth programmes, or family accommodations exist aboard Marina, Vista, Nautica, or Sirena. Minimum age requirements restrict bookings to guests 18+ on most sailings, with occasional 16+ exceptions for family groups occupying multiple staterooms. The extended port days, enrichment-focused programming, and refined dining atmosphere suit mature teenagers and adult children travelling with parents, particularly those interested in history, cuisine, and art. Families with young children should consider alternative lines; however, multi-generational groups of adults find Oceania's intimate scale, inclusive value, and destination depth ideal for shared Northern Europe exploration without competing with children's programming demands."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania Cruises applies a tiered cancellation structure: deposits are fully refundable until 120 days before departure for standard bookings, though promotional fares may carry stricter terms. Cancellations 119-90 days prior incur loss of deposit (EUR 1,000-2,500). Between 89-60 days, penalty rises to 25% of total fare; 59-30 days triggers 50% forfeiture; and final month cancellations result in 100% loss. Cancel For Any Reason protection, available for purchase within 14 days of initial deposit, provides 75% future cruise credit valid 12 months from cancellation date. Travel insurance through Oceania's preferred providers or independent carriers covering trip interruption and medical evacuation is strongly recommended given Northern Europe's remote Arctic destinations and substantial prepaid costs."
+    }
+  ]
+}

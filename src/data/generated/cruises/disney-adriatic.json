@@ -1,0 +1,198 @@
+{
+  "title": "Disney Cruise Line Adriatic Cruises 2026",
+  "intro": "Disney Cruise Line brings its signature magic to the Adriatic Sea, combining enchanting family entertainment with the stunning coastal landscapes of Croatia, Montenegro, and Italy. Sail aboard the Disney Dream or Disney Fantasy as you explore medieval walled cities, sapphire-blue waters, and sun-drenched islands that captivate both children and adults. Disney's immersive storytelling comes alive through Broadway-caliber shows, character meet-and-greets, and dedicated youth clubs, while parents enjoy adult-exclusive dining and serene spa retreats. The Adriatic itinerary offers a perfect blend of cultural discovery and relaxation, with late stays in port allowing families to experience magical evenings in destinations like Dubrovnik and Kotor. From pirate deck parties under starlit Mediterranean skies to guided excursions through ancient Roman ruins, every moment is crafted to create lasting memories. Disney's legendary service ensures that even the youngest travelers feel like royalty on this unforgettable journey.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Dream",
+      "Fantasy"
+    ],
+    "departure_ports": [
+      "Rome",
+      "Barcelona",
+      "Venice"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/Sep)",
+      "inside_eur": 1299,
+      "balcony_eur": 1799,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1699,
+      "balcony_eur": 2399,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Holiday",
+      "inside_eur": 1999,
+      "balcony_eur": 2899,
+      "suite_eur": 5999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles & Adriatic",
+      "duration_nights": 7,
+      "ports": [
+        "Rome",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Santorini",
+        "Naples"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Late-night pirate party in Dubrovnik"
+    },
+    {
+      "name": "9-night Adriatic & Italy",
+      "duration_nights": 9,
+      "ports": [
+        "Barcelona",
+        "Cannes",
+        "Florence",
+        "Rome",
+        "Dubrovnik",
+        "Split",
+        "Venice"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Overnight in Venice with gondola experience"
+    },
+    {
+      "name": "12-night Mediterranean Grand Voyage",
+      "duration_nights": 12,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Dubrovnik",
+        "Kotor",
+        "Santorini",
+        "Mykonos",
+        "Athens",
+        "Sicily",
+        "Florence"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Three sea days with full Disney entertainment programming"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Dream",
+      "capacity": 4000,
+      "year": 2011,
+      "best_for": "Families with young children",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Disney Fantasy",
+      "capacity": 4000,
+      "year": 2012,
+      "best_for": "Families with teens and multigenerational groups",
+      "price_from_eur": 1399
+    }
+  ],
+  "whats_included": [
+    "Rotational dining with themed restaurants",
+    "Broadway-caliber Disney musicals",
+    "Character meet-and-greets",
+    "Youth clubs for ages 3-17",
+    "Pirate deck party",
+    "24-hour room service",
+    "Soft drinks at meals",
+    "Poolside entertainment and movies",
+    "Fitness center access",
+    "Standard Wi-Fi"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty drinks",
+    "Port adventures and shore excursions",
+    "Nursery care for under 3s",
+    "Palo and Remy adult-exclusive dining",
+    "Spa treatments and salon services",
+    "Premium Wi-Fi packages",
+    "Photography packages",
+    "Onboard shopping",
+    "Gratuities (EUR 14.50 per person per night)"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and lowest rates, particularly for concierge-level staterooms and connecting rooms for families. Disney releases itineraries 15 months in advance, with opening-day pricing typically 15-20% below later rates. European summer sailings fill quickly, especially for school holiday periods. Consider booking during Disney's 'onboard booking' window for future cruise credits up to EUR 200. Florida residents and Disney Vacation Club members may access limited discounts 60-90 days before sailing. Flexible travelers should monitor Disney's 'last-minute magic' offers 30-45 days out for potential savings of 10-15% on remaining inventory.",
+  "top_ports": [
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Walk the City Walls (EUR 35)",
+      "tip": "Take the cable car to Mount Srd for panoramic photos before the midday heat"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Bay of Kotor boat tour to Our Lady of the Rocks (EUR 65)",
+      "tip": "Climb the 1350 steps to San Giovanni Fortress early morning for spectacular fjord views"
+    },
+    {
+      "port": "Split, Croatia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Diocletian's Palace underground cellars and Game of Thrones tour (EUR 55)",
+      "tip": "Riva waterfront promenade offers excellent family-friendly dining with sea views"
+    },
+    {
+      "port": "Venice, Italy",
+      "time_in_port": "Overnight 1pm-5pm next day",
+      "top_activity": "Private gondola experience with serenade (EUR 120)",
+      "tip": "Book St. Mark's Basilica after-hours access through Disney for crowd-free exploration"
+    },
+    {
+      "port": "Bari, Italy",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Alberobello trulli houses and olive oil tasting (EUR 89)",
+      "tip": "Disney's exclusive Disney Adventure to Matera includes transportation and guided cave dwelling tour"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Adriatic cruise cost?",
+      "answer": "Disney Cruise Line Adriatic cruises typically range from EUR 1,299 to EUR 2,499 per person for standard inside and oceanview staterooms during shoulder season, with peak summer rates climbing to EUR 1,699-EUR 2,899. Verandah accommodations command EUR 1,799-EUR 3,499, while concierge suites and royal suites start at EUR 3,499 and exceed EUR 8,000 for premium categories. Families should budget EUR 150-300 daily for port adventures, specialty dining, beverages, and onboard extras. Disney's pricing includes more than premium competitors, with rotational dining, shows, and youth programming bundled. European itineraries carry higher base fares than Caribbean sailings due to season length and port costs. Watch for Disney's occasional 'kids sail free' promotions on select European departures."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Adriatic?",
+      "answer": "Disney Cruise Line deploys the Disney Dream and Disney Fantasy for Adriatic and broader Mediterranean itineraries in 2026. The Disney Dream, launched 2011 and refurbished 2023, offers 1,250 staterooms with the AquaDuck water coaster, Marvel Super Hero Academy, and Frozen-themed dining. The Disney Fantasy, 2012 debut with 2022 enhancements, features identical capacity with Star Wars: Command Post, the Bibbidi Bobbidi Boutique, and adult-exclusive Europa district. Both ships were specifically designed for family cruising with split bathrooms in most staterooms, extensive youth clubs, and Disney's innovative rotational dining system. Neither the smaller Disney Magic nor Disney Wonder operate European itineraries in 2026. The new Disney Treasure and Disney Destiny remain dedicated to Caribbean and Bahamian homeports."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "The optimal Adriatic cruising window spans May through September, with June and September offering the ideal balance of warm weather, manageable crowds, and competitive pricing. May delivers blooming landscapes and temperatures of 20-24°C, perfect for active exploration without summer intensity. July and August peak at 28-32°C with guaranteed sunshine but attract maximum European vacationers and premium pricing. September provides crystalline waters ideal for swimming, harvest-season culinary experiences, and reduced humidity. October sailings risk cooler temperatures and occasional storms limiting pool enjoyment. Disney schedules most Adriatic departures from Rome, Barcelona, and Venice between late May and early September to align with school holidays. Avoid November through March when Disney withdraws ships from European waters entirely."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney Cruise Line's all-inclusive approach covers substantially more than typical cruise lines. Your fare includes all meals across three rotational dining restaurants, casual quick-service venues, and 24-hour room service with no surcharge. Entertainment encompasses original Disney musical productions, first-run Disney films including premieres at sea, deck parties with fireworks, character appearances, and youth club programming from 9am-midnight. Pool areas, waterslides, and the fitness center carry no access fees. Soft drinks, coffee, and tea at meals and fountain stations are complimentary. Standard Wi-Fi allows app messaging and limited browsing. What's excluded: alcoholic beverages, specialty coffee bars, adult-exclusive Palo and Remy restaurants, spa services, nursery care for under-3s, shore excursions, and gratuities of EUR 14.50 per person nightly."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Cruise Line Adriatic itineraries feature an exceptional collection of UNESCO World Heritage sites and family-accessible destinations. Dubrovnik, Croatia serves as the marquee port with its intact medieval walls, Lokrum island, and Game of Thrones filming locations. Kotor, Montenegro offers dramatic fjord scenery and well-preserved Old Town. Split provides Diocletian's Palace exploration and Dalmatian coast beaches. Italian ports include overnight Venice stays for gondola experiences, Rome's Civitavecchia gateway for Vatican and Colosseum excursions, and Naples for Pompeii and Amalfi Coast adventures. Select itineraries incorporate Corfu, Santorini, and Mykonos for Greek island diversity. Disney's proprietary Castaway Cay private island does not feature on European itineraries. Each port includes Disney-developed family-friendly shore excursions with English-speaking guides and guaranteed return-to-ship policies."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Disney Cruise Line releases European itineraries approximately 15 months in advance, with opening-day pricing representing the lowest available rates for Adriatic sailings. Savvy travelers should book 12-18 months ahead, particularly for concierge staterooms, connecting rooms for families, and specific cabin locations midship on higher decks. Summer school holiday periods and holiday week sailings sell out 9-12 months in advance. Disney Vacation Club members and Castaway Club loyalty tiers receive early booking windows. If booking later, monitor Disney's website at 90 days for potential Florida resident or general public discounts, though European itineraries rarely see significant price reductions. Final payment is due 90 days before sailing for standard reservations, 150 days for concierge. Consider placing a placeholder booking while onboard any Disney cruise for 10% future cruise credit."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Cruise Line invented contemporary family cruising and remains unmatched for multigenerational Adriatic travel. The Oceaneer Club and Lab accommodate ages 3-12 with supervised Marvel, Frozen, and Toy Story-themed activities from 9am until midnight at no charge. Edge (11-14) and Vibe (14-17) provide tween and teen exclusive spaces with video gaming, music, and age-appropriate social events. 'It's a Small World' nursery cares for 6 months-3 years for hourly fee. Family activities include animation classes, trivia, deck parties, and first-run Disney films. Adults escape to Quiet Cove pool, Palo and Remy restaurants, and Cove Café. Rotational dining ensures children experience varied environments nightly without repeating venues. Disney's exceptional staff-to-guest ratio and legendary service anticipate family needs. The only consideration: European itineraries involve more port-intensive schedules than Caribbean sailings, potentially limiting onboard pool time."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line's cancellation policy imposes escalating penalties as departure approaches. For standard staterooms, cancellations 90 days or more before sailing receive full refund minus non-refundable deposit. Between 89-45 days, deposit is forfeited (typically EUR 250-500 per person). Final payment due at 90 days; cancellations 44-30 days before incur 50% of total fare penalty, 29-15 days trigger 75% forfeiture, and 14 days or less result in 100% loss. Concierge bookings carry stricter terms: non-refundable deposit at booking, 50% penalty at 150 days, 75% at 120 days, and full forfeiture within 89 days. Travel insurance through Disney or independent providers is strongly recommended given significant cancellation exposure. COVID-19 policies have evolved; currently standard terms apply without pandemic-related flexibility. Name changes and sailing date modifications incur EUR 50-150 fees depending on timing."
+    }
+  ]
+}

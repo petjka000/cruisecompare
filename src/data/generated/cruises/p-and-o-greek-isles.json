@@ -1,0 +1,211 @@
+{
+  "title": "P&O Cruises Greek Isles Cruises 2026",
+  "intro": "P&O Cruises brings British elegance to the sun-drenched Greek Isles, combining time-honoured maritime tradition with contemporary comfort. As Britain's favourite cruise line, P&O offers an authentic Greek island-hopping experience from Southampton or Mediterranean fly-cruise options, eliminating lengthy sea days. Their adults-only Arcadia and Aurora alongside family-friendly Iona and Arvia provide diverse atmospheres for exploring Santorini's caldera sunsets, Rhodes' medieval grandeur, and Mykonos' cosmopolitan beaches. P&O's Greek itineraries emphasise extended port stays and overnight calls in Athens, allowing deeper cultural immersion. The line's partnership with local guides ensures exclusive shore excursions to archaeological treasures and hidden tavernas. With sterling-based pricing, included gratuities, and British culinary standards, P&O delivers exceptional value for travellers seeking Aegean adventures without transatlantic flights or language barriers.",
+  "quick_facts": {
+    "price_from_eur": 749,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "ships_on_route": [
+      "Iona",
+      "Arvia",
+      "Arcadia",
+      "Azura"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Valletta",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/Oct)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2399
+    },
+    {
+      "season": "Late Summer (Sep)",
+      "inside_eur": 899,
+      "balcony_eur": 1349,
+      "suite_eur": 2149
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Mediterranean Highlights",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Rome (Civitavecchia)",
+        "Santorini",
+        "Athens (Piraeus)",
+        "Mykonos",
+        "Naples"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Iconic Greek Isles with overnight Athens stay"
+    },
+    {
+      "name": "14-night Adriatic & Aegean Discovery",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Barcelona",
+        "Rome",
+        "Santorini",
+        "Athens",
+        "Rhodes",
+        "Crete",
+        "Valletta",
+        "Gibraltar"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Round-trip from UK with comprehensive island coverage"
+    },
+    {
+      "name": "10-night Greek Islands Fly-Cruise",
+      "duration_nights": 10,
+      "ports": [
+        "Valletta",
+        "Mykonos",
+        "Kusadasi (Turkey)",
+        "Santorini",
+        "Athens",
+        "Katakolon",
+        "Corfu"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Maximum island time with minimal sea days"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Iona",
+      "capacity": 5200,
+      "year": 2021,
+      "best_for": "Families & multi-generational groups",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Arvia",
+      "capacity": 5200,
+      "year": 2022,
+      "best_for": "Active families & thrill-seekers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Arcadia",
+      "capacity": 2100,
+      "year": 2005,
+      "best_for": "Adults seeking refined atmosphere",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Azura",
+      "capacity": 3100,
+      "year": 2010,
+      "best_for": "Couples & mature travellers",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "Full board dining in main restaurants",
+    "Afternoon tea",
+    "Entertainment including West End-style shows",
+    "Children's clubs (family ships)",
+    "Use of pools, gym & sports courts",
+    "Port taxes & gratuities",
+    "Flight packages (fly-cruises)",
+    "Coach transfers (Southampton departures)"
+  ],
+  "whats_extra": [
+    "Speciality restaurants (£25-35pp)",
+    "Drinks packages (£40-55pd)",
+    "Shore excursions (£45-189pp)",
+    "Spa treatments & salon services",
+    "WiFi packages (£18-24pd)",
+    "Laundry services",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts up to 20%. P&O releases itineraries 18 months in advance. Consider Select Fare for added flexibility. Last-minute deals emerge 8-10 weeks before departure for inside cabins. Peak summer and school holiday dates require earliest booking.",
+  "top_ports": [
+    {
+      "port": "Santorini (Thira)",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Caldera boat tour with hot springs (€89)",
+      "tip": "Book evening departure for sunset views"
+    },
+    {
+      "port": "Athens (Piraeus)",
+      "time_in_port": "6am-6pm (overnight on select sailings)",
+      "top_activity": "Acropolis guided tour with museum (€75)",
+      "tip": "Use overnight stay for Plaka district dinner"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Delos archaeological site boat trip (€65)",
+      "tip": "Morning visit Delos, afternoon explore Little Venice"
+    },
+    {
+      "port": "Rhodes",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Medieval Old Town & Palace of Grand Masters (€55)",
+      "tip": "Walk the moat for best photography angles"
+    },
+    {
+      "port": "Katakolon (Olympia)",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Ancient Olympia archaeological site (€59)",
+      "tip": "Short port time—book ship's excursion to guarantee return"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Greek Isles cruise cost?",
+      "answer": "P&O Greek Isles cruises start from €749 for shoulder season inside cabins on 7-night fly-cruises, rising to €999-1499 for peak summer. Balcony cabins range €1099-1499 depending on season, with suites from €1799. 14-night round-trip Southampton sailings offer value at €1499 inside, though factor in positioning costs. Select Fare adds €150-200pp but includes cabin choice, flexibility, and onboard credit. Drinks packages cost €40-55 daily. Shore excursions average €45-189 per port. School holiday premiums apply. P&O's sterling pricing protects against euro fluctuations, and included gratuities save €12-15 daily versus American lines."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Greek Isles?",
+      "answer": "P&O deploys four ships to Greek waters. Iona (2021, 5200 passengers) and Arvia (2022, 5200 passengers) are LNG-powered mega-ships with expansive pool decks and family facilities. Arcadia (2005, 2100 passengers) is adults-only with refined atmosphere and wraparound promenade. Azura (2010, 3100 passengers) offers traditional cruising with glass-roofed pool. Iona and Arvia sail 7-night fly-cruises from Mediterranean ports, while Arcadia and Azura operate longer Southampton round-trips. Ship assignment varies by season—summer 2026 sees Iona and Arvia dominating fly-cruise schedules with Arcadia offering autumn Adriatic-Greek combinations. All feature British dining, entertainment, and service standards."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May, June, September and October offer optimal Greek Isles cruising. May delivers wildflowers, moderate temperatures (20-25°C), and fewer crowds with occasional rain. June provides warm seas (22°C) and long daylight hours before peak heat. September offers warm water, reliable sunshine, and harvest season with thinner crowds. October brings cooler evenings (18-22°C) and potential storms but excellent value. July-August sees 35°C+ temperatures, crowded sites, and premium pricing—avoid unless school-holiday constrained. April and November sailings exist but risk cool weather and limited excursion availability. Santorini's caldera views shine in shoulder months when atmospheric haze clears. Mykonos beach clubs operate May-September."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O Greek Isles cruises include full-board dining across main restaurants, buffet, and daytime venues; afternoon tea; all entertainment including theatre productions, live music, and cinema; supervised children's clubs on family ships; fitness centre and sports court access; port taxes; and gratuities. Southampton departures include coach transfers from 20+ UK locations. Fly-cruises include flights, overseas transfers, and baggage handling. Cabin categories determine included amenities—inside/oceanview receive standard inclusions, balconies add private outdoor space, suites add butler service and priority boarding. Not included: speciality restaurants, drinks beyond water/tea/coffee at meals, shore excursions, WiFi, spa services, laundry, and casino. All-inclusive drinks packages available for €40-55 daily."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O Greek Isles itineraries feature Santorini with its dramatic caldera and Oia sunsets; Athens (Piraeus) for Acropolis access with overnight stays on select sailings; Mykonos combining cosmopolitan beaches and Delos archaeological site; Rhodes with medieval Old Town and Lindos acropolis; Crete (Heraklion or Souda) for Knossos palace; Corfu for Venetian architecture; and Katakolon gateway to Ancient Olympia. Secondary calls include Kefalonia, Patmos, and Syros. Turkish ports Kusadasi (Ephesus) and Istanbul complement Greek island itineraries. Extended port stays (8-12 hours) allow independent exploration or ship excursions. Some 14-night sailings include Adriatic stops at Dubrovnik, Split, or Kotor before reaching Greek waters."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book P&O Greek Isles cruises 9-12 months ahead for optimal results. P&O releases itineraries 18 months in advance—July 2024 for summer 2026. Early booking secures preferred cabin grades, dining times, and itinerary choice with discounts up to 20%. Peak summer dates (July-August) and school holidays sell out 10-12 months ahead. Balcony cabins on scenic routes like Santorini caldera sailings require earliest booking. Select Fare offers price protection and flexibility worth the premium for uncertain plans. Last-minute deals emerge 8-10 weeks before departure, typically restricted to inside cabins on less popular dates. Shore excursions and speciality dining open 90 days ahead—book immediately for popular options like Santorini sunset cruises."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O Greek Isles cruises suit families exceptionally on Iona and Arvia, less so on adults-only Arcadia. Iona and Arvia feature dedicated kids' clubs for ages 2-17 with age-appropriate activities, night nurseries for under-2s, and family-friendly entertainment including aquaparks, climbing walls, and mini-golf. Family cabins and interconnecting rooms accommodate larger parties. Greek destinations offer educational shore excursions—Athens' Acropolis, Olympia's ancient stadium, Rhodes' medieval history. Beach days at Corfu or Crete suit all ages. Dining includes children's menus and flexible mealtimes. Evening entertainment finishes earlier than American lines. Teenagers enjoy dedicated hangout spaces and shore excursion independence. Consider school holiday sailings for peer groups; off-peak dates may have fewer children aboard."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O's cancellation policy operates on a sliding scale by departure date. Cancellations 90+ days before sailing forfeit deposit only (typically 15% of cruise fare). 89-60 days: 25% of total fare. 59-30 days: 50% of total fare. 29-15 days: 75% of total fare. 14 days or less: 100% forfeiture. Select Fare bookings offer greater flexibility with deposit-only cancellation until final payment (typically 90 days). Travel insurance covering cruise cancellation is strongly recommended—P&O offers own policies. COVID-19 policies evolved to standard terms; specific health-related cancellations require documentation. Name changes permitted for €25 fee until 14 days before sailing. Itinerary changes by P&O allow full refund or future cruise credit option. Rebooking to alternative sailing incurs €75 administration fee."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "title": "P&O Cruises Arabian Gulf Cruises 2026",
+  "intro": "P&O Cruises brings British cruising heritage to the sun-drenched waters of the Arabian Gulf, offering sophisticated voyages from Dubai and Abu Dhabi. Their adults-only ship Arcadia and family-friendly Aurora provide an elegant alternative to American mega-ships, with refined dining, traditional afternoon tea, and understated luxury. Arabian Gulf itineraries showcase the dramatic contrast between ultra-modern skylines and ancient souks, with overnight stays in Dubai allowing time for desert safaris and the Burj Khalifa. P&O's British passengers appreciate the familiar comforts—pub lunches, cricket on deck, and sterling pricing—while exploring Oman's fjords, Bahrain's pearl diving heritage, and Qatar's cultural renaissance. The winter 2026 season runs November through March, perfectly timed to escape British weather for guaranteed sunshine and temperatures around 25°C.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Arcadia",
+      "Aurora"
+    ],
+    "departure_ports": [
+      "Dubai",
+      "Abu Dhabi",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Jan)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Shoulder (Nov/Feb-Mar)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Dubai & Emirates Explorer",
+      "duration_nights": 7,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Sir Bani Yas Island",
+        "Muscat",
+        "Dubai"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Overnight in Dubai plus private island beach day"
+    },
+    {
+      "name": "Arabian Gulf & India",
+      "duration_nights": 14,
+      "ports": [
+        "Dubai",
+        "Muscat",
+        "Mumbai",
+        "Goa",
+        "Cochin",
+        "Abu Dhabi",
+        "Dubai"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Combines Gulf glamour with India's Golden Triangle"
+    },
+    {
+      "name": "Grand Arabian Adventure",
+      "duration_nights": 10,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Malta",
+        "Suez Canal",
+        "Aqaba",
+        "Dubai"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Full repositioning with Egypt's Petra extension option"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Arcadia",
+      "capacity": 2094,
+      "year": 2005,
+      "best_for": "Adults-only luxury",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Aurora",
+      "capacity": 1870,
+      "year": 2000,
+      "best_for": "Families with teenagers",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All main dining and buffet meals",
+    "Afternoon tea and late-night snacks",
+    "Theatre shows and live music",
+    "Fitness centre and pools",
+    "Children's clubs (Aurora only)",
+    "Port taxes and service charges"
+  ],
+  "whats_extra": [
+    "Speciality restaurants (£15-35pp)",
+    "Beverages and bar service",
+    "Shore excursions (£45-189pp)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Wi-Fi packages (£15-25/day)",
+    "Gratuities (recommended £7pp/day)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts up to 25%. P&O releases Arabian Gulf itineraries 18 months in advance. December-January peak season sells out fastest, especially balcony cabins. Consider repositioning Southampton-Dubai sailings for exceptional value at £999pp including flights home. Join Peninsular Club loyalty programme for priority booking and onboard credit. Look for 'Select Price' fares including cabin choice and onboard spending money versus 'Saver' restricted fares.",
+  "top_ports": [
+    {
+      "port": "Dubai",
+      "time_in_port": "Overnight (2 days)",
+      "top_activity": "Burj Khalifa At The Top SKY (£65)",
+      "tip": "Pre-book evening slot for sunset views; metro day pass avoids taxi surge pricing"
+    },
+    {
+      "port": "Abu Dhabi",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Sheikh Zayed Grand Mosque & Louvre (£89)",
+      "tip": "Modest dress essential; mosque provides free abayas if needed"
+    },
+    {
+      "port": "Muscat (Oman)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Wadi Shab & Sinkhole 4x4 (£129)",
+      "tip": "Friday closures affect souk visits; book Thursday or Saturday calls"
+    },
+    {
+      "port": "Sir Bani Yas Island",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Wildlife safari by Arabian oryx (£75)",
+      "tip": "Beach cabanas free but limited; disembark early to secure"
+    },
+    {
+      "port": "Manama (Bahrain)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Bahrain Fort & National Museum (£55)",
+      "tip": "Smallest Gulf state; easy independent exploration via taxi"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Arabian Gulf cruise cost?",
+      "answer": "P&O Cruises Arabian Gulf voyages typically range from €899 for a 7-night inside cabin in shoulder season to €2,899 for peak-season suites. A standard 7-night balcony cabin averages €1,299-€1,699 depending on month. The 14-night Arabian Gulf & India itinerary offers better value per night at approximately €1,699 inside, €2,299 balcony. Repositioning cruises from Southampton start exceptionally low at €1,299 for 14 nights including return flights. P&O's sterling pricing means UK-based passengers avoid currency fluctuations. Look for 'Select Price' fares including £100-300 onboard spending money and preferred dining times."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Arabian Gulf?",
+      "answer": "P&O deploys Arcadia and Aurora to Arabian Gulf winter seasons. Arcadia, the adults-only ship with 2,094 passengers, offers sophisticated cruising with elegant Art Deco styling, spa facilities, and refined dining—ideal for couples and solo travellers. Aurora, carrying 1,870 passengers, welcomes families and features a traditional cinema, extensive children's facilities, and a more informal atmosphere. Both ships are mid-sized by modern standards, allowing access to smaller ports like Sir Bani Yas Island that mega-ships cannot reach. Arcadia typically operates 7-night round-trip Dubai itineraries while Aurora handles longer voyages combining Arabian Gulf with India or Southeast Asia."
+    },
+    {
+      "question": "When is best time to cruise Arabian Gulf?",
+      "answer": "November through March offers ideal conditions with temperatures 20-28°C and minimal rainfall. December and January are peak months with perfect beach weather but highest prices and crowds. November and February-March provide excellent value with slightly cooler evenings requiring light layers. Avoid April-October when temperatures exceed 40°C and humidity becomes oppressive—ships reposition to Europe or Asia during these months. Ramadan timing varies annually; 2026 dates will affect shore excursion availability and daytime dining ashore. P&O schedules overnight Dubai calls to experience the city's legendary nightlife. Sea conditions remain calm year-round with virtually no motion discomfort."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O's Arabian Gulf cruises include all main dining room and buffet meals, afternoon tea, late-night snacks, theatre productions, live music, fitness facilities, pools, and children's clubs on Aurora. Accommodation, port taxes, and basic service charges are covered. Notably, P&O does NOT automatically include gratuities—recommended at £7 per person daily—nor beverages beyond breakfast juices and afternoon tea. Speciality restaurants, shore excursions, spa services, Wi-Fi, and laundry incur charges. 'Select Price' fares upgrade inclusion with cabin selection flexibility, preferred dining times, and onboard spending credit typically £100-150 per cabin. This semi-inclusive approach keeps base fares competitive while allowing passengers to control extras."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O's Arabian Gulf itineraries centre on Dubai with overnight stays allowing full exploration of the Burj Khalifa, Dubai Mall, and desert experiences. Abu Dhabi offers the Sheikh Zayed Grand Mosque and emerging Saadiyat Island cultural district. Sir Bani Yas Island, P&O's private destination, provides beach relaxation and wildlife encounters with endangered Arabian oryx. Muscat, Oman, delivers authentic Arabian atmosphere with its waterfront Muttrah Souk and dramatic Hajar Mountain excursions. Bahrain's capital Manama offers UNESCO-listed forts and Formula 1 heritage. Longer voyages extend to Mumbai, Goa, and Cochin in India, or Khasab and Salalah in Oman. Most 7-night cruises feature 4-5 ports with sea days for ship enjoyment."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book P&O Arabian Gulf cruises 9-12 months ahead for optimal cabin selection and early booking discounts reaching 25%. P&O releases itineraries approximately 18 months in advance, with peak December-January sailings selling out 6-8 months ahead, particularly balcony cabins. Repositioning Southampton-Dubai voyages offer exceptional early booking value at €1,299 including flights home. Join the free Peninsular Club loyalty programme for priority booking windows and accumulated onboard benefits. Last-minute deals occasionally appear 8-12 weeks before departure for inside cabins only. Consider booking shore excursions 90 days pre-cruise when P&O releases them online, as popular options like desert safaris and Burj Khalifa visits sell quickly."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O Arabian Gulf cruising suits families on Aurora, which offers dedicated children's facilities including Reef kids' club for 2-4 years, Splashers for 5-8, Surfers for 9-12, and Scubas for 13-17 year-olds with supervised activities and teen discos. Arcadia is adults-only (18+) and unsuitable for families. Shore excursions accommodate children with desert safaris, waterparks, and beach days at Sir Bani Yas Island. Dubai and Abu Dhabi offer family-friendly attractions including IMG Worlds of Adventure, Ferrari World, and Aquaventure. Evening entertainment suits British family tastes with trivia, karaoke, and West End-style shows. Dining includes children's menus and flexible early seating. Consider school holiday timing as prices increase significantly during UK half-terms and Christmas."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O Cruises applies a tiered cancellation structure: deposits of £200-£500 per person are fully refundable until final payment due 90 days before sailing. Cancellations 90-60 days incur loss of deposit; 60-30 days forfeit 50% of cruise fare; 30-15 days lose 75%; under 15 days forfeit 100%. 'Saver' fares carry stricter terms with deposits non-refundable from booking. P&O strongly recommends comprehensive travel insurance covering cruise-specific cancellation reasons. For COVID-19 related cancellations, P&O offers flexible rebooking or future cruise credit options. Name changes incur £100 administration fees. Consider P&O's 'Travel Insurance' add-on for cancellation protection including pre-existing medical conditions coverage, though independent comparison often yields better value."
+    }
+  ]
+}

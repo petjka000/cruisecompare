@@ -1,0 +1,237 @@
+{
+  "title": "Celebrity Cruises Greek Isles Cruises 2026",
+  "intro": "Celebrity Cruises elevates Greek Isles exploration through its premium, resort-at-sea philosophy, combining sophisticated design with authentic Mediterranean immersion. The line's Greek itineraries leverage its modern Edge-class and revitalized Millennium-class vessels, featuring the revolutionary Magic Carpet platform and infinite veranda staterooms that frame Aegean sunsets. Celebrity distinguishes itself through elevated culinary partnerships, including chef Daniel Boulud collaborations, and overnight stays in iconic ports like Santorini and Mykonos. The line's Greek programming emphasizes extended port durations, often 10-12 hours, enabling deeper exploration of archaeological sites and local taverna culture. With adults-focused ambiance yet family-compatible facilities, Celebrity attracts discerning travelers seeking contemporary luxury without formality. Its Greek sailings consistently earn recognition for shore excursion curation, particularly archaeological and culinary experiences unavailable through standard operators.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "ships_on_route": [
+      "Celebrity Apex",
+      "Celebrity Beyond",
+      "Celebrity Reflection",
+      "Celebrity Constellation"
+    ],
+    "departure_ports": [
+      "Athens (Piraeus)",
+      "Barcelona",
+      "Rome (Civitavecchia)",
+      "Venice"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1199,
+      "balcony_eur": 1899,
+      "suite_eur": 3299
+    },
+    {
+      "season": "Holiday/New Year",
+      "inside_eur": 999,
+      "balcony_eur": 1599,
+      "suite_eur": 2799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles & Turkey",
+      "duration_nights": 7,
+      "ports": [
+        "Athens",
+        "Mykonos",
+        "Kusadasi",
+        "Patmos",
+        "Rhodes",
+        "Santorini"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Includes overnight Santorini stay with sunset caldera views"
+    },
+    {
+      "name": "10-night Greek Isles Intensive",
+      "duration_nights": 10,
+      "ports": [
+        "Barcelona",
+        "Valencia",
+        "Ibiza",
+        "Catania",
+        "Athens",
+        "Mykonos",
+        "Santorini",
+        "Naples"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Combines Spanish and Greek cultures with two Greek overnights"
+    },
+    {
+      "name": "12-night Adriatic & Greek Gems",
+      "duration_nights": 12,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Corfu",
+        "Katakolon",
+        "Santorini",
+        "Athens",
+        "Naples",
+        "Rome"
+      ],
+      "price_from_eur": 1799,
+      "highlight": "Comprehensive Dalmatian Coast and Greek Isles combination"
+    },
+    {
+      "name": "14-night Greek Isles Grand Journey",
+      "duration_nights": 14,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Catania",
+        "Valletta",
+        "Santorini",
+        "Athens",
+        "Mykonos",
+        "Rhodes",
+        "Limassol",
+        "Haifa",
+        "Ashdod"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Extended exploration including Cyprus and Holy Land extensions"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Apex",
+      "capacity": 2918,
+      "year": 2020,
+      "best_for": "Couples and culinary enthusiasts",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Celebrity Beyond",
+      "capacity": 3267,
+      "year": 2022,
+      "best_for": "Luxury seekers and spa-focused travelers",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Celebrity Reflection",
+      "capacity": 3046,
+      "year": 2012,
+      "best_for": "Families and multigenerational groups",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Celebrity Constellation",
+      "capacity": 2170,
+      "year": 2002,
+      "best_for": "Intimate luxury and loyal Celebrity guests",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Accommodation in stateroom or suite",
+    "Main dining room breakfast, lunch and dinner",
+    "Casual dining venues including Oceanview Café",
+    "Room service (continental breakfast complimentary, fees apply other times)",
+    "Entertainment including theatre productions and live music",
+    "Access to fitness center and pools",
+    "Kids club programming (Ages 3-17)",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Premium drinks packages (Classic €65/day, Premium €78/day)",
+    "Specialty dining (Eden €55, Tuscan Grille €55, Le Petit Chef €95)",
+    "Shore excursions (€89-€349 per person)",
+    "Wi-Fi packages (Basic €19/day, Premium €35/day)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Airport transfers",
+    "Gratuities (€16-€20 per person daily recommended)"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for optimal cabin selection and early booking savings of 15-20%; monitor Celebrity's 'Sail Beyond' promotions for complimentary perks packages including drinks, Wi-Fi, and gratuities; consider repositioning cruises in April or November for 30-40% savings; balcony staterooms offer essential Aegean views and typically sell out 6 months pre-departure.",
+  "top_ports": [
+    {
+      "port": "Santorini (Thira)",
+      "time_in_port": "2pm-11pm (overnight on select sailings)",
+      "top_activity": "Sunset catamaran cruise with dinner (€189)",
+      "tip": "Pre-book Oia sunset transport or hike Fira-Oia trail early morning to avoid crowds"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "7am-7pm (overnight on select sailings)",
+      "top_activity": "Delos archaeological site guided tour (€149)",
+      "tip": "Beach clubs fill by 11am in July-August; reserve Nammos or Scorpios weeks ahead"
+    },
+    {
+      "port": "Athens (Piraeus)",
+      "time_in_port": "6am-6pm or overnight",
+      "top_activity": "Acropolis and Acropolis Museum private tour (€219)",
+      "tip": "Ships dock 30 minutes from city center; metro Line 1 connects directly for €1.40"
+    },
+    {
+      "port": "Kusadasi (Ephesus)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Ephesus Terrace Houses and Sirince village (€169)",
+      "tip": "Terrace Houses require separate ticket and limited capacity; book through ship for guaranteed entry"
+    },
+    {
+      "port": "Rhodes",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Medieval Rhodes and Lindos Acropolis (€139)",
+      "tip": "Lindos beach quality justifies the 45-minute drive; ancient ruins close at 2:30pm"
+    },
+    {
+      "port": "Katakolon (Olympia)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Olympia archaeological site and museum (€129)",
+      "tip": "Site is 40-minute drive; combine with Mercouri Winery tasting for relaxed return"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Greek Isles cruise cost?",
+      "answer": "Celebrity Cruises Greek Isles pricing ranges from €899 for interior staterooms on shoulder-season 7-night sailings to over €4,000 for suites during peak summer. Balcony accommodations, essential for Aegean views, typically run €1,399-€2,299. The line's 'Always Included' fare structure bundles drinks, Wi-Fi, and gratuities at €150-€250 premium over base rates. Solo travelers face 150-200% single supplements, though promotional periods occasionally reduce this. Shore excursions add €800-€1,500 for comprehensive port coverage. Total vacation investment for couples generally falls €3,500-€7,000 depending on cabin category, season, and onboard spending preferences."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Greek Isles?",
+      "answer": "Celebrity deploys its newest Edge-class vessels Apex and Beyond for premium 7-10 night Greek itineraries from Athens and Barcelona, featuring the revolutionary Magic Cantilever and infinite veranda staterooms. Solstice-class Reflection offers family-friendly programming with larger pool decks and expanded kids facilities. Millennium-class Constellation provides intimate, destination-focused sailings with longer port durations and fewer sea days. All vessels underwent recent revitalization programs. Edge-class ships dominate peak summer schedules, while Constellation handles shoulder season and repositioning routes. Each ship carries approximately 2,900-3,300 passengers with Celebrity's signature modern luxury aesthetic and diverse dining venues."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May and September offer optimal conditions with temperatures 22-26°C, minimal crowds, and lower pricing 20-30% below peak rates. June provides excellent weather with warming seas ideal for swimming, though popular islands become busy. July-August delivers guaranteed sunshine but brings intense heat above 35°C, packed archaeological sites, and premium pricing. October sailings feature harvest season culinary experiences and pleasant 20°C averages, with some beach closures. April and November repositioning cruises offer exceptional value but unpredictable weather and limited excursion availability. Santorini's caldera views remain spectacular year-round, though sunset visibility improves in shoulder months with clearer atmospheric conditions."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's Greek Isles cruises include accommodation, main dining room meals, casual venues like Oceanview Café, theatre entertainment, fitness center access, and kids programming. The 'Always Included' fare tier adds Classic drinks package, basic Wi-Fi, and prepaid gratuities. Specialty dining, premium beverages beyond package limits, shore excursions, spa services, and laundry incur additional charges. Room service carries fees except continental breakfast. Gratuities run €16-€20 daily per person if not prepaid. The line distinguishes itself through complimentary dining quality, with main restaurant menus developed by chef Daniel Boulud. Complimentary programming includes destination lectures, wine tastings (fee for premium), and culinary demonstrations."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Greek itineraries center on Athens (Piraeus) as primary embarkation and overnight destination, with extended calls at Santorini and Mykonos featuring 10-14 hour stays or overnights. Secondary Greek ports include Rhodes with its medieval UNESCO site, Katakolon for Olympia access, and Corfu in the Ionian Sea. Turkish calls at Kusadasi provide Ephesus archaeological access. Extended sailings incorporate Italian ports Naples, Rome, and Sicily; Spanish Barcelona and Valencia; and Croatian Dubrovnik and Split. The 14-night Grand Journey adds Cyprus Limassol and Israeli Haifa/Ashdod. Port durations emphasize exploration over token visits, with multiple overnight stays enabling authentic evening dining and entertainment experiences."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Greek Isles sailings 9-14 months advance for optimal balcony stateroom selection and early booking savings of 15-20%. Edge-class ships sell out 10-12 months ahead for peak summer departatures. Holiday periods and unique itineraries like Santorini overnights require 12-month planning. Shoulder season offers more flexibility with 4-6 month windows. Celebrity releases schedules 18-24 months ahead, with best pricing typically appearing 10-12 months pre-departure then increasing. Last-minute deals under 60 days occasionally appear for interior cabins but sacrifice itinerary and cabin choice. Group bookings of 8+ staterooms require 12-month advance deposits. Wave season (January-March) brings promotional perks that improve value on already-released itineraries."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity accommodates families well despite adults-focused positioning, particularly on Reflection with expanded Camp at Sea programming ages 3-17. Edge-class ships offer more limited youth facilities but maintain quality supervised activities. Family staterooms and connecting cabins sell quickly; book 12 months ahead. Greek itineraries suit families with teens interested in history and active pursuits, though younger children may find archaeological sites challenging in summer heat. Pool areas provide family-friendly zones, and specialty dining accommodates dietary restrictions. Evening entertainment trends sophisticated, though family-friendly shows are scheduled. Shore excursions include family-appropriate options, though independent exploration often better suits varied energy levels. The line's refined atmosphere rewards well-behaved children but may frustrate those seeking high-energy programming."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity applies tiered cancellation penalties based on voyage length and timing. For 7-night Greek sailings, full refund applies until 90 days pre-departure; 89-60 days forfeits deposit; 59-30 days loses 50%; 29-15 days loses 75%; under 14 days loses 100%. Extended 10-14 night cruises tighten to 120-day full refund windows. 'Cruise with Confidence' flexible booking, periodically offered, permits penalty-free changes until 48 hours pre-sailing. Travel insurance through Celebrity or independent providers strongly recommended given Mediterranean weather and health variables. Cancel for Any Reason coverage adds 40-60% premium but protects investment. Refunds process within 30 days to original payment method; onboard credits and promotional fares carry separate restrictions detailed in booking confirmations."
+    }
+  ]
+}

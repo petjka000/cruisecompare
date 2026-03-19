@@ -1,0 +1,138 @@
+{
+  "title": "Royal Caribbean vs Oceania Cruises 2026",
+  "intro": "Royal Caribbean and Oceania Cruises occupy distinctly different spaces in the cruise market despite both falling within premium pricing brackets. Royal Caribbean operates the world's largest cruise ships with capacity for 5,000+ passengers, featuring revolutionary amenities like surf simulators, zip lines, and robotic bartenders. Oceania Cruises maintains a boutique luxury positioning with intimate 600-1,200 passenger vessels, emphasising culinary excellence and destination immersion. While Royal Caribbean targets multigenerational families and adventure seekers, Oceania appeals to sophisticated travellers prioritising gastronomy and cultural enrichment. This comparison examines how these contrasting philosophies translate to value, experience, and suitability for different traveller profiles in 2026.",
+  "at_a_glance": {
+    "royal-caribbean": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "oceania": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 699
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "royal-caribbean": "€799",
+      "oceania": "€699"
+    },
+    {
+      "category": "Ship Size",
+      "royal-caribbean": "4,180-9,288 passengers",
+      "oceania": "684-1,238 passengers"
+    },
+    {
+      "category": "Included Dining",
+      "royal-caribbean": "Main dining room, buffet, select casual venues",
+      "oceania": "All specialty restaurants, 24-hour room service"
+    },
+    {
+      "category": "Beverages",
+      "royal-caribbean": "Water, tea, coffee only",
+      "oceania": "Complimentary wine, beer, spirits"
+    },
+    {
+      "category": "Shore Excursions",
+      "royal-caribbean": "Extra charge",
+      "oceania": "One free excursion per port on select fares"
+    },
+    {
+      "category": "WiFi",
+      "royal-caribbean": "Extra charge",
+      "oceania": "Complimentary"
+    },
+    {
+      "category": "Gratuities",
+      "royal-caribbean": "€16-18/day extra",
+      "oceania": "Included"
+    },
+    {
+      "category": "Entertainment",
+      "royal-caribbean": "Broadway shows, AquaTheater, ice skating",
+      "oceania": "Enrichment lectures, cooking demos, live music"
+    },
+    {
+      "category": "Casino",
+      "royal-caribbean": "Large casino complex",
+      "oceania": "No casino"
+    },
+    {
+      "category": "Children's Facilities",
+      "royal-caribbean": "Adventure Ocean, teen clubs, nursery",
+      "oceania": "No dedicated children's programming"
+    }
+  ],
+  "choose_a_if": [
+    "You are travelling with children or teenagers who need constant entertainment and activity options",
+    "You enjoy mega-ship amenities like water slides, surf simulators, rock climbing walls, and Broadway-calibre productions",
+    "You prefer a lively, high-energy atmosphere with numerous bars, nightclubs, and late-night entertainment",
+    "You want multiple dining options without paying specialty restaurant surcharges upfront",
+    "You value innovative architectural features like Central Park neighborhoods and robotic bartenders"
+  ],
+  "choose_b_if": [
+    "You prioritise culinary excellence with Jacques Pépin-designed menus and complimentary specialty dining",
+    "You prefer intimate ships with no queues, easy navigation, and personalised service",
+    "You seek destination immersion with longer port stays and overnight visits",
+    "You want genuinely inclusive pricing covering gratuities, beverages, and WiFi without surprise charges",
+    "You appreciate sophisticated, adult-oriented ambience without children, casinos, or loud entertainment"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Royal Caribbean",
+      "reason": "Adventure Ocean kids' club, teen programmes, nursery services, and endless onboard activities keep all ages entertained from dawn until midnight."
+    },
+    {
+      "type": "Couples",
+      "winner": "Oceania",
+      "reason": "Intimate atmosphere, exceptional dining, inclusive pricing, and sophisticated enrichment create romantic, stress-free voyages without crowds or children."
+    },
+    {
+      "type": "Solo Travellers",
+      "winner": "Oceania",
+      "reason": "Single supplement reductions, communal tables, enrichment lectures, and welcoming small-ship environment foster genuine connections with fellow passengers."
+    },
+    {
+      "type": "Adventure Seekers",
+      "winner": "Royal Caribbean",
+      "reason": "Zip lines, FlowRider surf simulators, skydiving tunnels, rock climbing, and expansive shore excursion programmes deliver adrenaline-fuelled experiences."
+    },
+    {
+      "type": "Food Enthusiasts",
+      "winner": "Oceania",
+      "reason": "Jacques Pépin culinary direction, all-inclusive specialty restaurants, cooking classes, and market tours in port represent the industry's finest gastronomy."
+    },
+    {
+      "type": "Budget-Conscious",
+      "winner": "Oceania",
+      "reason": "While base fares appear similar, inclusive pricing covering beverages, gratuities, WiFi, and specialty dining delivers superior overall value."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Oceania Cruises typically delivers superior value when comparing total holiday costs despite similar base fares. Royal Caribbean's €799 inside cabin excludes beverages (€65-80/day packages), gratuities (€16-18/day), specialty dining (€35-100pp), WiFi (€15-20/day), and shore excursions (€50-200pp). Oceania's €699 fare includes unlimited wine, beer, spirits, all specialty restaurants, gratuities, WiFi, and often one shore excursion per port. For a seven-night cruise, Royal Caribbean passengers frequently spend €1,400-2,000 in extras, while Oceania's inclusive model means your final bill rarely exceeds €200 for spa treatments or premium excursions. The value proposition intensifies for moderate drinkers and those who appreciate fine dining."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Royal Caribbean dominates family cruising with purpose-built facilities across all age groups. Adventure Ocean accommodates children 3-12 with science experiments, arts, and themed parties in dedicated facilities. Teen clubs (12-17) feature private lounges, DJ workshops, and exclusive events. Nurseries accept infants 6-36 months for hourly fees. The entertainment infrastructure—ice shows, AquaTheater dives, parades, and character experiences—engages multigenerational groups simultaneously. Oceania Cruises explicitly targets adults with no children's programming, minimum age policies, and quiet, sophisticated ambience. Families attempting Oceania face bored children, disapproving fellow passengers, and limited suitable activities. Royal Caribbean's Symphony, Wonder, and Icon class ships represent the industry's family cruising pinnacle."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Published fares appear comparable—Royal Caribbean at €799 and Oceania at €699 for seven-night inside cabins—but this masks dramatically different pricing structures. Royal Caribbean employs à la carte pricing where advertised rates exclude essential components most passengers purchase. Oceania's inclusive model bundles beverages, gratuities, WiFi, and specialty dining. When normalising for equivalent inclusions, Royal Caribbean typically costs €1,600-2,400 total versus Oceania's €800-1,000. Oceania also offers more generous single supplements (125-150% versus 200%) and frequent value-added promotions including free air, shore excursions, or cabin upgrades. Last-minute Oceania fares occasionally drop below €500, while Royal Caribbean maintains stricter yield management. Balcony cabins show wider gaps: Royal Caribbean €1,400-1,800, Oceania €1,200-1,500 inclusive."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Oceania Cruises operates the industry's most acclaimed culinary programme under Executive Culinary Director Jacques Pépin. All six specialty restaurants—French bistro Jacques, Italian Toscana, steakhouse Polo Grill, Asian Red Ginger, seafood venue, and casual Terrace Café—are complimentary and reservation-accessible. Menus feature artisanal ingredients, regional authenticity, and Pépin's classical techniques. The Culinary Centre offers hands-on cooking classes. Royal Caribbean provides adequate mass-market dining: main dining rooms with rotating menus, Windjammer buffet, and paid specialty venues (€35-100pp) including Jamie's Italian, Chops Grille, and Wonderland. While Royal Caribbean's quantity and variety impress, Oceania's quality, consistency, and inclusive access to premium dining establish clear superiority for discerning palates."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Royal Caribbean suits first-time cruisers seeking accessible introduction to cruising with forgiving infrastructure and abundant choices. The scale—multiple restaurants, entertainment venues, and activity options—ensures something for every preference. Familiar American-style service, English-language dominance, and straightforward navigation (despite ship size) reduce intimidation. However, the complexity of managing extras—beverage packages, dining reservations, excursion bookings—can overwhelm novices. Oceania offers gentler onboarding with inclusive simplicity: no package decisions, no surprise bills, and intuitive small-ship layout. The sophisticated atmosphere assumes some cruising familiarity, potentially discomforting absolute beginners. Royal Caribbean's larger passenger volume provides anonymity for experimentation; Oceania's intimacy demands social engagement. First-timers prioritising ease should consider Oceania's inclusions; those wanting excitement should choose Royal Caribbean."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Scale fundamentally distinguishes these lines: Royal Caribbean's 225,000-tonne vessels carry 5,000+ passengers across neighbourhoods resembling floating cities; Oceania's 66,000-tonne ships accommodate under 1,300 with yacht-like intimacy. Philosophy diverges sharply—Royal Caribbean sells experiences and entertainment as destination; Oceania positions the voyage as transportation to authentic cultural immersion. Demographics separate clearly: Royal Caribbean attracts families, young couples, and multigenerational groups; Oceania exclusively targets affluent adults over 50. Pricing models oppose: Royal Caribbean's à la carte approach with constant upselling versus Oceania's inclusive, predictable costs. Dining represents the most tangible difference—Oceania's complimentary specialty restaurants versus Royal Caribbean's paid premium venues. Shore time philosophy contrasts: Royal Caribbean's efficient port rotations maximize onboard revenue; Oceania's extended stays enable deeper exploration. Ultimately, they serve fundamentally different traveller motivations rather than competing directly."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "title": "Cunard Line Transatlantic Cruises 2026",
+  "intro": "Cunard Line's legendary Transatlantic crossings between Southampton and New York represent the most iconic ocean voyage in maritime history, continuing a tradition that began in 1840. Aboard the magnificent Queen Mary 2, the last true ocean liner in service, passengers experience seven days of uninterrupted seafaring elegance across the North Atlantic. This is not a cruise—it is a crossing, where the journey itself is the destination. Dress codes remain formal, afternoon tea is served daily by white-gloved waiters, and distinguished speakers from the Cunard Insights enrichment programme captivate audiences. The 2,620-passenger vessel features the only planetarium at sea, a Canyon Ranch spa, and kennels for travelling pets. Cunard's Transatlantic voyages attract discerning travellers seeking the romance of classic ocean travel without the interruptions of port calls, save for occasional westbound calls at Halifax or eastbound stops in Hamburg.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-9 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Queen Mary 2"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "New York"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring (Apr-May)",
+      "inside_eur": 899,
+      "balcony_eur": 1499,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Summer (Jun-Aug)",
+      "inside_eur": 1199,
+      "balcony_eur": 1899,
+      "suite_eur": 3599
+    },
+    {
+      "season": "Autumn (Sep-Oct)",
+      "inside_eur": 999,
+      "balcony_eur": 1599,
+      "suite_eur": 2999
+    },
+    {
+      "season": "Winter (Nov-Mar)",
+      "inside_eur": 799,
+      "balcony_eur": 1299,
+      "suite_eur": 2399
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Classic Eastbound Crossing",
+      "duration_nights": 7,
+      "ports": [
+        "New York",
+        "Southampton"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Uninterrupted ocean voyage with five full sea days"
+    },
+    {
+      "name": "Westbound with Halifax",
+      "duration_nights": 7,
+      "ports": [
+        "Southampton",
+        "Halifax",
+        "New York"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Historic Canadian port call with immigration museum"
+    },
+    {
+      "name": "Hamburg Extension Eastbound",
+      "duration_nights": 9,
+      "ports": [
+        "New York",
+        "Southampton",
+        "Hamburg"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Continental European arrival with overnight Hamburg"
+    },
+    {
+      "name": "Christmas Crossing",
+      "duration_nights": 7,
+      "ports": [
+        "New York",
+        "Southampton"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Festive at-sea celebrations with gala Christmas dinner"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Mary 2",
+      "capacity": 2691,
+      "year": 2004,
+      "best_for": "Traditional ocean liner enthusiasts, enrichment seekers, pet owners",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All meals in Britannia restaurant, King's Court buffet, and pub",
+    "Afternoon tea service",
+    "Nightly entertainment and live music",
+    "Cunard Insights lectures and workshops",
+    "Planetarium shows",
+    "Fitness centre and swimming pools",
+    "Basic WiFi (higher tiers extra)",
+    "Gratuities (on select fare types)"
+  ],
+  "whats_extra": [
+    "Drinks packages and à la carte beverages",
+    "Specialty dining in Verandah, Carinthia Lounge",
+    "Canyon Ranch spa treatments",
+    "Satellite internet upgrades",
+    "Shore excursions at Halifax",
+    "Kennel reservations for pets",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for optimal cabin selection, particularly for sheltered balcony cabins on lower decks preferred by traditional crossers. Cunard releases Transatlantic schedules approximately 18 months in advance. Consider 'Cunard Fare' for flexibility or 'Sailaway' for lowest rates. Westbound crossings typically command premium pricing due to stronger demand. Join Cunard World Club for past-passenger benefits after first voyage.",
+  "top_ports": [
+    {
+      "port": "Southampton",
+      "time_in_port": "Departure 6pm / Arrival 6:30am",
+      "top_activity": "Mayflower Theatre pre-cruise stay (£89)",
+      "tip": "Arrive day before—Cunard terminal opens 10am"
+    },
+    {
+      "port": "New York (Brooklyn)",
+      "time_in_port": "Arrival 6:30am / Departure 5pm",
+      "top_activity": "Helicopter Manhattan tour ($299)",
+      "tip": "Port side cabins see Statue of Liberty arrival"
+    },
+    {
+      "port": "Halifax",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Canadian Museum of Immigration at Pier 21 ($15 CAD)",
+      "tip": "Compact downtown—walkable from pier, no shuttle needed"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Transatlantic cruise cost?",
+      "answer": "Cunard Transatlantic crossings range from €799 for interior cabins in winter shoulder season to €3,599+ for Queens Grill suites in summer peak. Typical Britannia balcony cabins average €1,499-€1,899. Fares include accommodation, meals, entertainment, and enrichment programming. Beverages, specialty dining, spa services, and satellite internet incur additional charges. Cunard frequently offers 'Sailaway' fares 20-30% below standard rates with reduced flexibility. Single travellers face 175-200% supplements, though occasional solo traveller promotions reduce this to 125%. Gratuities of €14 per person daily apply unless purchasing inclusive fare types."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Transatlantic?",
+      "answer": "Only Queen Mary 2 operates scheduled Transatlantic crossings, maintaining Cunard's 184-year legacy on this route. Built specifically for North Atlantic conditions with 40% greater steel strength than standard cruise ships, she completes 20-25 crossings annually between Southampton and New York. Queen Victoria and Queen Elizabeth occasionally position through the Atlantic during repositioning cruises, but these feature multiple port stops rather than true crossings. Queen Mary 2's unique design includes deeper draft, reinforced bow, and higher freeboard for ocean conditions. Her kennels accommodate 24 cats and dogs—unique among passenger vessels."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "May through October offers optimal Transatlantic conditions with calmer seas, longer daylight hours, and milder temperatures. July and August provide warmest weather for deck activities but command highest fares and attract family groups. September crossings balance pleasant conditions with lower prices and fewer children. Experienced crossers favour April and October 'shoulder season' voyages for dramatic skies and potential wildlife sightings. November through March crossings suit budget-conscious travellers and those seeking solitude, though North Atlantic winter brings stronger swells and shorter days. Hurricane season (June-November) rarely affects these northern routes."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard Transatlantic fares encompass accommodation, all meals in Britannia restaurant and King's Court buffet, traditional afternoon tea, nightly entertainment, live music throughout public rooms, Cunard Insights enrichment lectures, planetarium shows, fitness centre access, and swimming pools. Basic WiFi for messaging apps is now included; streaming requires paid upgrade. Accommodation-level dining privileges apply—Britannia, Princess Grill, or Queens Grill restaurants correspond to cabin category. Self-service launderettes are complimentary; valet laundry incurs charges. Gratuities are included with 'Cunard Fare' bookings but added to 'Sailaway' fares at €14 per person daily."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Transatlantic crossings operate between Southampton, England and New York (Brooklyn Cruise Terminal), USA—approximately 3,150 nautical miles. Classic crossings are non-stop with five or six consecutive sea days. Westbound voyages occasionally include Halifax, Nova Scotia (7am-4pm) for Canadian immigration history and maritime heritage. Eastbound extended crossings may continue from Southampton to Hamburg, Germany for Continental European access. No Caribbean or Mediterranean ports feature on standard crossings. Southampton offers excellent rail connections to London (75 minutes). New York's Brooklyn terminal provides Manhattan skyline views but requires taxi/transfer for airport connections."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard Transatlantic bookings 9-18 months in advance for optimal cabin selection, particularly sheltered balcony cabins on Decks 4-5 preferred by experienced crossers for stability and traditional ocean liner atmosphere. Cunard releases schedules approximately 18 months ahead. Popular crossings including Christmas, New Year, and anniversary voyages sell out 12+ months early. Last-minute 'Sailaway' fares appear 60-90 days before departure but offer limited cabin categories. Deposit requirements are 25% for standard fares, fully refundable until final payment (typically 90 days pre-departure). Consider booking flights and pre/post-cruise hotels simultaneously, especially for Southampton departures requiring same-day UK arrival."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard Transatlantic crossings suit families with children aged 8+ who appreciate structured activities and formal environments, though they differ fundamentally from resort-style cruises. The Zone (ages 2-7), Zone 2 (8-12), and Zone 3 (13-17) operate limited hours given lower family demographics. No waterslides, climbing walls, or character meet-and-greets feature. Children must adhere to evening dress codes when dining with parents. The crossing format—seven days without ports—demands self-entertainment capabilities. Families particularly value kennel facilities for travelling with pets. School holiday crossings (July-August, Easter, Christmas) carry highest family concentrations and enhanced children's programming. Infant facilities are minimal; Cunard recommends minimum age six months."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation policy operates on a sliding scale based on departure proximity. Cancellations 91+ days before sailing forfeit deposit only (25% of cruise fare). 90-61 days prior: 50% of total fare. 60-31 days: 75% forfeiture. 30 days or less: 100% non-refundable. 'Cunard Fare' bookings permit one complimentary change to sailing date or ship before final payment. 'Sailaway' fares are non-refundable from booking. Travel insurance is strongly recommended given Transatlantic airfare commitments. Cunard's Book with Confidence policy allows penalty-free changes on select bookings during promotional periods. COVID-19 protocols have been discontinued; standard medical cancellation terms apply. Rebooking credits issued for Cunard-initiated cancellations remain valid 12 months."
+    }
+  ]
+}

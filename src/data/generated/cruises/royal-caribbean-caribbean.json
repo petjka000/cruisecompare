@@ -1,0 +1,226 @@
+{
+  "title": "Royal Caribbean Caribbean Cruises 2026",
+  "intro": "Royal Caribbean has dominated Caribbean cruising since 1968, operating the most technologically advanced and largest ships ever built. Their private destinations—Perfect Day at CocoCay in The Bahamas and Labadee in Haiti—offer exclusive experiences unavailable to other cruise lines. The Caribbean remains Royal Caribbean's foundational market, with year-round deployments from Florida and seasonal European repositionings. Their Oasis and Icon class vessels deliver unmatched entertainment including surf simulators, zip lines, and the Ultimate Abyss slide. Eastern Caribbean itineraries feature Perfect Day stops, while Western routes emphasize adventure in Cozumel and Roatán. Southern Caribbean sailings reach smaller islands like St. Lucia and Barbados. Royal Caribbean's investment in terminal infrastructure at PortMiami and Port Canaveral ensures seamless embarkation. The line's dynamic pricing rewards early commitment, with significant savings for guests booking 9-12 months ahead.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Wonder of the Seas",
+      "Oasis of the Seas",
+      "Icon of the Seas",
+      "Harmony of the Seas"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Port Canaveral",
+      "Fort Lauderdale",
+      "Galveston",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Shoulder (Mar-May, Nov)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Low (Jun-Oct)",
+      "inside_eur": 599,
+      "balcony_eur": 899,
+      "suite_eur": 1499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Eastern Caribbean & Perfect Day",
+      "duration_nights": 7,
+      "ports": [
+        "Miami",
+        "Nassau",
+        "Perfect Day at CocoCay",
+        "St. Thomas",
+        "St. Maarten"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Full day at award-winning private island with Thrill Waterpark"
+    },
+    {
+      "name": "Western Caribbean Adventure",
+      "duration_nights": 7,
+      "ports": [
+        "Port Canaveral",
+        "Cozumel",
+        "Roatán",
+        "Costa Maya",
+        "Perfect Day at CocoCay"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Mayan ruins and world-class snorkeling"
+    },
+    {
+      "name": "Southern Caribbean Explorer",
+      "duration_nights": 12,
+      "ports": [
+        "Fort Lauderdale",
+        "Aruba",
+        "Curaçao",
+        "Bonaire",
+        "St. Lucia",
+        "Barbados",
+        "Antigua"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Diverse island cultures and pristine beaches"
+    },
+    {
+      "name": "Icon of the Seas Eastern",
+      "duration_nights": 7,
+      "ports": [
+        "Miami",
+        "Royal Caribbean's Private Destination",
+        "St. Thomas",
+        "St. Maarten"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "World's largest cruise ship with 8 neighborhoods"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Icon of the Seas",
+      "capacity": 7600,
+      "year": 2024,
+      "best_for": "Families seeking ultimate entertainment",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Wonder of the Seas",
+      "capacity": 5700,
+      "year": 2022,
+      "best_for": "Multi-generational groups",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Oasis of the Seas",
+      "capacity": 5400,
+      "year": 2009,
+      "best_for": "Value-conscious families",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Harmony of the Seas",
+      "capacity": 5500,
+      "year": 2016,
+      "best_for": "Active couples and families",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Symphony of the Seas",
+      "capacity": 5500,
+      "year": 2018,
+      "best_for": "Entertainment enthusiasts",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and Windjammer buffet",
+    "Selected casual dining venues including Sorrento's and Café Promenade",
+    "Broadway-caliber entertainment and AquaTheater shows",
+    "Access to pools, waterslides, and fitness center",
+    "Adventure Ocean youth programming (ages 3-17)",
+    "Port taxes and government fees",
+    "Basic Wi-Fi (2024+ bookings)"
+  ],
+  "whats_extra": [
+    "Beverage packages (Classic €55-75/day, Premium €65-85/day)",
+    "Specialty dining (€35-75 per person)",
+    "Shore excursions (€45-189 per port)",
+    "Gratuities (€16-18 per person/day)",
+    "Spa and salon services",
+    "Casino gambling",
+    "Voom Surf & Stream Wi-Fi upgrade",
+    "Photos and retail purchases",
+    "Laundry and dry cleaning"
+  ],
+  "booking_strategy": "Royal Caribbean releases itineraries 18-24 months ahead with lowest prices at launch. Wave Season (January-March) offers added perks like onboard credit and beverage packages. Repositioning cruises in April and November provide 30-40% savings. Guarantee staterooms reduce fares 10-15% for flexible guests. Crown & Anchor Society members receive exclusive discounts and priority boarding.",
+  "top_ports": [
+    {
+      "port": "Perfect Day at CocoCay",
+      "time_in_port": "7am-5pm (full day)",
+      "top_activity": "Thrill Waterpark admission (€89-119)",
+      "tip": "Arrive early for Daredevil's Peak, tallest waterslide in North America"
+    },
+    {
+      "port": "Nassau",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Atlantis Aquaventure (€189)",
+      "tip": "Book independently via Atlantis website for 15% savings"
+    },
+    {
+      "port": "Cozumel",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Palancar Reef snorkeling (€65)",
+      "tip": "Taxi to Playa Palancar for uncrowded beach experience"
+    },
+    {
+      "port": "St. Thomas",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Magens Bay beach (€45 with taxi)",
+      "tip": "Morning arrival avoids cruise ship crowds; afternoon rain common"
+    },
+    {
+      "port": "Roatán",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Tabyana Beach and Gumbalimba Park (€89)",
+      "tip": "West Bay beaches superior to Mahogany Bay cruise terminal area"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Caribbean cruise cost?",
+      "answer": "Royal Caribbean Caribbean cruises range from €599 for interior cabins during low season to €2,499+ for suites in peak winter months. Seven-night sailings typically cost €699-€1,199 depending on ship class and season. Icon of the Seas commands 40-60% premiums over older Oasis-class vessels. Balcony staterooms average €899-€1,399, while suites with Royal Genie service start at €1,899. Prices exclude gratuities (€16-18/day), beverages, and excursions. Children often sail at reduced rates or free during promotional periods. Total vacation costs including flights, pre-cruise hotel, and onboard spending typically reach €2,500-€4,000 per person for a week-long sailing."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Caribbean?",
+      "answer": "Royal Caribbean deploys its newest and largest ships to the Caribbean year-round. Icon of the Seas, the world's largest cruise ship at 250,800 gross tons, sails 7-night Eastern and Western Caribbean itineraries from Miami. Wonder of the Seas operates alternating Eastern and Western routes from Port Canaveral. Oasis, Harmony, and Symphony of the Seas rotate through Miami, Fort Lauderdale, and Port Canaveral. Smaller Freedom and Voyager class ships handle seasonal Caribbean deployments and repositioning cruises. Independence of the Seas serves Galveston for Texas-based guests. Quantum-class ships occasionally offer Caribbean sailings during winter months. The line typically assigns 8-10 ships to Caribbean waters each season."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "December through February offers ideal weather with temperatures 24-28°C, minimal rainfall, and low hurricane risk, though prices peak 40-60% above average. March-April provides excellent conditions with slightly lower fares before spring break crowds. May-June presents value opportunities with warming seas and fewer children aboard. July-August brings family peak season, higher humidity, and afternoon thunderstorms, but excellent water visibility for diving. September-October offers lowest prices (30-40% below peak) with highest hurricane risk—Royal Caribbean provides flexible rebooking policies during this period. November combines improving weather with pre-holiday pricing. Southern Caribbean routes remain drier year-round than Eastern and Western itineraries."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean Caribbean cruises include accommodation, all main dining room meals, Windjammer buffet, select casual venues like Sorrento's pizza and Café Promenade, Broadway-style shows, AquaTheater performances, ice skating shows, access to pools and waterslides, fitness center, Adventure Ocean youth club, and port taxes. Complimentary room service breakfast is available; other room service incurs €7.95 delivery fee. Basic Voom Wi-Fi is included for 2024+ bookings. Not included are alcoholic beverages, specialty restaurants, shore excursions, spa services, casino play, photos, premium Wi-Fi speeds, and gratuities. The Cruise Planner website allows pre-purchase of beverage packages, dining, and excursions at 10-40% discounts compared to onboard pricing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Eastern Caribbean itineraries visit Perfect Day at CocoCay (Royal Caribbean's private island), Nassau, St. Thomas, St. Maarten, San Juan, and Labadee. Western Caribbean routes include Cozumel, Costa Maya, Roatán, Belize City, Falmouth (Jamaica), Grand Cayman, and Perfect Day at CocoCay. Southern Caribbean sailings reach Aruba, Curaçao, Bonaire, St. Lucia, Barbados, Antigua, Grenada, and Trinidad. Departure ports are Miami, Port Canaveral, Fort Lauderdale, Galveston, and seasonally Barcelona for repositioning cruises. Perfect Day at CocoCay features Thrill Waterpark, Oasis Lagoon freshwater pool, and Chill Island beach zones exclusively for Royal Caribbean guests. Port times typically range 8-10 hours, with private destination stays extending to full days."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Royal Caribbean releases Caribbean itineraries 18-24 months in advance with lowest prices at launch, typically 12-15% below eventual average fares. Optimal booking window is 9-12 months ahead for best cabin selection and pricing. Wave Season (January-March) offers added value through onboard credits, beverage packages, or reduced deposits despite slightly higher base fares. Last-minute deals within 60 days are rare for Caribbean sailings due to strong demand. Guarantee staterooms (where Royal Caribbean assigns cabin location) provide 10-15% savings for flexible travelers. Suite categories, especially on Icon and Wonder of the Seas, often sell out 6-9 months ahead. Crown & Anchor Society members receive early access to new itineraries and exclusive discounts unavailable to general public."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean excels for Caribbean family cruising with unmatched facilities across all age groups. Adventure Ocean provides complimentary programming for ages 3-17 with science labs, theater workshops, and teen disco spaces. Splashaway Bay and Perfect Storm waterslides entertain younger children while adults enjoy Solarium adults-only retreat. Family-connected staterooms accommodate multi-generational groups. Specialty dining packages please selective eaters. Shore excursions include family-friendly options like beach breaks, wildlife encounters, and cultural tours with shorter durations. Evening entertainment spans Broadway musicals, ice shows, and AquaTheater high-diving performances suitable for all ages. The line's private destinations offer controlled environments with lifeguarded beaches and organized youth activities. Babysitting services (€6-8/hour) extend adult evening options."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's standard cancellation policy for Caribbean cruises charges no penalty for cancellations 90+ days before sailing. 89-75 days incurs deposit loss (typically €200-€500 per person). 74-61 days costs 25% of total fare; 60-31 days costs 50%; 30 days or less forfeits 100%. Cancel for Any Reason protection, available as add-on purchase within 21 days of initial deposit, provides 75% future cruise credit for cancellations up to 48 hours before sailing. Standard travel insurance through Royal Caribbean covers medical emergencies and trip interruption. Hurricane protection allows penalty-free rebooking when National Hurricane Center issues warnings for ports of call. Pandemic-related flexible policies may apply during health emergencies, with specific terms updated on royalcaribbean.com."
+    }
+  ]
+}

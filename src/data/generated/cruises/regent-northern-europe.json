@@ -1,0 +1,200 @@
+{
+  "title": "Regent Seven Seas Northern Europe Cruises 2026",
+  "intro": "Regent Seven Seas Cruises redefines luxury exploration of Northern Europe with its all-inclusive, all-suite fleet. Sailing from May through September, these voyages unlock the Baltic's imperial capitals, Norway's dramatic fjords, and Iceland's volcanic frontiers without compromise. Every fare includes unlimited shore excursions, premium beverages, specialty dining, Wi-Fi, and gratuities—eliminating the nickel-and-diming common elsewhere. The intimate, 490-750 guest ships access ports unreachable by larger vessels: docking in Copenhagen's heart, threading Geirangerfjord to the Seven Sisters waterfall, or overnighting in St. Petersburg for Hermitage immersion. Regent's hallmarks—impeccable service ratios near 1:1, Canyon Ranch spa therapies, and enrichment from destination lecturers—elevate cultural immersion. For discerning travelers seeking seamless, unhurried discovery of Scandinavia, the Baltic, and British Isles, Regent delivers the region's most comprehensive luxury experience.",
+  "quick_facts": {
+    "price_from_eur": 6490,
+    "duration_range": "7-16 nights",
+    "best_months": [
+      "Jun",
+      "Jul",
+      "Aug"
+    ],
+    "ships_on_route": [
+      "Seven Seas Splendor",
+      "Seven Seas Navigator",
+      "Seven Seas Voyager"
+    ],
+    "departure_ports": [
+      "Copenhagen",
+      "Stockholm",
+      "Amsterdam",
+      "Southampton",
+      "Reykjavik"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/Sep)",
+      "inside_eur": 0,
+      "balcony_eur": 6490,
+      "suite_eur": 8490
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 0,
+      "balcony_eur": 8990,
+      "suite_eur": 12490
+    },
+    {
+      "season": "Holiday/Baltic",
+      "inside_eur": 0,
+      "balcony_eur": 10990,
+      "suite_eur": 15990
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Baltic Jewels",
+      "duration_nights": 10,
+      "ports": [
+        "Copenhagen",
+        "Tallinn",
+        "St. Petersburg",
+        "Helsinki",
+        "Stockholm"
+      ],
+      "price_from_eur": 7490,
+      "highlight": "Two full days in St. Petersburg with included Hermitage and Catherine Palace tours"
+    },
+    {
+      "name": "Norwegian Fjords Discovery",
+      "duration_nights": 7,
+      "ports": [
+        "Amsterdam",
+        "Stavanger",
+        "Flam",
+        "Geirangerfjord",
+        "Bergen",
+        "Southampton"
+      ],
+      "price_from_eur": 6490,
+      "highlight": "Scenic cruising through UNESCO-listed Geirangerfjord with waterfall views"
+    },
+    {
+      "name": "Iceland & British Isles Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Reykjavik",
+        "Isafjordur",
+        "Akureyri",
+        "Edinburgh",
+        "Belfast",
+        "Liverpool",
+        "Dublin",
+        "Cork",
+        "Southampton"
+      ],
+      "price_from_eur": 11990,
+      "highlight": "Circumnavigation of Iceland plus overnight in Reykjavik for Golden Circle immersion"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Splendor",
+      "capacity": 746,
+      "year": 2020,
+      "best_for": "Luxury connoisseurs seeking newest ship",
+      "price_from_eur": 7490
+    },
+    {
+      "name": "Seven Seas Voyager",
+      "capacity": 698,
+      "year": 2003,
+      "best_for": "Extended Baltic and Norwegian fjord itineraries",
+      "price_from_eur": 6490
+    },
+    {
+      "name": "Seven Seas Navigator",
+      "capacity": 490,
+      "year": 1999,
+      "best_for": "Intimate access to smaller Nordic ports",
+      "price_from_eur": 6990
+    }
+  ],
+  "whats_included": [
+    "All-suite accommodation with private balcony",
+    "Unlimited shore excursions in every port",
+    "Unlimited beverages including premium wines and spirits",
+    "Specialty restaurants without surcharge",
+    "Gratuities",
+    "Wi-Fi throughout ship",
+    "Valet laundry service",
+    "Round-trip business class air on intercontinental flights",
+    "Ground transfers",
+    "Pre-cruise hotel night on select voyages"
+  ],
+  "whats_extra": [
+    "Spa treatments at Canyon Ranch",
+    "Casino gaming",
+    "Boutique purchases",
+    "Premium caviar and wine by the bottle beyond included selection",
+    "Private car and driver excursions beyond standard group tours"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best suite selection and early booking savings of 10-15%; wave season (January-March) yields additional onboard credit. Regent's 2026 Northern Europe inventory opens 18-24 months prior. Penthouse and above suites sell first, particularly for St. Petersburg overnight calls. Consider repositioning cruises in May and September for 20-30% savings versus peak summer.",
+  "top_ports": [
+    {
+      "port": "St. Petersburg",
+      "time_in_port": "6am-6pm (2 days)",
+      "top_activity": "Hermitage Museum private after-hours tour (included)",
+      "tip": "Overnight allows evening ballet performance booking"
+    },
+    {
+      "port": "Geirangerfjord",
+      "time_in_port": "Scenic cruising 8am-10am",
+      "top_activity": "Seven Sisters waterfall viewpoints from deck (included)",
+      "tip": "Reserve early breakfast for optimal photography light"
+    },
+    {
+      "port": "Reykjavik",
+      "time_in_port": "8am-6pm (overnight on some sailings)",
+      "top_activity": "Golden Circle including Gullfoss and Geysir (included)",
+      "tip": "Extend with Blue Lagoon pre/post-cruise if overnight"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Fløibanen funicular to Mount Fløyen (included)",
+      "tip": "Morning departure avoids afternoon cruise crowds"
+    },
+    {
+      "port": "Tallinn",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Medieval Old Town walking tour (included)",
+      "tip": "Free time for Toompea Castle views after guided portion"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Northern Europe cruise cost?",
+      "answer": "Regent Seven Seas Northern Europe cruises start from approximately €6,490 per person for 7-night Norwegian fjord sailings in shoulder season, rising to €8,990-€12,490 for peak summer Baltic voyages. Fourteen-night Iceland and British Isles itineraries range €11,990-€15,990. These fares include all-suite accommodation with balcony, unlimited shore excursions, premium beverages, specialty dining, gratuities, Wi-Fi, round-trip business class air on intercontinental flights, and ground transfers. No interior cabins exist—every stateroom is ocean-facing with private veranda, making direct price comparison with mainstream lines misleading. Penthouse suites and above command €15,000-€35,000+ depending on voyage length and suite category."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Northern Europe?",
+      "answer": "Three Regent Seven Seas vessels operate Northern Europe itineraries in 2026. Seven Seas Splendor, the newest at 746 guests (2020), offers the most contemporary luxury with opulent Regent Suite and prime Baltic deployment. Seven Seas Voyager (698 guests, 2003 refurbished 2019) specializes in extended Norwegian fjord and Baltic programs with beloved Compass Rose dining venue. Seven Seas Navigator (490 guests, 1999 refurbished 2019) provides intimate access to smaller Icelandic and Scottish ports unavailable to larger vessels. All feature all-suite, all-balcony accommodation and Canyon Ranch spa. Ship assignment varies by itinerary length and port accessibility requirements."
+    },
+    {
+      "question": "When is best time to cruise Northern Europe?",
+      "answer": "June through August delivers optimal Northern Europe cruising with longest daylight hours—up to 19 hours in St. Petersburg midsummer—mild temperatures of 15-22°C, and fully operational tourist infrastructure. July peak offers best weather reliability for Norwegian fjord visibility and Iceland accessibility, though crowds and pricing maximize. June provides excellent value with blooming landscapes and fewer tourists. September shoulder season brings autumn colors, harvest festivals, and 20-30% fare reductions, though some Baltic attractions reduce hours and Iceland weather becomes unpredictable. May sailings suit budget-conscious travelers comfortable with cooler 10-18°C temperatures and occasional rain."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent Seven Seas offers the industry's most comprehensive Northern Europe inclusion package. Every fare covers all-suite accommodation with private balcony, unlimited shore excursions in every port (typically 3-5 options daily), unlimited beverages including premium wines, spirits, and Champagne, all specialty restaurants without reservation fees or surcharges, gratuities for all staff, unlimited Wi-Fi, valet laundry service, round-trip business class air on intercontinental flights with seamless connections, ground transfers between airport and ship, and pre-cruise hotel night on select voyages. This all-inclusive structure eliminates onboard spending decisions and delivers genuine value despite higher upfront pricing compared to a-la-carte competitors."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent Seven Seas Northern Europe itineraries encompass Baltic capitals, Norwegian fjords, Iceland, and British Isles. Baltic routes feature Copenhagen, Tallinn, overnight St. Petersburg for Hermitage and Catherine Palace immersion, Helsinki, and Stockholm. Norwegian fjord programs access Stavanger, Flåm with Flåmsbana railway, scenic cruising through UNESCO Geirangerfjord past Seven Sisters waterfall, and Bergen. Iceland voyages call Reykjavik with overnight options, Ísafjörður, and Akureyri for Lake Mývatn. British Isles extensions include Edinburgh, Belfast with Giant's Causeway, Liverpool, Dublin, and Cork for Blarney Castle. Smaller Navigator-specific itineraries reach Kirkwall, Orkney Islands, and Lerwick, Shetland for archaeological and seabird experiences unavailable to larger vessels."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Regent Seven Seas Northern Europe reservations 12-18 months prior to sailing for optimal suite selection and early booking incentives. Inventory typically opens 18-24 months ahead. Penthouse categories and above, particularly for St. Petersburg overnight itineraries, sell 12+ months in advance. Wave season promotions running January through March offer additional onboard credit of €300-€500 and reduced deposits. Last-minute availability within 90 days occasionally surfaces with 10-15% savings but limited category choice. For 2026 sailings, book by late 2024 for peak summer dates. Regent's flexible cancellation policy allows changes until final payment, typically 120 days prior, reducing advance booking risk."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas Northern Europe cruises suit mature families with teenage children seeking cultural immersion rather than water slides and kids' clubs. No dedicated children's facilities exist—this is adult-oriented luxury. However, the comprehensive inclusion model simplifies family travel: no excursion budgeting debates, unlimited dining flexibility, and spacious suites accommodate third berths in select categories. Educational value is exceptional with destination lecturers, included historical tours, and immersive port experiences in St. Petersburg, Bergen, and Edinburgh. Families with children under 10 may find limited programming and formal atmosphere challenging. Multi-generational groups appreciate the seamless logistics and varied excursion pacing options, from active hiking to relaxed cultural touring, accommodating different mobility levels within one voyage."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas provides structured cancellation protection with penalties escalating by departure proximity. Cancellations 151+ days prior incur no penalty with full refund. 150-121 days before sailing triggers loss of deposit, typically €500-€1,000 per person depending on voyage length. 120-91 days prior forfeits 25% of total fare. 90-76 days costs 50%, 75-61 days 75%, and 60 days or less results in 100% forfeiture. Regent strongly recommends comprehensive travel insurance covering cancellation for any reason, particularly for Northern Europe's unpredictable weather and potential medical evacuation from remote Norwegian or Icelandic ports. Cancel For Any Reason upgrades typically reimburse 75% of non-refundable amounts when purchased within 14-21 days of initial deposit."
+    }
+  ]
+}

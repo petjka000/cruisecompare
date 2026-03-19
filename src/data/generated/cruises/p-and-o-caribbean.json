@@ -1,0 +1,196 @@
+{
+  "title": "P&O Cruises Caribbean Cruises 2026",
+  "intro": "P&O Cruises brings British cruising heritage to the sun-drenched Caribbean, offering a refined yet relaxed alternative to American mega-ship lines. As Britain's oldest cruise operator with nearly 190 years of seafaring tradition, P&O delivers authentic Caribbean experiences with understated elegance. Their Caribbean sailings typically operate from Barbados or Antigua during winter months, featuring immersive island-hopping itineraries that explore both iconic ports and hidden gems. Onboard, guests enjoy a distinctly British atmosphere—formal nights, afternoon tea, and exceptional service—combined with tropical destinations. The line appeals to couples and mature travellers seeking quality over quantity, with excellent dining, enrichment programmes, and spacious adults-only retreats. P&O's Caribbean cruises represent excellent value for discerning British and European travellers wanting a seamless, fly-cruise experience with no jet lag concerns upon arrival in the islands.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Arvia",
+      "Iona"
+    ],
+    "departure_ports": [
+      "Barbados",
+      "Antigua"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Shoulder (Mar-Apr, Nov)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    },
+    {
+      "season": "Low (May-Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Caribbean Island Hopping",
+      "duration_nights": 14,
+      "ports": [
+        "Barbados",
+        "St. Lucia",
+        "St. Kitts",
+        "Antigua",
+        "St. Maarten",
+        "British Virgin Islands",
+        "Grenada",
+        "Dominica"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Comprehensive Eastern & Southern Caribbean exploration with overnight in Barbados"
+    },
+    {
+      "name": "7-night Eastern Caribbean Fly-Stay",
+      "duration_nights": 7,
+      "ports": [
+        "Antigua",
+        "St. Lucia",
+        "Barbados",
+        "Grenada"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Perfect taster with included hotel stay pre or post-cruise"
+    },
+    {
+      "name": "21-night Ultimate Caribbean",
+      "duration_nights": 21,
+      "ports": [
+        "Barbados",
+        "Aruba",
+        "Curaçao",
+        "Bonaire",
+        "St. Lucia",
+        "St. Kitts",
+        "Antigua",
+        "St. Maarten",
+        "Tortola",
+        "Dominica",
+        "Grenada"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Rare deep Southern Caribbean inclusion with ABC islands"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Arvia",
+      "capacity": 5200,
+      "year": 2022,
+      "best_for": "Families & Active Adults",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Iona",
+      "capacity": 5200,
+      "year": 2021,
+      "best_for": "Food Enthusiasts & Entertainment Seekers",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining rooms and buffet restaurants",
+    "Afternoon tea service",
+    "Evening entertainment and live shows",
+    "Use of gym, pools and sports facilities",
+    "Children's clubs and teen activities",
+    "Port taxes and gratuities",
+    "Return flights from UK airports",
+    "Overseas transfers",
+    "Hotel stay on fly-cruise packages"
+  ],
+  "whats_extra": [
+    "Specialty dining restaurants",
+    "Premium beverages and drinks packages",
+    "Shore excursions and island tours",
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Wi-Fi packages",
+    "Laundry and dry cleaning",
+    "Photography services",
+    "Onboard shopping"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts; P&O releases Caribbean itineraries 18 months in advance. Consider Select Price for added flexibility with dining times and cabin location. Look for launch offers combining free onboard spending money and low deposits. Shoulder season departures in November and March offer 20-30% savings versus peak Christmas and February half-term dates.",
+  "top_ports": [
+    {
+      "port": "Bridgetown, Barbados",
+      "time_in_port": "Embark/Disembark or 7am-7pm",
+      "top_activity": "Harrison's Cave tram tour (€75)",
+      "tip": "Arrive two days early to adjust; P&O packages include pre-cruise hotel"
+    },
+    {
+      "port": "Castries, St. Lucia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Piton hike or sulphur springs (€89-€149)",
+      "tip": "Book Piton excursions early—limited daily permits"
+    },
+    {
+      "port": "St. John's, Antigua",
+      "time_in_port": "7am-6pm",
+      "top_activity": "365 Beach catamaran cruise (€79)",
+      "tip": "Nelson's Dockyard offers free historical walking if skipping excursions"
+    },
+    {
+      "port": "Willemstad, Curaçao",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Snorkelling at Klein Curaçao (€129)",
+      "tip": "Walkable colourful colonial centre—no excursion required"
+    },
+    {
+      "port": "Oranjestad, Aruba",
+      "time_in_port": "7am-5pm",
+      "top_activity": "ATV tour of Arikok National Park (€109)",
+      "tip": "Eagle Beach ranked world's best—taxi cheaper than ship transfer"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Caribbean cruise cost?",
+      "answer": "P&O Caribbean cruises typically range from €699 for a 7-night low-season inside cabin to €2,499 for peak-season suites on 14-night voyages. Most 14-night fly-cruise packages with flights included fall between €1,199-€1,799 for balcony cabins. The fare includes return flights from UK airports, overseas transfers, hotel stays on applicable packages, all meals, entertainment, and gratuities. Drinks packages add €40-€55 per person daily. Shore excursions average €60-€150 per port. Booking 9-12 months ahead secures best prices, with P&O frequently offering launch incentives including onboard spending credits up to €400 per cabin."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Caribbean?",
+      "answer": "P&O deploys its two newest Excel-class ships to the Caribbean: Arvia (2022) and Iona (2021). Both 5,200-passenger LNG-powered vessels offer industry-leading environmental credentials and expansive open deck spaces perfect for tropical cruising. Arvia features the SkyDome retractable roof and high ropes course, while Iona pioneered P&O's gin distillery and enhanced dining concepts. These sister ships alternate Caribbean seasons, ensuring year-round presence. Unlike competitors, P&O does not base older vessels in the Caribbean, guaranteeing modern amenities, spacious cabins, and contemporary dining across all Caribbean sailings. Both ships offer The Retreat adults-only sanctuary and extensive family facilities."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "December through April represents peak season, offering ideal weather with temperatures 26-29°C, minimal rainfall, and calm seas—perfect for beach excursions and water activities. January and February particularly suit Europeans escaping winter gloom. March combines excellent conditions with slightly lower prices before Easter school holidays. November and early December offer 20-30% savings with generally good weather, though occasional tropical showers possible. June through October is hurricane season; while P&O rarely cancels, itineraries may divert. Shoulder months of May and late November balance value and weather. P&O's Barbados-based operations avoid lengthy Atlantic crossings, maximising time in optimal Caribbean conditions."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O Caribbean cruises include substantial value: return flights from UK regional airports, overseas transfers, and pre/post-cruise hotel stays on fly-cruise packages. Onboard, all meals in main dining rooms, buffets, and select casual venues are covered, alongside traditional afternoon tea. Entertainment spans West End-calibre theatre productions, live music, comedy, and cinema. Fitness centres, pools, sports courts, and children's clubs (ages 2-17) are complimentary. Gratuities and port taxes are included—no hidden service charges. Notably, P&O does not bundle drinks, Wi-Fi, or specialty dining, allowing guests to customise spending. Select Fare bookings add priority dining times, cabin location choice, and flexibility for modest premium."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O Caribbean itineraries focus on Eastern and Southern Caribbean gems, operating from Bridgetown, Barbados or St. John's, Antigua. Eastern routes visit St. Lucia's Pitons, St. Kitts' rainforest, Antigua's 365 beaches, and St. Maarten's dual cultures. Southern Caribbean sailings reach Grenada's spice plantations, Dominica's volcanic landscapes, and the ABC islands—Aruba, Bonaire, and Curaçao—offering exceptional diving and Dutch colonial architecture. P&O occasionally includes Tortola and Virgin Gorda in British Virgin Islands. Unlike American lines, P&O avoids overcrowded Nassau and private islands, prioritising authentic Caribbean experiences. Overnight stays in Barbados on some itineraries enable deeper island exploration and flexible flight schedules."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure optimal cabins and prices by booking 9-12 months ahead, with P&O releasing Caribbean itineraries approximately 18 months in advance. Early booking typically yields lowest prices, best cabin locations, and promotional incentives including onboard spending money (often €200-€400 per cabin) and reduced deposits. Peak Christmas and February half-term dates sell out 10-12 months ahead. For shoulder season travel, 6-9 months suffices. Last-minute deals under €800 for 14 nights occasionally appear 8-10 weeks before departure, though cabin choice becomes severely limited. P&O's Select Fare offers price protection and flexibility to change dates for minimal fee, valuable for long-range planning."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O Caribbean cruises suit families exceptionally well, particularly during school holiday periods when children's clubs operate at full capacity. The Reef clubs cater ages 2-4, 5-8, 9-12, and 13-17 with age-appropriate activities, freeing parents for adult-focused pursuits. Both Arvia and Iona feature expansive pool complexes with water slides, sports courts, and family entertainment. However, P&O maintains distinctly British traditions—formal evenings, set dining times, and quieter evening atmosphere—that may not suit families seeking American-style constant stimulation. Sea days between islands provide structured activities, though Caribbean itineraries emphasise port exploration. Family cabins and interconnecting rooms book quickly; reserve early for school holiday periods."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O's cancellation policy operates on sliding scale based on departure proximity. Cancellations 91+ days before sailing forfeit deposit only (typically 15% of cruise fare). 90-61 days prior loses 50% of total fare; 60-31 days loses 75%; 30 days or less forfeits 100%. Select Fare bookings offer greater flexibility with reduced penalties and ability to change dates for €50 per person fee. Travel insurance is strongly recommended—P&O offers own policies covering cruise-specific contingencies. For COVID-19 or similar disruptions, P&O provides future cruise credits or full refunds if government travel restrictions apply. Name changes incur €100 fee if processed 90+ days ahead. Consider cancellation-for-any-reason insurance for maximum protection on significant investments."
+    }
+  ]
+}

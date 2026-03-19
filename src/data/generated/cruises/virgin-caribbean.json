@@ -1,0 +1,198 @@
+{
+  "title": "Virgin Voyages Caribbean Cruises 2026",
+  "intro": "Virgin Voyages redefines Caribbean cruising with an adults-only experience exclusively for travellers 18 and older. Founded by Sir Richard Branson, this boutique cruise line combines the energy of a luxury resort with the freedom of open-ocean sailing. Their sleek, mid-sized ships—designed by world-renowned architects—feature no buffets, no forced formal nights, and no hidden fees. Instead, guests enjoy 20+ inclusive dining venues, immersive entertainment, and wellness-focused programming. Caribbean itineraries explore both Eastern and Western routes, calling at pristine beaches, vibrant cultural hubs, and Virgin's exclusive Beach Club at Bimini. With a strong sustainability ethos and a crew trained in premium hospitality, Virgin Voyages appeals to millennials, Gen X travellers, and anyone seeking a contemporary, social atmosphere without the traditional cruise constraints.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "5-8 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Scarlet Lady",
+      "Valiant Lady",
+      "Resilient Lady"
+    ],
+    "departure_ports": [
+      "Miami",
+      "San Juan"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 999,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Shoulder (Apr-May, Nov)",
+      "inside_eur": 799,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Low (Jun-Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 899,
+      "suite_eur": 1499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Eastern Caribbean Antilles",
+      "duration_nights": 7,
+      "ports": [
+        "Miami",
+        "San Juan",
+        "Puerto Plata",
+        "Beach Club at Bimini"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Overnight in San Juan with late-night dining"
+    },
+    {
+      "name": "Western Caribbean Charm",
+      "duration_nights": 6,
+      "ports": [
+        "Miami",
+        "Cozumel",
+        "Grand Cayman",
+        "Beach Club at Bimini"
+      ],
+      "price_from_eur": 799,
+      "highlight": "World-class diving and Virgin's private beach retreat"
+    },
+    {
+      "name": "Puerto Rico to Dominican Republic",
+      "duration_nights": 5,
+      "ports": [
+        "San Juan",
+        "Puerto Plata",
+        "Beach Club at Bimini",
+        "Miami"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Short-haul Caribbean escape with maximum beach time"
+    },
+    {
+      "name": "Fire & Sunset Soirées",
+      "duration_nights": 4,
+      "ports": [
+        "Miami",
+        "Key West",
+        "Beach Club at Bimini"
+      ],
+      "price_from_eur": 599,
+      "highlight": "Weekend getaway with extended Bimini beach club access"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Scarlet Lady",
+      "capacity": 2770,
+      "year": 2021,
+      "best_for": "First-time Virgin sailors, nightlife enthusiasts",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Valiant Lady",
+      "capacity": 2770,
+      "year": 2022,
+      "best_for": "Wellness-focused travellers, Mediterranean-Caribbean repositioning",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Resilient Lady",
+      "capacity": 2770,
+      "year": 2023,
+      "best_for": "Adventure seekers, longer Caribbean explorations",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "All 20+ dining venues",
+    "Basic beverages (soda, still water, drip coffee, tea)",
+    "Group fitness classes",
+    "WiFi",
+    "Gratuities",
+    "Entertainment shows",
+    "Beach Club at Bimini access"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and premium coffee",
+    "Shore excursions and spa treatments",
+    "Specialty dining upgrades",
+    "Flights and transfers",
+    "Travel insurance"
+  ],
+  "booking_strategy": "Book 6-9 months ahead for best cabin selection; wave season (Jan-Mar) offers 30% off promotions and free bar tab credits up to €600. Solo travellers benefit from reduced single supplements during promotional periods. Last-minute deals occasionally appear 60-90 days out but with limited cabin categories.",
+  "top_ports": [
+    {
+      "port": "Beach Club at Bimini (Virgin's private)",
+      "time_in_port": "9am-6pm (often extended)",
+      "top_activity": "DJ pool parties and floating cabanas (€89)",
+      "tip": "Reserve cabanas immediately upon booking—sell out fastest"
+    },
+    {
+      "port": "San Juan, Puerto Rico",
+      "time_in_port": "8am-11pm (overnight on select sailings)",
+      "top_activity": "Old San Juan food tour (€129) or bioluminescent bay kayak (€189)",
+      "tip": "Take advantage of late departure for mofongo dinner"
+    },
+    {
+      "port": "Puerto Plata, Dominican Republic",
+      "time_in_port": "9am-6pm",
+      "top_activity": "Damajagua 27 waterfalls adventure (€159)",
+      "tip": "Water shoes mandatory—rent on site or bring sturdy pair"
+    },
+    {
+      "port": "Cozumel, Mexico",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Palancar Reef scuba or snorkel (€149)",
+      "tip": "Book through Virgin for guaranteed on-time return"
+    },
+    {
+      "port": "Grand Cayman, Cayman Islands",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Stingray City sandbar encounter (€139)",
+      "tip": "Morning tours calmer—afternoon can get choppy"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages Caribbean cruise cost?",
+      "answer": "Virgin Voyages Caribbean cruises start from €699 per person for 4-5 night sailings in low season, with 7-night itineraries typically ranging €899-€1,399 for balcony cabins. Peak December through March sees prices climb to €999-€1,399 inside and €1,399-€2,499 for RockStar suites. The fare structure is more inclusive than mainstream lines—gratuities, WiFi, all restaurants, and basic drinks are covered. Budget €50-€100 daily for alcoholic beverages, or purchase prepaid bar tab packages during booking promotions when Virgin frequently offers €300-€600 in free spending credits."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to Caribbean?",
+      "answer": "Three sister ships comprise Virgin's Caribbean fleet: Scarlet Lady (2021) homeports year-round in Miami and pioneered the line's Caribbean programming; Valiant Lady (2022) splits seasons between Mediterranean and Caribbean, offering unique repositioning itineraries through the Atlantic; and Resilient Lady (2023) joined Caribbean operations with enhanced outdoor spaces and expanded wellness facilities. All three are identical 110,000-gross-ton vessels carrying 2,770 passengers at double occupancy, designed by Roman and Williams with Richard's Rooftop exclusive sundeck and the signature red hammock on every balcony. No traditional mega-ships here—Virgin deliberately avoids the 5,000+ passenger vessels common on Caribbean routes."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "December through April delivers optimal Caribbean conditions: minimal rainfall, humidity around 75%, and temperatures steady at 26-29°C. January and February particularly suit Europeans escaping winter, though demand peaks then with highest pricing. March offers ideal diving visibility before spring break crowds arrive. May and June provide excellent value with 20-30% lower fares and warm waters, though brief afternoon showers increase. Hurricane season officially runs June-November; Virgin monitors closely and adjusts itineraries proactively. September-October represent true low season with bargain pricing but highest weather risk. Virgin's Beach Club at Bimini operates at full capacity year-round with covered areas for inclement weather."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages includes substantially more than competitors: all 20+ restaurants from Korean BBQ to elevated Italian, with no surcharge venues or main dining room assignments. Basic beverages—still and sparkling water, sodas, drip coffee, tea—flow freely. Group fitness classes spanning yoga to HIIT, plus gym access and running track. WiFi for one device per cabin, though premium streaming packages cost extra. All entertainment including immersive theater productions and live music. Gratuities are prepaid and non-negotiable, eliminating awkward tipping moments. Beach Club at Bimini admission. What's notably absent: buffet lines, formal nights, children, and surprise charges. The inclusive model particularly benefits European travellers accustomed to transparent pricing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Virgin's Caribbean network centers on Miami and San Juan as primary homeports, with itineraries spanning Eastern, Western, and Southern Caribbean regions. Eastern routes feature Puerto Plata's Amber Cove, San Juan's historic district, and Tortola's pristine beaches. Western sailings reach Cozumel's reefs, Grand Cayman's stingrays, and Costa Maya's Mayan ruins. Every sailing includes Beach Club at Bimini, Virgin's private Bahamian destination with infinity pool, DJ programming, and floating cabanas. Unlike competitors with private islands, Bimini offers authentic local interaction alongside curated resort amenities. Port times trend longer than industry average—frequent 10pm departures and overnight stays in San Juan enable genuine destination immersion rather than rushed shore excursions."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Optimal booking window falls 6-9 months ahead for Caribbean sailings, securing preferred cabin categories and early-bird promotions. Virgin releases itineraries approximately 18 months in advance. Wave season (January-March) historically delivers strongest incentives: 30% off fares, free balcony upgrades, and bar tab bonuses reaching €600. Solo travellers should monitor single supplement sales, periodically reduced from 100% to 25% premium. Last-minute availability exists 60-90 days out, particularly for interior cabins, though RockStar suites and Sea Terrace balconies with hammocks sell earlier. Flexible travellers benefit from Virgin's rebooking policy allowing one complimentary fare adjustment before final payment. Group bookings (10+ cabins) unlock additional perks and reduced deposits."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages explicitly prohibits guests under 18, making this strictly adults-only cruising. The policy attracts child-free couples, friend groups, and solo travellers seeking sophisticated atmosphere without family-oriented programming. Nightlife extends past 2am with DJ sets and late dining venues. Pool areas maintain adult energy without waterslides or kids' clubs. That said, multi-generational families often split—parents or adult children sail Virgin while grandparents supervise younger ones on mainstream lines, reuniting pre or post-cruise. The 18+ restriction enables design choices impossible elsewhere: tattoo parlour, drag brunches, and uncensored comedy shows. Travellers seeking family Caribbean options should consider Royal Caribbean, Norwegian, or Disney Cruise Line instead."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Virgin Voyages offers tiered cancellation protection. Standard bookings: full refund if cancelled 121+ days before sailing; 50% refund 120-91 days; 25% refund 90-61 days; no refund inside 60 days. 'Lock It In' reduced deposit fares carry stricter terms—no refunds after booking, only future cruise credits. Virgin strongly recommends travel insurance covering cancellation for medical, employment, or family emergency reasons. Their 'Book with Confidence' program, periodically activated, extends final payment deadlines and enhances flexibility during uncertainty. Rebooking to alternative sailings incurs no penalty before final payment. Post-final payment, changes subject to fare difference and availability. COVID-19 protocols evolved to case-by-case evaluation rather than blanket policies."
+    }
+  ]
+}

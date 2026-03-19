@@ -1,0 +1,207 @@
+{
+  "title": "Cunard Line Canary Islands Cruises 2026",
+  "intro": "Cunard Line brings its legendary transatlantic elegance to the sun-drenched Canary Islands, offering discerning travellers a refined escape from Northern Europe's winter chill. Sailing aboard the iconic Queen Victoria or Queen Anne, guests experience white-gloved service, gala evenings, and the only regular ballroom dancing at sea. These voyages typically depart from Southampton, combining sea days with calls at Tenerife, Gran Canaria, Lanzarote and La Palma. Cunard's Canary Islands itineraries appeal to mature couples and solo travellers seeking cultural immersion without crowds, with enrichment lectures on astrophysics (La Palma boasts world-class observatories) and Canarian history. The line's Grills Suites provide exclusive access to private restaurants and the Grills Lounge, while Britannia guests enjoy the grand main dining room. With temperatures averaging 20°C in January, Cunard offers sophisticated winter warmth.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "12-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Queen Victoria",
+      "Queen Anne"
+    ],
+    "departure_ports": [
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Low (Nov-early Dec)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (Christmas/New Year)",
+      "inside_eur": 1499,
+      "balcony_eur": 2199,
+      "suite_eur": 3999
+    },
+    {
+      "season": "High (Jan-Mar)",
+      "inside_eur": 1099,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Canary Islands & Madeira",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Madeira",
+        "La Palma",
+        "Tenerife",
+        "Gran Canaria",
+        "Lanzarote",
+        "Southampton"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Includes overnight in Madeira with traditional toboggan ride opportunity"
+    },
+    {
+      "name": "14-night Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Vigo",
+        "Lisbon",
+        "Casablanca",
+        "Agadir",
+        "La Palma",
+        "Tenerife",
+        "Gran Canaria",
+        "Lanzarote",
+        "Southampton"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Combines North African exoticism with subtropical island relaxation"
+    },
+    {
+      "name": "13-night Christmas Canary Islands",
+      "duration_nights": 13,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Madeira",
+        "La Palma",
+        "Tenerife",
+        "Gran Canaria",
+        "Lanzarote",
+        "Vigo",
+        "Southampton"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Festive celebrations at sea with Christmas Day and New Year's Eve gala dinners"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Victoria",
+      "capacity": 2074,
+      "year": 2007,
+      "best_for": "Traditional cruisers, ballroom dancers, literary enthusiasts",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Queen Anne",
+      "capacity": 3000,
+      "year": 2024,
+      "best_for": "Modern luxury seekers, spa enthusiasts, food connoisseurs",
+      "price_from_eur": 999
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining rooms and buffet",
+    "Afternoon tea service daily",
+    "Nightly entertainment and theatre shows",
+    "Ballroom dancing with live orchestra",
+    "Guest lectures and enrichment programmes",
+    "Fitness centre and swimming pools",
+    "Deck games and quoits",
+    "Library with 6,000+ volumes",
+    "Children's programming (The Zone)",
+    "Port taxes and gratuities"
+  ],
+  "whats_extra": [
+    "Drinks packages and bar purchases",
+    "Specialty restaurants (The Verandah steakhouse from €55)",
+    "Shore excursions (€49-€189 per person)",
+    "Spa treatments and salon services",
+    "Internet packages",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photography services",
+    "Kennels for pets (Queen Mary 2 only - not Canary Islands)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection, particularly for Grills Suites. Cunard releases itineraries 18 months in advance. Early Saver fares offer 20% savings but with restrictions. Cunard Complete fares provide flexibility with included drinks and gratuities for €25-35/night premium. Solo travellers should book early as single-occupancy supplements run 75-100%. Consider repositioning cruises in March for value.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Mount Teide cable car and national park (€89)",
+      "tip": "Pre-book Teide excursions; altitude affects some visitors"
+    },
+    {
+      "port": "Las Palmas de Gran Canaria",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Vegueta old town and Casa de Colón (€49)",
+      "tip": "Walkable from port; excellent duty-free shopping at El Corte Inglés"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Timanfaya National Park volcanic tour (€79)",
+      "tip": "Morning excursions avoid coach queues; Jameos del Agua worth the drive"
+    },
+    {
+      "port": "Santa Cruz de La Palma",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Roque de los Muchachos observatory tour (€69)",
+      "tip": "One of world's darkest skies; caldera viewpoints stunning"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "7am-5pm (overnight on some sailings)",
+      "top_activity": "Monte toboggan wicker sled ride and botanical gardens (€59)",
+      "tip": "Cable car to Monte avoids winding roads; try poncha in old town"
+    },
+    {
+      "port": "Lisbon",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sintra palace day trip (€89)",
+      "tip": "Tram 28E offers authentic city tour; book Belém tower tickets ahead"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Canary Islands cruise cost?",
+      "answer": "Cunard Line Canary Islands cruises typically range from €899 for an inside cabin on a 12-night Low Season sailing to €4,000+ for Grills Suites during Christmas departures. Britannia balcony cabins average €1,399-€2,199 depending on season. The 2024-launched Queen Anne commands €100-200 premiums over Queen Victoria. Grills Suites (Princess and Queens) include exclusive restaurants, butler service and priority embarkation from €2,499. Solo travellers face 75-100% single supplements, though Cunard occasionally offers reduced supplements on selected sailings. All prices exclude flights to Southampton."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Canary Islands?",
+      "answer": "Cunard deploys Queen Victoria and Queen Anne on Canary Islands routes from Southampton. Queen Victoria, the line's intimate flagship, offers the most authentic Cunard experience with its Royal Court Theatre, Queens Room ballroom, and 6,000-book library. Queen Anne, Cunard's newest vessel, introduces contemporary luxury with 30% more space, a wellness studio, and expanded specialty dining including Sir Samuel's steakhouse. Queen Mary 2 exclusively handles transatlantic crossings and does not sail Canary Islands itineraries. Both Canary Islands ships feature the signature Cunard white-gloved afternoon tea and nightly gala dress codes."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "November through March offers ideal conditions, with temperatures of 18-24°C and minimal rainfall—perfect for escaping Northern European winter. December and January provide reliable sunshine when much of Europe freezes. Sea conditions remain calm year-round due to the archipelago's subtropical location. Avoid August when Saharan dust (calima) can reduce visibility and temperatures exceed 30°C. Christmas and New Year sailings command premium pricing but feature spectacular gala celebrations. March offers excellent value with warming seas and fewer crowds. The islands' diverse microclimates mean you can experience multiple weather zones in one day regardless of month."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's fare includes accommodation, all meals in Britannia restaurant or buffet, traditional afternoon tea with white-gloved service, nightly theatre entertainment, ballroom dancing with live orchestra, guest lectures, fitness facilities, swimming pools, deck games, and children's programming. Gratuities and port taxes are included for UK passengers. Not included are alcoholic beverages, specialty dining, shore excursions, spa services, internet, and laundry. Cunard Complete fares upgrade to include drinks package, Wi-Fi, and additional gratuities for approximately €25-35 per night. Room service is complimentary 24 hours, though late-night charges apply for some items. Formal wear is required for gala evenings."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Canary Islands itineraries feature Santa Cruz de Tenerife for Mount Teide, Spain's highest peak; Las Palmas de Gran Canaria with its UNESCO-listed Vegueta old town; Arrecife, Lanzarote for Timanfaya's volcanic landscapes; and Santa Cruz de La Palma, renowned for stargazing at Roque de los Muchachos. Most sailings include Funchal, Madeira, with its famous toboggan rides and botanical gardens. Extended voyages add Moroccan ports Casablanca and Agadir, plus Lisbon with its historic trams and Belém district. Southampton serves as the exclusive UK departure point. Sea days between destinations allow full enjoyment of Cunard's onboard traditions including fencing, dance classes, and planetarium shows on Queen Victoria."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard Canary Islands cruises 9-12 months ahead for optimal cabin selection, particularly for sought-after aft-facing balconies and Grills Suites. Cunard releases itineraries approximately 18 months in advance. Christmas and New Year sailings sell out 10-12 months ahead. Early Saver fares offer 20% discounts but require full payment at booking with change restrictions. Booking 6-8 weeks before departure can yield savings of 30-40% on remaining cabins, though Grills categories rarely discount. Solo travellers should book immediately when reduced single supplements appear—these sell within days. Cunard's loyalty programme, World Club, offers early access and onboard credits from previous sailings."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard's Canary Islands sailings suit families with children aged 8+ who appreciate structured activities and formal evenings, though the line primarily targets adults. The Zone provides supervised programming for ages 2-17, with separate teen spaces on Queen Anne. However, children's facilities are modest compared to mass-market lines—no waterslides or climbing walls. Formal dress codes require children to participate in gala nights. Sea days offer educational astronomy talks relevant to La Palma's observatories. Family-friendly shore excursions include camel rides in Lanzarote and whale-watching in Tenerife. Interconnecting cabins and third/fourth berths are limited; book early. Families seeking extensive children's infrastructure may prefer P&O Cruises' similar itineraries."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation policy varies by fare type. Early Saver fares are non-refundable from booking, though date changes are permitted for fees from €75 per person. Cunard Complete and Flexible fares allow cancellation with refunds on a sliding scale: 100% refund more than 90 days before departure, 50% refund 89-57 days, 25% refund 56-29 days, and no refund within 28 days. Travel insurance is strongly recommended as standard policies rarely cover cancellation for any reason. COVID-19 protocols have been discontinued, though Cunard reserves right to deny boarding for symptomatic passengers without refund. Bookings made through travel agents are subject to additional agency terms. Consider Cunard's Vacation Protection plan for comprehensive coverage."
+    }
+  ]
+}

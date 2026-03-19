@@ -1,0 +1,208 @@
+{
+  "title": "Cunard Line Africa & Canaries Cruises 2026",
+  "intro": "Cunard Line brings its legendary transatlantic heritage to Africa & Canaries cruising aboard the refined Queen Victoria and Queen Anne. These voyages combine the glamour of ocean travel with extraordinary geographic diversity—sailing from Southampton past Iberia's Atlantic coast to volcanic Canary Islands, then onward to Morocco's gateway ports and sub-Saharan African destinations including Cape Town, Walvis Bay, and Dakar. Cunard's White Star Service elevates every moment, from afternoon tea in the Queens Room to gala evenings in the Britannia Restaurant. The extended sea days between ports allow guests to fully immerse in the ship's enrichment programs, from Cunard Insights lectures on African history to planetarium shows and ballroom dancing. This is cruising as sophisticated exploration, where the journey rivals the destinations.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "12-21 nights",
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Queen Victoria",
+      "Queen Anne"
+    ],
+    "departure_ports": [
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Autumn 2025",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Winter 2025/26",
+      "inside_eur": 1499,
+      "balcony_eur": 2199,
+      "suite_eur": 4299
+    },
+    {
+      "season": "Spring 2026",
+      "inside_eur": 1399,
+      "balcony_eur": 1999,
+      "suite_eur": 3799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Canaries & Morocco",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Agadir",
+        "Casablanca",
+        "Gibraltar",
+        "Southampton"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Perfect introduction to Atlantic islands with Moroccan spice souks and volcanic landscapes"
+    },
+    {
+      "name": "17-night Africa Explorer",
+      "duration_nights": 17,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Dakar",
+        "Banjul",
+        "Abidjan",
+        "Takoradi",
+        "Lomé",
+        "Southampton"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Rare West African immersion with Cunard's onboard experts guiding cultural understanding"
+    },
+    {
+      "name": "21-night Cape Town Grand Voyage",
+      "duration_nights": 21,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Walvis Bay",
+        "Luderitz",
+        "Cape Town"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Ultimate African adventure culminating at Table Mountain with pre/post safari options"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Victoria",
+      "capacity": 2061,
+      "year": 2007,
+      "best_for": "Traditionalists & enrichment seekers",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Queen Anne",
+      "capacity": 3000,
+      "year": 2024,
+      "best_for": "Modern luxury with Cunard heritage",
+      "price_from_eur": 1399
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All meals in Britannia Restaurant or assigned dining venue",
+    "Afternoon tea service daily",
+    "Gala evening events and themed balls",
+    "Cunard Insights enrichment lectures",
+    "Planetarium shows (Queen Victoria)",
+    "Fitness centre and swimming pools",
+    "Nightly entertainment in Royal Court Theatre",
+    "Children's programming (The Zone, Night Nursery)",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Gratuities (EUR 16 per person per day)",
+    "Beverage packages and premium drinks",
+    "Specialty dining (Verandah Restaurant EUR 49)",
+    "Shore excursions (EUR 89-349 per port",
+    "Spa treatments and salon services",
+    "WiFi packages (EUR 24 per day)",
+    "Laundry and dry cleaning",
+    "Photography services",
+    "Casino gaming",
+    "Pre/post-cruise hotel stays and transfers"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection on these limited-deployment itineraries; Cunard's Saver Fares release 10-11 months out with EUR 200-400 savings but restrictions. Grand Voyage segments offer exceptional value. Cunard World Club members access priority booking and onboard credit. Consider back-to-back itineraries for comprehensive African exploration. Final payment due 90 days prior.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Teide National Park volcano tour (EUR 89)",
+      "tip": "Morning departure avoids afternoon cloud cover on mountain"
+    },
+    {
+      "port": "Casablanca",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Hassan II Mosque & Rick's Cafe (EUR 129)",
+      "tip": "Friday mosque access limited; verify sailing day"
+    },
+    {
+      "port": "Walvis Bay",
+      "time_in_port": "6am-4pm",
+      "top_activity": "Living Desert 4x4 adventure (EUR 159)",
+      "tip": "Morning fog common—wildlife viewing improves after 10am"
+    },
+    {
+      "port": "Cape Town",
+      "time_in_port": "Overnight (2 days)",
+      "top_activity": "Table Mountain & Robben Island (EUR 189)",
+      "tip": "Pre-book cable car tickets; weather-dependent"
+    },
+    {
+      "port": "Dakar",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Goree Island UNESCO memorial (EUR 99)",
+      "tip": "Sensitive historical site—guided interpretation essential"
+    },
+    {
+      "port": "Funchal",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Monte toboggan sledge & botanical gardens (EUR 79)",
+      "tip": "Toboggan queues form by 10am—disembark early"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Africa & Canaries cruise cost?",
+      "answer": "Cunard Africa & Canaries cruises start from EUR 1,299 for 12-night Canaries & Morocco voyages in inside cabins during autumn shoulder season. Balcony accommodations typically range EUR 1,899-2,199, while Princess Grill suites command EUR 3,499-4,299. The 21-night Cape Town Grand Voyage begins at EUR 2,899 inside, EUR 4,199 balcony. Prices include meals, afternoon tea, enrichment programming, and entertainment. Extras comprise gratuities (EUR 16 daily), drinks, WiFi, and excursions. Cunard's Saver Fares offer EUR 200-400 reductions with deposit restrictions. Solo travellers face 75-100% single supplements, though occasional promotional reductions apply."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Africa & Canaries?",
+      "answer": "Cunard deploys Queen Victoria and Queen Anne on Africa & Canaries routes from October through March annually. Queen Victoria, the 2,061-guest classic launched 2007, offers intimate scale with signature features including the first-at-sea planetarium and Royal Court Theatre. Queen Anne, Cunard's newest flagship entering 2024, carries 3,000 guests with contemporary luxury design, expanded wellness facilities, and the Bright Lights Society nightlife venue. Both maintain Cunard's White Star Service standards, gala evening traditions, and dedicated Queens Grill/Princess Grill accommodation tiers. Queen Anne handles longer Grand Voyage segments; Queen Victoria focuses on intensive Canaries and Moroccan itineraries."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "October through March delivers optimal conditions for Cunard's Africa & Canaries itineraries. Canary Islands enjoy spring-like temperatures of 20-24°C with minimal rainfall, ideal for volcanic hiking and coastal exploration. Morocco's Atlantic coast remains pleasant at 18-22°C, though December-January brings cooler evenings requiring layers. West African routes (Dakar to Cape Town) suit November-February when humidity drops and malaria risk diminishes. Cape Town arrivals peak January-March for warm, dry summer weather perfect for Table Mountain visibility. Avoid August-September sailings when Saharan dust (Calima) may affect Canary Islands. March voyages offer wildflower displays in Namaqualand during Walvis Bay calls."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's Africa & Canaries fares encompass accommodation, all main restaurant meals (breakfast, lunch, dinner, late-night buffet), traditional afternoon tea service, gala evening events with themed balls, Cunard Insights lecture series, planetarium shows aboard Queen Victoria, fitness centre access, swimming pools, nightly theatre entertainment, and children's programming. Stateroom amenities include nightly turndown service, bathrobes, and 24-hour room service. Gratuities, beverages, specialty dining, shore excursions, WiFi, spa services, and laundry incur additional charges. Queens Grill and Princess Grill bookings add priority embarkation, exclusive restaurant access, butler service, and complimentary bar setup. All fares include mandatory port taxes and fees."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Africa & Canaries itineraries feature Santa Cruz de Tenerife and Las Palmas in the Canary Islands for volcanic landscapes and colonial architecture. Moroccan calls include Casablanca for the Hassan II Mosque and Agadir for beach resorts and Souss-Massa National Park. West African routes visit Dakar (Senegal) with Goree Island, Banjul (Gambia), Abidjan (Ivory Coast), Takoradi (Ghana), and Lomé (Togo). Southern African voyages reach Walvis Bay (Namibia) for desert wildlife and Luderitz for German colonial heritage, culminating at Cape Town with overnight stay. European departure and arrival ports include Southampton, with Lisbon and Funchal providing Atlantic stepping stones."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard Africa & Canaries cruises 12-18 months ahead for optimal cabin selection, particularly for Queens Grill suites and sheltered balcony categories on Queen Victoria's lower decks. Cunard releases itineraries approximately 18 months in advance; Cunard World Club members access priority booking 24 hours before public release. Saver Fares appear 10-11 months prior with EUR 200-400 discounts but require full deposit and carry cancellation penalties. Grand Voyage segments to Cape Town sell rapidly due to limited annual deployment. Final payment falls 90 days before sailing. Last-minute availability occasionally emerges 60-90 days out, primarily in inside and obstructed-view categories, though itinerary-specific excursions may be fully booked."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard's Africa & Canaries cruises suit families with children aged 8+ who appreciate enrichment and destination immersion over high-energy activities. The Zone (ages 8-17) and Night Nursery (under 2s, evenings only) operate sea days and select port days. However, Cunard's refined atmosphere emphasizes adult-oriented programming—lectures, ballroom dancing, wine tastings—with limited waterslides or adventure facilities found on contemporary lines. Sea days between African ports provide educational opportunities through Cunard Insights speakers covering colonial history, wildlife, and cultural anthropology. Families seeking intensive port exploration benefit, though younger children may find formal evenings and extended dining challenging. Connecting cabins and family-friendly shore excursions require advance reservation."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation structure for Africa & Canaries cruises penalizes according to departure proximity. Cancellations 91+ days prior incur loss of deposit (typically EUR 300-500 per person). 90-61 days before sailing forfeits 25% of total fare; 60-31 days, 50%; 30-15 days, 75%; 14 days or less, 100% with no refund. Saver Fares carry stricter terms: deposit becomes non-refundable immediately upon booking, and cancellation fees apply earlier. Travel insurance covering cruise-specific cancellation reasons—including itinerary change protection—is strongly advised given Africa & Canaries routing complexity. Cunard's Cruise Care protection plan, purchasable within 14 days of deposit, offers cancel-for-any-reason credits up to 75% of non-refundable amounts for future sailing."
+    }
+  ]
+}

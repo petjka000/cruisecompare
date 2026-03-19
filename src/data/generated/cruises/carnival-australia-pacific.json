@@ -1,0 +1,188 @@
+{
+  "title": "Carnival Cruise Line Australia & Pacific Cruises 2026",
+  "intro": "Carnival Cruise Line brings its signature fun-for-all atmosphere to the Australia & Pacific region, offering an unbeatable combination of value-packed holidays and stunning South Pacific destinations. Operating year-round from Sydney and Brisbane, Carnival's Australian-based fleet delivers authentic cruise experiences tailored to local tastes, with affordable pricing that makes multi-island exploration accessible to families, couples, and solo travellers alike. The line's Pacific itineraries unlock paradise destinations including the pristine beaches of Fiji, the volcanic landscapes of Vanuatu, and the crystal-clear lagoons of New Caledonia. Onboard, guests enjoy Carnival's famous WaterWorks aqua parks, diverse dining options from casual bites to specialty restaurants, and vibrant entertainment spanning comedy clubs to deck parties. With shorter 7-night escapes and immersive 12-14 night adventures available, Carnival makes the dream of South Pacific island-hopping a reality without stretching your budget.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Carnival Luminosa",
+      "Carnival Splendor"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Brisbane"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Shoulder (Mar-May, Sep-Nov)",
+      "inside_eur": 699,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Low (Jun-Aug)",
+      "inside_eur": 599,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night South Pacific Islands",
+      "duration_nights": 7,
+      "ports": [
+        "Sydney",
+        "Noumea",
+        "Mystery Island",
+        "Sydney"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Perfect introduction to New Caledonia with two stunning island stops"
+    },
+    {
+      "name": "9-night Papua New Guinea",
+      "duration_nights": 9,
+      "ports": [
+        "Brisbane",
+        "Alotau",
+        "Kitava",
+        "Rabaul",
+        "Brisbane"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Rare access to remote tribal cultures and unspoiled coral reefs"
+    },
+    {
+      "name": "12-night Fiji & Vanuatu Explorer",
+      "duration_nights": 12,
+      "ports": [
+        "Sydney",
+        "Noumea",
+        "Mystery Island",
+        "Suva",
+        "Dravuni Island",
+        "Port Vila",
+        "Sydney"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Ultimate South Pacific immersion with four distinct island nations"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Carnival Luminosa",
+      "capacity": 2822,
+      "year": 2009,
+      "best_for": "Families & Couples",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Carnival Splendor",
+      "capacity": 3012,
+      "year": 2008,
+      "best_for": "Families & Groups",
+      "price_from_eur": 649
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "All main dining room meals",
+    "Lido Marketplace buffet",
+    "Pool deck food outlets (burgers, pizza, tacos)",
+    "Live stage shows and comedy club",
+    "WaterWorks aqua park access",
+    "Fitness centre and sports courts",
+    "Kids clubs (Camp Ocean, Circle C, Club O2)",
+    "Port taxes and government fees"
+  ],
+  "whats_extra": [
+    "Specialty dining restaurants ($15-35 per person)",
+    "Cheers! drinks package ($65/day)",
+    "Shore excursions ($89-299 per port",
+    "Spa treatments and salon services",
+    "Casino gambling",
+    "WiFi packages ($15-25/day)",
+    "Laundry and dry cleaning",
+    "Gratuities ($16-18/day per person)",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 6-12 months ahead for peak season; 9-18 months for school holidays. Watch for 'Fun Select' early booking rates and resident offers. Consider repositioning cruises in April/October for exceptional value.",
+  "top_ports": [
+    {
+      "port": "Noumea, New Caledonia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Amedee Island snorkelling ($159)",
+      "tip": "Take the local bus to Lemon Bay beaches to save on ship excursions"
+    },
+    {
+      "port": "Mystery Island, Vanuatu",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Glass-bottom boat reef tour ($89)",
+      "tip": "No tender required—walk straight off onto pristine beach"
+    },
+    {
+      "port": "Port Vila, Vanuatu",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Hideaway Island snorkelling with post office ($129)",
+      "tip": "Bargain at handicraft market near port for authentic souvenirs"
+    },
+    {
+      "port": "Suva, Fiji",
+      "time_in_port": "8am-5pm",
+      "top_activity": "River tubing at Navua ($189)",
+      "tip": "Taxis to Colo-I-Suva forest park cost fraction of ship tours"
+    },
+    {
+      "port": "Dravuni Island, Fiji",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Village visit and summit hike ($45)",
+      "tip": "Hike to 132m peak early morning for spectacular 360° views"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Carnival Cruise Line Australia & Pacific cruise cost?",
+      "answer": "Carnival Australia & Pacific cruises typically range from €599 to €2,199 per person for 7-14 night itineraries. Inside cabins start around €599-699 during low season (June-August) and €899-999 during peak December-February school holidays. Balcony cabins run €999-1,399, while suites command €1,599-2,199. These prices include accommodation, meals, entertainment, and port taxes. Additional costs include gratuities (€16-18/day), drinks packages (€65/day), and shore excursions (€89-299). Carnival frequently offers 'Fun Select' early booking discounts, resident rates for Australian/NZ passengers, and kids sail free promotions during off-peak periods, making it one of the most affordable ways to experience multiple South Pacific islands."
+    },
+    {
+      "question": "Which Carnival Cruise Line ships sail to Australia & Pacific?",
+      "answer": "Carnival deploys two purpose-based ships in Australia year-round. Carnival Luminosa (2,822 passengers, launched 2009, refurbished 2022) offers a more intimate experience with enhanced dining venues and the Cloud 9 Spa. Carnival Splendor (3,012 passengers, 2008) features the expansive WaterWorks aqua park, expanded kids facilities, and the adults-only Serenity retreat. Both vessels are permanently based in Australia—Luminosa primarily from Brisbane, Splendor from Sydney—eliminating repositioning delays. These ships are specifically modified for Australian operations with local voltage, currency handling, and culinary preferences including Vegemite, flat whites, and meat pie options at the buffet."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "The optimal window for Australia & Pacific cruises is December through February, when South Pacific islands experience dry, sunny weather with temperatures 26-30°C and minimal rainfall. This coincides with Australian summer school holidays, creating peak demand and pricing. March-April and September-November offer excellent value with pleasant 24-28°C conditions and fewer crowds, though occasional showers possible. May-August brings cooler, drier weather (20-25°C) ideal for active excursions but potentially too cool for beach-focused travellers. Cyclone risk exists December-March, though Carnival's itinerary flexibility typically navigates around weather systems. For diving and snorkelling visibility, September-November offers exceptional underwater clarity."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Carnival Australia & Pacific cruises include substantial value: your cabin accommodation, all meals in the main dining room and Lido Marketplace buffet, poolside casual dining (Guy's Burger Joint, BlueIguana Cantina, Pizza Pirate), live production shows, comedy club performances, deck parties, WaterWorks aqua park, mini-golf, sports courts, and comprehensive kids programming divided by age. Fitness centre access and basic dining beverages (iced tea, lemonade, coffee, tea) are included. Port taxes and government fees are bundled in quoted fares. Notably, Carnival does not artificially inflate base prices—what you see is genuinely inclusive of core experiences, unlike premium lines charging extra for basic dining and entertainment elements."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Carnival's Australia & Pacific itineraries feature diverse port combinations across four island nations. From Sydney, ships visit Noumea and Isle of Pines (New Caledonia), Mystery Island and Port Vila (Vanuatu), with occasional calls at Lifou and Mare. Brisbane departures emphasise Papua New Guinea (Alotau, Kitava, Rabaul, Kiriwina) and northern Fiji. Extended 12-14 night cruises combine multiple countries. Australian domestic ports include Moreton Island and Airlie Beach (Whitsundays). Each destination offers distinct experiences: French-influenced New Caledonia with world-class snorkelling, authentic Melanesian culture in Vanuatu, remote tribal traditions in Papua New Guinea, and quintessential Fijian hospitality. Tender ports like Mystery Island and Dravuni require ship-to-shore boat transfers."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Carnival Australia & Pacific cruises, optimal booking windows vary by travel period. School holiday sailings (December-January, April, July, September-October) require 9-18 months advance booking due to Australian family demand. Peak season Christmas/New Year itineraries often sell out 12+ months ahead. Shoulder season (March-May, late October-November) offers flexibility at 3-6 months. Last-minute deals occasionally appear 45-60 days prior for low-season departures, though cabin selection becomes limited. Carnival releases schedules approximately 18 months ahead, with best pricing typically at launch. Wave season (January-March) brings additional promotional incentives. Solo travellers and families requiring connecting cabins should book earliest, as these inventory categories sell fastest."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Carnival excels for Australia & Pacific family cruising, offering exceptional value and comprehensive children's programming. Camp Ocean entertains ages 2-11 with marine-themed activities, while Circle C (12-14) and Club O2 (15-17) provide age-appropriate social spaces. Family cabins and connecting rooms accommodate larger groups affordably. The WaterWorks aqua park, mini-golf, sports courts, and pool games keep children engaged during sea days. Family-friendly shore excursions include beach days, cultural villages, and wildlife encounters. Dining flexibility allows picky eaters with unlimited buffet access and complimentary 24-hour pizza and ice cream. Evening family comedy shows and deck parties create shared memories. With Australian school holiday timing and kids-sail-free promotions, Carnival makes multi-generational South Pacific travel genuinely accessible."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Carnival's Australia & Pacific cancellation policy operates on a sliding scale based on departure proximity. Cancellations 91+ days before sailing forfeit deposit only (typically €200-400 per person). 90-76 days loses 25% of total fare; 75-61 days loses 50%; 60-31 days loses 75%; 30 days or less incurs 100% penalty. For bookings made within penalty windows, stricter terms apply immediately. 'Carnival Vacation Protection' insurance (11-15% of cruise fare) offers cancellation for any reason credit of 75% future cruise credit, plus medical and trip interruption coverage. COVID-19 protocols have introduced flexible booking options allowing changes without penalty in certain circumstances. Always verify specific terms at booking, as promotional rates may carry non-refundable deposit requirements."
+    }
+  ]
+}

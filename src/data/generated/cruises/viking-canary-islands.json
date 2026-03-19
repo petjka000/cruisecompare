@@ -1,0 +1,223 @@
+{
+  "title": "Viking Cruises Canary Islands Cruises 2026",
+  "intro": "Viking Cruises brings its signature Scandinavian elegance to the sun-drenched Canary Islands, offering discerning travellers an intimate exploration of this Atlantic archipelago. Unlike mass-market alternatives, Viking's ocean vessels accommodate just 930 guests, ensuring uncrowded access to ports larger ships cannot reach. The Canary Islands itinerary showcases volcanic landscapes, colonial architecture, and year-round subtropical climate. Viking's destination-focused approach includes included shore excursions in every port, expert lectures on Canarian history and geology, and regional cuisine crafted from local ingredients. The line's adults-only policy (18+) creates a serene atmosphere perfect for cultural immersion. From Tenerife's Mount Teide to Lanzarote's otherworldly vineyards, guests experience these Spanish islands through Viking's lens of understated luxury, with no casino, no children, and no nickel-and-diming—just genuine exploration.",
+  "quick_facts": {
+    "price_from_eur": 3199,
+    "duration_range": "8-15 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Viking Star",
+      "Viking Sea",
+      "Viking Sky",
+      "Viking Orion"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon",
+      "London Tilbury"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Winter Peak (Dec-Feb)",
+      "inside_eur": 0,
+      "balcony_eur": 3499,
+      "suite_eur": 5499
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 0,
+      "balcony_eur": 3199,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Early/Late Season (Oct, Apr)",
+      "inside_eur": 0,
+      "balcony_eur": 2899,
+      "suite_eur": 4399
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Canary Islands & Madeira",
+      "duration_nights": 8,
+      "ports": [
+        "Barcelona",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Lisbon"
+      ],
+      "price_from_eur": 3199,
+      "highlight": "Includes overnight in Funchal with traditional evening excursion"
+    },
+    {
+      "name": "Iberian & Canary Islands Explorer",
+      "duration_nights": 15,
+      "ports": [
+        "London Tilbury",
+        "Leixões",
+        "Lisbon",
+        "Cádiz",
+        "Casablanca",
+        "Arrecife",
+        "Las Palmas",
+        "Santa Cruz de Tenerife",
+        "Funchal",
+        "Vigo",
+        "London Tilbury"
+      ],
+      "price_from_eur": 4899,
+      "highlight": "Comprehensive Atlantic islands exploration with Moroccan contrast"
+    },
+    {
+      "name": "Canary Islands Winter Escape",
+      "duration_nights": 12,
+      "ports": [
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de La Palma",
+        "San Sebastián de La Gomera",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Lisbon"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Rare calls at La Palma and La Gomera, UNESCO biosphere reserves"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Star",
+      "capacity": 930,
+      "year": 2015,
+      "best_for": "Culture-focused couples",
+      "price_from_eur": 3199
+    },
+    {
+      "name": "Viking Sea",
+      "capacity": 930,
+      "year": 2016,
+      "best_for": "Lifelong learners",
+      "price_from_eur": 3299
+    },
+    {
+      "name": "Viking Sky",
+      "capacity": 930,
+      "year": 2017,
+      "best_for": "Wellness enthusiasts",
+      "price_from_eur": 3349
+    },
+    {
+      "name": "Viking Orion",
+      "capacity": 930,
+      "year": 2018,
+      "best_for": "Astronomy and science lovers",
+      "price_from_eur": 3399
+    }
+  ],
+  "whats_included": [
+    "One included shore excursion per port",
+    "All meals including specialty restaurants",
+    "Beer and wine with lunch and dinner",
+    "Premium Wi-Fi",
+    "Access to Nordic spa thermal suite",
+    "Self-service laundry",
+    "Port taxes and fees",
+    "Airport transfers on embarkation/disembarkation days",
+    "24-hour room service",
+    "Evening entertainment and enrichment lectures"
+  ],
+  "whats_extra": [
+    "Premium beverage package (EUR 19/day)",
+    "Additional shore excursions beyond the included option",
+    "Spa treatments and salon services",
+    "Premium Wi-Fi upgrade for streaming",
+    "Laundry and dry cleaning services",
+    "Photography purchases",
+    "Gratuities (EUR 15/day recommended)",
+    "Pre- and post-cruise extensions",
+    "Business class air upgrades"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for best cabin selection and early booking savings of up to EUR 1,000 per person. Viking's flexible booking policy allows changes without penalty until final payment. Wave Season (January-March) historically offers the strongest incentives including reduced deposits and onboard credit. Consider booking a Viking Explorer Society future cruise onboard for additional 5% savings on subsequent sailings.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Teide National Park excursion (included)",
+      "tip": "Request afternoon departure for clearer summit views"
+    },
+    {
+      "port": "Las Palmas de Gran Canaria",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Vegueta old town walking tour (included)",
+      "tip": "Explore independently to Casa de Colón museum after tour"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "7am-3pm",
+      "top_activity": "Timanfaya National Park and wine region (included)",
+      "tip": "Early call—priority disembarkation recommended"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "12pm to next day 2pm",
+      "top_activity": "Evening Monte toboggan and dinner (included)",
+      "tip": "Use overnight for morning levada walk booking"
+    },
+    {
+      "port": "Santa Cruz de La Palma",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Caldera de Taburiente viewpoints (included)",
+      "tip": "Compact port—walking distance to historic centre"
+    },
+    {
+      "port": "San Sebastián de La Gomera",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Garajonay National Park laurel forest (included)",
+      "tip": "Smallest port—limited independent options, stick with included tour"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Canary Islands cruise cost?",
+      "answer": "Viking Cruises Canary Islands voyages typically range from EUR 2,899 to EUR 5,499 per person based on double occupancy, depending on season, itinerary length, and stateroom category. The entry point is approximately EUR 3,199 for an 8-night balcony stateroom in shoulder season. Unlike most cruise lines, Viking does not offer interior cabins—all accommodations feature balconies or verandas. Suite categories (Penthouse Veranda and Explorer Suite) command premiums of 40-70% above standard Veranda staterooms. Viking's value proposition lies in comprehensive inclusions: one shore excursion per port, all dining including specialty restaurants, beer and wine with meals, Wi-Fi, and gratuities are incorporated, reducing onboard spending significantly compared to competitors. Early booking incentives and past guest discounts can reduce these fares by EUR 500-1,000 per person."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Canary Islands?",
+      "answer": "Viking deploys its identical 930-guest ocean sister ships to Canary Islands itineraries: Viking Star (2015), Viking Sea (2016), Viking Sky (2017), and Viking Orion (2018). These Small-Mid size vessels are purpose-built for destination immersion with all-veranda staterooms, multiple dining venues without surcharges, and Scandinavian design throughout. Their modest dimensions enable access to smaller Canary ports including San Sebastián de La Gomera and Santa Cruz de La Palma that mega-ships cannot reach. Each vessel features the Nordic spa with thermal suite, infinity pool, and Explorers' Lounge with panoramic forward views—ideal for Atlantic crossings. Ship assignment rotates seasonally; specific vessel confirmation typically occurs 90 days prior to sailing. All maintain identical layouts, amenities, and service standards."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "November through March constitutes prime Canary Islands cruise season, when northern Europeans seek reliable warmth and the archipelago enjoys its most pleasant conditions. December and January offer peak sunshine hours (6-7 daily) and comfortable 20-22°C daytime temperatures, ideal for exploration without summer intensity. February and March bring calmer seas and blooming almond blossoms in Tenerife's northern valleys. November delivers warmest waters for those prioritising beach time. Summer cruising (June-August) is generally avoided due to intense heat, stronger trade winds, and limited Viking deployment to the region. The islands' subtropical climate ensures year-round viability, but winter months align with Viking's target demographic seeking escape from darker, colder home climates while avoiding Caribbean hurricane risk."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's Canary Islands cruises feature exceptionally comprehensive inclusions distinguishing them from mainstream competitors. Every port includes one carefully curated shore excursion—typically a panoramic or walking tour—with premium alternatives available for supplement. All dining carries no surcharge: the Restaurant (main), World Café (buffet), Manfredi's Italian, and Chef's Table regional tasting menus are complimentary. Beer and wine flow freely at lunch and dinner; premium packages upgrade spirits and extended hours. Staterooms include mini-bars restocked daily with soft drinks. Wi-Fi, self-service laundry, Nordic spa thermal suite access, 24-hour room service, port charges, and airport transfers on bookend days are incorporated. Gratuities, while technically discretionary, are recommended at EUR 15 daily per person. The only significant exclusions are additional excursions, spa treatments, premium beverages outside meal times, and boutique purchases."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking's Canary Islands itineraries comprehensively cover the archipelago's principal islands alongside strategic mainland and Atlantic positioning ports. Core calls include Santa Cruz de Tenerife (Teide access), Las Palmas de Gran Canaria (colonial heritage), and Arrecife, Lanzarote (volcanic landscapes). Extended itineraries incorporate lesser-visited La Palma (biosphere reserve hiking) and La Gomera (laurel forests, Columbus departure point). Madeira's Funchal typically features overnight stays enabling evening traditions and morning levada walks. Deployment routes commonly originate Barcelona, Lisbon, or London Tilbury, occasionally incorporating Cádiz, Casablanca, or Agadir for geographic variety. The 930-guest vessel size enables access to compact ports like San Sebastián de La Gomera where larger ships cannot dock. Each itinerary balances included cultural immersion with independent exploration opportunities."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Optimal booking window for Viking Canary Islands cruises spans 9-14 months prior to departure, securing preferred stateroom categories and capturing early booking incentives typically worth EUR 500-1,000 per person. Viking releases itineraries approximately 18 months ahead; initial pricing often includes reduced deposits (EUR 500 versus standard EUR 2,500) and onboard credit. Wave Season (January-March) historically amplifies these offers. Last-minute availability is rare given Viking's loyal repeat clientele and modest fleet size—particularly for winter Canary sailings when demand peaks. The line's Risk-Free Guarantee permits cancellation with full refund until 24 hours prior to final payment (typically 90 days before sailing), reducing commitment anxiety. Past guests should leverage Viking Explorer Society benefits: 5% discount on subsequent bookings and early access to new itineraries."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Cruises explicitly positions its ocean product for adults aged 18 and above, making Canary Islands itineraries unsuitable for families with children. This policy reflects the line's dedication to cultural immersion, serene atmosphere, and enrichment programming designed for mature travellers. Families seeking Canary Islands cruising should consider P&O Cruises, TUI, or MSC alternatives with robust children's facilities. Viking's adult-only environment particularly suits couples, solo travellers, and multi-generational groups of adults pursuing shared intellectual interests. The included excursions, destination lectures, and evening entertainment assume adult attention spans and interests—wine tastings, historical deep-dives, and classical music performances predominate. The spa, fitness centre, and Explorers' Lounge likewise cater to adult preferences. This positioning is deliberate and consistent across Viking's ocean fleet; no exceptions are granted for family groups."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's cancellation policy for Canary Islands cruises operates on a graduated scale based on departure proximity. Cancellations more than 121 days prior incur no penalty beyond administrative fees. Between 120-90 days, deposit forfeiture applies (typically EUR 2,500 or reduced promotional amount). From 89-60 days, 35% of total fare is retained; 59-30 days escalates to 60%; and under 30 days results in 100% forfeiture. Travel insurance is strongly recommended—Viking offers its own product or accepts third-party coverage. The Risk-Free Guarantee permits penalty-free cancellation until 24 hours before final payment due date. For pandemic-related disruptions, Viking demonstrated exceptional flexibility, offering future cruise credits or full refunds. Rebooking fees are waived for changes made outside penalty windows. Cancel For Any Reason upgrades through selected insurance providers can recover 75% of non-refundable amounts."
+    }
+  ]
+}

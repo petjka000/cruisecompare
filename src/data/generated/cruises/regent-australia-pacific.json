@@ -1,0 +1,200 @@
+{
+  "title": "Regent Seven Seas Australia & Pacific Cruises 2026",
+  "intro": "Regent Seven Seas Cruises redefines ultra-luxury exploration of Australia and the Pacific with all-inclusive voyages aboard intimate, all-suite ships. Sail from Sydney's iconic harbour to the pristine Great Barrier Reef, remote Papua New Guinea, and volcanic landscapes of New Zealand's fjords. Each journey features unlimited shore excursions, from Aboriginal cultural encounters to helicopter flights over Uluru. With spacious suites averaging 400+ square feet, personalised butler service, and gourmet dining at no extra cost, discerning travellers experience the region's raw beauty without compromise. The line's smaller vessels access boutique ports like Komodo Island and Vanuatu's Mystery Island that larger ships cannot reach, while included business-class air and pre-cruise hotel stays eliminate logistical stress for European guests embarking on this once-in-a-lifetime journey.",
+  "quick_facts": {
+    "price_from_eur": 7499,
+    "duration_range": "10-24 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Seven Seas Explorer",
+      "Seven Seas Voyager"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Auckland",
+      "Bali (Benoa)",
+      "Singapore"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/Mar)",
+      "inside_eur": 0,
+      "balcony_eur": 7499,
+      "suite_eur": 12499
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 0,
+      "balcony_eur": 9899,
+      "suite_eur": 16499
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 0,
+      "balcony_eur": 13999,
+      "suite_eur": 22999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Australia & New Zealand Explorer",
+      "duration_nights": 12,
+      "ports": [
+        "Sydney",
+        "Melbourne",
+        "Hobart",
+        "Dunedin",
+        "Wellington",
+        "Napier",
+        "Tauranga",
+        "Auckland"
+      ],
+      "price_from_eur": 8499,
+      "highlight": "Milford Sound scenic cruising with onboard naturalist"
+    },
+    {
+      "name": "16-night South Pacific Gems",
+      "duration_nights": 16,
+      "ports": [
+        "Auckland",
+        "Bay of Islands",
+        "Nouméa",
+        "Mystery Island",
+        "Suva",
+        "Dravuni Island",
+        "Port Vila",
+        "Brisbane"
+      ],
+      "price_from_eur": 11299,
+      "highlight": "Exclusive beach barbecue on private island"
+    },
+    {
+      "name": "24-night Australia, Indonesia & Great Barrier Reef",
+      "duration_nights": 24,
+      "ports": [
+        "Singapore",
+        "Bali (Benoa)",
+        "Darwin",
+        "Cairns",
+        "Townsville",
+        "Brisbane",
+        "Sydney",
+        "Melbourne"
+      ],
+      "price_from_eur": 18999,
+      "highlight": "Komodo dragon expedition with park rangers included"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Explorer",
+      "capacity": 750,
+      "year": 2016,
+      "best_for": "Ultra-luxury seekers",
+      "price_from_eur": 8499
+    },
+    {
+      "name": "Seven Seas Voyager",
+      "capacity": 700,
+      "year": 2003,
+      "refurbished": 2023,
+      "best_for": "Intimate expedition-style cruising",
+      "price_from_eur": 7499
+    }
+  ],
+  "whats_included": [
+    "All-suite accommodation with private balcony",
+    "Unlimited shore excursions in every port",
+    "All dining including specialty restaurants",
+    "Premium wines and spirits throughout ship",
+    "Pre-paid gratuities",
+    "Roundtrip business-class air from Europe",
+    "One-night pre-cruise hotel stay",
+    "Unlimited WiFi",
+    "Valet laundry service",
+    "Transfers between airport, hotel and ship"
+  ],
+  "whats_extra": [
+    "Spa treatments at Serene Spa",
+    "Casino gaming",
+    "Premium caviar and vintage wine upgrades",
+    "Private car and driver arrangements",
+    "Helicopter and seaplane excursions beyond included tours",
+    "Photography services",
+    "Boutique purchases"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best suite selection and included business-class air; wave season (January-March) offers reduced deposits and onboard credit of €500-1000 per suite",
+  "top_ports": [
+    {
+      "port": "Sydney",
+      "time_in_port": "overnight",
+      "top_activity": "Sydney Opera House backstage tour (included)",
+      "tip": "Arrive early for pre-cruise hotel night"
+    },
+    {
+      "port": "Cairns",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Great Barrier Reef snorkelling via luxury catamaran (included)",
+      "tip": "Stinger suit provided seasonally"
+    },
+    {
+      "port": "Milford Sound",
+      "time_in_port": "scenic cruising",
+      "top_activity": "Deck viewing with commentary from park ranger (included)",
+      "tip": "Reserve forward observation deck early morning"
+    },
+    {
+      "port": "Komodo Island",
+      "time_in_port": "6am-2pm",
+      "top_activity": "Dragon walk with park rangers (included)",
+      "tip": "Wear sturdy walking shoes; terrain uneven"
+    },
+    {
+      "port": "Bali (Benoa)",
+      "time_in_port": "8am-11pm",
+      "top_activity": "Temple blessing ceremony at Tirta Empul (included)",
+      "tip": "Extend with post-cruise land programme"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Australia & Pacific cruise cost?",
+      "answer": "Regent Seven Seas Australia and Pacific cruises are positioned at the ultra-luxury tier, with fares starting from approximately €7,499 per person for balcony suites on 10-night itineraries during shoulder season. Peak December-February voyages typically range €9,899-€16,499, while holiday period sailings command €13,999-€22,999. These prices include business-class flights from Europe, pre-cruise hotel, unlimited shore excursions, all dining and beverages, gratuities, and WiFi—representing exceptional value when compared to luxury competitors charging separately for these elements."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Australia & Pacific?",
+      "answer": "The Australia and Pacific region is primarily served by Seven Seas Explorer and Seven Seas Voyager. Seven Seas Explorer, launched 2016 as the most luxurious ship ever built, carries 750 guests with every suite featuring a private balcony. Seven Seas Voyager, refurbished extensively in 2023, accommodates 700 guests and offers identical all-inclusive programming. Both vessels feature the signature Canyon Ranch SpaClub, multiple gourmet restaurants including Chartreuse and Pacific Rim, and spacious public areas designed for immersive destination viewing."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "The optimal cruising season spans November through March, coinciding with the Southern Hemisphere summer. November and March offer pleasant temperatures with fewer crowds and lower fares. December to February delivers peak warmth ideal for Great Barrier Reef snorkelling and beach excursions, though tropical cyclone risk exists January-February. New Zealand's fjords are spectacular year-round but most accessible November-April. European travellers should note the significant time zone adjustment and plan pre-cruise hotel nights accordingly."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent's all-inclusive model covers virtually every aspect of the experience: all-suite accommodation with private balconies, unlimited shore excursions in every port with no supplement for premium tours, all dining across multiple specialty restaurants, premium wines and spirits throughout the ship including in-suite minibars, pre-paid gratuities, roundtrip business-class air from Europe, one-night pre-cruise hotel stay, unlimited WiFi, valet laundry service, and all transfers. This comprehensive inclusion eliminates onboard spending decisions and hidden costs."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Australia and Pacific itineraries feature an extraordinary range of destinations from cosmopolitan Sydney with its overnight stays to remote Papua New Guinea villages. Key Australian ports include Melbourne, Hobart with its convict history, Brisbane as gateway to the Gold Coast, and Cairns for Great Barrier Reef access. New Zealand highlights encompass Milford Sound scenic cruising, Wellington's culinary scene, and Bay of Islands. South Pacific calls reach New Caledonia, Vanuatu, Fiji, and Indonesia's Komodo Island—many accessible only to smaller luxury vessels."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Given limited suite inventory and included business-class air allocations, advance booking is essential. Twelve to eighteen months ahead secures preferred suite categories and departure dates, particularly for holiday periods and unique itineraries like the 24-night Indonesia circumnavigation. Regent's Deposit Protection Programme allows reduced deposits during wave season. European guests must also consider visa requirements for Australia and New Zealand, which can take 4-6 weeks to process and should be arranged after final payment."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas maintains an adults-oriented environment with no dedicated children's facilities, programmes, or childcare services. The minimum age is typically six months, though the sophisticated atmosphere and unstructured format suits mature teenagers interested in cultural immersion rather than water slides. Families with older children appreciate the educational shore excursions and spacious suites, but parents seeking dedicated family programming should consider luxury expedition alternatives. The all-inclusive pricing simplifies budgeting for multi-generational groups celebrating special occasions."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent's cancellation structure operates on a tiered basis: full refund minus administrative fee for cancellations 151+ days before sailing; deposit forfeiture at 150-121 days; 25% penalty at 120-91 days; 50% penalty at 90-61 days; 75% penalty at 60-31 days; and 100% forfeiture within 30 days. Comprehensive travel insurance is strongly recommended given the significant investment and remote destinations. Regent offers optional Cruise Cancellation Protection that permits future cruise credit under certain circumstances, though this must be purchased at deposit time."
+    }
+  ]
+}

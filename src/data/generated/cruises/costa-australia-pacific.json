@@ -1,0 +1,177 @@
+{
+  "title": "Costa Cruises Australia & Pacific Cruises 2026",
+  "intro": "Costa Cruises brings its signature Italian hospitality to the stunning waters of Australia and the South Pacific, offering European-style cruising with a Mediterranean flair. As one of the few major cruise lines to homeport seasonally in Australia, Costa provides authentic Italian cuisine, vibrant entertainment, and family-friendly atmosphere against the backdrop of the Great Barrier Reef, New Caledonia, and Vanuatu. Costa Smeralda and Costa Serena alternate Australian deployments, bringing their distinctive Italian design, multi-lingual crew, and inclusive dining experiences to Australasian waters. The line appeals particularly to value-conscious travellers seeking international cruising standards with competitive pricing. Expect elaborate theatre productions, extensive kids' clubs, and Italian-themed deck parties. Costa's Australia season typically runs November through March, coinciding with the Southern Hemisphere summer when Pacific conditions are ideal for beach excursions and reef exploration.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "8-12 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Costa Smeralda",
+      "Costa Serena"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Brisbane"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Jan)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Shoulder (Nov/Feb-Mar)",
+      "inside_eur": 699,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "8-night South Pacific Islands",
+      "duration_nights": 8,
+      "ports": [
+        "Sydney",
+        "Nouméa",
+        "Mystery Island",
+        "Sydney"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Perfect introduction to New Caledonia with full day at private-style Mystery Island"
+    },
+    {
+      "name": "12-night Great Barrier Reef & Papua New Guinea",
+      "duration_nights": 12,
+      "ports": [
+        "Brisbane",
+        "Airlie Beach",
+        "Cairns",
+        "Port Moresby",
+        "Alotau",
+        "Conflict Islands",
+        "Brisbane"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Rare expedition-style itinerary combining reef access with emerging Papua New Guinea destinations"
+    },
+    {
+      "name": "9-night Vanuatu Explorer",
+      "duration_nights": 9,
+      "ports": [
+        "Sydney",
+        "Port Vila",
+        "Mystery Island",
+        "Nouméa",
+        "Sydney"
+      ],
+      "price_from_eur": 799,
+      "highlight": "Extended time in Vanuatu's capital with accessible local culture and volcanic landscapes"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Smeralda",
+      "capacity": 6554,
+      "year": 2019,
+      "best_for": "Families & couples seeking modern Italian design",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Costa Serena",
+      "capacity": 3780,
+      "year": 2007,
+      "best_for": "Value-conscious families and Italian culture enthusiasts",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining rooms and buffet",
+    "Entertainment shows and live music",
+    "Kids' clubs (3-17 years)",
+    "Gym and sports facilities",
+    "Port taxes and fees",
+    "Basic WiFi (30 minutes daily)"
+  ],
+  "whats_extra": [
+    "Beverage packages (from EUR 39/day)",
+    "Specialty dining (EUR 25-45/person)",
+    "Shore excursions (EUR 59-299)",
+    "Spa treatments",
+    "Casino gaming",
+    "Premium WiFi packages",
+    "Gratuities (EUR 11/day suggested)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak December-January sailings when Australian school holidays drive demand and availability tightens significantly. Shoulder season offers 20-30% savings with better cabin selection 6-9 months out. Costa frequently runs early booking incentives including free balcony upgrades and onboard credit worth EUR 150-300. Monitor Italian school holiday periods as Costa adjusts Australian deployment based on European seasonality. Consider repositioning cruises in October/November and March/April for exceptional value on longer itineraries. Loyalty members (Costa Club) receive priority boarding and additional discounts.",
+  "top_ports": [
+    {
+      "port": "Nouméa, New Caledonia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Amedee Island snorkelling with turtle encounters (EUR 89)",
+      "tip": "Tender port—book morning excursions to avoid afternoon chop"
+    },
+    {
+      "port": "Mystery Island, Vanuatu",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Private beach cabana rental with local lobster lunch (EUR 45)",
+      "tip": "No ATMs or card facilities—bring Australian dollars cash"
+    },
+    {
+      "port": "Port Vila, Vanuatu",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Cascade waterfalls and cultural village tour (EUR 75)",
+      "tip": "Markets close early Saturday—morning port call essential for souvenir shopping"
+    },
+    {
+      "port": "Cairns, Australia",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Outer Barrier Reef pontoon with helicopter flight (EUR 289)",
+      "tip": "Book reef trips independently for 40% savings—tender to Marlin Wharf"
+    },
+    {
+      "port": "Airlie Beach, Australia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Whitehaven Beach seaplane experience (EUR 199)",
+      "tip": "Tender port with limited capacity—disembark early for maximum beach time"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Australia & Pacific cruise cost?",
+      "answer": "Costa Cruises Australia & Pacific itineraries typically range from EUR 699 for interior cabins on 8-night shoulder-season sailings to EUR 2,199 for suites during peak December-January holidays. Balcony cabins average EUR 1,099-1,399 depending on season. A 9-night South Pacific cruise in February costs approximately EUR 799 inside, EUR 1,199 balcony. Additional costs include beverage packages (EUR 39/day), gratuities (EUR 11/day), and excursions (EUR 59-299). Families should budget EUR 2,800-4,500 total for a week's cruise including extras. Costa's Italian pricing model often undercuts competitors by 15-20% on comparable itineraries, though drink packages are essential add-ons for most passengers."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Australia & Pacific?",
+      "answer": "Costa deploys Costa Smeralda and Costa Serena to Australian waters seasonally. Costa Smeralda, the line's 2019 flagship, offers 6,554-passenger capacity with LNG propulsion, extensive outdoor deck space, and contemporary Italian design by Dordoni Architetti. Costa Serena, a 3,780-passenger 2007 vessel, carries classical Italian theming with Renaissance-inspired interiors and more intimate proportions. Both ships feature Costa's signature spaces: the Colosseo theatre, Samsara wellness centre, and extensive kids' facilities. Ship allocation rotates based on European seasonality, with Smeralda typically dominating peak Australian summer. Both vessels are purpose-built for warm-weather cruising with multiple pool decks and retractable roofs for tropical conditions."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "December through February offers optimal conditions for Australia & Pacific cruising, with temperatures 26-32°C, minimal rainfall, and calm seas ideal for reef access and beach excursions. This peak season coincides with Australian school holidays, creating family-friendly atmosphere but higher prices and fuller ships. November and March provide excellent value with 20-30% lower fares, slightly warmer waters, and fewer crowds—though March carries higher cyclone risk historically. April repositioning cruises to Asia offer exceptional deals but limited itinerary variety. Avoid June-August when ships redeploy to Europe; limited winter options exist only on expedition vessels. Water visibility for snorkelling peaks January-March following calmer seas."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's Australia & Pacific cruises include accommodation, all meals in main dining rooms and buffet restaurants, standard entertainment including theatre shows and live music, supervised kids' clubs for ages 3-17, fitness centre access, and port taxes. Basic WiFi (30 minutes daily) is complimentary. Notably excluded are beverages beyond water, tea, and coffee at meals; alcoholic drinks, soft drinks, and specialty coffees require packages starting at EUR 39 daily. Gratuities (EUR 11/day recommended) are additional. Room service incurs charges except for breakfast. Specialty restaurants cost EUR 25-45. Shore excursions, spa treatments, casino, and premium internet are extra. Compare carefully with premium lines—Costa's base fare is lower but inclusive value requires beverage package purchase."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa's Australia & Pacific itineraries centre on Sydney and Brisbane homeports, extending to Nouméa and Isle of Pines in New Caledonia, Port Vila and Mystery Island in Vanuatu, and Australian coastal calls including Cairns, Airlie Beach, and Melbourne. Papua New Guinea extensions visit Port Moresby and Alotau on select 12-night sailings. New Zealand itineraries from Sydney reach Auckland, Wellington, and Bay of Islands seasonally. All South Pacific ports are tender ports requiring ship-to-shore boat transfers—factor this into excursion planning. Australian ports offer full infrastructure with easy independent exploration; Pacific islands require cash transactions and limited medical facilities. Conflict Islands and Mystery Island are private-style destinations with controlled visitor experiences and premium excursion pricing."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Costa Australia & Pacific cruises 9-12 months ahead for peak December-January sailings, when Australian school holiday demand creates capacity constraints and price premiums. Shoulder season (November, February-March) offers flexibility at 6-9 months with 20-30% savings. Costa releases Australian itineraries 18 months in advance, with best pricing typically 10-14 months out before yield management increases fares. Last-minute deals under EUR 599 occasionally appear 4-8 weeks prior for balcony guarantees, though cabin location suffers. Families requiring connecting cabins should book 12+ months ahead—Costa's European booking base reserves family configurations early. Repositioning cruises in October/November and March/April reward flexible travellers with exceptional value 3-6 months ahead."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa Cruises excels for families seeking affordable Australia & Pacific holidays with genuine Italian hospitality. The line's Squok kids' club operates 3-17 years with complimentary supervised activities including language workshops, pizza making, and themed parties—rarely found on competitor ships in this price bracket. Family cabins accommodate 4-5 passengers, and children's menus feature pasta, pizza, and familiar options alongside Italian specialities. Evening entertainment includes family-friendly theatre productions and deck parties. Multiple pools include dedicated children's areas. However, Italian-language announcements and European passenger mix may challenge English-only families; youth staff are multilingual but activities skew toward continental European preferences. Teen facilities are less developed than Royal Caribbean or Carnival. Shore excursions lack dedicated family pricing, requiring independent planning for value."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa Cruises applies standard European cruise cancellation terms: full refund minus EUR 50 administrative fee if cancelled 90+ days before sailing; 20% penalty 89-60 days; 40% penalty 59-30 days; 60% penalty 29-15 days; 80% penalty 14-4 days; 100% penalty 3 days or less. These terms are stricter than many competitors—travel insurance with cruise-specific cover is essential. COVID-19 introduced temporary flexible policies allowing future cruise credits for illness-related cancellations, though standard terms have largely resumed. Bookings made through Australian travel agents may access additional consumer protections under local regulations. Deposit requirements are typically EUR 250 per person, fully refundable until final payment 90 days prior. Consider 'Costa Protection' add-on at booking for penalty waiver—approximately EUR 39 per person for coverage up to cancellation for any reason with future cruise credit issuance."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "title": "P&O Cruises vs Oceania Cruises 2026",
+  "intro": "P&O Cruises, Britain's favourite cruise line since 1837, offers quintessentially British cruising with family-friendly ships and traditional entertainment. Oceania Cruises, launched in 2002, positions itself as the world's leading culinary- and destination-focused cruise line, targeting affluent, well-travelled guests with smaller, more intimate vessels. While both operate in the mid-to-premium market, they serve distinctly different demographics and travel philosophies, making direct comparison essential for prospective cruisers seeking their ideal maritime experience in 2026.",
+  "at_a_glance": {
+    "p-and-o": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "oceania": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 2499
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "p-and-o": "€799",
+      "oceania": "€2,499"
+    },
+    {
+      "category": "Ship size",
+      "p-and-o": "1,800-3,600 guests",
+      "oceania": "670-1,200 guests"
+    },
+    {
+      "category": "Primary market",
+      "p-and-o": "British families",
+      "oceania": "North American affluent travellers"
+    },
+    {
+      "category": "Dining included",
+      "p-and-o": "Main dining, buffet, select venues",
+      "oceania": "All specialty restaurants included"
+    },
+    {
+      "category": "Dress code",
+      "p-and-o": "Formal nights, black tie",
+      "oceania": "Country club casual, no formal nights"
+    },
+    {
+      "category": "Entertainment style",
+      "p-and-o": "West End shows, comedy, pub quizzes",
+      "oceania": "Enrichment lectures, live music, refined entertainment"
+    },
+    {
+      "category": "Children's facilities",
+      "p-and-o": "Extensive kids' clubs, nurseries",
+      "oceania": "No dedicated children's facilities"
+    },
+    {
+      "category": "Gratuities",
+      "p-and-o": "£7 per person/day (auto-added)",
+      "oceania": "Included in fare"
+    },
+    {
+      "category": "Drinks packages",
+      "p-and-o": "Additional purchase",
+      "oceania": "House wine, beer with lunch/dinner included"
+    },
+    {
+      "category": "Itinerary focus",
+      "p-and-o": "Mediterranean, Caribbean, Northern Europe",
+      "oceania": "Exotic destinations, extended port stays, overnight calls"
+    }
+  ],
+  "choose_a_if": [
+    "You want excellent value with British traditions, formal nights, and entertainment for all ages",
+    "You're travelling with children and need dedicated kids' clubs, family cabins, and child-friendly dining",
+    "You prefer larger resort-style ships with multiple pools, water slides, and Broadway-style productions",
+    "You enjoy set-seating dining with the same table companions and waitstaff throughout your voyage"
+  ],
+  "choose_b_if": [
+    "Culinary excellence is your priority—you want Jacques Pépin-designed menus and no extra charges for specialty dining",
+    "You seek intimate, uncrowded ships with destination-immersive itineraries and extended port time",
+    "You prefer sophisticated, adult-oriented ambience without children or boisterous entertainment",
+    "You value inclusive pricing covering gratuities, specialty dining, and select beverages"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "P&O Cruises",
+      "reason": "Extensive kids' clubs from 6 months, family interconnecting cabins, early dining options, and child-friendly shore excursions make P&O the clear choice for multigenerational holidays."
+    },
+    {
+      "type": "Food enthusiasts",
+      "winner": "Oceania Cruises",
+      "reason": "Jacques Pépin's culinary direction, all-inclusive specialty venues like Red Ginger and Polo Grill, and cooking classes at the Culinary Center elevate Oceania above all competitors."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "P&O Cruises",
+      "reason": "Purpose-built single cabins without supplements, dedicated solo traveller events, and British social atmosphere make solo cruising accessible and comfortable."
+    },
+    {
+      "type": "Luxury seekers on budget",
+      "winner": "Oceania Cruises",
+      "reason": "When comparing like-for-like inclusions, Oceania's value becomes apparent: no gratuities, unlimited specialty dining, and included transfers reduce hidden costs."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "P&O Cruises",
+      "reason": "Lower entry price, familiar British environment, and straightforward cruising style help nervous newcomers test the waters without significant financial commitment."
+    },
+    {
+      "type": "World cruisers",
+      "winner": "Oceania Cruises",
+      "reason": "The 180-day 'Around the World' voyage with free pre-paid gratuities, shore excursions, and beverage package represents exceptional value for extended travel."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends entirely on your priorities. P&O Cruises offers lower upfront pricing with à-la-carte extras, making it ideal for budget-conscious travellers who don't mind paying for drinks packages and specialty dining. A 7-night Mediterranean cruise starts around €799 inside. Oceania's higher fares (€2,499+ for similar itineraries) include gratuities, unlimited specialty restaurants, house wine with meals, and airport transfers. For travellers who would purchase these anyway, Oceania often works out comparable while delivering superior food and service. Calculate your expected onboard spending to determine true value for your travel style."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "P&O Cruises is unequivocally superior for families, offering dedicated facilities that Oceania simply doesn't provide. P&O's ships feature Ofsted-registered nurseries for 6 months-2 years, kids' clubs divided by age (2-4, 5-8, 9-12, 13-17), family cabins with interconnecting rooms, early dining sittings, and child-friendly shore excursions. Family pools, waterslides on Iona and Arvia, and dedicated family entertainment complete the offering. Oceania Cruises has no children's facilities, no kids' clubs, and no family programming. Their ships are explicitly designed for adult travellers, making them unsuitable for anyone travelling with children under 18."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "P&O Cruises operates at significantly lower price points with entry-level 7-night cruises from €799 inside, €999 balcony. Oceania's equivalent itineraries start at €2,499 inside, €3,299 balcony—roughly triple P&O's rates. However, direct comparison is misleading. P&O's base fare excludes gratuities (£7/day), drinks, specialty dining (£25-35/head), and WiFi. Oceania includes all these, plus unlimited specialty restaurants and house wine with meals. When comparing fully-loaded costs for travellers wanting premium experiences, the gap narrows considerably. Oceania also offers more promotional inclusions (free shore excursions, beverage packages) during sales periods."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Oceania Cruises dominates culinary excellence, consistently ranking among the world's best cruise lines for dining. Executive Culinary Director Jacques Pépin oversees all menus. All six specialty restaurants—including Asian-fusion Red Ginger, steakhouse Polo Grill, and French bistro Jacques—are included at no extra charge. The Culinary Center offers hands-on cooking classes. P&O provides solid, crowd-pleasing British cuisine with main dining room and buffet, plus paid specialty venues like Sindhu and The Glass House. While perfectly adequate, P&O cannot match Oceania's gourmet standards, ingredient quality, or culinary innovation. Food-focused travellers should choose Oceania without hesitation."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "P&O Cruises is generally recommended for first-time cruisers due to lower financial risk and familiar British environment. The upfront cost is manageable, the onboard experience mirrors British hospitality expectations, and the structured nature of traditional cruising (set dining times, dress codes, organised entertainment) helps newcomers understand cruise conventions. English-speaking staff and fellow passengers eliminate language barriers. Oceania suits confident, well-travelled first-timers who prioritise food and destinations over onboard spectacle, but the higher investment and sophisticated atmosphere may overwhelm nervous newcomers. Start with P&O to learn your preferences, then upgrade to Oceania for future voyages."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental distinction lies in target demographic and cruising philosophy. P&O Cruises serves British mass-market cruising with family focus, larger ships (1,800-3,600 guests), traditional structures including formal nights, and entertainment designed for broad appeal. Oceania targets affluent, experienced North American travellers with intimate ships (670-1,200 guests), destination-immersive itineraries, country club casual ambience, and culinary excellence as the central pillar. P&O extracts revenue through à-la-carte pricing; Oceania bundles premium inclusions. P&O entertains; Oceania enriches. Neither is objectively superior—the choice depends entirely on whether you seek accessible, sociable holiday fun or refined, culturally-focused exploration."
+    }
+  ]
+}

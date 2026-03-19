@@ -1,0 +1,138 @@
+{
+  "title": "MSC Cruises vs Cunard Line 2026",
+  "intro": "MSC Cruises and Cunard Line represent two distinct approaches to ocean cruising. MSC, the Swiss-Italian giant, operates modern mega-ships with Mediterranean flair, targeting families and value-conscious travellers across global itineraries. Cunard, the 1840-founded British institution, preserves ocean liner heritage through formal traditions, transatlantic crossings, and refined service aboard its iconic Queens. While both occupy mid-market price tiers, their experiences diverge sharply: MSC emphasises contemporary entertainment, water parks, and European-style cruising at scale, whereas Cunard cultivates ballroom dancing, afternoon tea, and white-gloved service for discerning guests seeking nostalgic maritime elegance.",
+  "at_a_glance": {
+    "msc": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "cunard": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 1199
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "msc": "€799",
+      "cunard": "€1,199"
+    },
+    {
+      "category": "Ship Style",
+      "msc": "Contemporary mega-ships",
+      "cunard": "Ocean liner heritage"
+    },
+    {
+      "category": "Passenger Capacity",
+      "msc": "4,000-6,000",
+      "cunard": "2,000-3,000"
+    },
+    {
+      "category": "Dress Code",
+      "msc": "Resort casual",
+      "cunard": "Formal evenings required"
+    },
+    {
+      "category": "Dining",
+      "msc": "Buffet-heavy, Italian focus",
+      "cunard": "Traditional dining, British cuisine"
+    },
+    {
+      "category": "Children's Facilities",
+      "msc": "Extensive (LEGO partnerships, water parks)",
+      "cunard": "Limited (Nightingale nursery on Queen Mary 2)"
+    },
+    {
+      "category": "Entertainment",
+      "msc": "Cirque du Soleil, aqua shows, casinos",
+      "cunard": "Lectures, ballroom dancing, planetarium"
+    },
+    {
+      "category": "Itinerary Focus",
+      "msc": "Mediterranean, Caribbean, World Cruises",
+      "cunard": "Transatlantic, World Voyages, Northern Europe"
+    },
+    {
+      "category": "Gratuities",
+      "msc": "€12/day (auto-added)",
+      "cunard": "$16/day (auto-added)"
+    },
+    {
+      "category": "Wi-Fi",
+      "msc": "Included in Aurea/YC fares",
+      "cunard": "Pay-per-minute or packages from $24/day"
+    }
+  ],
+  "choose_a_if": [
+    "You prioritise family-friendly amenities, water parks, and children's clubs at accessible prices",
+    "You prefer contemporary resort-style cruising with flexible dining and casual dress codes",
+    "You want Mediterranean itineraries with Italian-influenced food and multilingual atmosphere",
+    "You value inclusive pricing structures with drink packages and Wi-Fi bundles available",
+    "You enjoy high-energy entertainment, casinos, and late-night disco venues"
+  ],
+  "choose_b_if": [
+    "You seek refined, traditional cruising with formal evenings and white-gloved service",
+    "You dream of transatlantic crossings and ocean liner heritage aboard iconic ships",
+    "You appreciate afternoon tea, ballroom dancing, and enrichment lectures over production shows",
+    "You prefer smaller passenger numbers and more intimate, club-like atmosphere",
+    "You value British culinary traditions and assigned dining with consistent table mates"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "MSC Cruises",
+      "reason": "MSC's LEGO partnerships, extensive kids' clubs, water parks, and family cabin configurations outperform Cunard's limited children's programming. Value pricing allows family budgets to stretch further across multiple cabins."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Cunard",
+      "reason": "Cunard's formal evenings, ballroom dancing, and intimate Queens Grill suites create sophisticated romantic atmosphere. Transatlantic crossings offer uninterrupted sea days for connection absent from port-intensive MSC itineraries."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "MSC Cruises",
+      "reason": "MSC's studio cabins, reduced single supplements, and social atmosphere through mega-ship activities facilitate easier integration. Cunard's traditional dining assignments can isolate solo guests without fixed table arrangements."
+    },
+    {
+      "type": "Luxury seekers",
+      "winner": "Cunard",
+      "reason": "Queens Grill and Princess Grill categories deliver true luxury with butler service, exclusive restaurants, and priority embarkation. MSC's Yacht Club, while excellent, competes within mass-market vessel architecture."
+    },
+    {
+      "type": "Active seniors",
+      "winner": "Cunard",
+      "reason": "Cunard's enrichment programmes, guest lecturers, and ballroom dancing align with educated retirees' preferences. The planetarium on Queen Mary 2 and fencing instruction offer distinctive intellectual stimulation."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "MSC Cruises",
+      "reason": "Lower entry pricing and flexible, resort-style experience reduce commitment anxiety. Contemporary amenities mirror land-based holidays, easing transition to cruise culture without intimidating formal requirements."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "MSC Cruises generally delivers superior value for mainstream travellers, with base fares 30-40% below Cunard and extensive promotional pricing including drinks packages and onboard credit. The Aurea experience package often includes Wi-Fi, priority boarding, and spa access at competitive rates. However, Cunard's value proposition strengthens for guests who utilise included afternoon tea, enrichment lectures, and traditional dining extensively. Cunard's Queens Grill luxury category, while expensive, includes beverages, gratuities, and exclusive restaurant access that MSC Yacht Club charges separately. Value assessment depends on utilisation: active guests maximising MSC's inclusive entertainment versus those appreciating Cunard's complimentary cultural programming."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "MSC Cruises dominates family cruising through purpose-built infrastructure: LEGO-themed children's clubs across age divisions, partnerships with Chicco for babies, and waterslides on virtually every ship. The MSC World America and World Europa feature record-breaking adventure parks. Family cabins accommodate five passengers—rare industry-wide. Cunard offers The Play Zone and Nightingale nursery exclusively on Queen Mary 2, with limited programming on Queen Elizabeth and Queen Victoria. Cunard's formal evenings and adult-oriented entertainment create friction for families with young children. MSC's flexible dining and casual dress codes reduce family stress significantly. Only Cunard's transatlantic crossings with extended sea days suit families specifically seeking uninterrupted togetherness."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "MSC's 2026 seven-night Mediterranean inside cabins average €799 versus Cunard's €1,199 for comparable itineraries—a 50% premium. Balcony differentials widen further: MSC €1,099 versus Cunard €1,899. Cunard's transatlantic crossings command €1,599 inside, reflecting route scarcity. Gratuities add €84/week (MSC) versus $112/week (Cunard). MSC's promotional landscape includes frequent 'kids sail free' and drinks-inclusive fares; Cunard rarely discounts below 25%. Luxury tiers invert expectations: MSC Yacht Club suites from €2,500 undercut Cunard Queens Grill from €3,800, though Cunard's inclusion of beverages, internet, and speciality dining narrows effective gaps. Wave season deals favour MSC substantially."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Cunard's main dining rooms execute traditional British and Continental cuisine with consistency superior to MSC's buffet-reliant model, where quality varies dramatically by ship and itinerary. Cunard's Queens Grill offers personalised menus and tableside preparation unmatched at sea. However, MSC's speciality restaurants—particularly the Eataly partnership ships and Asian Market Kitchen—provide contemporary diversity Cunard lacks. MSC's main dining room suffers from mass-production challenges on largest vessels. Cunard's afternoon tea remains industry benchmark. For culinary adventurousness, MSC wins; for refined execution and service ritual, Cunard prevails. Yacht Club dining approaches Cunard Grill quality but lacks personalisation."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "MSC Cruises better suits cruise novices through familiar resort-style operation: flexible dining times, casual dress codes, and contemporary entertainment mirroring land-based holidays. The intimidation factor of Cunard's formal requirements—gowns, tuxedos, assigned seating—can deter uncertain first-timers. MSC's multilingual environment and European passenger mix feel accessible to global travellers. However, travellers specifically seeking 'classic cruising' nostalgia should commence with Cunard to establish authentic baseline; transitioning from MSC's casualness to Cunard's formality proves harder than reverse. MSC's lower financial commitment reduces experimentation risk. First-timers prioritising destination immersion over ship experience suit either equally."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental divergence lies in philosophical purpose: MSC builds floating resorts optimised for passenger volume and contemporary entertainment, while Cunard preserves ocean liner traditions emphasising maritime heritage and social ritual. MSC's ships accommodate 150% more passengers with correspondingly denser public spaces and reduced crew-to-guest ratios. Cunard mandates formal evenings (typically 2-3 per 7 nights) with enforced dress codes; MSC maintains casual atmosphere throughout. Dining structures differ critically: Cunard's assigned seating with fixed table mates versus MSC's flexible 'My Choice' system. Demographically, MSC skews younger and Mediterranean; Cunard attracts affluent Anglophone retirees. Entertainment contrasts production spectacles versus enrichment programming. Finally, Cunard's transatlantic route monopoly represents experiential category MSC cannot replicate."
+    }
+  ]
+}

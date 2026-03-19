@@ -1,0 +1,260 @@
+{
+  "title": "Oceania Cruises Greek Isles Cruises 2026",
+  "intro": "Oceania Cruises elevates Greek Isles exploration through its refined, destination-focused approach that prioritizes immersive cultural experiences over onboard spectacle. The premium line's intimate, mid-sized vessels—none exceeding 1,250 guests—navigate into smaller Aegean harbors inaccessible to larger ships, delivering authentic encounters in Patmos, Monemvasia, and Gythion. Oceania's acclaimed Culinary Center and hands-on cooking classes celebrate Mediterranean gastronomy, while overnight stays in Athens, Istanbul, and Jerusalem on select itineraries enable deeper exploration. The line's 'small ship luxury' philosophy manifests in spacious all-balcony accommodations, complimentary specialty dining across multiple venues, and included shore excursions through its Go Local and Culinary Discovery tours. For discerning travelers seeking intellectual engagement, Oceania's enrichment programming features historians, archaeologists, and regional experts illuminating classical antiquity. The 2026 season emphasizes extended port calls, with many destinations receiving 10-14 hour visits that accommodate independent wandering and curated experiences alike.",
+  "quick_facts": {
+    "price_from_eur": 2899,
+    "duration_range": "7-24 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Riviera",
+      "Marina",
+      "Nautica",
+      "Insignia",
+      "Vista"
+    ],
+    "departure_ports": [
+      "Athens",
+      "Rome",
+      "Barcelona",
+      "Venice",
+      "Istanbul"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 2899,
+      "balcony_eur": 3899,
+      "suite_eur": 6499
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 3499,
+      "balcony_eur": 4699,
+      "suite_eur": 7999
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 3199,
+      "balcony_eur": 4299,
+      "suite_eur": 7299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Greek Isles & Ephesus",
+      "duration_nights": 10,
+      "ports": [
+        "Athens",
+        "Mykonos",
+        "Ephesus",
+        "Patmos",
+        "Santorini",
+        "Crete",
+        "Rhodes",
+        "Nafplion"
+      ],
+      "price_from_eur": 3199,
+      "highlight": "Overnight in Istanbul with exclusive culinary tour"
+    },
+    {
+      "name": "7-night Idyllic Greek Isles",
+      "duration_nights": 7,
+      "ports": [
+        "Athens",
+        "Santorini",
+        "Rhodes",
+        "Crete",
+        "Mykonos",
+        "Kusadasi"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Maximum time in Santorini with sunset sailing option"
+    },
+    {
+      "name": "12-night Greek Odyssey & Adriatic",
+      "duration_nights": 12,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Corfu",
+        "Katakolon",
+        "Santorini",
+        "Athens",
+        "Gythion",
+        "Kotor"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Combines Dalmatian Coast with extended Peloponnese exploration"
+    },
+    {
+      "name": "24-night Mediterranean Mosaic",
+      "duration_nights": 24,
+      "ports": [
+        "Barcelona",
+        "Monte Carlo",
+        "Livorno",
+        "Rome",
+        "Naples",
+        "Sicily",
+        "Crete",
+        "Santorini",
+        "Athens",
+        "Mykonos",
+        "Ephesus",
+        "Istanbul"
+      ],
+      "price_from_eur": 7499,
+      "highlight": "Grand voyage with three overnight port stays"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Riviera",
+      "capacity": 1250,
+      "year": 2012,
+      "best_for": "Culinary enthusiasts",
+      "price_from_eur": 2999
+    },
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Art collectors & foodies",
+      "price_from_eur": 2999
+    },
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "best_for": "Intimate destination immersion",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Insignia",
+      "capacity": 670,
+      "year": 1998,
+      "best_for": "Classical small-ship experience",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Vista",
+      "capacity": 1200,
+      "year": 2023,
+      "best_for": "Contemporary luxury seekers",
+      "price_from_eur": 3299
+    }
+  ],
+  "whats_included": [
+    "All specialty restaurants with no surcharge",
+    "Unlimited complimentary WiFi",
+    "Non-alcoholic beverages and select wines at lunch/dinner",
+    "Shore excursion credit (€600-€1,400 per stateroom)",
+    "Airport transfers",
+    "Room service 24 hours",
+    "Fitness classes",
+    "Destination lectures",
+    "Self-service laundry"
+  ],
+  "whats_extra": [
+    "Oceania Select air packages",
+    "Pre-cruise premium hotel packages",
+    "Additional shore excursions beyond credit",
+    "Spa treatments at Aquamar Spa",
+    "Premium spirits and wine by the glass",
+    "Internet upgrade to streaming speed",
+    "Laundry and valet services",
+    "Onboard shopping"
+  ],
+  "booking_strategy": "Reserve 9-14 months ahead for optimal cabin selection and early booking savings of 10-15%; monitor Oceania's OLife Choice promotions offering free shore excursions, beverage packages, or onboard credit; consider back-to-back itineraries for reduced per-night rates; book refundable fares for flexibility or restricted fares for maximum savings; leverage past passenger status for additional amenities; final payment due 90 days prior to sailing.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "1pm-10pm",
+      "top_activity": "Sunset catamaran cruise with wine tasting (€189)",
+      "tip": "Avoid cable car queues by booking shore excursion with tender priority"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Delos archaeological site guided tour (€149)",
+      "tip": "Morning Delos visit avoids crowds and afternoon meltemi winds"
+    },
+    {
+      "port": "Kusadasi (Ephesus)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Ephesus Terrace Houses exclusive access (€199)",
+      "tip": "Request small-group tour for intimate access to frescoed Roman villas"
+    },
+    {
+      "port": "Rhodes",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Lindos acropolis and traditional lunch (€169)",
+      "tip": "Combine with walking tour of Rhodes Old Town UNESCO site"
+    },
+    {
+      "port": "Nafplion",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Mycenae and Epidaurus ancient theaters (€179)",
+      "tip": "Excellent alternative to crowded Athens excursions"
+    },
+    {
+      "port": "Monemvasia",
+      "time_in_port": "12pm-7pm",
+      "top_activity": "Medieval fortress town walking tour with wine (€129)",
+      "tip": "Few large ships call here—authentic Peloponnese experience"
+    },
+    {
+      "port": "Patmos",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Cave of the Apocalypse and Chora monastery (€139)",
+      "tip": "Modest dress required for religious sites; shoulders and knees covered"
+    },
+    {
+      "port": "Crete (Agios Nikolaos)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Knossos Palace and Cretan cooking class (€189)",
+      "tip": "Longer drive to Knossos—verify tour duration matches port time"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Greek Isles cruise cost?",
+      "answer": "Oceania Cruises Greek Isles voyages typically range from €2,899 to €7,499 per person for cruise-only fares, depending on duration, season, and accommodation category. Seven-night itineraries start around €2,899 for inside staterooms and €3,899 for veranda cabins during shoulder seasons, while peak summer dates command €3,499 to €4,699 respectively. Penthouse suites and above begin at €6,499. The line's OLife Choice promotions frequently add value through included shore excursions, beverage packages, or onboard credit worth €400-€800. Airfare packages, when selected, add approximately €899-€1,299 from European gateways. Unlike mainstream lines, Oceania's fares include specialty dining, basic WiFi, and some beverages, reducing onboard spending. Solo travelers face 125-175% single supplements, though occasional reduced supplement promotions appear."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Greek Isles?",
+      "answer": "Oceania deploys multiple vessels across its Greek Isles programming in 2026. The 1,250-guest sister ships Riviera (2012) and Marina (2011) dominate summer deployments, offering the line's most comprehensive culinary and enrichment programming including the Culinary Center hands-on cooking school. The newer 1,200-guest Vista (2023) brings contemporary design and enhanced suite accommodations to select itineraries. For intimate exploration, the 670-guest R-class ships Nautica and Insignia access smaller harbors like Monemvasia, Gythion, and Patmos that larger vessels cannot approach, though with fewer dining venues and reduced entertainment scale. Ship assignment varies by itinerary length and departure port, with Athens-based voyages typically utilizing larger vessels while Venice and Istanbul departures may feature smaller ships for Adriatic and Dardanelles navigation."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May, June, September, and October constitute optimal months for Oceania's Greek Isles cruises, balancing favorable conditions with manageable crowds. May and early June offer blooming wildflowers, comfortable 22-26°C temperatures, and archaeological sites without summer congestion—ideal for extensive walking tours. September delivers warm seas perfect for swimming, reduced meltemi winds that can disrupt Aegean crossings, and harvest-season culinary experiences. October provides excellent value with lower fares and pleasant 20-24°C weather, though some beach-focused excursions conclude for the season. July and August bring intense heat often exceeding 35°C, packed archaeological sites, and premium pricing despite these challenges. Oceania's limited winter Greek programming focuses on holiday itineraries combining Greek ports with Egyptian and Israeli destinations, operating outside traditional cruising season when many island businesses close."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Greek Isles cruises include substantial value distinguishing the premium experience. All specialty restaurants—French-focused Jacques, Italian Toscana, steakhouse Polo Grill, Asian Red Ginger, and others—operate without surcharge or reservation anxiety, unlike competitors charging €45-€75 per person. Complimentary amenities extend to unlimited WiFi (suitable for browsing and email), non-alcoholic beverages, select wines and beers at lunch and dinner, 24-hour room service from full menus, and comprehensive fitness facilities including group classes. Each stateroom receives significant shore excursion credits: €600 for voyages under 9 nights, €800 for 9-13 nights, and up to €1,400 for extended journeys. Airport transfers, destination lectures, and self-service laundry complete the inclusive package. Notably excluded are premium spirits, extensive wine by the glass, spa services, and most shore excursions beyond the credit allowance—budget €150-€300 daily for comprehensive experiences."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Greek Isles itineraries encompass iconic destinations and hidden harbors across the Aegean and Ionian Seas. Santorini and Mykonos anchor most sailings with extended evening departures maximizing sunset experiences. Athens (Piraeus) serves as primary embarkation point with overnight options for independent Acropolis exploration. Kusadasi provides access to Ephesus, among antiquity's best-preserved cities. Rhodes combines medieval Old Town UNESCO status with ancient Lindos, while Crete calls include Agios Nikolaos or Chania for Knossos Palace access. Smaller R-class ships reach Monemvasia's dramatic rock fortress, Gythion for Mani Peninsula exploration, and Patmos's religious heritage sites. Eastern extensions incorporate Istanbul with overnight stays, while western routes add Corfu and Katakolon for Olympia. Adriatic-combination voyages include Dubrovnik, Split, and Kotor. Oceania's smaller vessel capability enables 10-14 hour port calls in destinations like Nafplion and Syros that larger ships bypass entirely."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Oceania Greek Isles reservations 9-14 months in advance for optimal results, particularly for balcony staterooms and suites on peak summer departures. The line releases itineraries approximately 18 months ahead, with early booking incentives including 10-15% savings and preferred cabin selection. Penthouse and above categories, representing enhanced butler service and priority tender access valuable in Greek anchor ports, frequently sell out 6-9 months before sailing. Shoulder season voyages in May and October offer slightly more flexibility with viable options appearing 4-6 months ahead. Last-minute availability occasionally materializes 60-90 days prior through Oceania's website and travel partners, though cabin categories and dining reservations may be constrained. Final payment deadline falls 90 days before departure, triggering cancellation penalties thereafter. Consider refundable fares for maximum flexibility, or restricted fares for savings if travel plans are firm."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises presents mixed suitability for families with children on Greek Isles itineraries. The line explicitly positions itself as adult-oriented, with no dedicated children's facilities, youth programs, or childcare services aboard. Minimum age requirements restrict infants under six months, and the sophisticated atmosphere—quiet libraries, enrichment lectures, fine dining venues—appeals primarily to mature travelers. However, multigenerational families with teenage children interested in history, mythology, and culinary exploration find rewarding experiences through immersive shore excursions and destination-focused programming. The Culinary Center's hands-on cooking classes accommodate participants aged 13 and above, creating shared family activities. Stateroom configurations limit standard accommodations to triple occupancy maximum, requiring adjacent rooms or suites for larger families. Families prioritizing children's programming, water slides, or dedicated teen spaces should consider mainstream alternatives; those seeking educational cultural immersion with self-sufficient older children may find Oceania's approach compatible with their travel philosophy."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania Cruises implements a structured cancellation penalty schedule for Greek Isles bookings. Cancellations made 91+ days before departure incur no penalty for refundable fares, while restricted fares forfeit deposits ranging €500-€2,500 depending on voyage length. Between 90-76 days prior, penalties escalate to 25% of total fare; 75-61 days triggers 50% forfeiture; 60-31 days demands 75% penalty; and cancellations within 30 days result in 100% loss. Travel insurance, available through Oceania or independent providers, proves essential given these substantial penalties and the significant investment premium cruising represents. The line's CruiseCare protection plan, typically 8-10% of cruise fare, offers cancellation for covered reasons plus interruption protection and medical evacuation coverage. COVID-19 era flexibility has largely concluded, though specific health-related cancellations may receive consideration with documentation. Rebooking to future sailings rather than outright cancellation sometimes preserves value through administrative fee arrangements negotiated with Oceania or your travel advisor."
+    }
+  ]
+}

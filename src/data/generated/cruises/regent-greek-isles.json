@@ -1,0 +1,220 @@
+{
+  "title": "Regent Seven Seas Greek Isles Cruises 2026",
+  "intro": "Regent Seven Seas Cruises elevates Greek Isles exploration to unprecedented luxury, combining all-inclusive excellence with intimate ship sizes that access ports mega-liners cannot reach. As the most inclusive luxury cruise line, Regent delivers unlimited shore excursions, fine wines and spirits, specialty dining, valet laundry, and even pre-cruise hotel stays within every fare. The Greek Isles itinerary showcases this philosophy perfectly—imagine waking in a spacious suite with private balcony as your ship glides into Santorini's caldera, then enjoying a complimentary wine tasting excursion in a Mykonian vineyard. With fewer than 750 guests aboard Seven Seas Explorer or Seven Seas Splendor, you'll experience personalized service where staff remember your preferences. Regent's commitment to destination immersion means extended port stays, often overnighting in iconic locations like Athens or Istanbul, allowing authentic cultural connections beyond surface tourism.",
+  "quick_facts": {
+    "price_from_eur": 4899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "ships_on_route": [
+      "Seven Seas Explorer",
+      "Seven Seas Splendor",
+      "Seven Seas Voyager"
+    ],
+    "departure_ports": [
+      "Athens",
+      "Istanbul",
+      "Barcelona",
+      "Rome"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct-Nov)",
+      "inside_eur": 4899,
+      "balcony_eur": 5899,
+      "suite_eur": 8499
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 6299,
+      "balcony_eur": 7499,
+      "suite_eur": 11299
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 5499,
+      "balcony_eur": 6799,
+      "suite_eur": 9899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles & Ephesus",
+      "duration_nights": 7,
+      "ports": [
+        "Athens",
+        "Mykonos",
+        "Kusadasi",
+        "Patmos",
+        "Santorini",
+        "Crete",
+        "Athens"
+      ],
+      "price_from_eur": 4899,
+      "highlight": "Includes overnight Athens and unlimited excursions to Ephesus ancient ruins"
+    },
+    {
+      "name": "10-night Greek Isles & Adriatic",
+      "duration_nights": 10,
+      "ports": [
+        "Venice",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Katakolon",
+        "Santorini",
+        "Athens",
+        "Mykonos",
+        "Rhodes",
+        "Sicily",
+        "Rome"
+      ],
+      "price_from_eur": 6899,
+      "highlight": "Combines Dalmatian Coast jewels with iconic Greek islands and overnight Rome"
+    },
+    {
+      "name": "14-night Grand Greek Odyssey",
+      "duration_nights": 14,
+      "ports": [
+        "Athens",
+        "Santorini",
+        "Rhodes",
+        "Limassol",
+        "Haifa",
+        "Jerusalem",
+        "Alexandria",
+        "Heraklion",
+        "Katakolon",
+        "Corfu",
+        "Kotor",
+        "Dubrovnik",
+        "Venice"
+      ],
+      "price_from_eur": 9899,
+      "highlight": "Comprehensive Eastern Mediterranean immersion with three overnight stays"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Explorer",
+      "capacity": 750,
+      "year": 2016,
+      "best_for": "Luxury connoisseurs seeking the most opulent suites at sea",
+      "price_from_eur": 5499
+    },
+    {
+      "name": "Seven Seas Splendor",
+      "capacity": 750,
+      "year": 2020,
+      "best_for": "Discerning travelers wanting modern luxury design and culinary excellence",
+      "price_from_eur": 5299
+    },
+    {
+      "name": "Seven Seas Voyager",
+      "capacity": 700,
+      "year": 2003,
+      "refurbished": 2019,
+      "best_for": "Intimate luxury experience with all-suite, all-balcony accommodations",
+      "price_from_eur": 4899
+    }
+  ],
+  "whats_included": [
+    "Unlimited shore excursions in every port",
+    "All specialty restaurants without surcharge",
+    "Unlimited premium wines and spirits",
+    "Pre-cruise luxury hotel night",
+    "Roundtrip business class air on intercontinental flights",
+    "Ground transfers between airport, hotel and ship",
+    "Unlimited valet laundry including dry cleaning",
+    "WiFi throughout ship",
+    "Gratuities",
+    "Mini-bar replenished daily"
+  ],
+  "whats_extra": [
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Photography purchases",
+    "Premium shore excursion enhancements",
+    "Private car and driver arrangements",
+    "Boutique and logo shop purchases",
+    "Medical services"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for optimal suite selection and early booking savings up to EUR 1,500 per suite. Regent's value proposition strengthens closer to departure as competitors' add-on costs accumulate. Consider Regent's 'Ultimate All-Inclusive' promotional periods typically offered September-November and January-March, featuring free land programs and reduced deposits. Single supplement waivers occasionally available on select sailings. Past guests receive additional 5-10% savings through Seven Seas Society.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "1pm-10pm",
+      "top_activity": "Sunset catamaran cruise with volcanic hot springs (included)",
+      "tip": "Book the included Oia walking tour early; cable car lines grow lengthy after 5pm"
+    },
+    {
+      "port": "Mykonos",
+      "time_in_port": "8am-11pm (overnight option on select sailings)",
+      "top_activity": "Delos archaeological site guided exploration (included)",
+      "tip": "Evening port stay allows beach club experience after day-trippers depart"
+    },
+    {
+      "port": "Kusadasi (Ephesus)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Ephesus Terrace Houses exclusive access (included premium option)",
+      "tip": "Morning excavations have cooler temperatures and fewer crowds"
+    },
+    {
+      "port": "Athens",
+      "time_in_port": "Overnight 6am day 1 to 6pm day 2",
+      "top_activity": "Acropolis and New Acropolis Museum with resident guide (included)",
+      "tip": "Use included hotel night pre-cruise for full day exploration"
+    },
+    {
+      "port": "Rhodes",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Medieval Palace of the Grand Masters and Lindos acropolis (included)",
+      "tip": "Walk the Street of Knights early morning for photography without crowds"
+    },
+    {
+      "port": "Corfu",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Achilleion Palace and Corfu Town UNESCO walking tour (included)",
+      "tip": "Request the culinary-focused excursion featuring local kumquat liqueur tasting"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Greek Isles cruise cost?",
+      "answer": "Regent Seven Seas Greek Isles cruises start from approximately EUR 4,899 per person for 7-night sailings in shoulder season, with peak summer departures ranging EUR 6,299-11,299 depending on suite category. The 14-night Grand Odyssey itineraries command EUR 9,899-15,000+. These fares represent genuine all-inclusive value when compared to premium lines charging separately for excursions (EUR 150-400 daily), drinks packages (EUR 600+), gratuities (EUR 15-20 daily), and specialty dining (EUR 50-100 per meal). Regent's business class air inclusion alone represents EUR 2,000-4,000 value on transatlantic bookings. Penthouse Suites and above include butler service and additional amenities. Single travelers face 25-75% supplement unless promotional waiver applies."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Greek Isles?",
+      "answer": "Three vessels primarily serve Greek Isles itineraries: Seven Seas Explorer (2016, 750 guests), widely considered the most luxurious ship ever built with EUR 450 million construction cost featuring the 412-square-meter Regent Suite; Seven Seas Splendor (2020, 750 guests), introducing modern residential design aesthetics and culinary innovations including Chartreuse French restaurant; and Seven Seas Voyager (2003, refurbished 2019, 700 guests), offering intimate luxury with all-suite, all-balcony accommodations. Explorer and Splendor alternate Greek deployments seasonally, with Voyager handling extended Mediterranean programming. All three feature Canyon Ranch SpaClub, Compass Rose main dining room with unlimited premium selections, and Pool Grill for casual alfresco dining. Ship selection impacts pricing marginally—Explorer commands slight premium for newer hardware."
+    },
+    {
+      "question": "When is best time to cruise Greek Isles?",
+      "answer": "May, June, September, and October deliver optimal Greek Isles cruising conditions with temperatures 22-28°C, minimal rainfall, and manageable crowds. May offers wildflower-covered hillsides and comfortable exploration weather before peak heat. June provides longest daylight hours for extended port enjoyment. September maintains warm seas ideal for swimming while vineyard harvests commence. October brings cultural events and reduced tourist density, though some beach facilities begin seasonal closure. July-August temperatures exceed 35°C with intense sun exposure and congested archaeological sites—Regent's air-conditioned included excursions mitigate discomfort but early morning departures essential. April and November sailings offer lowest pricing but unpredictable weather and limited excursion availability. December Greek sailings focus on Christmas markets and religious sites rather than beach experiences."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent's all-inclusive model encompasses virtually every vacation element: unlimited shore excursions in every port ranging from walking tours to culinary experiences; all specialty restaurants including Prime 7 steakhouse, Chartreuse French venue, and Pacific Rim Asian fusion; unlimited premium wines, spirits, and champagne throughout ship; pre-cruise luxury hotel night with breakfast; roundtrip business class air on intercontinental bookings or economy with upgrade options; all ground transfers; unlimited valet laundry, pressing, and dry cleaning; WiFi with streaming capability; gratuities for all staff; mini-bar replenished with preferences; and 24-hour room service. The only significant exclusions are spa treatments, casino, boutique purchases, and premium excursion enhancements like private vehicle arrangements. This comprehensive inclusion eliminates onboard spending anxiety and simplifies budgeting—most guests disembark with zero additional charges."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent's Greek Isles itineraries emphasize marquee destinations Santorini, Mykonos, and Rhodes with extended stays enabling authentic immersion. Athens serves as primary embarkation point with overnight stays allowing comprehensive Acropolis exploration. Kusadasi (Turkey) provides access to Ephesus, among Mediterranean's best-preserved ancient cities. Secondary Greek ports include Crete's Heraklion for Knossos Palace, Katakolon for Olympia archaeological site, and Corfu for Venetian-influenced Old Town. Extended itineraries incorporate Limassol (Cyprus), Haifa and Jerusalem (Israel), Alexandria (Egypt), and Dalmatian Coast gems Dubrovnik and Kotor. Smaller vessels access tender ports like Santorini's caldera and Patmos's Skala harbor that mega-ships cannot approach. Port stays typically exceed 8 hours with multiple overnights annually, contrasting sharply with mass-market lines' abbreviated 4-6 hour calls."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Regent Greek Isles reservations 12-18 months advance for optimal suite selection, particularly Penthouse categories and above with butler service. Early booking incentives typically include fare savings to EUR 1,500 per suite and reduced deposits. Popular summer sailings especially around Orthodox Easter and August full moons sell out 9-12 months ahead. Last-minute availability occasionally emerges 60-90 days prior with modest discounts, though suite selection severely limited. Regent's flexible cancellation policy—full refund until final payment (typically 120-150 days pre-departure)—reduces booking risk. Group bookings (8+ suites) require 18+ month lead time for preferred dates. Rebooking onboard future cruises yields additional 5% savings combinable with early booking rates. Consider Wave Season (January-March) for enhanced promotional inclusions."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas positions as adults-oriented luxury with limited dedicated children's programming, though families with mature, culturally-engaged teenagers find exceptional value. Minimum age is 6 months (12 months for extensive itineraries); no kids' clubs or dedicated youth facilities exist. The all-inclusive model particularly benefits families—unlimited excursions eliminate negotiation over activity costs, flexible dining accommodates varying schedules, and spacious suites provide separation impossible in standard cabins. Educational dimensions of Greek Isles itineraries—ancient history, mythology, archaeology—resonate with intellectually curious adolescents. Multi-generational groups appreciate Regent's accessibility and relaxed pace. Families with young children should consider alternative luxury lines with structured youth programming; those with college-age children or adult offspring discover Regent's refined environment ideal for meaningful shared experiences without compromise."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas maintains industry-favorable cancellation terms: full refund without penalty until final payment date (typically 120 days pre-departure for 7-14 night cruises, 150 days for longer voyages). After final payment, cancellation fees escalate progressively—EUR 250 per person administrative fee at 119-90 days; 25% of fare at 89-60 days; 50% at 59-30 days; 75% at 29-15 days; and 100% within 14 days. Travel insurance strongly recommended given significant late-cancellation exposure; Regent offers proprietary plans covering cancellation for any reason when purchased within 21 days of initial deposit. COVID-19 protocols introduced temporary flexible booking terms allowing future cruise credits—verify current policies as these evolved. Rebooking to alternative sailing typically incurs EUR 100 per person change fee if outside penalty window. Named storm and mechanical interruption policies provide additional protections."
+    }
+  ]
+}

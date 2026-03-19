@@ -1,0 +1,235 @@
+{
+  "title": "Holland America Line British Isles Cruises 2026",
+  "intro": "Holland America Line brings 150 years of Dutch maritime heritage to British Isles cruising, offering refined, destination-focused voyages aboard mid-sized ships perfectly suited for navigating the region's intimate ports. Unlike mega-ship competitors, HAL's vessels slip into historic harbours like Kirkwall and Portree that larger ships cannot access. The line's Explorations Central (EXC) program enriches every sailing with expert lecturers, regional cuisine, and culturally immersive shore excursions. British Isles itineraries emphasize extended port stays and overnight calls in Edinburgh and Dublin, allowing deeper exploration of Celtic heritage, medieval castles, and whisky distilleries. With an average guest age of 55+, HAL attracts discerning travellers seeking authentic experiences over nightlife. The partnership with BBC Earth brings natural history content to life, particularly resonant when sailing Scotland's wildlife-rich waters. Signature Indonesian and Filipino crew service creates an exceptionally warm, personalized atmosphere throughout each voyage.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "10-21 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Volendam"
+    ],
+    "departure_ports": [
+      "Rotterdam",
+      "Southampton",
+      "Dover",
+      "Copenhagen"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3299
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1699,
+      "balcony_eur": 2499,
+      "suite_eur": 4299
+    },
+    {
+      "season": "Late Summer (Sep)",
+      "inside_eur": 1499,
+      "balcony_eur": 2199,
+      "suite_eur": 3799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night British Isles Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Rotterdam",
+        "Dover",
+        "Portland",
+        "Falmouth",
+        "Cork",
+        "Dublin",
+        "Liverpool",
+        "Belfast",
+        "Greenock",
+        "Invergordon",
+        "South Queensferry",
+        "Newcastle",
+        "Amsterdam"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Comprehensive circumnavigation with overnight Dublin"
+    },
+    {
+      "name": "10-night Celtic Kingdoms",
+      "duration_nights": 10,
+      "ports": [
+        "Southampton",
+        "Portland",
+        "Falmouth",
+        "Cork",
+        "Dublin",
+        "Belfast",
+        "Greenock",
+        "Invergordon",
+        "South Queensferry",
+        "Southampton"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Scottish Highlands focus with Edinburgh overnight"
+    },
+    {
+      "name": "21-night Vikings & Highlands Voyage",
+      "duration_nights": 21,
+      "ports": [
+        "Rotterdam",
+        "Oslo",
+        "Edinburgh",
+        "Invergordon",
+        "Lerwick",
+        "Torshavn",
+        "Reykjavik",
+        "Isafjordur",
+        "Akureyri",
+        "Scrabster",
+        "Aberdeen",
+        "Newcastle",
+        "Amsterdam"
+      ],
+      "price_from_eur": 3499,
+      "highlight": "Iceland, Faroes and Norway combined with British Isles"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Rotterdam",
+      "capacity": 2668,
+      "year": 2021,
+      "best_for": "Cultural immersion & culinary excellence",
+      "price_from_eur": 1499
+    },
+    {
+      "name": "Nieuw Statendam",
+      "capacity": 2666,
+      "year": 2018,
+      "best_for": "Music lovers & art enthusiasts",
+      "price_from_eur": 1399
+    },
+    {
+      "name": "Volendam",
+      "capacity": 1432,
+      "year": 1999,
+      "best_for": "Intimate port access & traditional cruising",
+      "price_from_eur": 1299
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Lido Market buffet",
+    "24-hour room service",
+    "Broadway-style shows & live music",
+    "BBC Earth Experiences",
+    "Explorations Central programming",
+    "Fitness centre & basketball court",
+    "Port taxes & fees"
+  ],
+  "whats_extra": [
+    "Specialty dining (Pinnacle Grill, Tamarind €35-55)",
+    "Beverage packages (€55-75/day)",
+    "Shore excursions (€89-299)",
+    "WiFi packages (€25/day)",
+    "Spa treatments",
+    "Laundry services",
+    "Gratuities (€16/day recommended)"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for best cabin selection, especially for suite categories. HAL's 'Have It All' promotion typically runs September-December, bundling drinks, specialty dining, shore excursions and WiFi for €35-45/day savings. Shoulder season sailings offer 20-30% lower fares with fewer crowds. Mariner Society loyalty members receive early access to new itineraries.",
+  "top_ports": [
+    {
+      "port": "Dublin",
+      "time_in_port": "8am-6pm (often overnight)",
+      "top_activity": "Guinness Storehouse & Trinity College Book of Kells (€65)",
+      "tip": "Pre-book literary pub crawl; overnight stays allow independent Temple Bar exploration"
+    },
+    {
+      "port": "South Queensferry (Edinburgh)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Edinburgh Castle & Royal Mile (€85)",
+      "tip": "Ship docks 30 minutes from city; consider HAL's transfer or independent train"
+    },
+    {
+      "port": "Invergordon (Inverness/Loch Ness)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Loch Ness cruise with Urquhart Castle (€109)",
+      "tip": "Morning departures have calmer waters; afternoon tours risk weather cancellations"
+    },
+    {
+      "port": "Greenock (Glasgow)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Loch Lomond & Stirling Castle (€95)",
+      "tip": "Glasgow city tour adequate but Stirling offers superior historical significance"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Giant's Causeway & Titanic Belfast (€119)",
+      "tip": "Late departure permits evening dinner ashore; book Causeway for morning light"
+    },
+    {
+      "port": "Lerwick (Shetland Islands)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Jarlshof Prehistoric Settlement & puffin colonies (€79)",
+      "tip": "Weather-dependent port; always book refundable excursions here"
+    },
+    {
+      "port": "Kirkwall (Orkney Islands)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Skara Brae Neolithic village & Scapa Flow (€89)",
+      "tip": "Compact town walkable; whisky distillery tour popular alternative to ship excursions"
+    },
+    {
+      "port": "Cork (Cobh)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Blarney Castle & Cork city (€75)",
+      "tip": "Titanic Experience at Cobh excellent for maritime history; kissing stone overrated"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line British Isles cruise cost?",
+      "answer": "Holland America Line British Isles cruises typically range from €1,299 for interior cabins on 10-night shoulder season sailings to €4,500+ for Neptune Suites during peak summer. Balcony cabins, essential for scenic Scottish cruising, average €1,899-€2,499. The 'Have It All' promotional package adds approximately €50/day but includes premium drinks, specialty dining, shore excursions and WiFi—often saving €400-€600 per couple. Solo travellers should note HAL's single supplement runs 150-200%, though occasional promotions reduce this. Gratuities, at €16/day per person, add €224-€336 for typical itineraries. Shore excursions represent significant additional cost, with comprehensive day tours averaging €95-€120."
+    },
+    {
+      "question": "Which Holland America Line ships sail to British Isles?",
+      "answer": "Holland America deploys its Pinnacle-class and Rotterdam-class vessels for British Isles service. Rotterdam (2021, 2,668 passengers) serves as flagship with the most comprehensive itinerary offerings, featuring the largest collection of art at sea and world-class dining venues. Nieuw Statendam (2018, 2,666 passengers) emphasizes music through its Lincoln Center Stage, B.B. King's Blues Club, and Rolling Stone Rock Room. Smaller Volendam (1999, 1,432 passengers) accesses restricted ports like Portree and St. Kilda that larger ships cannot visit, ideal for expedition-minded travellers. All three vessels feature HAL's signature Explorations Central program and Indonesian/Philippine crew renowned for attentive service."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "May through September offers optimal British Isles cruising conditions, with June and July delivering the most reliable weather and longest daylight hours—up to 18 hours in Scottish ports. May and September provide excellent value with 20-30% lower fares, blooming gardens or autumn colours, and fewer tourist crowds at major attractions. Sea conditions roughen in October through March, limiting cruise operations. Wildlife enthusiasts should target May-June for puffin breeding season at St. Kilda and Shetland, or August for whale migration around Iceland extensions. Scottish Highland games occur July-August, creating authentic cultural opportunities. Rain remains probable even in summer; pack waterproof layers regardless of month."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America Line includes all main dining room meals, the extensive Lido Market buffet, and 24-hour complimentary room service on British Isles cruises. Entertainment encompasses BBC Earth Experiences, live music venues including the Lincoln Center Stage, and Explorations Central cultural programming. Fitness facilities, basketball court, and port taxes are included. Notably excluded are beverages beyond complimentary coffee, tea, and select juices; specialty restaurants Pinnacle Grill and Tamarind; WiFi; and shore excursions. Gratuities, while technically discretionary, are automatically added at €16/day per person. HAL's 'Have It All' promotional fare bundles drinks, specialty dining, shore excursion credits, and WiFi—recommended for most passengers given individual pricing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America's British Isles itineraries feature 12-16 distinct ports across England, Scotland, Ireland, Northern Ireland, and occasionally Wales. English calls typically include Dover (London access), Portland (Jurassic Coast), Falmouth (Cornwall), Liverpool, and Newcastle. Scottish highlights encompass South Queensferry (Edinburgh), Invergordon (Highlands/Loch Ness), Greenock (Glasgow), Kirkwall (Orkney), Lerwick (Shetland), and Portree (Isle of Skye). Irish Republic visits focus on Dublin with overnight stays and Cork (Cobh). Belfast represents Northern Ireland with Giant's Causeway access. Extended voyages incorporate Iceland's Reykjavik, Akureyri, and Isafjordur, plus Norway's fjords. Rotterdam and Amsterdam serve as primary embarkation points, with Southampton and Dover offering convenient British departure options."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Reserve Holland America British Isles cruises 9-14 months in advance for optimal cabin selection, particularly for Neptune and Pinnacle Suites which represent only 8% of inventory. Balcony cabins on the starboard side offer preferred Scotland coastal viewing on northbound segments. HAL releases itineraries 18-24 months ahead; Mariner Society loyalty members access booking 30 days early. Wave season (January-March) historically offers the strongest promotions including 'Have It All' inclusions and reduced deposits. Last-minute availability exists primarily in shoulder months, though cabin categories become limited. Solo travellers should book earliest as single-occupancy cabins are extremely scarce. Flight arrangements to Rotterdam or regional UK airports require parallel advance planning for reasonable airfares."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Line specifically targets mature travellers rather than families, with British Isles itineraries particularly suited to adults given the destination's historical and cultural focus. No dedicated children's facilities operate on these sailings; Club HAL youth program runs limited hours only when 25+ children are aboard—a rarity on British Isles routes. Teen programming is minimal. Families with children under 12 may find better value and engagement with competitors. However, multi-generational groups with adult children or teenagers interested in history, literature, and natural history find HAL's enrichment programming exceptional. The line's relaxed atmosphere, early dining options, and spacious accommodations suit family groups prioritizing shared experiences over youth facilities. Consider summer departures for highest probability of peer interaction."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America Line's standard cancellation policy for British Isles cruises charges no penalty for cancellations 90+ days before departure. Deposits (typically €300-€600 depending on voyage length) become non-refundable 89-76 days prior, with full fare forfeiture applying 75 days or fewer before sailing. 'Have It All' and other promotional fares often carry stricter terms—frequently non-refundable from booking. Travel insurance, available through HAL or independent providers at 5-8% of voyage cost, is strongly recommended given British Isles weather-related itinerary disruptions. Cancel For Any Reason (CFAR) upgrades provide 75% future cruise credit. COVID-19 protocols have relaxed but health-related cancellations may still incur penalties without appropriate documentation. Rebooking to alternative sailings typically incurs €50-€100 administrative fees per person."
+    }
+  ]
+}

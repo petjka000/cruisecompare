@@ -1,0 +1,208 @@
+{
+  "title": "P&O Cruises Norwegian Fjords Cruises 2026",
+  "intro": "P&O Cruises brings its distinctive British heritage to the majestic Norwegian Fjords, offering an elegant yet relaxed way to explore one of nature's most dramatic landscapes. Operating from Southampton, P&O eliminates the hassle of fly-cruising, allowing guests to sail directly into UNESCO-protected fjords surrounded by towering cliffs, cascading waterfalls, and snow-capped peaks. The line's adult-only ships, Arcadia and Aurora, provide sophisticated escapes with refined dining and spa facilities, while family-friendly vessels Iona and Arvia feature innovative entertainment and expansive observation decks perfect for fjord gazing. P&O's Norwegian Fjords itineraries emphasise scenic cruising through narrow waterways inaccessible to larger vessels, with extended daylight hours during summer months creating magical conditions for photography and wildlife spotting. Onboard, expect British touches from afternoon tea to curry nights, complemented by expert destination lectures that deepen appreciation for Viking history and Norwegian culture.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul"
+    ],
+    "ships_on_route": [
+      "Iona",
+      "Arvia",
+      "Arcadia",
+      "Aurora"
+    ],
+    "departure_ports": [
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep)",
+      "inside_eur": 849,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Late Season (Oct)",
+      "inside_eur": 999,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Norway Fjord",
+      "duration_nights": 7,
+      "ports": [
+        "Stavanger",
+        "Olden",
+        "Hellesylt",
+        "Geiranger",
+        "Bergen"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Scenic cruising through Geirangerfjord and Sunnylvsfjord with waterfalls visible from ship"
+    },
+    {
+      "name": "12-night Fjords & Arctic Circle",
+      "duration_nights": 12,
+      "ports": [
+        "Stavanger",
+        "Flam",
+        "Olden",
+        "Hellesylt",
+        "Geiranger",
+        "Alesund",
+        "Tromso",
+        "Alta",
+        "Honningsvag"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Cross the Arctic Circle with midnight sun opportunities and Sami cultural experiences"
+    },
+    {
+      "name": "7-night Fjords & Waterfalls",
+      "duration_nights": 7,
+      "ports": [
+        "Haugesund",
+        "Skjolden",
+        "Nordfjordeid",
+        "Stavanger"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Deepest fjord penetration including 204km Sognefjord with optional Flam Railway excursion"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Iona",
+      "capacity": 5200,
+      "year": 2021,
+      "best_for": "Families & multigenerational groups",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Arvia",
+      "capacity": 5200,
+      "year": 2022,
+      "best_for": "Active families with adventure seekers",
+      "price_from_eur": 949
+    },
+    {
+      "name": "Arcadia",
+      "capacity": 2100,
+      "year": 2005,
+      "best_for": "Adults seeking refined, traditional cruising",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Aurora",
+      "capacity": 1870,
+      "year": 2000,
+      "best_for": "Mature adults preferring intimate ship atmosphere",
+      "price_from_eur": 799
+    }
+  ],
+  "whats_included": [
+    "Full board dining in main restaurants and buffet venues",
+    "Afternoon tea service",
+    "Evening entertainment including theatre productions and live music",
+    "Children's clubs and family activities (on family ships)",
+    "Gym access and swimming pools",
+    "Port taxes and basic gratuities",
+    "Onboard destination presentations"
+  ],
+  "whats_extra": [
+    "Premium dining in speciality restaurants (EUR 25-45 per person)",
+    "Beverage packages and individual drinks (EUR 6-12 for wine, EUR 5-8 for beer)",
+    "Shore excursions (EUR 59-299 depending on activity level)",
+    "WiFi packages (EUR 15-25 per day)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak summer balcony cabins on scenic cruising routes; shoulder season offers 15-20% savings with comparable daylight hours. Select Your Price promotions provide flexibility, while early booking typically includes onboard credit of EUR 100-200. Consider guarantee cabins for interior rooms on port-intensive itineraries where balcony value diminishes.",
+  "top_ports": [
+    {
+      "port": "Geiranger",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Flydalsjuvet viewpoint and Seven Sisters waterfall boat approach (EUR 89)",
+      "tip": "Reserve port-side balcony for waterfall views during scenic approach"
+    },
+    {
+      "port": "Flam",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Flam Railway to Myrdal, steepest in Europe (EUR 65)",
+      "tip": "Book railway independently via Norwegian State Railways (VY) for 40% savings"
+    },
+    {
+      "port": "Stavanger",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Pulpit Rock (Preikestolen) helicopter or hiking excursion (EUR 189-249)",
+      "tip": "Old Town Gamle Stavanger offers free independent exploration with white wooden houses"
+    },
+    {
+      "port": "Olden",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Briksdal Glacier walk with troll car transfer (EUR 79)",
+      "tip": "Loen Skylift accessible independently for panoramic fjord views (EUR 35)"
+    },
+    {
+      "port": "Alesund",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Art Nouveau walking tour and Aksla viewpoint (EUR 45)",
+      "tip": "Town compact enough for self-guided exploration; Fjellstua viewpoint reachable by 418 steps or taxi"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Floibanen funicular and Edvard Grieg's Troldhaugen (EUR 55)",
+      "tip": "Fish Market central for independent wandering; UNESCO Bryggen wharf free to explore"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Norwegian Fjords cruise cost?",
+      "answer": "P&O Norwegian Fjords cruises typically range from EUR 849 to EUR 2,499 per person for 7-night itineraries, depending on season and cabin category. Inside cabins start around EUR 849 in shoulder season (April-May, September) rising to EUR 1,099 in peak summer. Balcony cabins, highly recommended for fjord viewing, range from EUR 1,199 to EUR 1,599. Suites command EUR 1,899 to EUR 2,499. Longer 12-night Arctic Circle voyages start from EUR 1,499. These fares include full board, entertainment, and port taxes, though drinks, excursions, and WiFi require additional budget of EUR 400-800 per week."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Norwegian Fjords?",
+      "answer": "P&O deploys four ships on Norwegian Fjords routes from Southampton. Family-friendly Iona (2021) and Arvia (2022) are LNG-powered Excel-class vessels with glass-roofed SkyDome and extensive entertainment. Adult-only Arcadia (2005) offers traditional elegance with wrap-around promenade deck ideal for fjord viewing. Aurora (2000), also adults-only, provides intimate atmosphere with heavy emphasis on destination enrichment. Iona and Arvia suit multigenerational groups with children's clubs and adventure activities, while Arcadia and Aurora attract couples seeking refined, quieter experiences. All four feature dedicated observation areas and forward-facing venues optimised for scenic cruising."
+    },
+    {
+      "question": "When is best time to cruise Norwegian Fjords?",
+      "answer": "The optimal period runs May through July, when snowmelt feeds spectacular waterfalls and daylight extends to 18-20 hours. June offers the most reliable weather with temperatures 15-20°C and wildflowers blooming on mountainsides. July brings peak crowds but warmest conditions for outdoor excursions. May provides 20% lower pricing with occasional snow-capped peaks and fewer tourists. August remains viable though rainfall increases; September sees autumn colours emerge but daylight shortens rapidly. P&O's limited October sailings suit budget-conscious travellers accepting 10-hour days and cooler 8-12°C temperatures. Avoid winter months when P&O does not operate these routes due to limited daylight and harsh conditions."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O Norwegian Fjords cruises include full board dining across main restaurants, buffet venues, and casual eateries, with afternoon tea served daily. Entertainment encompasses West End-style theatre productions, live music, comedy, and cinema screenings. Family ships include children's clubs divided by age groups from 2-17 years. Fitness centres, swimming pools, and deck sports are complimentary. Port taxes and service charges are incorporated, eliminating hidden gratuity expectations. Destination lectures and port briefings enhance the experience. Notably, P&O uniquely includes basic service charges within fares, unlike most competitors. Exclusions comprise alcoholic and premium beverages, speciality dining, shore excursions, WiFi, spa services, and laundry, requiring supplementary budgeting of approximately EUR 500-1,000 per person weekly."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O Norwegian Fjords itineraries feature 5-8 Norwegian ports depending on duration. Core destinations include Geiranger, accessed via spectacular UNESCO-protected fjord with Seven Sisters waterfall; Flam, gateway to the Flam Railway and Sognefjord; and Stavanger, combining historic old town with Pulpit Rock excursions. Olden provides access to Briksdal Glacier, while Alesund showcases Art Nouveau architecture. Bergen, Norway's second city, offers UNESCO-listed Bryggen wharf and Edvard Grieg connections. Extended voyages reach Arctic Circle ports Tromso, Alta, and Honningsvag (North Cape). Most itineraries emphasise scenic cruising through narrow fjords including Geirangerfjord, Sunnylvsfjord, and Nordfjord, often counted as highlights exceeding actual port calls."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure P&O Norwegian Fjords cruises 9-12 months in advance, particularly for peak summer balcony cabins on port side for optimal fjord views. Iona and Arvia's popular family accommodations sell fastest during school holiday periods. Booking early typically yields onboard credit of EUR 100-200 and preferred dining allocations. Shoulder season (May, September) requires 6-9 months advance booking for best cabin selection. Last-minute deals occasionally appear 8-12 weeks prior for flexible travellers, though cabin location and dining times may be restricted. P&O's Select Price offers cabin choice and flexibility, while Saver fares provide 10-15% reductions with automatic cabin assignment—acceptable for interior rooms on port-intensive itineraries where balcony utility diminishes."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O Norwegian Fjords cruises suit families exceptionally well on Iona and Arvia, which offer dedicated children's clubs: Reef for 2-4 years, Splashers for 5-8, Surfers for 9-12, and Scubas for 13-17. Teen spaces include gaming areas and supervised discos. Family shore excursions feature age-appropriate activities from easy glacier walks to kayak adventures. The fjord destination itself engages children with waterfalls, wildlife including eagles and seals, and dramatic landscapes. Onboard, pools, climbing walls, and adventure activities entertain sea days. Arcadia and Aurora are adults-only and unsuitable for families. Norwegian shore excursions accommodate strollers and offer moderate physical demands. Evening entertainment includes family-friendly theatre shows, though formal nights may challenge younger children."
+    },
+    {
+      "question": "What is P&O's cancellation policy?",
+      "answer": "P&O's cancellation structure operates on a sliding scale based on departure proximity. Cancellations 91+ days prior incur no penalty with full refund. 90-61 days before sailing forfeit deposit amount, typically EUR 200-400 per person depending on cruise length and cabin category. 60-15 days prior sacrifice 75% of total fare. Within 14 days, full fare is retained. Travel insurance is strongly recommended, particularly for Norway's unpredictable weather potentially affecting flights to Southampton. P&O offers Cruise Cover at booking (approximately EUR 50-80) providing cancellation for specified reasons with future cruise credit. Standard terms apply unless booking promotional fares with stricter conditions—Saver fares particularly may prohibit changes or carry enhanced penalties. Rebooking to alternative dates typically incurs EUR 50-100 administration fees per person."
+    }
+  ]
+}

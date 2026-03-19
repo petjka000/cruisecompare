@@ -1,0 +1,187 @@
+{
+  "title": "Cunard Line Hawaii Cruises 2026",
+  "intro": "Cunard Line brings its legendary transatlantic elegance to the Pacific with Hawaii cruises aboard Queen Elizabeth. Experience White Star Service as you sail from the California coast to four Hawaiian islands, enjoying formal nights, afternoon tea, and the largest ballroom at sea. Cunard's Hawaii itineraries uniquely combine ocean crossing tradition with tropical exploration, offering extended stays in Honolulu and overnight calls that allow deeper island immersion. The 2,081-guest Queen Elizabeth provides an intimate, refined atmosphere distinct from mainstream cruise lines, with enrichment lectures on Hawaiian culture, astronomy, and maritime history. Cunard's Hawaii sailings appeal to sophisticated travelers seeking destination depth over onboard gimmicks, with 14-18 night voyages that include scenic cruising of the Na Pali Coast and Molokai's sea cliffs.",
+  "quick_facts": {
+    "price_from_eur": 2499,
+    "duration_range": "14-18 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Nov",
+      "Dec"
+    ],
+    "ships_on_route": [
+      "Queen Elizabeth"
+    ],
+    "departure_ports": [
+      "San Francisco",
+      "Los Angeles",
+      "Vancouver"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Winter Peak (Jan-Mar)",
+      "inside_eur": 2499,
+      "balcony_eur": 3899,
+      "suite_eur": 7499
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 2899,
+      "balcony_eur": 4299,
+      "suite_eur": 8499
+    },
+    {
+      "season": "Shoulder (Nov, Apr)",
+      "inside_eur": 2199,
+      "balcony_eur": 3299,
+      "suite_eur": 5999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Hawaiian Islands & San Francisco",
+      "duration_nights": 16,
+      "ports": [
+        "San Francisco",
+        "Hilo",
+        "Honolulu",
+        "Nawiliwili",
+        "Lahaina",
+        "Ensenada"
+      ],
+      "price_from_eur": 2699,
+      "highlight": "Overnight in Honolulu with sunset sail past Diamond Head"
+    },
+    {
+      "name": "Vancouver to Hawaii",
+      "duration_nights": 14,
+      "ports": [
+        "Vancouver",
+        "Hilo",
+        "Honolulu",
+        "Nawiliwili",
+        "Lahaina",
+        "San Francisco"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Scenic cruising of British Columbia coast before Pacific crossing"
+    },
+    {
+      "name": "Roundtrip Los Angeles",
+      "duration_nights": 18,
+      "ports": [
+        "Los Angeles",
+        "Hilo",
+        "Honolulu (overnight)",
+        "Nawiliwili",
+        "Lahaina",
+        "Kona",
+        "Ensenada"
+      ],
+      "price_from_eur": 3199,
+      "highlight": "Most comprehensive Hawaiian island coverage with two sea days between ports"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Elizabeth",
+      "capacity": 2081,
+      "year": 2010,
+      "best_for": "Mature couples, cultural travelers, British tradition enthusiasts",
+      "price_from_eur": 2499
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All meals in main dining rooms and buffet",
+    "Traditional afternoon tea service",
+    "Nightly entertainment and live music",
+    "Guest lectures and enrichment programs",
+    "Fitness center and swimming pools",
+    "Deck games and quoits",
+    "Nightly dancing in the Queens Room",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Gratuities (EUR 14-16 per person daily)",
+    "Alcoholic beverages and specialty coffees",
+    "Shore excursions (EUR 89-349 per tour)",
+    "Specialty dining in Verandah restaurant (EUR 49-69)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "WiFi packages (EUR 18-30 daily)",
+    "Photography services",
+    "Casino gaming",
+    "Airfare and pre/post hotel stays"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection, particularly for Grills Suites. Cunard releases Hawaii itineraries 18 months in advance. Early booking typically saves 15-25% versus last-minute rates. Consider Cunard's Fare Promise for price protection. Wave season (January-March) offers added onboard credit. Grills Suites include priority embarkation, reserved theater seating, and exclusive lounge access—book these 18+ months out for peak winter sailings.",
+  "top_ports": [
+    {
+      "port": "Honolulu, Oahu",
+      "time_in_port": "7am-11pm+ (overnight on select sailings)",
+      "top_activity": "Pearl Harbor & USS Arizona Memorial (EUR 65)",
+      "tip": "Request port side cabin for Diamond Head views on arrival"
+    },
+    {
+      "port": "Lahaina, Maui",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Haleakala sunrise tour (EUR 189)",
+      "tip": "Tender port—book early shore excursions to guarantee landing priority"
+    },
+    {
+      "port": "Nawiliwili, Kauai",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Na Pali Coast boat expedition (EUR 249)",
+      "tip": "Waimea Canyon tours require 6+ hours—best for overnight itineraries only"
+    },
+    {
+      "port": "Hilo, Hawaii Island",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Volcanoes National Park (EUR 129)",
+      "tip": "Rain likely—bring waterproof layer for crater viewing"
+    },
+    {
+      "port": "Kona, Hawaii Island",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Manta ray night snorkel (EUR 159)",
+      "tip": "Tender port with limited capacity—priority given to ship excursions"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Hawaii cruise cost?",
+      "answer": "Cunard Hawaii cruises start from EUR 2,199 for inside cabins during shoulder season (November, April), rising to EUR 2,899+ for December holiday departures. Balcony cabins range EUR 3,299-4,299, while Princess and Queens Grill Suites command EUR 5,999-8,499. Total vacation costs including flights from Europe (EUR 800-1,400), gratuities (EUR 14-16 daily), drinks, and excursions typically reach EUR 4,500-7,000 per person for a 16-night voyage. Cunard's positioning as a premium line means prices run 40-60% above mainstream competitors, reflecting smaller ship intimacy, formal service standards, and extended port stays. Early booking discounts of 15-25% are common 12-18 months ahead."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Hawaii?",
+      "answer": "Queen Elizabeth is Cunard's dedicated Pacific vessel for Hawaii cruises, operating 14-18 night itineraries from San Francisco, Los Angeles, and Vancouver. The 90,901-ton ship carries 2,081 guests with 1,005 crew, maintaining Cunard's 2:1 passenger-to-staff ratio. Built in 2010 and extensively refurbished in 2022, Queen Elizabeth features art deco interiors inspired by 1930s ocean liners, the largest ballroom at sea, and three tiers of accommodation from Britannia to Queens Grill. Unlike Cunard's larger Queen Mary 2 (transatlantic specialist) or Queen Victoria (Mediterranean/ Northern Europe focus), Queen Elizabeth is specifically deployed for Pacific and world cruise segments including Hawaii. No other Cunard vessel currently operates this route."
+    },
+    {
+      "question": "When is best time to cruise Hawaii?",
+      "answer": "January through March offers optimal Hawaii cruising conditions with temperatures 24-27°C, minimal rainfall on leeward coasts where ships dock, and humpback whale migration peaks. December sailings combine holiday atmosphere with reliable weather though at premium pricing. November and April shoulder months provide 15-20% savings with slightly higher rain probability. Cunard schedules Hawaii primarily during winter months when Pacific crossings are smoothest; summer positioning voyages are rare due to hurricane risk (June-November) and less favorable California-Hawaii sailing conditions. For European travelers, February-March departures align well with escape-from-winter timing. Whale watching from ship decks peaks January-March, a significant wildlife bonus."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard Hawaii cruises include accommodation, all meals in Britannia or Grills restaurants and Lido buffet, traditional afternoon tea with white-glove service, nightly entertainment from live orchestras to theater productions, daily enrichment lectures on Hawaiian history and culture, fitness facilities, swimming pools, deck sports, and ballroom dancing. Grills Suite guests additionally receive butler service, priority embarkation, reserved theater seating, and exclusive lounge access. Not included are alcoholic beverages, specialty dining, shore excursions, WiFi, spa services, and gratuities (EUR 14-16 daily). Unlike ultra-luxury lines, Cunard maintains an a-la-carte model where base fare covers traditional cruising essentials while premium experiences carry surcharges. Pre-paid beverage packages are available."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard Hawaii itineraries visit four major islands: Oahu (Honolulu, overnight on select sailings), Maui (Lahaina, tender port), Kauai (Nawiliwili), and Hawaii Island (Hilo and/or Kona, both tender ports). Honolulu offers Pearl Harbor, Waikiki Beach, and Diamond Head. Lahaina provides access to Haleakala crater and Road to Hana. Nawiliwili is gateway to Waimea Canyon and Na Pali Coast. Hilo features Volcanoes National Park and waterfalls; Kona offers coffee country and manta ray encounters. Cunard's extended stays (10-14 hours vs. industry standard 8 hours) and overnight calls in Honolulu allow deeper exploration. Some itineraries include Ensenada, Mexico for passenger services compliance on roundtrip California departures. No cruise line currently calls at Molokai or Lanai due to infrastructure limitations."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Cunard Hawaii cruises 12-18 months in advance for optimal cabin selection, particularly for Balcony and Grills categories which represent 70% of inventory and sell first. Cunard releases itineraries approximately 18 months ahead; opening day pricing typically offers best value with early booking discounts. For peak January-March whale season departures, book 15-18 months ahead—Grills Suites often sell out 12 months prior. Last-minute Hawaii availability is rare and typically limited to inside cabins at full fare. European travelers should coordinate flight bookings 9-11 months ahead for San Francisco/Los Angeles routes. Cunard's Fare Promise allows price adjustments if fares drop after booking but before final payment, reducing risk of early commitment."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard Hawaii cruises suit families with children 8+ who appreciate structured programs and formal environments, though the line primarily targets mature travelers. The Zone and Zone 2 clubs offer supervised activities for ages 2-17, but facilities are modest compared to mainstream lines—no water slides, rock walls, or character experiences. Evening entertainment ends early (10:30pm) supporting family schedules. Formal nights (2-3 per 14 nights) require children to observe dress codes. The educational enrichment focus—Hawaiian culture lectures, astronomy sessions, ballroom dance classes—appeals to curious older children. Infant facilities are limited; children under 2 years have minimal programming. Families seeking high-energy onboard activities may find Cunard sedate; those valuing destination immersion, quality time, and refined atmosphere will appreciate the experience."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's standard cancellation policy for Hawaii cruises charges no penalty until 91 days before departure. Cancellations 90-61 days prior forfeit deposit (typically EUR 500-1,000 per person). 60-31 days incurs 50% of cruise fare loss; 30-15 days forfeits 75%; under 15 days or no-show loses 100%. Cancel For Any Reason protection, available as add-on within 14 days of initial deposit, provides 75% future cruise credit for cancellations up to 48 hours before sailing. Standard travel insurance is strongly recommended given Hawaii's remote location and potential weather disruptions. COVID-19 protocols have relaxed but health-related cancellations follow standard terms unless covered by purchased protection. Name changes incur EUR 100 fee per person if completed 60+ days prior."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Costa Cruises vs Viking Cruises 2026",
+  "intro": "Costa Cruises, Italy's largest cruise line, delivers vibrant Mediterranean-style holidays with family-focused entertainment and competitive pricing. Viking Cruises, the Norwegian-founded river and ocean specialist, targets affluent adults with destination-centric voyages, included excursions, and understated elegance. These two European operators serve fundamentally different markets: Costa excels at mass-market resort-style cruising with casinos, waterslides, and multi-generational appeal, while Viking prohibits under-18s and emphasizes cultural immersion. Your choice depends entirely on travel party composition, desired atmosphere, and whether you prioritise inclusive value or base-price accessibility. Both maintain strong European presence but diverge sharply on nearly every operational philosophy.",
+  "at_a_glance": {
+    "costa": {
+      "price_tier": "budget-mid",
+      "avg_7night_inside_eur": 549
+    },
+    "viking": {
+      "price_tier": "premium",
+      "avg_7night_inside_eur": 2899
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Avg 7-night Inside Cabin",
+      "costa": "€549",
+      "viking": "€2,899"
+    },
+    {
+      "category": "Target Demographic",
+      "costa": "Families, couples, multi-gen groups",
+      "viking": "Affluent adults 55+"
+    },
+    {
+      "category": "Minimum Age",
+      "costa": "6 months+",
+      "viking": "18+ (adults only)"
+    },
+    {
+      "category": "Ship Size",
+      "costa": "2,600-5,200 passengers",
+      "viking": "930 passengers (ocean)"
+    },
+    {
+      "category": "Dining Included",
+      "costa": "Main dining, buffet; specialty extra",
+      "viking": "All restaurants, room service, wine/beer with meals"
+    },
+    {
+      "category": "Excursions",
+      "costa": "Pay-per-tour",
+      "viking": "One included per port"
+    },
+    {
+      "category": "Gratuities",
+      "costa": "€12/day added",
+      "viking": "Included"
+    },
+    {
+      "category": "Evening Entertainment",
+      "costa": "Theatre shows, disco, casino",
+      "viking": "Enrichment lectures, classical music, no casino"
+    },
+    {
+      "category": "Dress Code",
+      "costa": "Resort casual, themed nights",
+      "viking": "Elegant casual, no formal nights"
+    },
+    {
+      "category": "WiFi",
+      "costa": "€15-25/day packages",
+      "viking": "Included"
+    }
+  ],
+  "choose_a_if": [
+    "You're cruising with children or teenagers and need dedicated kids' clubs, waterslides, and family-friendly entertainment",
+    "You prefer a lively, social atmosphere with late-night dancing, casinos, and multiple bars at low base fares",
+    "You want Mediterranean and Caribbean itineraries with frequent port stops and resort-style sea days",
+    "You're comfortable managing onboard spending with à-la-carte pricing for drinks, excursions, and specialty dining"
+  ],
+  "choose_b_if": [
+    "You're seeking a child-free environment with sophisticated, culturally focused fellow travellers",
+    "You value inclusive pricing where excursions, gratuities, wine with meals, and WiFi are bundled",
+    "You prefer smaller ships with thoughtful Scandinavian design and destination-intensive itineraries",
+    "You want enrichment programming including lectures on history, art, and local culture rather than production shows"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with young children",
+      "winner": "Costa Cruises",
+      "reason": "Squok Club provides complimentary childcare from ages 3-17, with waterslides, rope courses, and family cabins designed for four-plus occupants."
+    },
+    {
+      "type": "Active retirees",
+      "winner": "Viking Cruises",
+      "reason": "Included walking tours, cultural enrichment, and adult-focused dining eliminate hassles while delivering intellectual stimulation in elegant surroundings."
+    },
+    {
+      "type": "Budget-conscious couples",
+      "winner": "Costa Cruises",
+      "reason": "Base fares under €600 for seven nights allow Mediterranean exploration at fraction of Viking's premium pricing, despite add-on costs."
+    },
+    {
+      "type": "Cultural enthusiasts",
+      "winner": "Viking Cruises",
+      "reason": "Destination-focused itineraries with included excursions and onboard lectures prioritise depth over entertainment, ideal for lifelong learners."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Costa Cruises",
+      "reason": "Lower financial commitment and forgiving resort atmosphere reduce risk for uncertain newcomers testing cruise compatibility."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends on spending discipline. Costa's €549 base fare requires budgeting €300-500 extra for drinks, gratuities, and excursions, potentially reaching €1,100 total. Viking's €2,899 includes virtually everything: all dining, wine and beer with meals, one excursion per port, gratuities, and WiFi. For travellers who would purchase these anyway, Viking often proves better value despite sticker shock. Costa suits those content with main dining room meals, minimal drinking, and independent port exploration. Calculate your likely onboard spending honestly—Viking's transparency eliminates bill shock, while Costa rewards self-control with genuine savings."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Costa Cruises exclusively. Viking prohibits all passengers under 18, making the decision automatic for family travellers. Costa's Squok Club divides children into age groups (Mini 3-6, Maxi 7-11, Teen 12-17) with supervised activities until midnight, freeing parents for evening dining. Family cabins accommodate up to five, and ships feature waterslides, rope courses, and dedicated family pools. Dining includes early children's sittings and familiar Italian-influenced cuisine. Viking's adults-only policy exists precisely to provide serenity unavailable on family ships—wonderful for grandparents travelling alone, impossible for parents with children."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Costa's 2026 Mediterranean seven-night inside cabins average €549, with balcony upgrades at €799-999. Comparable Viking ocean itineraries start at €2,899 for veranda cabins—inside rooms don't exist on Viking's all-veranda fleet. River cruises run €2,400-3,600. The fivefold price gap reflects fundamental differences: Costa operates 5,200-passenger resort ships with casino revenue subsidising fares; Viking's 930-passenger vessels offer inclusive pricing with no nickel-and-diming. Shore excursion packages add €200-400 on Costa versus included on Viking. Drink packages run €35/day on Costa versus included wine/beer on Viking. True cost convergence occurs only for disciplined Costa passengers who avoid extras."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Quality differs by category, not objectively. Costa's main dining rooms serve decent Italian-influenced cuisine—pastas, risottos, Mediterranean fish—at volume feeding thousands. Specialty restaurants (€25-35 cover) elevate quality marginally. Buffets prioritise quantity and speed over refinement. Viking's restaurants, including no-cover Manfredi's Italian and Chef's Table tasting menus, compete with premium land dining: Norwegian salmon, regional port-specific menus, and cooking classes. Wine pairings come standard. However, families may prefer Costa's flexibility—pizza until 2am, ice cream stations, and familiar comfort foods. Viking's sophisticated cuisine assumes adventurous palates; Costa accommodates simpler tastes without surcharge. For culinary excellence, Viking wins; for accessibility, Costa suffices."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Costa suits uncertain first-timers better due to lower commitment. A €549 seven-night trial carries less financial risk than €2,899 if cruising proves incompatible with your preferences. Costa's resort atmosphere—familiar from land-based holidays—eases transition with obvious entertainment, flexible dining, and casual dress codes. Mistakes cost less: skipping an expensive excursion or dining in the complimentary restaurant won't derail budgets. Viking demands confidence in cruising's appeal; its inclusive pricing rewards those certain they'll utilise all inclusions. First-timers seeking guaranteed quality regardless of cost, or those intimidated by large ships and managing onboard spending, may prefer Viking's simplicity despite higher entry price."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental divergence in philosophy: Costa operates mass-market resort ships maximising passenger volume and onboard spending; Viking runs boutique vessels optimised for cultural immersion with upfront pricing. Costa carries 5,200 guests with casinos, waterslides, and production shows; Viking carries 930 with lectures, libraries, and no casino. Costa serves families, teenagers, and multi-generational groups; Viking exclusively hosts adults. Costa's Italian heritage manifests in late dining, animated crew, and Mediterranean social energy; Viking's Scandinavian roots show in understated design, punctuality, and restrained service. Shore time differs: Costa offers resort beaches and shopping; Viking emphasises UNESCO sites and local guides. Neither superior—entirely different products for different travellers."
+    }
+  ]
+}

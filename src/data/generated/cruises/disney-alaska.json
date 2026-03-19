@@ -1,0 +1,196 @@
+{
+  "title": "Disney Cruise Line Alaska Cruises 2026",
+  "intro": "Disney Cruise Line transforms Alaska's wild frontier into an enchanting family adventure where glacier viewing meets Broadway-caliber entertainment. Sailing from Vancouver, Disney Wonder brings its signature magic to the Inside Passage with character meet-and-greets against snow-capped peaks, youth clubs that immerse children in frontier exploration, and adult-exclusive areas for parents to savor the scenery. Naturalists narrate wildlife sightings from deck, while Disney's rotational dining pairs Pacific Northwest cuisine with themed restaurants. The line's unique Alaska programming includes Junior Ranger activities with National Park Service rangers at Glacier Bay, special Pixar and Marvel days at sea, and exclusive Disney port adventures designed for multi-generational families. With longer port calls than competitors and staterooms engineered for family comfort, Disney delivers Alaska's grandeur without sacrificing the polished service and imaginative touches that define the brand.",
+  "quick_facts": {
+    "price_from_eur": 1249,
+    "duration_range": "7-9 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Disney Wonder",
+      "Disney Magic"
+    ],
+    "departure_ports": [
+      "Vancouver",
+      "San Diego"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 1249,
+      "balcony_eur": 1849,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1649,
+      "balcony_eur": 2399,
+      "suite_eur": 4599
+    },
+    {
+      "season": "Holiday (July 4)",
+      "inside_eur": 1899,
+      "balcony_eur": 2799,
+      "suite_eur": 5299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-Night Alaskan Adventure",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Icy Strait Point",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Ketchikan"
+      ],
+      "price_from_eur": 1249,
+      "highlight": "Glacier Bay National Park with Disney naturalist narration"
+    },
+    {
+      "name": "9-Night Alaskan Adventure with Hubbard Glacier",
+      "duration_nights": 9,
+      "ports": [
+        "Vancouver",
+        "Icy Strait Point",
+        "Juneau",
+        "Skagway",
+        "Hubbard Glacier",
+        "Sitka",
+        "Ketchikan"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Hubbard Glacier calving and extended port exploration"
+    },
+    {
+      "name": "8-Night Pacific Coast & Alaska",
+      "duration_nights": 8,
+      "ports": [
+        "San Diego",
+        "San Francisco",
+        "Victoria",
+        "Vancouver",
+        "Icy Strait Point",
+        "Juneau"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Coastal California combined with Alaska wilderness"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Wonder",
+      "capacity": 2713,
+      "year": 1999,
+      "best_for": "Families with young children",
+      "price_from_eur": 1249
+    },
+    {
+      "name": "Disney Magic",
+      "capacity": 2713,
+      "year": 1998,
+      "best_for": "Multi-generational families",
+      "price_from_eur": 1299
+    }
+  ],
+  "whats_included": [
+    "Rotational dining in 3 themed restaurants",
+    "Broadway-style Disney shows",
+    "Youth clubs (3-17 years)",
+    "Character meet-and-greets",
+    "24-hour room service",
+    "Soda and soft drinks at meals",
+    "Fitness center access",
+    "Deck parties and fireworks at sea"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty coffee",
+    "Port adventures and excursions",
+    "Palo and Remy adult dining",
+    "Spa treatments and salon services",
+    "Nursery care for under-3s",
+    "Wi-Fi packages",
+    "Photography packages",
+    "Gratuities (€14.50/person/night suggested)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best stateroom selection and lower fares; Alaska sailings typically open 18 months prior and popular categories sell out quickly, especially concierge suites and connecting rooms for larger families.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Mendenhall Glacier & Whale Watching Combo (€189)",
+      "tip": "Book Disney's exclusive Mendenhall Glacier by Helicopter & Guided Walk for guaranteed glacier access"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-8:30pm",
+      "top_activity": "White Pass Scenic Railway (€145)",
+      "tip": "Disney's Liarsville Gold Rush Trail Camp includes exclusive character experience unavailable elsewhere"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Misty Fjords Flightseeing (€289)",
+      "tip": "Walk Creek Street independently for free salmon viewing and cheaper souvenir shopping"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "1pm-10pm",
+      "top_activity": "World's Longest Ziprider (€159)",
+      "tip": "Late departure allows wildlife spotting during dinner; book restaurant early for window seating"
+    },
+    {
+      "port": "Glacier Bay",
+      "time_in_port": "Cruising 6am-3pm",
+      "top_activity": "Park Ranger narration & Margerie Glacier viewing",
+      "tip": "Reserve Palo brunch for glacier day—adults dine while kids attend supervised Junior Ranger program"
+    },
+    {
+      "port": "Sitka",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Sea Otter & Wildlife Quest (€169)",
+      "tip": "Short port call favors ship excursions; independent travelers risk missing all-aboard time"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Alaska cruise cost?",
+      "answer": "Disney Alaska cruises start from €1,249 per person for inside staterooms during shoulder season (May and September), rising to €1,649-€1,899 for peak summer dates. Oceanview accommodations typically add €300-€400, while verandah staterooms—highly recommended for Alaska's scenery—range from €1,849 to €2,799. Concierge-level suites with priority excursion booking and exclusive lounge access start at €3,499 and exceed €5,299 for holiday sailings. Families should budget €800-€1,200 additional for port adventures, €300-€500 for gratuities, and €400-€600 for onboard extras including specialty dining and photos. Compared to mainstream lines, Disney commands a 40-60% premium but includes soft drinks, superior youth programming, and rotational dining without surcharges."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Alaska?",
+      "answer": "Disney Wonder serves as the primary Alaska vessel, offering dedicated 7-night Inside Passage itineraries from Vancouver throughout the summer season. The 2,713-guest ship underwent extensive dry dock enhancements in 2019, adding Marvel Super Hero Academy and Tiana's Place restaurant. Disney Magic occasionally substitutes or extends the season with 8-9 night itineraries including San Diego departures and Hubbard Glacier calls. Both ships feature Disney's signature split bathroom design ideal for families, extensive youth clubs segmented by age, and adult-exclusive areas including Quiet Cove pool and Palo/Remy restaurants. Neither of the larger Dream-class ships (Disney Dream, Disney Fantasy, Disney Wish, Disney Treasure) currently deploy to Alaska due to size constraints and Pacific fleet positioning."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "June and July offer optimal Alaska cruising conditions with longest daylight hours (up to 18 hours), peak wildlife activity including bear salmon feeding, and highest probability of clear glacier viewing. May provides 20-30% lower pricing with fewer crowds, though some hiking trails remain snow-covered and wildlife is less concentrated. August delivers excellent whale watching with humpback bubble-net feeding displays, though rainfall increases and salmon runs begin declining. September offers dramatic autumn foliage and northern lights possibilities on late sailings, but glacier calving diminishes and some excursions conclude for the season. Disney schedules Glacier Bay visits across all months; for families prioritizing outdoor activities and guaranteed excursion availability, mid-June through mid-July represents the sweet spot despite premium pricing."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney Alaska cruises include substantial value through rotational dining across three themed restaurants (Animator's Palate, Triton's, Tiana's Place on Wonder), unlimited soft drinks at meals and beverage stations, 24-hour room service, and Broadway-caliber Disney musicals in the Walt Disney Theatre. Youth programming spans Oceaneer Club and Lab (ages 3-12), Edge (tweens 11-14), and Vibe (teens 14-17), all complimentary until midnight. Character meet-and-greets, deck parties with fireworks (weather permitting), and fitness center access carry no surcharge. Unique to Alaska, Disney includes naturalist narration, National Park Service ranger programs at Glacier Bay, and youth-specific Junior Ranger badge earning activities. Notably excluded are alcoholic beverages, specialty adult dining at Palo/Remy (€45-€125), port excursions, Wi-Fi (€19-€89 daily), and photography packages."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Alaska cruises operate from Vancouver's Canada Place terminal, offering same-day international flight connections and pre-cruise Rocky Mountaineer rail extensions. Core 7-night itineraries visit Icy Strait Point (Hoonah), Juneau, Skagway, and Ketchikan, with Glacier Bay scenic cruising as the centerpiece. Extended 8-9 night sailings add Sitka and substitute Hubbard Glacier for Glacier Bay. Vancouver departure enables immediate Inside Passage entry without open-ocean sailing. Port calls emphasize extended durations—Juneau and Skagway typically 13+ hours—maximizing excursion opportunities. Disney offers exclusive port adventures unavailable to independent bookers, including Liarsville Gold Rush Camp with character appearances and Mendenhall Glacier helicopter landings with guaranteed access. San Diego departures on select Magic sailings incorporate California coast cruising with limited Alaska penetration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Booking 9-12 months ahead secures optimal stateroom selection and lowest fares for Disney Alaska cruises, with inventory typically releasing 18 months prior to sailing. Concierge suites and connecting rooms for families of 5+ sell out within days of opening. Shoulder season (May/September) offers greatest availability closer to sailing, sometimes with 15-20% discounts 60-90 days out, though desirable categories remain scarce. Disney's flexible booking policy allows reservation holds without deposit for 24 hours, with final payment due 90 days before sailing for standard staterooms, 150 days for concierge. Wave season (January-March) occasionally features onboard credit promotions. Alaska's short season (late May through early September) and Disney's limited ship deployment create permanent scarcity—procrastination risks exclusion or accepting undesirable locations like forward-facing obstructed-view staterooms."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Alaska cruises excel for families through unmatched youth programming that transforms sea days into adventure rather than endurance. Oceaneer Club's Alaska-specific activities include simulated dog sledding, totem pole crafting, and wildlife identification games supervised by trained counselors. Parents enjoy guilt-free glacier viewing knowing children engage in structured, educational programming. Staterooms accommodate families of 5 in standard rooms—rare industry-wide—with split bathrooms eliminating morning congestion. Rotational dining eliminates children's menu fatigue through three distinct venues with consistent serving teams who learn preferences. Multi-generational groups appreciate segregated spaces: adults retreat to Quiet Cove pool and Cove Café while grandparents join character breakfasts. The premium cost proves economical for families when comparing included youth care (€50-€80 hourly value on land) against mainstream lines charging for late-night kids programs. Solo parents particularly benefit from Disney's welcoming single-parent family gatherings."
+    },
+    {
+      "question": "What is Disney Cruise Line's cancellation policy?",
+      "answer": "Disney Cruise Line's cancellation policy imposes escalating penalties based on sailing date and stateroom category. For standard reservations, cancellation 90+ days before sailing incurs no penalty with full refund; 89-45 days forfeits deposit (typically €250 per person); 44-30 days costs 50% of total fare; 29-15 days costs 75%; and 14 days or less forfeits 100%. Concierge bookings face stricter terms: 150+ days for full refund, 149-120 days loses deposit, 119-90 days costs 50%, 89-60 days costs 75%, and 59 days or less loses full payment. Date changes within penalty windows incur €50-€100 processing fees per person. Travel insurance through Disney (€89-€189 depending on cruise cost) covers cancellation for covered reasons including illness and job loss, with Cancel For Any Reason upgrades available booking within 14 days of initial deposit. COVID-19 policies have transitioned to standard terms; testing positive before sailing requires documentation for future cruise credit rather than refund."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "title": "Celebrity Cruises Baltic & Scandinavia Cruises 2026",
+  "intro": "Celebrity Cruises elevates Baltic and Scandinavia exploration through its premium modern luxury philosophy, combining sophisticated design with immersive destination experiences. The line's Baltic itineraries trace centuries of maritime history, from medieval Tallinn to imperial St. Petersburg, while Scandinavian routes reveal Norway's fjord grandeur and the cosmopolitan Nordic capitals. Celebrity's ships feature the innovative Magic Carpet platform and Eden lounge, creating seamless connections between vessel and landscape. The line's signature Lawn Club provides open-air relaxation during long summer evenings, while the Canyon Ranch Spa offers Nordic-inspired treatments. Culinary excellence shines through partnerships with local Scandinavian chefs and regionally sourced ingredients. With overnight stays in Stockholm and Copenhagen, plus extended port calls in St. Petersburg, Celebrity crafts itineraries that balance iconic landmarks with authentic cultural encounters. The Retreat suite experience includes dedicated concierge and exclusive lounge access, enhancing the journey through this historically rich region.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Celebrity Apex",
+      "Celebrity Silhouette",
+      "Celebrity Reflection"
+    ],
+    "departure_ports": [
+      "Amsterdam",
+      "Copenhagen",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Holiday/Northern Lights",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Scandinavia & Russia",
+      "duration_nights": 12,
+      "ports": [
+        "Amsterdam",
+        "Berlin (Warnemünde)",
+        "Tallinn",
+        "St. Petersburg",
+        "Helsinki",
+        "Stockholm",
+        "Copenhagen"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Three-day St. Petersburg stay with included visa-free shore excursions"
+    },
+    {
+      "name": "14-night Ultimate Scandinavia",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Bruges",
+        "Amsterdam",
+        "Oslo",
+        "Copenhagen",
+        "Stockholm",
+        "Tallinn",
+        "St. Petersburg",
+        "Helsinki"
+      ],
+      "price_from_eur": 1799,
+      "highlight": "Comprehensive Nordic capitals with overnight in Stockholm"
+    },
+    {
+      "name": "10-night Norwegian Fjords & Baltic",
+      "duration_nights": 10,
+      "ports": [
+        "Copenhagen",
+        "Alesund",
+        "Flam",
+        "Stavanger",
+        "Berlin (Warnemünde)",
+        "Tallinn",
+        "Helsinki"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Rare combination of fjord scenery and Baltic heritage cities"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Apex",
+      "capacity": 2900,
+      "year": 2020,
+      "best_for": "Couples and culinary enthusiasts",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Celebrity Silhouette",
+      "capacity": 2886,
+      "year": 2011,
+      "best_for": "Multi-generational travelers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Celebrity Reflection",
+      "capacity": 3046,
+      "year": 2012,
+      "best_for": "Luxury seekers and spa enthusiasts",
+      "price_from_eur": 1099
+    }
+  ],
+  "whats_included": [
+    "Accommodation in stateroom of choice",
+    "All main dining room meals",
+    "Buffet breakfast, lunch and dinner",
+    "Select beverages including coffee, tea, iced tea, lemonade",
+    "Evening entertainment and Broadway-style shows",
+    "Fitness center access",
+    "Kids' club programming",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Specialty dining restaurants (€45-€75 per person)",
+    "Classic and premium beverage packages (€65-€85 daily)",
+    "Shore excursions (€89-€349 per tour)",
+    "Wi-Fi packages (€20-€35 daily)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Airport transfers",
+    "Gratuities (€16 daily per person recommended)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal cabin selection and early booking savings of 10-15%. Balcony cabins facing starboard on northbound itineraries and port on southbound routes offer superior fjord views. Consider booking during Celebrity's 'Sail Beyond' promotion for included perks. Solo travelers should book early as single supplements apply. St. Petersburg itineraries require advance planning for visa-free documentation.",
+  "top_ports": [
+    {
+      "port": "St. Petersburg, Russia",
+      "time_in_port": "2-3 days overnight",
+      "top_activity": "Hermitage Museum private after-hours tour (€189)",
+      "tip": "Book shore excursions through Celebrity for visa-free entry; independent exploration requires Russian visa"
+    },
+    {
+      "port": "Stockholm, Sweden",
+      "time_in_port": "8am-6pm (overnight on select sailings)",
+      "top_activity": "Vasa Museum and Gamla Stan walking tour (€129)",
+      "tip": "Take the ferry to Djurgården rather than taxi for scenic approach"
+    },
+    {
+      "port": "Tallinn, Estonia",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Medieval Old Town food tour with local guide (€89)",
+      "tip": "Walkable from port; no shuttle needed. Climb Toompea Hill early for crowd-free photos"
+    },
+    {
+      "port": "Flam, Norway",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Flam Railway to Myrdal with bike return (€149)",
+      "tip": "Book railway tickets independently online to save 30% versus ship excursion"
+    },
+    {
+      "port": "Copenhagen, Denmark",
+      "time_in_port": "7am-5pm (overnight on select sailings)",
+      "top_activity": "Tivoli Gardens evening pass with dinner (€95)",
+      "tip": "Use Copenhagen Card for free transport and attractions if staying overnight"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Baltic & Scandinavia cruise cost?",
+      "answer": "Celebrity Cruises Baltic and Scandinavia voyages range from €899 for shoulder season interior cabins to €3,499 for peak season suites. A typical 12-night itinerary in a balcony cabin averages €1,499-€1,899. Prices include accommodation, main dining, and entertainment. Additional costs include gratuities (€16 daily), beverage packages (€65-€85 daily), and specialty dining (€45-€75 per meal). Shore excursions vary from €89 for walking tours to €349 for comprehensive St. Petersburg packages. Solo travelers face 150-200% single supplements. Best value emerges from nine-month advance bookings and shoulder season sailings in May or September, when daylight extends 16-18 hours and crowds diminish."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Baltic & Scandinavia?",
+      "answer": "Celebrity deploys its Solstice-class and Edge-class vessels for Baltic and Scandinavia itineraries. Celebrity Apex, the newest Edge-class ship (2020), offers revolutionary design with the Magic Carpet and Infinite Veranda staterooms. Celebrity Silhouette and Celebrity Reflection provide Solstice-class reliability with the signature Lawn Club real grass deck. These ships range from 2,886 to 3,046 passengers, maintaining intimate port access while delivering comprehensive amenities. Apex features 29 unique culinary venues including the Eden restaurant with floor-to-ceiling windows. All vessels offer The Retreat suite complex with dedicated lounge and restaurant. Ship selection impacts pricing, with Apex commanding 15-20% premiums for innovative design and newer facilities."
+    },
+    {
+      "question": "When is best time to cruise Baltic & Scandinavia?",
+      "answer": "The optimal Baltic and Scandinavia cruise season runs May through September, with distinct advantages each month. June delivers the Midnight Sun above the Arctic Circle and white nights in St. Petersburg, though peak crowds and pricing apply. July and August offer warmest temperatures (18-22°C) and all attractions operating at full capacity. May and September provide 10-15% lower fares, fewer tourists, and still-adequate daylight (16 hours versus 20 in midsummer). September brings autumn foliage to Norwegian fjords. Northern Lights cruises operate October-March on limited itineraries. Weather remains unpredictable year-round; pack layers and waterproof outerwear regardless of month. St. Petersburg's Hermitage and palaces remain magnificent in any season."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity Cruises includes accommodation, all main dining room meals, buffet dining, select beverages (coffee, tea, lemonade), evening entertainment, fitness center, and kids' programming. The line's modern luxury approach elevates standard inclusions with premium touches: eXhale bedding, Bulgari bath amenities, and designer toiletries. AquaClass cabins include complimentary access to the Canyon Ranch SpaClub dining and Persian Garden thermal suite. Suite guests in The Retreat receive premium drinks, specialty dining, Wi-Fi, and gratuities. Not included are alcoholic beverages, specialty restaurants, shore excursions, Wi-Fi, spa services, and gratuities. The Always Included package now bundles drinks, Wi-Fi, and gratuities for new bookings, representing significant value for most travelers."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Baltic and Scandinavia itineraries feature UNESCO-rich destinations across nine countries. Core ports include St. Petersburg (Russia) with overnight stays enabling comprehensive imperial palace exploration; Stockholm (Sweden) spread across fourteen islands with Gamla Stan medieval core; Copenhagen (Denmark) design capital with Nyhavn waterfront; and Tallinn (Estonia) best-preserved medieval city in Europe. Norwegian fjord routes incorporate Flam for railway excursions, Geiranger for UNESCO-protected fjord scenery, and Stavanger for Lysefjord and Pulpit Rock access. Additional calls may include Helsinki (Finland), Berlin via Warnemünde (Germany), Bruges (Belgium), and Oslo (Norway). St. Petersburg requires visa-free documentation through ship-sponsored excursions or advance Russian visas for independent exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Celebrity Baltic and Scandinavia cruises 9-12 months ahead for optimal stateroom selection, particularly for AquaClass spa cabins and The Retreat suites which sell rapidly. Early booking typically yields 10-15% savings through advance purchase rates. Balcony cabins on the correct side for scenic cruising (starboard northbound, port southbound) require early reservation. Solo travelers face limited inventory and should book immediately when released. Final payment falls 90 days before sailing, with penalty-free cancellation windows closing progressively. Last-minute deals emerge 60-90 days out but sacrifice cabin location and dining preferences. Group bookings (eight cabins minimum) require 12-18 month lead times. Wave season (January-March) features enhanced booking incentives including onboard credit and cabin upgrades."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity Cruises accommodates families thoughtfully, though the Baltic and Scandinavia region particularly suits children aged 10+ with historical and cultural interests. The Camp at Sea program engages ages 3-17 with STEM activities, art, and regional cultural programming. Teen spaces include the X Club with gaming and social events. Family-friendly shore excursions feature Viking ship museums, Tivoli Gardens, and interactive science centers. Intergenerational travel thrives here, with grandparents and parents sharing educational experiences. However, the demographic skews adult (average age 50+), and nightlife remains subdued. Family veranda staterooms and connecting cabins require early booking. Children pricing typically applies to ages 2-17, with infants under six months ineligible. The sophisticated dining and entertainment may challenge younger children's engagement compared to dedicated family cruise lines."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity Cruises employs a tiered cancellation structure for Baltic and Scandinavia voyages. Cancellations 90+ days before sailing incur no penalty for most fares. 89-60 days prior: deposit forfeiture (typically €250-€500 per person). 59-30 days: 50% of total fare retained. 29-15 days: 75% forfeiture. 14 days or less: full fare retained. Travel insurance, recommended for Baltic itineraries given regional weather variability and potential itinerary modifications, covers cancellation for covered reasons. Cancel For Any Reason upgrades provide 75% future cruise credit. COVID-19 policies evolved to standard terms; verify current health protocols before booking. Name changes incur fees after final payment. Group bookings maintain separate cancellation schedules with stricter terms. Consider Cruise with Confidence flexible booking options for maximum protection."
+    }
+  ]
+}

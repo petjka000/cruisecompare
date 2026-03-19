@@ -1,0 +1,212 @@
+{
+  "title": "Cunard Line British Isles Cruises 2026",
+  "intro": "Cunard Line brings 180 years of maritime heritage to British Isles cruising, offering an elegant alternative to contemporary mass-market options. Their iconic ocean liners—Queen Mary 2, Queen Victoria, and Queen Elizabeth—deliver refined British sophistication through afternoon tea service, white-gloved gala evenings, and distinguished enrichment programs. British Isles itineraries uniquely combine Cunard's own cultural DNA with destinations that shaped their history: Liverpool's Pier Head, where their headquarters stood for over a century; Southampton, their spiritual home; and Glasgow, birthplace of founder Samuel Cunard. These voyages attract discerning travelers seeking traditional cruising values—formal nights, ballroom dancing, extensive libraries, and thoughtful lectures—rather than water slides and Broadway spectacles. The ships' smaller scale versus mega-ships enables intimate port calls at tender-dependent destinations like St. Peter Port and Holyhead, while sea days crossing the Irish Sea recall Cunard's transatlantic legacy.",
+  "quick_facts": {
+    "price_from_eur": 1249,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "ships_on_route": [
+      "Queen Mary 2",
+      "Queen Victoria",
+      "Queen Elizabeth"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Hamburg"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct)",
+      "inside_eur": 1249,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1599,
+      "balcony_eur": 2399,
+      "suite_eur": 4599
+    },
+    {
+      "season": "Festive (Dec)",
+      "inside_eur": 1399,
+      "balcony_eur": 2099,
+      "suite_eur": 3899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night British Isles Discovery",
+      "duration_nights": 7,
+      "ports": [
+        "Southampton",
+        "St. Peter Port",
+        "Cobh",
+        "Liverpool",
+        "Greenock",
+        "Belfast",
+        "Southampton"
+      ],
+      "price_from_eur": 1249,
+      "highlight": "Cunard's signature round-trip from Southampton with full Irish Sea circuit"
+    },
+    {
+      "name": "12-night British Isles & Iceland",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Liverpool",
+        "Greenock",
+        "Reykjavik",
+        "Isafjordur",
+        "Akureyri",
+        "Kirkwall",
+        "Invergordon",
+        "Southampton"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Combines British heritage ports with Iceland's dramatic landscapes"
+    },
+    {
+      "name": "14-night British Isles Grand Tour",
+      "duration_nights": 14,
+      "ports": [
+        "Hamburg",
+        "Southampton",
+        "St. Peter Port",
+        "Cobh",
+        "Bantry Bay",
+        "Galway",
+        "Liverpool",
+        "Douglas",
+        "Belfast",
+        "Greenock",
+        "Invergordon",
+        "Southampton"
+      ],
+      "price_from_eur": 2599,
+      "highlight": "Comprehensive circumnavigation including rare Irish west coast calls"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Mary 2",
+      "capacity": 2696,
+      "year": 2003,
+      "best_for": "Transatlantic purists, enrichment seekers",
+      "price_from_eur": 1399
+    },
+    {
+      "name": "Queen Victoria",
+      "capacity": 2078,
+      "year": 2007,
+      "best_for": "Intimate luxury, British heritage focus",
+      "price_from_eur": 1249
+    },
+    {
+      "name": "Queen Elizabeth",
+      "capacity": 2081,
+      "year": 2010,
+      "best_for": "Art Deco elegance, culinary enthusiasts",
+      "price_from_eur": 1249
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All meals in Britannia Restaurant or assigned dining venue",
+    "Afternoon tea service daily",
+    "Evening entertainment and live music",
+    "Guest lectures and enrichment programs",
+    "Access to fitness center, pools, and sports courts",
+    "Library and book collection",
+    "White Star Bellhops luggage service",
+    "Basic WiFi (Browse package)",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Gratuities (EUR 16 per person per night recommended)",
+    "Beverages beyond water, coffee, tea at meals",
+    "Specialty dining restaurants (Verandah Steakhouse, Lido Alternatives)",
+    "Shore excursions",
+    "Spa treatments and salon services",
+    "Premium WiFi packages",
+    "Laundry and dry cleaning",
+    "Photography services",
+    "Casino gaming",
+    "Kennel service for Queen Mary 2 transatlantic"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for best cabin selection and early booking discounts; Cunard releases itineraries 18 months in advance. July-August sailings and Queen Mary 2 voyages sell out earliest. Consider 'Sailaway' fares for 20-30% savings if cabin assignment flexibility acceptable. Past passengers should leverage Cunard World Club benefits including priority booking windows. Wave season (January-March) brings promotional onboard credit offers. Solo travelers: watch for reduced single supplement periods, typically 150% rather than 200%.",
+  "top_ports": [
+    {
+      "port": "Liverpool",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Cunard Building & Maritime Museum tour (EUR 89)",
+      "tip": "Walk the Pier Head—Cunard's former headquarters offers unmatched photo backdrop with ship"
+    },
+    {
+      "port": "Greenock (Glasgow)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Loch Lomond & Trossachs National Park (EUR 129)",
+      "tip": "Cunard founder Samuel Cunard born here; visit Greenock's McLean Museum for company artifacts"
+    },
+    {
+      "port": "Cobh (Cork)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Titanic Experience & Cork city tour (EUR 79)",
+      "tip": "Last port of call for Titanic; Queenstown Story exhibition contextualizes emigration history"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Titanic Belfast museum (EUR 65)",
+      "tip": "Cunard's rival White Star built Titanic here; fascinating contrast to Cunard's safety record"
+    },
+    {
+      "port": "St. Peter Port (Guernsey)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Victor Hugo House & coastal walk (EUR 55)",
+      "tip": "Tender port—book early excursions to guarantee mainland departure; charming Channel Island culture"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line British Isles cruise cost?",
+      "answer": "Cunard British Isles cruises range from EUR 1,249 for inside cabins on 7-night shoulder-season sailings to EUR 4,599+ for Queens Grill suites in peak summer. Typical 7-night balcony cabins run EUR 1,899-2,399 depending on season. Longer 12-14 night itineraries start around EUR 2,199 inside, EUR 3,299 balcony. Solo travelers face 150-200% single supplements unless promotional periods apply. Gratuities add EUR 16 per person nightly. Beverage packages, specialty dining, and excursions represent significant additional costs—budget EUR 150-300 daily for comprehensive experience."
+    },
+    {
+      "question": "Which Cunard Line ships sail to British Isles?",
+      "answer": "All three Cunard queens operate British Isles itineraries. Queen Victoria and Queen Elizabeth are primary vessels for dedicated 7-14 night British Isles programs, offering intimate scale perfect for navigating Irish Sea ports. Queen Mary 2 occasionally incorporates British Isles segments into repositioning voyages between transatlantic crossings, typically 7-night Southampton round-trips. Queen Elizabeth emphasizes culinary programming with Cookery School at Sea. Queen Victoria offers the most extensive British Isles calendar. Ship selection impacts experience: Queen Mary 2 carries kennels for transatlantic passengers extending with British Isles; Queen Victoria and Elizabeth provide more intimate, destination-focused atmosphere."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "May through September offers optimal conditions, with June and July providing longest daylight hours—critical for northern ports like Invergordon. May and September deliver fewer crowds and 10-15% lower pricing with mild 15-20°C temperatures. June-August peak season brings warmest weather (18-22°C) but highest prices and busiest ports. April and October sailings exist but carry weather risk; Atlantic storms can disrupt tender ports like St. Peter Port. Cunard's Christmas British Isles cruises (December) offer festive atmosphere but limited daylight and cold temperatures. For photography and comfortable exploration, late May through early September remains ideal window."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's fare includes accommodation, all main dining room meals, traditional afternoon tea, evening entertainment, guest lectures, fitness facilities, pools, and basic WiFi. The experience centers on Britannia Restaurant assigned dining with gala nights requiring formal attire. Complimentary enrichment distinguishes Cunard—insightful lectures on British history, maritime heritage, and destination culture. Water, coffee, tea at meals are included; alcoholic beverages, specialty coffees, and minibar items are extra. Unlike premium competitors, Cunard charges for most alternative dining. Gratuities, while technically discretionary, are expected at EUR 16 per person nightly. Shore excursions, spa services, and premium internet require additional payment."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard British Isles itineraries typically include Southampton (embarkation), Liverpool (Cunard's historic home), Greenock for Glasgow, Cobh for Cork, Belfast, and St. Peter Port in the Channel Islands. Extended voyages add Invergordon for Scottish Highlands, Holyhead for Wales, Dublin, and rare Irish west coast calls at Galway or Bantry Bay. Scottish islands feature occasionally: Kirkwall (Orkney), Stornoway (Lewis), or Portree (Skye). Tender ports—St. Peter Port, some Scottish islands—require advance planning. Cunard's Liverpool call is particularly significant given their 180-year headquarters presence; dedicated shore excursions explore this heritage. Greenock connections to Glasgow enable access to Cunard founder Samuel Cunard's birthplace."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard British Isles cruises 9-18 months ahead for optimal cabin selection and early booking discounts. Cunard releases itineraries approximately 18 months in advance. Queen Mary 2 sailings and peak July-August departures warrant earliest booking—12-18 months—due to limited inventory and high demand from Cunard loyalists. Past passengers through Cunard World Club receive priority booking windows 2-4 weeks before public release. Wave season (January-March) brings promotional onboard credit benefits for bookings 6-12 months out. Last-minute 'Sailaway' fares offer 20-30% savings 60-90 days before departure but sacrifice cabin location choice. Solo travelers particularly benefit from early booking to secure reduced single supplement offers."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard British Isles cruises suit families with children aged 8+ who appreciate cultural engagement over high-energy activities. The Kids Zone (ages 2-7) and Zone (ages 8-17) operate sea days and select port days, though programming is more subdued than mainstream lines. Formal nights and refined atmosphere may challenge younger children; gala evenings require cocktail attire. British Isles itineraries particularly suit families with heritage connections—ancestral research opportunities in Liverpool, Glasgow, Cork, and Belfast. Educational enrichment through guest lectures adds value for school-age children. Pool areas lack water slides; entertainment emphasizes classical music, ballroom dancing, and theatrical productions. Families seeking constant activity may prefer alternatives; those valuing shared cultural experiences find Cunard distinctive."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's standard cancellation policy charges deposit forfeiture immediately upon booking. For British Isles cruises under 14 nights: cancellation 90+ days before departure loses deposit; 89-60 days loses 50% of fare; 59-30 days loses 75%; under 30 days loses 100%. Cunard offers 'Cunard Care' travel protection (EUR 89-189 depending on voyage cost) enabling cancellation for covered reasons with full refund including deposit, or 'Cancel for Any Reason' upgrade providing future cruise credit minus deposit. COVID-19 policies have introduced flexible booking options allowing changes up to 48 hours before departure on select fares. Group bookings (8+ cabins) face stricter terms. Rebooking to alternative sailing within cancellation window typically incurs EUR 50 administrative fee per person."
+    }
+  ]
+}

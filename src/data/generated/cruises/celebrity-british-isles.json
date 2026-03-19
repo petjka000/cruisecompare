@@ -1,0 +1,220 @@
+{
+  "title": "Celebrity Cruises British Isles Cruises 2026",
+  "intro": "Celebrity Cruises elevates British Isles exploration through its refined, premium approach that perfectly complements the destination's rich heritage. The modern luxury cruise line combines sophisticated design with immersive cultural programming, offering passengers an elegant base from which to discover ancient castles, literary landmarks, and dramatic coastlines. Celebrity's ships feature world-class dining venues showcasing regional British and Irish cuisines alongside international options, while their enrichment programs include destination lectures, whisky tastings, and Celtic music performances. The line's signature lawn club and spa facilities provide sanctuary after days exploring Edinburgh's Royal Mile, the Cliffs of Moher, or Liverpool's maritime history. With thoughtfully curated shore excursions ranging from Highland distillery tours to exclusive access at historic estates, Celebrity transforms British Isles cruising into an elevated journey where contemporary luxury meets timeless tradition.",
+  "quick_facts": {
+    "price_from_eur": 1499,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Celebrity Apex",
+      "Celebrity Silhouette",
+      "Celebrity Reflection"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Amsterdam",
+      "Dublin"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Sep-Oct)",
+      "inside_eur": 1499,
+      "balcony_eur": 2199,
+      "suite_eur": 3899
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1899,
+      "balcony_eur": 2799,
+      "suite_eur": 4999
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 1699,
+      "balcony_eur": 2499,
+      "suite_eur": 4299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night British Isles & Ireland",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Dublin",
+        "Belfast",
+        "Glasgow",
+        "Invergordon",
+        "Edinburgh",
+        "Liverpool",
+        "Cork",
+        "Southampton"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Comprehensive coverage of Scotland, Ireland and England with overnight in Edinburgh"
+    },
+    {
+      "name": "10-night Ireland & Iceland",
+      "duration_nights": 10,
+      "ports": [
+        "Amsterdam",
+        "Dublin",
+        "Belfast",
+        "Reykjavik",
+        "Akureyri",
+        "Amsterdam"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Combines Emerald Isle charm with Icelandic geothermal wonders"
+    },
+    {
+      "name": "14-night British Isles Grand Tour",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Guernsey",
+        "Cork",
+        "Dublin",
+        "Liverpool",
+        "Belfast",
+        "Glasgow",
+        "Invergordon",
+        "Edinburgh",
+        "Le Havre",
+        "Southampton"
+      ],
+      "price_from_eur": 2299,
+      "highlight": "The ultimate British Isles experience with three Scottish ports and Normandy extension"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Apex",
+      "capacity": 2918,
+      "year": 2020,
+      "best_for": "Modern luxury seekers",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Celebrity Silhouette",
+      "capacity": 2886,
+      "year": 2011,
+      "best_for": "Classic premium experience",
+      "price_from_eur": 1499
+    },
+    {
+      "name": "Celebrity Reflection",
+      "capacity": 3046,
+      "year": 2012,
+      "best_for": "Spa and wellness focus",
+      "price_from_eur": 1699
+    }
+  ],
+  "whats_included": [
+    "All main dining and casual venues",
+    "Premium beverages (Classic Drinks Package)",
+    "Wi-Fi (Basic package)",
+    "Gratuities",
+    "Room service",
+    "Fitness center access",
+    "Evening entertainment and shows",
+    "Destination seminars",
+    "Kids club programming"
+  ],
+  "whats_extra": [
+    "Specialty dining restaurants ($55-75 per person)",
+    "Premium Wi-Fi upgrade",
+    "Shore excursions ($89-299 per person)",
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Laundry and dry cleaning",
+    "Photography services",
+    "Premium beverages beyond Classic package"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal cabin selection and early booking savings of 10-15%. Wave season (January-March) offers the strongest promotions including onboard credit and complimentary upgrades. Consider booking a guarantee cabin for 5-10% savings if specific location matters less than price.",
+  "top_ports": [
+    {
+      "port": "Edinburgh (South Queensferry)",
+      "time_in_port": "7am-6pm (often overnight)",
+      "top_activity": "Edinburgh Castle & Royal Mile walking tour ($159)",
+      "tip": "Ship tenders; book morning tours to avoid afternoon crowds"
+    },
+    {
+      "port": "Dublin",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Guinness Storehouse & Trinity College ($129)",
+      "tip": "Port is walkable to city center; save with independent exploration"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Giant's Causeway & Titanic Belfast ($189)",
+      "tip": "Causeway is 90 minutes away; ship excursions recommended"
+    },
+    {
+      "port": "Cork (Cobh)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Blarney Castle & Cork city ($139)",
+      "tip": "Tender port; last tender usually 4pm, plan accordingly"
+    },
+    {
+      "port": "Glasgow (Greenock)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Loch Lomond & Stirling Castle ($169)",
+      "tip": "Glasgow itself is 45 minutes; consider Edinburgh alternative"
+    },
+    {
+      "port": "Invergordon",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Loch Ness & Urquhart Castle ($159)",
+      "tip": "Long port day maximizes Highland exploration opportunities"
+    },
+    {
+      "port": "Liverpool",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Beatles Story & Albert Dock ($99)",
+      "tip": "Compact, walkable city; easy independent exploration"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises British Isles cruise cost?",
+      "answer": "Celebrity Cruises British Isles voyages typically range from €1,499 to €4,999 per person for standard accommodations, with shoulder season interior cabins starting around €1,499 and peak summer balcony staterooms averaging €2,799. Suite accommodations begin at approximately €3,899 and can exceed €8,000 for top-tier options. These prices include the line's Always Included package covering drinks, Wi-Fi, and gratuities. Additional costs include specialty dining at €55-75 per person, shore excursions ranging €89-299, and spa services. Wave season promotions can reduce these prices by 10-20% or add significant onboard credit value."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to British Isles?",
+      "answer": "Celebrity deploys its Solstice-class and Edge-class vessels for British Isles itineraries, primarily Celebrity Apex, Celebrity Silhouette, and Celebrity Reflection. Celebrity Apex, launched in 2020, represents the line's newest generation with revolutionary outward-facing design and the Magic Carpet platform. Celebrity Silhouette and Reflection offer the refined Solstice-class experience with the signature lawn club and extensive specialty dining. Ship assignment varies by departure port and season, with Southampton-based itineraries typically utilizing Silhouette or Reflection, while Amsterdam departures often feature Apex. All vessels accommodate approximately 2,900-3,050 passengers and offer the consistent modern luxury experience Celebrity is known for."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "The optimal British Isles cruising window extends from late May through early September, with June and July offering the most favorable conditions. May and September provide excellent value with milder temperatures (12-16°C), fewer tourists at major attractions, and lower pricing, though occasional rain remains likely. Peak summer months deliver the warmest weather (15-20°C) and longest daylight hours—extending past 10pm in Scotland—ideal for maximizing port time. August coincides with Edinburgh Festival Fringe, creating exceptional cultural opportunities but requiring advance planning. April and October sailings carry greater weather risk but offer the lowest fares. Winter British Isles cruises are extremely limited due to rough seas and reduced port accessibility."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's British Isles cruises feature the comprehensive Always Included package covering unlimited classic beverages (spirits, wines, beers, cocktails, specialty coffees), basic Wi-Fi for one device per stateroom, and prepaid gratuities for housekeeping and dining staff. All meals in main dining room, Oceanview Café buffet, and select casual venues are included, as is 24-hour room service. Entertainment encompasses production shows, live music, comedy, and enrichment lectures. Fitness center access, sports court usage, and kids club programming complete the inclusive offerings. Notable exclusions requiring additional payment include specialty restaurants, premium Wi-Fi upgrades, shore excursions, spa treatments, casino play, and premium beverage selections beyond the classic tier."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's British Isles itineraries comprehensively cover the region's signature destinations across England, Scotland, Ireland, Northern Ireland, and occasionally Wales. Key Scottish ports include Edinburgh (South Queensferry), Glasgow (Greenock), and Invergordon for Highland access. Irish stops feature Dublin, Cork (Cobh), and Belfast with its Titanic heritage. English departures center on Southampton with occasional Liverpool calls. Secondary ports may include Guernsey in the Channel Islands, Holyhead in Wales, and Le Havre for Paris access on extended itineraries. Some sailings incorporate Iceland's Reykjavik and Akureyri. Port times generally range 8-10 hours with select overnight stays in Edinburgh, enabling evening cultural experiences and flexible scheduling for comprehensive exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Optimal booking timing for Celebrity British Isles cruises falls 9-12 months in advance, securing preferred stateroom categories, dining times, and early booking discounts of 10-15%. This advance window is particularly crucial for summer peak season and unique itineraries like Edinburgh Festival departures. Wave season (January through March) historically delivers the strongest promotional offers including onboard credit, complimentary upgrades, and reduced deposits. Last-minute deals within 60 days can yield savings of 20-30% but sacrifice cabin selection and may incur higher airfare costs. Group bookings of eight or more staterooms benefit from additional concessions and should be secured 12-18 months ahead. Flexible travelers considering guarantee cabins can achieve modest additional savings while accepting assigned locations."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity Cruises offers a refined family experience suited to mature children and multigenerational groups rather than young families seeking high-energy programming. The Camp at Sea kids club accommodates ages 3-17 with STEM activities, arts, and regional cultural programming themed to British Isles destinations. Teen spaces include dedicated lounges and social events. Family accommodations include connecting staterooms and some suites accommodating four passengers. The line's sophisticated atmosphere, exceptional dining quality, and enrichment focus appeal to families with children aged 10+ who can appreciate historical and cultural content. Babysitting services are limited compared to mass-market alternatives. Shore excursions offer family-appropriate options including castle explorations and interactive museum visits that engage younger travelers with British and Irish heritage."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity Cruises employs a tiered cancellation structure based on voyage length and timing. For British Isles cruises of 5-14 nights, cancellation 90 days or more before departure incurs no penalty. Cancellations 89-60 days prior forfeit the deposit (typically €250-450 per person). Between 59-30 days, penalty increases to 50% of total fare; 29-15 days triggers 75% forfeiture; and within 14 days, 100% of cruise fare is retained. Travel insurance, strongly recommended for British Isles itineraries given unpredictable weather and health considerations, can protect against these penalties for covered reasons. Cancel for Any Reason policies, available through Celebrity's partners, reimburse 75% in future cruise credit when standard cancellation windows have passed. Booking modifications including date changes may incur administrative fees."
+    }
+  ]
+}

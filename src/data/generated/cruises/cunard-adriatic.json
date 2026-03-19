@@ -1,0 +1,194 @@
+{
+  "title": "Cunard Line Adriatic Cruises 2026",
+  "intro": "Cunard Line brings its legendary White Star Service to the Adriatic Sea, combining transatlantic heritage with Mediterranean exploration. Sailing aboard the refined Queen Victoria or flagship Queen Mary 2, guests experience timeless elegance while discovering Croatia's Dalmatian coast, Slovenia's Piran, and Italy's Venice. Cunard's Adriatic itineraries emphasize extended port stays and overnight calls, allowing deeper immersion in historic cities like Dubrovnik and Split. The line's distinctive ballroom dancing, afternoon tea service, and enrichment lectures complement the region's cultural treasures. With formal evenings and sophisticated dining, these voyages attract discerning travelers seeking classical cruising traditions. Cunard's smaller fleet enables access to intimate ports inaccessible to mega-ships, while the Grills experience offers butler-served suites for ultimate luxury.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Queen Victoria",
+      "Queen Anne"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Rome",
+      "Venice"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1699,
+      "balcony_eur": 2499,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Holiday",
+      "inside_eur": 1899,
+      "balcony_eur": 2799,
+      "suite_eur": 5499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Venice & Dalmatian Coast",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Trieste"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Overnight in Venice with sunset Grand Canal sailing"
+    },
+    {
+      "name": "14-night Mediterranean & Adriatic Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Barcelona",
+        "Rome",
+        "Split",
+        "Dubrovnik",
+        "Venice",
+        "Kotor"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Full trans-Mediterranean journey with three Adriatic overnights"
+    },
+    {
+      "name": "21-night Grand Voyage to Venice",
+      "duration_nights": 21,
+      "ports": [
+        "Southampton",
+        "Cadiz",
+        "Malta",
+        "Sicily",
+        "Dubrovnik",
+        "Split",
+        "Zadar",
+        "Venice",
+        "Koper"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Ultimate Adriatic immersion with exclusive Cunard event in Venice"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Victoria",
+      "capacity": 2078,
+      "year": 2007,
+      "best_for": "Traditionalists & culture seekers",
+      "price_from_eur": 1299
+    },
+    {
+      "name": "Queen Anne",
+      "capacity": 3000,
+      "year": 2024,
+      "best_for": "Modern luxury with Cunard heritage",
+      "price_from_eur": 1399
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "All main dining room meals",
+    "Afternoon tea service",
+    "Nightly entertainment & enrichment lectures",
+    "Gym & fitness classes",
+    "Deck games & traditional pursuits",
+    "Children's programme (2-17 years)",
+    "Port taxes"
+  ],
+  "whats_extra": [
+    "Gratuities (EUR 16 per person/day)",
+    "Speciality dining (EUR 35-75)",
+    "Beverage packages (EUR 65/day)",
+    "Shore excursions (EUR 89-299)",
+    "Spa treatments",
+    "Internet packages",
+    "Laundry services",
+    "Photos & shopping"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; Cunard's Early Saver fares offer lowest prices with non-refundable deposits. Consider Cunard Fare for flexibility with EUR 150-300 premium. Watch for 'Sailaway' rates 60-90 days before departure for 30-40% savings on remaining cabins. Grill Suite bookings include priority tendering in Kotor and Dubrovnik—essential for Adriatic ports with limited pier space.",
+  "top_ports": [
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-6pm (or overnight)",
+      "top_activity": "City Walls walking tour (EUR 45) or Game of Thrones locations (EUR 65)",
+      "tip": "Arrive early for cable car to Mount Srd before cruise crowds; book Cunard's exclusive evening concert in Rector's Palace when available"
+    },
+    {
+      "port": "Split, Croatia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Diocletian's Palace underground tour (EUR 55)",
+      "tip": "Morning light best for photography of Peristyle square; local ferries to Hvar available for independent travelers with sufficient time"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Fortress of St. John hike (EUR 35) or speedboat to Our Lady of the Rocks (EUR 75)",
+      "tip": "Tender port—book Cunard's early tender ticket or secure Grill Suite for priority; afternoon departure offers spectacular sail through Boka Bay"
+    },
+    {
+      "port": "Venice, Italy",
+      "time_in_port": "Overnight (2 days)",
+      "top_activity": "Private after-hours St. Mark's Basilica (EUR 189)",
+      "tip": "Cunard's sailaway from Venice is legendary—secure port-side balcony for Grand Canal views; overnight allows Murano/Burano independent visits"
+    },
+    {
+      "port": "Koper, Slovenia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Postojna Cave & Predjama Castle (EUR 129)",
+      "tip": "Less crowded alternative to Venice embarkation; compact old town walkable from pier—excellent for independent exploration"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Adriatic cruise cost?",
+      "answer": "Cunard Adriatic cruises start from EUR 1,299 per person for a 7-night voyage in an inside cabin during shoulder season. Balcony cabins, essential for Adriatic scenic cruising, range EUR 1,899-2,799 depending on season. The signature Grills experience with butler service begins at EUR 3,499. Fares include accommodation, dining, entertainment, and afternoon tea, though gratuities (EUR 16/day), drinks, and excursions are additional. Cunard's fare structure offers three tiers: Early Saver (lowest price, restricted), Cunard Fare (flexible with benefits), and Advance Purchase. Solo travelers face 150-175% supplements, though occasional no-single-supplement sales appear. Children 2-17 sail at reduced rates when sharing with two adults."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Adriatic?",
+      "answer": "Cunard deploys Queen Victoria and the new Queen Anne on Adriatic routes. Queen Victoria, launched 2007 and refurbished 2021, carries 2,078 passengers with intimate proportions ideal for Dalmatian ports. Her classic Cunard features include the Queens Room ballroom and Royal Court Theatre. Queen Anne, debuting 2024, accommodates 3,000 guests with contemporary design while maintaining Cunard traditions; she offers expanded Britannia Club dining and the Bright Lights Society nightlife venue. Both ships feature the Mareel wellness complex and Princess Grill/Queens Grill suite categories. Queen Mary 2 occasionally includes Adriatic segments on repositioning voyages. Ship selection affects pricing and atmosphere—Queen Victoria offers more intimate experience, Queen Anne provides newer facilities."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "The optimal Adriatic cruising window runs May through October, with June and September offering ideal combinations of warm weather, calm seas, and manageable crowds. May and October provide excellent value with temperatures 18-24°C and fewer tourists, though some beach facilities remain closed. July-August brings peak heat (28-32°C) and intense cruise congestion, particularly in Dubrovnik and Venice—expect premium pricing and advance booking requirements. September stands out for wine harvest activities in Istria and Koper, with warm Adriatic waters still suitable for swimming. October's diminishing daylight hours slightly reduce sightseeing time but reward with autumn colors and significantly lower fares. Avoid November-April when most Cunard Adriatic itineraries suspend and port facilities close."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's Adriatic cruises include accommodation, all meals in Britannia or Grills restaurants, traditional afternoon tea service, and comprehensive entertainment spanning theatre productions, live music, and Cunard Insights enrichment lectures. Fitness facilities, deck games, and supervised children's programming (2-17 years) are complimentary. Notably excluded are gratuities (EUR 16 per person daily, automatically added), alcoholic beverages, speciality dining venues, shore excursions, and WiFi. The fare structure distinguishes Cunard from premium competitors—drinks packages cost EUR 65 daily, while speciality restaurants levy EUR 35-75 cover charges. Grills Suite guests receive additional inclusions: priority embarkation, exclusive lounge access, butler service, and complimentary in-suite bar setup. Port taxes and fees are included in advertised fares, though some promotional rates may exclude these."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Adriatic itineraries emphasize Croatian destinations with Dubrovnik and Split as cornerstones, often featuring extended stays or overnights. Venice serves as primary embarkation/disembarkation point with signature overnight calls enabling independent exploration. Kotor, Montenegro provides dramatic fjord-like scenery requiring tender operations. Emerging ports include Zadar for its Sea Organ and Roman heritage, and Koper, Slovenia offering access to Ljubljana and Postojna Caves. Italian additions frequently feature Trieste, Ravenna, or Bari. Cunard's positioning voyages may include Sicily's Messina or Greek Corfu en route. The line's smaller ships access Kotor and Dubrovnik's alternative port of Gruz when larger vessels overwhelm the main harbors. Itinerary selection significantly impacts experience—eastern routes emphasize Montenegro and southern Croatia, while northern loops incorporate Slovenia and Istria."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard Adriatic cruises 9-12 months ahead for optimal cabin selection, particularly for balcony staterooms on port side for scenic Venice sailaway and starboard for Croatian coast views. Grills Suites, limited to under 200 per ship, often sell out 12-18 months before departure. Cunard releases itineraries approximately 18 months in advance. Early Saver fares offer lowest prices with non-refundable deposits, while Cunard Fare provides flexibility for EUR 150-300 premium. Last-minute Sailaway rates appear 60-90 days pre-departure with 30-40% discounts but limited cabin choice. Peak summer and holiday sailings require earliest booking; shoulder season offers more flexibility. Cunard World Club members receive priority booking windows and onboard credit incentives. Consider booking flights and pre/post-cruise Venice hotels simultaneously, as availability tightens during cruise season."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard's Adriatic cruises suit families with children 8+ seeking cultural immersion rather than high-energy resort experiences. The Kids Zone (2-7), Crew Zone (8-12), and Teen Zone (13-17) operate sea days and select port days with British-qualified staff, though facilities are modest compared to contemporary family ships. Enrichment programming—classical concerts, maritime history lectures, ballroom dancing—engages mature children but may bore younger ones. Family accommodations are limited; connecting cabins book rapidly. Pool facilities are restricted with no water slides or splash zones. Dining offers children's menus and early seating, but formal nights require appropriate attire. Shore excursions lack dedicated family pricing. Cunard excels for multi-generational groups where grandparents appreciate traditions while parents enjoy Adriatic culture, but families prioritizing children's entertainment should consider alternatives."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation policy varies by fare type and departure timing. Early Saver fares are non-refundable from booking, though date changes are permitted once for EUR 100 fee per person prior to final payment. Cunard Fare and Advance Purchase rates allow cancellation with escalating penalties: full refund beyond 91 days, deposit forfeiture at 90-61 days, 50% penalty at 60-31 days, 75% at 30-15 days, and 100% within 14 days. COVID-19 flexible booking terms have largely expired, though Cunard occasionally reintroduces temporary protections. Travel insurance is strongly recommended given substantial cancellation penalties and limited medical coverage in Croatia and Montenegro. Cunard's Cruise Care insurance, available at booking, covers cancellation for covered reasons plus interruption and medical evacuation. Name changes incur EUR 100 fee per person. Refunds process within 30 days to original payment method."
+    }
+  ]
+}

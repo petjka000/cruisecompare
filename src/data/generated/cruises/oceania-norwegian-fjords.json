@@ -1,0 +1,202 @@
+{
+  "title": "Oceania Cruises Norwegian Fjords Cruises 2026",
+  "intro": "Oceania Cruises elevates Norwegian Fjords exploration through its signature culinary excellence and intimate, destination-focused approach. The boutique luxury line delivers immersive 7-14 night voyages aboard elegant mid-sized vessels, accessing narrow fjord channels that larger ships cannot navigate. Guests savor farm-to-table cuisine crafted by Master Chef Jacques Pépin while witnessing cascading waterfalls, pristine glaciers, and dramatic cliff formations. Oceania's complimentary shore excursion program includes UNESCO World Heritage sites like Bryggen and Geirangerfjord. The line's hallmark is extended port stays—often 10-12 hours—enabling authentic cultural immersion. With all-veranda accommodations on Marina and Riviera, travelers enjoy private viewing of midnight sun phenomena. Oceania's Canyon Ranch spa partnerships and enrichment lectures by naturalists distinguish these sailings for discerning travelers seeking refined adventure without crowds.",
+  "quick_facts": {
+    "price_from_eur": 2899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Marina",
+      "Riviera",
+      "Vista"
+    ],
+    "departure_ports": [
+      "Copenhagen",
+      "Amsterdam",
+      "Southampton",
+      "Stockholm"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/Sep)",
+      "inside_eur": 2899,
+      "balcony_eur": 3499,
+      "suite_eur": 5499
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 3299,
+      "balcony_eur": 4299,
+      "suite_eur": 6999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Nordic Explorer",
+      "duration_nights": 10,
+      "ports": [
+        "Copenhagen",
+        "Alesund",
+        "Geiranger",
+        "Bergen",
+        "Stavanger",
+        "Oslo",
+        "Gothenburg",
+        "Stockholm"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "UNESCO Geirangerfjord with 15-hour daylight"
+    },
+    {
+      "name": "12-night Majestic Fjords",
+      "duration_nights": 12,
+      "ports": [
+        "Amsterdam",
+        "Eidfjord",
+        "Skjolden",
+        "Olden",
+        "Flam",
+        "Stavanger",
+        "Kristiansand",
+        "Copenhagen",
+        "Rostock",
+        "Amsterdam"
+      ],
+      "price_from_eur": 3899,
+      "highlight": "Sognefjord navigation and Flam Railway"
+    },
+    {
+      "name": "7-night Fjords Intensive",
+      "duration_nights": 7,
+      "ports": [
+        "Southampton",
+        "Bergen",
+        "Flam",
+        "Olden",
+        "Geiranger",
+        "Alesund",
+        "Southampton"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Round-trip convenience with four fjord destinations"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Culinary enthusiasts",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Riviera",
+      "capacity": 1250,
+      "year": 2012,
+      "best_for": "Destination immersion",
+      "price_from_eur": 2999
+    },
+    {
+      "name": "Vista",
+      "capacity": 1200,
+      "year": 2023,
+      "best_for": "Contemporary luxury seekers",
+      "price_from_eur": 3499
+    }
+  ],
+  "whats_included": [
+    "All meals at multiple specialty restaurants",
+    "Unlimited soft drinks and bottled water",
+    "Complimentary shore excursions (one per port)",
+    "WiFi",
+    "Airport transfers",
+    "Pre-paid gratuities",
+    "24-hour room service",
+    "Fitness center access",
+    "Enrichment lectures",
+    "Destination seminars"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages (beverage packages available from EUR 89/day)",
+    "Additional shore excursions",
+    "Spa treatments at Canyon Ranch",
+    "Laundry services",
+    "Premium dining experiences",
+    "Airfare (unless package selected)",
+    "Travel insurance"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection; Oceania releases itineraries 18 months in advance. Shoulder season sailings offer 15-20% savings. Consider OLife Choice packages bundling airfare, excursions, and beverage credits. Solo travelers should book early as single supplements are limited.",
+  "top_ports": [
+    {
+      "port": "Geiranger",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Dalsnibba viewpoint and Eagle Road (EUR 129)",
+      "tip": "Reserve helicopter glacier landing 90 days pre-cruise"
+    },
+    {
+      "port": "Flam",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Flam Railway to Myrdal (EUR 85)",
+      "tip": "Book 8am departure to avoid afternoon crowds"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Mount Floyen funicular and fish market (EUR 45)",
+      "tip": "Walk Bryggen independently; guided tours redundant"
+    },
+    {
+      "port": "Stavanger",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Lysefjord Pulpit Rock cruise (EUR 95)",
+      "tip": "Short port day—pre-book to guarantee departure"
+    },
+    {
+      "port": "Alesund",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Atlantic Sea Park and Art Nouveau walk (EUR 75)",
+      "tip": "Late arrival allows morning photography from ship"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Norwegian Fjords cruise cost?",
+      "answer": "Oceania Norwegian Fjords cruises range from EUR 2,899 for 7-night shoulder season veranda staterooms to EUR 6,999+ for peak summer suites. Typical 10-12 night voyages average EUR 3,500-4,500 per person in balcony categories. OLife Choice packages add EUR 400-800 but include airfare, excursions, and beverage credits. Solo supplements run 25-75%. Gratuities are pre-paid, eliminating hidden costs. Shore excursion credits of EUR 600-1,200 are standard inclusions that competitors charge separately."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Norwegian Fjords?",
+      "answer": "Oceania deploys Marina, Riviera, and Vista for Norwegian Fjords 2026. Marina and Riviera are 1,250-guest sister ships with identical layouts featuring Jacques Pépin's restaurant and Bon Appétit Culinary Center. Vista, launched 2023, carries 1,200 guests with enhanced suite categories and Aquamar Spa+Vitality Center. All three vessels access narrow fjords—Marina/Riviera at 66,000 tons and Vista at 67,000 tons—significantly smaller than mass-market alternatives. Their shallow drafts enable Geirangerfjord and Naeroyfjord navigation impossible for larger vessels."
+    },
+    {
+      "question": "When is best time to cruise Norwegian Fjords?",
+      "answer": "Peak season spans June through August when temperatures reach 15-20°C and midnight sun illuminates landscapes until late July. May and September offer 15-20% savings with fewer crowds and autumn foliage potential, though some hiking trails may close. Waterfalls peak in June from snowmelt. Wildlife—seals, eagles, porpoises—is visible throughout. September brings aurora possibilities on northern itineraries. Oceania schedules no winter sailings; the season runs May-September exclusively. Book June-July for guaranteed long daylight hours."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Norwegian Fjords cruises include all dining at specialty restaurants (no surcharges), unlimited soft drinks and bottled water, one complimentary shore excursion per port, unlimited WiFi, pre-paid gratuities, 24-hour room service, airport transfers, and enrichment programming. Beverage packages covering alcohol cost EUR 89-119 daily. Unique inclusions: Canyon Ranch spa facilities access, cooking classes at sea, and destination-specific lectures. Unlike premium competitors, Oceania does not charge for steakhouse, French, Italian, or Asian venues. All staterooms feature Bulgari amenities and butler service in suites."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania Norwegian Fjords itineraries visit UNESCO Geirangerfjord with its Seven Sisters waterfall, Flam gateway to Sognefjord (world's longest navigable fjord), and Art Nouveau Alesund. Bergen's Hanseatic Bryggen district and Stavanger's Lysefjord Pulpit Rock feature prominently. Extended stays reach Oslo, Kristiansand, and Gothenburg. Rare inclusions: Skjolden at Sognefjord's terminus, Olden for Briksdal Glacier, and Eidfjord for Hardangervidda plateau. Some voyages add Scottish Highlands, Iceland, or Baltic capitals. Port durations exceed industry averages—10-12 hours enabling independent exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Oceania releases Norwegian Fjords itineraries 18 months in advance; optimal booking window is 9-12 months ahead for veranda and concierge staterooms. Suite categories, particularly Owner's and Vista Suites with forward-facing views, sell 12-15 months out. Shoulder season May and September sailings offer greater availability at 6-month lead times. Solo travelers face limited single-supplement inventory requiring earliest booking. Deposit structure: EUR 500 per person refundable until final payment 90 days pre-cruise. Wave season (January-March) occasionally yields promotional onboard credits for existing inventory."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Norwegian Fjords cruises accommodate families but target affluent adults seeking cultural immersion. No dedicated children's facilities, clubs, or programming exists—unlike mass-market alternatives. Minimum age is 6 months; no babysitting services are offered. Families with teenagers appreciating fine dining, photography, and hiking find suitable experiences. Multi-generational groups succeed when children are self-sufficient and share adult interests. Staterooms accommodate third berths in select categories. Shore excursions lack child-specific pricing. Consider Regent Seven Seas or Seabourn for similar luxury with modest family amenities, or Crystal's resumed service."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania's Norwegian Fjords cancellation policy: full refund minus EUR 200 administrative fee if cancelled 91+ days before sailing; 50% penalty 90-76 days; 75% penalty 75-61 days; 100% penalty 60 days or fewer. Travel insurance through Oceania's preferred provider covers cancellation for covered reasons including illness; third-party policies often exclude pre-existing conditions without timely purchase. COVID-19 protocols eliminated—standard terms apply. Rebooking to future sailings incurs EUR 100 change fee per person. Name changes permitted until 30 days pre-cruise for EUR 150. Cancel for Any Reason upgrades available at booking for 10% premium, yielding future cruise credits."
+    }
+  ]
+}

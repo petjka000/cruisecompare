@@ -1,0 +1,235 @@
+{
+  "title": "Regent Seven Seas Mediterranean Cruises 2026",
+  "intro": "Regent Seven Seas Cruises elevates Mediterranean exploration to an art form with its all-inclusive, ultra-luxury fleet. Sailing the cradle of Western civilization aboard intimate ships carrying just 490-750 guests, you'll discover hidden harbours inaccessible to larger vessels. From the Amalfi Coast's pastel villages to Santorini's caldera sunsets, every port becomes a private sanctuary. Regent's hallmark includes unlimited shore excursions, fine wines and spirits, and business-class air on intercontinental flights. The line's commitment to space and service means every suite features an ocean view, 98% with private balconies. Culinary excellence shines through partnerships with Le Cordon Bleu and Chartreuse, while Canyon Ranch spa treatments restore balance between cultural immersion and relaxation. This is Mediterranean cruising without compromise—where gratuities, WiFi, and even laundry are seamlessly included.",
+  "quick_facts": {
+    "price_from_eur": 5890,
+    "duration_range": "7-16 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Seven Seas Explorer",
+      "Seven Seas Splendor",
+      "Seven Seas Grandeur"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Rome",
+      "Athens",
+      "Venice",
+      "Istanbul"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Nov)",
+      "inside_eur": 0,
+      "balcony_eur": 5890,
+      "suite_eur": 8900
+    },
+    {
+      "season": "Peak (May-Jun, Sep-Oct)",
+      "inside_eur": 0,
+      "balcony_eur": 7890,
+      "suite_eur": 12400
+    },
+    {
+      "season": "Summer High (Jul-Aug)",
+      "inside_eur": 0,
+      "balcony_eur": 8490,
+      "suite_eur": 13900
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Barcelona to Rome",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Monte Carlo",
+        "Livorno",
+        "Civitavecchia"
+      ],
+      "price_from_eur": 5890,
+      "highlight": "French Riviera overnight in Monte Carlo with included Grand Prix circuit tour"
+    },
+    {
+      "name": "Athens to Venice",
+      "duration_nights": 10,
+      "ports": [
+        "Athens",
+        "Santorini",
+        "Kotor",
+        "Dubrovnik",
+        "Split",
+        "Venice"
+      ],
+      "price_from_eur": 7890,
+      "highlight": "Adriatic gems with overnight in Venice and exclusive Kotor fjord sailing"
+    },
+    {
+      "name": "Rome Roundtrip",
+      "duration_nights": 12,
+      "ports": [
+        "Civitavecchia",
+        "Sorrento",
+        "Taormina",
+        "Valletta",
+        "Palma de Mallorca",
+        "Barcelona",
+        "Livorno"
+      ],
+      "price_from_eur": 9240,
+      "highlight": "Comprehensive Western Mediterranean with Amalfi Coast and Sicily's Greek temples"
+    },
+    {
+      "name": "Istanbul to Athens",
+      "duration_nights": 14,
+      "ports": [
+        "Istanbul",
+        "Kusadasi",
+        "Rhodes",
+        "Limassol",
+        "Haifa",
+        "Ashdod",
+        "Santorini",
+        "Athens"
+      ],
+      "price_from_eur": 11200,
+      "highlight": "Holy Land and Aegean with three full days in Israel and Ephesus exploration"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Explorer",
+      "capacity": 750,
+      "year": 2016,
+      "best_for": "Connoisseurs seeking the most luxurious ship ever built",
+      "price_from_eur": 6890
+    },
+    {
+      "name": "Seven Seas Splendor",
+      "capacity": 750,
+      "year": 2020,
+      "best_for": "Design enthusiasts and culinary aficionados",
+      "price_from_eur": 6490
+    },
+    {
+      "name": "Seven Seas Grandeur",
+      "capacity": 750,
+      "year": 2023,
+      "best_for": "Modern luxury seekers wanting newest amenities",
+      "price_from_eur": 7290
+    },
+    {
+      "name": "Seven Seas Voyager",
+      "capacity": 700,
+      "year": 2003,
+      "best_for": "Intimate atmosphere with all-suite, all-balcony accommodation",
+      "price_from_eur": 5890
+    }
+  ],
+  "whats_included": [
+    "Unlimited shore excursions",
+    "All-suite accommodation with ocean views",
+    "Roundtrip business-class air on intercontinental flights",
+    "Unlimited beverages including premium wines and spirits",
+    "All specialty restaurants",
+    "Pre-cruise hotel night",
+    "Gratuities",
+    "Unlimited WiFi",
+    "Valet laundry service",
+    "Ground transfers"
+  ],
+  "whats_extra": [
+    "Spa treatments at Canyon Ranch",
+    "Premium shore excursion upgrades",
+    "Boutique purchases",
+    "Casino gaming",
+    "Photography services",
+    "Medical services"
+  ],
+  "booking_strategy": "Reserve 12-18 months ahead for best suite selection and early booking savings up to 25%. Regent's inclusive pricing means comparing total cost against premium lines reveals exceptional value. Consider shoulder season sailings for reduced rates and fewer crowds at archaeological sites. Solo travellers should watch for reduced single supplements. Book spa treatments and premium excursions immediately upon embarkation.",
+  "top_ports": [
+    {
+      "port": "Santorini",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Private catamaran sunset cruise with wine tasting (included)",
+      "tip": "Request late departure for Oia sunset without crowds"
+    },
+    {
+      "port": "Kotor",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Medieval walls hike with panoramic fjord views (included)",
+      "tip": "Morning light best for photography of red-roofed old town"
+    },
+    {
+      "port": "Monte Carlo",
+      "time_in_port": "8am-11pm (overnight)",
+      "top_activity": "Exclusive Casino de Monte-Carlo evening access (included)",
+      "tip": "Overnight allows relaxed exploration of Prince's Palace and Oceanographic Museum"
+    },
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Game of Thrones filming locations with local guide (included)",
+      "tip": "Early morning walk the walls before day-trippers arrive"
+    },
+    {
+      "port": "Livorno",
+      "time_in_port": "8am-8pm",
+      "top_activity": "Florence Uffizi Gallery with reserved entry (included)",
+      "tip": "Pisa and Lucca combination available for repeat visitors"
+    },
+    {
+      "port": "Kusadasi",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Ephesus archaeological site with Terrace Houses (included)",
+      "tip": "Afternoon visit avoids morning tour bus congestion"
+    },
+    {
+      "port": "Valletta",
+      "time_in_port": "8am-6pm",
+      "top_activity": "UNESCO city walking tour with St. John's Co-Cathedral (included)",
+      "tip": "Barrakka Gardens offer best harbour photography"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Mediterranean cruise cost?",
+      "answer": "Regent Seven Seas Mediterranean cruises typically range from €5,890 to €15,000+ per person for 7-16 night itineraries. The all-inclusive fare covers business-class international flights, unlimited shore excursions, all beverages, specialty dining, gratuities, and pre-cruise hotel stays. Unlike premium lines where extras accumulate, Regent's upfront pricing often proves comparable when totalling comparable inclusions elsewhere. Suite categories span from Veranda Suites to the palatial Regent Suite with private spa. Shoulder season departures in March-April and November offer 15-20% savings. Early booking discounts of up to 25% are common for reservations made 12+ months ahead. Single supplements vary but occasional reduced or waived promotions appear."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Mediterranean?",
+      "answer": "Four Regent Seven Seas vessels operate Mediterranean itineraries. Seven Seas Explorer, hailed as the most luxurious ship ever built, features the opulent Regent Suite with private spa and Steinway piano. Seven Seas Splendor offers refined elegance with its Culinary Arts Kitchen and Serene Spa. The newest Seven Seas Grandeur (2023) introduces contemporary design and enhanced technology. Seven Seas Voyager provides intimate ultra-luxury with all-suite, all-balcony accommodation. All four ships carry under 750 guests, enabling access to smaller ports like Portofino, Rovinj, and Hydra. Ship deployment rotates seasonally, with Explorer and Splendor typically commanding peak summer Mediterranean routes while Grandeur offers spring and autumn sailings."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "The optimal Mediterranean cruising window spans May through June and September through October. These shoulder months deliver warm, sunny days averaging 22-28°C, minimal rainfall, and comfortable evenings for alfresco dining. May offers wildflower displays in Provence and Greek islands before summer crowds arrive. September brings harvest season with wine festivals in Tuscany and Provence. June provides longest daylight hours for extended exploration. July and August bring intense heat often exceeding 35°C, particularly in Athens, Rome, and Egyptian ports, plus peak prices and crowded attractions. November and March-April sailings suit budget-conscious travellers accepting cooler temperatures and some itinerary modifications due to weather. Winter Mediterranean cruising is limited as ships reposition to Caribbean and Asia."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent Seven Seas provides the industry's most comprehensive all-inclusive experience. Every fare includes roundtrip business-class air on intercontinental flights from 29 gateway cities, with complimentary economy upgrades available. Unlimited shore excursions cover at least one option in every port, from walking tours to culinary experiences. All-suite accommodation guarantees ocean views with 98% featuring private balconies. Unlimited beverages encompass premium wines, spirits, cocktails, and specialty coffees. All dining venues including Chartreuse French restaurant and Pacific Rim Asian fusion carry no surcharge. Pre-cruise luxury hotel night, ground transfers, gratuities, unlimited WiFi, and valet laundry service complete the inclusions. Only spa treatments, casino, boutique purchases, and premium excursion upgrades incur additional charges."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent Seven Seas accesses over 80 Mediterranean ports across Western, Eastern, and Southern itineraries. Western routes feature Barcelona's architectural treasures, Monte Carlo's glamour, Livorno for Florence and Pisa, Civitavecchia for Rome, and Marseille's Provencal charm. Eastern Mediterranean highlights include Venice's lagoon, Dubrovnik's walled city, Kotor's dramatic fjord, Santorini's caldera, and Athens' Acropolis. Southern routes explore Alexandria and Port Said for Egypt's pyramids, Haifa and Ashdod for Jerusalem, and Limassol's Crusader castles. Smaller vessels reach intimate harbours like Portofino, Rovinj, Hydra, Patmos, and Amalfi inaccessible to larger ships. Overnight stays in Venice, Monte Carlo, Istanbul, and Barcelona enable immersive evening experiences. Many itineraries combine regions for comprehensive Mediterranean exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Regent Seven Seas Mediterranean reservations 12-18 months in advance for optimal suite selection, particularly for sought-after categories like Penthouse Suites and above. Early booking incentives typically offer 10-25% savings and may include included shore excursion credits or cabin upgrades. Popular departure dates including June and September sailings, holiday periods, and Grand Prix weekends in Monte Carlo sell out earliest. Regent's 90-day final payment policy provides flexibility compared to competitors. Last-minute availability occasionally appears 60-90 days before sailing, though suite selection becomes limited. Travel agents specializing in luxury cruising often access group space or exclusive amenities. Consider booking 2026 itineraries immediately upon release, typically 18-24 months ahead, for best value and choice."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas primarily targets affluent adult travellers seeking refined, educational experiences rather than family-focused cruising. Children are welcome but no dedicated kids' clubs, youth programming, or childcare services operate aboard. The sophisticated atmosphere, formal evenings, and enrichment lectures suit mature teenagers and adult children travelling with parents. Multi-generational families appreciate connecting suites and the convenience of included excursions eliminating daily expense decisions. The line occasionally offers 'Grand Voyages' with more diverse demographics. Families with younger children may find better value and facilities aboard premium lines like Celebrity or Holland America. Regent's destination immersion through included excursions particularly appeals to culturally curious young adults and college-aged travellers seeking authentic Mediterranean experiences beyond typical tourist offerings."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas applies a tiered cancellation structure based on departure date and voyage length. For standard voyages under 30 nights, cancellations 121+ days before sailing incur no penalty beyond administrative fees. 120-91 days prior forfeits 15% of fare; 90-61 days loses 50%; 60-31 days sacrifices 75%; and 30 days or less retains 100% as penalty. World cruises and segments over 30 nights demand stricter terms: 181+ days cancellation loses deposit; 180-151 days forfeits 25%; 150-121 days loses 50%; 120-91 days sacrifices 75%; and 90 days or less retains full payment. Travel insurance through Regent or independent providers strongly recommended given substantial penalties. 'Regent Reassurance' protection plans offer cancel-for-any-reason coverage at additional cost, providing future cruise credits rather than cash refunds."
+    }
+  ]
+}

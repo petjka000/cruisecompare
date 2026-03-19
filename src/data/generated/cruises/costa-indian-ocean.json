@@ -1,0 +1,185 @@
+{
+  "title": "Costa Cruises Indian Ocean Cruises 2026",
+  "intro": "Costa Cruises brings Italian elegance to the Indian Ocean, combining Mediterranean hospitality with exotic destinations across Mauritius, Seychelles, Madagascar, and Réunion. As Europe's largest cruise line, Costa offers exceptional value with all-inclusive dining options, vibrant Italian-themed entertainment, and multilingual service tailored to international guests. The Indian Ocean itineraries feature pristine beaches, UNESCO World Heritage sites, and unique wildlife encounters from lemurs to giant tortoises. Costa's ships provide an authentic European cruising experience with pasta-making classes, Italian language lessons, and gelato bars alongside tropical excursions. These voyages appeal to couples seeking romance, families wanting diverse activities, and explorers craving off-the-beaten-path destinations. With competitive pricing and flexible itineraries ranging from 7 to 14 nights, Costa Cruises delivers accessible luxury for discovering one of the world's most captivating maritime regions.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Costa Serena",
+      "Costa Deliziosa"
+    ],
+    "departure_ports": [
+      "Port Louis",
+      "Victoria",
+      "Antsiranana"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 749,
+      "balcony_eur": 1149,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Low (Apr-Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Mauritius & Seychelles",
+      "duration_nights": 7,
+      "ports": [
+        "Port Louis",
+        "Praslin",
+        "La Digue",
+        "Victoria",
+        "Port Louis"
+      ],
+      "price_from_eur": 699,
+      "highlight": "UNESCO Vallée de Mai nature reserve"
+    },
+    {
+      "name": "14-night Indian Ocean Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Port Louis",
+        "Réunion",
+        "Madagascar",
+        "Seychelles",
+        "Maldives",
+        "Port Louis"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Complete archipelago immersion with Maldives extension"
+    },
+    {
+      "name": "10-night Madagascar Discovery",
+      "duration_nights": 10,
+      "ports": [
+        "Port Louis",
+        "Nosy Be",
+        "Antsiranana",
+        "Toamasina",
+        "Port Louis"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Lemur trekking and baobab alley photography"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Serena",
+      "capacity": 3000,
+      "year": 2007,
+      "best_for": "Families & couples",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Costa Deliziosa",
+      "capacity": 2260,
+      "year": 2010,
+      "best_for": "Adults & culture seekers",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "Full board with 4 main restaurants",
+    "Buffet dining 20 hours daily",
+    "Themed Italian entertainment shows",
+    "Fitness center & pools",
+    "Kids clubs (3-17 years)",
+    "Port taxes & service charges"
+  ],
+  "whats_extra": [
+    "Beverage packages (€25-55/day)",
+    "Shore excursions (€45-189)",
+    "Specialty restaurants (€25-45)",
+    "Spa treatments",
+    "WiFi packages",
+    "Laundry services"
+  ],
+  "booking_strategy": "Book 8-12 months ahead for peak season balcony cabins; monitor Costa Club loyalty discounts; consider repositioning cruises in November for 30% savings; bundle beverage packages at booking for 15% discount",
+  "top_ports": [
+    {
+      "port": "Port Louis, Mauritius",
+      "time_in_port": "7am-6pm (embarkation)",
+      "top_activity": "Pamplemousses Botanical Garden excursion (€65)",
+      "tip": "Arrive 2 days early for jet lag recovery"
+    },
+    {
+      "port": "Victoria, Mahé, Seychelles",
+      "time_in_port": "8am-6pm",
+      "top_activity": "La Digue island hop with Anse Source d'Argent (€89)",
+      "tip": "Reserve catamaran transfers 48 hours ahead"
+    },
+    {
+      "port": "Nosy Be, Madagascar",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Lokobe Nature Reserve lemur sanctuary (€75)",
+      "tip": "Bring insect repellent and closed shoes"
+    },
+    {
+      "port": "Réunion (Pointe des Galets)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Piton de la Fournaise volcano helicopter tour (€289)",
+      "tip": "Weather-dependent; book refundable option"
+    },
+    {
+      "port": "Malé, Maldives",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Private sandbank snorkeling with marine biologist (€149)",
+      "tip": "December-March offers clearest waters"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Indian Ocean cruise cost?",
+      "answer": "Costa Indian Ocean cruises start from €699 for interior cabins on 7-night itineraries during low season, rising to €899-1299 in peak December-February period. Balcony cabins range €999-1399, while suites command €1599-2199 depending on sailing date. The 14-night comprehensive itineraries typically cost €1299-1899. All fares include meals, entertainment, and port taxes. Beverage packages add €25-55 daily. Shore excursions average €45-189 per port. Families benefit from reduced third/fourth passenger rates. Costa Club members receive 5-15% discounts. Early booking bonuses and resident rates for EU citizens can reduce costs further."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Indian Ocean?",
+      "answer": "Costa deploys Costa Serena and Costa Deliziosa for Indian Ocean operations. Costa Serena, a 3,000-passenger vessel launched 2007, features Italian Renaissance décor, four pools, and extensive family facilities including the Squok Club. Costa Deliziosa, more intimate at 2,260 passengers and launched 2010, offers refined elegance with glass elevators, a 4D cinema, and adults-focused ambiance ideal for couples. Both ships receive winter dry-dock maintenance before Indian Ocean season. Costa Serena handles the 7-night Mauritius-Seychelles circuit, while Costa Deliziosa operates longer 10-14 night Madagascar and Maldives routes. Neither ship offers Indian Ocean sailings April-October due to monsoon conditions."
+    },
+    {
+      "question": "When is best time to cruise Indian Ocean?",
+      "answer": "Optimal Indian Ocean cruising occurs November through March when southeast trade winds deliver dry, sunny conditions with temperatures 26-32°C and minimal rainfall. December-February represents peak season with calmest seas and best underwater visibility for snorkeling. November and March offer shoulder season advantages: 20% lower prices, fewer crowds, and occasional brief showers that refresh rather than disrupt. April brings humidity and cyclone risk; May-October features strong southeasterly winds, rough seas, and reduced ship deployment. Whale shark encounters peak November-January around Madagascar. Seychelles' southeast trade winds create ideal sailing conditions December-March. Mauritius experiences its warmest, driest period October-December."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa Indian Ocean cruises include comprehensive full-board dining across four main restaurants with Italian and international menus, plus 20-hour buffet service. Entertainment encompasses nightly theater productions, live music, dance classes, and deck parties. Fitness centers, swimming pools, and sports courts carry no surcharge. Children aged 3-17 access dedicated Squok and Teen Zone clubs with supervised activities. Port taxes and onboard service charges are bundled in advertised fares. Basic cabin amenities include air conditioning, safe, and satellite TV. Morning yoga sessions, cooking demonstrations, and Italian language lessons are complimentary. What isn't covered: alcoholic beverages, specialty dining, spa services, shore excursions, WiFi, and laundry."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa Indian Ocean itineraries center on Port Louis, Mauritius as primary homeport with its modern cruise terminal and international airport connections. Seychelles calls feature Victoria, Mahé and tender ports at Praslin and La Digue with their granite boulder beaches. Madagascar destinations include Nosy Be for lemur encounters, Antsiranana (Diego Suarez) for French colonial architecture, and Toamasina for rainforest access. Réunion's Pointe des Galets offers volcano and cirque mountain excursions. Extended itineraries reach Malé, Maldives for atoll snorkeling. Some 14-night sailings include Colombo, Sri Lanka. Tender operations are common; mobility-impaired passengers should verify accessibility. Each port requires 6-10 hours for meaningful exploration beyond immediate dockside areas."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Costa Indian Ocean cruises 8-12 months in advance for optimal cabin selection, particularly balcony staterooms on port-intensive itineraries where private viewing enhances the experience. Peak December-February sailings, especially over Christmas and New Year, sell out 10 months ahead. Costa releases itineraries 18 months prior; early booking yields 10-20% discounts and cabin upgrade opportunities. Last-minute deals emerge 60-90 days before sailing for flexible travelers, though itinerary and cabin choice become limited. Group bookings of 8+ cabins require 12-month lead time. Airfare to Mauritius should be booked simultaneously as routes fill quickly. Travel insurance purchase within 14 days of deposit protects pre-existing conditions and covers supplier default."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa Indian Ocean cruises suit families exceptionally well, particularly Costa Serena with its comprehensive Squok Club programming divided into Mini (3-6), Maxi (7-11), Teen (12-14), and Young (15-17) age groups operating 9am-midnight daily. Educational activities include marine biology workshops, Italian cooking classes, and destination-themed crafts. Family cabins accommodate 4-5 passengers with connecting options. Pool areas feature dedicated children's zones. Shore excursions offer family pricing with child-friendly variants including beach days, wildlife sanctuaries, and glass-bottom boat tours. Evening entertainment includes family-friendly shows and deck parties. The Italian approach to dining accommodates children with early seating, familiar pasta options, and flexible mealtimes. Babysitting services extend club hours for parental evening dining."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa Cruises applies graduated cancellation fees based on departure proximity. Cancellations 90+ days before sailing incur €50-100 administrative fee per person. 89-60 days prior: 15% of cruise fare forfeited. 59-30 days: 25% penalty. 29-15 days: 50% loss. 14-4 days: 75% forfeiture. Within 3 days or no-show: 100% charge applies. Premium protection plans, purchasable within 14 days of booking, permit cancellation for any reason with future cruise credit minus €75 fee. Medical documentation waives penalties for documented illness. Itinerary changes by Costa entitle passengers to full refund or rebooking. Third-party air arrangements follow separate airline policies. Travel insurance through Costa's recommended providers covers non-refundable portions for covered reasons including job loss and family emergency."
+    }
+  ]
+}

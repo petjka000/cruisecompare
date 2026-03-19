@@ -1,0 +1,245 @@
+{
+  "title": "Viking Cruises Norwegian Fjords Cruises 2026",
+  "intro": "Viking Cruises brings its signature understated elegance to the Norwegian Fjords, offering adult-focused voyages that immerse travellers in one of Europe's most dramatic landscapes. Unlike conventional cruise lines, Viking Ocean Cruises operates intimate, all-veranda ships that navigate narrow fjord passages impossible for larger vessels. The 2026 season features extended daylight hours for maximum scenery viewing, with itineraries crafted to linger longer in UNESCO-protected Geirangerfjord and Nærøyfjord. Onboard, the Nordic heritage resonates through minimalist Scandinavian design, regional cuisine featuring Arctic char and cloudberries, and enrichment lectures on Viking history and fjord geology. The line's inclusive value proposition—covering shore excursions, WiFi, beer, wine and soft drinks with lunch and dinner—eliminates onboard spending anxiety. With no casinos, no children under 18, and no formal nights, Viking attracts culturally curious travellers seeking contemplative connection with Norway's vertical wilderness of waterfalls, glaciers and precipitous cliffs.",
+  "quick_facts": {
+    "price_from_eur": 3290,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Viking Venus",
+      "Viking Jupiter",
+      "Viking Sky",
+      "Viking Star"
+    ],
+    "departure_ports": [
+      "Bergen",
+      "London Tilbury",
+      "Amsterdam"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May, September)",
+      "inside_eur": 0,
+      "balcony_eur": 3290,
+      "suite_eur": 5890
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 0,
+      "balcony_eur": 4190,
+      "suite_eur": 7490
+    },
+    {
+      "season": "Late Summer",
+      "inside_eur": 0,
+      "balcony_eur": 3690,
+      "suite_eur": 6290
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Into the Midnight Sun",
+      "duration_nights": 14,
+      "ports": [
+        "Bergen",
+        "Geiranger",
+        "Lofoten Islands",
+        "Tromsø",
+        "Honningsvåg",
+        "Stavanger",
+        "Flåm",
+        "Ålesund"
+      ],
+      "price_from_eur": 6190,
+      "highlight": "Arctic Circle crossing with 24-hour daylight"
+    },
+    {
+      "name": "Viking Homelands",
+      "duration_nights": 14,
+      "ports": [
+        "Bergen",
+        "Stavanger",
+        "Flåm",
+        "Ålesund",
+        "Geiranger",
+        "Copenhagen",
+        "Berlin",
+        "Tallinn",
+        "St. Petersburg",
+        "Helsinki",
+        "Stockholm"
+      ],
+      "price_from_eur": 5890,
+      "highlight": "Combines Norwegian fjords with Baltic capitals"
+    },
+    {
+      "name": "British Isles & Norwegian Fjords",
+      "duration_nights": 14,
+      "ports": [
+        "London Tilbury",
+        "Dover",
+        "Lerwick",
+        "Bergen",
+        "Flåm",
+        "Stavanger",
+        "Greenock",
+        "Liverpool",
+        "Dublin"
+      ],
+      "price_from_eur": 5490,
+      "highlight": "Scottish Isles with deep fjord exploration"
+    },
+    {
+      "name": "Classic Norway",
+      "duration_nights": 7,
+      "ports": [
+        "Bergen",
+        "Flåm",
+        "Stavanger",
+        "Ålesund",
+        "Geiranger"
+      ],
+      "price_from_eur": 3290,
+      "highlight": "Intensive fjord immersion with scenic rail journey"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Venus",
+      "capacity": 930,
+      "year": 2021,
+      "best_for": "Cultural immersion & scenic cruising",
+      "price_from_eur": 3290
+    },
+    {
+      "name": "Viking Jupiter",
+      "capacity": 930,
+      "year": 2019,
+      "best_for": "Enrichment programmes & Nordic design",
+      "price_from_eur": 3290
+    },
+    {
+      "name": "Viking Sky",
+      "capacity": 930,
+      "year": 2017,
+      "best_for": "Explorer-focused itineraries",
+      "price_from_eur": 3290
+    },
+    {
+      "name": "Viking Star",
+      "capacity": 930,
+      "year": 2015,
+      "best_for": "Refined small-ship atmosphere",
+      "price_from_eur": 3290
+    }
+  ],
+  "whats_included": [
+    "All meals at multiple restaurants including World Café and Manfredi's Italian",
+    "One complimentary shore excursion in every port",
+    "Beer, wine and soft drinks with lunch and dinner",
+    "WiFi throughout ship",
+    "Access to Nordic Spa with sauna and snow grotto",
+    "24-hour room service",
+    "Port taxes and fees",
+    "Airport transfers on embarkation/disembarkation days",
+    "Self-service laundry facilities",
+    "Evening entertainment and enrichment lectures"
+  ],
+  "whats_extra": [
+    "Premium beverages and cocktails outside meal times",
+    "Spa treatments and salon services",
+    "Additional shore excursions beyond the included option",
+    "Specialty dining experiences",
+    "Laundry and dry cleaning services",
+    "Photography purchases",
+    "Onboard shopping",
+    "Gratuities (EUR 15 per person per day recommended)",
+    "Pre- and post-cruise hotel stays",
+    "Business class airfare upgrades"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for optimal cabin selection and early booking savings of EUR 500-1000 per person. Viking's 2026 itineraries typically release 18 months prior. Consider booking during the annual 'Anniversary Sale' in April for additional onboard credit. Veranda staterooms on higher decks (Deck 6-7) offer superior fjord viewing. Solo travellers should book early as single supplements are limited. Flexible travellers can find last-minute deals 60-90 days out, though cabin location may be restricted. Deposit is fully refundable for 24 hours, then 20% penalty applies until final payment 120 days prior.",
+  "top_ports": [
+    {
+      "port": "Geiranger",
+      "time_in_port": "7am-5pm",
+      "top_activity": "UNESCO Geirangerfjord RIB safari (EUR 189)",
+      "tip": "Reserve port-side cabin for Seven Sisters Waterfall approach"
+    },
+    {
+      "port": "Flåm",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Flåm Railway to Myrdal (EUR 95)",
+      "tip": "Included excursion covers railway; upgrade for extended mountain bike return"
+    },
+    {
+      "port": "Stavanger",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Pulpit Rock hike (EUR 145)",
+      "tip": "Strenuous 4-hour hike—book ship's organised tour for guaranteed return"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "Embark/overnight",
+      "top_activity": "Bryggen UNESCO wharf and funicular (EUR 35)",
+      "tip": "Arrive one day early; Viking includes pre-cruise hotel on select packages"
+    },
+    {
+      "port": "Ålesund",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Art Nouveau walking tour and aquarium (EUR 75)",
+      "tip": "Town is compact—easy independent exploration if weather permits"
+    },
+    {
+      "port": "Lofoten Islands (Svolvær)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sea eagle RIB safari (EUR 165)",
+      "tip": "Pack layers; Arctic conditions persist even in July"
+    },
+    {
+      "port": "Tromsø",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Arctic Cathedral and cable car (EUR 65)",
+      "tip": "Midnight Sun visible late May-July—ship remains lit for photography"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Norwegian Fjords cruise cost?",
+      "answer": "Viking Norwegian Fjords cruises start from EUR 3,290 per person for 7-night itineraries in shoulder season, rising to EUR 4,190 for peak summer dates. The 14-night 'Into the Midnight Sun' and 'Viking Homelands' itineraries range EUR 5,490-6,190. These are all-veranda ships with no inside cabins; standard Veranda staterooms measure 25 sqm. Penthouse Junior Suites command EUR 7,490-8,990, while Explorer Suites with wraparound balconies reach EUR 12,000-15,000. Prices include shore excursions, drinks with meals, WiFi and gratuities—unlike mainstream lines where these accumulate substantially. Solo travellers face 150-200% supplements, though occasional reduced-single offers appear. Airfare packages add EUR 800-1,200 from European gateways. Early booking typically secures EUR 500-1,000 savings plus onboard credit."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Norwegian Fjords?",
+      "answer": "Viking deploys its 930-passenger ocean fleet to Norwegian Fjords, primarily Viking Venus (2021), Viking Jupiter (2019), Viking Sky (2017) and Viking Star (2015). These identical sister ships feature all-veranda accommodations, Nordic spa with snow grotto, infinity pool with retractable dome, and Explorers' Lounge with panoramic fjord viewing. At 47,800 gross tons and 227 metres, they're optimally sized for narrow fjord navigation—small enough for Geirangerfjord's tight bends yet stable in North Sea conditions. Viking Venus and Jupiter typically operate the 14-night 'Into the Midnight Sun' Arctic Circle itineraries, while Sky and Star handle 7-night intensive fjord programmes. All feature the same understated Scandinavian design by Rottet Studio and London-based SMC Design, with no casinos, no children, and no formal nights."
+    },
+    {
+      "question": "When is best time to cruise Norwegian Fjords?",
+      "answer": "The optimal Norwegian Fjords cruising window runs May through August, with distinct seasonal experiences. May offers snow-capped peaks, gushing waterfalls from snowmelt, and fewer crowds, though temperatures remain cool (8-15°C). June and July provide the most reliable weather (12-20°C), longest daylight hours, and the Midnight Sun north of the Arctic Circle—ideal for photography and extended sightseeing. August brings warmer seas for swimming (if brave), ripening berries ashore, and peak waterfall volume, though some snow cover diminishes. September sees autumn colours emerging, reduced prices, and Northern Lights possibilities on northern itineraries, but daylight shortens rapidly and some mountain roads close. Viking's 2026 peak pricing reflects June-August demand. Pack layered waterproof clothing regardless of month—fjord weather shifts rapidly."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's Norwegian Fjords cruises include substantial value: all meals across multiple venues (Manfredi's Italian, World Café buffet, Chef's Table, Mamsen's Nordic deli, and main restaurant); one shore excursion in every port (typically orientation tours with premium upgrades available); beer, wine and soft drinks with lunch and dinner; premium WiFi throughout; 24-hour room service; self-service laundry; access to Nordic spa with sauna, steam room, cold plunge pool and snow grotto; evening entertainment and destination lectures; port taxes and fees; and airport transfers on embarkation/disembarkation days. Staterooms feature king beds with luxury linens, heated bathroom floors, and binoculars for wildlife spotting. Not included: premium spirits and cocktails outside meals, spa treatments, additional excursions, and gratuities (EUR 15 per person daily suggested). This inclusive model eliminates onboard spending anxiety common on mainstream lines."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking's Norwegian Fjords itineraries feature UNESCO-listed natural and cultural sites inaccessible to larger vessels. Core ports include Bergen (embarkation, Bryggen Hanseatic wharf), Flåm (Aurlandsfjorden arm, Flåm Railway), Geiranger (UNESCO Geirangerfjord, Seven Sisters Waterfall), Stavanger (Lysefjord gateway, Pulpit Rock), and Ålesund (Art Nouveau architecture). Extended itineraries add Arctic destinations: Lofoten Islands (dramatic peaks and fishing villages), Tromsø (Arctic Cathedral, Midnight Sun), and Honningsvåg (North Cape plateau). Some sailings incorporate British Isles calls at Lerwick (Shetland), Greenock (Glasgow), and Liverpool, or Baltic capitals on 'Viking Homelands' routes. Ships overnight in Bergen on embarkation and occasionally Tromsø. Tender ports include Geiranger and some Lofoten anchorages—Viking's small size advantages here. Each port includes one complimentary excursion, with premium options like RIB safaris, glacier hiking, and king crab fishing available."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Viking Norwegian Fjords cruises 9-18 months ahead for optimal stateroom selection, particularly for Penthouse categories and Explorer Suites with superior fjord-viewing wraparound balconies. Viking releases itineraries approximately 18 months prior; 2026 sailings became bookable in late 2024. Early booking incentives typically include EUR 500-1,000 savings per person plus onboard credit of EUR 200-400. The April 'Anniversary Sale' historically offers the year's strongest promotions. Deposit structure: fully refundable for 24 hours, then 20% penalty until final payment due 120 days before sailing. Within 120 days, penalties escalate to 100%. For flexible travellers, last-minute availability occasionally appears 60-90 days out with modest discounts, though cabin location may be restricted to lower decks or forward positions with more motion. Solo travellers especially should book early as single-supplement cabins are limited."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Ocean Cruises explicitly prohibits children under 18, making Norwegian Fjords itineraries unsuitable for families with younger travellers. This adults-only policy, enforced since the line's 2015 launch, creates a contemplative atmosphere geared towards culturally curious travellers aged 50-75. The onboard experience lacks children's facilities, family programming, or casual dining options that appeal to younger passengers. Enrichment programming focuses on destination lectures, classical music recitals, and culinary demonstrations rather than active entertainment. Families seeking Norwegian Fjords experiences should consider Hurtigruten (coastal voyage with some family appeal), P&O Cruises, or MSC Cruises which offer dedicated children's clubs and multi-generational programming. Viking's demographic targeting extends to shore excursions—walking tours and cultural visits predominate rather than adventure activities that might engage teenagers. The serene, library-like ship atmosphere would prove constraining for most under-18s."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's Norwegian Fjords cancellation policy operates on a graduated penalty structure designed to encourage early commitment while protecting inventory. From booking through 24 hours: full refund, no questions. Days 2-120 before departure: loss of deposit (typically 20% of cruise fare). 119-90 days: 35% penalty. 89-60 days: 50% penalty. 59-30 days: 75% penalty. 29 days or less: 100% forfeiture. Travel insurance is strongly recommended; Viking offers 'Viking Protection' coverage including cancel-for-any-reason upgrades providing 75% future cruise credit for cancellations outside standard covered reasons. COVID-19 protocols have relaxed but Viking reserves right to deny boarding without refund for positive tests within 5 days of sailing. Name changes incur EUR 100 fee per person. Itinerary changes by Viking (rare) entitle passengers to full refund or future cruise credit. Rebooking to alternative dates typically carries EUR 100 administrative fee per person."
+    }
+  ]
+}

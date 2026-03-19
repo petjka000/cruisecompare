@@ -1,0 +1,193 @@
+{
+  "title": "Royal Caribbean Africa & Canaries Cruises 2026",
+  "intro": "Royal Caribbean brings its signature innovation and adventure to the captivating shores of Africa and the sun-drenched Canary Islands. These extraordinary voyages combine the thrill of world-class entertainment with immersive cultural exploration. Sail aboard mega-ships like Wonder of the Seas to discover Morocco's ancient medinas, Senegal's vibrant markets, and the volcanic landscapes of Tenerife and Gran Canaria. Royal Caribbean's Africa & Canaries itineraries are uniquely crafted for travellers seeking both relaxation and discovery, featuring extended port stays that allow deeper engagement with local cultures. The cruise line's private destination experiences and exclusive shore excursions reveal hidden gems across two continents. Whether you're wandering through Casablanca's art deco architecture or sampling Canarian cuisine in Lanzarote, these journeys deliver Royal Caribbean's renowned service standards against a backdrop of extraordinary diversity.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Wonder of the Seas",
+      "Oasis of the Seas"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Barcelona",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    },
+    {
+      "season": "Shoulder (Mar-Apr, Oct-Nov)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1699
+    },
+    {
+      "season": "Low (May-Sep)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Canary Islands Escape",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Tenerife",
+        "Gran Canaria",
+        "Lanzarote",
+        "Barcelona"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Perfect winter sun getaway with volcanic island hopping"
+    },
+    {
+      "name": "12-night Africa & Canaries Adventure",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Casablanca",
+        "Agadir",
+        "Tenerife",
+        "Gran Canaria",
+        "Southampton"
+      ],
+      "price_from_eur": 1149,
+      "highlight": "Moroccan souks meet Atlantic archipelago exploration"
+    },
+    {
+      "name": "14-night Transatlantic with Africa",
+      "duration_nights": 14,
+      "ports": [
+        "Miami",
+        "Ponta Delgada",
+        "Casablanca",
+        "Agadir",
+        "Tenerife",
+        "Barcelona"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Ultimate ocean crossing combining Azores and North African ports"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Wonder of the Seas",
+      "capacity": 5734,
+      "year": 2022,
+      "best_for": "Families and multi-generational groups",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Oasis of the Seas",
+      "capacity": 5594,
+      "year": 2009,
+      "best_for": "Adventure seekers and entertainment lovers",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and select specialty venues",
+    "Windjammer buffet and grab-and-go options",
+    "Broadway-style entertainment and live shows",
+    "AquaTheater and ice-skating performances",
+    "FlowRider surf simulator and rock climbing wall",
+    "Kids clubs for ages 3-17",
+    "Fitness centre access",
+    "Pool and hot tub use",
+    "Basic Wi-Fi for messaging"
+  ],
+  "whats_extra": [
+    "Beverage packages (alcoholic and specialty coffees)",
+    "Specialty dining restaurants",
+    "Shore excursions and port activities",
+    "Spa treatments and salon services",
+    "Casino gambling",
+    "Premium Wi-Fi packages",
+    "Photography services",
+    "Laundry and dry cleaning",
+    "Gratuities (recommended €14-18 per person per day)",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal cabin selection and early booking discounts. Royal Caribbean typically releases Africa & Canaries itineraries 18 months in advance. Wave season (January-March) offers the strongest promotions with reduced deposits and onboard credit. Consider repositioning cruises for exceptional value. Join Crown & Anchor Society for member-exclusive rates. Balcony cabins sell fastest on these routes due to scenic Atlantic sailing.",
+  "top_ports": [
+    {
+      "port": "Casablanca, Morocco",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Hassan II Mosque guided tour (€89)",
+      "tip": "Dress modestly; shoulders and knees must be covered"
+    },
+    {
+      "port": "Tenerife, Canary Islands",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Teide National Park volcano excursion (€119)",
+      "tip": "Book morning departures for clearer mountain views"
+    },
+    {
+      "port": "Agadir, Morocco",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Souss-Massa National Park 4x4 safari (€109)",
+      "tip": "Negotiate firmly in the souk; start at 40% of asking price"
+    },
+    {
+      "port": "Gran Canaria, Canary Islands",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Maspalomas dunes and Puerto de Mogán (€79)",
+      "tip": "The southern beaches have the warmest winter water temperatures"
+    },
+    {
+      "port": "Lanzarote, Canary Islands",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Timanfaya National Park and wine tour (€99)",
+      "tip": "César Manrique Foundation closes early; prioritize morning visits"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Africa & Canaries cruise cost?",
+      "answer": "Royal Caribbean Africa & Canaries cruises typically range from €699 to €2,499 per person depending on season, duration, and cabin category. Inside cabins start around €699 in low season, rising to €899 during peak winter months. Balcony accommodations, highly recommended for Atlantic crossings and scenic Canary approaches, run €999-€1,299. Suite experiences begin at €1,499 and can exceed €2,500 for Grand Suite and above. Transatlantic repositioning cruises often provide exceptional value at €100-€150 per night. Prices exclude gratuities, beverages, and excursions, which add approximately €400-€600 per person for a week-long voyage."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Africa & Canaries?",
+      "answer": "Royal Caribbean primarily deploys its Oasis-class mega-ships on Africa & Canaries routes, specifically Wonder of the Seas and Oasis of the Seas. These vessels, accommodating 5,500-5,700 guests, are uniquely suited for the extended sea days common on Atlantic itineraries. Wonder of the Seas, the newest at 2022 launch, features the expanded Suite Neighborhood and eight distinct onboard districts. Both ships offer the full Royal Caribbean experience including the Ultimate Abyss slide, zip line, and Central Park open-air garden. Smaller vessels occasionally substitute during repositioning periods. All ships serving this route are amplified with updated amenities and dining concepts."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "The optimal period for Royal Caribbean Africa & Canaries cruises spans December through February, when Northern Europe experiences winter and the Canary Islands maintain pleasant 20-24°C temperatures. This peak season coincides with the cruise line's strongest itinerary offerings and fullest entertainment schedules. November and March provide excellent shoulder-season value with mild weather and fewer crowds. Avoid June through September when Atlantic crossings can encounter rougher seas and Moroccan ports become uncomfortably hot, often exceeding 35°C. Canary Islands destinations remain temperate year-round, making them reliable ports even during winter months when other Mediterranean routes become less appealing."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean Africa & Canaries cruises include accommodation, all main dining room meals, Windjammer buffet, select casual dining venues, and comprehensive entertainment including Broadway productions, AquaTheater shows, and ice-skating performances. Adventure activities like the FlowRider surf simulator, rock climbing wall, and mini-golf are complimentary. Kids clubs for ages 3-17 operate throughout the voyage. Basic Wi-Fi for messaging apps is now included fleetwide. Pool towels, fitness centre access, and most onboard activities carry no surcharge. Not included are alcoholic beverages, specialty dining, shore excursions, spa services, casino play, premium internet, and gratuities. A drinks package runs approximately €65-€75 daily; specialty dining packages offer savings for multiple restaurant visits."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean Africa & Canaries itineraries feature a compelling mix of Moroccan cultural immersion and Canary Islands natural beauty. Moroccan calls typically include Casablanca, gateway to Marrakech and home to the magnificent Hassan II Mosque, and Agadir, known for its modern beach resort atmosphere and traditional souk. Canary Islands ports span Tenerife with Mount Teide, Spain's highest peak; Gran Canaria offering diverse microclimates from Maspalomas dunes to lush interior valleys; and Lanzarote's otherworldly volcanic landscapes shaped by César Manrique's artistic vision. Some itineraries incorporate Lisbon for Portuguese culture or Ponta Delgada in the Azores for Atlantic island exploration. Extended stays in Moroccan ports enable overnight excursions to Marrakech or Fez."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Royal Caribbean Africa & Canaries cruises 9-12 months in advance for optimal results, particularly for balcony cabins and holiday departures. The cruise line releases these itineraries approximately 18 months ahead, with early booking discounts typically appearing 12-15 months out. Wave season from January through March historically offers the year's strongest promotions including reduced deposits, onboard credit up to €300, and complimentary beverage packages for higher cabin categories. Suite accommodations on these routes sell 8-10 months ahead. Last-minute deals are rare given the route's popularity with European winter sun seekers. Repositioning cruises between Caribbean and Mediterranean seasons occasionally yield exceptional value 4-6 months prior to sailing."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean Africa & Canaries cruises excel for families with children aged 6-17, though the destination complexity rewards slightly older kids capable of appreciating cultural differences. The ships' Adventure Ocean program operates sea days with structured activities from science experiments to talent shows, while port days offer family-friendly excursions including camel rides in Gran Canaria and beach breaks on Tenerife. Teen spaces provide age-appropriate independence. Moroccan ports require more preparation than typical Caribbean stops; Royal Caribbean's organized excursions ensure appropriate guidance and cultural context. The extended sea days common on these routes maximize onboard facility usage. Connecting cabins and family suites accommodate larger groups, though early booking is essential for these limited configurations."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's cancellation policy for Africa & Canaries cruises imposes penalties escalating by departure proximity. Cancellations 90+ days before sailing incur no penalty for most fare types. Between 89-75 days, deposit is forfeited. From 74-61 days, 25% of total fare is retained. Between 60-31 days, penalty increases to 50%. Final month cancellations cost 75%, and within 14 days, full fare is forfeited. Non-refundable deposit fares offer lower initial pricing but sacrifice flexibility with penalties beginning at booking. Travel insurance, available through Royal Caribbean or independent providers, is strongly recommended given the significant investment and potential for disruption on longer itineraries. Cancel for any reason upgrades provide maximum protection at 75% future cruise credit."
+    }
+  ]
+}

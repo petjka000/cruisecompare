@@ -1,0 +1,197 @@
+{
+  "title": "MSC Cruises Alaska Cruises 2026",
+  "intro": "MSC Cruises brings its distinctive European flair to Alaska's wild frontier, combining Italian hospitality with breathtaking glacier viewing and wildlife encounters. The Swiss-based cruise line offers exceptional value on Alaska itineraries, featuring spacious ships with Mediterranean-inspired design, world-class entertainment, and diverse dining options. MSC's Alaska program focuses on the Inside Passage's most spectacular destinations, from Hubbard Glacier to Tracy Arm Fjord. Passengers enjoy the line's signature features including the Aurea Spa wellness experience, family-friendly amenities, and international crew service. With competitive pricing and inclusive packages, MSC attracts both first-time Alaska cruisers and seasoned explorers seeking a fresh perspective on America's Last Frontier. The line emphasizes sustainable cruising practices, essential for preserving Alaska's pristine wilderness for future generations.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "ships_on_route": [
+      "MSC Virtuosa",
+      "MSC Poesia"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Vancouver",
+      "San Francisco"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Early Season (May)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1699
+    },
+    {
+      "season": "Peak Summer (June-August)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Late Season (September)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-Night Alaska Discovery",
+      "duration_nights": 7,
+      "ports": [
+        "Seattle",
+        "Juneau",
+        "Skagway",
+        "Ketchikan",
+        "Victoria"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Glacier Bay scenic cruising with expert naturalist commentary"
+    },
+    {
+      "name": "10-Night Alaska & British Columbia",
+      "duration_nights": 10,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Icy Strait Point",
+        "Sitka",
+        "Victoria",
+        "Seattle"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Extended wilderness exploration with remote port access"
+    },
+    {
+      "name": "14-Night Alaska Grand Adventure",
+      "duration_nights": 14,
+      "ports": [
+        "San Francisco",
+        "Astoria",
+        "Seattle",
+        "Juneau",
+        "Glacier Bay",
+        "Skagway",
+        "Hubbard Glacier",
+        "Ketchikan",
+        "Victoria",
+        "San Francisco"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Round-trip California departure with comprehensive Inside Passage coverage"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "MSC Virtuosa",
+      "capacity": 6334,
+      "year": 2021,
+      "best_for": "Families and couples seeking modern amenities",
+      "price_from_eur": 799
+    },
+    {
+      "name": "MSC Poesia",
+      "capacity": 2550,
+      "year": 2008,
+      "best_for": "Intimate atmosphere and traditional cruising",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen cabin category",
+    "Main dining room meals and buffet",
+    "Entertainment shows and live music",
+    "Kids club and family activities",
+    "Fitness center access",
+    "Pool and hot tub use",
+    "Basic WiFi (social package)",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages and bar drinks",
+    "Specialty dining restaurants",
+    "Shore excursions and glacier tours",
+    "Spa treatments and salon services",
+    "Premium WiFi upgrades",
+    "Laundry and dry cleaning",
+    "Photography services",
+    "Casino gaming",
+    "Gratuities (EUR 12-14 per person per day)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts of up to 30%. MSC frequently offers 'Bella' to 'Fantastica' cabin upgrades and drink package incentives. Consider the 'Experience' packages—Bella, Fantastica, or Aurea—for bundled savings on WiFi, dining, and spa access.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Mendenhall Glacier helicopter tour (EUR 289)",
+      "tip": "Book morning excursions for clearer weather"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-5pm",
+      "top_activity": "White Pass & Yukon Railway (EUR 159)",
+      "tip": "Reserve train tickets 3+ months ahead"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Misty Fjords flightseeing (EUR 249)",
+      "tip": "Rain gear essential—wettest city in Alaska"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "7am-4pm",
+      "top_activity": "World's longest zip line (EUR 189)",
+      "tip": "Limited infrastructure—book excursions through MSC"
+    },
+    {
+      "port": "Victoria BC",
+      "time_in_port": "6pm-11:30pm",
+      "top_activity": "Butchart Gardens evening visit (EUR 79)",
+      "tip": "Evening arrival—plan for illuminated gardens"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a MSC Cruises Alaska cruise cost?",
+      "answer": "MSC Cruises Alaska voyages start from EUR 699 for interior cabins on 7-night itineraries during shoulder season. Balcony cabins range EUR 999-1,499 depending on sailing date and ship. Suite accommodations begin around EUR 1,699. Total vacation costs including flights, pre-cruise hotel, drinks packages (EUR 35-55/day), gratuities (EUR 12-14/day), and excursions (EUR 89-289 each) typically reach EUR 2,500-4,500 per person for a week. MSC's 'Experience' packages bundle amenities for savings. Children often sail free or at reduced rates during promotional periods."
+    },
+    {
+      "question": "Which MSC Cruises ships sail to Alaska?",
+      "answer": "For 2026, MSC deploys MSC Virtuosa and MSC Poesia on Alaska routes. MSC Virtuosa, launched 2021, carries 6,334 passengers with cutting-edge environmental technology, robot bartenders, and extensive family facilities. MSC Poesia, a 2,550-guest vessel from 2008, offers a more intimate, traditional cruising experience with elegant Italian styling. Both ships feature MSC's signature Aurea Spa, international dining venues, and multilingual entertainment. Ship assignments rotate seasonally, with Virtuosa handling peak summer demand and Poesia offering early and late-season departures."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "The Alaska cruise season runs May through September, with each month offering distinct advantages. May delivers snow-capped peaks, blooming wildflowers, and lowest prices—ideal for budget travelers. June and July provide longest daylight hours (up to 19 hours), peak wildlife activity including bear viewing and whale migrations, and warmest temperatures. August offers best salmon fishing and berry picking opportunities. September brings autumn foliage, northern lights possibilities, and significant savings, though weather becomes unpredictable. Glacier visibility is excellent throughout; wildlife viewing peaks July-August. Book June-July 12+ months ahead for preferred dates."
+    },
+    {
+      "question": "What is included?",
+      "answer": "MSC Alaska cruises include accommodation, main dining room and buffet meals, standard entertainment, kids club activities, fitness center, pools, and basic social WiFi. The 'Bella' experience is entry-level; upgrading to 'Fantastica' adds cabin location choice, priority boarding, and dining flexibility. 'Aurea' includes spa access, unlimited drinks in cabin mini-bar, and massage credits. Not included are alcoholic beverages, specialty restaurants, shore excursions, spa services, premium WiFi, and gratuities. MSC's 'All-In' packages can bundle drinks and WiFi for EUR 35-55 daily. Compare total costs when evaluating against premium lines."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "MSC Alaska itineraries feature key Inside Passage destinations: Juneau (state capital, Mendenhall Glacier access), Skagway (Gold Rush history, White Pass railway), Ketchikan (Totem heritage, Misty Fjords), and Icy Strait Point (Hoonah Tlingit culture, adventure activities). Some sailings include Sitka (Russian history, bear viewing) and Victoria BC (Butchart Gardens). Scenic cruising highlights Hubbard Glacier, Tracy Arm Fjord, and Glacier Bay National Park. Departure ports are Seattle, Vancouver, or San Francisco for longer itineraries. Each port offers distinct experiences from indigenous culture to wilderness adventures, with MSC providing curated excursion options at every stop."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Reserve MSC Alaska cruises 9-12 months in advance for optimal cabin selection, particularly for balcony rooms facing glaciers and peak summer dates. Early booking discounts of 20-30% are common, plus MSC's 'Kids Sail Free' promotions apply to Alaska. Last-minute deals exist within 60 days for flexible travelers, though cabin categories and dining times become limited. For 2026 sailings, book by late 2025. Group bookings (8+ cabins) require 12-18 months advance planning. Consider refundable deposits initially, then convert to non-refundable for additional savings once travel plans firm. Airfare to Seattle/Vancouver should be booked 3-6 months ahead."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "MSC Cruises excels for Alaska family travel with complimentary kids clubs divided by age (3-6, 7-11, 12-14, 15-17), featuring educational Alaska-themed activities and wildlife programs. MSC Virtuosa offers bumper cars, water slides, and LEGO partnerships. Family cabins accommodate 3-5 passengers; connecting rooms available. Children sail free on many promotions, significantly reducing costs versus competitors. Alaska's educational value complements MSC's programming—glacier talks, junior ranger activities, and wildlife spotting. However, limited Alaska-specific youth programming exists compared to Caribbean sailings. Evening entertainment suits European tastes; families may prefer earlier dining. Babysitting services incur fees."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "MSC's Alaska cancellation policy varies by fare type. 'Bella' non-refundable fares offer lowest prices but forfeit deposit upon cancellation. 'Fantastica' and 'Aurea' refundable fares permit cancellation with escalating penalties: full refund 90+ days before sailing, deposit retained 89-60 days, 50% penalty 59-30 days, 75% penalty 29-15 days, and no refund within 14 days. Travel insurance is strongly recommended given Alaska's weather disruptions and high excursion costs. MSC's 'Cruise Care' protection covers cancellation for covered reasons plus interruption, medical, and baggage. COVID-19 protocols remain flexible with rebooking options. Consider booking refundable fares initially, then converting to non-refundable for savings once plans are certain."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "title": "Viking Cruises Adriatic Cruises 2026",
+  "intro": "Viking Cruises brings its signature Scandinavian elegance to the Adriatic Sea, offering culturally immersive voyages that connect travellers with the region's rich heritage. Unlike conventional cruise lines, Viking's ocean fleet features small, all-veranda ships that access intimate ports larger vessels cannot reach. The Adriatic itinerary weaves through Croatia's Dalmatian Coast, Montenegro's fjord-like Bay of Kotor, and Italy's eastern shores. Passengers enjoy destination-focused programming including lectures from historians, cooking demonstrations featuring local cuisine, and included shore excursions at every port. The line's adults-only policy (18+) ensures a serene, sophisticated atmosphere. With extended time in port and overnight stays in cities like Venice and Split, Viking prioritises depth over breadth. The included Nordic-inspired spa, multiple dining venues with regional menus, and thoughtfully designed staterooms complement the cultural immersion that defines this premium cruise experience.",
+  "quick_facts": {
+    "price_from_eur": 3299,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Viking Star",
+      "Viking Sea",
+      "Viking Sky",
+      "Viking Jupiter"
+    ],
+    "departure_ports": [
+      "Venice",
+      "Barcelona",
+      "Rome"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 3299,
+      "balcony_eur": 4299,
+      "suite_eur": 6999
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 3899,
+      "balcony_eur": 4999,
+      "suite_eur": 8499
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 3599,
+      "balcony_eur": 4699,
+      "suite_eur": 7799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Adriatic & Aegean Sojourn",
+      "duration_nights": 14,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Katakolon",
+        "Athens",
+        "Santorini",
+        "Rhodes",
+        "Kusadasi",
+        "Istanbul"
+      ],
+      "price_from_eur": 5299,
+      "highlight": "Comprehensive exploration combining Adriatic gems with Greek islands and Turkey"
+    },
+    {
+      "name": "Venice, the Adriatic & Greece",
+      "duration_nights": 11,
+      "ports": [
+        "Venice",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Katakolon",
+        "Nafplion",
+        "Athens"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Overnight in Venice and Athens with UNESCO World Heritage sites throughout"
+    },
+    {
+      "name": "Adriatic Explorer",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Pula",
+        "Zadar",
+        "Split",
+        "Dubrovnik",
+        "Kotor",
+        "Venice"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Intensive Croatian coast focus with scenic sailing through Bay of Kotor"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Star",
+      "capacity": 930,
+      "year": 2015,
+      "best_for": "Culture-focused travellers seeking intimate luxury",
+      "price_from_eur": 3299
+    },
+    {
+      "name": "Viking Sea",
+      "capacity": 930,
+      "year": 2016,
+      "best_for": "History enthusiasts and culinary explorers",
+      "price_from_eur": 3399
+    },
+    {
+      "name": "Viking Sky",
+      "capacity": 930,
+      "year": 2017,
+      "best_for": "Wellness-oriented passengers wanting spa integration",
+      "price_from_eur": 3499
+    },
+    {
+      "name": "Viking Jupiter",
+      "capacity": 930,
+      "year": 2019,
+      "best_for": "Tech-savvy travellers appreciating modern Scandinavian design",
+      "price_from_eur": 3599
+    }
+  ],
+  "whats_included": [
+    "One complimentary shore excursion per port",
+    "Wi-Fi",
+    "Beer, wine and soft drinks with lunch and dinner",
+    "All meals at multiple restaurants including specialty dining",
+    "24-hour room service",
+    "Access to Nordic spa and fitness centre",
+    "Lectures and enrichment programming",
+    "Port taxes and fees",
+    "Airport transfers with cruise purchase"
+  ],
+  "whats_extra": [
+    "Additional excursions beyond the included option",
+    "Premium beverages outside meal times",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Photography services",
+    "Onboard shopping",
+    "Pre- and post-cruise extensions",
+    "Business class airfare upgrades"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal cabin selection and early booking discounts; shoulder season departures offer 15-20% savings over peak summer months",
+  "top_ports": [
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-6pm (often extended)",
+      "top_activity": "Walking the City Walls (€35, included in some excursions)",
+      "tip": "Arrive early morning to beat crowds and heat; cable car to Mount Srđ offers panoramic views"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Hiking to San Giovanni Fortress (free, challenging) or Bay of Kotor boat tour (€45)",
+      "tip": "Morning light illuminates the fjord best; ship sails through bay at dawn—wake early for deck views"
+    },
+    {
+      "port": "Split, Croatia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Diocletian's Palace exploration with included walking tour",
+      "tip": "Evening departures allow dinner at waterfront promenade; try local peka dishes in palace cellars"
+    },
+    {
+      "port": "Venice, Italy",
+      "time_in_port": "Overnight (embark/disembark)",
+      "top_activity": "St. Mark's Basilica and Doge's Palace with early entry (included)",
+      "tip": "Request starboard cabin for lagoon arrival views; overnight allows evening gondola experience"
+    },
+    {
+      "port": "Zadar, Croatia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sea Organ and Monument to the Sun at sunset (free)",
+      "tip": "Viking often schedules late departure specifically for sunset; Alfred Hitchcock called Zadar's sunset world's most beautiful"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Adriatic cruise cost?",
+      "answer": "Viking Adriatic cruises range from €3,299 for 7-night itineraries in shoulder season to €8,499 for peak summer suite accommodations on longer voyages. The 14-night Adriatic & Aegean Sojourn typically costs €5,299-€6,999 in veranda staterooms. Unlike mainstream lines, Viking's pricing includes more amenities—shore excursions, beverages with meals, and Wi-Fi—making direct comparison misleading. Solo travellers face 25-50% supplements, though occasional no-single-supplement promotions appear. Airfare packages add €800-€1,200 from European gateways. Booking 9-12 months ahead secures early payment discounts of 10-15%, while last-minute deals are rare given Viking's consistent demand and capacity-controlled inventory."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Adriatic?",
+      "answer": "Viking's ocean fleet serves the Adriatic exclusively, with Viking Star, Viking Sea, Viking Sky, and Viking Jupiter rotating through the region. These identical 930-passenger sister ships feature all-veranda staterooms, Scandinavian design by Rottet Studio, and advanced environmental credentials including hybrid propulsion. Viking Star pioneered the ocean fleet in 2015; Viking Jupiter joined newest in 2019. All vessels offer the same amenities: infinity pool, Nordic spa with snow grotto, multiple dining venues including Manfredi's Italian and Chef's Table. Ship assignment matters less than itinerary selection, though repeat guests may prefer specific deck layouts. The small size enables access to Kotor's narrow bay and Split's historic harbour where larger ships cannot dock."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "April-May and September-October offer optimal Adriatic cruising conditions with temperatures of 18-24°C, fewer crowds, and lower prices 15-20% below peak season. Spring brings wildflowers to Dalmatian islands and comfortable hiking weather for fortress climbs; autumn offers grape harvest activities and still-warm seas for swimming. June-August delivers reliably hot weather (28-32°C) and vibrant coastal atmosphere but brings cruise congestion at Dubrovnik and Split, with some ports limiting daily visitor numbers. July specifically sees peak pricing and advance booking requirements. December cruises feature Christmas markets in Venice and atmospheric low-season exploration, though some beach-focused excursions modify operations. Avoid November and March when reduced schedules and weather unpredictability affect itineraries."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's all-inclusive approach distinguishes its Adriatic cruises significantly from competitors. Every sailing includes one shore excursion per port—typically walking tours of historic centres like Diocletian's Palace or Dubrovnik's walls—plus unlimited alternative excursions at additional cost. Beer, wine, and soft drinks flow freely during lunch and dinner service; premium packages upgrade spirits and extended hours. All dining carries no surcharge, from World Cafe buffet to Manfredi's Italian and Chef's Table tasting menus. Complimentary Wi-Fi, though bandwidth-limited, suffices for email and social sharing. The Nordic spa—sauna, steam room, snow grotto, thalassotherapy pool—requires no fee. Airport transfers, port taxes, and enrichment lectures complete the inclusive framework, leaving mainly spa treatments, premium beverages outside meals, and additional excursions as extras."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking Adriatic itineraries centre on Croatia's Dalmatian Coast with Venice as primary embarkation point. Core ports include Split, featuring Diocletian's Palace UNESCO site; Dubrovnik, the 'Pearl of the Adriatic' with its intact medieval walls; and Kotor, Montenegro's fjord-wrapped fortified town. Secondary calls reach Zadar's Roman ruins and Sea Organ, Pula's amphitheatre, and Corfu's Venetian old town. Extended voyages continue to Greek islands—Santorini, Rhodes, Crete—and Turkish ports like Kusadasi for Ephesus. Unlike mass-market lines, Viking overnight in Venice and sometimes Split or Athens, enabling evening exploration. The Bay of Kotor scenic sailing constitutes a highlight itself, with commentary from the bridge. Small ship dimensions permit docking at Split's Riva waterfront rather than distant industrial terminals."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Viking Adriatic cruises 9-12 months ahead for optimal stateroom selection, particularly for veranda categories on higher decks and sought-after departure dates in May and September. Early booking typically yields 10-15% savings through Viking's early payment discount program. Popular itineraries like the 14-night Adriatic & Aegean Sojourn sell out 6-8 months ahead for peak summer. Solo travellers should book earliest as single-occupancy cabins represent under 10% of inventory. Viking releases schedules approximately 18 months in advance; deposits are fully refundable until final payment 90 days prior. Last-minute availability rarely exceeds 5% of inventory and commands premium pricing. For 2026 departures, booking by mid-2025 ensures best cabin locations and promotional airfares from European gateways."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Cruises maintains a strict adults-only policy with minimum age 18, rendering Adriatic sailings unsuitable for families with children. This deliberate positioning creates a serene, culturally focused atmosphere where enrichment programming—history lectures, wine tastings, classical music recitals—targets mature travellers without competing demands. Multi-generational groups must wait until youngest members reach adulthood. The policy extends to all facilities; no children's programming, pools, or dining options exist. For families seeking Adriatic cruising, alternatives include MSC Cruises, Costa Cruises, or Royal Caribbean's summer Mediterranean deployments. Viking's demographic skews 55-75 with significant retired professionals, educators, and lifelong learners who appreciate extended port time, sophisticated cuisine, and conversation-focused evening entertainment rather than active nightlife."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's cancellation structure for Adriatic cruises imposes increasing penalties as departure approaches. Cancellations 120+ days prior incur no penalty with full refund; 119-90 days lose deposit amount (typically €500-€1,000 per person); 89-60 days forfeit 35% of total fare; 59-30 days sacrifice 60%; and 29 days or less results in 100% forfeiture. Travel insurance, available through Viking or independent providers, covers cancellation for covered reasons including illness and family emergency. 'Cancel For Any Reason' upgrades reimburse 75% in future cruise credit rather than cash. COVID-19 policies introduced temporary flexibility but have largely reverted to standard terms. Rebooking to alternative dates within 12 months sometimes waives penalties if requested before final payment. All changes incur €100 administrative fee per person."
+    }
+  ]
+}

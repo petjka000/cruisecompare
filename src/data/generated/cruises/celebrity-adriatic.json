@@ -1,0 +1,196 @@
+{
+  "title": "Celebrity Cruises Adriatic Cruises 2026",
+  "intro": "Celebrity Cruises elevates Adriatic exploration through its refined, modern luxury approach, combining sophisticated design with destination immersion. The premium cruise line leverages its smaller, more intimate vessels to access historic Croatian ports and hidden Montenegrin bays that larger ships cannot reach. Guests experience curated shore excursions led by local experts, from truffle hunting in Istria to private after-hours museum visits in Venice. The line's signature lawn club, spa, and globally inspired cuisine complement days spent wandering Dubrovnik's ancient walls or sailing Kotor's fjord-like bay. Celebrity's commitment to sustainable tourism aligns with the Adriatic's delicate coastal ecosystems. With extended evening stays in key ports and overnight calls in Venice, travelers enjoy authentic regional dining and cultural experiences beyond typical cruise schedules. The result balances relaxed elegance with genuine connection to one of Europe's most captivating coastlines.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Celebrity Apex",
+      "Celebrity Beyond",
+      "Celebrity Constellation"
+    ],
+    "departure_ports": [
+      "Venice",
+      "Rome (Civitavecchia)",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1299,
+      "balcony_eur": 1899,
+      "suite_eur": 3299
+    },
+    {
+      "season": "Late Summer (Sep)",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Adriatic & Italy",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Kotor",
+        "Dubrovnik",
+        "Split",
+        "Ravenna"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Overnight in Venice with evening gondola experiences"
+    },
+    {
+      "name": "9-night Adriatic & Greek Isles",
+      "duration_nights": 9,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Kotor",
+        "Corfu",
+        "Santorini",
+        "Athens"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Combines Adriatic fjords with iconic Greek islands"
+    },
+    {
+      "name": "12-night Grand Mediterranean",
+      "duration_nights": 12,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Livorno",
+        "Rome",
+        "Naples",
+        "Kotor",
+        "Dubrovnik",
+        "Venice"
+      ],
+      "price_from_eur": 1599,
+      "highlight": "Comprehensive western and eastern Mediterranean immersion"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Apex",
+      "capacity": 2900,
+      "year": 2020,
+      "best_for": "Couples and luxury seekers",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Celebrity Beyond",
+      "capacity": 3200,
+      "year": 2022,
+      "best_for": "Modern luxury enthusiasts",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Celebrity Constellation",
+      "capacity": 2170,
+      "year": 2002,
+      "best_for": "Intimate destination focus",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining and buffet restaurants",
+    "Premium coffee, tea, and juices",
+    "Evening entertainment and live music",
+    "Fitness center and pool access",
+    "Standard Wi-Fi",
+    "Room service",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Specialty dining restaurants",
+    "Alcoholic beverages and premium coffee",
+    "Shore excursions and destination experiences",
+    "Spa treatments and salon services",
+    "Premium Wi-Fi upgrades",
+    "Laundry and dry cleaning",
+    "Airport transfers and pre/post hotel stays"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection, especially for balcony staterooms facing the Adriatic coastline. Shoulder season sailings in May and September offer optimal value with pleasant weather and fewer crowds. Consider the Always Included package for bundled drinks, Wi-Fi, and tips.",
+  "top_ports": [
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "City walls walk ($35)",
+      "tip": "Arrive early at Pile Gate to avoid cruise crowds"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Fortress hike or bay kayak ($65)",
+      "tip": "Morning light best for photography of fjord walls"
+    },
+    {
+      "port": "Split, Croatia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Diocletian's Palace underground tour ($45)",
+      "tip": "Explore Marjan hill for local beaches"
+    },
+    {
+      "port": "Venice, Italy",
+      "time_in_port": "Overnight",
+      "top_activity": "Evening gondola and cicchetti tour ($120)",
+      "tip": "Book restaurants in advance; ship docks at Marghera"
+    },
+    {
+      "port": "Ravenna, Italy",
+      "time_in_port": "8am-6pm",
+      "top_activity": "UNESCO mosaics tour ($55)",
+      "tip": "Often overlooked; exceptional Byzantine art"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Adriatic cruise cost?",
+      "answer": "Adriatic cruises with Celebrity typically range from €899 for interior cabins on older ships in shoulder season to over €3,299 for suites during peak summer months. Balcony staterooms, highly recommended for scenic Adriatic sailing, start around €1,399 in spring and autumn, rising to €1,899 in July and August. The Always Included package adds approximately €40 per person daily but bundles drinks, Wi-Fi, and gratuities. Shore excursions average €65-120 per port. Total vacation costs for a couple typically fall between €2,500-5,500 depending on cabin category, season, and onboard spending preferences."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Adriatic?",
+      "answer": "Celebrity deploys its newest Edge-class ships Apex and Beyond for premium Adriatic itineraries, offering revolutionary infinite veranda staterooms and expanded outdoor spaces ideal for scenic cruising. The smaller, recently refurbished Constellation provides more intimate access to compact Croatian ports like Split and provides exceptional value. Apex and Beyond feature the Magic Carpet floating platform, Eden lounge with panoramic Adriatic views, and 29 unique dining venues. Constellation offers a more traditional luxury experience with personalized service and shallower draft advantages. Ship selection significantly impacts experience; Edge-class suits modern luxury seekers while Constellation appeals to destination-focused travelers prioritizing port time over onboard innovations."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "May, June, and September offer optimal Adriatic cruising conditions with temperatures 22-28°C, calmer seas, and manageable tourist volumes. July and August bring hottest weather and peak crowds, particularly problematic in Dubrovnik and Venice where overtourism creates congestion. April and October provide excellent value with occasional rain risk and cooler swimming conditions. September stands out for warm water temperatures ideal for swimming, reduced cruise ship traffic, and grape harvest activities in Istria and Dalmatia. Kotor's dramatic mountain scenery shows best in morning light during spring and autumn. Venice's acqua alta flooding risk increases November-March, making late spring through early autumn most reliable for this key embarkation port."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's Adriatic cruises include all meals in main dining rooms, Oceanview Café buffet, and poolside venues; premium coffees, teas, and juices; evening entertainment including production shows and live music; fitness center access and pool facilities; standard Wi-Fi; and room service. Port taxes and fees are included in advertised fares. The base fare excludes alcoholic beverages, specialty restaurants, shore excursions, spa services, and gratuities. The popular Always Included package bundles classic drinks, basic Wi-Fi, and daily tips for approximately €40 per person daily. Suite guests receive additional benefits including premium drinks, streaming Wi-Fi, and dedicated concierge service. Room service carries a small fee for late-night orders."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Adriatic itineraries center on Venice for overnight stays enabling evening exploration, with calls at Kotor's UNESCO-protected bay featuring medieval walled city and dramatic mountain backdrop. Dubrovnik offers extensive walking tours of Game of Thrones filming locations and ancient city walls. Split provides access to Diocletian's Palace and Dalmatian coast beaches. Ravenna showcases exceptional Byzantine mosaics as an alternative Italian embarkation point. Some itineraries include Bari for Puglia region exploration or Trieste for proximity to Ljubljana and Slovenian Alps. Extended itineraries combine these with Greek Isles stops including Corfu and Santorini, or western Mediterranean ports like Naples and Barcelona, creating comprehensive regional exploration opportunities."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Celebrity Adriatic cruises 9-12 months in advance for optimal stateroom selection, particularly for infinite veranda cabins on Apex and Beyond where port-side positioning matters significantly for scenic Kotor and Dubrovnik approaches. Suite categories sell out earliest, often 10-14 months ahead for peak summer departures. Shoulder season sailings in May and September can be booked 6-9 months ahead with reasonable availability. Last-minute deals occasionally appear 60-90 days before sailing for interior cabins on less popular dates. Early booking secures preferred dining times, shore excursion availability, and pre-cruise hotel packages in Venice. Deposit requirements are typically 20% of cruise fare with final payment due 90 days before departure."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity positions itself as adult-oriented premium cruising, making Adriatic itineraries best suited for families with teenage children interested in history, culture, and active exploration rather than young children requiring extensive kids' programming. The Camp at Sea program offers limited hours for ages 3-12, significantly reduced from family-focused lines. Families appreciate the sophisticated dining options, spacious staterooms accommodating third and fourth passengers, and educational shore excursions suitable for engaged teenagers. The destination itself rewards curious young travelers with accessible history at every port. Multi-generational groups find common ground in culinary experiences and scenic beauty. Families with children under 10 should consider Royal Caribbean or Norwegian for more comprehensive children's programming and water features."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity's standard cancellation policy for Adriatic cruises requires full refund if cancelled 90 days or more before sailing. Cancellations 89-60 days prior incur loss of deposit; 59-30 days lose 50% of total fare; 29-15 days lose 75%; and 14 days or less forfeit full payment. Travel insurance is strongly recommended given significant cancellation penalties closer to departure. Cancel Anytime protection, available for purchase within 14 days of initial deposit, provides future cruise credits rather than cash refunds. COVID-19 related cancellations follow separate protocols with enhanced flexibility. Name changes incur fees after final payment. Rebooking to alternative dates typically avoids penalties if completed before final payment deadline, preserving vacation investment while accommodating changing plans."
+    }
+  ]
+}

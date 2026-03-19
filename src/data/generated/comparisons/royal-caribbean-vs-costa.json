@@ -1,0 +1,173 @@
+{
+  "title": "Royal Caribbean vs Costa Cruises 2026",
+  "intro": "Royal Caribbean and Costa Cruises represent two distinct approaches to contemporary cruising, both positioned in the mid-market segment but serving different passenger demographics. Royal Caribbean dominates with innovative mega-ships featuring surf simulators, skydiving tunnels, and Broadway entertainment, appealing to adventure-seeking families and English-speaking markets. Costa Cruises, Italy's largest cruise line, offers authentic Mediterranean flair with multi-lingual environments, Italian design aesthetics, and competitive pricing that attracts European travellers. Both lines operate global itineraries with strong Caribbean and Mediterranean presence. Your choice ultimately hinges on preferred onboard atmosphere, entertainment style, and whether you prioritise cutting-edge attractions or European cultural immersion at accessible price points.",
+  "at_a_glance": {
+    "royal-caribbean": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "costa": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 649
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside cabin)",
+      "royal-caribbean": "€899",
+      "costa": "€649"
+    },
+    {
+      "category": "Ship size range",
+      "royal-caribbean": "154,000–250,800 GT",
+      "costa": "92,700–185,500 GT"
+    },
+    {
+      "category": "Passenger capacity",
+      "royal-caribbean": "4,100–7,600",
+      "costa": "2,200–6,600"
+    },
+    {
+      "category": "Primary language",
+      "royal-caribbean": "English",
+      "costa": "Italian/English/Multi-lingual"
+    },
+    {
+      "category": "Dining style",
+      "royal-caribbean": "Flexible + Traditional",
+      "costa": "Traditional assigned seating"
+    },
+    {
+      "category": "Speciality dining cost",
+      "royal-caribbean": "€35–€65",
+      "costa": "€25–€45"
+    },
+    {
+      "category": "Drinks package (7 nights)",
+      "royal-caribbean": "€385–€455",
+      "costa": "€189–€259"
+    },
+    {
+      "category": "Gratuities (daily)",
+      "royal-caribbean": "€16–€18",
+      "costa": "€11–€13"
+    },
+    {
+      "category": "Kids clubs",
+      "royal-caribbean": "Adventure Ocean (6 months–17 years)",
+      "costa": "Squok Club (3–17 years)"
+    },
+    {
+      "category": "Unique attractions",
+      "royal-caribbean": "FlowRider, iFLY, Ultimate Abyss",
+      "costa": "Samsara Spa, Italian piazza design"
+    },
+    {
+      "category": "Evening entertainment",
+      "royal-caribbean": "Broadway shows, AquaTheatre",
+      "costa": "European-style revues, live music"
+    },
+    {
+      "category": "Dress code",
+      "royal-caribbean": "Resort casual + 2 formal nights",
+      "costa": "Casual + 1 gala night"
+    },
+    {
+      "category": "Wi-Fi (7 nights)",
+      "royal-caribbean": "€140–€210",
+      "costa": "€70–€140"
+    },
+    {
+      "category": "Home ports Europe",
+      "royal-caribbean": "Southampton, Barcelona, Rome",
+      "costa": "Savona, Barcelona, Marseille, Rome"
+    },
+    {
+      "category": "Loyalty programme",
+      "royal-caribbean": "Crown & Anchor Society",
+      "costa": "CostaClub"
+    }
+  ],
+  "choose_a_if": [
+    "You want cutting-edge ship attractions like surf simulators, skydiving tunnels, and record-breaking water slides",
+    "You prefer English-speaking environments with Broadway-calibre entertainment and North American service standards",
+    "You're travelling with children who need extensive age-appropriate facilities and the best kids' clubs at sea",
+    "You value flexible dining options and don't want fixed meal times",
+    "You're seeking Caribbean itineraries with private island destinations like Perfect Day at CocoCay"
+  ],
+  "choose_b_if": [
+    "You prioritise lower total cruise costs with more inclusive European pricing structures",
+    "You enjoy Italian culture, Mediterranean cuisine, and European-style social atmosphere",
+    "You're comfortable with multi-lingual announcements and diverse international passenger mix",
+    "You prefer traditional cruise experiences with assigned dining and elegant but relaxed dress codes",
+    "You want authentic Italian design, coffee culture, and spa-focused wellness programmes"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with young children",
+      "winner": "Royal Caribbean",
+      "reason": "Adventure Ocean offers superior facilities from 6 months, plus DreamWorks characters, water parks, and teen zones that outperform Costa's more limited Squok Club programme."
+    },
+    {
+      "type": "Families with teenagers",
+      "winner": "Royal Caribbean",
+      "reason": "Teen clubs, FlowRider, zip lines, and social spaces designed specifically for adolescents create unmatched engagement that Costa cannot replicate."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Costa Cruises",
+      "reason": "Intimate Italian atmosphere, Samsara Spa staterooms, and sophisticated adult spaces at lower prices suit couples prioritising relaxation over adrenaline."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Royal Caribbean",
+      "reason": "Studio cabins, single supplement reductions, and robust solo traveller meetups provide better infrastructure for independent explorers."
+    },
+    {
+      "type": "Active seniors",
+      "winner": "Costa Cruises",
+      "reason": "Gentler pacing, excellent value, European cultural immersion, and less physically demanding entertainment match mature travellers' preferences."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Costa Cruises",
+      "reason": "Lower financial risk, inclusive European pricing, and authentic cruise traditions provide ideal introduction without overwhelming complexity or cost."
+    },
+    {
+      "type": "Adventure seekers",
+      "winner": "Royal Caribbean",
+      "reason": "Unmatched innovation including skydiving simulators, rock climbing, surf machines, and North Star observation capsules deliver genuine thrills."
+    },
+    {
+      "type": "Food enthusiasts",
+      "winner": "Costa Cruises",
+      "reason": "Authentic Italian cuisine, regional specialities, and genuine Mediterranean flavours surpass Royal Caribbean's mass-market American-influenced offerings."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Costa Cruises consistently delivers superior base value with 7-night Mediterranean itineraries starting at €649 inside cabins versus Royal Caribbean's €899 entry point. Costa's lower drinks packages (€189–€259 versus €385–€455), reduced gratuities, and frequent Italian-inclusive promotions further widen the gap. However, Royal Caribbean's premium pricing includes superior entertainment infrastructure, newer ship hardware, and private destination access that may justify costs for experience-focused travellers. Value assessment depends on priorities: Costa wins for budget-conscious Europeans seeking traditional cruising, while Royal Caribbean offers better experiential return for families prioritising activities over base price."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Royal Caribbean decisively wins for families through comprehensive infrastructure investment. Adventure Ocean accommodates children from 6 months with professionally staffed nurseries, while Costa's Squok Club starts at age 3 with more limited hours. Royal Caribbean's ships feature dedicated teen zones, water parks, character experiences, and family stateroom configurations unavailable on Costa vessels. The entertainment gap is equally pronounced: Broadway shows, ice skating performances, and AquaTheatre productions engage multiple generations simultaneously. Costa offers competent family programming but lacks scale, innovation, and the 'wow factor' that transforms children's cruise experiences. For multi-generational groups, Royal Caribbean's diverse attraction portfolio ensures every age finds compelling activities."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Costa Cruises maintains consistent 25–35% price advantages across comparable itineraries and cabin categories. A 7-night Western Mediterranean cruise in June 2026 costs approximately €649 inside / €849 balcony on Costa Smeralda versus €899 inside / €1,299 balcony on Symphony of the Seas. This differential extends to onboard spending: Costa's all-inclusive drinks packages run €189–€259 versus Royal Caribbean's €385–€455, while speciality dining averages €15–€20 less per person. Royal Caribbean's dynamic pricing and North American market focus create greater volatility, with peak Caribbean weeks exceeding €2,000 for balcony cabins. Costa's European pricing model includes more services in base fares, reducing surprise expenses."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Costa Cruises delivers superior culinary authenticity for European palates, with genuine Italian regional cuisine, proper espresso culture, and Mediterranean ingredients sourced through Italian supply chains. Main dining room menus rotate extensively, featuring risottos, fresh pasta, and seafood preparations that reflect culinary heritage. Royal Caribbean's food programme prioritises volume consistency over distinction, offering competent but unremarkable international cuisine designed for broad North American appeal. Where Royal Caribbean excels is speciality dining diversity: Izumi Hibachi, Jamie's Italian, and 150 Central Park provide elevated experiences absent from Costa's more limited premium options. For main dining satisfaction, Costa prevails; for variety and upscale alternatives, Royal Caribbean offers more choice."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Costa Cruises provides gentler entry points for cruise novices through lower financial commitment, traditional structures that clarify expectations, and European cultural familiarity. Fixed dining assignments eliminate decision fatigue, while inclusive port taxes and service charges reduce budgeting complexity. The multi-lingual environment also benefits nervous first-timers who may feel isolated in exclusively English-speaking settings. Royal Caribbean's scale and innovation can overwhelm newcomers: massive ships require significant navigation, flexible dining demands advance planning, and premium attractions carry supplementary costs that inflate budgets unexpectedly. However, Royal Caribbean's superior service training and guest satisfaction infrastructure may reassure anxious travellers. Costa suits experimenters; Royal Caribbean rewards those seeking definitive cruise experiences."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "The fundamental divergence lies in cultural orientation and scale philosophy. Royal Caribbean builds entertainment ecosystems where ships are destinations themselves, investing billions in architectural spectacle, patented attractions, and North American hospitality standards. Their vessels function as floating resorts prioritising activity density and technological innovation. Costa Cruises preserves maritime tradition within contemporary frameworks, emphasising Italian aesthetic sensibility, social dining culture, and destination-focused itineraries. Their ships feel like elegant hotels rather than amusement parks. Operational differences include language (English-dominant versus multi-lingual), dining flexibility (My Time versus fixed seating), and pricing transparency (American à-la-carte versus European inclusive models). These distinctions reflect deeper divergences: Royal Caribbean sells experiences, Costa sells journeys."
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "title": "Disney Cruise Line Norwegian Fjords Cruises 2026",
+  "intro": "Disney Cruise Line brings its signature enchantment to the Norwegian Fjords, combining breathtaking Nordic landscapes with world-class family entertainment. Sail through UNESCO-protected Geirangerfjord and Sognefjord aboard ships designed for multigenerational magic, where Mickey meets mountains. Disney's Norwegian Fjords itineraries blend adrenaline-pumping shore excursions—glacier hiking, RIB boat safaris, and Viking history tours—with onboard Broadway-caliber shows, character meet-and-greets, and adult-exclusive dining at Palo and Remy. The line's rotational dining system ensures families experience diverse cuisine while never repeating restaurants. With Norwegian summer daylight stretching past 10pm, deck parties extend longer, and fjord photography opportunities abound. Disney's dedicated kids' clubs, from the Oceaneer Club to Edge and Vibe, allow parents to enjoy romantic fjord-view balconies while children engage in supervised Frozen-themed activities. Staterooms feature split bathrooms—a game-changer for families—and Disney's renowned service elevates every glacier encounter.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "7-10 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug"
+    ],
+    "ships_on_route": [
+      "Disney Dream",
+      "Disney Fantasy"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Copenhagen"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Early Season (May)",
+      "inside_eur": 1899,
+      "balcony_eur": 2499,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Peak Summer (Jun-Aug)",
+      "inside_eur": 2299,
+      "balcony_eur": 3099,
+      "suite_eur": 5899
+    },
+    {
+      "season": "Late Season (Sep)",
+      "inside_eur": 1999,
+      "balcony_eur": 2699,
+      "suite_eur": 5199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Norwegian Fjords from Southampton",
+      "duration_nights": 7,
+      "ports": [
+        "Southampton",
+        "Stavanger",
+        "Alesund",
+        "Geiranger",
+        "Bergen",
+        "Southampton"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Sail deep into Geirangerfjord with waterfall photography from deck"
+    },
+    {
+      "name": "10-night Norway & Iceland Adventure",
+      "duration_nights": 10,
+      "ports": [
+        "Copenhagen",
+        "Stavanger",
+        "Bergen",
+        "Geiranger",
+        "Akureyri",
+        "Reykjavik",
+        "Copenhagen"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Combine fjords with Icelandic geothermal wonders"
+    },
+    {
+      "name": "8-night Fjords & Scottish Highlands",
+      "duration_nights": 8,
+      "ports": [
+        "Southampton",
+        "Stavanger",
+        "Olden",
+        "Invergordon",
+        "Edinburgh",
+        "Southampton"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Disney-exclusive shore excursion to Loch Ness with themed storytelling"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Dream",
+      "capacity": 4000,
+      "year": 2011,
+      "best_for": "Families with young children",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Disney Fantasy",
+      "capacity": 4000,
+      "year": 2012,
+      "best_for": "Families with teens and multigenerational groups",
+      "price_from_eur": 1999
+    }
+  ],
+  "whats_included": [
+    "Rotational dining at 3 themed main restaurants",
+    "All non-alcoholic beverages and standard coffee",
+    "Broadway-style Disney shows and deck parties",
+    "Character meet-and-greets and photo opportunities",
+    "Youth clubs for ages 3-17 (Oceaneer Club, Edge, Vibe)",
+    "Pool access and AquaDuck water coaster",
+    "24-hour room service",
+    "Port adventures booking assistance",
+    "Fitness center access"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty coffees",
+    "Palo and Remy adult-exclusive dining ($45-125/person)",
+    "Port adventures and shore excursions ($89-489/person)",
+    "Bibbidi Bobbidi Boutique transformations ($99-599)",
+    "Spa treatments at Senses Spa",
+    "Wi-Fi packages ($12-30/day)",
+    "Nursery care for under-3s ($9/hour)",
+    "Onboard photography packages",
+    "Gratuities ($14.50/person/night suggested)"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for summer sailings; Disney releases Norwegian Fjords itineraries 15 months in advance. European residents should monitor DisneyCruise.co.uk for regional promotions. Concierge staterooms and suites sell out 10+ months ahead. Consider repositioning cruises in May/September for 20-30% savings. Disney's placeholder booking system allows fare adjustments if prices drop before final payment.",
+  "top_ports": [
+    {
+      "port": "Geiranger",
+      "time_in_port": "7am-4pm",
+      "top_activity": "RIB boat fjord safari to Seven Sisters Waterfall (€189)",
+      "tip": "Book port adventure early—only 200 guests per sailing"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Fløibanen funicular and Bryggen UNESCO walk (€79)",
+      "tip": "Walk to funicular independently to save €40 vs ship excursion"
+    },
+    {
+      "port": "Stavanger",
+      "time_in_port": "9am-5pm",
+      "top_activity": "Pulpit Rock helicopter tour (€489) or Lysefjord cruise (€129)",
+      "tip": "Helicopter tours weather-dependent; have backup plan"
+    },
+    {
+      "port": "Ålesund",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Art Nouveau walking tour and Mount Aksla viewpoint (€69)",
+      "tip": "Morning light best for photography from Aksla"
+    },
+    {
+      "port": "Olden",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Briksdal Glacier hiking with troll car (€159)",
+      "tip": "Wear layers—glacier area 10°C cooler than port"
+    },
+    {
+      "port": "Invergordon (Loch Ness)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Disney-exclusive Nessie hunt with storytelling guide (€129)",
+      "tip": "Book through Disney for guaranteed child-friendly narrative"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Norwegian Fjords cruise cost?",
+      "answer": "Disney Norwegian Fjords cruises range from €1,899 for an inside stateroom in early May to €5,899 for concierge suites during peak July sailings. Balcony staterooms, essential for fjord viewing, start at €2,499. Families should budget €3,500-€6,000 total including port adventures, gratuities, and extras. Disney's pricing includes more than premium lines—non-alcoholic drinks, room service, and youth programming—reducing onboard spend. European residents occasionally access resident rates 10-15% below standard fares. Final payment due 90 days before sailing; deposit typically 20%."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Norwegian Fjords?",
+      "answer": "Disney deploys Disney Dream and Disney Fantasy to Norwegian Fjords from May through September 2026. Disney Dream operates 7-night Southampton round-trips, while Disney Fantasy offers 10-night Copenhagen-based itineraries incorporating Iceland. Both 4,000-passenger ships feature the AquaDuck water coaster, Frozen-themed dining at Arendelle: A Frozen Dining Adventure, and extensive kids' facilities. Neither ship has been amplified, maintaining classic Disney design. Disney Wish and Disney Treasure remain in Caribbean/Bahamas deployment; Disney Magic and Disney Wonder focus on Mediterranean and Alaska respectively."
+    },
+    {
+      "question": "When is best time to cruise Norwegian Fjords?",
+      "answer": "June through August offers optimal conditions: midnight sun extends photography hours, waterfalls peak from snowmelt, and temperatures reach 15-20°C. July is warmest but busiest and priciest. May provides 20-30% savings with occasional snow-capped mountains, though some hiking trails remain closed. September brings autumn colors and Northern Lights possibilities, but daylight shrinks to 12 hours. Disney schedules no October-April sailings due to harsh weather and limited daylight. For families, late June-early July balances weather, crowds, and school holidays."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney's Norwegian Fjords fares include rotational dining across three themed restaurants, all non-alcoholic beverages, Broadway-caliber shows, character experiences, and comprehensive youth programming from 3-17. Room service is complimentary 24/7. Unique inclusions: soda fountain access, soft-serve ice cream, and Disney movie premieres same-day as land release. Not included: alcohol, specialty coffee, Palo/Remy adult dining, spa, Wi-Fi, and port adventures. Gratuities add €14.50/person/night. Unlike competitors, Disney does not push beverage packages—families appreciate predictable costs."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Norwegian Fjords itineraries feature Geiranger (Seven Sisters Waterfall), Bergen (Bryggen Hanseatic Wharf), Stavanger (Pulpit Rock access), Ålesund (Art Nouveau architecture), and Olden (Briksdal Glacier). Extended 10-night cruises add Akureyri and Reykjavik, Iceland. Southampton and Copenhagen serve as primary embarkation points. Disney emphasizes scenic cruising through narrow fjord arms—Geirangerfjord navigation takes 3 hours with commentary. Port times average 8-10 hours, allowing independent exploration or structured adventures. Scottish Highlands extensions include Invergordon and Edinburgh."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Disney Norwegian Fjords 12-18 months ahead for optimal stateroom selection, particularly concierge categories and connecting rooms for extended families. Disney releases itineraries 15 months in advance; European school holiday sailings (late July-August) sell out first. Deposit is 20% with final payment 90 days pre-cruise. Disney's flexible booking policy allows modifications without penalty until final payment. For last-minute travelers, 60-90 day cancellations occasionally release inventory, though balcony and above categories rarely appear. Placeholder bookings made onboard previous cruises secure priority booking windows."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney invented family cruising, and Norwegian Fjords sailings excel for multigenerational groups. Youth clubs operate 9am-midnight with Frozen-themed programming in Arendelle. Edge (11-14) and Vibe (14-17) provide teen autonomy. Family shore adventures accommodate strollers; infant equipment rentals available. Split bathrooms in most staterooms ease morning routines. Adult-exclusive Palo and Remy offer parents respite while kids dine with counselors. Disney's rotational dining ensures children experience varied environments nightly. However, luxury-focused couples may find character encounters and pool noise excessive—concierge staterooms provide sanctuary."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney's Norwegian Fjords cancellation policy: full refund minus deposit if cancelled 120+ days before sailing; 50% fare loss 119-90 days; 75% loss 89-45 days; 100% loss within 44 days. Deposit is refundable until final payment for most fare types. Travel insurance, strongly recommended for European sailings, covers medical evacuation from remote fjord locations and weather-related missed connections. Disney offers Cruise Protection Plan at €89-€149/person. COVID-era flexibility has ended—standard penalties now apply. Rebooking to future sailings within 24 months sometimes preserves value minus administrative fees."
+    }
+  ]
+}

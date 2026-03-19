@@ -1,0 +1,195 @@
+{
+  "title": "Celebrity Cruises Arabian Gulf Cruises 2026",
+  "intro": "Celebrity Cruises elevates Arabian Gulf exploration through its refined, premium-luxury lens, combining sophisticated design with immersive cultural discovery. Sailing from Dubai and Abu Dhabi, these voyages traverse a landscape where ultramodern skylines meet ancient Bedouin heritage. Celebrity's modern, resort-style ships provide an elegant counterpoint to the region's dramatic desert-meets-sea geography. Passengers experience overnight stays in Doha and extended port calls that enable deep exploration of souks, mosques, and UNESCO sites. The line's signature amenities—farm-to-table dining, The Retreat exclusive suite complex, and globally inspired spa treatments—resonate particularly well with the Gulf's emerging luxury travel market. With Arabian Gulf cruises gaining rapid popularity among European travellers seeking winter sun alternatives to the Caribbean, Celebrity's positioning as a contemporary premium brand captures discerning guests who value both cultural authenticity and elevated onboard service standards.",
+  "quick_facts": {
+    "price_from_eur": 749,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Celebrity Constellation",
+      "Celebrity Apex"
+    ],
+    "departure_ports": [
+      "Dubai",
+      "Abu Dhabi"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Low (Apr-Oct)",
+      "inside_eur": 599,
+      "balcony_eur": 899,
+      "suite_eur": 1499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Arabian Gulf & Emirates",
+      "duration_nights": 7,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Doha",
+        "Bahrain",
+        "Sir Bani Yas Island",
+        "Dubai"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Overnight in Doha with evening souk exploration"
+    },
+    {
+      "name": "10-night Arabian Gulf Intensive",
+      "duration_nights": 10,
+      "ports": [
+        "Dubai",
+        "Muscat",
+        "Abu Dhabi",
+        "Doha",
+        "Bahrain",
+        "Kuwait City",
+        "Sir Bani Yas Island",
+        "Dubai"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Rare Kuwait City call with Tareq Rajab Museum visit"
+    },
+    {
+      "name": "14-night Grand Arabian Voyage",
+      "duration_nights": 14,
+      "ports": [
+        "Dubai",
+        "Muscat",
+        "Salalah",
+        "Aqaba",
+        "Suez Canal Transit",
+        "Alexandria",
+        "Dubai"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Extended Egypt exploration with overnight Alexandria"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Constellation",
+      "capacity": 2170,
+      "year": 2002,
+      "refurbished": 2020,
+      "best_for": "Cultural explorers, mature couples",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Celebrity Apex",
+      "capacity": 2918,
+      "year": 2020,
+      "best_for": "Modern luxury seekers, culinary enthusiasts",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "Main dining room breakfast, lunch and dinner",
+    "Casual dining venues including Oceanview Café and Mast Grill",
+    "Nightly entertainment and live music",
+    "Fitness centre and pool access",
+    "Kids' club programmes (ages 3-17)",
+    "Room service (complimentary breakfast, $4.95 service charge other times)",
+    "Basic Wi-Fi (stream package additional)"
+  ],
+  "whats_extra": [
+    "Classic or Premium Beverage Packages (€55-75/day)",
+    "Specialty dining restaurants (€35-55/person)",
+    "Shore excursions (€45-189/port)",
+    "Gratuities (€15.50/person/day recommended)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Photos and retail purchases",
+    "Premium Wi-Fi upgrade",
+    "The Retreat suite amenities and exclusive access"
+  ],
+  "booking_strategy": "Book 9-14 months ahead for best cabin selection and early booking savings; wave season (January-March) offers strongest promotions with onboard credit and beverage package inclusions. Consider repositioning cruises in November for 30-40% savings.",
+  "top_ports": [
+    {
+      "port": "Dubai (overnight)",
+      "time_in_port": "2pm day 1 - 6pm day 2",
+      "top_activity": "Burj Khalifa At The Top SKY (€89)",
+      "tip": "Pre-book sunset slot; metro from port saves taxi costs"
+    },
+    {
+      "port": "Abu Dhabi",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Sheikh Zayed Grand Mosque guided tour (€65)",
+      "tip": "Dress code strictly enforced; ship provides abayas"
+    },
+    {
+      "port": "Doha (overnight)",
+      "time_in_port": "1pm day 1 - 6pm day 2",
+      "top_activity": "Souq Waqif evening food walk (€75)",
+      "tip": "Friday mornings limited; plan museum visits for Saturday"
+    },
+    {
+      "port": "Muscat",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Wadi Shab and Bimmah Sinkhole (€129)",
+      "tip": "Requires moderate fitness; bring water shoes"
+    },
+    {
+      "port": "Sir Bani Yas Island",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Arabian Wildlife Park safari (€95)",
+      "tip": "Book early; limited capacity and popular with families"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Arabian Gulf cruise cost?",
+      "answer": "Celebrity Cruises Arabian Gulf voyages typically range from €749 to €2,499 per person for standard accommodations, with interior cabins starting around €749 during shoulder seasons and climbing to €899-€1,099 during peak winter months. Balcony staterooms, highly recommended for scenic Gulf cruising, generally cost €1,099-€1,399. Suite accommodations including AquaClass and The Retreat begin at €1,899 and can exceed €4,000 for extended voyages. Prices include accommodation, main dining, and entertainment, though beverages, specialty dining, and excursions add €400-€800 per person for a week. European residents frequently access promotional rates with onboard credit or beverage package inclusions during wave season booking periods."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Arabian Gulf?",
+      "answer": "Celebrity Cruises deploys primarily Celebrity Constellation and Celebrity Apex to the Arabian Gulf region, with occasional Constellation-class vessels substituting during dry dock periods. Celebrity Constellation, a Millennium-class ship refurbished in 2020, offers intimate 2,170-passenger capacity ideal for immersive cultural itineraries with multiple overnight port calls. Celebrity Apex, an Edge-class vessel launched in 2020, represents Celebrity's newest hardware in the region, featuring revolutionary Magic Carpet venue, infinite veranda staterooms, and expanded specialty dining. Both ships operate Dubai-based winter season deployments typically November through March, with occasional repositioning voyages connecting Europe to the Gulf via Suez Canal. Ship assignments are confirmed 18 months ahead; Apex commands 15-20% price premiums."
+    },
+    {
+      "question": "When is best time to cruise Arabian Gulf?",
+      "answer": "Optimal Arabian Gulf cruising occurs November through March when daytime temperatures moderate to 20-28°C, enabling comfortable exploration of outdoor attractions including desert safaris, souk wandering, and beach activities. December and January represent peak demand with European holidaymakers seeking winter sun, requiring earliest booking for preferred accommodations. February and March offer excellent value with warming seas ideal for Sir Bani Yas Island beach extensions. April and October present shoulder season opportunities with reduced pricing though midday heat limits shore excursion comfort. May through September sees minimal cruise operations due to extreme heat exceeding 40°C; remaining sailings focus on indoor-focused itineraries with heavy air conditioning reliance and reduced port times."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity Cruises Arabian Gulf fares encompass accommodation in selected stateroom category, all meals in main dining room and casual venues including Oceanview Café buffet and Mast Grill, standard coffee, tea, and juices, nightly production shows and live music, fitness centre access, and supervised children's programming. AquaClass staterooms add complimentary access to Blu specialty restaurant and Persian Garden thermal suite. The Retreat suite category includes dedicated concierge, Luminae private restaurant, and exclusive lounge access. Not included are alcoholic beverages, specialty dining, shore excursions, spa services, and gratuities. Always Included promotional fares bundle Classic Beverage Package and basic Wi-Fi; upgrading to Premium Beverage Package and stream Wi-Fi costs approximately €15 daily."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Arabian Gulf itineraries centre on Dubai and Abu Dhabi as primary embarkation points, with Dubai offering overnight stays that enable evening desert safaris and Burj Khalifa visits. Core ports include Doha, Qatar with its acclaimed Museum of Islamic Art and traditional Souq Waqif; Bahrain's capital Manama featuring UNESCO-listed Qal'at al-Bahrain fort; and Oman's Muscat with its dramatic mountain-wadi landscapes and frankincense heritage. Sir Bani Yas Island, Celebrity's private destination, provides Arabian Wildlife Park experiences and beach relaxation. Extended itineraries incorporate Kuwait City, rarely visited by mainstream lines, and repositioning voyages add Aqaba for Petra access and Red Sea transits. Port times are generally generous, with multiple overnight calls distinguishing Celebrity's regional deployment."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Celebrity Arabian Gulf cruises 9-14 months ahead for optimal stateroom selection, particularly for AquaClass and suite categories with limited inventory. Holiday period sailings (Christmas, New Year, February half-term) require 12-18 month advance booking due to strong European demand. Wave season (January-March) historically delivers strongest promotional value with Always Included fares, onboard credit, and reduced deposits. Last-minute availability occasionally surfaces 60-90 days prior for flexible travellers, though cabin location and dining preferences may be compromised. 2026 itineraries opened for booking 18 months ahead; early booking incentives typically include complimentary beverage packages worth €400+ per couple weekly. Group bookings of eight or more staterooms access additional concessions and flexible payment terms."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity Cruises Arabian Gulf voyages suit families with children aged 8 and above who appreciate cultural exploration alongside resort amenities, though the line primarily targets adult couples and multigenerational groups. Camp at Sea programming engages ages 3-17 with STEM activities, culinary workshops, and Arabian Gulf-themed educational content. The region's destination appeal—desert safaris, dhow cruises, waterparks—resonates with school-age children, while teen programmes incorporate social events and sports tournaments. Family staterooms and connecting cabins are limited; early booking essential. Sir Bani Yas Island beach day particularly appeals to families. Parents should note sophisticated dining atmospheres and evening entertainment oriented toward adult tastes; younger children may find sea days less activity-dense compared to mass-market alternatives. Family pricing promotions appear periodically."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity Cruises Arabian Gulf bookings follow standard cancellation tiers: full refund minus deposit for cancellations 90+ days prior to sailing; 50% fare retention 89-60 days; 75% retention 59-30 days; and 100% forfeiture within 29 days. Deposit requirements vary €250-€900 per person depending on voyage length and stateroom category, with suites requiring higher commitment. CruiseCare travel protection, available at 8-10% of voyage cost, enables cancellation for covered reasons with full refund including deposit, or 'Cancel Anytime' upgrade permitting 75% future cruise credit for non-covered cancellations. COVID-19 protocols have relaxed though testing requirements may reactivate based on regional health conditions; Celebrity's Cruise with Confidence programme periodically offers enhanced flexibility. Group bookings and promotional fares may carry modified terms; verify specific conditions at booking."
+    }
+  ]
+}

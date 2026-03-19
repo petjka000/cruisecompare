@@ -1,0 +1,133 @@
+{
+  "title": "Cunard Line vs P&O Cruises 2026",
+  "intro": "Cunard Line and P&O Cruises represent two distinct British cruise traditions under Carnival Corporation ownership. Cunard maintains ocean liner heritage with formal elegance, transatlantic crossings, and white-gloved service aboard Queen Mary 2, Queen Victoria, and Queen Anne. P&O Cruises offers contemporary British cruising with a more relaxed atmosphere, family-friendly facilities, and itineraries focused on the Mediterranean, Caribbean, and Norwegian fjords. Both serve primarily UK passengers with sterling pricing, but Cunard commands premium positioning through heritage and sophistication while P&O delivers accessible, value-driven holidays with broader mainstream appeal and more casual dress codes.",
+  "at_a_glance": {
+    "cunard": {
+      "price_tier": "premium-mid",
+      "avg_7night_inside_eur": 1099
+    },
+    "p-and-o": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 699
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "cunard": "€1,099",
+      "p-and-o": "€699"
+    },
+    {
+      "category": "Ships",
+      "cunard": "3 (QM2, Queen Victoria, Queen Anne)",
+      "p-and-o": "7 (Iona, Arvia, Britannia, Azura, Ventura, Arcadia, Aurora)"
+    },
+    {
+      "category": "Passengers",
+      "cunard": "2,691-3,092",
+      "p-and-o": "1,874-5,206"
+    },
+    {
+      "category": "Dress Code",
+      "cunard": "Formal/Gala evenings required",
+      "p-and-o": "Smart casual, optional formal nights"
+    },
+    {
+      "category": "Dining",
+      "cunard": "Fixed traditional with assigned seating",
+      "p-and-o": "Flexible Freedom Dining standard"
+    },
+    {
+      "category": "Gratuities",
+      "cunard": "€12.50/day (auto-added)",
+      "p-and-o": "£7-£8/day (auto-added)"
+    },
+    {
+      "category": "Children's Facilities",
+      "cunard": "Limited, ages 2-17",
+      "p-and-o": "Extensive, ages 2-17, family ships"
+    },
+    {
+      "category": "Unique Feature",
+      "cunard": "Transatlantic crossings, Cunard Grill suites",
+      "p-and-o": "British pub, Strictly Come Dancing at sea"
+    },
+    {
+      "category": "Target Market",
+      "cunard": "Affluent 55+, heritage seekers",
+      "p-and-o": "British families, couples, value seekers"
+    },
+    {
+      "category": "Home Port",
+      "cunard": "Southampton (primary)",
+      "p-and-o": "Southampton (primary)"
+    }
+  ],
+  "choose_a_if": [
+    "You value ocean liner heritage and formal elegance with white-gloved service",
+    "You desire transatlantic crossings and sophisticated enrichment programmes",
+    "You prefer assigned dining with traditional cruise rituals and gala evenings",
+    "You seek adult-oriented ambience with refined entertainment and literary programmes",
+    "You appreciate Cunard Grill suite privileges and exclusive restaurant access"
+  ],
+  "choose_b_if": [
+    "You want family-friendly ships with extensive children's facilities and waterparks",
+    "You prefer flexible dining without fixed seating times or dress code pressure",
+    "You seek better value with lower fares and inclusive drink packages available",
+    "You enjoy contemporary British entertainment like Strictly Come Dancing and comedy",
+    "You want larger resort-style ships with multiple dining venues and casual atmosphere"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "P&O Cruises",
+      "reason": "P&O's Iona and Arvia offer dedicated kids' clubs, splash parks, family cabins, and flexible dining that accommodates children's schedules better than Cunard's more formal environment."
+    },
+    {
+      "type": "Couples 55+",
+      "winner": "Cunard Line",
+      "reason": "Cunard's sophisticated ambience, literary programmes, ballroom dancing, and adult-focused spaces like the Commodore Club create an elegant retreat without family distractions."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "P&O Cruises",
+      "reason": "Lower entry prices, relaxed dress codes, and intuitive British service remove intimidation factors while delivering comprehensive cruise experiences without formal pressure."
+    },
+    {
+      "type": "Luxury seekers",
+      "winner": "Cunard Line",
+      "reason": "Queen's Grill accommodations provide butler service, exclusive restaurants, and priority embarkation that elevates the experience above P&O's standard offerings."
+    },
+    {
+      "type": "British traditionalists",
+      "winner": "Tie",
+      "reason": "Both lines serve afternoon tea, employ British crews, and cater to UK tastes; choice depends on preference for formality versus casual British holiday atmosphere."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "P&O Cruises generally offers superior value with 7-night inside cabins averaging €699 versus Cunard's €1,099. P&O includes more in base fares with regular promotional offers like onboard spending credit and free parking. However, Cunard's premium includes superior service ratios, more inclusive enrichment, and distinctive experiences like transatlantic crossings that justify higher costs for discerning travellers. Value assessment depends on priorities: P&O wins for families seeking activity-packed holidays at lower cost, while Cunard rewards those prioritising service quality and heritage over price sensitivity."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "P&O Cruises decisively wins for families. Ships Iona and Arvia feature dedicated kids' clubs for ages 2-17, splash parks, family cabins accommodating five, and flexible dining accommodating early bedtimes. Evening entertainment includes family-friendly shows and cinemas. Cunard accepts children but offers limited facilities and maintains formal evenings requiring dress codes unsuitable for young passengers. Cunard's adult-oriented programming and sophisticated atmosphere create discomfort for families, whereas P&O designs ships specifically around multi-generational British family holidays with appropriate supervision and activities."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "P&O Cruises typically costs 30-40% less than Cunard Line. A 7-night Mediterranean inside cabin averages €699 with P&O versus €1,099 with Cunard. Balcony cabins show similar gaps: approximately €999 versus €1,599. Cunard's transatlantic crossings command premiums starting at €1,299 for inside cabins. Both lines charge comparable daily gratuities, though P&O frequently offers promotional pricing including drinks packages or onboard credit. Cunard's Queen's Grill suites begin around €3,500 for 7 nights, significantly above P&O's highest accommodations. Price differentials reflect positioning rather than seasonal variation."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Cunard Line offers superior culinary execution with formal dining room service, White Star Service standards, and Queen's Grill exclusive restaurants featuring menus designed by Cunard's culinary development team. Gala evening menus maintain ocean liner traditions. P&O Cruises provides competent mass-market catering with broader choice through Freedom Dining and speciality restaurants including Indian and seafood venues, but consistency varies across its larger fleet. Cunard's afternoon tea service remains industry benchmark. Food quality at Cunard's Britannia restaurant generally exceeds P&O's main dining rooms, though P&O's speciality dining offers competitive alternatives at lower cost."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "P&O Cruises suits first-time cruisers better due to lower financial commitment, relaxed dress codes eliminating packing anxiety, and intuitive British service culture. The casual atmosphere reduces intimidation from cruise etiquette concerns. Cunard's formal requirements and traditional structures overwhelm newcomers unfamiliar with assigned seating and gala evenings. P&O's larger ships offer more onboard activities to discover cruise preferences, while flexible dining allows experimentation. First-timers appreciating Cunard typically possess prior cruise experience or specifically seek heritage sailing. P&O's comprehensive yet accessible introduction builds cruise confidence effectively."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental differences centre on formality, heritage, and target market. Cunard preserves ocean liner traditions with required formal evenings, assigned dining, and white-gloved service aboard three distinctive ships including the only true liner, Queen Mary 2. P&O operates seven contemporary cruise ships with flexible dining, casual dress codes, and family-focused facilities. Cunard attracts affluent, experienced travellers seeking sophistication; P&O serves mainstream British families and couples prioritising value and variety. Cunard offers transatlantic crossings and world voyages; P&O focuses on accessible Mediterranean and Caribbean fly-cruises. Both share British service culture but deliver fundamentally different holiday experiences."
+    }
+  ]
+}

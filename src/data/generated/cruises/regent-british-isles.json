@@ -1,0 +1,231 @@
+{
+  "title": "Regent Seven Seas British Isles Cruises 2026",
+  "intro": "Regent Seven Seas Cruises elevates British Isles exploration to unprecedented luxury, combining all-inclusive excellence with intimate access to storied destinations. Their ultra-luxury vessels navigate to Edinburgh's medieval grandeur, Liverpool's maritime heritage, and Dublin's literary charm with overnight stays in key ports. Every suite features ocean views and butler service, while unlimited shore excursions include private castle tours and exclusive whisky tastings in Scotland. The line's commitment to destination immersion means smaller ports like Kirkwall, Stornoway, and Holyhead feature prominently alongside iconic cities. Culinary programs showcase regional ingredients through Chef's Market Dinners featuring Scottish salmon and Irish artisan cheeses. With gratuities, premium beverages, Wi-Fi, and flights included, Regent removes transactional friction, allowing guests to focus entirely on the dramatic coastlines, ancient ruins, and vibrant cultures that define this remarkable region. This is British Isles cruising without compromise.",
+  "quick_facts": {
+    "price_from_eur": 5890,
+    "duration_range": "10-16 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Seven Seas Splendor",
+      "Seven Seas Grandeur",
+      "Seven Seas Navigator"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Copenhagen",
+      "Amsterdam"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May, Sep/Oct)",
+      "inside_eur": 5890,
+      "balcony_eur": 7890,
+      "suite_eur": 12490
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 7290,
+      "balcony_eur": 9890,
+      "suite_eur": 15990
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 6490,
+      "balcony_eur": 8790,
+      "suite_eur": 13990
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "British Isles Explorer",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Edinburgh",
+        "Invergordon",
+        "Kirkwall",
+        "Stornoway",
+        "Belfast",
+        "Dublin",
+        "Liverpool",
+        "Holyhead",
+        "Cork",
+        "Southampton"
+      ],
+      "price_from_eur": 6890,
+      "highlight": "Overnight in Edinburgh with exclusive Edinburgh Castle after-hours access"
+    },
+    {
+      "name": "Celtic Kingdoms",
+      "duration_nights": 10,
+      "ports": [
+        "Amsterdam",
+        "Dover",
+        "Portland",
+        "Falmouth",
+        "Cork",
+        "Belfast",
+        "Greenock",
+        "Edinburgh"
+      ],
+      "price_from_eur": 5890,
+      "highlight": "Scenic cruising past Giant's Causeway and Isle of Skye"
+    },
+    {
+      "name": "Ireland & Scotland Intensive",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Plymouth",
+        "Cork",
+        "Dublin",
+        "Belfast",
+        "Oban",
+        "Ullapool",
+        "Kirkwall",
+        "Lerwick",
+        "Edinburgh",
+        "Newcastle",
+        "Southampton"
+      ],
+      "price_from_eur": 8490,
+      "highlight": "Three Scottish island calls including rarely-visited St. Kilda (weather permitting)"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Splendor",
+      "capacity": 746,
+      "year": 2020,
+      "best_for": "Luxury connoisseurs seeking contemporary elegance",
+      "price_from_eur": 6290
+    },
+    {
+      "name": "Seven Seas Grandeur",
+      "capacity": 746,
+      "year": 2023,
+      "best_for": "Discerning travelers wanting newest luxury amenities",
+      "price_from_eur": 6890
+    },
+    {
+      "name": "Seven Seas Navigator",
+      "capacity": 490,
+      "year": 1999,
+      "best_for": "Intimate port access and personalized service",
+      "price_from_eur": 5890
+    }
+  ],
+  "whats_included": [
+    "All-suite accommodation with ocean views",
+    "Butler service in every suite",
+    "Unlimited shore excursions",
+    "Unlimited beverages including premium spirits and wines",
+    "All specialty restaurants",
+    "Gratuities",
+    "Unlimited Wi-Fi",
+    "Roundtrip flights with business class upgrades available",
+    "Ground transfers",
+    "Pre-cruise hotel night on select voyages",
+    "Valet laundry service"
+  ],
+  "whats_extra": [
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Photography purchases",
+    "Boutique shopping",
+    "Premium wines and spirits above standard selection",
+    "Private car and driver arrangements",
+    "Independent touring outside included excursions"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best suite selection and early booking savings up to 25%. Regent's value proposition strengthens closer to sailing as included flights and excursions become more expensive independently—monitor for 'SailPLUS' offers adding onboard credit or cabin upgrades. Shoulder season departures offer 15-20% savings with excellent weather and fewer crowds. Consider back-to-back itineraries for additional savings and comprehensive regional coverage. Past guests receive 5-10% savings through Seven Seas Society; deposit fully refundable until final payment 150 days prior.",
+  "top_ports": [
+    {
+      "port": "Edinburgh (Newhaven)",
+      "time_in_port": "7am-6pm+ (overnight on select voyages)",
+      "top_activity": "Private Edinburgh Castle evening tour with Regent Exclusive ($0 included)",
+      "tip": "Request port-side suite for Arthur's Seat views"
+    },
+    {
+      "port": "Dublin",
+      "time_in_port": "8am-11pm",
+      "top_activity": "Guinness Storehouse connoisseur experience with private tasting ($0 included)",
+      "tip": "Evening traditional music session in Temple Bar district"
+    },
+    {
+      "port": "Kirkwall (Orkney Islands)",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Skara Brae Neolithic village and Scapa Flow WWII sites ($0 included)",
+      "tip": "Highland Park distillery tour books quickly—reserve pre-cruise"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Titanic Belfast exclusive access with shipyard heritage walk ($0 included)",
+      "tip": "Taxi to Giant's Causeway independently if weather permits"
+    },
+    {
+      "port": "Liverpool",
+      "time_in_port": "8am-7pm",
+      "top_activity": "Beatles Story and childhood homes tour with expert guide ($0 included)",
+      "tip": "Albert Dock independent exploration for architecture enthusiasts"
+    },
+    {
+      "port": "Cork (Cobh)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Blarney Castle and Cork food market culinary experience ($0 included)",
+      "tip": "Titanic Experience at Cobh Heritage Centre worth 45 minutes"
+    },
+    {
+      "port": "Stornoway (Isle of Lewis)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Callanish Standing Stones and Harris Tweed weavers ($0 included)",
+      "tip": "Limited facilities—appreciate authentic Hebridean culture"
+    },
+    {
+      "port": "Invergordon (Inverness)",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Loch Ness cruise with Urquhart Castle and Culloden Battlefield ($0 included)",
+      "tip": "Cawdor Castle gardens exceptional in June-July"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas British Isles cruise cost?",
+      "answer": "Regent Seven Seas British Isles cruises start from approximately €5,890 per person for 10-night voyages in shoulder season, with peak summer departures ranging €7,290-€9,890 for balcony suites. The most comprehensive 14-night itineraries typically cost €8,490-€15,990 depending on suite category. Penthouse suites and above command €12,000-€25,000+. These fares include roundtrip flights from Europe, unlimited shore excursions, all beverages, gratuities, and Wi-Fi—making true comparison with premium lines requiring addition of €2,000-€3,500 in typical extras. Solo travelers face 25-75% single supplements, though occasional no-single-supplement promotions emerge."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to British Isles?",
+      "answer": "Three Regent vessels primarily serve British Isles routes. Seven Seas Grandeur (2023, 746 guests) offers newest luxury amenities including the Obsidian Lounge and Grandeur Suite collection. Seven Seas Splendor (2020, 746 guests) features the Culinary Arts Kitchen and expansive Chartreuse French restaurant. Seven Seas Navigator (490 guests) provides intimate access to smaller Scottish islands like Stornoway and Kirkwall where larger vessels cannot tender. Navigator's smaller size enables extended time in sensitive destinations. All three maintain Regent's all-suite, all-balcony standard with crew-to-guest ratios exceeding 1:1.5."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "May through September delivers optimal British Isles cruising conditions, with June and July offering longest daylight hours—up to 18 hours in Scottish ports—and most reliable weather. May and September provide 15-20% fare savings with blooming gardens or autumn colors respectively, though Atlantic swell probability increases. August brings Edinburgh Festival crowds and premium pricing. April and October voyages suit budget-conscious travelers accepting cooler temperatures and occasional rain; Regent's included excursions adapt with indoor alternatives. Heather blooms on Scottish islands peak late July-August. Northern Lights possibility exists October-March on select repositioning voyages."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent's all-inclusive formula eliminates virtually all onboard spending decisions. Every British Isles cruise includes roundtrip flights from major European gateways with complimentary business class upgrades for penthouse guests and above; all-suite accommodation with walk-in closets, marble bathrooms, and private balconies; butler service for all categories; unlimited shore excursions in every port spanning walking tours to full-day overland adventures; unlimited beverages including premium spirits, wines by the glass, and mini-bar replenishment; all specialty dining at no surcharge; gratuities throughout; unlimited Voom Wi-Fi; ground transfers; and valet laundry service. Pre-cruise hotel nights accompany select voyages."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent's British Isles itineraries emphasize depth over speed, featuring 8-10 ports in 10-14 nights with multiple Scottish island calls impossible for larger vessels. Core ports include Edinburgh (often overnight), Dublin, Belfast, Liverpool, and Cork. Scottish highlights encompass Invergordon for Loch Ness, Kirkwall for Orkney's Neolithic heritage, Stornoway for Lewis and Harris culture, Ullapool for remote northwest Highlands, and Oban for whisky distilleries. Welsh calls at Holyhead access Snowdonia. English stops typically include Southampton, Dover, Portland, Plymouth, Falmouth, and Newcastle. Select itineraries reach St. Kilda archipelago weather-permitting—one of Europe's few UNESCO dual-status sites for nature and culture."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Regent British Isles cruises 12-18 months ahead for optimal suite selection, particularly penthouse categories and above where inventory is limited. Early booking incentives typically offer 10-25% savings plus onboard credits up to €1,000. Popular summer departures, especially those featuring Edinburgh Festival timing or rare St. Kilda attempts, sell out 9-12 months advance. Past Seven Seas Society members receive priority booking windows and additional 5% savings. Final payment falls 150 days prior to sailing with fully refundable deposits until that point. Last-minute availability emerges 60-90 days out primarily in guarantee categories without specific suite assignment."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Seven Seas positions explicitly toward affluent adult travelers rather than families, with no dedicated children's facilities, youth programs, or babysitting services aboard. The British Isles destination itself—emphasizing whisky tastings, historical lectures, and extended port exploration—appeals primarily to culturally-curious adults. That said, multigenerational families with teenage children seeking educational travel find value in Regent's included excursions eliminating daily expense negotiations. The all-suite configuration accommodates third guests in select categories. Families should consider Crystal or Seabourn for similar luxury with modest youth programming, or Silversea Expeditions for active intergenerational adventure. Regent's minimum age is 6 months; no children's pricing exists."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas maintains industry-standard cancellation tiers: full refund minus administrative fee for cancellations 151+ days prior; deposit forfeiture 150-121 days; 25% penalty 120-91 days; 50% penalty 90-61 days; 75% penalty 60-31 days; and 100% forfeiture within 30 days of sailing. 'Regent Reassurance' allows one penalty-free rebooking to future voyage if cancelled 151+ days out, preserving deposit value. Travel insurance through Regent's preferred provider or independent 'cancel for any reason' policies strongly recommended given British Isles weather-related itinerary modifications. COVID-19 protocols eliminated; standard medical documentation required. Suite downgrades permitted until final payment with fare adjustment."
+    }
+  ]
+}

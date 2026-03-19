@@ -1,0 +1,190 @@
+{
+  "title": "Regent Seven Seas Antarctica Cruises 2026",
+  "intro": "Regent Seven Seas Cruises delivers the most inclusive luxury experience to Antarctica, combining all-suite accommodations with unlimited shore excursions. As the only truly all-inclusive luxury line sailing the White Continent, Regent includes roundtrip business-class air, unlimited beverages, specialty dining, gratuities, and a comprehensive excursion program in every fare. Their intimate expedition vessels navigate where larger ships cannot, offering Zodiac landings amid penguin colonies and expert-led polar photography workshops. With just 490-750 guests, expect personalized service ratios exceeding 1:1 and curated pre- and post-cruise land programs in Buenos Aires or Santiago. Regent's Antarctica voyages emphasize education through partnerships with renowned naturalists and historians, transforming each sailing into an immersive journey through Earth's last great wilderness.",
+  "quick_facts": {
+    "price_from_eur": 12499,
+    "duration_range": "11-22 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Seven Seas Navigator",
+      "Seven Seas Voyager"
+    ],
+    "departure_ports": [
+      "Buenos Aires",
+      "Santiago",
+      "Ushuaia"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Early Season (Nov)",
+      "inside_eur": 0,
+      "balcony_eur": 12499,
+      "suite_eur": 18999
+    },
+    {
+      "season": "Peak Season (Dec-Feb)",
+      "inside_eur": 0,
+      "balcony_eur": 14999,
+      "suite_eur": 22999
+    },
+    {
+      "season": "Late Season (Feb-Mar)",
+      "inside_eur": 0,
+      "balcony_eur": 13499,
+      "suite_eur": 19999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Antarctica & Chilean Fjords",
+      "duration_nights": 12,
+      "ports": [
+        "Santiago",
+        "Puerto Montt",
+        "Punta Arenas",
+        "Antarctica Peninsula",
+        "Ushuaia"
+      ],
+      "price_from_eur": 13999,
+      "highlight": "Scenic cruising through Chilean fjords with 3 days Antarctic exploration"
+    },
+    {
+      "name": "Antarctica & South Georgia",
+      "duration_nights": 18,
+      "ports": [
+        "Buenos Aires",
+        "Montevideo",
+        "Falkland Islands",
+        "South Georgia",
+        "Antarctica Peninsula",
+        "Ushuaia"
+      ],
+      "price_from_eur": 21999,
+      "highlight": "Ultimate wildlife expedition including massive king penguin colonies"
+    },
+    {
+      "name": "Antarctica Intensive",
+      "duration_nights": 11,
+      "ports": [
+        "Ushuaia",
+        "Drake Passage",
+        "Antarctica Peninsula",
+        "South Shetland Islands",
+        "Ushuaia"
+      ],
+      "price_from_eur": 12499,
+      "highlight": "Maximum time on the peninsula with daily Zodiac excursions"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Seven Seas Navigator",
+      "capacity": 490,
+      "year": 1999,
+      "refurbished": 2019,
+      "best_for": "Intimate luxury expedition with highest space ratios",
+      "price_from_eur": 12499
+    },
+    {
+      "name": "Seven Seas Voyager",
+      "capacity": 700,
+      "year": 2003,
+      "refurbished": 2020,
+      "best_for": "All-suite, all-balcony accommodations with dedicated expedition staff",
+      "price_from_eur": 13499
+    }
+  ],
+  "whats_included": [
+    "Roundtrip business-class air on intercontinental flights",
+    "Unlimited shore excursions including Zodiac landings",
+    "All-suite accommodations with private balconies",
+    "Unlimited beverages including premium spirits and wines",
+    "Specialty restaurants with no surcharge",
+    "Pre-cruise hotel night",
+    "Gratuities",
+    "WiFi",
+    "Laundry",
+    "Transfer between airport and ship"
+  ],
+  "whats_extra": [
+    "Spa treatments and salon services",
+    "Premium excursions beyond standard program",
+    "Photography equipment rental",
+    "Satellite phone calls",
+    "Boutique purchases",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best suite selection and early booking savings of up to 10%; Antarctica inventory sells out 9-12 months in advance due to limited season and small ship capacity",
+  "top_ports": [
+    {
+      "port": "Antarctica Peninsula (various landing sites)",
+      "time_in_port": "Variable (expedition schedule)",
+      "top_activity": "Zodiac landing at penguin colony (included)",
+      "tip": "Bring waterproof pants and layers for unpredictable conditions"
+    },
+    {
+      "port": "South Georgia Island",
+      "time_in_port": "1-2 days",
+      "top_activity": "St. Andrews Bay king penguin viewing (included)",
+      "tip": "Historic Shackleton grave visit at Grytviken"
+    },
+    {
+      "port": "Ushuaia, Argentina",
+      "time_in_port": "Embarkation/Disembarkation",
+      "top_activity": "Tierra del Fuego National Park excursion (included)",
+      "tip": "Arrive early for included pre-cruise hotel night"
+    },
+    {
+      "port": "Punta Arenas, Chile",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Magdalena Island Magdalena penguin reserve (included)",
+      "tip": "Strong winds common; secure hat and camera strap"
+    },
+    {
+      "port": "Falkland Islands",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Stanley town tour and wildlife sites (included)",
+      "tip": "British culture and excellent birdwatching opportunities"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Regent Seven Seas Antarctica cruise cost?",
+      "answer": "Regent Seven Seas Antarctica cruises start from approximately €12,499 per person for 11-night voyages, with longer expeditions to South Georgia reaching €21,999-€28,999. Prices reflect Regent's all-inclusive model covering business-class air, unlimited excursions, all beverages, gratuities, and pre-cruise hotel. Peak December-February departures command 15-20% premiums over early November sailings. Penthouse and higher suites range €25,000-€45,000. Regent frequently offers early booking incentives reducing fares by €500-€1,500, and past guests receive additional loyalty discounts. No interior cabins exist—minimum accommodation is a 20-square-meter Veranda Suite."
+    },
+    {
+      "question": "Which Regent Seven Seas ships sail to Antarctica?",
+      "answer": "Regent deploys Seven Seas Navigator and Seven Seas Voyager to Antarctica, both purpose-built for expedition cruising with ice-strengthened hulls and dedicated expedition teams. Navigator carries 490 guests with 325 crew, offering the most intimate experience and highest space ratios in the fleet. Voyager accommodates 700 guests with 447 crew, featuring all-suite, all-balcony accommodations. Neither ship uses traditional dining—both offer multiple complimentary specialty venues. Both vessels carry Zodiac fleets for Antarctic landings and feature dedicated lecture facilities for enrichment programming. Navigator typically handles longer South Georgia itineraries while Voyager operates shorter peninsula-focused voyages."
+    },
+    {
+      "question": "When is best time to cruise Antarctica?",
+      "answer": "The optimal Antarctica cruising window runs November through March, with distinct advantages by month. November offers pristine snow conditions, dramatic ice formations, and courting penguin behavior with fewer vessels. December-January provides 20+ hours of daylight, peak penguin chick hatching, and most stable weather—this peak period commands highest pricing and sells out first. February-March delivers best whale watching as humpback and minke whales feed aggressively, plus molting penguin colonies and softer lighting for photography. Late February offers potential southernmost navigation as ice recedes. Regent operates primarily December-February departures, with limited November and March sailings for dedicated wildlife enthusiasts."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Regent's Antarctica cruises include more than any competitor: roundtrip business-class air on intercontinental flights, one pre-cruise hotel night with transfer, all-suite accommodations with private balconies, unlimited shore excursions including all Zodiac landings and expert-led walks, unlimited beverages including premium spirits and wines, all specialty dining with no surcharges, gratuities throughout, unlimited WiFi, valet laundry, and transfer between airport and ship. Expedition gear including waterproof parka is provided. Not included are spa treatments, boutique purchases, casino, satellite phone calls, and premium excursions beyond the comprehensive standard program. This all-inclusive structure eliminates onboard spending decisions and typically represents €4,000-€6,000 in value compared to premium lines charging separately."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Regent Antarctica itineraries depart from Buenos Aires, Santiago, or Ushuaia with comprehensive South American exploration. Key ports include Ushuaia (world's southernmost city), Punta Arenas (gateway to Torres del Paine), Puerto Montt (Chilean lake district), and Montevideo. Antarctic destinations feature the Antarctic Peninsula with specific landing sites determined by ice conditions—common sites include Neko Harbour, Paradise Bay, Cuverville Island, and Port Lockroy. Extended voyages include South Georgia Island (Grytviken, St. Andrews Bay, Salisbury Plain) and the Falkland Islands (Stanley, Saunders Island). No two itineraries are identical due to expedition scheduling flexibility based on wildlife sightings and weather."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Regent Antarctica cruises 12-18 months in advance for optimal suite selection and early booking savings. The limited Antarctic season (roughly 15 departures annually across two ships) and Regent's small capacity mean popular December-January sailings sell out 9-12 months ahead. Early booking typically secures 5-10% savings plus preferred suite categories—higher suites (Master, Grand, Regent) with butler service disappear fastest. Waitlist options exist but rarely clear for Antarctica. Final payment is due 150 days prior to sailing. Regent's flexible cancellation policy allows changes until 120 days before departure with minimal penalties, though Antarctica-specific air arrangements have stricter terms."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Regent Antarctica cruises accommodate families but target sophisticated travelers rather than children specifically. Minimum age is typically 5 years, though the expedition nature and lecture programming suits ages 12+ best. No dedicated children's facilities exist—this is adult-oriented luxury with enrichment focus. Families appreciate the all-inclusive convenience, spacious suites connecting for multigenerational groups, and included excursions eliminating daily planning. Educational programming through Smithsonian and other partnerships engages curious teenagers. However, the remote destination, Zodiac landings requiring physical mobility, and lack of kid-specific entertainment make this unsuitable for young children. Family bookings represent under 10% of Antarctica passengers; most families choose Regent's Caribbean, Mediterranean, or Alaska itineraries instead."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Regent Seven Seas applies a graduated cancellation schedule: full refund minus €150 administrative fee if cancelled 151+ days before sailing; loss of deposit (typically 25%) if 150-121 days; 50% of fare if 120-91 days; 75% if 90-61 days; and 100% if 60 days or less. Antarctica-specific air arrangements (business-class flights to Buenos Aires/Santiago) carry separate penalties and may be non-refundable after ticketing. Travel insurance is strongly recommended given expedition cruising variables including weather-related itinerary changes. Regent's Cancel For Any Reason protection, available at booking, provides future cruise credits worth 90% of cancellation fees. COVID-19 protocols have modified temporarily but standard terms apply for 2026 sailings."
+    }
+  ]
+}

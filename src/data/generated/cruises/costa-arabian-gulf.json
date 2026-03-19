@@ -1,0 +1,192 @@
+{
+  "title": "Costa Cruises Arabian Gulf Cruises 2026",
+  "intro": "Costa Cruises brings Italian elegance to the Arabian Gulf with immersive itineraries departing from Dubai and Abu Dhabi. Experience the contrast between ultramodern skylines and ancient souks as you sail aboard Costa Toscana, the line's LNG-powered flagship. Costa's Arabian Gulf program emphasizes extended port stays in overnight destinations like Doha and Muscat, allowing guests to experience desert safaris, traditional dhow cruises, and glittering souk shopping after sunset. The line's Mediterranean-inspired dining and entertainment create a distinctive European atmosphere against the backdrop of Arabia's most dynamic cities. With multilingual crews and inclusive pricing structures, Costa appeals to European travellers seeking accessible luxury in this increasingly popular winter sun destination. The 2026 season features enhanced Arabian Peninsula itineraries combining Emirates glamour with Omani cultural depth.",
+  "quick_facts": {
+    "price_from_eur": 649,
+    "duration_range": "7-11 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Costa Toscana",
+      "Costa Smeralda"
+    ],
+    "departure_ports": [
+      "Dubai",
+      "Abu Dhabi"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 849,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Shoulder (Nov/Mar)",
+      "inside_eur": 649,
+      "balcony_eur": 949,
+      "suite_eur": 1499
+    },
+    {
+      "season": "Low (Apr-Oct)",
+      "inside_eur": 549,
+      "balcony_eur": 799,
+      "suite_eur": 1299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Arabian Dreams",
+      "duration_nights": 7,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Doha",
+        "Muscat",
+        "Dubai"
+      ],
+      "price_from_eur": 649,
+      "highlight": "Overnight in Doha for Qatar Grand Prix atmosphere"
+    },
+    {
+      "name": "Emirates & Oman Explorer",
+      "duration_nights": 11,
+      "ports": [
+        "Dubai",
+        "Khasab",
+        "Muscat",
+        "Abu Dhabi",
+        "Sir Bani Yas Island",
+        "Doha",
+        "Dubai"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Full day at Costa's private beach on Sir Bani Yas"
+    },
+    {
+      "name": "Pearls of Arabia",
+      "duration_nights": 7,
+      "ports": [
+        "Abu Dhabi",
+        "Dubai",
+        "Muscat",
+        "Khasab",
+        "Abu Dhabi"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Fjord cruise through Musandam Peninsula"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Costa Toscana",
+      "capacity": 5524,
+      "year": 2021,
+      "best_for": "Families & couples seeking modern Italian design",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Costa Smeralda",
+      "capacity": 5524,
+      "year": 2019,
+      "best_for": "Food enthusiasts and entertainment seekers",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Full board in main restaurants and buffet",
+    "Entertainment shows and live music",
+    "Kids' clubs (3-17 years)",
+    "Fitness centre and pools",
+    "Port taxes and service charges",
+    "Basic Wi-Fi (social package)"
+  ],
+  "whats_extra": [
+    "Beverages beyond water, coffee, tea at meals",
+    "Specialty dining restaurants",
+    "Shore excursions and desert safaris",
+    "Premium Wi-Fi streaming packages",
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Laundry and dry cleaning"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts up to 30%. Peak winter departures fill quickly, especially balcony cabins. Consider repositioning cruises in April for lowest fares.",
+  "top_ports": [
+    {
+      "port": "Dubai",
+      "time_in_port": "7am-11pm (overnight on some itineraries)",
+      "top_activity": "Burj Khalifa At The Top SKY experience (€89)",
+      "tip": "Pre-book evening fountain show dinner at Armani Ristorante"
+    },
+    {
+      "port": "Abu Dhabi",
+      "time_in_port": "8am-8pm",
+      "top_activity": "Sheikh Zayed Grand Mosque guided tour (€55)",
+      "tip": "Friday mornings restricted; plan alternative activities"
+    },
+    {
+      "port": "Doha",
+      "time_in_port": "8am-11pm (overnight)",
+      "top_activity": "Souq Waqif food tour and dhow harbour cruise (€75)",
+      "tip": "Museum of Islamic Art free entry; stunning evening photography"
+    },
+    {
+      "port": "Muscat",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Wadi Shab and Bimmah Sinkhole expedition (€89)",
+      "tip": "Wear sturdy shoes; involves 45-minute hike to hidden waterfall"
+    },
+    {
+      "port": "Khasab (Musandam)",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Dhow cruise through fjords with dolphin watching (€69)",
+      "tip": "Morning departures offer calmer waters and better wildlife sightings"
+    },
+    {
+      "port": "Sir Bani Yas Island",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Wildlife safari at Arabian Wildlife Park (€85)",
+      "tip": "Costa's private beach area includes complimentary sun loungers"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Costa Cruises Arabian Gulf cruise cost?",
+      "answer": "Costa Arabian Gulf cruises typically range from €549 to €1,899 per person for 7-11 night itineraries. Inside cabins start at €549 during low season (April-October), rising to €849 in peak winter months. Balcony cabins, essential for enjoying Gulf sunsets, run €799-€1,199. Suites with butler service command €1,299-€1,899. Prices include full board, entertainment, and port taxes. Beverage packages add €35-€55 daily. Shore excursions vary widely: city tours €45-€75, desert safaris €89-€120. Early booking discounts of 20-30% are common 9+ months ahead. Children often sail free or at heavily reduced rates in sharing cabins."
+    },
+    {
+      "question": "Which Costa Cruises ships sail to Arabian Gulf?",
+      "answer": "Costa deploys its newest LNG-powered Excellence-class vessels to the Arabian Gulf. Costa Toscana (2021) and Costa Smeralda (2019) alternate on these routes, each accommodating 5,524 guests. Both ships feature Costa's signature Italian design with extensive open-deck spaces crucial for Gulf cruising. Toscana offers refined dining including Archipelago restaurant by Michelin-starred chefs. Smeralda emphasizes entertainment with its Colosseo multi-deck atrium. These ships are specifically chosen for their air-conditioning efficiency and covered pool areas, essential for Arabian Peninsula operations. Their size allows diverse facilities while maintaining manoeuvrability for regional ports. Both underwent enhancements for Middle Eastern itineraries including Arabic-speaking staff and adapted entertainment programming."
+    },
+    {
+      "question": "When is best time to cruise Arabian Gulf?",
+      "answer": "November through March offers optimal conditions with daytime temperatures 24-28°C and minimal humidity. December and January peak season brings pleasant evenings for open-deck dining and desert excursions without extreme heat. February maintains excellent weather with occasional light rainfall. March sees warming temperatures but fewer crowds and lower prices. Avoid April through October when temperatures exceed 40°C with high humidity; Costa typically repositions ships to Mediterranean during these months. Shoulder months November and March provide best value with acceptable conditions. Consider Dubai's major events: November hosts Formula 1 Abu Dhabi Grand Prix (premium pricing), January features Dubai Shopping Festival, and February brings food festivals. Ramadan timing varies annually affecting port operations and excursion availability."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Costa's Arabian Gulf cruises include full board across main restaurants and buffet venues, featuring Italian and international cuisine with regional Arabic specialties. Entertainment encompasses theatre productions, live music, disco, and supervised kids' clubs for ages 3-17. Fitness centre, pools, and sports facilities are complimentary. Basic Wi-Fi covers social media and messaging. Port taxes and service charges are included, unlike many competitors. Accommodation with twice-daily housekeeping and standard cabin amenities is covered. What's excluded: beverages beyond water, coffee, and tea at meals; specialty restaurants; shore excursions; spa and salon services; casino gaming; premium Wi-Fi streaming; laundry; and medical centre services. Beverage packages (€35-€55/day) and excursion bundles offer savings for inclusive budgeting."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Costa's Arabian Gulf itineraries centre on Dubai and Abu Dhabi as primary homeports, with Dubai offering two cruise terminals and superior flight connections. Key ports include Doha, Qatar's capital combining traditional souqs with modern museums including the iconic Museum of Islamic Art. Muscat, Oman presents authentic Arabian culture with its waterfront Muttrah Corniche and Sultan Qaboos Grand Mosque. Khasab in Oman's Musandam Peninsula offers dramatic fjord landscapes and dolphin encounters. Sir Bani Yas Island features Costa's private beach with complimentary facilities and optional wildlife safaris. Some itineraries include Bahrain's capital Manama. Overnight stays in Doha and Dubai allow evening exploration of illuminated skylines, traditional dhow harbours, and night markets impossible on standard port calls."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Costa Arabian Gulf cruises 9-12 months ahead for optimal results, particularly for peak December-February departures when European demand peaks. Early booking typically secures 20-30% discounts and cabin selection advantages, especially for balcony categories essential for Gulf cruising. Suite inventory is limited and sells first. Last-minute deals emerge 60-90 days before sailing for flexible travellers, though cabin categories may be restricted. Families requiring connecting cabins should book earliest. Consider that Costa's sales cycle releases Arabian Gulf inventory 18 months ahead, with best prices often at initial release. Repositioning cruises in April and November offer exceptional value with 6-8 week booking windows. Group bookings of 8+ cabins require 12+ months advance planning for preferred allocations."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Costa excels for Arabian Gulf family cruising with comprehensive facilities and cultural accessibility. Squok kids' clubs operate in four age groups (3-6, 7-11, 12-14, 15-17) with dedicated spaces and programmed activities including Arabic cultural workshops. Teen zones feature gaming and social spaces. Family cabins accommodate four with partitioned sleeping areas. Pool areas include dedicated children's zones with lifeguards. Shore excursions offer family pricing and child-friendly alternatives to standard tours. Dubai and Abu Dhabi ports provide accessible family attractions: theme parks, waterparks, and beaches. Evening entertainment suits multi-generational groups. Dining includes dedicated children's menus and flexible seating. Costa's Italian heritage means relaxed attitudes toward children in restaurants. Babysitting services (€10/hour) enable adult evening excursions in overnight ports."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Costa's Arabian Gulf cancellation policy operates on a sliding scale based on departure proximity. Cancellations 90+ days before sailing forfeit deposit only (typically €250-€400 per person). 89-60 days: 30% of total fare. 59-30 days: 50% of total fare. 29-15 days: 75% of total fare. 14 days or less: 100% forfeiture. Travel insurance is strongly recommended covering cancellation for medical reasons, which Costa may consider for partial credit on case-by-case basis. Date changes permitted once without penalty more than 90 days ahead, subject to fare differences. Name changes allowed for €50 fee if cabin occupancy unchanged. COVID-19 policies have evolved; currently standard terms apply though Costa may offer flexible rebooking during significant outbreaks. Book through Costa's website or authorised agents for full consumer protection under EU Package Travel Regulations."
+    }
+  ]
+}

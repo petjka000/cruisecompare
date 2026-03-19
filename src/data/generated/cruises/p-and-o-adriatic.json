@@ -1,0 +1,207 @@
+{
+  "title": "P&O Cruises Adriatic Cruises 2026",
+  "intro": "P&O Cruises brings British elegance to the stunning Adriatic coastline, combining time-honoured maritime traditions with contemporary comfort. As the UK's favourite cruise line, P&O offers meticulously crafted itineraries through the crystal-clear waters between Italy and the Balkans, calling at UNESCO-listed gems like Dubrovnik's fortified walls, Venice's lagoon, and Split's Roman palace. Their adults-only sister ships Arcadia and Aurora provide sophisticated escapes, while family-friendly vessels like Iona and Arvia welcome multi-generational travellers. British guests appreciate the sterling-priced onboard experience, from afternoon tea to curry nights, alongside the convenience of Southampton departures eliminating fly-cruise complexities. The Adriatic season runs April through October, capturing spring wildflowers, summer festivals, and autumn wine harvests. P&O's commitment to sustainability includes shore power connectivity and reduced emissions in these sensitive marine environments, ensuring this spectacular region remains pristine for future generations of cruisers.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Iona",
+      "Arvia",
+      "Arcadia",
+      "Aurora"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Valletta",
+      "Dubrovnik"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring (Apr-May)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Summer Peak (Jun-Aug)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Autumn (Sep-Oct)",
+      "inside_eur": 999,
+      "balcony_eur": 1399,
+      "suite_eur": 2299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Adriatic Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Barcelona",
+        "Rome (Civitavecchia)",
+        "Dubrovnik",
+        "Split",
+        "Venice",
+        "Valletta"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Full circumnavigation with overnight in Venice"
+    },
+    {
+      "name": "Mediterranean & Adriatic",
+      "duration_nights": 7,
+      "ports": [
+        "Valletta",
+        "Dubrovnik",
+        "Split",
+        "Venice",
+        "Trieste"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Fly-cruise option maximising time in iconic ports"
+    },
+    {
+      "name": "Venice & Dalmatian Coast",
+      "duration_nights": 10,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Cartagena",
+        "Barcelona",
+        "Rome",
+        "Dubrovnik",
+        "Split"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Three sea days with excellent enrichment programme"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Iona",
+      "capacity": 5200,
+      "year": 2021,
+      "best_for": "Families & multi-generational groups",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Arvia",
+      "capacity": 5200,
+      "year": 2022,
+      "best_for": "Active families with SkyDome entertainment",
+      "price_from_eur": 1049
+    },
+    {
+      "name": "Arcadia",
+      "capacity": 1950,
+      "year": 2005,
+      "best_for": "Adults seeking refined, intimate atmosphere",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Aurora",
+      "capacity": 1870,
+      "year": 2000,
+      "best_for": "Traditional cruisers preferring smaller scale",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Full board dining in main restaurants",
+    "Afternoon tea daily",
+    "Evening entertainment and live shows",
+    "Children's clubs (family ships)",
+    "Gym and swimming pools",
+    "Port taxes and gratuities",
+    "Sterling pricing with no currency fluctuations",
+    "Return coach transfers (select fly-cruises)"
+  ],
+  "whats_extra": [
+    "Speciality dining restaurants",
+    "Premium drinks packages",
+    "Shore excursions and port transfers",
+    "Spa treatments and salon services",
+    "WiFi packages",
+    "Laundry services",
+    "Photography packages",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking discounts up to 25%; monitor P&O's Price Promise for fare reductions after booking; consider Select Price for cabin flexibility; late deals emerge 8-10 weeks prior for flexible travellers; loyalty Peninsular Club members access priority booking.",
+  "top_ports": [
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "7am-6pm",
+      "top_activity": "City Walls walk (€35) or Game of Thrones tour (€55)",
+      "tip": "Arrive early at Pile Gate to beat crowds; cable car offers best photos"
+    },
+    {
+      "port": "Venice",
+      "time_in_port": "8am-6pm (often overnight)",
+      "top_activity": "St Mark's Basilica & Doge's Palace guided tour (€85)",
+      "tip": "Ship overnight stays allow evening gondola rides without day-tripper rush"
+    },
+    {
+      "port": "Split",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Diocletian's Palace underground tour with wine tasting (€45)",
+      "tip": "Riva waterfront promenade ideal for people-watching over coffee"
+    },
+    {
+      "port": "Kotor (Montenegro)",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Fortress hike or speedboat to Our Lady of the Rocks (€40)",
+      "tip": "Tender port; book early excursions to secure priority disembarkation"
+    },
+    {
+      "port": "Trieste",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Ljubljana day trip with Lake Bled (€189)",
+      "tip": "Excellent alternative Venice departure port with less congestion"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a P&O Cruises Adriatic cruise cost?",
+      "answer": "P&O Adriatic cruises typically range from €899 for inside cabins on 7-night fly-cruises to €2,899 for suites on peak summer 14-night voyages. Spring and autumn shoulder seasons offer 20-30% savings. Adults-only ships Arcadia and Aurora command premiums of 15-20% for refined atmosphere. Family ships Iona and Arvia provide competitive pricing with extensive children's programming included. Select Price fares include cabin choice and flexibility, while Saver fares offer lowest rates with automatic cabin allocation. Sterling pricing eliminates currency risk for UK guests. Look for early booking discounts, past passenger reductions, and onboard spending credits of £100-200."
+    },
+    {
+      "question": "Which P&O Cruises ships sail to Adriatic?",
+      "answer": "P&O deploys four primary vessels on Adriatic routes. Iona and Arvia, the line's newest Excel-class ships (2021-2022, 5,200 passengers), offer family-friendly cruising with revolutionary SkyDome venues, extensive dining, and entertainment. These feature Adriatic fly-cruises from Valletta and Barcelona. Arcadia and Aurora provide adults-only alternatives with intimate 1,870-1,950 passenger capacity, refined atmosphere, and longer Southampton round-trip itineraries. Arcadia's smaller size enables access to boutique ports like Rovinj. Aurora's traditional styling appeals to loyal P&O enthusiasts. Ship deployment rotates seasonally, with Iona and Arvia dominating summer peak while Arcadia handles autumn wine-focused voyages."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "May, June, and September offer optimal Adriatic cruising conditions with temperatures 20-26°C, minimal rainfall, and moderate crowds. May brings wildflower displays and lower prices before peak season. June delivers long daylight hours ideal for Croatian island exploration. September combines warm seas with harvest festivals and reduced tourist volumes. July-August peak months feature intense heat (30°C+) and congested historic centres, though excellent for beach extensions. October provides bargain pricing but increasing rain probability. Venice acqua alta flooding risk rises November-February. P&O's Adriatic season runs April-October, with no winter deployment to this region. Consider shoulder season for photography, cultural immersion, and value."
+    },
+    {
+      "question": "What is included?",
+      "answer": "P&O Adriatic cruises include comprehensive value: full board dining across main restaurants with British-influenced menus and international options; traditional afternoon tea service; nightly theatre productions, live music, and comedy; supervised children's clubs on family ships; fitness centres and swimming pools; port taxes and service charges; and sterling onboard currency eliminating exchange concerns. Accommodation steward service, deck chair allocation, and standard beverages at meals (tea, coffee, water) are included. Unique P&O touches comprise nannying for under-2s, dedicated single cabins without supplements, and British plug sockets. Exclusions cover speciality dining, alcoholic drinks, shore excursions, WiFi, and spa services. Select Price fares add cabin choice, flexibility, and sometimes onboard credit."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "P&O Adriatic itineraries feature UNESCO-rich destinations: Dubrovnik for intact medieval walls and limestone Stradun; Split centred on Emperor Diocletian's remarkably preserved Roman palace; Venice with St Mark's Square, Doge's Palace, and lagoon islands; Kotor's dramatic fjord-like bay and mountain fortress; Zadar's Sea Organ and Roman ruins; and Trieste as gateway to Slovenia and Austria. Secondary calls include Corfu, Sicily, and Montenegro's Budva. Southampton round-trips add Spanish and Italian mainland ports. Fly-cruises maximise Adriatic time from Valletta, Barcelona, or Rome. Tender operations at Kotor and some Dalmatian islands require planning. Overnight Venice stays on select itineraries enable evening exploration when day-trippers depart."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure P&O Adriatic cruises 12-18 months prior for optimal cabin selection, dining preferences, and early booking discounts reaching 25%. Suite categories and sought-after balcony locations on Iona/Arvia sell fastest. Peninsular Club loyalty members access priority booking windows 12+ months ahead. School holiday periods (July, October half-term) require earliest commitment. Flexible travellers find last-minute availability 8-10 weeks before departure with 30-40% reductions, though cabin categories limited. 2026 itineraries typically release 18 months advance. Consider booking onboard current cruises for additional future cruise credit. Final payment due 90 days before sailing; instalment plans available. Travel insurance recommended at deposit stage covering cancellation risks."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "P&O's family ships Iona and Arvia excel for multi-generational Adriatic holidays with complimentary Reef children's clubs divided by age (2-4, 5-8, 9-12, 13-17), night nursery until 2am, and family-friendly shore excursions. The SkyDome provides all-weather entertainment, while 30+ dining venues accommodate picky eaters. Family cabins and interconnecting rooms suit larger groups. However, adults-only Arcadia and Aurora enforce 18+ policy strictly, ideal for parents seeking child-free respite. Consider children's stamina for hot Adriatic port walking and cultural site engagement. P&O's British orientation means familiar food, entertainment, and fellow passengers. Kids sail free promotions periodically reduce costs significantly for families with under-16s sharing cabins."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "P&O's cancellation structure scales by proximity to departure: deposits refundable until 90 days before sailing; 90-60 days incurs 25% loss; 60-30 days forfeits 50%; 30-15 days costs 75%; under 15 days results in 100% charge. Travel insurance with cancellation cover essential from booking. COVID-19 policies evolved to standard terms; testing no longer required. Rebooking to alternative sailing within 12 months sometimes permitted for administrative fees. Name changes allowed until 24 hours pre-departure for £100. Medical cancellation with documentation may enable future cruise credits. Consider P&O's Cruise Cover add-on for enhanced protection. Book with ABTA/ATOL protection for financial security against operator failure."
+    }
+  ]
+}

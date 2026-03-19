@@ -1,0 +1,173 @@
+{
+  "title": "Celebrity Cruises vs Costa Cruises 2026",
+  "intro": "Celebrity Cruises and Costa Cruises represent two distinct approaches to contemporary cruising, both positioned in the mid-market segment yet appealing to fundamentally different passenger profiles. Celebrity, part of Royal Caribbean Group, emphasises modern luxury with sophisticated design, elevated dining, and a predominantly adult-oriented atmosphere. Costa, Europe's largest cruise line under Carnival Corporation, delivers authentic Italian cruising with family-friendly entertainment, vibrant nightlife, and strong Mediterranean heritage. This comparison examines how these rivals stack up for 2026 sailings across pricing, onboard experience, dining, and target demographics to help travellers select their ideal cruise holiday.",
+  "at_a_glance": {
+    "celebrity": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "costa": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 549
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside cabin)",
+      "celebrity": "€899",
+      "costa": "€549"
+    },
+    {
+      "category": "Price (7-night balcony cabin)",
+      "celebrity": "€1,399",
+      "costa": "€799"
+    },
+    {
+      "category": "Gratuities (per person/day)",
+      "celebrity": "€18",
+      "costa": "€11"
+    },
+    {
+      "category": "Drinks package (7 nights)",
+      "celebrity": "€385",
+      "costa": "€259"
+    },
+    {
+      "category": "Passenger capacity (newest ship)",
+      "celebrity": "3,260 (Celebrity Ascent)",
+      "costa": "5,224 (Costa Smeralda)"
+    },
+    {
+      "category": "Crew-to-passenger ratio",
+      "celebrity": "1:2.0",
+      "costa": "1:3.5"
+    },
+    {
+      "category": "Primary language",
+      "celebrity": "English",
+      "costa": "Italian/English multilingual"
+    },
+    {
+      "category": "Dining style",
+      "celebrity": "Fixed or flexible, reservations recommended",
+      "costa": "Traditional set seating, Italian-led"
+    },
+    {
+      "category": "Evening dress code",
+      "celebrity": "Evening chic (smart casual)",
+      "costa": "Gala nights with formal option"
+    },
+    {
+      "category": "Kids clubs",
+      "celebrity": "Camp at Sea (ages 3-17)",
+      "costa": "Squok Club (ages 3-17), extensive"
+    },
+    {
+      "category": "Included dining venues",
+      "celebrity": "4 main restaurants + buffet",
+      "costa": "2 main restaurants + buffet"
+    },
+    {
+      "category": "Speciality restaurants",
+      "celebrity": "4-6 venues, €45-65pp",
+      "costa": "2-3 venues, €25-35pp"
+    },
+    {
+      "category": "Entertainment style",
+      "celebrity": "Theatrical productions, live music, subdued",
+      "costa": "High-energy shows, disco, parties"
+    },
+    {
+      "category": "Spa brand",
+      "celebrity": "The Spa by Canyon Ranch",
+      "costa": "Samsara Spa"
+    },
+    {
+      "category": "WiFi (unlimited)",
+      "celebrity": "€21/day",
+      "costa": "€15/day"
+    }
+  ],
+  "choose_a_if": [
+    "You prefer sophisticated, adult-oriented ambience with contemporary design and refined service standards",
+    "Culinary excellence is a priority—you value diverse speciality dining and elevated main restaurant cuisine",
+    "You appreciate modern luxury touches like infinite veranda cabins, rooftop gardens, and craft cocktail bars",
+    "You want flexible dining with reservation-based options rather than traditional set seating",
+    "You prefer English-speaking environment with North American-style service and entertainment"
+  ],
+  "choose_b_if": [
+    "You seek authentic Italian atmosphere with multilingual international passenger mix",
+    "Budget-conscious travel is essential—significantly lower base fares and onboard pricing",
+    "You enjoy high-energy entertainment, late-night parties, and vibrant social atmosphere",
+    "Travelling with children who need extensive, well-established kids club programming",
+    "You prefer traditional cruise experiences with set dining times and formal gala nights"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with young children",
+      "winner": "Costa Cruises",
+      "reason": "Costa's Squok Club offers superior facilities and longer hours at lower cost, plus family pricing structures and Italian hospitality that genuinely welcomes children throughout the ship."
+    },
+    {
+      "type": "Couples seeking romance",
+      "winner": "Celebrity Cruises",
+      "reason": "Intimate venues like the Magic Carpet, Rooftop Garden, and adult-focused programming create sophisticated atmosphere without overwhelming family crowds or boisterous entertainment."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Celebrity Cruises",
+      "reason": "Dedicated solo cabins on Edge-class ships, single passenger events, and inclusive social atmosphere better accommodate independent travellers than Costa's family-centric model."
+    },
+    {
+      "type": "Food enthusiasts",
+      "winner": "Celebrity Cruises",
+      "reason": "Partnerships with Michelin-starred chefs, diverse speciality restaurants, and consistently higher culinary standards justify premium pricing for gastronomically-minded passengers."
+    },
+    {
+      "type": "Budget-conscious travellers",
+      "winner": "Costa Cruises",
+      "reason": "Base fares typically 35-40% lower, reduced gratuities, cheaper drinks packages, and inclusive Italian-style service charges deliver genuine value without compromising core cruise experience."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Costa Cruises",
+      "reason": "Lower financial commitment reduces risk, while traditional cruise structure provides classic introduction to seafaring holidays without overwhelming modern complexity or premium pricing."
+    },
+    {
+      "type": "Mediterranean itineraries",
+      "winner": "Costa Cruises",
+      "reason": "Unmatched port frequency, Italian crew expertise, and authentic regional programming leverage decades of Mediterranean operational experience and homeport advantages."
+    },
+    {
+      "type": "Caribbean itineraries",
+      "winner": "Celebrity Cruises",
+      "reason": "Purpose-built ships for warm-weather cruising, private destination access, and North American service standards better suit Caribbean expectations than Costa's transplanted European model."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value determination depends entirely on passenger priorities. Costa Cruises offers superior headline value with 7-night Mediterranean sailings from €549 inside versus Celebrity's €899, plus lower onboard spending across drinks, gratuities, and excursions. However, Celebrity's inclusive pricing structure, higher service standards, and superior dining quality often deliver better experiential value for passengers who utilise speciality restaurants and premium amenities. Families particularly benefit from Costa's value proposition, while couples and food-focused travellers find Celebrity's premium justified. Calculate total anticipated onboard spending before deciding—Costa's a la carte model suits budget controllers, while Celebrity's bundled options reward comprehensive engagement."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Costa Cruises decisively wins for families, particularly those with children under 12. The Squok Club operates extensive hours with dedicated facilities across age groups, and Italian cruise culture genuinely embraces family dining and entertainment integration. Children's programmes are included without surcharge, and family cabins offer practical configurations. Celebrity accommodates families adequately but designs primarily for adult passengers—kids clubs feel supplementary rather than central, and the sophisticated atmosphere can constrain boisterous behaviour. Teenagers may prefer Costa's social energy and disco culture. For multigenerational groups, Costa's broader appeal across ages prevents compromise, whereas Celebrity requires careful itinerary selection to maintain family harmony."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Costa Cruises maintains consistent 35-45% pricing advantage across comparable itineraries and cabin categories. Representative 2026 Mediterranean seven-night fares: Costa inside €549, balcony €799; Celebrity inside €899, balcony €1,399. This differential extends to onboard spending—Costa gratuities €11/day versus Celebrity €18, drinks packages €259 versus €385 weekly, and speciality dining averaging €30 versus €55 per person. However, Celebrity frequently includes promotional perks (drinks, WiFi, gratuities) that narrow effective gaps. Seasonal variations matter significantly: Costa peaks during Italian school holidays with inflated family pricing, while Celebrity maintains more consistent year-round positioning. Always compare equivalent promotional periods."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Celebrity Cruises delivers demonstrably superior culinary quality across all metrics. Main restaurant menus feature more ambitious preparation, better ingredient sourcing, and consistent execution. The Edge-class ships offer four distinct main dining venues with specialisation, while Costa maintains traditional dual-restaurant structure with rotation. Celebrity's speciality restaurant portfolio—Le Voyage by Daniel Boulud, Eden, Rooftop Garden Grill—represents genuine gastronomic destinations at €45-65, whereas Costa's offerings provide pleasant alternatives without comparable culinary ambition. Buffet quality particularly diverges: Celebrity's Oceanview Café approaches restaurant standards, while Costa's buffet serves functional sustenance. Costa's Italian heritage manifests in pasta quality and espresso service, but Celebrity's comprehensive culinary programme satisfies discerning palates more reliably."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Costa Cruises provides gentler introduction for cruise novices, particularly Europeans. Lower financial commitment reduces anxiety about cruise suitability, while traditional structures—set dining times, assigned tables, formal nights—familiarise passengers with classic cruising conventions. The multilingual environment normalises uncertainty, and Italian hospitality's warmth accommodates inexperienced travellers graciously. Celebrity suits first-timers seeking immediate premium experience without cruise apprenticeship, though the sophisticated atmosphere and flexible dining can overwhelm those expecting structured guidance. North American first-timers generally adapt better to Celebrity's service culture, while Europeans find Costa's operational familiarity comforting. Ultimately, budget-conscious beginners should select Costa; those prioritising immediate quality immersion prefer Celebrity."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental distinctions centre on design philosophy and target demographic. Celebrity pursues 'modern luxury'—contemporary aesthetics, adult-oriented programming, culinary excellence, and refined service for affluent passengers seeking sophisticated seafaring. Costa delivers 'cruising Italian style'—authentic Mediterranean atmosphere, family-centric operations, high-energy entertainment, and accessible pricing for mass-market European holidaymakers. Operational differences include Celebrity's flexible dining and English-primary service versus Costa's traditional structure and multilingual operations. Ship design diverges: Celebrity's Edge-class features innovative architectural elements and spaciousness; Costa's Smeralda-class maximises passenger capacity with efficient layouts. Evening experiences contrast sharply—Celebrity's subdued elegance versus Costa's vibrant parties. These aren't quality gradations but purposeful positioning for distinct traveller psychographics."
+    }
+  ]
+}

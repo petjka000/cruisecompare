@@ -1,0 +1,198 @@
+{
+  "title": "Viking Cruises Alaska Cruises 2026",
+  "intro": "Viking Cruises brings its signature Scandinavian elegance to Alaska with intimate, adult-focused voyages aboard purpose-built expedition and ocean vessels. Unlike mainstream cruise lines, Viking offers a refined, destination-immersive experience with no casinos, no children under 18, and no nickel-and-diming. Their Alaska itineraries emphasize extended port time, expert-led enrichment programming, and proximity to wilderness through smaller ship access. Passengers explore Glacier Bay, Tracy Arm Fjord, and remote Alaskan communities with included excursions led by resident historians and naturalists. The all-veranda staterooms, Nordic spa, and regionally inspired cuisine—featuring local seafood and foraged ingredients—complement the dramatic landscapes. Viking's approach prioritizes quiet contemplation of Alaska's raw beauty over entertainment spectacle, attracting experienced travelers seeking depth over distraction in America's Last Frontier.",
+  "quick_facts": {
+    "price_from_eur": 5499,
+    "duration_range": "11-15 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Viking Orion",
+      "Viking Sky",
+      "Viking Neptune"
+    ],
+    "departure_ports": [
+      "Vancouver",
+      "Seward"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 0,
+      "balcony_eur": 5499,
+      "suite_eur": 8999
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 0,
+      "balcony_eur": 6999,
+      "suite_eur": 11999
+    },
+    {
+      "season": "Prime (July)",
+      "inside_eur": 0,
+      "balcony_eur": 7999,
+      "suite_eur": 14999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Alaska & the Inside Passage",
+      "duration_nights": 11,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Seward"
+      ],
+      "price_from_eur": 5499,
+      "highlight": "Overnight in Seward with included Kenai Fjords tour"
+    },
+    {
+      "name": "Alaska & British Columbia",
+      "duration_nights": 15,
+      "ports": [
+        "Vancouver",
+        "Victoria",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Icy Strait Point",
+        "Glacier Bay",
+        "Seward"
+      ],
+      "price_from_eur": 6999,
+      "highlight": "Extended exploration with British Columbia's Inside Passage"
+    },
+    {
+      "name": "Alaska & Japan",
+      "duration_nights": 22,
+      "ports": [
+        "Seward",
+        "Kodiak",
+        "Dutch Harbor",
+        "Crossing International Date Line",
+        "Kushiro",
+        "Yokohama"
+      ],
+      "price_from_eur": 9999,
+      "highlight": "Trans-Pacific expedition combining Alaska with Northern Japan"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Orion",
+      "capacity": 930,
+      "year": 2018,
+      "best_for": "Culture-focused couples",
+      "price_from_eur": 5499
+    },
+    {
+      "name": "Viking Sky",
+      "capacity": 930,
+      "year": 2017,
+      "best_for": "Wellness enthusiasts",
+      "price_from_eur": 5699
+    },
+    {
+      "name": "Viking Neptune",
+      "capacity": 930,
+      "year": 2022,
+      "best_for": "Sustainable luxury seekers",
+      "price_from_eur": 5799
+    }
+  ],
+  "whats_included": [
+    "All meals with beer and wine at lunch and dinner",
+    "One included shore excursion in every port",
+    "Wi-Fi",
+    "Spa access",
+    "Lectures and enrichment programming",
+    "24-hour room service",
+    "Port charges and taxes",
+    "Airport transfers"
+  ],
+  "whats_extra": [
+    "Premium beverages and cocktails",
+    "Spa treatments and salon services",
+    "Additional excursions beyond the included option",
+    "Laundry and dry cleaning",
+    "Photography services",
+    "Onboard shopping"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best stateroom selection and early booking savings of up to €1000 per person. Viking releases Alaska itineraries 18 months in advance and popular July departures sell out by autumn. Consider shoulder season for 20-30% savings and fewer crowds. Silver Spirits beverage package (€419 per person) and Silver Spirits & Excursions package offer value for those planning multiple premium experiences.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Mendenhall Glacier & Whale Watching (included option)",
+      "tip": "Request early morning whale watching for calmer waters"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Totem Bight State Park & Saxman Native Village (included)",
+      "tip": "Explore Creek Street independently after included tour"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-7pm",
+      "top_activity": "White Pass & Yukon Route Railway (€189 supplement)",
+      "tip": "Book railway through Viking for guaranteed priority seating"
+    },
+    {
+      "port": "Glacier Bay",
+      "time_in_port": "Full day cruising",
+      "top_activity": "Park ranger narration and close approach to Margerie Glacier",
+      "tip": "Reserve forward deck seating by 6am for photography"
+    },
+    {
+      "port": "Seward",
+      "time_in_port": "Overnight",
+      "top_activity": "Kenai Fjords National Park cruise (included)",
+      "tip": "Extend with pre-cruise land package to Denali for complete experience"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Alaska cruise cost?",
+      "answer": "Viking Alaska cruises start from €5,499 per person for 11-night voyages in shoulder season, with peak summer departures ranging €6,999-€7,999. The 15-night comprehensive itinerary typically costs €6,999-€8,999. All accommodations feature verandas—Viking offers no interior or ocean-view categories. Suites command €8,999-€14,999 depending on season. These fares include one excursion per port, beer and wine with meals, Wi-Fi, and gratuities, representing strong value against base fares that appear higher than mainstream competitors but include significantly more. Airfare packages add approximately €899-€1,199 from European gateways."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Alaska?",
+      "answer": "Viking deploys its 930-passenger ocean fleet to Alaska: Viking Orion (2018), Viking Sky (2017), and Viking Neptune (2022). These identical sister ships feature all-veranda staterooms, Nordic-inspired spa with snow grotto, infinity pool, and planetarium. The small-ship scale enables access to intimate ports like Icy Strait Point and extended glacier cruising. Unlike competitors' mega-ships, Viking's vessels carry no more than 930 guests, ensuring uncrowded viewing decks and swift tender operations. All three ships maintain identical service standards, dining venues, and stateroom configurations, with selection based primarily on departure date rather than vessel differentiation."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "June through August offer optimal weather and wildlife viewing, with temperatures of 15-20°C and peak whale activity. July provides the most reliable sunshine but commands premium pricing. May and September—shoulder season—deliver 20-30% savings, fewer tourists, and excellent bear viewing as salmon runs peak, though weather is cooler and wetter with occasional itinerary adjustments. May features snow-capped mountains and cascading waterfalls from snowmelt. September offers northern lights possibilities and autumn foliage. Viking operates May through September exclusively, with no winter Alaska sailings. For photography, June's extended daylight (18+ hours) maximizes glacier viewing opportunities."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's all-inclusive Alaska experience covers all meals across multiple dining venues, beer and wine with lunch and dinner, one shore excursion in every port, Wi-Fi, 24-hour room service, spa thermal suite access, lectures by resident historians and naturalists, port charges, taxes, and airport transfers. Gratuities are included—no additional tipping expected. The included excursions typically comprise standard city tours or nature walks; premium options like flightseeing or dog sledding incur supplements. Unlike mainstream lines, Viking excludes casinos, photography packages, premium spirits, and additional excursions. This transparent pricing model eliminates onboard spending pressure, with most guests incurring minimal extra charges beyond discretionary spa treatments and specialty beverages."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking's Alaska itineraries emphasize Southeast Alaska's Inside Passage with calls at Ketchikan (Tlingit culture and totem poles), Juneau (Mendenhall Glacier and whale watching), Skagway (Gold Rush history and White Pass Railway), and Icy Strait Point (Hoonah Native village and wilderness). Glacier Bay National Park features full-day scenic cruising with National Park ranger narration. Voyages conclude or commence in Seward, gateway to Kenai Fjords National Park, with included excursions there. Some itineraries incorporate Victoria, British Columbia. The 22-night transpacific crossing adds Kodiak, Dutch Harbor, and Japanese ports. Viking's smaller vessels access docks rather than anchoring, maximizing time ashore with typically 8-10 hour port stays."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Viking Alaska cruises 12-18 months in advance, particularly for July departures and sought-after stateroom categories like Penthouse Veranda and Explorer Suite. Viking releases itineraries 18 months ahead, and prime summer dates often reach 70% capacity within six months. Early booking yields savings up to €1,000 per person plus preferred stateroom location—midship higher decks for glacier viewing. Shoulder season (May/September) offers more flexibility with 6-9 month booking windows. Viking's risk-free booking policy permits full refund up to 12 months prior, then escalating penalties. Last-minute availability is rare and typically limited to single-occupancy or less desirable staterooms. Waitlists for sold-out departures occasionally clear 60-90 days prior."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Cruises maintains a strict adults-only policy: no guests under 18 years permitted. This policy eliminates family suitability entirely, by design. The line targets sophisticated travelers seeking child-free environments for focused destination immersion and quiet contemplation. Families with children should consider Holland America, Princess, or Royal Caribbean for Alaska, all offering extensive youth programming and multi-generational appeal. Viking's demographic skews 55-75 with interests in history, science, and culinary experiences rather than active children's programming. The absence of water slides, kids' clubs, and family-oriented entertainment reflects deliberate positioning. Solo travelers and couples comprise the majority of passengers, with occasional friends traveling together but no family groups with minors."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's cancellation policy for Alaska cruises imposes penalties escalating by departure proximity: full refund if cancelled 12+ months prior; 15% loss at 12-6 months; 50% loss at 6-3 months; 75% loss at 3-1 month; 100% loss under 30 days. Travel insurance is strongly recommended, with Viking offering its own comprehensive plan covering cancellation for covered reasons, interruption, medical evacuation, and baggage. The 'Risk-Free Guarantee' permits one penalty-free rebooking to a future voyage if cancelled 12+ months ahead. COVID-19 protocols have introduced additional flexibility, with cruise vouchers offered for health-related cancellations. Cancel for Any Reason insurance upgrades provide 75% future cruise credit versus standard policy's trip cost protection."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "Cunard Line Black Sea Cruises 2026",
+  "intro": "Cunard Line brings its legendary White Star Service to the Black Sea, offering an elegant voyage aboard classic ocean liners. Queen Victoria and Queen Elizabeth navigate this historic waterway where ancient civilizations meet dramatic coastlines. Passengers experience Cunard's signature afternoon tea, gala evenings, and enrichment lectures while exploring ports steeped in Greek, Roman, and Ottoman heritage. The Black Sea's temperate climate and Cunard's refined atmosphere create an exceptional cultural journey. From Istanbul's minarets to Odessa's belle époque architecture, these cruises combine sophisticated onboard traditions with immersive shore experiences. Cunard's smaller vessel size allows access to intimate harbours inaccessible to larger ships, delivering authentic encounters with this fascinating region's diverse cultures, cuisines, and centuries of maritime history.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "12-21 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Queen Victoria",
+      "Queen Elizabeth"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Civitavecchia",
+      "Istanbul"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/Oct)",
+      "inside_eur": 1899,
+      "balcony_eur": 2699,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 2299,
+      "balcony_eur": 3299,
+      "suite_eur": 5999
+    },
+    {
+      "season": "Grand Voyage",
+      "inside_eur": 3499,
+      "balcony_eur": 4999,
+      "suite_eur": 8999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night Black Sea Discovery",
+      "duration_nights": 12,
+      "ports": [
+        "Istanbul",
+        "Varna",
+        "Constanta",
+        "Odessa",
+        "Sochi",
+        "Trabzon",
+        "Kusadasi"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Overnight in Odessa with exclusive Cunard shore event"
+    },
+    {
+      "name": "14-night Eastern Mediterranean & Black Sea",
+      "duration_nights": 14,
+      "ports": [
+        "Civitavecchia",
+        "Santorini",
+        "Istanbul",
+        "Varna",
+        "Constanta",
+        "Odessa",
+        "Kusadasi",
+        "Piraeus"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Combines Greek islands with full Black Sea exploration"
+    },
+    {
+      "name": "21-night Grand Black Sea Adventure",
+      "duration_nights": 21,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Barcelona",
+        "Rome",
+        "Santorini",
+        "Istanbul",
+        "Varna",
+        "Odessa",
+        "Sochi",
+        "Trabzon",
+        "Kusadasi",
+        "Malta",
+        "Gibraltar"
+      ],
+      "price_from_eur": 3899,
+      "highlight": "Complete journey from UK with three full sea days for relaxation"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Victoria",
+      "capacity": 2078,
+      "year": 2007,
+      "best_for": "Traditionalists & culture seekers",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Queen Elizabeth",
+      "capacity": 2081,
+      "year": 2010,
+      "best_for": "Art deco enthusiasts & British heritage lovers",
+      "price_from_eur": 1999
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "All main dining (Britannia or Grills restaurant)",
+    "Afternoon tea",
+    "Gala evenings",
+    "Enrichment lectures",
+    "Planetarium shows (Queen Victoria)",
+    "Fitness centre",
+    "Live entertainment",
+    "Library with 6,000 volumes",
+    "Deck games",
+    "Children's club (2-17 years)"
+  ],
+  "whats_extra": [
+    "Gratuities (€12-15 per person daily)",
+    "Specialty dining (€30-75 per person)",
+    "Beverage packages (€55-75 daily)",
+    "Shore excursions (€45-189 each)",
+    "Spa treatments",
+    "Internet packages",
+    "Laundry services",
+    "Satellite phone",
+    "Casino",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and Cunard Fare benefits including onboard credit. Wave season (January-March) offers strongest promotions. Grill Suite bookings include priority tender access essential for Black Sea ports. Consider Cunard's Complete Fare for flexible cancellation. Single supplements apply; solo traveller events available. Back-to-back itineraries reduce per-night cost.",
+  "top_ports": [
+    {
+      "port": "Istanbul",
+      "time_in_port": "7am-6pm (often overnight on longer cruises)",
+      "top_activity": "Private Bosphorus yacht cruise with Cunard concierge (€189)",
+      "tip": "Request port side cabin for Hagia Sophia views"
+    },
+    {
+      "port": "Odessa",
+      "time_in_port": "8am-11pm (overnight)",
+      "top_activity": "Exclusive Cunard evening at Odessa Opera House with backstage tour (€149)",
+      "tip": "Potemkin Steps best photographed at golden hour; ship provides shuttle to city centre"
+    },
+    {
+      "port": "Varna",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Archaeological Museum & Aladzha Monastery (€89)",
+      "tip": "Bulgarian lev cash useful for seaside restaurants; credit cards limited outside tourist areas"
+    },
+    {
+      "port": "Constanta",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Danube Delta nature reserve by boat (€129)",
+      "tip": "Early departure recommended; delta journey 90 minutes each way"
+    },
+    {
+      "port": "Sochi",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Stalin's Dacha & Arboretum with Soviet history focus (€99)",
+      "tip": "Russian visa required unless on Cunard-organised excursion; passport control slow, allow 90 minutes"
+    },
+    {
+      "port": "Trabzon",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sumela Monastery & traditional Black Sea lunch (€109)",
+      "tip": "Mountain roads winding; not recommended for mobility-impaired travellers"
+    },
+    {
+      "port": "Kusadasi",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Ephesus private guide with Terrace Houses access (€129)",
+      "tip": "Cunard's longer port stay allows evening bazaar visit after day-trippers depart"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Black Sea cruise cost?",
+      "answer": "Cunard Black Sea cruises range from €1,899 for inside cabins on 12-night shoulder season sailings to over €8,999 for Grand Suites on peak summer departures. Balcony cabins, essential for scenic Bosphorus and Caucasus coastline cruising, typically cost €2,699-€3,299. Grill-level accommodations include butler service and exclusive restaurants, priced €4,899-€5,999. Fares exclude gratuities (€12-15 daily), beverages, and shore excursions. Cunard's Fare structure offers three tiers: Early Saver (lowest price, restricted changes), Select Fare (flexibility with deposit protection), and Complete Fare (maximum flexibility with full refund options). Solo travellers face 75-100% single supplements, though occasional single-occupancy promotions reduce this to 25%."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Black Sea?",
+      "answer": "Queen Victoria and Queen Elizabeth operate Cunard's Black Sea itineraries. Queen Victoria, launched 2007 and refurbished 2021, carries 2,078 passengers with emphasis on traditional ocean liner ambience, featuring the only planetarium at sea and extensive library. Queen Elizabeth, 2010-built and Art Deco-inspired, accommodates 2,081 guests with Garden Lounge conservatory and Royal Court Theatre. Neither Queen Mary 2 nor the new Queen Anne deploy to Black Sea due to draft restrictions and deployment priorities. Both operating vessels are mid-size by contemporary standards, enabling navigation into smaller Black Sea ports like Trabzon and Sochi that larger ships cannot access. Their classic profiles and British heritage programming distinguish them from mainstream competitors."
+    },
+    {
+      "question": "When is best time to cruise Black Sea?",
+      "answer": "Optimal Black Sea cruising occurs May-June and September-October, combining pleasant 20-26°C temperatures with fewer crowds and lower fares than peak summer. July-August brings hottest weather (28-32°C) and highest prices, though sea breezes moderate discomfort. May offers wildflower displays in Crimean-influenced landscapes and Danube Delta bird migrations. September harvest season enhances wine region excursions near Odessa and Varna. October can bring Black Sea storms, occasionally affecting tender operations at Sochi or Trabzon. Winter cruises are unavailable as Cunard repositions vessels to Caribbean and world voyage routes. Historical and cultural interest remains constant year-round, though outdoor activities are most comfortable in shoulder seasons when humidity is lower and archaeological sites less crowded."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard fares include accommodation, all meals in assigned restaurant (Britannia for standard bookings, Princess or Queens Grill for suite guests), traditional afternoon tea, white-gloved service, gala evening events with formal dress codes, enrichment lectures by university professors and destination experts, planetarium shows on Queen Victoria, fitness centre access, deck games, live theatre and musical entertainment, library borrowing, and children's programming for ages 2-17. Accommodation tier determines dining venue and priority for restaurant reservations and tender boarding. Not included are beverages, specialty dining, shore excursions, gratuities, spa services, internet, and laundry. Grill-level bookings add butler service, priority embarkation, exclusive lounge access, and in-suite dining from any restaurant menu."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard Black Sea itineraries typically feature Istanbul as primary embarkation or turnaround point, with calls at Varna (Bulgaria's maritime capital), Constanta (gateway to Danube Delta), Odessa (Ukrainian cultural hub with overnight stays), Sochi (Russian resort city), Trabzon (Turkish mountain monastery access), and Kusadasi (Ephesus archaeological site). Some extended voyages include Piraeus, Santorini, or Malta connections. Port times are generous—Odessa receives overnight stays allowing evening opera attendance—reflecting Cunard's destination-focused philosophy. Sochi and Trabzon require tendering; Cunard's smaller size advantage versus mega-ships ensures reliable operations. Russian visa requirements are waived for passengers on Cunard-organised shore excursions, a significant practical benefit. Each port offers curated Cunard shore experiences with English-speaking guides and guaranteed ship departure protection."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Cunard Black Sea cruises 12-18 months ahead for optimal cabin selection, particularly balcony staterooms on port side for Istanbul approaches and Grill Suites with butler service. Cunard releases itineraries approximately 18 months in advance. Early booking secures preferred dining sitting (first or second) and cabin location. Wave season (January-March) historically offers strongest promotions including onboard credit, free gratuities, or cabin upgrades. Last-minute deals are rare for Black Sea given limited deployment and strong demand from Cunard's loyal repeat passenger base. Booking 6-9 months ahead still yields reasonable availability but reduced cabin choice. Final payment is due 90 days before departure. Consider Cunard's Future Cruise Deposit programme for additional onboard credit when booking next voyage while aboard."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard Black Sea cruises suit families with children aged 8+ interested in history and culture, though the line primarily targets adults and mature travellers. The Night Nursery (6 months-23 months, evenings only) and Children's Club (2-17 years, divided into age groups) operate sea days and port days, offering educational activities with regional themes—Byzantine art projects, Turkish tile-making, Black Sea marine biology. However, no water slides, climbing walls, or character experiences compete with resort-style ships. Formal nights require evening dress, challenging for younger children. Shore excursions lack adventure activities, focusing instead on museums, churches, and historical walking tours. Connecting cabins and family-friendly dining options exist, but Cunard's refined atmosphere and enrichment programming best match families prioritising cultural education over high-energy entertainment. Teen facilities are limited compared to mainstream competitors."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation policy varies by fare type selected at booking. Early Saver fares carry strict penalties: deposit forfeiture immediately, 50% of fare if cancelled 90-57 days before sailing, 75% at 56-29 days, and 100% within 28 days. Select Fare offers more protection: deposit refundable until final payment (90 days), then 50% penalty 89-57 days, 75% 56-29 days, 100% within 28 days. Complete Fare provides maximum flexibility with full refund until 48 hours before departure minus administrative fee. All fares allow name changes for €25-50 fee. Travel insurance is strongly recommended; Cunard's own policy covers cancellation for specified reasons. COVID-19 protocols have eased but health-related cancellations follow standard terms unless Cunard initiates voyage cancellation. Rebooking to future sailing typically incurs €75-150 administrative charge depending on advance notice."
+    }
+  ]
+}

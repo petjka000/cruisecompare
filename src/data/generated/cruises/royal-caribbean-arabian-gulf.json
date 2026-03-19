@@ -1,0 +1,200 @@
+{
+  "title": "Royal Caribbean Arabian Gulf Cruises 2026",
+  "intro": "Royal Caribbean brings its signature innovation and scale to the Arabian Gulf, offering an extraordinary fusion of ultra-modern ship amenities with ancient Middle Eastern wonders. Sail aboard Wonder of the Seas or Spectrum of the Seas as you navigate between glittering skylines and timeless desert landscapes. From Dubai's architectural marvels to Oman's rugged fjords, these itineraries deliver Royal Caribbean's legendary entertainment, dining, and adventure programming against a backdrop of Arabian hospitality. The region's winter sun provides perfect conditions for enjoying the ships' expansive outdoor spaces, while shore excursions unlock UNESCO sites, traditional souks, and pristine beaches. Whether racing down the Ultimate Abyss slide or exploring Abu Dhabi's Sheikh Zayed Grand Mosque, guests experience Royal Caribbean's commitment to delivering memorable family vacations with genuine cultural immersion in one of cruising's most rapidly evolving destinations.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Wonder of the Seas",
+      "Spectrum of the Seas"
+    ],
+    "departure_ports": [
+      "Dubai",
+      "Abu Dhabi"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Low (Apr-Oct)",
+      "inside_eur": 599,
+      "balcony_eur": 899,
+      "suite_eur": 1499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Arabian Gulf & Emirates",
+      "duration_nights": 7,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Sir Bani Yas Island",
+        "Muscat",
+        "Dubai"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Perfect introduction with overnight in Dubai and private island beach day"
+    },
+    {
+      "name": "9-night Arabian Gulf Explorer",
+      "duration_nights": 9,
+      "ports": [
+        "Dubai",
+        "Fujairah",
+        "Muscat",
+        "Doha",
+        "Abu Dhabi",
+        "Sir Bani Yas Island",
+        "Dubai"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Comprehensive regional coverage including Qatar and UAE east coast"
+    },
+    {
+      "name": "12-night Arabian Gulf & India",
+      "duration_nights": 12,
+      "ports": [
+        "Dubai",
+        "Muscat",
+        "Mumbai",
+        "Goa",
+        "Kochi",
+        "Dubai"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Cultural deep-dive combining Arabian Peninsula with vibrant Indian subcontinent"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Wonder of the Seas",
+      "capacity": 5734,
+      "year": 2022,
+      "best_for": "Families seeking maximum thrills and entertainment variety",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Spectrum of the Seas",
+      "capacity": 4246,
+      "year": 2019,
+      "best_for": "Asian-market features and luxury suite accommodations",
+      "price_from_eur": 699
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and select casual venues",
+    "Windjammer buffet restaurant access",
+    "Live Broadway-style shows and original Royal Caribbean productions",
+    "Ice skating shows and aqua theater performances",
+    "Adventure Ocean kids club (ages 3-17)",
+    "Fitness center and rock climbing wall",
+    "FlowRider surf simulator access",
+    "Zip line and Ultimate Abyss slide",
+    "Nightly themed parties and deck entertainment",
+    "Port taxes and basic gratuities"
+  ],
+  "whats_extra": [
+    "Deluxe Beverage Package (EUR 65-75/day)",
+    "Specialty dining (EUR 35-65/person)",
+    "Shore excursions (EUR 45-189)",
+    "Wi-Fi packages (EUR 15-25/day)",
+    "Spa treatments and salon services",
+    "Casino gaming",
+    "Laundry and dry cleaning",
+    "Airport transfers",
+    "Pre/post cruise hotel stays"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for peak winter season; Royal Caribbean typically releases Arabian Gulf itineraries 18 months in advance. Wave Season (January-March) offers the strongest promotions with reduced deposits and onboard credit. Consider repositioning cruises in October/November for 30-40% savings. Suite guests should book immediately upon release for best selection. Solo travelers watch for reduced single supplement promotions quarterly.",
+  "top_ports": [
+    {
+      "port": "Dubai, UAE",
+      "time_in_port": "Typically overnight or 8am-11pm",
+      "top_activity": "Burj Khalifa At The Top observation deck (EUR 45)",
+      "tip": "Pre-book evening fountain show dining for optimal views"
+    },
+    {
+      "port": "Abu Dhabi, UAE",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Sheikh Zayed Grand Mosque guided tour (EUR 55)",
+      "tip": "Dress modestly; white clothing photographs beautifully against marble"
+    },
+    {
+      "port": "Sir Bani Yas Island, UAE",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Wildlife safari by 4x4 (EUR 89)",
+      "tip": "Royal Caribbean's private island—book active adventures early as capacity limited"
+    },
+    {
+      "port": "Muscat, Oman",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Dhow cruise through Musandam fjords (EUR 129)",
+      "tip": "Friday closures affect souk visits; verify before booking"
+    },
+    {
+      "port": "Doha, Qatar",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Museum of Islamic Art and Souq Waqif (EUR 65)",
+      "tip": "Newer port with excellent infrastructure; easy independent exploration"
+    },
+    {
+      "port": "Fujairah, UAE",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Al Badiyah Mosque and snorkeling (EUR 75)",
+      "tip": "Less developed than Dubai—excursions recommended for transportation"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Arabian Gulf cruise cost?",
+      "answer": "Royal Caribbean Arabian Gulf cruises typically range from EUR 599 to EUR 2,199 per person for standard accommodations, with interior cabins starting around EUR 599-899 during low season and EUR 899-1,199 during peak winter months. Balcony staterooms command EUR 899-1,399, while suites begin at EUR 1,499 and can exceed EUR 4,000 for Royal Suite Class accommodations. These base fares exclude gratuities (EUR 16/day), beverage packages (EUR 65-75/day), Wi-Fi (EUR 15-25/day), and shore excursions averaging EUR 55-129 per port. Families should budget EUR 2,500-4,500 total for a 7-night sailing for two adults and two children in a balcony cabin with basic add-ons."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Arabian Gulf?",
+      "answer": "Royal Caribbean deploys its most innovative vessels to the Arabian Gulf, primarily Wonder of the Seas—the world's largest cruise ship since 2022—offering unprecedented scale with eight distinct neighborhoods, and Spectrum of the Seas, a Quantum Ultra-class ship specifically designed for the Chinese and Asia-Pacific markets before repositioning to Dubai. Wonder of the Seas delivers the full Oasis-class experience including Central Park open-air garden, Boardwalk carousel, and the Ultimate Abyss slide. Spectrum features the two-level Ultimate Family Suite and enhanced luxury accommodations. These ships alternate seasonally, with one typically homeporting in Dubai from November through March, offering 7- to 14-night itineraries."
+    },
+    {
+      "question": "When is best time to cruise Arabian Gulf?",
+      "answer": "The optimal cruising season runs November through March when temperatures moderate to pleasant 20-28°C daytime highs, making outdoor ship amenities comfortable and shore exploration enjoyable. December through February represents peak demand with ideal conditions—minimal humidity, clear skies, and temperatures rarely exceeding 25°C. November and March offer excellent value with slightly warmer weather but 20-30% lower pricing. Avoid April through October when temperatures regularly exceed 40°C with extreme humidity; Royal Caribbean typically suspends Arabian Gulf operations during these months. The Dubai Shopping Festival in January and February combines ideal weather with exceptional retail events, while late December holidays command premium pricing requiring 12-month advance booking."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean's Arabian Gulf cruises include substantial value: all accommodations, main dining room meals with multiple courses and changing menus, Windjammer buffet with extensive international selections, select casual venues like Sorrento's pizza and Café Promenade, and room service breakfast. Entertainment encompasses full-scale Broadway productions, ice skating spectaculars, aqua theater diving shows, live music throughout the ship, and comedy performances. Recreation covers the fitness center, rock climbing wall, FlowRider surf simulator, mini-golf, basketball court, and Adventure Ocean youth programming divided by age groups. Pool access includes multiple outdoor pools, whirlpools, and the Solarium adults-only retreat. Basic gratuities and port taxes are typically included in advertised fares, though beverage packages, specialty dining, spa services, shore excursions, and Wi-Fi require additional purchase."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean's Arabian Gulf itineraries center on Dubai as primary homeport, with ships typically overnighting here to accommodate flight arrivals and pre-cruise exploration. Abu Dhabi offers the magnificent Sheikh Zayed Grand Mosque and Ferrari World. Sir Bani Yas Island provides Royal Caribbean's exclusive beach experience with wildlife safaris on a former private royal reserve. Muscat, Oman delivers dramatic mountain and fjord landscapes contrasting with UAE modernity. Extended itineraries incorporate Doha, Qatar with its renowned Museum of Islamic Art and traditional souqs, plus Fujairah on the UAE's Indian Ocean coast known for snorkeling and historic mosques. Repositioning cruises may include Mumbai, Goa, and Kochi in India, or Aqaba, Jordan for Petra access, expanding the regional scope significantly."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Arabian Gulf cruises, advance planning significantly impacts both pricing and cabin selection. Royal Caribbean releases itineraries approximately 18 months ahead, with optimal booking windows opening 12-15 months prior for peak December-February sailings. Suite accommodations, particularly the Ultimate Family Suite and Grand Suites, often sell out 9-12 months ahead. Standard balcony cabins should be secured 6-9 months before departure for best location and rates. Last-minute deals occasionally appear 60-90 days out for low-season November and March departures, though cabin selection becomes limited. Wave Season (January-March) promotional periods offer the year's strongest incentives—reduced deposits, onboard credits up to EUR 300, and complimentary beverage packages—making this ideal booking time regardless of actual sailing date."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Arabian Gulf cruises excel for families, combining shipboard innovation with destination education. Wonder and Spectrum of the Seas deliver unmatched family infrastructure: Adventure Ocean divides children into Aquanauts (3-5), Explorers (6-8), Voyagers (9-11), plus dedicated teen spaces with DJ academies and social events. The Ultimate Abyss slide, zip line, FlowRider surf simulator, and ice skating rink engage all ages. Shore excursions offer family-appropriate options—desert safaris with dune bashing and camel rides, snorkeling at Sir Bani Yas Island, and Dubai's theme parks. Staterooms accommodate families of five in select categories, while the Ultimate Family Suite features an in-room slide and private cinema. The region's safety, English prevalence, and excellent medical facilities provide parental peace of mind uncommon in other exotic destinations."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's standard cancellation policy for Arabian Gulf cruises operates on a tiered structure: full refund minus deposit for cancellations 90+ days before sailing; deposit forfeiture for cancellations 89-75 days out; 25% penalty for 74-61 days; 50% penalty for 60-31 days; 75% penalty for 30-15 days; and 100% forfeiture within 14 days of departure. Cancel For Any Reason protection, available as add-on purchase within initial booking window, provides future cruise credits worth 75-100% of non-refundable amounts depending on plan selected. COVID-19 protocols remain flexible with full credits offered for positive tests within 48 hours of sailing. Travel insurance strongly recommended given international medical evacuation costs from the region can exceed EUR 50,000. Rebooking fees of EUR 100 per person apply to date changes outside penalty windows."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "title": "Oceania Cruises Transatlantic Cruises 2026",
+  "intro": "Oceania Cruises elevates Transatlantic crossings to an art form, combining the romance of classic ocean voyages with contemporary luxury. Renowned for the finest cuisine at sea, these repositioning cruises aboard intimate, mid-sized vessels offer an unhurried journey between Europe and the Americas. Passengers savour Jacques Pépin-inspired menus, curated wine programmes, and destination-rich itineraries that linger in iconic ports rather than rushing through. With no more than 1,250 guests, Oceania's Transatlantic sailings attract discerning travellers seeking enrichment through guest lectures, cooking demonstrations, and spa wellness. The ships' elegant, residential-style suites and verandas provide private sanctuary during days at sea, while the sophisticated yet relaxed atmosphere distinguishes Oceania from both mass-market and ultra-luxury alternatives. These voyages represent exceptional value for inclusive luxury.",
+  "quick_facts": {
+    "price_from_eur": 2499,
+    "duration_range": "14-24 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "ships_on_route": [
+      "Marina",
+      "Riviera",
+      "Insignia",
+      "Nautica",
+      "Vista"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon",
+      "Miami",
+      "New York",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring Repositioning (Westbound)",
+      "inside_eur": 2499,
+      "balcony_eur": 3499,
+      "suite_eur": 5899
+    },
+    {
+      "season": "Autumn Repositioning (Eastbound)",
+      "inside_eur": 2299,
+      "balcony_eur": 3299,
+      "suite_eur": 5499
+    },
+    {
+      "season": "Holiday Crossing",
+      "inside_eur": 2899,
+      "balcony_eur": 4199,
+      "suite_eur": 6999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Barcelona to Miami",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Palma de Mallorca",
+        "Malaga",
+        "Cadiz",
+        "Lisbon",
+        "Ponta Delgada",
+        "Royal Naval Dockyard",
+        "Miami"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Overnight in Lisbon with exclusive Azores stop"
+    },
+    {
+      "name": "18-night Lisbon to New York",
+      "duration_nights": 18,
+      "ports": [
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "St. John's",
+        "Gustavia",
+        "San Juan",
+        "Newport",
+        "New York"
+      ],
+      "price_from_eur": 3199,
+      "highlight": "Extended Caribbean exploration with Bermuda"
+    },
+    {
+      "name": "24-night Southampton to Miami",
+      "duration_nights": 24,
+      "ports": [
+        "Southampton",
+        "Le Havre",
+        "Bruges",
+        "Amsterdam",
+        "Cherbourg",
+        "Cobh",
+        "Ponta Delgada",
+        "Hamilton",
+        "Miami"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Grand European capitals before Atlantic crossing"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Vista",
+      "capacity": 1200,
+      "year": 2023,
+      "best_for": "Culinary enthusiasts & suite seekers",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Destination immersion & cooking classes",
+      "price_from_eur": 2499
+    },
+    {
+      "name": "Riviera",
+      "capacity": 1250,
+      "year": 2012,
+      "best_for": "Art collectors & wine connoisseurs",
+      "price_from_eur": 2499
+    },
+    {
+      "name": "Insignia",
+      "capacity": 684,
+      "year": 1998,
+      "best_for": "Intimate atmosphere & value-conscious luxury",
+      "price_from_eur": 2299
+    },
+    {
+      "name": "Nautica",
+      "capacity": 684,
+      "year": 2000,
+      "best_for": "Veteran Oceania guests & extended voyages",
+      "price_from_eur": 2299
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining rooms and specialty restaurants",
+    "Unlimited soft drinks, bottled water, specialty coffees",
+    "Unlimited WiFi",
+    "Room service 24 hours",
+    "Fitness centre and spa access",
+    "Enrichment lectures and cooking demonstrations",
+    "Destination services and concierge",
+    "Pre-paid gratuities",
+    "Airport transfers with OLife Choice",
+    "Shore excursion credit or beverage package or shipboard credit (OLife)"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages (without OLife beverage package)",
+    "Premium shore excursions",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Photography services",
+    "Casino gaming",
+    "Medical services",
+    "Satellite telephone",
+    "Boutique purchases",
+    "Airfare (unless selected with OLife Plus)"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for optimal suite selection and OLife Choice amenities; wave season (January-March) offers enhanced credits and reduced deposits. Consider back-to-back segments for additional savings.",
+  "top_ports": [
+    {
+      "port": "Lisbon",
+      "time_in_port": "8am-6pm (often overnight)",
+      "top_activity": "Sintra private tour (€189)",
+      "tip": "Request port side for castle views sailing in"
+    },
+    {
+      "port": "Ponta Delgada, Azores",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sete Cidades crater lakes (€149)",
+      "tip": "Weather changes rapidly; bring layers"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Toboggan ride and wine tasting (€129)",
+      "tip": "Morning cable car avoids crowds"
+    },
+    {
+      "port": "Royal Naval Dockyard, Bermuda",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Crystal caves and Hamilton (€159)",
+      "tip": "Ferry to Hamilton faster than excursion bus"
+    },
+    {
+      "port": "San Juan",
+      "time_in_port": "1pm-8pm",
+      "top_activity": "Old San Juan food walk (€99)",
+      "tip": "Evening departure allows sunset sailaway"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Transatlantic cruise cost?",
+      "answer": "Oceania Cruises Transatlantic voyages typically range from €2,299 to €6,999 per person based on double occupancy, depending on season, ship, and accommodation category. Inside staterooms start around €2,299 for 14-night crossings on refurbished R-class ships, while balcony accommodations on Vista or Marina begin at €3,299. Owner's Suites and Oceania Suites command €5,899-€12,000+. The OLife Choice promotion significantly enhances value by including airfare, shore excursion credits (€600-€1,600), beverage packages, or shipboard credits. Solo travellers face 125-175% single supplements, though occasional reduced supplement promotions appear. Taxes and port fees add €350-€550. Compared to luxury competitors, Oceania delivers exceptional culinary and service standards at moderate premium positioning."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Transatlantic?",
+      "answer": "Oceania deploys its entire fleet on Transatlantic repositioning cruises, with vessel selection determining experience style. Vista (2023, 1,200 guests) offers the newest suites, Aquamar Spa, and Ember signature restaurant. Marina and Riviera (1,250 guests each) feature the acclaimed Culinary Centre hands-on cooking school, Artist Loft, and Bon Appétit Culinary Center. These O-class ships provide more entertainment and dining variety. Insignia and Nautica (684 guests each) deliver intimate, yacht-like ambience with longer port calls and access to smaller harbours. All five vessels undergo regular refurbishment; Marina and Riviera received 2022 updates. Ship deployment varies seasonally, with Vista typically handling autumn eastbound crossings and spring westbound routes from Barcelona or Lisbon."
+    },
+    {
+      "question": "When is best time to cruise Transatlantic?",
+      "answer": "The optimal Transatlantic windows align with Oceania's repositioning schedule: April-May for westbound Europe-to-Americas crossings, and October-November for eastbound returns. These shoulder seasons offer moderate Atlantic weather, fewer hurricanes, and compelling pricing. April sailings enjoy blooming Azores and comfortable Mediterranean departures. October crossings capture autumn foliage in New England stops and pleasant Caribbean approaches. Avoid peak summer when Oceania concentrates on Mediterranean and Baltic itineraries. December holiday crossings command premiums but feature festive programming. January-March wave season bookings secure best 2026 availability. Sea conditions vary: westbound crossings encounter stronger prevailing winds, while eastbound routes typically enjoy smoother sailing. The Azores High pressure system generally ensures calmer mid-Atlantic conditions than historical accounts suggest."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Transatlantic value proposition centres on comprehensive inclusions exceeding premium competitors. All dining experiences carry no surcharge, including specialty venues Polo Grill, Toscana, Red Ginger, and Jacques—unrivalled in the industry. Unlimited WiFi, specialty coffees, juices, and soft drinks are standard. OLife Choice promotions add significant value: select complimentary roundtrip airfare with transfers, free shore excursions (credit amount varies by voyage length), House Select beverage package, or shipboard credit. Accommodations feature Prestige Tranquility Beds, Bulgari amenities, and 24-hour room service. Enrichment programming includes guest lecturers, bridge instruction, culinary demonstrations, and digital photography workshops. Fitness centre, sauna, and steam room access are complimentary. Pre-paid gratuities eliminate end-of-cruise tipping obligations. The only significant exclusions are alcoholic beverages (without OLife selection), spa treatments, and premium shore excursions."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Transatlantic itineraries emphasize cultural depth over rapid transit, featuring 6-10 ports on typical 14-18 night crossings. Western departures from Barcelona, Lisbon, or Southampton incorporate Iberian and French Atlantic coastlines—Cadiz, Malaga, Le Havre, Cherbourg—before open ocean. The Azores (Ponta Delgada) appears on most routings, offering volcanic landscapes and whale watching. Caribbean and Bermuda segments vary: eastbound crossings may include San Juan, St. John's Antigua, or Gustavia; westbound routes often feature Hamilton, Newport, or New York. Some extended voyages reach Brazilian Recife or Salvador. Unlike mass-market lines, Oceania schedules longer port stays, occasional overnights in Lisbon or Bermuda, and avoids private island diversions. The strategic port selection enables meaningful destination immersion rather than tokenistic stops, with enrichment lecturers contextualising each region's history and culture."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Securing preferred accommodations on Oceania Transatlantic crossings requires 9-18 month advance planning, particularly for Vista's top suites and Marina's Concierge Level verandas with priority dining. Oceania releases itineraries approximately 18-24 months ahead; early booking secures optimal stateroom location and OLife Choice selection. Wave season (January-March) historically offers enhanced promotions—reduced deposits, upgraded OLife credits, or included airfare upgrades to business class. Last-minute availability occasionally appears 60-90 days prior, primarily in inside categories, with discounts reaching 30-40%. However, suite inventory rarely remains this late. For 2026 crossings, book by mid-2025 for best selection. Consider working with Oceania specialist agents accessing group space and Virtuoso/Signature amenities including additional shipboard credits and priority embarkation."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises explicitly positions itself as adult-oriented, with no children's programming, youth facilities, or dedicated family accommodations. The minimum age is six months (12 months for certain itineraries), but families with children under 18 represent minimal passenger demographics. Transatlantic crossings particularly suit couples and solo travellers seeking intellectual engagement, culinary exploration, and restorative sea days. Teenagers might appreciate the cooking classes and destination immersion, but younger children lack age-appropriate activities and companionship. Dining venues maintain sophisticated ambience without children's menus. Pool areas and spa spaces emphasise tranquillity. Families prioritising togetherness might prefer Oceania's shorter Mediterranean or Caribbean segments with port-intensive schedules. Multi-generational groups with adult children find Oceania suitable, particularly when celebrating milestones, but should confirm all participants appreciate the refined, low-key atmosphere before committing to lengthy crossings."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania's cancellation structure penalises later withdrawals progressively. For standard voyages, cancellation 121+ days prior incurs €250 administrative fee per person; 120-91 days forfeits 25% of cruise fare; 90-76 days loses 50%; 75-61 days sacrifices 75%; and 60 days or less results in 100% forfeiture. These terms apply to cruise fare only; airfare penalties follow carrier rules when Oceania-arranged. Travel insurance is strongly recommended, with Oceania's own programme or third-party coverage protecting against covered reasons. Cancel For Any Reason (CFAR) upgrades typically reimburse 75% in future cruise credits rather than cash. COVID-19 introduced temporary flexibility: bookings made under specific promotions allowed penalty-free changes until final payment. Rebooking on future sailings rather than outright cancellation often preserves more value. Consult specific booking terms, as promotional fares may carry stricter non-refundable deposit requirements."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "title": "Celebrity Cruises vs Oceania Cruises 2026",
+  "intro": "Celebrity Cruises and Oceania Cruises represent two distinct approaches to premium cruising. Celebrity blends modern luxury with contemporary design, targeting sophisticated travellers seeking elevated experiences at accessible price points. Oceania positions itself as the 'foodie' cruise line, emphasizing culinary excellence and destination immersion on smaller, more intimate ships. Both operate in the upper-premium segment, yet differ fundamentally in atmosphere, dining philosophy, and onboard energy. Celebrity appeals to those wanting sleek aesthetics and vibrant entertainment, while Oceania attracts discerning guests prioritizing gastronomy, enrichment, and understated elegance. Understanding these nuances helps travellers select their ideal 2026 voyage.",
+  "at_a_glance": {
+    "celebrity": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "oceania": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 1199
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "celebrity": "€899",
+      "oceania": "€1,199"
+    },
+    {
+      "category": "Ship Size",
+      "celebrity": "2,900 passengers (Edge Class)",
+      "oceania": "1,250 passengers (Riviera/ Marina)"
+    },
+    {
+      "category": "Dining Venues",
+      "celebrity": "29 restaurants & bars",
+      "oceania": "10 dining venues"
+    },
+    {
+      "category": "Specialty Dining Cost",
+      "celebrity": "€45-65 per person",
+      "oceania": "Included in fare"
+    },
+    {
+      "category": "Drinks Package",
+      "celebrity": "All-Included options available",
+      "oceania": "Complimentary beer/wine at lunch/dinner"
+    },
+    {
+      "category": "Dress Code",
+      "celebrity": "Resort casual, Chic Nights",
+      "oceania": "Country club casual, no formal nights"
+    },
+    {
+      "category": "Entertainment",
+      "celebrity": "Broadway-style shows, Eden performances",
+      "oceania": "Enrichment lectures, live music, low-key"
+    },
+    {
+      "category": "Kids Programme",
+      "celebrity": "Camp at Sea (3-17 years)",
+      "oceania": "Limited; Alaska/Europe summer only"
+    },
+    {
+      "category": "Itinerary Focus",
+      "celebrity": "Caribbean, Mediterranean, Northern Europe",
+      "oceania": "Extended port stays, overnight calls"
+    },
+    {
+      "category": "WiFi",
+      "celebrity": "Premium packages available",
+      "oceania": "Free unlimited WiFi"
+    }
+  ],
+  "choose_a_if": [
+    "You prefer contemporary, design-forward ships with innovative venues like the Magic Carpet and Eden",
+    "You want vibrant entertainment, nightlife, and a younger, more energetic onboard atmosphere",
+    "You're travelling with children or multi-generational groups needing dedicated youth facilities",
+    "You value included drinks packages and prefer predictable pricing with optional upgrades",
+    "You enjoy resort-style cruising with multiple pools, spa complexes, and active programming"
+  ],
+  "choose_b_if": [
+    "Culinary excellence is your primary motivation; you want Jacques Pépin-curated menus and hands-on cooking classes",
+    "You prefer intimate, uncrowded ships where you recognize crew and fellow passengers",
+    "You seek immersive destination experiences with longer port stays and overnights",
+    "You dislike formal nights and prefer relaxed, country club casual dress codes throughout",
+    "You value included specialty dining, shore excursion credits, and unlimited WiFi in base fares"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Celebrity Cruises",
+      "reason": "Camp at Sea offers comprehensive programming for ages 3-17 with STEM activities and dedicated facilities, while Oceania provides minimal children's services."
+    },
+    {
+      "type": "Food Enthusiasts",
+      "winner": "Oceania Cruises",
+      "reason": "Jacques Pépin's culinary direction, the Culinary Center cooking school, and all-inclusive specialty dining create unmatched gastronomic experiences at sea."
+    },
+    {
+      "type": "Active Adults",
+      "winner": "Celebrity Cruises",
+      "reason": "Rooftop garden, fitness centre, and diverse activity programming suit guests wanting movement and wellness alongside relaxation."
+    },
+    {
+      "type": "Cultural Explorers",
+      "winner": "Oceania Cruises",
+      "reason": "Overnight port stays, destination-focused lectures, and smaller ships accessing boutique harbours enable deeper cultural immersion."
+    },
+    {
+      "type": "Romance Seekers",
+      "winner": "Oceania Cruises",
+      "reason": "Intimate ambiance, no children on most sailings, and refined dining create ideal conditions for couples celebrating special occasions."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends on your priorities. Oceania's higher base fare includes specialty dining, unlimited WiFi, and shore excursion credits, potentially delivering superior value for food-focused travellers. Celebrity's lower entry price with optional packages suits those wanting flexibility. Calculate total costs including drinks, dining, and WiFi for accurate comparison. Oceania typically wins for inclusive value; Celebrity for budget-conscious flexibility."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Celebrity Cruises decisively wins for families. Camp at Sea provides age-appropriate programming for toddlers through teens, including STEM partnerships and dedicated facilities. Family suites, connecting rooms, and child-friendly menus accommodate multi-generational groups. Oceania's limited children's programming operates only seasonally on select itineraries, with no dedicated youth staff or facilities. Oceania explicitly markets to adults; families should expect minimal engagement for younger travellers."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Celebrity's 2026 seven-night Mediterranean inside cabins start around €899, while Oceania's comparable itineraries begin at €1,199. However, Oceania includes specialty dining, WiFi, and excursion credits worth €400-600. Celebrity's base fare covers accommodation and main dining; beverages, WiFi, and specialty restaurants require packages averaging €80-120 daily. Oceania's transparent pricing often proves competitive when comparing fully-loaded costs, particularly for guests utilizing included amenities extensively."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Oceania dominates culinary reputation with Jacques Pépin's oversight, the Culinary Center for hands-on classes, and complimentary specialty dining across all venues. The Grand Dining Room rivals land-based fine dining. Celebrity offers excellent cuisine—particularly in Eden and Raw on 5—but charges for specialty venues and lacks Oceania's cohesive gastronomic identity. Food critics consistently rank Oceania among cruising's top three culinary experiences; Celebrity sits in the upper tier without equivalent accolades."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Celebrity suits first-time cruisers seeking contemporary resort experiences with familiar amenities, vibrant entertainment, and intuitive ship layouts. The Edge Class particularly impresses with Instagram-worthy design and approachable luxury. Oceania's refined atmosphere and enrichment focus may overwhelm newcomers expecting traditional cruise excitement. First-timers wanting to understand cruising fundamentals—shows, pools, organized activities—find Celebrity more accessible. Oceania rewards experienced travellers knowing precisely what they want."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Celebrity emphasizes modern luxury through architectural innovation, energetic ambiance, and inclusive package options on larger ships. Oceania prioritizes culinary artistry, destination depth, and understated elegance aboard intimate vessels. Celebrity attracts diverse demographics including families; Oceania courts affluent adults without children. Entertainment differs dramatically: Celebrity produces Broadway-calibre productions; Oceania offers enrichment and conversation. Both deliver premium experiences, yet appeal to fundamentally different traveller psychologies and vacation intentions."
+    }
+  ]
+}

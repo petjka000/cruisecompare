@@ -1,0 +1,229 @@
+{
+  "title": "Celebrity Cruises Alaska Cruises 2026",
+  "intro": "Celebrity Cruises elevates Alaska exploration through its modern luxury lens, combining intimate destination immersion with sophisticated onboard experiences. The premium line distinguishes itself in the Last Frontier through smaller ship deployment than mass-market competitors, enabling access to narrower fjords and less-crowded ports. Celebrity's Alaska programming emphasizes naturalist-led enrichment, with dedicated expedition teams delivering glacier and wildlife commentary from multiple viewing decks. The line's signature Lawn Club and outdoor spaces prove exceptionally suited to Alaska's dramatic scenery, while culinary partnerships with regional suppliers bring authentic Pacific Northwest flavors aboard. Solstice-class ships feature the highest ratio of balcony staterooms in Alaska cruising, ensuring passengers private viewing of calving glaciers and breaching whales. Celebrity's extended evening port stays in Juneau and Ketchikan maximize opportunities for independent exploration and evening wildlife encounters.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Celebrity Solstice",
+      "Celebrity Eclipse",
+      "Celebrity Summit"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Vancouver",
+      "Seward"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 849,
+      "balcony_eur": 1299,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1199,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Prime July",
+      "inside_eur": 1399,
+      "balcony_eur": 2299,
+      "suite_eur": 4299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Alaska Hubbard Glacier",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Juneau",
+        "Skagway",
+        "Ketchikan",
+        "Seattle"
+      ],
+      "price_from_eur": 949,
+      "highlight": "Sails past North America's largest tidewater glacier"
+    },
+    {
+      "name": "Alaska Dawes Glacier",
+      "duration_nights": 7,
+      "ports": [
+        "Seattle",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Victoria"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Endicott Arm fjord navigation with glacier calving"
+    },
+    {
+      "name": "Alaska Northbound Glacier",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Seward"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "One-way route with extended Denali land options"
+    },
+    {
+      "name": "Alaska Southbound Glacier",
+      "duration_nights": 7,
+      "ports": [
+        "Seward",
+        "Hubbard Glacier",
+        "Juneau",
+        "Skagway",
+        "Ketchikan",
+        "Vancouver"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Southbound routing with optimal glacier lighting"
+    },
+    {
+      "name": "Alaska Double Dawes",
+      "duration_nights": 11,
+      "ports": [
+        "Vancouver",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Icy Strait Point",
+        "Sitka",
+        "Victoria"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Comprehensive Inside Passage with rare Sitka call"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Celebrity Solstice",
+      "capacity": 2850,
+      "year": 2008,
+      "best_for": "Scenic cruising & outdoor spaces",
+      "price_from_eur": 949
+    },
+    {
+      "name": "Celebrity Eclipse",
+      "capacity": 2850,
+      "year": 2010,
+      "best_for": "Premium dining & wellness focus",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Celebrity Summit",
+      "capacity": 2150,
+      "year": 2001,
+      "best_for": "Intimate port access & value",
+      "price_from_eur": 849
+    }
+  ],
+  "whats_included": [
+    "All meals in main dining room & buffet",
+    "Select casual dining venues",
+    "Evening entertainment & live music",
+    "Fitness center & pool access",
+    "Naturalist lectures & port talks",
+    "Kids club programming",
+    "Room service (excluding late night)"
+  ],
+  "whats_extra": [
+    "Premium drinks packages (Classic €55/day, Premium €69/day)",
+    "Specialty dining (€35-75 per person)",
+    "Shore excursions (€89-449)",
+    "WiFi packages (€19-35/day)",
+    "Spa treatments & salon services",
+    "Laundry services",
+    "Gratuities (€15.50/day recommended)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for optimal balcony cabin selection and early booking savings of 15-25%. Wave season (January-March) typically offers the strongest incentives including onboard credits and beverage package inclusions. Alaska inventory contracts quickly for July departures.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Mendenhall Glacier & whale watching combo (€189)",
+      "tip": "Book independent helicopter glacier trek for smaller groups"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-6pm",
+      "top_activity": "White Pass & Yukon Route railway (€149)",
+      "tip": "Book port-side rail seats for best canyon views"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Misty Fjords flightseeing (€289)",
+      "tip": "Morning departures offer calmer waters for floatplane"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "1pm-10pm",
+      "top_activity": "World's longest ziprider (€159)",
+      "tip": "Evening port stay maximizes bear spotting opportunities"
+    },
+    {
+      "port": "Sitka",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Sea otter & wildlife quest (€169)",
+      "tip": "Raptor Center visit pairs well with independent town walk"
+    },
+    {
+      "port": "Victoria BC",
+      "time_in_port": "5pm-11:59pm",
+      "top_activity": "Butchart Gardens evening admission (€89)",
+      "tip": "Ship's evening arrival showcases illuminated gardens"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Celebrity Cruises Alaska cruise cost?",
+      "answer": "Celebrity Alaska cruises typically range from €849 for interior staterooms during shoulder season (May/September) to €4,299+ for suites in peak July. Balcony cabins, essential for glacier viewing, average €1,299-€2,299 depending on sailing date. Seven-night voyages from Seattle or Vancouver represent the best value entry point, while northbound/southbound routes with land extensions command premiums. All-inclusive packages adding drinks, WiFi, and gratuities add approximately €450-€600 per person weekly. Solo travelers face 75-100% single supplements, though promotional periods occasionally reduce this to 25%."
+    },
+    {
+      "question": "Which Celebrity Cruises ships sail to Alaska?",
+      "answer": "Celebrity deploys three Solstice-class vessels to Alaska: Celebrity Solstice, Celebrity Eclipse, and Celebrity Summit. Solstice and Eclipse (2,850 passengers each) offer identical layouts with the signature Lawn Club real grass deck, ideal for outdoor Alaska viewing. Celebrity Summit (2,150 passengers) provides a more intimate experience with superior access to smaller ports. All three feature the line's modern luxury aesthetic with 85%+ balcony stateroom ratios, multiple specialty dining venues, and Canyon Ranch spa partnerships. Summit's smaller size enables closer navigation to glacier faces and reduced tendering requirements."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "Late June through mid-July offers optimal wildlife viewing with peak salmon runs attracting bears, and humpback whales feeding in concentrated numbers. However, this period commands 30-40% price premiums and experiences maximum precipitation. May delivers drier conditions, snow-capped mountains, and aggressive pricing with 25% savings, though some trails remain snowbound. August provides excellent fishing and berry season with slightly reduced crowds. September offers dramatic autumn foliage, northern lights possibilities, and lowest pricing, but carries weather interruption risks. Glaciers calve year-round, though summer warmth increases activity."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Celebrity's Alaska fares encompass accommodations, all meals in main dining room and Oceanview Café buffet, select casual venues including Mast Grill, evening production shows and live music, comprehensive fitness facilities, naturalist-led enrichment programming, youth activities through Camp at Sea, and standard room service. Non-alcoholic beverages (coffee, tea, juices) are included at meals. Exclusions comprise alcoholic beverages, specialty restaurants, shore excursions, WiFi, spa services, and gratuities. The All Included package upgrade bundles Classic drinks, basic WiFi, and gratuities for approximately €55 daily, representing savings for moderate drinkers."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Celebrity's Alaska itineraries center on Southeast Alaska's Inside Passage, with core ports including Juneau (state capital with Mendenhall Glacier access), Skagway (Gold Rush history and White Pass railway), and Ketchikan (totem pole heritage and Misty Fjords). Select sailings incorporate Icy Strait Point (Hoonah Native-owned destination with exceptional bear viewing), Sitka (Russian colonial history and sea otter populations), and Victoria BC (Butchart Gardens). One-way routes between Vancouver and Seward/Whittier enable pre/post-cruise Alaska interior exploration including Denali National Park. Hubbard Glacier and Dawes Glacier serve as scenic cruising highlights without port calls."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Optimal booking window for Celebrity Alaska cruises is 9-12 months prior to sailing, particularly for balcony cabins and Concierge-class upgrades that sell rapidly. July departures and suite categories often reach capacity 6-8 months ahead. Wave season (January-March) historically delivers strongest incentives including onboard credits, beverage package inclusions, and reduced deposits. Last-minute Alaska inventory rarely discounts significantly due to constrained ship deployment and high demand. Booking early also secures preferred dining times and early shore excursion access. Flexible travelers monitoring cancellations may find sporadic balcony inventory 30-60 days out at modest savings."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Celebrity accommodates families well though targets adults primarily; children comprise 15-20% of Alaska passengers versus 35%+ on Caribbean routes. Camp at Sea provides complimentary programming ages 3-17 with Alaska-specific educational modules including junior naturalist certification. Family-friendly stateroom configurations include connecting rooms and quad-occupancy options. The Lawn Club and outdoor spaces engage children during scenic cruising. However, limited water slide facilities and absence of character entertainment distinguish Celebrity from family-focused competitors. Multigenerational groups appreciate the line's ability to satisfy diverse interests simultaneously. Family pricing includes third/fourth passengers at substantially reduced rates, often €299-€499 for seven-night sailings."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Celebrity's standard Alaska cancellation policy imposes penalties escalating by departure proximity: full refund for cancellations 90+ days prior, deposit forfeiture (typically €250-€450) at 89-75 days, 25% penalty at 74-61 days, 50% at 60-31 days, 75% at 30-15 days, and 100% forfeiture within 14 days. Cancel for Any Reason protection, available for purchase within initial booking window, provides future cruise credits worth 75-90% of fare depending on plan tier. COVID-19 protocols have introduced temporary flexible booking options with extended final payment deadlines. Travel insurance covering trip interruption is strongly recommended given Alaska's weather-related disruption potential and remote medical evacuation costs exceeding €50,000."
+    }
+  ]
+}

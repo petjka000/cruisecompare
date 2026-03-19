@@ -1,0 +1,141 @@
+{
+  "title": "Virgin Voyages Canary Islands Cruises 2026",
+  "intro": "Virgin Voyages brings its adults-only revolution to the Canary Islands, offering a sophisticated escape from traditional cruising. Sail aboard the sleek Scarlet Lady or Valiant Lady to discover Tenerife's volcanic landscapes, Lanzarote's otherworldly terrain, and Gran Canaria's golden dunes. Virgin's distinctive approach eliminates buffets and formal nights, replacing them with 20+ curated dining venues, immersive entertainment, and wellness-focused programming. The Canary Islands route combines Atlantic crossings with extended port stays, allowing deeper exploration of this Spanish archipelago. Expect late-night departures from Santa Cruz de Tenerife, sunrise yoga on the sundeck, and the signature Beach Club at Playa Blanca. With all-inclusive dining, group fitness classes, and WiFi bundled into fares, Virgin delivers exceptional value for discerning travelers seeking culture, adventure, and vibrant nightlife without children onboard.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "Scarlet Lady",
+      "Valiant Lady"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 1999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Canary Islands Escape",
+      "duration_nights": 7,
+      "ports": [
+        "Barcelona",
+        "Santa Cruz de Tenerife",
+        "Arrecife",
+        "Las Palmas"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Late-night Tenerife stay with stargazing excursion"
+    },
+    {
+      "name": "11-night Atlantic Crossing",
+      "duration_nights": 11,
+      "ports": [
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Arrecife",
+        "Casablanca"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Madeira wine tasting and Moroccan medina exploration"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Scarlet Lady",
+      "capacity": 2770,
+      "year": 2021,
+      "best_for": "Adults seeking nightlife and wellness",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Valiant Lady",
+      "capacity": 2770,
+      "year": 2022,
+      "best_for": "Adventure travelers and food enthusiasts",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "All dining at 20+ restaurants",
+    "Group fitness classes",
+    "Basic WiFi",
+    "Entertainment",
+    "Gratuities"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages",
+    "Premium WiFi",
+    "Spa treatments",
+    "Shore excursions",
+    "Flights and transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking perks including free drinks packages",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-11pm",
+      "top_activity": "Teide National Park sunset tour (€89)",
+      "tip": "Reserve restaurant 6:45pm for pre-departure dining"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Timanfaya volcanic winery experience (€75)",
+      "tip": "Morning arrival ideal for photography"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "10am-8pm",
+      "top_activity": "Maspalomas dunes camel ride (€45)",
+      "tip": "Beach Club day pass available until 6pm"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages Canary Islands cruise cost?",
+      "answer": "Virgin Voyages Canary Islands cruises start from €699 per person for interior cabins on 7-night sailings, with balcony cabins typically €999-€1299 and RockStar suites from €1999. Peak season December-February commands 20-30% premiums. The 11-night Atlantic crossings range €1199-€2499. All fares include dining, WiFi, gratuities, and fitness classes, making Virgin competitively priced against premium lines when comparing inclusions."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to Canary Islands?",
+      "answer": "The Scarlet Lady and Valiant Lady operate Canary Islands itineraries from Barcelona and Lisbon. Both 110,000-ton sister ships accommodate 2,770 passengers in adults-only environments. Scarlet Lady pioneered the route in 2021, while Valiant Lady joined offering alternating departures. Neither Resilient Lady nor Brilliant Lady currently schedule Canary Islands sailings, focusing instead on Caribbean and Australasia routes respectively."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "December through February offers ideal conditions with temperatures 20-24°C, minimal rainfall, and whale watching opportunities for migrating humpbacks and pilot whales. Spring March-May brings blooming almond blossoms in Tenerife. September-November provides warm seas for swimming with fewer crowds. Summer months June-August see temperatures reaching 28°C but stronger trade winds; however, Virgin's late port stays maximize comfortable exploration hours."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages includes all dining at 20+ venues from Korean BBQ to fine dining, non-alcoholic beverages, group fitness classes including yoga and cycling, basic WiFi for one device, all entertainment and shows, and gratuities. The line famously excludes buffets, main dining rooms, and formal nights. Not included are alcoholic drinks, premium WiFi upgrades, spa treatments, shore excursions, and flights. Bar tab packages can be pre-purchased."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Canary Islands itineraries feature Santa Cruz de Tenerife with overnight or late stays for Teide volcano excursions, Arrecife on Lanzarote for Timanfaya National Park's lunar landscapes, and Las Palmas on Gran Canaria for Maspalomas dunes. Extended sailings add Funchal, Madeira for wine experiences and occasionally Casablanca, Morocco. Barcelona and Lisbon serve as primary embarkation points with pre-cruise stay recommendations for jet lag recovery."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Virgin Voyages Canary Islands cruises 9-12 months in advance for optimal cabin selection, particularly for sought-after Sea Terrace balconies and RockStar suites. Early booking typically secures free bar tab credits worth €100-€300 and reduced deposits. Last-minute deals occasionally appear 60-90 days prior for interior cabins, though itinerary availability becomes limited. Wave season January-March offers the strongest promotions for the following winter's Canary sailings."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages operates strictly adults-only with minimum age 18, making Canary Islands sailings unsuitable for families with children. The experience targets travelers seeking sophisticated nightlife, wellness programming, and culinary exploration without family-oriented amenities like kids clubs or waterslides. Couples, friend groups, and solo travelers appreciate the adult-focused environment. Families should consider Royal Caribbean, MSC, or Norwegian for Canary Islands options with children's programming and intergenerational activities."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Virgin Voyages offers flexible cancellation with full refund if cancelled 120+ days before sailing. Deposits are 20% of cruise fare, refundable until final payment due 120 days prior. Within 120-90 days, cancellation incurs loss of deposit; 89-60 days loses 50% of fare; 59-30 days loses 75%; under 30 days forfeits 100%. Travel insurance is strongly recommended for Canary Islands sailings given flight connections and weather variables affecting Atlantic crossings."
+    }
+  ]
+}

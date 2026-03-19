@@ -1,0 +1,182 @@
+{
+  "title": "Oceania Cruises Antarctica Cruises 2026",
+  "intro": "Oceania Cruises brings its signature culinary excellence and intimate luxury to the pristine wilderness of Antarctica, offering discerning travellers an unparalleled expedition experience. Unlike mass-market operators, Oceania combines sophisticated onboard dining curated by Master Chef Jacques Pépin with rigorous polar exploration aboard specially equipped vessels. The line's smaller ships navigate where larger vessels cannot, delivering passengers closer to towering icebergs, bustling penguin colonies, and breaching whales. With all-veranda accommodations, personalised service, and enrichment programmes led by naturalists and glaciologists, Oceania transforms Antarctica from mere destination to transformative journey. The line's commitment to destination immersion extends to pre- and post-cruise land programmes in Buenos Aires and Santiago, ensuring guests experience South American culture before venturing south. For travellers seeking refined comfort without sacrificing authentic adventure, Oceania represents the definitive Antarctic cruise experience.",
+  "quick_facts": {
+    "price_from_eur": 7499,
+    "duration_range": "18-24 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Marina",
+      "Nautica"
+    ],
+    "departure_ports": [
+      "Buenos Aires",
+      "Santiago"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Jan-Feb)",
+      "inside_eur": 7499,
+      "balcony_eur": 11999,
+      "suite_eur": 24999
+    },
+    {
+      "season": "Shoulder (Mar)",
+      "inside_eur": 6999,
+      "balcony_eur": 10999,
+      "suite_eur": 22999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Antarctica & Patagonia Explorer",
+      "duration_nights": 20,
+      "ports": [
+        "Buenos Aires",
+        "Montevideo",
+        "Puerto Madryn",
+        "Falkland Islands",
+        "Antarctic Peninsula",
+        "Ushuaia",
+        "Punta Arenas",
+        "Puerto Montt",
+        "Santiago"
+      ],
+      "price_from_eur": 8499,
+      "highlight": "Comprehensive Antarctic Peninsula experience with multiple Zodiac landings"
+    },
+    {
+      "name": "Grand South America & Antarctica",
+      "duration_nights": 24,
+      "ports": [
+        "Rio de Janeiro",
+        "Montevideo",
+        "Buenos Aires",
+        "Puerto Madryn",
+        "Antarctic Peninsula",
+        "Ushuaia",
+        "Punta Arenas",
+        "Valparaiso"
+      ],
+      "price_from_eur": 11299,
+      "highlight": "Extended journey combining Brazil, Argentina and Antarctica with overnight in Buenos Aires"
+    },
+    {
+      "name": "Antarctica Intensive",
+      "duration_nights": 18,
+      "ports": [
+        "Buenos Aires",
+        "Ushuaia",
+        "Antarctic Peninsula",
+        "South Shetland Islands",
+        "Falkland Islands",
+        "Montevideo"
+      ],
+      "price_from_eur": 7499,
+      "highlight": "Maximum time in Antarctic waters with extended Zodiac excursions"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Culinary enthusiasts and luxury seekers",
+      "price_from_eur": 8499
+    },
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "best_for": "Intimate expedition experience and polar navigation",
+      "price_from_eur": 7499
+    }
+  ],
+  "whats_included": [
+    "All meals in multiple speciality restaurants",
+    "Unlimited soft drinks and bottled water",
+    "Complimentary shore excursions in select ports",
+    "Enrichment lectures and destination seminars",
+    "Fitness centre and wellness classes",
+    "Self-service laundry",
+    "Pre-paid gratuities",
+    "Round-trip airfare from selected gateways",
+    "Overseas transfers"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and premium wines",
+    "Comprehensive travel insurance",
+    "Antarctica expedition parka and boots",
+    "Optional Zodiac excursions in Antarctica",
+    "Spa treatments and salon services",
+    "Internet packages",
+    "Laundry and valet services",
+    "Pre- and post-cruise hotel programmes"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking savings of up to 25%",
+  "top_ports": [
+    {
+      "port": "Antarctic Peninsula (various landing sites)",
+      "time_in_port": "Full days with multiple Zodiac excursions",
+      "top_activity": "Zodiac cruising among icebergs and wildlife landings (included)",
+      "tip": "Pack waterproof trousers and layers; weather changes rapidly"
+    },
+    {
+      "port": "Ushuaia, Argentina",
+      "time_in_port": "6am-8pm",
+      "top_activity": "Tierra del Fuego National Park excursion (€89)",
+      "tip": "Arrive early to acclimatise before Antarctic crossing"
+    },
+    {
+      "port": "Falkland Islands (Stanley)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Penguin colony visit at Volunteer Point (€149)",
+      "tip": "Book wildlife excursions immediately upon boarding"
+    },
+    {
+      "port": "Punta Arenas, Chile",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Magdalena Island penguin reserve (€79)",
+      "tip": "Excellent opportunity for photography before disembarkation"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Antarctica cruise cost?",
+      "answer": "Oceania Cruises Antarctica voyages range from €6,999 to €35,000+ per person depending on season, duration, and accommodation category. Inside staterooms start around €6,999 for shoulder season 18-night sailings, while veranda staterooms typically range €11,000-€15,000. Owner's Suites and top-tier accommodations exceed €25,000. Prices include round-trip international airfare, gratuities, and most meals. The comprehensive value proposition distinguishes Oceania from budget expedition operators, with early booking discounts of 10-25% available 12-18 months prior to departure."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Antarctica?",
+      "answer": "Oceania deploys two vessels for Antarctic operations: the 670-passenger Nautica and 1,250-passenger Marina. Nautica, smaller and more manoeuvrable, offers superior access to narrow channels and intimate expedition atmosphere with higher staff-to-guest ratios. Marina provides expanded culinary venues including Jacques and Red Ginger, plus larger accommodation variety. Both ships feature ice-strengthened hulls compliant with Antarctic Treaty environmental protocols. Nautica typically operates dedicated 18-20 night Antarctic intensives, while Marina incorporates Antarctica into longer South American grand voyages. Neither qualifies as true icebreaker, so both rely on favourable conditions and experienced expedition leadership for safe navigation."
+    },
+    {
+      "question": "When is best time to cruise Antarctica?",
+      "answer": "Oceania schedules Antarctic departures during January through March, coinciding with austral summer when pack ice recedes and wildlife activity peaks. January offers optimal penguin chick-rearing with abundant feeding activity and extended daylight hours. February provides the most stable weather window and peak whale concentrations as humpbacks and orcas feed in Antarctic waters. March delivers dramatic ice formations and potential aurora sightings, though temperatures drop and daylight shortens. Oceania avoids November-December departures, unlike some competitors, prioritising more predictable conditions and established wildlife patterns. The line's March sailings often represent best value with reduced pricing despite excellent photographic opportunities."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Antarctica cruises include substantially more than typical premium lines: all meals across multiple restaurants including speciality venues Jacques, Polo Grill, and Toscana; unlimited soft drinks, bottled water, and specialty coffees; complimentary shore excursions in standard ports; enrichment programming with naturalists, historians, and photographers; fitness facilities and group classes; self-service laundry; and pre-paid gratuities. Round-trip airfare from 29 North American gateways and overseas transfers are included. Notably excluded are alcoholic beverages beyond welcome champagne, comprehensive travel insurance, Antarctica-specific expedition gear, and optional Zodiac excursions in Antarctic waters. The 'OLife Choice' promotion often adds free shore excursions, beverage packages, or onboard credit."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania Antarctica itineraries typically depart Buenos Aires or Santiago (Valparaiso), with embarkation often in Ushuaia following overnight hotel stays. Southbound routes include Montevideo, Puerto Madryn, and the Falkland Islands before Antarctic waters. Within Antarctica, specific landing sites vary daily based on ice and weather conditions, potentially including Paradise Harbour, Cuverville Island, Neko Harbour, and the Lemaire Channel. Expedition leaders select from 20+ possible sites to maximise wildlife and scenic encounters. Northbound itineraries incorporate Punta Arenas, Puerto Montt, and Chilean fjords. The 24-night grand voyages add Rio de Janeiro and Brazilian ports. No two Antarctic sailings follow identical routes due to dynamic polar conditions."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Oceania recommends booking Antarctica cruises 12-18 months in advance, with optimal pricing and cabin selection available upon initial itinerary release approximately 18-24 months prior to sailing. The line's smaller capacity and destination popularity means veranda staterooms and suites frequently sell out 9-12 months ahead. Early booking incentives typically include 10-25% savings, free shore excursions, or onboard credits. Last-minute availability is rare and limited to inside categories at full price. Deposit requirements are €1,500-€3,000 per person depending on voyage length, with final payment due 90-150 days before departure. Waitlists operate for sold-out sailings, though cancellation rates are low for this bucket-list destination."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises explicitly targets affluent adult travellers and maintains no dedicated children's programming, youth facilities, or babysitting services. The minimum age for Antarctica sailings is typically 8 years, though the line discourages young children due to expedition rigours, Zodiac safety requirements, and sophisticated onboard atmosphere. Families with mature teenagers (16+) seeking educational adventure may find value in naturalist-led programmes and destination immersion, but should expect adult-oriented dining, entertainment, and fellow passengers. The expedition nature of Antarctica—unpredictable schedules, physical Zodiac embarkation, and lengthy sea days—presents challenges for younger travellers. Oceania's sister brand Regent Seven Seas offers marginally more family accommodation for polar travel, though neither competes with dedicated expedition operators like Lindblad for multi-generational Antarctic experiences."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania's standard cancellation policy for Antarctica cruises imposes penalties escalating by departure proximity: full refund less €150 administrative fee for cancellations 151+ days prior; loss of deposit (€1,500-€3,000) for cancellations 150-91 days prior; 50% of total fare for 90-61 days; 75% for 60-31 days; and 100% forfeiture within 30 days of sailing. 'CruiseCare' protection plans, available for purchase within 14 days of initial deposit, provide cancellation for any reason coverage with future cruise credits rather than cash refunds. Medical evacuation and interruption coverage is strongly recommended given Antarctica's remoteness and limited medical facilities. COVID-19 protocols have introduced additional flexibility, though standard terms apply for non-pandemic cancellations. Travel insurance covering minimum €100,000 emergency evacuation is mandatory for all passengers."
+    }
+  ]
+}

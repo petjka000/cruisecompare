@@ -1,0 +1,185 @@
+{
+  "title": "Disney Cruise Line South America Cruises 2026",
+  "intro": "Disney Cruise Line brings its legendary storytelling magic to South America, offering families an extraordinary blend of cultural discovery and signature Disney enchantment. These carefully crafted itineraries traverse the dramatic coastlines of Brazil, Argentina, and Chile, combining immersive port experiences with world-class onboard entertainment featuring beloved characters, Broadway-caliber shows, and dedicated youth clubs. Sailors witness the thundering Iguazu Falls, explore the vibrant streets of Rio de Janeiro, and navigate the legendary Strait of Magellan while enjoying Disney's unparalleled service standards. The ships serve as floating resorts where parents indulge in adult-exclusive dining and spa experiences while children engage in supervised adventures. With rotational dining, fireworks at sea, and Disney's private island Castaway Cay included on select repositioning routes, these South America voyages represent the ultimate family expedition for those seeking both cultural depth and magical moments.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Disney Wonder",
+      "Disney Magic"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Buenos Aires",
+      "San Diego"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Jan-Feb)",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Shoulder (Mar-Nov)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-Night South America from Buenos Aires",
+      "duration_nights": 10,
+      "ports": [
+        "Buenos Aires",
+        "Montevideo",
+        "Punta del Este",
+        "Porto Belo",
+        "Ilhabela",
+        "Santos"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Tango nights in Buenos Aires with Disney character send-off"
+    },
+    {
+      "name": "14-Night Chilean Fjords & Cape Horn",
+      "duration_nights": 14,
+      "ports": [
+        "San Diego",
+        "Cabo San Lucas",
+        "Lima",
+        "Valparaiso",
+        "Puerto Montt",
+        "Ushuaia",
+        "Buenos Aires"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Scenic cruising through Glacier Alley and Cape Horn"
+    },
+    {
+      "name": "12-Night Brazil Intensive",
+      "duration_nights": 12,
+      "ports": [
+        "Miami",
+        "Salvador",
+        "Rio de Janeiro",
+        "Buzios",
+        "Ilhabela",
+        "Santos"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Overnight in Rio with Disney-exclusive Christ the Redeemer experience"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Wonder",
+      "capacity": 2713,
+      "year": 1999,
+      "best_for": "Families with young children",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Disney Magic",
+      "capacity": 2713,
+      "year": 1998,
+      "best_for": "Multi-generational families",
+      "price_from_eur": 949
+    }
+  ],
+  "whats_included": [
+    "Rotational dining at three themed restaurants",
+    "Unlimited soft drinks at meals",
+    "Live Broadway-style shows",
+    "Character meet-and-greets",
+    "Youth clubs (ages 3-17)",
+    "Pool access and waterslides",
+    "Fitness center",
+    "24-hour room service",
+    "Port adventures concierge"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty coffee",
+    "Palo and Remy adult-exclusive dining ($45-125)",
+    "Port adventures and shore excursions",
+    "Spa treatments and salon services",
+    "Nursery care for under-3s ($9/hour)",
+    "Wi-Fi packages",
+    "Photography and merchandise",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and early booking discounts up to 20%; monitor for Florida resident and Disney Vacation Club member rates 90 days before sailing",
+  "top_ports": [
+    {
+      "port": "Rio de Janeiro",
+      "time_in_port": "8am-6pm (overnight on select sailings)",
+      "top_activity": "Christ the Redeemer & Sugarloaf Mountain ($189)",
+      "tip": "Request port side cabins for iconic harbor approach"
+    },
+    {
+      "port": "Buenos Aires",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Tango dinner show in San Telmo ($145)",
+      "tip": "Extend pre-cruise for full city immersion"
+    },
+    {
+      "port": "Ushuaia",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Tierra del Fuego National Park hiking ($129)",
+      "tip": "Layer clothing; weather changes rapidly"
+    },
+    {
+      "port": "Valparaiso",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Vineyard tour to Casablanca Valley ($165)",
+      "tip": "Walkable colorful hillside neighborhoods near port"
+    },
+    {
+      "port": "Punta Arenas",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Magdalena Island penguin colony ($159)",
+      "tip": "Best penguin viewing January through March"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line South America cruise cost?",
+      "answer": "Disney South America cruises typically range from €899 to €4,500 per person depending on season, cabin category, and itinerary length. Inside cabins start around €899-€1,199 in shoulder seasons, while oceanview rooms run €1,099-€1,499. Balcony accommodations, highly recommended for scenic fjord cruising, range €1,399-€2,299. Concierge-level suites with priority services command €2,999-€4,500. Prices exclude flights, pre-cruise hotels, and gratuities (€14 per person daily). Disney frequently offers Kids Sail Free promotions and early booking discounts of 10-20% for deposits made 12+ months ahead."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to South America?",
+      "answer": "Disney deploys the Disney Wonder and Disney Magic for South America routes, both 2,713-passenger vessels specifically designed for family expedition cruising. The Wonder leads repositioning itineraries between Miami and Buenos Aires via the Amazon and Brazilian coast, while the Magic handles Pacific routes including the Chilean Fjords and Cape Horn transits. These classic ships feature adult-exclusive dining venues Palo and Remy, the AquaDunk waterslide, and Marvel Super Hero Academy. Unlike larger Disney ships, their intimate scale allows access to smaller South American ports like Buzios and Puerto Montt that newer vessels cannot reach."
+    },
+    {
+      "question": "When is best time to cruise South America?",
+      "answer": "Peak season runs December through March, coinciding with South American summer and optimal weather for Patagonian cruising. January and February offer warmest temperatures (25-30°C in Brazil, 15-20°C in Chile) and longest daylight hours essential for scenic fjord navigation. This period also aligns with Brazilian Carnival celebrations on select itineraries. March provides excellent value with fewer crowds and still-mild conditions. Avoid June through August when southern ports experience winter closures and rough Drake Passage conditions. Shoulder months April and November suit budget-conscious travelers accepting cooler temperatures and occasional rain in exchange for 30-40% lower fares."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney South America cruises include rotational dining across three themed restaurants with the same serving team nightly, unlimited fountain beverages at meals, 24-hour room service, and all onboard entertainment including Broadway-caliber Disney musicals, deck parties with fireworks, and character appearances. Youth programming through age 17 operates from 9am-midnight at no charge. Fitness center access, live music, and swimming pools are complimentary. Notably, Disney includes soft drinks throughout the ship—unlike competitors—and provides wave phones for onboard communication. Exclusions cover alcoholic beverages, specialty coffee, adult-exclusive restaurants Palo and Remy, spa services, shore excursions, and gratuities."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney South America itineraries feature diverse port combinations spanning Atlantic and Pacific coasts. Atlantic routes from Buenos Aires include Montevideo's colonial architecture, Punta del Este's beaches, and Brazilian highlights: Salvador's Afro-Brazilian culture, Rio de Janeiro's iconic landmarks with overnight stays, Buzios' resort atmosphere, and São Paulo's coastal access. Pacific itineraries traverse the Chilean Fjords with calls at Puerto Montt's lake district, Punta Arenas' penguin colonies, and Ushuaia—the world's southernmost city. Repositioning voyages may include Lima for Machu Picchu access and Cabo San Lucas. Disney emphasizes extended port times and overnights in marquee destinations to maximize cultural immersion."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Disney South America cruises 12-18 months prior to sailing for optimal cabin selection, particularly for concierge suites and connecting rooms for larger families. Disney releases itineraries approximately 15 months ahead, with early booking rates saving 10-20%. Popular holiday departures and unique itineraries like Cape Horn transits sell out 9-12 months early. Final payment is due 90 days before sailing, when cancellation penalties escalate. Within 75 days, monitor for Florida resident, Disney Vacation Club, and military discounts on unsold inventory. Travel agents specializing in Disney cruises often access group rates unavailable directly."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney South America cruises excel for families seeking educational adventure without sacrificing comfort. Dedicated youth clubs divided by age—It's a Small World Nursery (6 months-3 years, fee-based), Oceaneer Club (3-12), Edge (11-14), and Vibe (14-17)—operate until midnight with supervised programming including South America-themed activities. Family-friendly shore excursions accommodate strollers and varying energy levels. Rotational dining ensures children enjoy varied environments while parents savor adult-exclusive Palo or Remy on select nights. Character dining, fireworks, and deck parties maintain Disney magic despite remote destinations. Multi-generational groups particularly benefit from separate adult and family programming, though families with infants should note limited nursery capacity requiring advance reservation."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line's cancellation policy imposes increasing penalties based on departure proximity. Cancellations 90+ days before sailing forfeit deposit only (typically 20% of cruise fare). Between 89-45 days, penalty rises to 50% of total fare. Final payment due at 90 days triggers stricter terms: 44-30 days incurs 75% penalty, while 29 days or less forfeits 100%. Travel insurance, available through Disney or third parties, is strongly recommended given South America's distance and potential weather disruptions affecting flights. Cancel for Any Reason upgrades provide 75% future cruise credit. Rebooking on the same sailing after cancellation restarts penalty timelines. Named storm protections apply for hurricane-affected itineraries though South America routes rarely encounter such conditions."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "title": "Disney Cruise Line Hawaii Cruises 2026",
+  "intro": "Disney Cruise Line brings its signature magic to the Pacific with Hawaii itineraries that blend tropical paradise with beloved characters and storytelling. Sail aboard the Disney Wonder, the fleet's classic ship perfectly sized for navigating Hawaiian waters while delivering immersive Disney entertainment. These voyages feature exclusive deck parties with fireworks at sea, character encounters in aloha attire, and Polynesian-inspired dining experiences. Families can explore volcanic landscapes, snorkel vibrant coral reefs, and learn traditional hula dancing through Port Adventures curated for all ages. Disney's rotational dining system ensures every evening feels special, while kids clubs keep young cruisers engaged with Hawaii-themed activities. Adults retreat to Quiet Cove pools and Palo restaurant for sophisticated Italian cuisine. With Broadway-caliber shows like \"Frozen, A Musical Spectacular\" and first-run Disney films, sea days become destinations themselves. The combination of Hawaiian culture and Disney enchantment creates multigenerational memories unlike any other cruise experience.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "9-15 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Wonder"
+    ],
+    "departure_ports": [
+      "Vancouver",
+      "San Diego",
+      "Honolulu"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Spring/Fall Shoulder",
+      "inside_eur": 1899,
+      "balcony_eur": 2499,
+      "suite_eur": 4599
+    },
+    {
+      "season": "Summer Peak",
+      "inside_eur": 2399,
+      "balcony_eur": 3199,
+      "suite_eur": 5899
+    },
+    {
+      "season": "Holiday",
+      "inside_eur": 2799,
+      "balcony_eur": 3699,
+      "suite_eur": 6999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Hawaii from Vancouver",
+      "duration_nights": 10,
+      "ports": [
+        "Vancouver",
+        "Hilo",
+        "Honolulu",
+        "Maui",
+        "Nawiliwili"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Scenic Pacific crossing with four island stops"
+    },
+    {
+      "name": "9-night Hawaii Inter-island",
+      "duration_nights": 9,
+      "ports": [
+        "Honolulu",
+        "Maui",
+        "Hilo",
+        "Kona",
+        "Nawiliwili"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Immersive exploration of four major islands"
+    },
+    {
+      "name": "15-night Panama Canal & Hawaii",
+      "duration_nights": 15,
+      "ports": [
+        "San Diego",
+        "Cabo San Lucas",
+        "Puerto Vallarta",
+        "Cartagena",
+        "Panama Canal",
+        "Honolulu"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Epic journey combining engineering marvel with tropical paradise"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Disney Wonder",
+      "capacity": 2713,
+      "year": 1999,
+      "best_for": "Families with young children and multigenerational groups",
+      "price_from_eur": 1899
+    }
+  ],
+  "whats_included": [
+    "Rotational dining at three themed restaurants",
+    "Disney character meet-and-greets",
+    "Broadway-style live shows",
+    "Youth clubs for ages 3-17",
+    "First-run Disney films",
+    "Deck parties with fireworks",
+    "24-hour room service",
+    "Soft drinks at meals and beverage stations",
+    "Fitness center access",
+    "Standard Wi-Fi"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages and specialty coffees",
+    "Port Adventures and shore excursions",
+    "Palo and Remy adult-exclusive dining",
+    "Spa and salon services",
+    "Nursery care for under-3s",
+    "Premium Wi-Fi packages",
+    "Photo packages",
+    "Gratuities (recommended €14.50 per person per night)",
+    "Airfare and pre/post hotel stays"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best cabin selection and lowest rates; Disney releases Hawaii itineraries 15-18 months in advance. Book early for concierge staterooms and verandah categories facing ports. Consider repositioning cruises for value. Use Disney Vacation Club points or onboard booking credits from prior cruises. Wave season (January-March) often brings reduced deposits and onboard credit offers. Flexible dates? Monitor for Florida resident or military discounts.",
+  "top_ports": [
+    {
+      "port": "Honolulu, Oahu",
+      "time_in_port": "7am-11pm or overnight",
+      "top_activity": "Pearl Harbor & USS Arizona Memorial ($89)",
+      "tip": "Reserve Pearl Harbor tickets 60 days ahead through Disney or independently"
+    },
+    {
+      "port": "Kahului, Maui",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Road to Hana adventure ($199)",
+      "tip": "Book early morning departure to beat crowds and afternoon rain"
+    },
+    {
+      "port": "Hilo, Hawaii Island",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Hawaii Volcanoes National Park ($159)",
+      "tip": "Pack layers—elevation changes bring cooler temperatures"
+    },
+    {
+      "port": "Nawiliwili, Kauai",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Na Pali Coast catamaran cruise ($189)",
+      "tip": "Morning departures offer calmer waters for snorkeling"
+    },
+    {
+      "port": "Kona, Hawaii Island",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Manta ray night snorkel ($179)",
+      "tip": "Evening excursions return after ship departure—verify timing with Disney"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Disney Cruise Line Hawaii cruise cost?",
+      "answer": "Disney Cruise Line Hawaii cruises typically range from €1,899 for an inside stateroom on a 9-night inter-island sailing to €6,999+ for concierge-level suites during holiday periods. Balcony staterooms, essential for Pacific Ocean views and private whale watching, start around €2,499 in shoulder seasons. Prices include rotational dining, character experiences, youth clubs, and entertainment but exclude gratuities, alcohol, and excursions. Families should budget €150-300 per day for Port Adventures. Booking 12-18 months ahead secures lowest rates and best cabin locations."
+    },
+    {
+      "question": "Which Disney Cruise Line ships sail to Hawaii?",
+      "answer": "The Disney Wonder serves as the dedicated Hawaii vessel, offering 9-15 night itineraries from Vancouver, San Diego, and Honolulu. At 2,713 passengers, this classic ship provides intimate access to Hawaiian ports while delivering signature Disney magic. The Wonder features Tiana's Place restaurant with live jazz, the AquaLab water play area, and Marvel Super Hero Academy in the Oceaneer Club. Unlike larger Disney ships, Wonder's size allows extended time in smaller ports like Nawiliwili. No other Disney ship currently operates Hawaii routes due to deployment schedules focused on Caribbean, Bahamas, and European markets."
+    },
+    {
+      "question": "When is best time to cruise Hawaii?",
+      "answer": "April-May and September-October offer optimal Hawaii cruising with pleasant temperatures, minimal rainfall, and lower Disney pricing than summer peaks. These shoulder months feature calmer seas for Pacific crossings and excellent whale watching opportunities—humpbacks migrate December through April. Summer brings families and premium rates despite occasional tropical humidity. Winter offers dramatic surf on north shores but riskier sailing conditions. Hurricane season (June-November) rarely affects Hawaii directly. Avoid holiday weeks when prices surge 40% and ships sell out 12+ months ahead. September specifically combines value, availability, and ideal weather."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Disney Cruise Line Hawaii fares include substantial value: all meals across three rotational dining restaurants and casual venues, unlimited soft drinks and coffee at beverage stations, 24-hour room service, Broadway-caliber live shows, first-run Disney films, deck parties with fireworks at sea, unlimited youth club access for ages 3-17, character meet-and-greets, fitness center, and standard Wi-Fi. Adults enjoy exclusive pools and lounges. Notable inclusions versus competitors: soda without package purchase, extensive kids programming without extra fees, and fireworks—rare for cruise lines. Gratuities (€14.50/night recommended), alcoholic beverages, specialty coffees, spa services, Port Adventures, and Palo/Remy dining incur additional charges."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Disney Wonder Hawaii itineraries visit four major islands: Oahu (Honolulu) for Pearl Harbor, Waikiki, and North Shore; Maui (Kahului) for Haleakala volcano and Road to Hana; Hawaii Island's Hilo for rainforests and volcanoes, plus Kona for coffee farms and manta rays; and Kauai (Nawiliwili) for Na Pali Coast and Waimea Canyon. Some itineraries include Vancouver or San Diego departure with Pacific crossing days. Port times typically run 7am-5pm or 6pm, with occasional overnight stays in Honolulu. Disney's Port Adventures range from €89 cultural experiences to €299 helicopter tours, with family-friendly and adults-only options available."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Disney Hawaii cruises 12-18 months before sailing—Disney releases itineraries approximately 15 months in advance, and popular verandah staterooms sell rapidly. Concierge-level bookings, offering priority boarding, dedicated hosts, and exclusive lounge access, require earliest action. Wave season (January-March) occasionally offers reduced deposits or onboard credits for new bookings. Past Disney cruisers gain early booking windows through Castaway Club membership (Silver after first cruise, Gold after five, Platinum after ten). Rebooking onboard a prior cruise yields 10% fare reduction and reduced deposit. Last-minute Hawaii availability is extremely rare; if found, typically restricted to inside cabins at full price."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Disney Cruise Line Hawaii represents the pinnacle of family cruising, with unmatched youth programming and multigenerational appeal. Oceaneer Club and Lab (ages 3-12) operate 9am-midnight with supervised activities including Hawaii-themed crafts and Marvel adventures. Edge (tweens 11-14) and Vibe (teens 14-17) provide age-appropriate social spaces. Small-world nursery cares for infants 6 months-3 years (hourly fee). Family activities span snorkeling excursions, beach bashes, and character dining. Adults escape to Quiet Cove pool, Palo restaurant, and Senses Spa. Grandparents appreciate accessible staterooms, gentle pacing, and shared experiences. Disney's rotational dining ensures families dine together nightly while experiencing different themed restaurants."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Disney Cruise Line's cancellation policy for Hawaii cruises imposes penalties increasing by departure proximity: full refund minus deposit for cancellations 90+ days before sailing; deposit forfeited 89-45 days out; 50% total fare forfeited 44-30 days out; 75% forfeited 29-15 days out; and 100% non-refundable within 14 days. Travel insurance, available through Disney or third parties, strongly recommended given Hawaii's remote location and potential weather disruptions. Cancel for Any Reason coverage upgrades provide partial refunds beyond standard medical/covered reasons. Rebooking fees apply to date changes. Concierge guests receive slightly modified terms with dedicated support for modifications. Always verify specific policy at booking as terms evolve."
+    }
+  ]
+}

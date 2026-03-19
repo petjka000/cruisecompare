@@ -1,0 +1,188 @@
+{
+  "title": "Cunard Line South America Cruises 2026",
+  "intro": "Cunard Line brings its legendary transatlantic elegance to South America, offering discerning travellers a sophisticated journey through one of the world's most dramatic continents. Sailing aboard the iconic Queen Victoria, guests experience white-gloved service, formal evenings, and enrichment programmes that complement the extraordinary landscapes of Patagonia, the Amazon, and the Chilean fjords. Cunard's South America voyages uniquely combine the glamour of ocean travel with expedition-style destinations, featuring extended port stays in Buenos Aires, Rio de Janeiro, and Ushuaia. The line's partnership with the Royal Geographical Society enhances shore excursions with expert-led insights into indigenous cultures, colonial architecture, and rare wildlife. With its single-class tradition and spacious, uncrowded public rooms, Cunard appeals to experienced travellers seeking refined adventure without sacrificing comfort.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "14-21 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Queen Victoria"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Fort Lauderdale",
+      "Buenos Aires"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Jan-Feb)",
+      "inside_eur": 1899,
+      "balcony_eur": 2899,
+      "suite_eur": 5499
+    },
+    {
+      "season": "Shoulder (Mar-Nov)",
+      "inside_eur": 1599,
+      "balcony_eur": 2399,
+      "suite_eur": 4599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Patagonia & Chilean Fjords",
+      "duration_nights": 14,
+      "ports": [
+        "Buenos Aires",
+        "Montevideo",
+        "Puerto Madryn",
+        "Ushuaia",
+        "Punta Arenas",
+        "Puerto Montt",
+        "Valparaiso"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Scenic cruising through Glacier Alley"
+    },
+    {
+      "name": "21-night Grand South America",
+      "duration_nights": 21,
+      "ports": [
+        "Fort Lauderdale",
+        "Aruba",
+        "Cartagena",
+        "Panama Canal",
+        "Manta",
+        "Lima",
+        "Arica",
+        "Coquimbo",
+        "Valparaiso"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Full transit of Panama Canal"
+    },
+    {
+      "name": "18-night Amazon & Caribbean",
+      "duration_nights": 18,
+      "ports": [
+        "Southampton",
+        "Madeira",
+        "Barbados",
+        "Devil's Island",
+        "Santarem",
+        "Manaus",
+        "Boca da Valeria",
+        "Parintins",
+        "Alter do Chao",
+        "Fortaleza"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Three days exploring the Amazon River"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Victoria",
+      "capacity": 2072,
+      "year": 2007,
+      "best_for": "Adults and mature travellers",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Queen Anne",
+      "capacity": 3000,
+      "year": 2024,
+      "best_for": "Luxury seekers and traditional cruisers",
+      "price_from_eur": 2099
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "All meals in main dining rooms and buffet",
+    "Afternoon tea service",
+    "Evening entertainment and lectures",
+    "Fitness centre access",
+    "Basic Wi-Fi",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Specialty dining restaurants",
+    "Beverage packages and premium drinks",
+    "Shore excursions and land programmes",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Satellite internet packages",
+    "Gratuities (recommended EUR 14-16 per person per day)"
+  ],
+  "booking_strategy": "Book 9-15 months ahead for best cabin selection and early booking discounts; Cunard releases South America itineraries 18 months in advance. Consider Cunard World Club membership for additional savings.",
+  "top_ports": [
+    {
+      "port": "Buenos Aires",
+      "time_in_port": "overnight (2 days)",
+      "top_activity": "Tango evening at El Viejo Almacén (EUR 95)",
+      "tip": "Stay aboard for the overnight to enjoy quieter ship amenities"
+    },
+    {
+      "port": "Rio de Janeiro",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Corcovado mountain and Christ the Redeemer (EUR 75)",
+      "tip": "Book morning excursions to avoid afternoon clouds"
+    },
+    {
+      "port": "Ushuaia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Tierra del Fuego National Park railway (EUR 85)",
+      "tip": "Dress in layers; weather changes rapidly"
+    },
+    {
+      "port": "Valparaiso",
+      "time_in_port": "arrival 5am",
+      "top_activity": "Pre-cruise Santiago city tour (EUR 120)",
+      "tip": "Extend with Cunard's post-cruise hotel programme"
+    },
+    {
+      "port": "Manaus",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Amazon Theatre and Meeting of Waters (EUR 65)",
+      "tip": "Morning excursions best for wildlife spotting"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line South America cruise cost?",
+      "answer": "Cunard South America cruises typically range from EUR 1,599 for an inside cabin on shoulder season 14-night voyages to EUR 5,499+ for suites during peak January-February departures. Balcony cabins, essential for scenic Patagonian cruising, average EUR 2,399-2,899. World fares combining South America with other regions start at EUR 8,000 for 70+ nights. Solo travellers should note Cunard's limited single cabins and 50-75% single supplements on standard rooms."
+    },
+    {
+      "question": "Which Cunard Line ships sail to South America?",
+      "answer": "Queen Victoria is Cunard's primary South America vessel, undertaking annual world cruise segments and dedicated South American voyages from November through March. Her intimate 2,072-passenger capacity allows access to smaller ports like Puerto Madryn and Ushuaia. Queen Anne, Cunard's newest ship launched 2024, operates select South America itineraries with enhanced dining venues and contemporary design while maintaining Cunard traditions. Queen Mary 2 occasionally includes South American ports on world voyages but focuses on transatlantic routes."
+    },
+    {
+      "question": "When is best time to cruise South America?",
+      "answer": "January through March offers optimal conditions for Cunard's South America cruises, with warm summer temperatures in Patagonia (15-22°C) and dry season in the Amazon basin. February is ideal for Rio de Janeiro's Carnival atmosphere. December can experience occasional rain in southern regions, while April voyages encounter cooler temperatures and shorter days. Antarctic extension cruises operate November-March when ice conditions permit. Avoid May-October when southern ports are cold and some Chilean fjord routes may be restricted."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard South America fares include elegant accommodation, all meals in Britannia or Grills restaurants, traditional afternoon tea, nightly entertainment, enrichment lectures by destination experts, fitness facilities, and basic Wi-Fi. The renowned White Star Service covers housekeeping and dining staff. Not included are beverages, specialty restaurants, shore excursions, spa services, and gratuities. Grills-level bookings (Princess and Queens Grill suites) add butler service, priority embarkation, exclusive restaurant access, and complimentary bar setups. All fares include port taxes and fees."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's South America itineraries feature Buenos Aires with overnight stays allowing tango evenings, Rio de Janeiro for iconic beach and mountain experiences, and Ushuaia as the gateway to Tierra del Fuego. Chilean ports include Valparaiso (Santiago access), Puerto Montt's lake district, and scenic Punta Arenas. Argentine Patagonia visits Puerto Madryn for Welsh heritage and wildlife. Amazon cruises reach Manaus, Santarem, and remote river communities. Extended voyages may include Montevideo, Falkland Islands, and Antarctic Peninsula calls on select departures."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard South America cruises 9-15 months ahead for optimal cabin selection, particularly for balcony staterooms on the port side for Chilean fjord scenic cruising. Cunard releases itineraries approximately 18 months in advance. Early booking discounts of 10-15% typically apply to reservations made 12+ months ahead. Grills suites sell out fastest. Final payment is due 90 days before departure. Consider Cunard's flexible booking policy allowing changes up to final payment without penalty on most fare types."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard South America cruises suit mature families with teenage children interested in cultural and natural history, though the line primarily targets adults. The Zone youth programme operates during holiday periods for ages 2-17, with reduced staffing during term time. Formal dress codes (jacket required for men) and sophisticated entertainment may not engage younger children. Families benefit from spacious cabins, excellent children's tea service, and educational programming. School-age children should be comfortable with port-intensive itineraries featuring long excursions. Babysitting services are available for a fee."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation policy for South America cruises charges EUR 300 per person if cancelled 91+ days before departure; 50% of fare for 90-61 days; 75% for 60-31 days; and 100% for 30 days or less. Travel insurance covering cancellation is strongly recommended given the substantial fares and remote destination. Cunard's Cruise Care protection plan, available at booking, provides cancellation for any reason coverage up to 75% of non-refundable costs. COVID-19 related cancellations follow specific protocols with future cruise credits or refunds depending on circumstances and timing."
+    }
+  ]
+}

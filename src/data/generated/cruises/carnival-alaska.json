@@ -1,0 +1,206 @@
+{
+  "title": "Carnival Cruise Line Alaska Cruises 2026",
+  "intro": "Carnival Cruise Line brings its signature fun-filled atmosphere to the majestic wilderness of Alaska, offering an accessible and value-packed way to explore America's Last Frontier. Known for lively entertainment, diverse dining options, and family-friendly amenities, Carnival transforms the typically serene Alaska experience into an energetic adventure without sacrificing the breathtaking natural beauty. The line's Alaska itineraries focus on the Inside Passage, where passengers witness towering glaciers, spot humpback whales and orcas, and explore gold rush heritage towns. Carnival's casual, unpretentious approach appeals to first-time cruisers and budget-conscious travelers who want glacier viewing and wildlife encounters alongside waterslides, comedy clubs, and deck parties. With dedicated youth programs keeping children engaged during scenic cruising days, Carnival makes Alaska accessible for multi-generational families seeking both natural wonder and constant activity.",
+  "quick_facts": {
+    "price_from_eur": 749,
+    "duration_range": "7-10 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "ships_on_route": [
+      "Carnival Spirit",
+      "Carnival Miracle",
+      "Carnival Luminosa"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "Vancouver"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2399
+    },
+    {
+      "season": "Holiday Peak (July)",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 2899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Alaska Glacier Experience",
+      "duration_nights": 7,
+      "ports": [
+        "Seattle",
+        "Tracy Arm Fjord",
+        "Skagway",
+        "Juneau",
+        "Ketchikan",
+        "Victoria"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Sawyer Glacier viewing and scenic cruising through Tracy Arm"
+    },
+    {
+      "name": "7-night Alaska from Vancouver",
+      "duration_nights": 7,
+      "ports": [
+        "Vancouver",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Ketchikan"
+      ],
+      "price_from_eur": 799,
+      "highlight": "Full day in Glacier Bay National Park with park ranger narration"
+    },
+    {
+      "name": "10-night Alaska Ultimate",
+      "duration_nights": 10,
+      "ports": [
+        "Seattle",
+        "Sitka",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Ketchikan",
+        "Victoria"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Extended time in remote Sitka and multiple glacier experiences"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Carnival Spirit",
+      "capacity": 2124,
+      "year": 2001,
+      "best_for": "Families and value seekers",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Carnival Miracle",
+      "capacity": 2124,
+      "year": 2004,
+      "best_for": "Adults seeking relaxed atmosphere",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Carnival Luminosa",
+      "capacity": 2260,
+      "year": 2009,
+      "best_for": "International mix and elevated dining",
+      "price_from_eur": 849
+    }
+  ],
+  "whats_included": [
+    "Main dining room meals",
+    "Lido Marketplace buffet",
+    "Pizza and ice cream 24/7",
+    "Room service breakfast",
+    "Broadway-style shows",
+    "Live music and comedy",
+    "Youth programs (2-17)",
+    "Fitness center access",
+    "Pool and hot tub use",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Specialty restaurants ($15-38 per person)",
+    "Cheers! beverage package ($65/day)",
+    "Shore excursions ($89-499)",
+    "Spa treatments",
+    "Casino gambling",
+    "WiFi packages ($18-25/day)",
+    "Photos and souvenirs",
+    "Gratuities ($16-18/day per person)",
+    "Laundry services"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and lowest rates; balcony cabins sell out first for glacier viewing. Monitor for Early Saver rates with price protection. Consider repositioning cruises in May and September for 30-40% savings.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-3pm or 8am-5pm",
+      "top_activity": "Mendenhall Glacier and whale watching combo ($189)",
+      "tip": "Book independent operators at dock for 40% savings"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-5pm or 8am-8pm",
+      "top_activity": "White Pass Railroad summit excursion ($145)",
+      "tip": "Right side of train offers best canyon views"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "7am-1pm or 10am-6pm",
+      "top_activity": "Misty Fjords flightseeing ($289)",
+      "tip": "Creek Street independent exploration costs nothing"
+    },
+    {
+      "port": "Victoria (BC)",
+      "time_in_port": "5pm-11pm or 6pm-12am",
+      "top_activity": "Butchart Gardens evening visit ($89)",
+      "tip": "Downtown pub crawl beats rushed garden tour"
+    },
+    {
+      "port": "Glacier Bay",
+      "time_in_port": "Scenic cruising 6am-3pm",
+      "top_activity": "Margerie Glacier calving viewing from deck",
+      "tip": "Claim starboard forward deck position by 5am"
+    },
+    {
+      "port": "Tracy Arm Fjord",
+      "time_in_port": "Scenic cruising 6am-10am",
+      "top_activity": "Sawyer Glacier approach photography",
+      "tip": "Dress in layers; fjord temperatures drop 20 degrees"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Carnival Cruise Line Alaska cruise cost?",
+      "answer": "Carnival Alaska cruises typically range from €749 to €2,899 per person for the cruise fare alone, depending on season and cabin type. Inside cabins start around €749 in shoulder season (May/September) and climb to €1,199 in peak July dates. Balcony cabins, essential for glacier viewing, run €1,099-€1,799. Suites command €1,799-€2,899. Add €280-€320 for gratuities, €455-€650 for a drinks package, and €150-€500 for excursions per port. Total trip costs typically fall between €1,500-€4,500 per person for a week-long sailing."
+    },
+    {
+      "question": "Which Carnival Cruise Line ships sail to Alaska?",
+      "answer": "For 2026, Carnival deploys three ships to Alaska. Carnival Spirit and Carnival Miracle, both 2,124-passenger Spirit-class vessels, offer intimate experiences with extensive outdoor deck space ideal for wildlife viewing. Carnival Luminosa, a 2,260-passenger vessel formerly Costa Luminosa, brings international flair and elevated Italian-influenced dining. Spirit and Miracle rotate Seattle departures, while Luminosa primarily sails from Vancouver. All three feature Carnival's WaterWorks aqua park, Serenity adult-only retreat, and dedicated Alaska programming including naturalist lectures and ranger-led Glacier Bay narration. No mega-ships like Mardi Gras sail Alaska due to deployment constraints and port size limitations."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "The Alaska cruise season runs May through September, with distinct advantages each month. May offers 17 hours of daylight, snow-capped mountains, lowest prices, and active wildlife emerging from winter—though some hiking trails remain snow-covered. June brings drier weather, peak wildflower blooms, and best whale watching as orcas and humpbacks feed. July and August deliver warmest temperatures (15-20°C), peak salmon runs attracting bears, and longest daylight but highest prices and crowds. September offers northern lights possibilities, autumn foliage, and significant savings, though rain increases and some excursions wind down. For Carnival specifically, June balances reliable weather with moderate pricing before peak July surcharges."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Carnival's Alaska cruises include substantial value: all main dining room meals with rotating menus featuring regional Alaskan seafood, the extensive Lido Marketplace buffet open nearly 24 hours, unlimited pizza, ice cream, and soft-serve, plus complimentary room service breakfast. Entertainment encompasses full-scale production shows, comedy club performances, live music throughout the ship, and dedicated youth programs dividing children into age groups 2-5, 6-8, 9-11, and teens. Fitness center access, pool and hot tub use, and standard coffee and tea are included. Notably, Carnival includes port taxes and fees in advertised prices. What's excluded: alcoholic beverages, specialty dining, shore excursions, WiFi, spa services, and gratuities which run €16-€18 per person daily."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Carnival's Alaska itineraries center on Southeast Alaska's Inside Passage, with Seattle or Vancouver as homeports. Seattle round-trips visit Tracy Arm Fjord or Glacier Bay for glacier viewing, plus Juneau (state capital with Mendenhall Glacier access), Skagway (Gold Rush history and White Pass Railroad), Ketchikan (totem poles and Creek Street), and Victoria, British Columbia (Butchart Gardens). Vancouver departures typically include Glacier Bay National Park, Juneau, Skagway, and Ketchikan. Longer 10-night sailings add Sitka, with its Russian heritage and exceptional wildlife viewing. All itineraries emphasize scenic cruising through narrow fjords with commentary from naturalists or National Park Service rangers aboard. No Carnival ships visit Anchorage or Seward on regular itineraries."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Carnival Alaska cruises, optimal booking window is 9-12 months in advance, typically when itineraries release 18 months ahead. Balcony cabins—essential for private glacier viewing from your stateroom—sell fastest, often 10-11 months out for peak July sailings. Carnival's Early Saver program offers lowest rates with price protection, allowing rebooking if prices drop before final payment. Last-minute deals under 90 days occasionally appear for shoulder season (May/September) but risk limited cabin selection, often interior rooms only. For families requiring connecting cabins or specific configurations, 12+ months is prudent. Payment schedules require deposits around €250 per person, with final payment due 90 days before sailing."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Carnival excels for Alaska family cruising, particularly with children aged 5-17. Camp Ocean divides kids into Penguins (2-5), Stingrays (6-8), Sharks (9-11), and Circle C (12-14) with dedicated teen spaces, keeping children engaged during lengthy scenic cruising days when wildlife viewing may not captivate younger travelers. The line's WaterWorks aqua parks, mini-golf, and sports courts provide active alternatives to Alaska's often chilly outdoor decks. Family harbor tours and gold panning excursions in Skagway suit all ages. However, Carnival's party atmosphere and late-night deck events may overwhelm families seeking quiet wilderness immersion. The line's value pricing allows families to afford balcony cabins for glacier viewing, and flexible dining accommodates picky eaters with extensive buffet options beyond Alaska's adventurous cuisine."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Carnival's Alaska cancellation policy operates on a tiered structure based on sailing length and timing. For standard 7-night cruises, cancellation 91+ days before departure incurs no penalty—only the non-refundable deposit (typically €250 per person) is retained. Cancellations 90-61 days lose deposit amount; 60-31 days forfeit 50% of total fare; 30-15 days lose 75%; and 14 days or less sacrifice 100% with no refund. For 10-night sailings, penalties begin at 90 days with higher percentages. Carnival strongly recommends travel insurance covering cancellation for medical reasons, weather delays, or job loss—Alaska's remote location makes last-minute flight changes expensive. 'Cancel for Any Reason' upgrades typically reimburse 75% in future cruise credit rather than cash. Pandemic-era flexible policies have largely expired."
+    }
+  ]
+}

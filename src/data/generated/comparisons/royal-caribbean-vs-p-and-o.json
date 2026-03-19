@@ -1,0 +1,138 @@
+{
+  "title": "Royal Caribbean vs P&O Cruises 2026",
+  "intro": "Royal Caribbean and P&O Cruises represent two distinct approaches to cruising from the UK and Europe. Royal Caribbean dominates with mega-ships packed with adrenaline-fuelled attractions, Broadway entertainment and global itineraries. P&O Cruises offers a more traditional British experience with smaller vessels, refined atmosphere and strong Mediterranean focus. Both sit in the mid-market pricing tier, yet appeal to fundamentally different traveller expectations. Royal Caribbean attracts adventure-seeking families and multigenerational groups wanting non-stop activity. P&O draws couples, mature travellers and loyal British cruisers preferring elegant simplicity and familiar comforts. Your ideal choice depends entirely on whether you prioritise thrills or tranquillity.",
+  "at_a_glance": {
+    "royal-caribbean": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "p-and-o": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 699
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "royal-caribbean": "€799",
+      "p-and-o": "€699"
+    },
+    {
+      "category": "Ship Size",
+      "royal-caribbean": "Largest at sea (5,400+ guests)",
+      "p-and-o": "Mid-size (1,800-3,600 guests)"
+    },
+    {
+      "category": "Homeport",
+      "royal-caribbean": "Southampton, Barcelona, Rome",
+      "p-and-o": "Southampton (primary), Caribbean fly-cruise"
+    },
+    {
+      "category": "Entertainment",
+      "royal-caribbean": "Surf simulators, zip lines, ice skating, AquaTheater",
+      "p-and-o": "West End-style shows, live music, cooking demos"
+    },
+    {
+      "category": "Dining",
+      "royal-caribbean": "Dynamic Dining, 20+ venues, speciality surcharges",
+      "p-and-o": "Traditional set dining, British favourites, included afternoon tea"
+    },
+    {
+      "category": "Children's Facilities",
+      "royal-caribbean": "Adventure Ocean, teen clubs, nursery (6 months+)",
+      "p-and-o": "The Reef (2-17), night nursery, limited teen space"
+    },
+    {
+      "category": "Dress Code",
+      "royal-caribbean": "Casual, optional formal nights",
+      "p-and-o": "Smart casual, enforced formal nights (black tie)"
+    },
+    {
+      "category": "Gratuities",
+      "royal-caribbean": "€14.50/day compulsory",
+      "p-and-o": "Included in fare"
+    },
+    {
+      "category": "Drinks Packages",
+      "royal-caribbean": "€55-75/day",
+      "p-and-o": "€40-55/day"
+    },
+    {
+      "category": "Best For",
+      "royal-caribbean": "Active families, thrill-seekers, multigenerational groups",
+      "p-and-o": "Couples, British loyalists, traditional cruisers"
+    }
+  ],
+  "choose_a_if": [
+    "You want adrenaline-pumping activities like surfing, skydiving simulators and rock climbing walls",
+    "You prefer expansive resort-style ships with endless entertainment options and diverse dining",
+    "You're travelling with children who need dedicated age-appropriate clubs and facilities",
+    "You value innovative ship design and cutting-edge cruise technology",
+    "You want Caribbean, Mediterranean or exotic fly-cruise itineraries with multiple sea days"
+  ],
+  "choose_b_if": [
+    "You appreciate traditional British cruising with afternoon tea, formal nights and understated elegance",
+    "You prefer smaller ships with shorter walks, shorter queues and more intimate atmosphere",
+    "You want gratuities, flights and transfers included transparently in your fare",
+    "You value adult-only spaces and a generally quieter, more refined onboard environment",
+    "You cruise primarily from Southampton without flying, seeking convenient no-fly itineraries"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Royal Caribbean",
+      "reason": "Adventure Ocean's segmented age groups, nursery from 6 months, and adrenaline attractions like Perfect Storm slides and FlowRider keep every generation engaged from dawn until midnight."
+    },
+    {
+      "type": "Couples",
+      "winner": "P&O Cruises",
+      "reason": "Adult-only Aurora and Arcadia offer peaceful sophistication, while Britannia and Iona balance family areas with retreat spaces. Formal nights and refined dining create romantic atmosphere lacking on chaotic mega-ships."
+    },
+    {
+      "type": "Solo Travellers",
+      "winner": "P&O Cruises",
+      "reason": "Significant single occupancy cabins without punitive supplements, dedicated solo traveller events, and smaller ships fostering genuine community connections make solo cruising comfortable and affordable."
+    },
+    {
+      "type": "First-Timers",
+      "winner": "P&O Cruises",
+      "reason": "Included gratuities, familiar British service standards, and manageable ship sizes reduce overwhelm. Traditional cruise structure helps newcomers understand expectations without navigating complex Royal Caribbean systems."
+    },
+    {
+      "type": "Adventure Seekers",
+      "winner": "Royal Caribbean",
+      "reason": "No competitor matches Royal Caribbean's activity density—zip lines, ice skating, surf simulators, escape rooms, and bumper cars transform sea days into adventure parks rather than passive relaxation."
+    },
+    {
+      "type": "Mature Travellers",
+      "winner": "P&O Cruises",
+      "reason": "Relaxed pacing, enrichment lectures, ballroom dancing, and absence of screaming children on adult-only ships align perfectly with travellers prioritising conversation, scenery and gentle activity over constant stimulation."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "P&O Cruises generally offers superior transparent value with gratuities, flights on fly-cruises, and basic dining included in the fare. Royal Caribbean's base price appears competitive but accumulates quickly with added gratuities, expensive drinks packages, and numerous speciality dining surcharges. A typical Royal Caribbean 7-night cruise often costs €200-400 more once essentials are included. However, Royal Caribbean delivers substantially more included entertainment and activities for that premium. Families with active children may find Royal Caribbean's higher price justified by comprehensive kids' programming and adrenaline attractions that would cost fortunes on land. Value-conscious couples often prefer P&O's straightforward pricing without nickel-and-diming."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Royal Caribbean dominates family cruising through sheer investment in children's infrastructure. Adventure Ocean operates across dedicated facilities with professional staff, segmented programming from 6 months through 17 years, and extended hours including dinner and late-night sessions. The nursery accepts babies from 6 months—rare in cruising. Teen spaces include dedicated lounges, discos, and adventure activities. Beyond kids' clubs, Royal Caribbean's ships feature attractions families enjoy together: FlowRider surfing, rock climbing, ice skating shows, and AquaTheater acrobatics. P&O's The Reef programme serves families adequately but with smaller spaces, less sophisticated programming, and no facilities for under-2s. Iona and Arvia improved P&O's family offering, yet remain generations behind Royal Caribbean's family focus."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Head-to-head on identical 7-night Mediterranean itineraries, P&O Cruises typically undercuts Royal Caribbean by €100-150 for comparable cabin categories. However, true cost comparison requires examining inclusions. P&O includes gratuities (€100+ value), offers more competitive drinks packages, and rarely charges premium dining surcharges. Royal Caribbean adds automatic gratuities of €14.50 per person daily, pushing a couple's 7-night cruise €203 higher before spending begins. Royal Caribbean's speciality restaurants, premium WiFi, and excursion bookings typically run 15-25% above P&O equivalents. Last-minute deals favour P&O's yield management, while Royal Caribbean rewards early booking with significant incentives. Fly-cruise packages show narrower gaps as Royal Caribbean's flight procurement often beats P&O's charter arrangements."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "P&O Cruises wins on traditional dining consistency and British palate alignment. Main dining rooms serve reliable roast dinners, proper curries, and afternoon tea with clotted cream—comforts Royal Caribbean's international kitchens rarely replicate authentically. P&O's partnership with Marco Pierre White elevates speciality venues above Royal Caribbean's generic steakhouse and Italian offerings. However, Royal Caribbean triumphs on variety and innovation, offering 20+ venues including Izumi's credible Japanese, Wonderland's theatrical molecular gastronomy, and authentic Mexican at El Loco Fresh. Royal Caribbean's Windjammer buffet surpasses P&O's equivalent in quality and selection. Foodies seeking culinary adventure prefer Royal Caribbean's diversity; traditionalists wanting properly cooked British favourites choose P&O's reassuring consistency."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "P&O Cruises provides gentlier introduction to cruising through familiar British service culture, included gratuities eliminating tipping anxiety, and manageable ship sizes preventing overwhelming navigation. Traditional fixed dining with assigned tables builds cruise etiquette understanding naturally. However, Royal Caribbean's overwhelming scale and complexity can intimidate newcomers unfamiliar with app-based reservations, dynamic dining choices, and activity scheduling. That said, younger first-timers often prefer Royal Caribbean's casual atmosphere, flexible dining, and abundance of included entertainment preventing boredom. Mature first-timers overwhelmingly favour P&O's structured approach; under-40 first-timers increasingly choose Royal Caribbean's resort-style experience. Consider your comfort with large-scale holiday operations when deciding."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Scale fundamentally distinguishes these lines: Royal Caribbean operates the world's largest cruise ships carrying 5,400+ guests across neighbourhoods spanning 18 decks, while P&O's largest vessel accommodates 3,600 in more conventional layouts. This scale difference enables Royal Caribbean's trademark attractions—surf simulators, zip lines, ice rinks, and Central Park open-air gardens—impossible on smaller vessels. Conversely, P&O's intimacy allows easier navigation, shorter venue queues, and genuine crew-guest relationships. Culturally, Royal Caribbean pursues international mass-market appeal with American-style service and pricing structures, while P&O maintains distinctly British identity through currency, entertainment, cuisine, and unapologetic formal nights. Royal Caribbean targets multigenerational activity seekers; P&O serves British cruisers wanting familiar comforts with refined atmosphere. Your preference for thrilling scale or comfortable intimacy determines the winner."
+    }
+  ]
+}

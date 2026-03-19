@@ -1,0 +1,205 @@
+{
+  "title": "Royal Caribbean Adriatic Cruises 2026",
+  "intro": "Royal Caribbean brings its signature innovation and scale to the Adriatic Sea, combining ancient Mediterranean culture with cutting-edge shipboard experiences. Sailing from Venice, Ravenna, and Barcelona, these cruises unlock Croatia's Dalmatian Coast, Montenegro's fjord-like Bay of Kotor, and Greek Isles. Royal Caribbean's Adriatic itineraries uniquely blend marquee ports like Dubrovnik and Santorini with hidden gems including Kotor and Split. The line's Quantum and Oasis-class ships deliver surf simulators, skydiving tunnels, and neighborhood concepts that transform sea days into adventures. For families, couples, and multigenerational groups, Royal Caribbean offers the Adriatic's most comprehensive cruise experience—balancing UNESCO heritage sites with record-breaking onboard entertainment.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Odyssey of the Seas",
+      "Rhapsody of the Seas",
+      "Explorer of the Seas"
+    ],
+    "departure_ports": [
+      "Venice",
+      "Ravenna",
+      "Barcelona",
+      "Rome"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Mar-Apr, Oct-Nov)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1699
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Holiday",
+      "inside_eur": 1399,
+      "balcony_eur": 2199,
+      "suite_eur": 3599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles & Adriatic",
+      "duration_nights": 7,
+      "ports": [
+        "Ravenna",
+        "Kotor",
+        "Corfu",
+        "Athens",
+        "Santorini",
+        "Dubrovnik"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Perfect balance of Croatia, Montenegro and iconic Greek islands"
+    },
+    {
+      "name": "9-night Adriatic & Italy",
+      "duration_nights": 9,
+      "ports": [
+        "Barcelona",
+        "Palma de Mallorca",
+        "Valencia",
+        "Cagliari",
+        "Messina",
+        "Dubrovnik",
+        "Kotor",
+        "Venice"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Western Mediterranean gateway to Adriatic treasures"
+    },
+    {
+      "name": "12-night Grand Mediterranean",
+      "duration_nights": 12,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Messina",
+        "Valletta",
+        "Santorini",
+        "Mykonos",
+        "Athens",
+        "Kotor",
+        "Dubrovnik",
+        "Venice"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Comprehensive immersion in Mediterranean civilizations"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Odyssey of the Seas",
+      "capacity": 4180,
+      "year": 2021,
+      "best_for": "Active couples and families",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Rhapsody of the Seas",
+      "capacity": 2435,
+      "year": 1997,
+      "best_for": "Intimate port exploration",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Explorer of the Seas",
+      "capacity": 3282,
+      "year": 2000,
+      "best_for": "Mid-size ship enthusiasts",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and buffet access",
+    "Select casual dining venues including Windjammer Café",
+    "Broadway-style entertainment and live music",
+    "Access to pools, fitness center, and rock climbing wall",
+    "Youth programs for ages 6 months to 17 years",
+    "Basic Wi-Fi for one device per stateroom",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (€55-75/day for alcohol)",
+    "Specialty dining (€35-65 per person)",
+    "Shore excursions (€59-189 per port)",
+    "Gratuities (€16-18 per person/day)",
+    "Spa treatments and salon services",
+    "Casino gambling",
+    "Premium Wi-Fi upgrade",
+    "Laundry and dry cleaning",
+    "Photos and retail purchases"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking bonuses; monitor Royal Caribbean's Wave Season sales (January-March) for reduced deposits and onboard credits; consider repositioning cruises in October for lowest Adriatic fares.",
+  "top_ports": [
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-7pm",
+      "top_activity": "City Walls Walk & Game of Thrones tour (€89)",
+      "tip": "Book first tender—cable car to Mount Srđ sells out by 10am"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Bay of Kotor boat tour to Our Lady of the Rocks (€69)",
+      "tip": "Hike city walls early morning before heat and crowds"
+    },
+    {
+      "port": "Split, Croatia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Diocletian's Palace underground tour with wine tasting (€79)",
+      "tip": "Ship docks walking distance to old town—no tender needed"
+    },
+    {
+      "port": "Corfu, Greece",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Paleokastritsa Monastery and beach excursion (€59)",
+      "tip": "Local blue bus to Achilleion Palace costs €5 vs €89 ship tour"
+    },
+    {
+      "port": "Santorini, Greece",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Sunset catamaran cruise with hot springs (€129)",
+      "tip": "Cable car line exceeds 2 hours—book early tender or donkey path down"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Royal Caribbean Adriatic cruise cost?",
+      "answer": "Royal Caribbean Adriatic cruises range from €699 for interior cabins on shoulder-season 7-night sailings to €3,599+ for suites during peak summer. Balcony cabins typically run €999-€2,199 depending on season and itinerary length. The 9-night Adriatic & Italy itineraries offer strong value at €999-€1,599 for balconies. Families should budget €2,500-€4,500 total for a week including drinks, excursions, and gratuities. Solo travelers face 150-200% single supplements, though occasional sales reduce this to 125%."
+    },
+    {
+      "question": "Which Royal Caribbean ships sail to Adriatic?",
+      "answer": "Royal Caribbean deploys three primary ships to the Adriatic. Odyssey of the Seas, a 2021 Quantum Ultra-class vessel, offers North Star observation capsule, RipCord skydiving simulator, and SeaPlex indoor activity space. Rhapsody of the Seas, a smaller Vision-class ship, provides intimate access to smaller Adriatic ports and classic cruising ambiance. Explorer of the Seas delivers mid-size ship comfort with ice skating rink and Royal Promenade. Odyssey sails peak summer; Rhapsody and Explorer handle shoulder seasons and longer itineraries."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "May, June, and September offer optimal Adriatic cruising conditions with temperatures 22-28°C, minimal rainfall, and manageable crowds. July and August bring peak heat (30-35°C) and congested Dubrovnik, though ideal for beach-focused itineraries. April and October provide 20% lower fares but cooler seas and reduced excursion availability. November through March sees minimal Royal Caribbean Adriatic operations. September particularly rewards with warm water, harvest festivals in Croatian wine regions, and Santorini sunsets without summer haze."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Royal Caribbean Adriatic cruises include your stateroom, all main dining room and buffet meals, select casual restaurants, Broadway-caliber shows, live music venues, pools, fitness center, rock climbing wall, and supervised youth programming from 6 months through 17 years. Basic Wi-Fi for one device and port taxes are included. Not included are alcoholic beverages, specialty dining, shore excursions, spa services, casino play, gratuities (€16-18/person/day), and premium internet. The Crown & Anchor loyalty program provides increasing benefits including complimentary drinks and internet for repeat cruisers."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Royal Caribbean Adriatic itineraries feature Dubrovnik's medieval walls, Kotor's dramatic fjord setting, and Split's Roman palace as core Croatian ports. Montenegro's Bay of Kotor provides stunning natural scenery. Greek additions include Corfu's Venetian architecture, Santorini's caldera views, and Athens' Acropolis. Italian departure ports span Venice, Ravenna (for Bologna/Florence), Rome, and Barcelona for western Mediterranean combinations. Some 12-night sailings reach Malta's Valletta and Sicily's Messina. Tender ports include Santorini and Kotor; Dubrovnik and Split offer dockside convenience."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Royal Caribbean Adriatic cruises 9-12 months ahead for optimal cabin selection, particularly for balcony staterooms on Odyssey of the Seas which sell out first. Wave Season (January-March) historically offers the best promotions including reduced deposits, onboard credits up to €300, and complimentary beverage packages. Last-minute deals appear 60-90 days before sailing for flexible travelers, though cabin categories may be limited. Suite categories and connecting rooms for families should be booked immediately upon release. Price protection allows rebooking if fares drop before final payment."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Royal Caribbean excels for Adriatic family cruising through Adventure Ocean programming divided into Aquanauts (3-5), Explorers (6-8), Voyagers (9-11), and teen lounges for 12-17 year-olds, all included and operating until midnight. Odyssey of the Seas offers bumper cars, trapeze school, and surf simulator that engage children during sea days. Family staterooms accommodate 5-6 passengers. Educational components include Mediterranean history through onboard activities. However, Adriatic port days involve substantial walking on uneven cobblestones—strollers prove challenging in Dubrovnik and Kotor. Babysitting for under-3s incurs hourly fees."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Royal Caribbean's standard cancellation policy for Adriatic cruises: full refund minus deposit if cancelled 90+ days before sailing; 50% of total fare for 89-75 days; 75% for 74-61 days; 100% for 60 days or less. Deposit amounts run €200-€500 per person depending on cruise length and cabin category. Cancel for Any Reason protection (purchased within 48 hours of deposit) provides 75% future cruise credit for cancellations up to 48 hours before sailing. COVID-19 protocols have introduced flexible cancellation windows; verify current terms at booking as policies evolved post-pandemic. Travel insurance strongly recommended for Adriatic itineraries given flight connections required."
+    }
+  ]
+}

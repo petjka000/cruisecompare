@@ -1,0 +1,209 @@
+{
+  "title": "Norwegian Cruise Line Canary Islands Cruises 2026",
+  "intro": "Norwegian Cruise Line brings its signature Freestyle Cruising concept to the sun-drenched Canary Islands, offering unparalleled flexibility for exploration of this Atlantic archipelago. Departing from Barcelona and Lisbon, NCL's innovative ships combine contemporary design with diverse dining options that require no fixed seating times. The Canary Islands route showcases dramatic volcanic landscapes, year-round subtropical climate, and distinct cultural fusion of Spanish, African, and Latin American influences. Norwegian's port-intensive itineraries maximize time in Tenerife, Gran Canaria, Lanzarote, and La Palma, with overnight stays in select destinations allowing deeper immersion. Onboard, guests enjoy Broadway-caliber entertainment, extensive spa facilities, and accommodations ranging from solo studios to lavish Haven suites. The casual, resort-style atmosphere appeals particularly to independent travelers seeking authentic experiences without rigid schedules.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "10-14 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Norwegian Star",
+      "Norwegian Dawn",
+      "Norwegian Epic"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon",
+      "Southampton"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Low (Apr-May)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    },
+    {
+      "season": "Shoulder (Oct-Nov)",
+      "inside_eur": 799,
+      "balcony_eur": 1149,
+      "suite_eur": 1799
+    },
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Canary Islands & Morocco",
+      "duration_nights": 10,
+      "ports": [
+        "Barcelona",
+        "Casablanca",
+        "Arrecife",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Agadir",
+        "Gibraltar",
+        "Barcelona"
+      ],
+      "price_from_eur": 799,
+      "highlight": "Combines volcanic islands with Moroccan cultural immersion"
+    },
+    {
+      "name": "12-night Canary Islands & Madeira",
+      "duration_nights": 12,
+      "ports": [
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de La Palma",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Lisbon"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Extended exploration with overnight in Funchal"
+    },
+    {
+      "name": "14-night Grand Canary Islands",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Lisbon",
+        "Funchal",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Arrecife",
+        "Puerto del Rosario",
+        "Cadiz",
+        "Southampton"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Comprehensive archipelago coverage from UK departure"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Norwegian Star",
+      "capacity": 2348,
+      "year": 2001,
+      "refurbished": 2021,
+      "best_for": "Mature travelers & value seekers",
+      "price_from_eur": 699
+    },
+    {
+      "name": "Norwegian Dawn",
+      "capacity": 2334,
+      "year": 2002,
+      "refurbished": 2021,
+      "best_for": "Cultural explorers & port collectors",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Norwegian Epic",
+      "capacity": 4100,
+      "year": 2010,
+      "refurbished": 2015,
+      "best_for": "Entertainment seekers & families",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Accommodation in selected stateroom category",
+    "All main dining room meals",
+    "Buffet restaurant access",
+    "Select casual dining venues",
+    "Broadway-style entertainment & live music",
+    "Fitness center & pools",
+    "Youth programs (ages 3-17)",
+    "Port taxes & fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (€59-89/day)",
+    "Specialty dining (€25-55/person)",
+    "Shore excursions (€49-189)",
+    "Wi-Fi packages (€25/day)",
+    "Spa & salon services",
+    "Casino gaming",
+    "Laundry & dry cleaning",
+    "Gratuities (€16/day automatically added)",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts up to 30%. Wave season (January-March) offers strongest promotions. Consider repositioning cruises in October/November for exceptional value. Solo travelers benefit from NCL's studio cabins with exclusive lounge access.",
+  "top_ports": [
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Teide National Park volcano tour (€89)",
+      "tip": "Pre-book UNESCO site visits; cable car sells out"
+    },
+    {
+      "port": "Las Palmas, Gran Canaria",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Maspalomas dunes & Vegueta old town (€59)",
+      "tip": "Beach day alternative: walkable city exploration"
+    },
+    {
+      "port": "Arrecife, Lanzarote",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Timanfaya National Park & Jameos del Agua (€79)",
+      "tip": "César Manrique architecture tours fill quickly"
+    },
+    {
+      "port": "Santa Cruz de La Palma",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Caldera de Taburiente hiking (€69)",
+      "tip": "Less commercialized—authentic Canarian experience"
+    },
+    {
+      "port": "Funchal, Madeira",
+      "time_in_port": "8am-6pm (overnight on select sailings)",
+      "top_activity": "Monte toboggan sled & botanical gardens (€49)",
+      "tip": "Overnight stay allows evening Fado performances"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Norwegian Cruise Line Canary Islands cruise cost?",
+      "answer": "Norwegian Cruise Line Canary Islands cruises typically range from €699 to €2,299 per person for cruise-only fares. Inside cabins start around €699-999 in low season, rising to €999-1,299 during peak winter months. Balcony accommodations run €999-1,499, with suites in The Haven from €1,599-2,299. Prices include accommodation, main dining, entertainment, and port fees. Additional costs include beverage packages (€59-89/day), gratuities (€16/day), Wi-Fi (€25/day), and specialty dining. Repositioning cruises in autumn offer exceptional value at 30-40% below peak rates. Solo travelers can access studio cabins from €849 without single supplements."
+    },
+    {
+      "question": "Which Norwegian Cruise Line ships sail to Canary Islands?",
+      "answer": "Norwegian Cruise Line deploys mid-sized and large vessels to the Canary Islands, primarily Norwegian Star, Norwegian Dawn, and Norwegian Epic. Norwegian Star and Dawn (both ~2,300 passengers) offer intimate port access and extensive refurbishment in 2021, featuring modernized cabins and dining venues. Norwegian Epic (4,100 passengers) provides amplified entertainment including Blue Man Group, Cirque Dreams, and extensive nightclub options. These ships operate 10-14 night itineraries from Barcelona, Lisbon, and seasonally from Southampton. Norwegian's Freestyle Cruising suits Canary Islands exploration with flexible dining times accommodating late port returns and varied excursion schedules."
+    },
+    {
+      "question": "When is best time to cruise Canary Islands?",
+      "answer": "The optimal period for Norwegian Cruise Line Canary Islands cruises spans November through March, when the archipelago enjoys spring-like temperatures of 20-24°C while continental Europe experiences winter. Peak demand occurs December-February, particularly for Christmas and New Year sailings. November and March offer excellent value with fewer crowds and stable weather. April-May bring warming seas but increased Atlantic swell potential. The islands' subtropical climate ensures year-round sailing viability, though January-February sees occasional calima (Saharan dust) events. Norwegian schedules maximize this winter sun destination, with repositioning cruises in October providing budget-friendly entry points."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Norwegian Cruise Line Canary Islands cruises include accommodation, all meals in main dining rooms and buffet venues, select casual restaurants, Broadway-style entertainment, live music, comedy shows, fitness center access, pools, hot tubs, youth programs for ages 3-17, and port taxes. The Freestyle Cruising concept eliminates fixed dining times and dress codes. Not included are beverages (soda, alcohol, specialty coffee), specialty restaurants, shore excursions, Wi-Fi, spa services, casino play, laundry, and gratuities. Beverage packages and dining packages can be pre-purchased at discounts. The Haven suite guests receive additional inclusions: butler service, private restaurant, and exclusive sun deck access."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Norwegian Cruise Line Canary Islands itineraries feature Santa Cruz de Tenerife (Teide volcano, colonial architecture), Las Palmas de Gran Canaria (Maspalomas dunes, Vegueta old town), Arrecife on Lanzarote (Timanfaya volcanic park, César Manrique sites), and Santa Cruz de La Palma (Caldera de Taburiente, banana plantations). Extended sailings incorporate Funchal, Madeira (Monte gardens, wine lodges), Casablanca or Agadir in Morocco, and Gibraltar. Barcelona, Lisbon, and Southampton serve as primary embarkation points. Norwegian's longer port stays (8-10 hours typical, occasional overnights) distinguish these itineraries, enabling independent exploration or comprehensive excursion participation without rush."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Norwegian Cruise Line Canary Islands cruises 9-12 months in advance for optimal cabin selection, particularly for balcony categories and The Haven suites which comprise limited inventory. Early booking discounts of 20-30% apply to reservations made 6+ months ahead. Wave season (January-March) delivers strongest promotional offers including free beverage packages, specialty dining, and shore excursion credits. Last-minute deals emerge 60-90 days prior for flexible travelers, though cabin location compromises apply. Solo travelers should book early for studio cabin access. Holiday sailings (Christmas, New Year, February half-term) require 12-month advance booking due to high demand from European markets."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Norwegian Cruise Line Canary Islands cruises suit families exceptionally well, particularly during school holiday periods. The Splash Academy accommodates ages 3-12 with supervised activities, while Entourage provides teen programming for 13-17 year-olds. Family-friendly stateroom configurations include connecting rooms and multi-berth options. Shore excursions feature volcano hiking, camel rides, submarine tours, and beach days appropriate for varied ages. The casual Freestyle dining accommodates picky eaters with extensive buffet options and flexible timing. Norwegian Epic offers the most comprehensive family amenities including waterslides and dedicated family sundeck. However, port-intensive Canary Islands itineraries involve substantial walking and early departures, potentially challenging for younger children."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Norwegian Cruise Line's cancellation policy for Canary Islands cruises imposes penalties escalating by departure proximity. Cancellations 120+ days prior incur no penalty for most fares. 119-90 days: deposit forfeiture (typically €250-500 per person). 89-61 days: 50% of total fare. 60-31 days: 75% of total fare. 30 days or less: 100% forfeiture. Promotional and restricted fares carry stricter terms—often non-refundable deposits. Cancel For Any Reason protection, available at 10% premium, provides future cruise credits rather than cash refunds. Travel insurance covering pandemic-related cancellations is strongly recommended given Canary Islands' geographic position and potential itinerary disruption from Atlantic weather systems."
+    }
+  ]
+}

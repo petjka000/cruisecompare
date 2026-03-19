@@ -1,0 +1,235 @@
+{
+  "title": "Holland America Line South America Cruises 2026",
+  "intro": "Holland America Line brings 150 years of maritime heritage to South America, offering immersive voyages that blend classic elegance with destination-rich exploration. Their EXC In-Depth programming delivers expert-led enrichment through local historians, naturalists, and cultural ambassadors. South America itineraries traverse the dramatic Chilean fjords, navigate the Amazon River, and call at UNESCO World Heritage sites from Cartagena to Valparaíso. The line's mid-sized ships—purpose-built for longer voyages—access ports unavailable to larger vessels, including Ushuaia and the Falkland Islands. Onboard, guests enjoy regionally inspired cuisine developed with Culinary Council member Andy Matsuda, alongside Indonesian and Filipino crew hospitality that defines the Holland America experience. These cruises particularly suit seasoned travelers seeking extended journeys with substantive port time rather than surface-level tourism.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "14-35 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Zuiderdam",
+      "Oosterdam",
+      "Volendam"
+    ],
+    "departure_ports": [
+      "Fort Lauderdale",
+      "Santiago",
+      "Buenos Aires",
+      "Amsterdam"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/Mar)",
+      "inside_eur": 1899,
+      "balcony_eur": 2499,
+      "suite_eur": 4299
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 2299,
+      "balcony_eur": 3099,
+      "suite_eur": 5499
+    },
+    {
+      "season": "Holiday (Christmas/New Year)",
+      "inside_eur": 2799,
+      "balcony_eur": 3899,
+      "suite_eur": 6999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "South America & Antarctica Explorer",
+      "duration_nights": 22,
+      "ports": [
+        "Buenos Aires",
+        "Montevideo",
+        "Port Stanley",
+        "Ushuaia",
+        "Antarctic Peninsula",
+        "Punta Arenas",
+        "Puerto Montt",
+        "Valparaíso"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Four days in Antarctica with HAL's expedition team"
+    },
+    {
+      "name": "Amazon & Caribbean Adventure",
+      "duration_nights": 26,
+      "ports": [
+        "Fort Lauderdale",
+        "Aruba",
+        "Cartagena",
+        "Colon",
+        "Puerto Limon",
+        "Scarborough",
+        "Devil's Island",
+        "Macapa",
+        "Santarem",
+        "Manaus"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "1,000-mile Amazon River transit with overnight in Manaus"
+    },
+    {
+      "name": "Incas & Icons",
+      "duration_nights": 17,
+      "ports": [
+        "Valparaíso",
+        "Coquimbo",
+        "Arica",
+        "Callao (Lima)",
+        "Manta",
+        "Fuerte Amador (Panama)",
+        "Cartagena",
+        "Half Moon Cay"
+      ],
+      "price_from_eur": 1999,
+      "highlight": "Pre-cruise Machu Picchu land program available"
+    },
+    {
+      "name": "Grand South America & Antarctica Voyage",
+      "duration_nights": 35,
+      "ports": [
+        "Amsterdam",
+        "Lisbon",
+        "Mindelo",
+        "Recife",
+        "Salvador",
+        "Rio de Janeiro",
+        "Montevideo",
+        "Buenos Aires",
+        "Ushuaia",
+        "Antarctica",
+        "Falkland Islands",
+        "Punta Arenas",
+        "Puerto Chacabuco",
+        "Puerto Montt",
+        "Valparaíso"
+      ],
+      "price_from_eur": 5899,
+      "highlight": "Full circumnavigation with three maiden calls"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Zuiderdam",
+      "capacity": 1968,
+      "year": 2002,
+      "refurbished": 2019,
+      "best_for": "Cultural immersion & extended voyages",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Oosterdam",
+      "capacity": 1964,
+      "year": 2003,
+      "refurbished": 2021,
+      "best_for": "Music Walk programming & culinary experiences",
+      "price_from_eur": 1999
+    },
+    {
+      "name": "Volendam",
+      "capacity": 1432,
+      "year": 1999,
+      "refurbished": 2022,
+      "best_for": "Intimate expedition-style cruising",
+      "price_from_eur": 2099
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "24-hour room service",
+    "Classic afternoon tea",
+    "Nightly entertainment & Music Walk venues",
+    "Port lectures & destination briefings",
+    "Fitness center & basketball court",
+    "Digital workshops",
+    "Kids Club (ages 3-17)",
+    "Gratuities on select promotions"
+  ],
+  "whats_extra": [
+    "Specialty dining (Pinnacle Grill, Canaletto, Tamarind: €35-55/pp)",
+    "Beverage packages (Signature: €55/day; Elite: €75/day)",
+    "Shore excursions (€89-€449 depending on activity)",
+    "Spa treatments & thermal suite (€25/day or €159/cruise)",
+    "Laundry services",
+    "Internet packages (€25/day or €179/voyage)",
+    "Airport transfers",
+    "Pre/post hotel stays"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for Antarctica segments which sell out 10 months prior; shoulder season (November/March) offers 20-30% savings; Mariner Society members receive priority booking windows and onboard credits up to €400; consider 'Have It All' premium package adding drinks, specialty dining, excursions, and WiFi for €55/day versus à la carte pricing 40% higher",
+  "top_ports": [
+    {
+      "port": "Ushuaia, Argentina",
+      "time_in_port": "12pm-8pm (overnight on some itineraries)",
+      "top_activity": "Tierra del Fuego National Park hiking with Beagle Channel cruise (€189)",
+      "tip": "Pre-book helicopter glacier flights—only 6 seats, weather-dependent"
+    },
+    {
+      "port": "Callao (Lima), Peru",
+      "time_in_port": "5am-6pm",
+      "top_activity": "Larco Museum & Lima city tour with ceviche lunch (€149)",
+      "tip": "Ship docks 30 minutes from center—HAL's shuttle more reliable than taxis"
+    },
+    {
+      "port": "Manaus, Brazil",
+      "time_in_port": "8am-4pm (overnight on Amazon voyages)",
+      "top_activity": "Meeting of Waters boat expedition & Amazon Theatre (€129)",
+      "tip": "Overnight calls allow evening opera performances—reserve 60 days ahead"
+    },
+    {
+      "port": "Punta Arenas, Chile",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Torres del Paine full-day overland (€449)",
+      "tip": "10-hour excursion with flight—essential for Patagonia without pre-cruise land tour"
+    },
+    {
+      "port": "Port Stanley, Falkland Islands",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Volunteer Point king penguin colony 4x4 expedition (€289)",
+      "tip": "Landings weather-permitting; book backup ship tour as private operators unreliable"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line South America cruise cost?",
+      "answer": "Holland America South America cruises range from €1,899 for 14-night repositioning sailings to €6,999+ for 35-night Grand Voyages with Antarctica segments. Inside cabins typically run €1,899-€2,799, balcony staterooms €2,499-€3,899, and suites €4,299-€6,999 depending on season. Antarctica itineraries command 40% premiums. The 'Have It All' package (€55/day) bundles drinks, WiFi, specialty dining, and excursion credits—saving approximately €400 versus individual purchases. Solo travelers face 150-200% single supplements, though HAL occasionally offers reduced solo fares on select departures. Gratuities add €16/pp/day unless included in promotional fares."
+    },
+    {
+      "question": "Which Holland America Line ships sail to South America?",
+      "answer": "Three HAL vessels operate South America routes: Zuiderdam (1,968 passengers, refurbished 2019) handles the majority of Antarctica and Cape Horn itineraries with enhanced expedition capabilities; Oosterdam (1,964 passengers, refurbished 2021) emphasizes culinary programming with expanded Tamarind and Pinnacle Grill venues; Volendam (1,432 passengers, refurbished 2022) offers more intimate Amazon and smaller-port access. All three carry inflatable Zodiacs for Antarctic landings and feature dedicated EXC guides. Zuiderdam and Oosterdam sail 14-22 night segments, while Volendam operates longer 26-35 night Grand Voyages. No Pinnacle-class ships (Rotterdam, Nieuw Statendam) currently deploy to South America due to size constraints in Antarctic treaty waters."
+    },
+    {
+      "question": "When is best time to cruise South America?",
+      "answer": "Peak season spans December through February when Antarctic ice conditions permit landings and Patagonian weather is most stable (15-20°C). November and March offer shoulder-season savings of 20-30% with acceptable conditions, though Antarctic accessibility diminishes late March. Amazon River cruises run year-round, but high water season (December-May) allows deeper vessel penetration into tributaries; low water (June-November) exposes wildlife along exposed banks. Avoid September-October when Atlantic crossing repositioning occurs without South American port calls. Christmas and New Year departures carry 25% premiums but feature extended gala programming. For penguin viewing in Falklands and South Georgia, December-January provides peak chick-rearing activity."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America includes all main dining room meals, 24-hour room service, afternoon tea, nightly entertainment including Lincoln Center Stage and B.B. King's Blues Club, port lectures, fitness center access, and youth programming. Accommodations feature Mariner's Dream beds, premium massage showerheads, and 24-hour housekeeping. Non-alcoholic beverages (coffee, tea, juices) are complimentary at meals. What's excluded: alcoholic beverages, specialty restaurants, shore excursions, WiFi, spa services, and laundry. The 'Have It All' premium fare adds Signature Beverage Package, shore excursion credit (€100/port), specialty dining, and Surf WiFi. Gratuities run €16/pp/day for standard cabins, €17 for suites, though frequently waived in promotional pricing. Airport transfers and pre-cruise hotels require separate purchase."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America's South America network spans 40+ ports across four signature regions: Brazil's coast (Recife, Salvador, Rio de Janeiro, Santos) with Amazon River terminals at Macapa, Santarem, and Manaus; Argentina-Uruguay (Buenos Aires, Montevideo, Puerto Madryn); Chilean fjords and Patagonia (Valparaíso, Puerto Montt, Puerto Chacabuco, Punta Arenas, Ushuaia); and Antarctic treaty destinations including Paradise Bay and Elephant Island (weather-permitting). Caribbean gateway calls include Cartagena, Colon, and Aruba. Unique HAL access includes overnight stays in Manaus for opera performances and extended Ushuaia time for Tierra del Fuego exploration. Grand Voyages add Ascension Island and Cape Verde on Atlantic crossings. Most itineraries include 3-4 sea days between regional clusters."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Antarctica-inclusive itineraries require 12-18 month advance booking, with suites and veranda cabins typically 80% sold 10 months prior. Standard South America coastal cruises need 6-9 months for optimal cabin selection. Mariner Society loyalty members (past guests) access booking windows 6-12 months before public release, critical for Antarctica. Wave season (January-March) offers strongest incentives: reduced deposits, onboard credits to €400, and complimentary upgrades. Last-minute deals emerge 60-90 days out for inside cabins only, rarely for balcony categories. Group bookings (8+ cabins) secure 2026 space with 10% deposits through 2024. Cancel for Any Reason protection (€199/cabin) must be purchased within 14 days of initial deposit for full coverage including pre-existing conditions."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America South America cruises suit families with teens and adult children rather than young children, given extended sea days and enrichment-focused programming. Club HAL serves ages 3-17 with supervised activities, though participation drops significantly on longer voyages. The line's demographic skews 55+ with limited children's facilities compared to Royal Caribbean or Disney. Families benefit from connecting staterooms and third/fourth berth pricing at 50-70% off standard fares. Educational value is exceptional: EXC programming includes teen-specific destination workshops, and Antarctic voyages feature junior ranger programs with expedition team mentorship. Shore excursions lack kid-specific pricing—adult rates apply from age 13. Evening entertainment (B.B. King's, Billboard Onboard) appeals to multigenerational groups. Consider Pinnacle Grill family dinners for special occasions."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America's standard policy refunds deposits minus €200 administrative fee if cancelled 91+ days before sailing; 50% penalty 90-64 days; 75% penalty 63-43 days; 100% penalty 42 days or fewer. 'Cancel for Any Reason' protection (€199/cabin) upgrades to 90% future cruise credit regardless of cancellation timing or cause, valid 12 months from original sailing date. COVID-19 protocols eliminated most medical documentation requirements, though high-risk boarding denials receive full refunds. Travel insurance through HAL's partner (Arch) covers trip interruption, medical evacuation (critical for Antarctic itineraries), and missed connections; pre-existing condition waivers require purchase within 14 days of deposit. Grand Voyages and segments 30+ nights carry stricter penalties: 25% non-refundable at booking, 100% penalty within 90 days. Name changes incur €150 fees per person."
+    }
+  ]
+}

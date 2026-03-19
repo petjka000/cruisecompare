@@ -1,0 +1,202 @@
+{
+  "title": "Oceania Cruises Africa & Canaries Cruises 2026",
+  "intro": "Oceania Cruises elevates Africa and Canary Islands exploration with its hallmark culinary excellence and intimate, destination-focused voyages. The premium line's mid-sized ships navigate where larger vessels cannot, delivering guests to authentic African ports and subtropical Atlantic archipelagos. Oceania's 2026 itineraries blend Moroccan medinas, Senegalese cultural immersion, and volcanic Canarian landscapes with the brand's renowned farm-to-table dining and immersive shore excursions. With no formal nights and unlimited access to specialty restaurants, travelers enjoy sophisticated flexibility while discovering diverse ecosystems from Saharan gateways to lush La Gomera. Oceania's extended port stays and overnight calls in Casablanca, Cape Town, and Tenerife allow deeper cultural engagement. The line's small-ship advantage means docking at historic ports like Banjul and Mindelo that mega-ships bypass, creating genuine connection with West African heritage and Canarian wine traditions.",
+  "quick_facts": {
+    "price_from_eur": 2849,
+    "duration_range": "10-24 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Nautica",
+      "Insignia",
+      "Marina"
+    ],
+    "departure_ports": [
+      "Cape Town",
+      "Barcelona",
+      "Lisbon",
+      "Miami"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov/early Dec)",
+      "inside_eur": 2849,
+      "balcony_eur": 3899,
+      "suite_eur": 5899
+    },
+    {
+      "season": "Peak (late Dec-Feb)",
+      "inside_eur": 3299,
+      "balcony_eur": 4599,
+      "suite_eur": 7299
+    },
+    {
+      "season": "Late Season (Mar)",
+      "inside_eur": 2999,
+      "balcony_eur": 4099,
+      "suite_eur": 6199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Canary Islands & Morocco",
+      "duration_nights": 10,
+      "ports": [
+        "Barcelona",
+        "Casablanca",
+        "Agadir",
+        "Santa Cruz de Tenerife",
+        "Arrecife",
+        "Funchal"
+      ],
+      "price_from_eur": 2849,
+      "highlight": "Overnight in Casablanca with Hassan II Mosque private evening tour"
+    },
+    {
+      "name": "14-night South Africa & Namibia",
+      "duration_nights": 14,
+      "ports": [
+        "Cape Town",
+        "Luderitz",
+        "Walvis Bay",
+        "Luanda",
+        "Banjul",
+        "Dakar"
+      ],
+      "price_from_eur": 4199,
+      "highlight": "Sossusvlei dunes flightseeing and Cape Winelands culinary excursion"
+    },
+    {
+      "name": "24-night Grand Africa Voyage",
+      "duration_nights": 24,
+      "ports": [
+        "Barcelona",
+        "Casablanca",
+        "Dakar",
+        "Banjul",
+        "Abidjan",
+        "Luanda",
+        "Walvis Bay",
+        "Cape Town"
+      ],
+      "price_from_eur": 7899,
+      "highlight": "Comprehensive West African coast with three overnight stays"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "best_for": "Intimate destination immersion",
+      "price_from_eur": 2849
+    },
+    {
+      "name": "Insignia",
+      "capacity": 670,
+      "year": 1998,
+      "best_for": "Culinary-focused travelers",
+      "price_from_eur": 2999
+    },
+    {
+      "name": "Marina",
+      "capacity": 1250,
+      "year": 2011,
+      "best_for": "Larger suites and Bon Appétit Culinary Center",
+      "price_from_eur": 3299
+    }
+  ],
+  "whats_included": [
+    "Unlimited specialty dining at all restaurants",
+    "Complimentary shuttle service to town centers in most ports",
+    "Unlimited soft drinks and specialty coffees",
+    "Bottled water replenished daily",
+    "Room service 24 hours",
+    "Self-service laundry",
+    "Internet access",
+    "Port taxes and fees",
+    "Airport transfers on embarkation/disembarkation days"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages (beverage packages from EUR 59/day)",
+    "Shore excursions (EUR 89-449 each)",
+    "Gratuities (EUR 16/day recommended)",
+    "Spa treatments",
+    "Premium internet tiers",
+    "Laundry and dry cleaning services",
+    "Airfare unless promotional package selected"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking savings of up to EUR 800 per stateroom. Oceania's OLife Choice promotion typically includes free internet, shore excursion credits, or beverage package—value approximately EUR 600-1200. Last-minute Africa departures rarely discount below 15% due to limited inventory. Consider repositioning segments for 30-40% savings versus full voyages.",
+  "top_ports": [
+    {
+      "port": "Casablanca",
+      "time_in_port": "8am-overnight-5pm",
+      "top_activity": "Hassan II Mosque private access with rooftop terrace (EUR 129)",
+      "tip": "Evening call to prayer from minaret is unforgettable—request port-side balcony"
+    },
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Teide National Park cable car and wine tasting (EUR 189)",
+      "tip": "Morning cloud inversion common—book afternoon excursion for clearest volcano views"
+    },
+    {
+      "port": "Cape Town",
+      "time_in_port": "overnight-overnight",
+      "top_activity": "Table Mountain sunrise cableway and Bo-Kaap cooking class (EUR 249)",
+      "tip": "Oceania's overnight allows full-day Winelands tour—book before embarkation"
+    },
+    {
+      "port": "Dakar",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Gorée Island UNESCO memorial and local lunch (EUR 159)",
+      "tip": "Tender port—book early excursion to secure priority tender ticket"
+    },
+    {
+      "port": "Walvis Bay",
+      "time_in_port": "6am-4pm",
+      "top_activity": "Living Desert 4x4 dune adventure with wildlife tracking (EUR 219)",
+      "tip": "Morning fog typical—afternoon excursions have better photography light"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Africa & Canaries cruise cost?",
+      "answer": "Oceania Cruises Africa and Canaries voyages range from EUR 2,849 for 10-night shoulder-season balcony staterooms to EUR 7,899 for 24-night Grand Africa suite accommodations. Interior staterooms start around EUR 2,849, verandas EUR 3,899-EUR 4,599, and Owner's Suites EUR 7,299-EUR 12,000. The OLife Choice promotion adds significant value through included excursions, beverage packages, or internet credits worth EUR 600-1,200. Airfare packages add EUR 899-EUR 1,299 from European gateways. Shore excursion budgets should account EUR 150-250 daily for comprehensive experiences."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Africa & Canaries?",
+      "answer": "Oceania deploys its 670-guest R-class ships Nautica and Insignia for most Africa and Canaries itineraries, with the larger 1,250-guest Marina joining select voyages. Nautica and Insignia's intimate size enables access to smaller West African ports like Banjul and Mindelo that larger vessels cannot navigate. Marina offers expanded culinary programming including the Bon Appétit Culinary Center hands-on cooking classes and multiple specialty restaurants. All three vessels feature Oceania's signature open-kitchen design, extensive wine cellars, and Canyon Ranch SpaClub facilities. R-class ships emphasize destination immersion with longer port stays."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "November through March delivers optimal conditions for Oceania's Africa and Canaries itineraries. Canary Islands enjoy spring-like temperatures of 20-24°C with minimal rainfall, ideal for Teide National Park excursions and coastal hiking. Southern Africa's summer brings warm, dry weather perfect for Cape Town's outdoor attractions and Namibia's desert landscapes. November and March offer shoulder-season pricing with fewer crowds. December through February represents peak season with highest demand and premium pricing, though Christmas and New Year voyages feature special celebrations. Avoid April-October when West African humidity and rainfall increase significantly, and Canary Islands experience cooler, windier conditions."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Africa and Canaries cruises include unlimited dining at all specialty restaurants—Jacques, Polo Grill, Toscana, and Red Ginger—without reservation fees or cover charges. Complimentary shuttle service operates in most ports, unlimited soft drinks and specialty coffees, bottled water, and 24-hour room service are provided. Self-service laundry facilities, basic internet access, port taxes, and airport transfers on embarkation days are included. What distinguishes Oceania is the absence of surcharges for its acclaimed culinary program. Not included are alcoholic beverages, comprehensive shore excursions, spa treatments, and gratuities, though beverage packages and OLife Choice promotional credits offset these costs significantly."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Africa and Canaries itineraries encompass diverse Atlantic and African destinations. Canary Islands calls include Santa Cruz de Tenerife for volcano excursions, Arrecife for Lanzarote's lunar landscapes, and Las Palmas for Vegueta's colonial architecture. Moroccan ports feature Casablanca with overnight stays and Agadir's souks. West African destinations include Dakar for Gorée Island, Banjul for river wildlife, and Abidjan for contemporary African culture. Southern African voyages visit Cape Town for two-night stays, Luderitz for German colonial heritage, and Walvis Bay for dune ecosystems. Some itineraries extend to Lisbon, Barcelona, or Miami as embarkation points, creating comprehensive Atlantic exploration routes."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Oceania Africa and Canaries reservations 9-12 months in advance for optimal stateroom selection, particularly for veranda categories and coveted mid-ship locations. Popular 14-night South Africa voyages and holiday departures often reach 80% capacity six months out. Oceania's OLife Choice early booking promotion typically launches 12-18 months ahead, offering maximum value through free internet, excursion credits, or beverage packages. Suite inventory is especially limited on 670-guest R-class ships. Shoulder-season November departures may offer modest last-minute availability, but peak December-Feb sailings rarely discount significantly. Waitlist for specific suites or connect with a cruise specialist for inventory access."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises traditionally attracts affluent adult travelers rather than families, with no dedicated children's facilities, youth programs, or family-specific accommodations on Africa and Canaries routes. The sophisticated programming—wine tastings, culinary demonstrations, destination lectures—resonates with couples and multi-generational adult groups. Teenagers interested in cultural immersion and fine dining may appreciate the experience, but younger children lack age-appropriate activities. Pool areas and fitness facilities suit active adults. Family groups considering Oceania should evaluate whether children can engage with port-intensive itineraries and formal culinary environments. For families prioritizing Africa exploration with children, alternative lines may offer more suitable programming."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania Cruises applies a tiered cancellation schedule for Africa and Canaries voyages. Cancellations 91+ days before departure forfeit deposit only, typically EUR 600-EUR 1,200 per person depending on voyage length. 90-76 days prior incurs 25% of total fare penalty; 75-61 days 50%; 60-31 days 75%; and 30 days or less forfeits 100% of cruise fare. Cancel for Any Reason protection, available as add-on purchase, returns 80% future cruise credit if standard cancellation terms apply. Travel insurance strongly recommended given Africa's remote destinations and potential medical evacuation complexity. Rebooking to alternative Oceania voyage may transfer deposits with administrative fee."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "title": "Holland America Line vs Disney Cruise Line 2026",
+  "intro": "Holland America Line and Disney Cruise Line represent two distinct approaches to ocean cruising. Holland America, with its 150-year heritage, targets mature travellers seeking refined elegance, cultural enrichment, and classic maritime traditions across global itineraries. Disney Cruise Line delivers immersive family entertainment, beloved character encounters, and innovative ship design primarily in the Caribbean and Mediterranean. While both operate premium products, their demographics, onboard atmosphere, and value propositions differ substantially. Holland America emphasises destination immersion and culinary excellence for adults, whereas Disney prioritises multigenerational magic with industry-leading children's programming and theatrical entertainment.",
+  "at_a_glance": {
+    "holland-america": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 899
+    },
+    "disney": {
+      "price_tier": "luxury",
+      "avg_7night_inside_eur": 1899
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price (7-night inside)",
+      "holland-america": "€899",
+      "disney": "€1,899"
+    },
+    {
+      "category": "Gratuities (per person/day)",
+      "holland-america": "€16",
+      "disney": "€14.50"
+    },
+    {
+      "category": "Wi-Fi (7 nights)",
+      "holland-america": "€105",
+      "disney": "€224"
+    },
+    {
+      "category": "Specialty dining",
+      "holland-america": "€35-55",
+      "disney": "€45-135"
+    },
+    {
+      "category": "Alcohol package (per day)",
+      "holland-america": "€55",
+      "disney": "€65"
+    },
+    {
+      "category": "Shore excursions",
+      "holland-america": "€65-185",
+      "disney": "€75-299"
+    },
+    {
+      "category": "Passenger capacity",
+      "holland-america": "1,432-2,668",
+      "disney": "1,250-4,000"
+    },
+    {
+      "category": "Crew-to-guest ratio",
+      "holland-america": "1:2.3",
+      "disney": "1:2.5"
+    },
+    {
+      "category": "Kids' clubs (included)",
+      "holland-america": "Limited",
+      "disney": "Extensive"
+    },
+    {
+      "category": "Evening entertainment",
+      "holland-america": "Live music, lectures",
+      "disney": "Broadway-calibre shows"
+    },
+    {
+      "category": "Dress code",
+      "holland-america": "Smart casual, formal nights",
+      "disney": "Cruise casual"
+    },
+    {
+      "category": "Average guest age",
+      "holland-america": "55-65",
+      "disney": "40-50 (multigenerational)"
+    }
+  ],
+  "choose_a_if": [
+    "You prioritise destination immersion with longer port stays and overnight calls in marquee cities",
+    "You appreciate culinary excellence including exclusive partnerships with America's Test Kitchen and Rudi's Sel de Mer",
+    "You seek a refined, quieter atmosphere with live music, classical performances, and enrichment lectures",
+    "You value comprehensive world cruise itineraries and Grand Voyages spanning 25-128 nights",
+    "You prefer traditional maritime decor with nautical heritage and intimate ship dimensions",
+    "You want included gratuities on select promotional fares and more inclusive pricing structures"
+  ],
+  "choose_b_if": [
+    "You are travelling with children aged 3-17 who require supervised, engaging age-appropriate programming",
+    "You desire immersive Disney storytelling, character meet-and-greets, and exclusive Marvel/Star Wars/Pixar experiences",
+    "You want rotational dining with the same serving team across three distinct themed restaurants",
+    "You prioritise Broadway-calibre original productions and fireworks at sea on select sailings",
+    "You appreciate innovative ship design including the Disney Wish's AquaMouse water coaster and virtual portholes",
+    "You are willing to pay premium pricing for exceptional service consistency and pristine ship maintenance"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with young children",
+      "winner": "Disney Cruise Line",
+      "reason": "Unmatched kids' clubs, character experiences, and family-friendly infrastructure justify the premium pricing for magical multigenerational memories."
+    },
+    {
+      "type": "Couples 55+",
+      "winner": "Holland America Line",
+      "reason": "Sophisticated ambience, enrichment programming, and adult-focused dining create ideal environment without competing for space with families."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Holland America Line",
+      "reason": "Single supplements frequently waived, dedicated solo cabins on newer ships, and social programming designed for independent explorers."
+    },
+    {
+      "type": "Multigenerational groups",
+      "winner": "Disney Cruise Line",
+      "reason": "Diverse activity tiers ensure grandparents, parents, and children each find appropriate engagement without compromise."
+    },
+    {
+      "type": "Culinary enthusiasts",
+      "winner": "Holland America Line",
+      "reason": "Culinary Council partnerships, cooking demonstrations, and regionally inspired menus exceed Disney's competent but family-oriented food service."
+    },
+    {
+      "type": "First-time cruisers",
+      "winner": "Disney Cruise Line",
+      "reason": "Intuitive service model, included soda, and flawless execution reduce anxiety for cruising novices despite higher cost."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Holland America Line typically delivers superior value for adult travellers, with base fares approximately 40-50% lower than Disney and more frequent promotional inclusions like beverage packages and shore excursion credits. Disney's value proposition centres on included experiences that would cost substantially extra elsewhere: extensive kids' programming, character interactions, and theatrical entertainment. For families, Disney's all-inclusive approach often proves economical despite higher upfront costs. For couples, Holland America's lower fare plus à la carte spending usually results in lower total expenditure. Consider your party composition and spending habits when evaluating true value."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Disney Cruise Line dominates family cruising through purpose-built infrastructure. Oceaneer Club and Lab accommodate ages 3-12 with themed Marvel, Frozen, and Star Wars spaces; Edge (11-14) and Vibe (14-17) provide sophisticated teen lounges. Counselors maintain 1:10 ratios with extensive training. Adults enjoy Palo and Remy specialty dining, Quiet Cove pool, and nighttime entertainment while children engage. Holland America offers Club HAL for ages 3-17 but with limited hours and smaller facilities; families comprise minority demographics. Disney's rotational dining ensures consistent service team relationships, and Castaway Cay provides flawless private island experience. For genuine family-focused cruising, Disney remains unmatched."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Disney Cruise Line commands significant premiums: 7-night Caribbean inside cabins average €1,899 versus Holland America's €899. Balcony accommodations widen further to €2,800 versus €1,400. Disney rarely discounts, maintaining price integrity with occasional onboard credit promotions. Holland America employs dynamic pricing with frequent 40-50% fare reductions, third/fourth passenger discounts, and bundled offers including gratuities, beverages, and Wi-Fi. Onboard spending differs too: Disney includes soft drinks and basic Wi-Fi; Holland America charges for both. Shore excursions at Disney cost 30-60% more. Total vacation cost for comparable itineraries typically shows 80-120% premium for Disney, though families may offset through included children's programming."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Holland America Line excels in culinary execution for discerning adult palates. Culinary Council membership includes David Burke, Jacques Torres, and Rudi Sodamin. Main dining room quality consistently exceeds premium cruise standards with regional sourcing. Specialty venues Pinnacle Grill (steakhouse) and Tamarind (Asian fusion) rival land-based restaurants. America's Test Kitchen partnership provides cooking demonstrations. Disney offers competent mass-market cuisine with rotational dining novelty—Animator's Palate, Enchanted Garden, Royal Palace—but flavours prioritise broad appeal over sophistication. Palo and Remy (adults-only, surcharge) elevate experience significantly. For families with diverse preferences, Disney's variety satisfies; for culinary exploration, Holland America delivers superior gastronomy."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Disney Cruise Line reduces cruising anxiety through exceptional service consistency and intuitive design. Staterooms feature split bathrooms (tub/toilet separated from sink), ample storage, and Disney's patented rotational dining eliminates awkward table assignment concerns. Included soda, extensive character schedules, and flawless execution minimise decision fatigue. Staff training emphasises anticipatory service recovery. Holland America suits confident travellers comfortable with traditional cruise conventions: assigned dining times, formal nights, and enrichment-focused sea days. First-timers seeking relaxation without extensive planning find Disney's structured approach welcoming. Those wanting authentic maritime experience and destination discovery may prefer Holland America's less programmed environment despite steeper learning curve."
+    },
+    {
+      "question": "What are the main differences?",
+      "answer": "Demographics fundamentally diverge: Holland America attracts 55+ travellers seeking cultural immersion; Disney targets multigenerational families with children. Ship atmosphere reflects this—Holland America offers quiet elegance, live classical music, and enrichment lectures; Disney provides constant activity, character appearances, and theatrical spectacle. Itinerary strategies differ: Holland America emphasises extended port stays, overnights, and comprehensive world voyages; Disney focuses on efficient Caribbean and Mediterranean routes with private island exclusivity. Pricing models contrast sharply—Holland America discounts aggressively with à la carte options; Disney maintains premium pricing with greater inclusion. Service philosophies vary: Holland America delivers personalised attention through lower guest counts; Disney achieves consistency through rigorous operational protocols and character integration."
+    }
+  ]
+}

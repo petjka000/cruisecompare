@@ -1,0 +1,203 @@
+{
+  "title": "Cunard Line Australia & Pacific Cruises 2026",
+  "intro": "Cunard Line brings its legendary White Star Service to the Australia & Pacific region, offering an elegant alternative to contemporary cruising. Since 1840, Cunard has defined ocean travel, and their 2026 Australia & Pacific voyages aboard Queen Elizabeth continue this refined tradition. These itineraries traverse the Coral Sea, visiting Papua New Guinea's tribal cultures, New Zealand's fjordlands, and Australia's Great Barrier Reef. The mid-sized 2,081-guest Queen Elizabeth provides an intimate atmosphere where ballroom dancing, afternoon tea, and formal evenings remain cherished rituals. Cunard's extended port stays—often 12-14 hours—allow deeper exploration of remote Pacific islands and Australian coastal gems. The line's enrichment programme features destination lecturers, RADA performers, and classical musicians. For discerning travellers seeking cultural immersion without sacrificing elegance, Cunard's Australia & Pacific cruises represent the pinnacle of traditional cruising in this spectacular region.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "12-21 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Queen Elizabeth"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Brisbane",
+      "Auckland",
+      "Singapore"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Nov-Mar)",
+      "inside_eur": 1899,
+      "balcony_eur": 2899,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Peak (Dec-Jan)",
+      "inside_eur": 2399,
+      "balcony_eur": 3699,
+      "suite_eur": 6299
+    },
+    {
+      "season": "World Voyage Segments",
+      "inside_eur": 1599,
+      "balcony_eur": 2499,
+      "suite_eur": 4199
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Papua New Guinea & Solomon Islands",
+      "duration_nights": 14,
+      "ports": [
+        "Brisbane",
+        "Rabaul",
+        "Kiriwina Island",
+        "Guadalcanal",
+        "Brisbane"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Tribal culture encounters and WWII history"
+    },
+    {
+      "name": "12-night New Zealand",
+      "duration_nights": 12,
+      "ports": [
+        "Sydney",
+        "Auckland",
+        "Tauranga",
+        "Wellington",
+        "Dunedin",
+        "Sydney"
+      ],
+      "price_from_eur": 2399,
+      "highlight": "Milford Sound scenic cruising and Māori heritage"
+    },
+    {
+      "name": "21-night Australia & Indonesia",
+      "duration_nights": 21,
+      "ports": [
+        "Singapore",
+        "Bali",
+        "Darwin",
+        "Cairns",
+        "Brisbane",
+        "Sydney"
+      ],
+      "price_from_eur": 3199,
+      "highlight": "Komodo dragons and Great Barrier Reef"
+    },
+    {
+      "name": "16-night Pacific Islands",
+      "duration_nights": 16,
+      "ports": [
+        "Auckland",
+        "Nouméa",
+        "Port Vila",
+        "Suva",
+        "Suva",
+        "Auckland"
+      ],
+      "price_from_eur": 2699,
+      "highlight": "Volcanic landscapes and traditional kava ceremonies"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Elizabeth",
+      "capacity": 2081,
+      "year": 2010,
+      "best_for": "Mature travellers, culture enthusiasts, ballroom dancers",
+      "price_from_eur": 1899
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals (Britannia, Princess Grill, Queen's Grill depending on category)",
+    "Afternoon tea served daily",
+    "Nightly entertainment including theatre productions",
+    "Enrichment lectures and workshops",
+    "Use of fitness centre, pools, and sports courts",
+    "White Star Service gratuities",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Drinks packages and à la carte beverages",
+    "Shore excursions",
+    "Specialty dining (Verandah Restaurant)",
+    "Spa treatments and salon services",
+    "Internet packages",
+    "Laundry and dry cleaning",
+    "Onboard photography",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for best cabin selection; Cunard releases itineraries 18 months in advance. World Voyage segments offer exceptional value. Consider Cunard Fare with deposit protection for flexibility.",
+  "top_ports": [
+    {
+      "port": "Rabaul, Papua New Guinea",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Tavurvur Volcano and WWII tunnels tour (€89)",
+      "tip": "Bring Kina cash for local market; volcanic ash may affect visibility"
+    },
+    {
+      "port": "Milford Sound, New Zealand",
+      "time_in_port": "Scenic cruising 8am-12pm",
+      "top_activity": "Deck viewing with commentary (included)",
+      "tip": "Position early on forward decks; weather changes rapidly"
+    },
+    {
+      "port": "Port Vila, Vanuatu",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Hideaway Island snorkelling and Champagne Beach (€109)",
+      "tip": "Tender port; book early morning excursions to avoid afternoon tropical storms"
+    },
+    {
+      "port": "Komodo Island, Indonesia",
+      "time_in_port": "12pm-6pm",
+      "top_activity": "Dragon walk with park rangers (€79)",
+      "tip": "Sturdy shoes essential; dragons are dangerous—follow ranger instructions strictly"
+    },
+    {
+      "port": "Cairns, Australia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Great Barrier Reef helicopter and pontoon (€359)",
+      "tip": "Book reef experiences months ahead; stinger season November-May requires suits"
+    },
+    {
+      "port": "Nouméa, New Caledonia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Amedee Island marine reserve (€129)",
+      "tip": "French territory—euros accepted but CFP franc preferred; excellent patisseries near port"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Australia & Pacific cruise cost?",
+      "answer": "Cunard Australia & Pacific cruises range from €1,899 for inside cabins on shoulder-season 12-night itineraries to €6,299+ for Queens Grill suites during peak December-January departures. Balcony staterooms typically start at €2,899. World Voyage segments offer reduced per-night rates from €1,599. Gratuities, drinks, and excursions add approximately €800-1,200 per person for a two-week voyage. Early booking incentives often include onboard credit worth €200-400."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Australia & Pacific?",
+      "answer": "Queen Elizabeth exclusively serves the Australia & Pacific region during her annual world cruise deployment from November through March. The 2,081-guest vessel, launched in 2010 and refurbished in 2019, offers art deco elegance with three accommodation tiers: Britannia, Princess Grill, and Queens Grill. Queen Mary 2 occasionally offers repositioning segments between Singapore and Sydney. Queen Victoria concentrates on Mediterranean and Northern Europe itineraries, leaving Queen Elizabeth as the primary Australia & Pacific vessel."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "November through March provides optimal conditions, with December-February offering warmest temperatures (25-32°C) ideal for reef exploration and beach activities. November and March present shoulder-season advantages: fewer crowds, lower fares, and excellent diving visibility. Cyclone risk peaks January-March, though Cunard's flexible itineraries accommodate weather disruptions. Papua New Guinea voyages suit dry season months (May-October) when Queen Elizabeth repositions. New Zealand's South Island experiences milder 20-25°C conditions during this period, perfect for fjord cruising without summer crowds."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's Australia & Pacific fares encompass accommodation, all main dining venues appropriate to your stateroom grade, traditional afternoon tea, nightly theatre entertainment, enrichment lectures, fitness facilities, swimming pools, and White Star Service gratuities. Britannia passengers dine in the elegant two-tier restaurant; Grill-level guests enjoy single-seating dining in Princess or Queens Grill with dedicated lounge and terrace access. Nightly ballroom dancing with live orchestras, deck games, and library resources are complimentary. Port taxes and fees are included, though drinks, specialty dining, shore excursions, spa services, and internet require additional payment."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Australia & Pacific itineraries feature Brisbane and Sydney as primary embarkation points, with Auckland and Singapore serving as alternative departure cities. Key destinations include Papua New Guinea's Rabaul and Alotau for tribal culture; Solomon Islands' Guadalcanal for WWII history; Vanuatu's Port Vila and Mystery Island; New Caledonia's Nouméa; Fiji's Suva and Dravuni Island; Indonesia's Komodo and Bali; and extensive New Zealand coverage including Auckland, Tauranga, Wellington, Akaroa, Dunedin, and scenic cruising through Milford, Doubtful, and Dusky Sounds. Cairns provides Great Barrier Reef access."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Cunard releases Australia & Pacific itineraries approximately 18 months in advance, with optimal booking windows opening 9-18 months before departure for best stateroom selection, particularly for Queens Grill suites and sought-after balcony categories. World Voyage segments sell rapidly due to exceptional value. Cunard Fare offers deposit protection and flexibility until final payment 90 days prior. Last-minute availability occasionally emerges 60-90 days out, though cabin location and dining preferences may be compromised. Christmas and New Year departures require earliest booking due to limited inventory."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard's Australia & Pacific cruises suit families with children aged 8+ who appreciate cultural enrichment and structured elegance, though the line primarily targets mature travellers. The Zone youth programme operates during school holiday periods, offering supervised activities for ages 2-17. Family-friendly shore excursions include wildlife encounters, snorkelling, and cultural experiences. However, formal dress codes, refined dining expectations, and limited waterslide or adventure amenities distinguish Cunard from family-focused competitors. Multi-generational groups often appreciate the separate spaces—children's activities, adult-only venues, and shared family dining—though parents should prepare children for evening formality and extended port lectures."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's standard cancellation policy charges deposits from booking date, with penalties escalating from 15% of fare at 90-61 days, 50% at 60-31 days, 75% at 30-15 days, to 100% within 14 days of departure. Cunard Fare includes deposit protection allowing full deposit transfer to alternative voyages if cancelled before final payment. Travel insurance covering cruise-specific cancellation, interruption, and medical evacuation is strongly recommended given remote Pacific destinations and limited medical facilities. COVID-19 protocols remain subject to destination requirements; Cunard's Book with Confidence policy has provided additional flexibility during recent years, though terms evolve annually."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "title": "Holland America Line Hawaii Cruises 2026",
+  "intro": "Holland America Line brings its signature Dutch heritage and refined elegance to Hawaii, offering discerning travelers an immersive island experience unlike any other cruise line. With over 150 years of maritime tradition, HAL combines classic cruising sophistication with authentic Hawaiian cultural programming. Their Hawaii itineraries feature extended port stays, overnight calls in Honolulu, and exclusive access to lesser-known islands. Onboard, guests enjoy Indonesian-inspired service, world-class culinary experiences including fresh island cuisine, and enrichment programs led by naturalists and cultural ambassadors. The mid-sized ships navigate Hawaiian waters with grace, accessing ports larger vessels cannot reach. Holland America's Hawaii cruises appeal to experienced travelers seeking depth over novelty, with comprehensive pre- and post-cruise land packages available for those wanting to explore volcanic landscapes, historic Pearl Harbor, and the vibrant traditions of Polynesian culture at a leisurely, immersive pace.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "14-18 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Koningsdam",
+      "Nieuw Amsterdam",
+      "Volendam"
+    ],
+    "departure_ports": [
+      "San Diego",
+      "Vancouver",
+      "Seattle"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 2499,
+      "balcony_eur": 3499,
+      "suite_eur": 5499
+    },
+    {
+      "season": "Shoulder (Nov, Mar-Apr)",
+      "inside_eur": 1899,
+      "balcony_eur": 2699,
+      "suite_eur": 4299
+    },
+    {
+      "season": "Low (May-Oct)",
+      "inside_eur": 1699,
+      "balcony_eur": 2399,
+      "suite_eur": 3799
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "18-night Circle Hawaii",
+      "duration_nights": 18,
+      "ports": [
+        "San Diego",
+        "Hilo",
+        "Honolulu (overnight)",
+        "Kauai",
+        "Maui",
+        "Kona",
+        "Ensenada"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Complete island immersion with overnight in Honolulu"
+    },
+    {
+      "name": "14-night Hawaii & Mexico",
+      "duration_nights": 14,
+      "ports": [
+        "Vancouver",
+        "Hilo",
+        "Honolulu",
+        "Kauai",
+        "Maui",
+        "Kona",
+        "San Diego"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Pacific Coast positioning with four Hawaiian islands"
+    },
+    {
+      "name": "16-night Hawaii Tahiti",
+      "duration_nights": 16,
+      "ports": [
+        "San Diego",
+        "Hilo",
+        "Honolulu",
+        "Kauai",
+        "Maui",
+        "Kona",
+        "Bora Bora",
+        "Papeete"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Ultimate Polynesian exploration combining Hawaii with French Polynesia"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Koningsdam",
+      "capacity": 2650,
+      "year": 2016,
+      "best_for": "Culinary enthusiasts & music lovers",
+      "price_from_eur": 2099
+    },
+    {
+      "name": "Nieuw Amsterdam",
+      "capacity": 2106,
+      "year": 2010,
+      "best_for": "Classic cruisers & art collectors",
+      "price_from_eur": 1899
+    },
+    {
+      "name": "Volendam",
+      "capacity": 1432,
+      "year": 1999,
+      "best_for": "Intimate atmosphere & traditionalists",
+      "price_from_eur": 1699
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Specialty dining at Pinnacle Grill (one dinner per cruise)",
+    "Evening entertainment & live music",
+    "Fitness center & select fitness classes",
+    "Port lectures & destination presentations",
+    "Kids club programming",
+    "Room service",
+    "Basic Wi-Fi (Surf package)"
+  ],
+  "whats_extra": [
+    "Beverage packages (from €55/day)",
+    "Shore excursions (€89-€289 per tour)",
+    "Specialty restaurant surcharges (€25-€45)",
+    "Gratuities (€15.50/person/day)",
+    "Spa treatments & salon services",
+    "Premium Wi-Fi upgrade",
+    "Laundry services",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking bonuses; Wave Season (January-March) offers the strongest incentives including onboard credits up to €400 and complimentary beverage packages. Consider repositioning cruises in April or October for 30-40% savings.",
+  "top_ports": [
+    {
+      "port": "Honolulu, Oahu",
+      "time_in_port": "8am-11pm (overnight on select sailings)",
+      "top_activity": "Pearl Harbor National Memorial (€45)",
+      "tip": "Reserve USS Arizona tickets 60 days ahead online"
+    },
+    {
+      "port": "Nawiliwili, Kauai",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Na Pali Coast catamaran cruise (€189)",
+      "tip": "Morning departures offer calmer seas for photography"
+    },
+    {
+      "port": "Kahului, Maui",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Haleakala sunrise tour (€165)",
+      "tip": "Ship excursions guarantee return; independent tours risk missing departure"
+    },
+    {
+      "port": "Hilo, Hawaii Island",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Volcanoes National Park (€129)",
+      "tip": "Afternoon tours avoid morning fog at crater viewpoints"
+    },
+    {
+      "port": "Kona, Hawaii Island",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Manta ray night snorkel (€145)",
+      "tip": "Tender port—book early dining to catch evening excursions"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line Hawaii cruise cost?",
+      "answer": "Holland America Hawaii cruises typically range from €1,699 to €5,499 per person for double occupancy, depending on season, cabin category, and itinerary length. Inside cabins start around €1,699 in low season, while verandah balconies—highly recommended for Hawaii's scenic cruising—begin at €2,399. Suite accommodations with Neptune Lounge access range from €3,799 to €5,499. Prices are generally 15-20% higher than Caribbean equivalents due to longer distances and limited competition. Look for Wave Season promotions in January-March, which frequently include onboard credits of €200-€400, complimentary beverage packages worth €400+, and reduced deposits. Solo travelers face 150-200% single supplements, though HAL occasionally offers reduced singles promotions."
+    },
+    {
+      "question": "Which Holland America Line ships sail to Hawaii?",
+      "answer": "Holland America deploys its Pinnacle-class and Signature-class vessels to Hawaii, primarily the 2,650-guest Koningsdam (2016) with its innovative Music Walk and world-class dining venues, and the 2,106-guest Nieuw Amsterdam (2010) featuring an extensive art collection and Culinary Arts Center. The smaller 1,432-guest Volendam (1999) occasionally offers more intimate Hawaii sailings with traditional décor and highly personalized service. These mid-sized ships are ideal for Hawaiian waters—large enough for stability and comprehensive amenities, yet compact enough to navigate narrow channels and dock at smaller ports like Kona's tender anchorage. Unlike mega-ships, HAL vessels can position for optimal volcanic coastline viewing and access Nawiliwili's constrained harbor."
+    },
+    {
+      "question": "When is best time to cruise Hawaii?",
+      "answer": "The optimal Hawaii cruise window runs November through March, coinciding with dry season conditions and pleasant temperatures of 24-29°C. December through February represents peak demand with highest prices but also the most reliable weather for shore excursions and whale watching—humpback migrations peak January-March. November and April offer excellent value with 20-30% lower fares and fewer crowds, though occasional rain showers are more likely. May through October brings warmer, more humid conditions and minimal rainfall on leeward coasts, though hurricane risk, while statistically low, exists August-October. Cruise positioning in April and October provides exceptional savings for flexible travelers. Hawaiian waters remain warm year-round for swimming and snorkeling activities."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America's Hawaii cruises include substantial value: all meals in main dining rooms and Lido Market buffet, one complimentary dinner at Pinnacle Grill, extensive live music and entertainment including Lincoln Center Stage and B.B. King's Blues Club, fitness center access, port lectures by naturalists and cultural ambassadors, Club HAL youth programming, 24-hour room service, and basic Surf Wi-Fi. Unique to HAL, the Explorations Central (EXC) program provides comprehensive destination immersion through talks, workshops, and digital resources. Beverages beyond basic coffee, tea, and select juices incur charges unless purchasing a package. Gratuities (€15.50/person/day) are added automatically. Unlike premium competitors, HAL does not include specialty dining, premium beverages, or shore excursions in base fares."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America's Hawaii itineraries comprehensively cover the archipelago's major islands. All sailings include Honolulu (Oahu) with overnight calls on longer voyages, enabling independent exploration of Waikiki, Pearl Harbor, and North Shore. Nawiliwili (Kauai) provides gateway to Waimea Canyon and Na Pali Coast. Kahului (Maui) accesses Haleakala National Park and Road to Hana, though Lahaina anchoring remains suspended post-2023 wildfires. Hilo (Hawaii Island) offers lush rainforests and active volcano viewing at Hawaii Volcanoes National Park. Kona's tender port delivers coffee country and exceptional snorkeling. Most 14+ night roundtrip San Diego itineraries include five Hawaiian ports plus Ensenada, Mexico for Jones Act compliance. One-way repositioning cruises between Vancouver and San Diego add Pacific Coast scenic cruising."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For optimal Holland America Hawaii cruises, book 9-12 months in advance to secure preferred verandah cabins—essential for Hawaii's scenic cruising—and access early booking bonuses. Suites with Neptune Lounge access, particularly on Koningsdam, sell out 10-14 months ahead for peak winter sailings. Wave Season (January-March) delivers the year's strongest promotions: onboard credits to €400, complimentary beverage packages, reduced deposits, and cabin upgrades. Last-minute deals under 60 days are rare for Hawaii given limited inventory and high demand. Solo travelers should book particularly early as single-occupancy cabins are extremely limited. Consider refundable fares for 2026 sailings given potential itinerary adjustments; HAL's flexible cancellation policies allow changes up to 90 days with minimal penalty during promotional periods."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Hawaii cruises suit families with older children (8+) seeking educational, culturally immersive experiences rather than high-energy entertainment. Club HAL provides complimentary programming for ages 3-17 with Hawaiian-themed activities including lei-making, ukulele lessons, and volcano science workshops, though facilities are modest compared to mega-ship competitors. The educational focus—naturalist lectures, cultural ambassadors, and EXC programming—engages curious teenagers. Pool areas lack water slides and elaborate features. Family accommodations are limited; connecting cabins book quickly. Dining accommodates children well with flexible venues and familiar options, though no dedicated children's menus in specialty restaurants. Shore excursions offer family pricing and educational components. Families prioritizing extensive kids' facilities, character interactions, or adrenaline activities may prefer Norwegian or Royal Caribbean; those valuing cultural depth and relaxed pace find HAL rewarding."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America Line's standard cancellation policy for Hawaii cruises charges no penalty until 90 days before departure. Cancellations 89-76 days prior incur deposit loss (typically €250-€550 depending on cruise length). Cancellations 75-57 days before sailing forfeit 50% of total fare; 56-29 days, 75% of fare; 28 days or less, 100% non-refundable. Cancel For Any Reason (CFAR) protection, available within 14 days of initial deposit for 10% of cruise fare, provides future cruise credits worth 80% of cancellation penalties. Standard travel insurance through HAL's partner covers medical emergencies and trip interruption. Given Hawaii's distance and potential weather disruptions, comprehensive third-party insurance with trip cancellation, medical evacuation (critical for remote islands), and interruption coverage is strongly recommended. Rebooking fees of €35 apply to date or ship changes outside penalty windows."
+    }
+  ]
+}

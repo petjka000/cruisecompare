@@ -1,0 +1,256 @@
+{
+  "title": "Princess Cruises Australia & Pacific Cruises 2026",
+  "intro": "Princess Cruises has established itself as the premier cruise line for Australia & Pacific exploration, with over 55 years of regional expertise. Their ships are specifically designed for longer voyages, featuring the largest balconies at sea and enrichment programs developed in partnership with Australian naturalists. The line operates the most extensive Australia & New Zealand season of any major cruise line, with departures from Sydney, Melbourne, Brisbane, Auckland and Perth. Princess pioneered the concept of immersive destination cruising here, offering overnight stays in iconic ports like Sydney for New Year's Eve fireworks and extended exploration of the Great Barrier Reef. Their MedallionClass technology enhances the experience with seamless navigation and personalized service. The Pacific itineraries unlock remote island chains including Fiji, Vanuatu, New Caledonia and Papua New Guinea, with cultural programs developed with local communities.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "7-35 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Royal Princess",
+      "Crown Princess",
+      "Grand Princess",
+      "Coral Princess",
+      "Island Princess"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Auckland",
+      "Perth (Fremantle)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Oct-Nov, Mar-Apr)",
+      "inside_eur": 849,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 2899
+    },
+    {
+      "season": "World Cruise Segments",
+      "inside_eur": 1899,
+      "balcony_eur": 2899,
+      "suite_eur": 4899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "12-night New Zealand",
+      "duration_nights": 12,
+      "ports": [
+        "Sydney",
+        "Fiordland National Park (scenic)",
+        "Dunedin",
+        "Akaroa",
+        "Wellington",
+        "Napier",
+        "Tauranga",
+        "Auckland"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Scenic cruising through Milford, Doubtful and Dusky Sounds with commentary from onboard naturalists"
+    },
+    {
+      "name": "14-night Papua New Guinea & Solomon Islands",
+      "duration_nights": 14,
+      "ports": [
+        "Brisbane",
+        "Alotau",
+        "Kiriwina",
+        "Rabaul",
+        "Guadalcanal",
+        "Gizo",
+        "Norfolk Island",
+        "Brisbane"
+      ],
+      "price_from_eur": 1699,
+      "highlight": "Rare expedition-style access to remote Melanesian cultures and WWII historical sites"
+    },
+    {
+      "name": "7-night Tasmania",
+      "duration_nights": 7,
+      "ports": [
+        "Sydney",
+        "Hobart",
+        "Port Arthur",
+        "Burnie",
+        "Melbourne"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Comprehensive exploration of Tasmania's wilderness and convict heritage with overnight Hobart stay"
+    },
+    {
+      "name": "35-night Circle Pacific",
+      "duration_nights": 35,
+      "ports": [
+        "Sydney",
+        "Auckland",
+        "Tauranga",
+        "Nouméa",
+        "Mystery Island",
+        "Suva",
+        "Dravuni",
+        "Port Vila",
+        "Brisbane",
+        "Great Barrier Reef",
+        "Darwin",
+        "Bali",
+        "Komodo",
+        "Singapore"
+      ],
+      "price_from_eur": 3899,
+      "highlight": "Ultimate regional immersion combining Australia, New Zealand and Southeast Asia in one voyage"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Royal Princess",
+      "capacity": 3560,
+      "year": 2013,
+      "best_for": "Couples and multigenerational families",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Crown Princess",
+      "capacity": 3080,
+      "year": 2006,
+      "best_for": "Traditional cruisers and enrichment seekers",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Grand Princess",
+      "capacity": 2600,
+      "year": 1998,
+      "best_for": "Extended voyages and world cruise segments",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Coral Princess",
+      "capacity": 2000,
+      "year": 2003,
+      "best_for": "Panama Canal transits and expedition-style Pacific exploration",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Island Princess",
+      "capacity": 2200,
+      "year": 2003,
+      "best_for": "Intimate destination immersion and longer itineraries",
+      "price_from_eur": 1099
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Buffet dining",
+    "Room service",
+    "Broadway-style production shows",
+    "Movies Under the Stars outdoor cinema",
+    "Port lectures and destination presentations",
+    "Fitness center access",
+    "Youth and teen programs",
+    "Medallion wearable device",
+    "Basic Wi-Fi (1 device per stateroom)"
+  ],
+  "whats_extra": [
+    "Beverage packages (EUR 65-85/day)",
+    "Specialty dining (EUR 35-55/person)",
+    "Shore excursions (EUR 89-399)",
+    "Premium Wi-Fi upgrade",
+    "Spa treatments",
+    "Laundry services",
+    "Gratuities (EUR 16-18/person/day)",
+    "Photos and retail purchases"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for peak season and balcony staterooms; monitor Princess's 3-day sales in March and September; consider 'Sail Away' rates for 30% savings on interior cabins; past guests should leverage Captain's Circle membership for early access and onboard credits up to EUR 300.",
+  "top_ports": [
+    {
+      "port": "Sydney",
+      "time_in_port": "7am-6pm (overnight on select sailings)",
+      "top_activity": "Sydney Opera House backstage tour with lunch (EUR 145)",
+      "tip": "Request starboard side for iconic Harbour Bridge and Opera House views"
+    },
+    {
+      "port": "Fiordland National Park (scenic cruising)",
+      "time_in_port": "Full day transit",
+      "top_activity": "Deck viewing with naturalist commentary (complimentary)",
+      "tip": "Position on forward decks by 6am for Milford Sound entry"
+    },
+    {
+      "port": "Hobart",
+      "time_in_port": "8am-6pm (overnight on some itineraries)",
+      "top_activity": "MONA museum with ferry transfer (EUR 45)",
+      "tip": "Weekend visits coincide with Salamanca Market"
+    },
+    {
+      "port": "Auckland",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Waiheke Island wine tour (EUR 189)",
+      "tip": "Departure port sailings offer better pricing than round-trip Sydney"
+    },
+    {
+      "port": "Port Vila, Vanuatu",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Hideaway Island snorkel and beach (EUR 79)",
+      "tip": "Bring cash as card facilities are limited ashore"
+    },
+    {
+      "port": "Nouméa, New Caledonia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Amedee Island lighthouse and snorkel (EUR 129)",
+      "tip": "Tender port—book early dining to avoid rush"
+    },
+    {
+      "port": "Darwin",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Kakadu National Park flyover (EUR 499)",
+      "tip": "Essential pre-cruise night recommended for jet lag recovery"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Australia & Pacific cruise cost?",
+      "answer": "Princess Cruises Australia & Pacific itineraries range from EUR 849 for 7-night Tasmania voyages in shoulder season to EUR 4,899 for 35-night Circle Pacific suites in peak period. Interior cabins typically cost EUR 849-1,199, balcony staterooms EUR 1,299-1,799, and mini-suites EUR 1,899-2,899. World cruise segments command premium pricing starting at EUR 1,899. Additional costs include gratuities (EUR 16-18 daily), beverage packages (EUR 65-85), and excursions averaging EUR 120 per port. Past guests receive 5-10% discounts through Captain's Circle. Early booking incentives often include free gratuities, onboard credits to EUR 300, and complimentary specialty dining."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Australia & Pacific?",
+      "answer": "Princess deploys five ships to Australia & Pacific seasonally. Royal Princess (3,560 guests, 2013) serves as flagship with the largest balconies and OceanMedallion technology. Crown Princess (3,080 guests, 2006) offers traditional cruising with extensive enrichment programs. Grand Princess (2,600 guests, 1998) specializes in longer voyages and world cruise segments. Coral Princess and Island Princess (2,000 guests each, 2003) are purpose-built for Panama Canal and expedition-style Pacific exploration with fewer guests and enhanced destination access. Ship deployment rotates seasonally, with Royal Princess and Crown Princess based in Australia October-April, while Coral and Island Princess operate repositioning voyages and specialized itineraries."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "The optimal cruising window spans November through March, coinciding with Austral summer. December through February offers warmest temperatures (25-30°C) and calmest seas but commands peak pricing and requires 12-18 month advance booking. November and March provide excellent value with 20-25°C temperatures, fewer crowds, and 30% lower fares. April sailings suit budget travelers despite cooler weather and occasional rain. Cyclone risk exists January-March in tropical Queensland and Pacific islands, though Princess monitors conditions and adjusts itineraries. For New Zealand specifically, December-January delivers long daylight hours ideal for scenic fiord cruising. Papua New Guinea and Solomon Islands itineraries operate May-October exclusively due to monsoon patterns."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Australia & Pacific cruises include all main dining room meals, buffet dining, 24-hour room service, and standard beverages (coffee, tea, water). Entertainment encompasses Broadway-style production shows, Movies Under the Stars, live music, and port lectures by destination experts. The MedallionClass experience provides wearable technology for seamless navigation, contactless payment, and personalized service. Fitness center access, youth programs for ages 3-17, and basic Wi-Fi (one device per stateroom) are included. Notable exclusions requiring additional payment are alcoholic beverages, specialty restaurants, shore excursions, spa services, premium Wi-Fi upgrades, and gratuities. Princess's 'Princess Plus' and 'Princess Premier' packages bundle drinks, Wi-Fi, and gratuities for EUR 50-75 daily, offering 40% savings versus à la carte purchasing."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess Australia & Pacific itineraries encompass over 40 ports across the region. Australian highlights include Sydney with overnight stays for New Year's Eve, Melbourne's cultural attractions, Brisbane as gateway to the Great Barrier Reef, and Fremantle for Western Australia exploration. New Zealand features scenic cruising through Fiordland's Milford, Doubtful and Dusky Sounds, plus Dunedin's Scottish heritage, Wellington's culinary scene, and Auckland's departure hub status. South Pacific islands include Fiji's Dravuni and Suva, Vanuatu's Port Vila and Mystery Island, New Caledonia's Nouméa and Lifou, and Papua New Guinea's Alotau and Rabaul for tribal culture. Extended voyages reach Bali, Komodo, Singapore, and Darwin. Remote expedition calls include Norfolk Island, Solomon Islands' Guadalcanal, and Timor-Leste on select itineraries."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Princess recommends booking Australia & Pacific cruises 12-18 months in advance for optimal stateroom selection and pricing, particularly for balcony cabins on scenic New Zealand itineraries. Peak season sailings (December-February) and holiday periods require maximum lead time with 50% deposits. Shoulder season travelers can secure favorable rates 6-9 months ahead. Princess releases itineraries approximately 18 months in advance, with Captain's Circle members receiving early access 2-4 weeks before public sale. Last-minute availability exists 60-90 days prior to sailing, typically for interior cabins at 20-30% discounts, though port availability and dining preferences become limited. Wave season (January-March) offers the year's strongest promotions with reduced deposits and enhanced perks for bookings made 12+ months ahead."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Cruises offers strong multigenerational appeal for Australia & Pacific voyages, though positions slightly below dedicated family lines. The Discovery at SEA youth program serves ages 3-17 with educational activities themed to regional wildlife and indigenous cultures, including partnerships with the California Science Center. Family staterooms accommodate up to five guests, and connecting rooms are abundant on Royal and Crown Princess. The Reef Splash Zone and family pools provide dedicated spaces, while Movies Under the Stars screens family-friendly films. Enrichment programs like stargazing and destination lectures engage curious teenagers. However, the line lacks water slides, bumper cars, and character experiences found on competitors. Families with children under 3 should note limited nursery services. The 7-night Tasmania and 12-night New Zealand itineraries best suit families balancing port immersion with sea day activities."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises applies a tiered cancellation structure for Australia & Pacific bookings. Standard fares incur no penalty for cancellations 90+ days before sailing. Between 89-75 days, deposit is forfeited (EUR 200-400 depending on voyage length). 74-43 days triggers 25% penalty of total fare. 42-15 days incurs 50% penalty, and 14 days or less results in 100% forfeiture. 'Sail Away' promotional fares carry stricter terms with penalties beginning 180 days prior. Princess strongly recommends comprehensive travel insurance covering cancellation, medical evacuation, and trip interruption, given the remote nature of many Pacific ports and limited medical facilities ashore. The line's 'Princess Vacation Protection' plan costs approximately 8% of cruise fare and includes 'Cancel for Any Reason' coverage reimbursing 75% in future cruise credits when standard conditions aren't met. COVID-19 protocols remain flexible with full refunds for cruise line cancellations."
+    }
+  ]
+}

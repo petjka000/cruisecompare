@@ -1,0 +1,206 @@
+{
+  "title": "Holland America Line Adriatic Cruises 2026",
+  "intro": "Holland America Line brings 150 years of maritime heritage to the stunning Adriatic Sea, offering culturally immersive voyages that appeal to discerning travellers seeking authentic experiences. Their mid-sized ships navigate intimate ports inaccessible to larger vessels, from the medieval walled city of Dubrovnik to the Venetian-influenced architecture of Kotor. HAL's Explorations Central programming enriches every journey with destination experts, regional cuisine workshops, and insider shore excursion recommendations. The line's longer port stays and overnight calls in cities like Venice and Istanbul allow deeper exploration of Dalmatian coast treasures. With an average guest age of 55+, these cruises prioritise enrichment over entertainment, featuring classical music performances, culinary demonstrations, and partnerships with BBC Earth and America's Test Kitchen. The Adriatic season runs April through October, with spring and autumn sailings offering ideal temperatures and fewer crowds at UNESCO World Heritage sites.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "10-21 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Rotterdam",
+      "Nieuw Statendam",
+      "Zuiderdam"
+    ],
+    "departure_ports": [
+      "Venice",
+      "Athens",
+      "Rome",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 849,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1199,
+      "balcony_eur": 1799,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Holiday (Jul-Aug)",
+      "inside_eur": 1399,
+      "balcony_eur": 2099,
+      "suite_eur": 3499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "10-night Adriatic & Greek Isles",
+      "duration_nights": 10,
+      "ports": [
+        "Venice",
+        "Dubrovnik",
+        "Kotor",
+        "Corfu",
+        "Santorini",
+        "Mykonos",
+        "Athens"
+      ],
+      "price_from_eur": 1049,
+      "highlight": "Overnight in Venice with evening gondola experience"
+    },
+    {
+      "name": "12-night Adriatic Explorer",
+      "duration_nights": 12,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Sicily",
+        "Dubrovnik",
+        "Split",
+        "Venice",
+        "Koper",
+        "Ravenna"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Extended Dalmatian coast coverage with UNESCO focus"
+    },
+    {
+      "name": "14-night Mediterranean & Adriatic",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Livorno",
+        "Rome",
+        "Naples",
+        "Dubrovnik",
+        "Kotor",
+        "Venice"
+      ],
+      "price_from_eur": 1549,
+      "highlight": "Grand Mediterranean loop with three sea days for relaxation"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Rotterdam",
+      "capacity": 2668,
+      "year": 2021,
+      "best_for": "Culinary enthusiasts and cultural travellers",
+      "price_from_eur": 949
+    },
+    {
+      "name": "Nieuw Statendam",
+      "capacity": 2666,
+      "year": 2018,
+      "best_for": "Music lovers and art aficionados",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Zuiderdam",
+      "capacity": 1916,
+      "year": 2002,
+      "refurbished": 2019,
+      "best_for": "Intimate port access and traditional cruising",
+      "price_from_eur": 849
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Casual dining venues",
+    "24-hour room service",
+    "Broadway-style theatre shows",
+    "Live music venues including Lincoln Center Stage",
+    "Explorations Central destination programming",
+    "Fitness centre and sports courts",
+    "Port lectures and destination briefings",
+    "Kids club programming"
+  ],
+  "whats_extra": [
+    "Speciality dining (Canaletto $25, Pinnacle Grill $39)",
+    "Beverage packages (Signature $59/day, Elite $79/day)",
+    "Shore excursions (€89-€289 per person)",
+    "Gratuities (€16/day per person)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Internet packages",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-15 months ahead for best cabin selection and early booking savings up to 25%. Holland America frequently offers 'Have It All' promotions bundling drinks, speciality dining, shore excursions, and WiFi—typically representing €400-€600 value. Wave season (January-March) brings strongest incentives. Consider repositioning cruises in April and November for 30-40% savings. Solo travellers should watch for reduced single supplement offers. Loyalty members (Mariner Society) receive priority booking and onboard credits.",
+  "top_ports": [
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "City walls walk with cable car (€35)",
+      "tip": "Arrive early at Pile Gate; crowds surge by 10am"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Fortress hike or Perast boat tour (€45)",
+      "tip": "Tender port—book early departure for best light"
+    },
+    {
+      "port": "Venice, Italy",
+      "time_in_port": "Overnight (2 days)",
+      "top_activity": "St. Mark's Basilica after-hours access (€89)",
+      "tip": "Ship docks at Marittima; water taxi to San Marco costs €80"
+    },
+    {
+      "port": "Split, Croatia",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Diocletian's Palace underground tour (€25)",
+      "tip": "Riva waterfront dining beats ship's lunch prices"
+    },
+    {
+      "port": "Corfu, Greece",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Paleokastritsa monastery and beach (€55)",
+      "tip": "Northwest coast drive offers best photography"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line Adriatic cruise cost?",
+      "answer": "Holland America Line Adriatic cruises typically range from €849 for shoulder-season interior cabins to €3,499 for peak-season suites on 10-14 night itineraries. Average spend per person runs €1,400-€2,200 including balcony accommodation, drinks package, and two shore excursions. The 'Have It All' promotional fare often provides best value at €1,599-€2,199, bundling four premium amenities. Solo travellers face 50-100% single supplements, though periodic sales reduce this to 25%. Gratuities add €16/day per person. Port fees and taxes average €180-€250. Budget €150-€300 daily for comprehensive experience including speciality dining and excursions."
+    },
+    {
+      "question": "Which Holland America Line ships sail to Adriatic?",
+      "answer": "Holland America deploys its Pinnacle-class and Vista-class vessels for Adriatic service. Rotterdam (2021, 2,668 guests) leads deployment with the most extensive season, featuring the largest speciality dining collection including Morimoto Asian cuisine. Nieuw Statendam (2018, 2,666 guests) offers Music Walk venues with live classical, blues, and Billboard hits. Smaller Zuiderdam (2002, refurbished 2019, 1,916 guests) accesses tighter ports like Hvar and Korčula that larger ships cannot navigate. All three carry Explorations Central staff and feature BBC Earth Experiences in the main theatre. Rotterdam and Nieuw Statendam include exclusive Club Orange suite benefits."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "May, June, September, and October deliver optimal Adriatic cruising conditions with temperatures 18-26°C, minimal rainfall, and manageable crowds at Dubrovnik and Venice. May offers wildflower-covered hills and lower prices. June provides longest daylight hours for exploration. September maintains warm seawater for swimming with harvest-season culinary experiences. October brings wine festivals and 20% fare reductions, though some beach resorts close. July-August peak season brings intense heat (30°C+), inflated prices, and overtourism in Kotor and Venice—avoid unless family schedules demand. April and November repositioning cruises offer exceptional value but risk cooler, wetter weather and limited excursion availability."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America Line includes substantial value in base fares: all main dining room meals across breakfast, lunch, and dinner; casual venues like Lido Market and Dive-In burger bar; 24-hour complimentary room service; unlimited access to fitness centre, pools, and sports courts; nightly entertainment including theatre productions and live music; Explorations Central destination programming with port lectures and cultural immersion activities; and youth programming for ages 3-17. Stateroom amenities include premium bedding, bathrobes, and nightly turndown service. What's excluded: alcoholic beverages, speciality restaurants, shore excursions, gratuities, WiFi, and spa services—though 'Have It All' packages bundle these for €50-€70 daily."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America Adriatic itineraries feature 8-10 ports across Croatia, Montenegro, Italy, Greece, and occasionally Slovenia. Signature calls include Venice (often overnight), Dubrovnik with its intact medieval walls, and Kotor featuring dramatic fjord-like scenery. Croatian ports extend to Split (Diocletian's Palace), Hvar, and Korčula on longer sailings. Italian additions comprise Ravenna (Byzantine mosaics), Koper (Slovenian alpine proximity), and Bari. Greek Isles combinations incorporate Corfu, Santorini, Mykonos, and Rhodes. Departure ports rotate seasonally: Venice and Athens for dedicated Adriatic-Greek loops; Rome and Barcelona for broader Mediterranean-Adriatic combinations. Tender operations affect Kotor and Santorini; Dubrovnik occasionally substitutes Split when cruise traffic exceeds daily caps."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Holland America Adriatic cruises 9-15 months ahead for optimal cabin selection, particularly verandah staterooms on Rotterdam and Nieuw Statendam which comprise just 32% of inventory. Suites and Neptune-category rooms with exclusive lounge access sell 12-18 months out. Early booking incentives typically offer 10-25% savings plus onboard credits up to €400. Wave season (January-March) brings strongest promotional bundling. Last-minute deals emerge 60-90 days pre-departure for flexible travellers, though cabin location suffers. Group bookings (8+ staterooms) require 12-month advance commitment. Solo travellers should monitor single-supplement sales quarterly. Final payment due 90 days before sailing; penalties escalate from deposit loss to 100% fare within final 30 days."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Adriatic cruises suit families with children aged 8+ who appreciate cultural immersion over water slides and character meet-and-greets. Club HAL programming operates 3-17 with age-appropriate activities, though participation runs lower than mass-market lines—typically 50-80 children versus 500+ on Royal Caribbean. Shore excursions emphasize educational walking tours and historical sites that may challenge younger attention spans. Connecting staterooms and triple/quad configurations exist but are limited; book 12+ months ahead for family accommodations. Evening entertainment skews mature with classical concerts and ballroom dancing. Families seeking active children programming, waterslides, or late-night teen spaces should consider Norwegian or Royal Caribbean instead. Multi-generational groups appreciate HAL's refined atmosphere and varied dining."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America Line's cancellation policy imposes escalating penalties by departure proximity. Cancellations 91+ days before sailing forfeit deposit only (typically €250-€600 per person depending on cruise length and cabin category). 90-76 days prior: deposit loss plus 25% of total fare. 75-61 days: 50% forfeiture. 60-31 days: 75% loss. Final 30 days: 100% fare forfeiture with no refund. 'Have It All' and promotional fares may carry stricter non-refundable deposit terms. Travel insurance through Holland America's partners or independent providers is strongly recommended for medical, cancellation, and interruption coverage—particularly given Adriatic region's limited healthcare infrastructure in some ports. COVID-19 protocols eliminated most flexible booking waivers; standard terms now apply unless specific promotional flexibility is purchased at booking."
+    }
+  ]
+}

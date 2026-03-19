@@ -1,0 +1,199 @@
+{
+  "title": "Cunard Line Mediterranean Cruises 2026",
+  "intro": "Cunard Line brings its signature transatlantic elegance to the Mediterranean, offering voyages that blend timeless British sophistication with the sun-drenched allure of Southern Europe. Aboard the iconic ocean liners Queen Mary 2, Queen Victoria, and Queen Elizabeth, passengers experience white-gloved service, formal evenings, and enriching lectures from Cunard Insights speakers. Mediterranean itineraries showcase the line's refined approach to destination immersion, with extended port calls in cultural capitals like Rome, Venice, and Athens. The Grills accommodations provide an elevated experience with exclusive dining at the Princess and Queens Grill restaurants. Cunard's Mediterranean sailings appeal to discerning travelers seeking a traditional cruise experience—afternoon tea, ballroom dancing, and black-tie galas—while exploring historic ports from Barcelona to Istanbul. The line's smaller vessel sizes allow access to intimate harbors unavailable to mega-ships.",
+  "quick_facts": {
+    "price_from_eur": 1199,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Queen Victoria",
+      "Queen Elizabeth"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Barcelona",
+      "Civitavecchia"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr/May/Oct)",
+      "inside_eur": 1199,
+      "balcony_eur": 1899,
+      "suite_eur": 3499
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 1699,
+      "balcony_eur": 2599,
+      "suite_eur": 4999
+    },
+    {
+      "season": "Holiday",
+      "inside_eur": 1499,
+      "balcony_eur": 2299,
+      "suite_eur": 4299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Western Mediterranean Discovery",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Cadiz",
+        "Barcelona",
+        "Marseille",
+        "Livorno",
+        "Rome",
+        "Palma de Mallorca",
+        "Gibraltar",
+        "Southampton"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Round-trip from Southampton with two full days in Barcelona"
+    },
+    {
+      "name": "Adriatic & Greek Isles",
+      "duration_nights": 12,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Livorno",
+        "Rome",
+        "Kotor",
+        "Dubrovnik",
+        "Corfu",
+        "Santorini",
+        "Athens"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Overnight in Venice on select sailings"
+    },
+    {
+      "name": "Mediterranean Highlights",
+      "duration_nights": 7,
+      "ports": [
+        "Civitavecchia",
+        "Livorno",
+        "Marseille",
+        "Barcelona",
+        "Valencia",
+        "Malaga",
+        "Cadiz"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Compact exploration of Western Mediterranean gems"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Victoria",
+      "capacity": 2078,
+      "year": 2007,
+      "best_for": "Traditional luxury seekers",
+      "price_from_eur": 1199
+    },
+    {
+      "name": "Queen Elizabeth",
+      "capacity": 2081,
+      "year": 2010,
+      "best_for": "Art Deco enthusiasts & cultural travelers",
+      "price_from_eur": 1249
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "All main dining (Britannia Restaurant, Lido Buffet, Golden Lion Pub)",
+    "Afternoon tea",
+    "Daily programme of activities & entertainment",
+    "Cunard Insights lectures",
+    "Fitness centre access",
+    "Evening shows & live music",
+    "Children's programmes (The Zone, Play Zone)",
+    "White Star Service gratuities"
+  ],
+  "whats_extra": [
+    "Drinks packages (EUR 65/day for Premium)",
+    "Specialty dining (Verandah Restaurant EUR 49)",
+    "Shore excursions (EUR 89-299)",
+    "Wi-Fi packages",
+    "Spa treatments",
+    "Laundry & dry cleaning",
+    "Casino gaming",
+    "Photography services",
+    "Grills suite butler service upgrades"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for best Grills suite availability and early booking discounts up to 25%. Cunard releases itineraries 18 months in advance. Wave season (January-March) offers added onboard credit. Past passengers (Cunard World Club) receive 5-10% savings and priority booking. Consider back-to-back sailings for comprehensive Mediterranean coverage.",
+  "top_ports": [
+    {
+      "port": "Barcelona",
+      "time_in_port": "8am-6pm (overnight on select sailings)",
+      "top_activity": "Sagrada Família guided tour with tower access (EUR 89)",
+      "tip": "Book La Sagrada Família tickets months ahead; Cunard's evening departures allow sunset dining at port-side restaurants"
+    },
+    {
+      "port": "Rome (Civitavecchia)",
+      "time_in_port": "7am-7pm",
+      "top_activity": "Vatican Museums & Sistine Chapel small group (EUR 149)",
+      "tip": "The 90-minute transfer each way limits exploration time; prioritize one major site over rushing multiple attractions"
+    },
+    {
+      "port": "Dubrovnik",
+      "time_in_port": "8am-5pm",
+      "top_activity": "City walls walk with cable car to Mount Srđ (EUR 79)",
+      "tip": "Arrive early for wall walk before cruise crowds; tendering required—book first tender for maximum time"
+    },
+    {
+      "port": "Santorini",
+      "time_in_port": "12pm-8pm",
+      "top_activity": "Wine tasting at cliffside winery with caldera views (EUR 109)",
+      "tip": "Late departure allows sunset viewing in Oia; cable car queue can exceed 60 minutes—consider donkey descent or walking"
+    },
+    {
+      "port": "Venice",
+      "time_in_port": "Overnight (1-2 days)",
+      "top_activity": "Private evening gondola serenade & St Mark's Basilica after-hours (EUR 189)",
+      "tip": "Cunard's overnight stays are exceptional value—dine ashore and experience Venice without day-tripper crowds"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Mediterranean cruise cost?",
+      "answer": "Cunard Mediterranean cruises typically range from EUR 1,199 for a 7-night Britannia inside stateroom in shoulder season to EUR 4,999+ for peak summer Queens Grill suites. Balcony accommodations, which represent the majority of bookings, average EUR 1,899-2,599. Grills suites include butler service, priority embarkation, and exclusive restaurant access. Flights from UK/Europe and pre-cruise hotel packages add EUR 300-800. Onboard spending averages EUR 150-300 per day for drinks, specialty dining, and excursions. Cunard's fare structure includes more than American premium lines—gratuities and basic dining are covered—yet remains below ultra-luxury competitors."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Mediterranean?",
+      "answer": "Queen Victoria and Queen Elizabeth operate Mediterranean itineraries, with Queen Victoria handling the majority of 2026 sailings. Queen Mary 2 focuses on transatlantic crossings and world voyages, rarely entering the Mediterranean. Queen Victoria offers 7-21 night Western and Eastern Mediterranean routes from Southampton and Barcelona. Queen Elizabeth specializes in Adriatic and Greek Isles voyages with her distinctive Art Deco interiors. Both ships carry approximately 2,000 passengers—intimate by modern standards—enabling access to smaller ports like Kotor and Santorini's tender-only anchorage. The ships are nearly identical in layout and amenities, though Queen Elizabeth features slightly updated public spaces following her 2018 refurbishment."
+    },
+    {
+      "question": "When is best time to cruise Mediterranean?",
+      "answer": "April-May and September-October offer optimal conditions for Cunard Mediterranean cruises, with temperatures of 18-24°C, fewer crowds, and lower fares. Spring brings wildflowers to the Greek Isles and comfortable sightseeing weather in Rome and Barcelona. Autumn provides warm seas for swimming and harvest season in wine regions. June-August delivers reliably hot weather (28-35°C) but peak pricing and congested ports, particularly Venice and Dubrovnik. Cunard's air conditioning and pool facilities mitigate summer heat, though outdoor dining and deck walking become less pleasant. November-March sailings are limited to repositioning voyages with cooler temperatures and reduced excursion availability; many attractions maintain shortened winter hours."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's Mediterranean fares include accommodation, all meals in Britannia Restaurant and Lido Buffet, traditional afternoon tea, daily entertainment including theatre productions and live music, Cunard Insights enrichment lectures, fitness centre access, children's programmes, and gratuities for housekeeping and dining staff. Complimentary amenities extend to deck games, library borrowing, and shuttle buses in select ports. Not included are beverages beyond water, tea, and coffee at meals; specialty restaurants; shore excursions; Wi-Fi; and spa services. Britannia Club and Grills accommodations add priority tendering, enhanced toiletries, and exclusive lounge access. The all-inclusive experience aligns with traditional British cruising expectations rather than contemporary resort-style cruising."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Mediterranean itineraries span from Gibraltar to Istanbul, with Western Mediterranean routes featuring Barcelona, Marseille, Livorno (for Florence/Pisa), Rome (Civitavecchia), Naples, Palma de Mallorca, Valencia, and Malaga. Eastern Mediterranean and Adriatic sailings include Venice (often overnight), Dubrovnik, Kotor, Corfu, Santorini, Athens (Piraeus), Kusadasi (Ephesus), and Istanbul. Greek Isles intensive voyages add Mykonos, Rhodes, and Crete. Cunard distinguishes itself with extended port calls—frequently 10-12 hours versus 6-8 on mainstream lines—and overnight stays in Barcelona and Venice on select sailings. The line occasionally visits smaller ports like Portofino, Sorrento, and Taormina that require tendering but reward with authentic experiences unavailable to larger vessels."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard Mediterranean bookings 12-18 months in advance, particularly for Queens Grill suites and summer peak season when availability constrains rapidly. The line releases itineraries 18 months ahead, with early booking discounts of 15-25% and complimentary onboard credit up to USD 300. Grills accommodations—comprising just 15% of inventory—frequently sell out 9-12 months before sailing. Past passengers in Cunard World Club receive priority booking windows and fare reductions. For shoulder season sailings, 6-9 months provides adequate selection. Last-minute deals are rare given Cunard's loyal following and limited ship count; unsold inventory typically offers 10-15% savings rather than dramatic discounts. Flexible departure dates improve pricing options significantly."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard Mediterranean cruises suit families with children aged 8+ who appreciate structured activities and formal environments, though the line primarily targets adult travelers. The Zone (ages 8-17) and Play Zone (under 7s) operate sea days and select port days, offering supervised games, arts, and themed parties. Family accommodations are limited—most staterooms accommodate maximum three passengers—making larger families challenging to house. Formal nights require evening dress that may discomfort younger children; the line maintains six-night minimum voyages for under-2s. Teen programming lacks the intensity of Royal Caribbean or Norwegian. Families seeking cultural immersion, British traditions, and refined atmosphere find Cunard rewarding, while those prioritizing waterslides, character experiences, and casual dining should consider alternatives."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation policy imposes penalties escalating by departure proximity: full refund for cancellations 91+ days before sailing; deposit forfeiture (typically 25% of fare) at 90-76 days; 50% penalty at 75-61 days; 75% penalty at 60-31 days; and 100% forfeiture within 30 days. Cancellation protection plans, available for EUR 89-189 per person, reimburse non-refundable amounts for covered reasons including illness and employment termination. 'Cruise with Confidence' flexible booking, periodically offered, allows penalty-free changes up to 30 days before departure. COVID-19 protocols have introduced temporary flexibility; verify current terms at booking. Grills suite cancellations incur identical percentages but higher absolute penalties. Travel insurance covering cancellation for any reason is strongly recommended given Cunard's strict standard policy."
+    }
+  ]
+}

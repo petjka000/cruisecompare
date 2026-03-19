@@ -1,0 +1,190 @@
+{
+  "title": "Viking Cruises Arabian Gulf Cruises 2026",
+  "intro": "Viking Cruises brings its signature Scandinavian elegance to the Arabian Gulf with intimate, culturally immersive voyages designed for discerning adult travelers. Unlike mass-market alternatives, Viking's Arabian Gulf itineraries emphasize extended port stays and overnight calls in destinations like Dubai, Abu Dhabi, and Muscat, allowing deeper exploration of ancient souks, futuristic architecture, and desert landscapes. The line's smaller vessels—carrying under 1,000 guests—navigate where larger ships cannot, accessing ports such as Sir Bani Yas Island and Bahrain with ease. Viking's included shore excursions focus on authentic cultural encounters: visiting the Sheikh Zayed Grand Mosque, exploring Oman's frankincense trade history, or dining with Bedouin families. With no casinos, no children under 18, and no nickel-and-diming, these voyages attract experienced travelers seeking enrichment through destination-focused programming, regional cuisine, and lectures by resident historians and regional experts.",
+  "quick_facts": {
+    "price_from_eur": 2899,
+    "duration_range": "12-21 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Viking Mars",
+      "Viking Neptune"
+    ],
+    "departure_ports": [
+      "Dubai",
+      "Abu Dhabi"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 3899,
+      "balcony_eur": 4899,
+      "suite_eur": 7899
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 2899,
+      "balcony_eur": 3699,
+      "suite_eur": 5999
+    },
+    {
+      "season": "Low (Apr-Oct)",
+      "inside_eur": 2499,
+      "balcony_eur": 3199,
+      "suite_eur": 4999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Arabian Shores & Sands",
+      "duration_nights": 12,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Sir Bani Yas Island",
+        "Muscat",
+        "Salalah",
+        "Aqaba"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Overnight in Dubai with Burj Khalifa evening visit"
+    },
+    {
+      "name": "Passage to India",
+      "duration_nights": 21,
+      "ports": [
+        "Dubai",
+        "Abu Dhabi",
+        "Muscat",
+        "Mumbai",
+        "Goa",
+        "Cochin",
+        "Colombo"
+      ],
+      "price_from_eur": 4899,
+      "highlight": "Full transit from Arabian Gulf to Indian subcontinent"
+    },
+    {
+      "name": "Oman & the Emirates",
+      "duration_nights": 14,
+      "ports": [
+        "Dubai",
+        "Fujairah",
+        "Muscat",
+        "Sur",
+        "Khasab",
+        "Abu Dhabi"
+      ],
+      "price_from_eur": 3499,
+      "highlight": "Comprehensive Oman exploration with overnight Muscat"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Mars",
+      "capacity": 998,
+      "year": 2022,
+      "best_for": "Culture-focused adults",
+      "price_from_eur": 2899
+    },
+    {
+      "name": "Viking Neptune",
+      "capacity": 998,
+      "year": 2022,
+      "best_for": "Culinary enthusiasts",
+      "price_from_eur": 2899
+    }
+  ],
+  "whats_included": [
+    "One shore excursion per port",
+    "All meals including specialty restaurants",
+    "Beer and wine with lunch and dinner",
+    "WiFi",
+    "Laundry",
+    "Spa thermal suite access",
+    "Lectures and enrichment programs",
+    "Airport transfers",
+    "Gratuities"
+  ],
+  "whats_extra": [
+    "Premium beverages and spirits",
+    "Additional shore excursions",
+    "Spa treatments",
+    "Silver Spirits beverage package upgrade",
+    "Pre- and post-cruise extensions",
+    "Business class airfare upgrades"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for best cabin selection and early booking savings of up to €400 per person; Viking frequently offers airfare deals from European gateways",
+  "top_ports": [
+    {
+      "port": "Dubai",
+      "time_in_port": "Overnight",
+      "top_activity": "Evening desert safari with dinner (€89)",
+      "tip": "Request starboard cabin for Burj Khalifa views"
+    },
+    {
+      "port": "Abu Dhabi",
+      "time_in_port": "8am-11pm",
+      "top_activity": "Sheikh Zayed Grand Mosque guided tour (included)",
+      "tip": "Dress modestly; abayas provided"
+    },
+    {
+      "port": "Muscat",
+      "time_in_port": "Overnight",
+      "top_activity": "Sunrise dhow cruise and Muttrah Souk (€65)",
+      "tip": "Friday closures affect souk access"
+    },
+    {
+      "port": "Sir Bani Yas Island",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Arabian wildlife safari (€79)",
+      "tip": "Book morning slots for cooler temperatures"
+    },
+    {
+      "port": "Manama (Bahrain)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Bahrain National Museum and pearl diver history (€45)",
+      "tip": "Friday-Saturday weekend affects opening hours"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Arabian Gulf cruise cost?",
+      "answer": "Viking Cruises Arabian Gulf voyages typically range from €2,499 to €7,899 per person depending on season, itinerary length, and stateroom category. Shorter 12-night sailings start around €2,899 in shoulder season, while comprehensive 21-night journeys peak at €4,899. Veranda staterooms command €600-€1,200 premiums over standard cabins, with Explorer Suites reaching €7,899. Viking's value proposition includes considerable inclusions—shore excursions, drinks with meals, WiFi, and gratuities—that would cost €800-€1,200 extra on premium competitors. Early booking incentives and past passenger discounts can reduce fares by 10-15%."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Arabian Gulf?",
+      "answer": "Viking deploys its identical ocean-class sister ships Viking Mars and Viking Neptune on Arabian Gulf itineraries. Both launched in 2022, these 998-guest vessels represent Viking's ocean fleet design philosophy: all-veranda accommodations, Scandinavian minimalist interiors, and destination-focused amenities. Neither ship features casinos or children's facilities, instead emphasizing the LivNordic Spa, Manfredi's Italian restaurant, and the Explorers' Lounge with wraparound windows. Their modest size enables access to intimate ports like Khasab and Sur that mega-ships cannot reach, while still offering multiple dining venues and spacious public areas."
+    },
+    {
+      "question": "When is best time to cruise Arabian Gulf?",
+      "answer": "The optimal Arabian Gulf cruising window spans November through March when temperatures range 20-28°C—ideal for desert excursions and city walking tours. December and January offer particularly pleasant conditions, though command premium pricing. February and March provide excellent value with warming but comfortable weather. April through October brings extreme heat exceeding 40°C with high humidity, making most outdoor activities unpleasant despite lower cruise fares. Viking adjusts its Arabian Gulf deployment seasonally, typically operating November-April departures when conditions align with its destination-intensive, excursion-heavy programming philosophy."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's Arabian Gulf cruises include one shore excursion in every port—typically cultural walking tours or museum visits—plus all dining across multiple restaurants, beer and wine with lunch and dinner, unlimited WiFi, self-service laundry, spa thermal suite access, 24-hour room service, airport transfers, and gratuities. Enrichment programming features resident lecturers on regional history, Islam, and architecture. The included excursion in each port can be upgraded to premium experiences like private vehicle tours or helicopter flights. Beverage packages upgrading to premium spirits cost approximately €25 daily. Essentially, Viking eliminates the ancillary revenue model common in cruising."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking's Arabian Gulf itineraries emphasize the region's cultural and geographic diversity across the United Arab Emirates, Oman, and Bahrain. Core ports include Dubai (overnight), Abu Dhabi, and Sir Bani Yas Island in the UAE; Muscat (frequently overnight), Sur, Khasab, and Salalah in Oman; and Manama in Bahrain. Extended voyages continue to Aqaba (Jordan) for Petra access or cross to Mumbai and Indian Ocean destinations. The line strategically schedules overnight stays in Dubai and Muscat, enabling evening dining, entertainment, and atmospheric exploration impossible with standard daytime calls. Smaller Omani ports like Sur and Khasab offer dhow-building heritage and fjord-like landscapes respectively."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "For Viking's Arabian Gulf sailings, booking 9-18 months in advance secures optimal stateroom categories and early booking discounts typically valued at €200-€400 per person. The line's loyal repeat passenger base and limited inventory on 998-guest ships mean popular winter departures—particularly December holiday sailings—frequently sell out 12 months ahead. Viking's risk-free booking policy allows full refunds up to 120 days before departure, encouraging early commitment. Last-minute availability occasionally emerges 60-90 days out, primarily in shoulder months, though stateroom selection becomes constrained. Airfare-inclusive packages should be booked earliest as flight availability from European gateways tightens closer to departure."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Cruises Arabian Gulf voyages are exclusively designed for adults aged 18 and older, making them unsuitable for families with children. This policy reflects the line's positioning around cultural immersion, enrichment lectures, and sophisticated dining experiences rather than family entertainment. The absence of children's facilities, teen clubs, or family-oriented shore excursions intentionally creates an environment appealing to mature travelers, couples, and multi-generational adult groups. Families seeking Arabian Gulf cruises should consider MSC Cruises, Royal Caribbean, or Celebrity, which offer dedicated children's programming, family staterooms, and age-appropriate activities. Viking's adult-only policy is consistent across its entire ocean and river fleet operations globally."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking Cruises offers a structured cancellation policy for Arabian Gulf bookings: full refund for cancellations 120+ days before departure; deposit retention (typically €600 per person) for cancellations 119-90 days out; 50% fare loss for 89-60 days; 75% loss for 59-30 days; and 100% forfeiture under 30 days. Viking's optional Travel Protection Plan, approximately €199-€299 per person, upgrades coverage to 'cancel for any reason' with future cruise credits. COVID-19 protocols have introduced additional flexibility, with rebooking options for positive tests within 10 days of sailing. Travel insurance covering medical evacuation from remote Omani ports remains strongly recommended given limited local healthcare infrastructure."
+    }
+  ]
+}

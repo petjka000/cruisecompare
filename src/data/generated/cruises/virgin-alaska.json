@@ -1,0 +1,175 @@
+{
+  "title": "Virgin Voyages Alaska Cruises 2026",
+  "intro": "Virgin Voyages brings its rebellious, adults-only luxury experience to the wild frontier of Alaska starting in 2026. The innovative cruise line, known for eliminating traditional cruise annoyances like buffets and formal nights, offers a sophisticated way to explore glaciers, fjords, and wildlife-rich coastlines. Sail aboard the Resilient Lady, experiencing Virgin's signature red-hot design, world-class dining from Michelin-starred chefs, and an inclusive atmosphere where Wi-Fi, gratuities, and basic beverages are bundled into your fare. Alaska itineraries showcase Tracy Arm Fjord, Hubbard Glacier, and ports like Juneau, Ketchikan, and Skagway. Whether you're kayaking past icebergs, spotting humpback whales from your balcony, or unwinding at the onboard tattoo parlor after a day of wilderness exploration, Virgin reimagines Alaska cruising for modern travelers who refuse to compromise on style or adventure.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "7-11 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Resilient Lady"
+    ],
+    "departure_ports": [
+      "Seattle",
+      "San Francisco"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 1299,
+      "balcony_eur": 1799,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1699,
+      "balcony_eur": 2399,
+      "suite_eur": 3899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Fire & Ice Sojourn",
+      "duration_nights": 7,
+      "ports": [
+        "Seattle",
+        "Ketchikan",
+        "Juneau",
+        "Tracy Arm Fjord",
+        "Skagway",
+        "Victoria"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Glacier viewing at Tracy Arm Fjord with Virgin's signature late-night departures"
+    },
+    {
+      "name": "Alaska Adventure",
+      "duration_nights": 11,
+      "ports": [
+        "San Francisco",
+        "Ketchikan",
+        "Juneau",
+        "Skagway",
+        "Hubbard Glacier",
+        "Sitka",
+        "Victoria"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Extended journey including remote Sitka and massive Hubbard Glacier"
+    },
+    {
+      "name": "Last Frontier Escape",
+      "duration_nights": 7,
+      "ports": [
+        "Seattle",
+        "Icy Strait Point",
+        "Juneau",
+        "Hubbard Glacier",
+        "Skagway",
+        "Ketchikan"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Native Alaskan cultural immersion at Icy Strait Point with world-class whale watching"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Resilient Lady",
+      "capacity": 2770,
+      "year": 2023,
+      "best_for": "Couples & Adult Groups",
+      "price_from_eur": 1299
+    }
+  ],
+  "whats_included": [
+    "All dining at 20+ restaurants",
+    "Basic Wi-Fi",
+    "Gratuities",
+    "Group fitness classes",
+    "Essential beverages (water, soda, coffee, tea)",
+    "Evening entertainment & shows",
+    "Port taxes & fees"
+  ],
+  "whats_extra": [
+    "Premium Wi-Fi upgrade",
+    "Alcoholic beverages & premium coffee",
+    "Shore excursions & adventure activities",
+    "Spa treatments & salon services",
+    "Tattoo services at Squid Ink",
+    "Laundry services",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early-bird rates; balcony cabins are essential for Alaska glacier viewing and sell fastest. Consider shoulder season (May/September) for 20-30% savings and fewer crowds, though pack layers for variable weather.",
+  "top_ports": [
+    {
+      "port": "Juneau",
+      "time_in_port": "7am-8pm",
+      "top_activity": "Mendenhall Glacier helicopter tour (€289)",
+      "tip": "Book morning glacier visits for clearer skies; Virgin's late departure allows evening whale watching"
+    },
+    {
+      "port": "Ketchikan",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Misty Fjords seaplane flight (€329)",
+      "tip": "Creek Street is walkable from dock—perfect for independent exploration between excursions"
+    },
+    {
+      "port": "Skagway",
+      "time_in_port": "7am-8pm",
+      "top_activity": "White Pass & Yukon Railway (€159)",
+      "tip": "Scenic railway sells out; reserve through Virgin's app pre-cruise for guaranteed seats"
+    },
+    {
+      "port": "Icy Strait Point",
+      "time_in_port": "8am-6pm",
+      "top_activity": "World's longest zip line (€189)",
+      "tip": "Excellent guaranteed whale sightings from dock—no excursion needed for casual viewing"
+    },
+    {
+      "port": "Victoria BC",
+      "time_in_port": "5pm-11:30pm",
+      "top_activity": "Butchart Gardens evening visit (€89)",
+      "tip": "Late arrival is perfect for dinner ashore; book reservations at local restaurants early"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages Alaska cruise cost?",
+      "answer": "Virgin Voyages Alaska cruises start from €1,299 per person for interior cabins during shoulder season (May/September), rising to €1,699+ in peak summer months. Balcony cabins, highly recommended for glacier viewing, range €1,799-€2,399. RockStar Quarters suites begin at €2,899 and exceed €4,500 for premium categories. These fares include dining, Wi-Fi, gratuities, and basic beverages—unlike competitors where these add €400-€600. Shore excursions average €120-€350 per activity. Total budget: €2,200-€3,500 per person for a week including drinks, excursions, and flights to Seattle or San Francisco."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to Alaska?",
+      "answer": "The Resilient Lady, Virgin's third ship launched in 2023, operates all Alaska itineraries in 2026. This 110,000-ton, 2,770-passenger vessel (1,408 cabins, all with ocean views) was specifically designed for diverse climates with extensive indoor-outdoor spaces. Unlike mega-ships, her intimate size accesses smaller ports like Icy Strait Point while offering Virgin's signature amenities: 20+ dining venues, wellness-focused Redemption Spa, Athletic Club with boxing ring, and adults-only atmosphere. Resilient Lady features Alaska-specific programming including naturalist lectures, glacier viewing decks, and thermal suite access—ideal for warming up after glacier excursions. No other Virgin ships are currently scheduled for Alaska routes."
+    },
+    {
+      "question": "When is best time to cruise Alaska?",
+      "answer": "Virgin Voyages sails Alaska May through September 2026. May offers 20-30% lower fares, blooming wildflowers, and active wildlife emerging from hibernation, though weather is cooler and some hiking trails snow-covered. June-July provides longest daylight (up to 19 hours), peak whale migration, and most reliable glacier calving, but highest prices and crowds. August delivers warmest temperatures and excellent salmon fishing, though rain probability increases. September features autumn colors, northern lights possibilities, and bargain pricing, with some excursions limited. For Virgin specifically, June balances optimal weather with their late-night port stays maximizing daylight activities. Book May or September for value; July for guaranteed experience."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages Alaska cruises include substantially more than traditional lines: all dining at 20+ restaurants (no buffets, no main dining room, no extra charges for specialty venues), basic Wi-Fi for one device, all gratuities, essential beverages including still water, soda, drip coffee, and tea, group fitness classes from yoga to HIIT, and all evening entertainment including immersive theater productions. Excluded are alcoholic beverages, premium coffees, shore excursions, spa services, laundry, and airport transfers. This inclusive model typically saves €400-€600 versus competitors' base fares plus add-ons. RockStar Quarters include premium Wi-Fi, minibar, and exclusive access to Richard's Rooftop sun deck—worthwhile for Alaska's scenic sailing days."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Virgin Voyages Alaska itineraries depart Seattle or San Francisco, visiting quintessential Southeast Alaska destinations. Key ports include Juneau (Alaska's capital, Mendenhall Glacier access, whale watching), Ketchikan (Native totem poles, Misty Fjords, Creek Street historic district), Skagway (Gold Rush history, White Pass Railway gateway), and Icy Strait Point (Hoonah Native village, guaranteed whale viewing, world's longest zip line). Scenic cruising highlights Tracy Arm Fjord with Sawyer Glacier and Hubbard Glacier. Victoria, British Columbia provides a Canadian cultural finale with late-evening departures. Virgin's longer 11-night San Francisco itineraries add remote Sitka, rich in Russian and Tlingit heritage. All ports feature tender-free dock access on Resilient Lady."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Virgin Voyages Alaska 9-12 months ahead for optimal results. The line releases itineraries 18 months in advance, and balcony cabins—essential for Alaska's glacier viewing—sell fastest, often 70% booked by 10 months out. Early booking secures preferred dining times, excursion availability, and rates starting €400 lower than last-minute prices. Virgin offers flexible payment: 20% deposit, balance due 120 days before sailing. For 2026 sailings, book by late 2025 for best selection. Last-minute deals under €1,000 occasionally appear 60-90 days out, primarily interior cabins in shoulder season. Given Alaska's short season and Virgin's single-ship deployment, procrastination risks disappointment. Lock in May/September dates early for value; July for peak season certainty."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages Alaska is strictly adults-only—minimum age 18, no exceptions. This policy fundamentally shapes the experience: no children's programs, pools, or family cabins exist. For adult children (18+) traveling with parents, Virgin excels through diverse dining, adventure excursions, and sophisticated entertainment appealing across generations. The relaxed atmosphere suits multigenerational adult groups seeking quality time without childcare logistics. However, families with minors must choose alternative lines. Virgin's Alaska programming—naturalist lectures, photography workshops, hiking excursions—engages curious adults of all ages. The inclusive pricing model also simplifies group budgeting. If your Alaska dream involves adult children or friend groups, Virgin delivers; if children are essential to your travel, explore Holland America, Princess, or Royal Caribbean instead."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Virgin Voyages offers flexible cancellation with tiered penalties. Cancel 180+ days before sailing: full refund minus €100 administrative fee per person. 179-120 days: deposit forfeited (typically 20% of fare). 119-90 days: 50% of total fare forfeited. 89-45 days: 75% forfeited. Under 45 days: 100% forfeited. Virgin's 'Book with Confidence' program allows one free rebooking to a different sailing if canceled 48+ hours before departure, protecting against uncertainty. Travel insurance is strongly recommended for Alaska given flight dependencies and weather-related delays; Virgin offers policies covering cancellation, interruption, and medical. For 2026 Alaska bookings, consider refundable fares (€150-€300 premium) if plans are uncertain—standard rates are non-refundable after deposit date with penalties applying per schedule above."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "title": "Norwegian Cruise Line Adriatic Cruises 2026",
+  "intro": "Norwegian Cruise Line brings its signature Freestyle Cruising concept to the Adriatic Sea, offering passengers unparalleled flexibility to explore one of Europe's most captivating coastal regions. With no fixed dining times or formal dress codes, guests can craft their perfect Adriatic adventure around their own schedule. NCL's Adriatic itineraries typically feature extended port stays and overnight visits in iconic destinations like Venice, Dubrovnik, and Kotor, allowing deeper immersion into the region's rich Byzantine, Venetian, and Ottoman heritage. The line's modern fleet delivers exceptional value with diverse complimentary dining options, Broadway-caliber entertainment, and award-winning spa facilities. Whether you're drawn to Croatia's medieval walled cities, Slovenia's pristine Lake Bled excursions, or Italy's romantic Venetian lagoon, Norwegian's Adriatic cruises combine cultural discovery with relaxed, contemporary cruising at its finest.",
+  "quick_facts": {
+    "price_from_eur": 749,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Norwegian Epic",
+      "Norwegian Gem",
+      "Norwegian Dawn",
+      "Norwegian Star"
+    ],
+    "departure_ports": [
+      "Venice",
+      "Rome (Civitavecchia)",
+      "Barcelona"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (Jun-Aug)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Late Season (Sep)",
+      "inside_eur": 849,
+      "balcony_eur": 1299,
+      "suite_eur": 2099
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Greek Isles & Adriatic",
+      "duration_nights": 7,
+      "ports": [
+        "Venice",
+        "Kotor",
+        "Corfu",
+        "Santorini",
+        "Mykonos",
+        "Dubrovnik"
+      ],
+      "price_from_eur": 799,
+      "highlight": "Combines Adriatic gems with iconic Greek islands"
+    },
+    {
+      "name": "10-night Adriatic & Italy",
+      "duration_nights": 10,
+      "ports": [
+        "Rome",
+        "Naples",
+        "Messina",
+        "Corfu",
+        "Dubrovnik",
+        "Kotor",
+        "Venice (overnight)",
+        "Split"
+      ],
+      "price_from_eur": 1149,
+      "highlight": "Overnight in Venice with extended exploration time"
+    },
+    {
+      "name": "12-night Grand Mediterranean",
+      "duration_nights": 12,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Florence",
+        "Rome",
+        "Naples",
+        "Santorini",
+        "Athens",
+        "Dubrovnik",
+        "Venice"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Comprehensive western and eastern Mediterranean experience"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Norwegian Epic",
+      "capacity": 4100,
+      "year": 2010,
+      "best_for": "Families & entertainment seekers",
+      "price_from_eur": 799
+    },
+    {
+      "name": "Norwegian Gem",
+      "capacity": 2394,
+      "year": 2007,
+      "best_for": "Intimate cruising with classic ambiance",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Norwegian Dawn",
+      "capacity": 2340,
+      "year": 2002,
+      "best_for": "Port-intensive itineraries",
+      "price_from_eur": 749
+    },
+    {
+      "name": "Norwegian Star",
+      "capacity": 2348,
+      "year": 2001,
+      "best_for": "Balanced resort and destination experience",
+      "price_from_eur": 749
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals and buffet selections",
+    "Complimentary casual dining venues including O'Sheehan's Neighborhood Bar & Grill",
+    "Broadway-style shows and live entertainment",
+    "Fitness center access and sports activities",
+    "Youth and teen programs",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages and individual drinks",
+    "Specialty dining restaurants ($15-55 per person)",
+    "Shore excursions and guided tours",
+    "Gratuities (€16-20 per person per day)",
+    "Spa and salon services",
+    "Casino gambling",
+    "WiFi packages",
+    "Laundry services",
+    "Airport transfers and flights"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and lowest fares; consider Free at Sea promotions for maximum value including drinks, specialty dining, WiFi, and excursion credits. Shoulder season departures in May and October offer 20-30% savings versus peak summer. Solo travelers should book early as Norwegian's studio cabins fill quickly. Watch for last-minute deals within 60 days if flexible on dates and cabin category.",
+  "top_ports": [
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "City Walls Walk ($35 self-guided)",
+      "tip": "Arrive early at Pile Gate to avoid cruise crowds; book Game of Thrones tours in advance"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Fortress of San Giovanni hike (free, challenging)",
+      "tip": "Start hike by 8am for cooler temperatures and panoramic bay views before ship departure"
+    },
+    {
+      "port": "Venice, Italy",
+      "time_in_port": "Overnight or 12+ hours",
+      "top_activity": "Private gondola ride ($80-120)",
+      "tip": "Overnight stays allow evening St. Mark's Square visits; pre-book Murano/Burano excursions"
+    },
+    {
+      "port": "Split, Croatia",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Diocletian's Palace underground tour ($15)",
+      "tip": "Explore palace early morning; Marjan Hill offers best city views for active travelers"
+    },
+    {
+      "port": "Corfu, Greece",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Achillion Palace and Paleokastritsa ($65)",
+      "tip": "Combine palace visit with northwest coast beaches; shorter port day requires efficient planning"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Norwegian Cruise Line Adriatic cruise cost?",
+      "answer": "Norwegian Cruise Line Adriatic cruises typically range from €749 to €2,499 per person for standard accommodations. Inside cabins start around €749-999 in shoulder season and €999-1,299 during peak summer months. Balcony staterooms, highly recommended for Adriatic sailing scenery, generally cost €1,099-1,499. Suite accommodations begin at €1,899 and can exceed €4,000 for Haven suites with butler service. Prices fluctuate significantly based on booking timing, with early reservations and promotional Free at Sea offers providing best value. Solo travelers benefit from Norwegian's studio cabins starting at €1,199 without single supplement."
+    },
+    {
+      "question": "Which Norwegian Cruise Line ships sail to Adriatic?",
+      "answer": "Norwegian Cruise Line deploys several vessels on Adriatic routes, primarily the Norwegian Epic, Norwegian Gem, Norwegian Dawn, and Norwegian Star. The Norwegian Epic, the largest at 4,100 passengers, offers the most entertainment options and specialty dining venues. Norwegian Gem provides a more intimate experience ideal for port-intensive itineraries. Norwegian Dawn and Norwegian Star, both recently refurbished, balance amenities with efficient port access. Ship assignments vary by season, with Norwegian Epic typically handling peak summer demand. All vessels feature Norwegian's signature Freestyle Cruising with no fixed dining times, multiple complimentary restaurants, and extensive entertainment programming suited for multi-generational Adriatic exploration."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "The optimal months for Norwegian Cruise Line Adriatic cruises are May, June, September, and October. May offers blooming landscapes, comfortable temperatures around 20-24°C, and fewer crowds at major attractions like Dubrovnik's walls. June provides warm swimming conditions before peak summer heat and cruise congestion. September remains ideal with sea temperatures perfect for swimming, harvest season in wine regions, and reduced tourist volumes. October delivers excellent value with 20-30% lower pricing, though some beach amenities may close. July and August bring intense heat exceeding 32°C, packed historic centers, and premium pricing. April and November sailings exist but carry weather risks and limited excursion availability in certain ports."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Norwegian Cruise Line Adriatic cruises include accommodation in your selected stateroom category, all meals in main dining rooms and buffets, and complimentary casual dining venues like O'Sheehan's Neighborhood Bar & Grill and The Local Bar & Grill. Entertainment encompasses Broadway-style productions, comedy shows, live music, and deck parties. Fitness center access, sports courts, pools, and supervised youth programs are included. Port taxes and fees are incorporated in advertised prices. Notable exclusions requiring additional purchase include beverages beyond complimentary options, specialty restaurants, shore excursions, WiFi, spa services, and gratuities. Norwegian's Free at Sea promotions frequently add beverage packages, specialty dining credits, WiFi minutes, and excursion discounts as booking incentives."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Norwegian Cruise Line Adriatic itineraries feature an exceptional range of ports combining UNESCO World Heritage sites with hidden gems. Primary Croatian ports include Dubrovnik with its magnificent fortified old town, Split centered on Diocletian's Palace, and Zadar with unique sea organ. Montenegro's Kotor offers dramatic fjord-like Bay of Kotor scenery. Italian departure or visit ports encompass Venice with possible overnight stays, plus Rome (Civitavecchia), Naples, and Florence (Livorno) on western Adriatic routes. Greek islands frequently appear including Corfu, Santorini, and Mykonis. Slovenia's Koper provides Lake Bled and Ljubljana access. Some itineraries extend to Barcelona, Marseille, or Turkish ports. Norwegian emphasizes extended port durations and overnights, particularly in Venice, maximizing exploration time."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Booking Norwegian Cruise Line Adriatic cruises 9-12 months in advance secures optimal cabin selection, lowest fares, and best promotional incentives. This timing captures early booking discounts and maximizes Free at Sea benefit selection including beverage packages, dining credits, WiFi, and excursion discounts. Balcony cabins for Adriatic sailings, highly desirable for scenic cruising through Kotor Bay and Dalmatian coast, sell fastest. Solo travelers must book particularly early as studio cabin inventory is limited. Families seeking connecting rooms or specific categories should prioritize advance booking. However, flexible travelers can find substantial last-minute savings 30-90 days before departure, though cabin location and category choices become restricted. Wave season promotions in January-March offer excellent booking windows for summer Adriatic cruises."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Norwegian Cruise Line excels for families on Adriatic cruises through comprehensive youth programming and flexible dining that accommodates varied schedules. Splash Academy serves children ages 3-12 with age-appropriate activities including cultural programming themed to Adriatic destinations. Entourage teen club provides dedicated space for 13-17 year olds. Family staterooms and connecting cabins suit multi-generational travel common on European itineraries. The line's relaxed dress code and Freestyle dining eliminate formal night pressures when children are tired from port exploration. Pool complexes, waterslides on Norwegian Epic, and sports courts entertain sea days. Shore excursions include family-friendly options like beach transfers, kayak adventures, and interactive historical tours. However, parents should note Adriatic itineraries are port-intensive with limited sea days, requiring balanced planning between exploration and shipboard relaxation."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Norwegian Cruise Line's cancellation policy for Adriatic cruises operates on a tiered structure based on departure proximity. Cancellations 120+ days before sailing incur no penalty for most fare types. Between 119-90 days, deposit forfeiture applies typically €250-500 per person. Cancellations 89-61 days before departure result in loss of deposit or 25% of total fare, whichever is greater. The 60-31 day window triggers 50% forfeiture, while 30-15 days costs 75% of cruise fare. Final two weeks before sailing or no-shows result in 100% penalty. Cancel for Any Reason protection, available as add-on purchase within specific timeframes, provides future cruise credits minus administrative fees. Travel insurance is strongly recommended for Adriatic cruises given flight connections, potential health issues abroad, and significant non-refundable costs involved in European cruise vacations."
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "title": "Virgin Voyages British Isles Cruises 2026",
+  "intro": "Virgin Voyages brings its adults-only, festival-at-sea concept to the British Isles with a bold departure from traditional cruising. Their sleek, scarlet-hulled vessels—designed exclusively for guests 18 and older—reimagine the British Isles experience through a lens of immersive entertainment, Michelin-caliber dining, and wellness-forward programming. Sail past Scotland's dramatic Highlands, explore Cork's culinary renaissance, and overnight in Amsterdam without the constraints of family-oriented schedules. Virgin's British Isles itineraries emphasize longer port stays and overnights, allowing deeper exploration of destinations like Liverpool's music heritage and Edinburgh's festival culture. The line's signature Beach Club at Sea transforms sea days into vibrant social experiences. With no buffets, no formal nights, and no supplement for solo travellers in select cabins, Virgin Voyages appeals to experience-seeking travellers who prioritize design, gastronomy, and authentic cultural immersion over conventional cruise conventions.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-12 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "ships_on_route": [
+      "Resilient Lady",
+      "Scarlet Lady"
+    ],
+    "departure_ports": [
+      "Portsmouth",
+      "Edinburgh (Leith)",
+      "Liverpool"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct)",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night French Daze & Ibiza Nights",
+      "duration_nights": 7,
+      "ports": [
+        "Portsmouth",
+        "Le Havre",
+        "Zeebrugge (Brussels)",
+        "Amsterdam"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Overnight in Amsterdam for full cultural immersion"
+    },
+    {
+      "name": "12-night British Isles & Iceland",
+      "duration_nights": 12,
+      "ports": [
+        "Portsmouth",
+        "Liverpool",
+        "Belfast",
+        "Reykjavik",
+        "Isafjordur",
+        "Akureyri",
+        "Edinburgh"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Extended Iceland exploration with three Icelandic ports"
+    },
+    {
+      "name": "7-night Amsterdam & Cork",
+      "duration_nights": 7,
+      "ports": [
+        "Portsmouth",
+        "Cork (Cobh)",
+        "Dublin",
+        "Liverpool",
+        "Amsterdam"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Irish heritage focus with overnight in Amsterdam"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Resilient Lady",
+      "capacity": 2770,
+      "year": 2023,
+      "best_for": "Adults seeking nightlife & wellness balance",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Scarlet Lady",
+      "capacity": 2770,
+      "year": 2021,
+      "best_for": "First-time Virgin cruisers & entertainment enthusiasts",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "All dining at 20+ venues",
+    "Basic WiFi",
+    "Group fitness classes",
+    "All entertainment & shows",
+    "Tips & gratuities",
+    "Soda & filtered water",
+    "Tea & coffee"
+  ],
+  "whats_extra": [
+    "Alcoholic beverages & premium coffee",
+    "Shore excursions",
+    "Spa treatments & salon services",
+    "Premium WiFi upgrade",
+    "Bottled water & specialty juices",
+    "Laundry services",
+    "Transfers"
+  ],
+  "booking_strategy": "Book 8-12 months ahead for peak summer departures; Virgin releases itineraries 18 months in advance. Watch for 'Bar Tab' promotions offering onboard credit. Solo travellers should target single cabins in the Insider category, which carry no supplement. Consider repositioning crossings in April and October for 30-40% savings. Lock in balcony cabins early—Virgin's sea day-heavy British Isles itineraries make private outdoor space valuable. Join Sailing Club loyalty program after first voyage for early access and perks.",
+  "top_ports": [
+    {
+      "port": "Amsterdam",
+      "time_in_port": "6pm-overnight-depart 5pm",
+      "top_activity": "Rijksmuseum & canal cruise combo (€89)",
+      "tip": "Pre-book Anne Frank House tickets 6+ weeks ahead"
+    },
+    {
+      "port": "Edinburgh (Leith)",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Royal Yacht Britannia & Old Town walking tour (€75)",
+      "tip": "August sailings coincide with Fringe Festival—book accommodation independently if staying ashore"
+    },
+    {
+      "port": "Cork (Cobh)",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Jameson Distillery experience & Cork food tour (€95)",
+      "tip": "Titanic Experience at Cobh marks last departure point—arrive early for smaller crowds"
+    },
+    {
+      "port": "Liverpool",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Beatles Magical Mystery Tour & Albert Docks (€65)",
+      "tip": "Mathew Street clubs host live music from midday—no advance booking needed"
+    },
+    {
+      "port": "Belfast",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Giant's Causeway & Dark Hedges full-day excursion (€129)",
+      "tip": "Game of Thrones filming locations require 4+ hours—prioritize this over city center if choosing one"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Virgin Voyages British Isles cruise cost?",
+      "answer": "Virgin Voyages British Isles cruises typically range from €899 to €2,899 per person for standard accommodations, depending heavily on season and cabin category. Shoulder season sailings in April, May, and October start around €899 for Insider cabins and €1,299 for Sea Terraces with balconies. Peak summer months of June through September command premiums of 30-50%, with balcony cabins from €1,699 and RockStar Quarters suites from €2,899. The line's pricing includes more than competitors—gratuities, basic WiFi, and all specialty dining—so direct comparison requires adjusting for these inclusions. Solo travellers benefit from dedicated single cabins without supplement, though inventory is limited. Watch for promotional Bar Tab credits of €100-300 that effectively reduce beverage costs. Total trip budgeting should account for €50-150 daily for drinks, excursions, and premium add-ons."
+    },
+    {
+      "question": "Which Virgin Voyages ships sail to British Isles?",
+      "answer": "Virgin Voyages deploys Resilient Lady and Scarlet Lady on British Isles itineraries, with Resilient Lady serving as the primary vessel for 2026. Both are identical 110,000-gross-ton sister ships launched in 2021 and 2023 respectively, accommodating 2,770 passengers in 1,408 cabins—intentionally smaller than mega-ships for port accessibility. Resilient Lady's homeporting in Portsmouth from April through October 2026 establishes her as the British Isles flagship, offering 7-12 night rotations. Scarlet Lady supplements capacity on select peak summer departures and handles repositioning crossings. Neither ship carries the family amenities of competitors; their design emphasizes adult-oriented spaces including the Athletic Club outdoor fitness area, Red Room transformational theater, and Manor nightclub. Both vessels feature Virgin's signature tattoo parlor, record shop, and 20+ dining venues without main dining rooms or buffets."
+    },
+    {
+      "question": "When is best time to cruise British Isles?",
+      "answer": "The optimal window for Virgin Voyages British Isles cruises spans May through September, with June and July offering the most reliable weather and longest daylight hours extending past 10pm. May and September provide excellent value with milder temperatures, fewer tourists, and lower pricing—ideal for travellers prioritizing cultural sites over beach weather. August delivers the warmest sea temperatures and coincides with Edinburgh's world-renowned Festival Fringe, though ports become crowded and airfare peaks. April and October sailings suit budget-conscious travellers accepting cooler, wetter conditions and reduced excursion availability; some Scottish Highlands tours suspend operations. Virgin's British Isles programming emphasizes indoor experiences—distilleries, museums, music venues—mitigating weather impact compared to Caribbean cruising. Northern Lights potential exists on late September Iceland-inclusive sailings. Avoid November through March when Virgin withdraws ships for maintenance and repositioning."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Virgin Voyages British Isles cruises include substantially more than traditional lines, reflecting their premium positioning. All dining at 20+ venues covers everything from Korean BBQ to elevated Italian without surcharges or reservations required. Basic WiFi supports streaming and video calls—unlimited for one device, upgradable for multiple. Group fitness classes span yoga, cycling, HIIT, and bungee workouts; personal training costs extra. All entertainment includes immersive theater productions, live music across multiple venues, and festival-style programming. Gratuities are embedded in fare—no tipping pools or envelope expectations. Non-alcoholic beverages include soda, filtered still and sparkling water, drip coffee, and tea. Notably excluded are alcoholic drinks, premium coffees, shore excursions, spa services, and premium WiFi. The line's 'no nickel-and-diming' philosophy eliminates specialty restaurant upcharges, room service fees, and fitness class premiums common elsewhere, though realistic budgeting requires €400-800 for a week's beverages."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Virgin Voyages British Isles itineraries emphasize secondary and culturally significant ports over commercial cruise terminals. English departures utilize Portsmouth—closer to London than Southampton with direct rail connections—plus Liverpool for its musical heritage. Scottish calls include Edinburgh (Leith) for capital access and occasional Invergordon for Highlands exploration. Irish ports feature Cork (Cobh), Titanic's last stop, and Dublin on extended itineraries. Continental highlights center on Amsterdam with overnight stays enabling evening canal cruises and nightlife—rare in cruising—plus Zeebrugge for Brussels and Bruges access, and Le Havre for Paris day trips. Iceland extensions add Reykjavik, Isafjordur, and Akureyri. Virgin deliberately avoids some mainstream ports, substituting Cork for Dublin on shorter sailings and prioritizing overnight stays that transform port experiences. This port strategy aligns with adult travellers seeking authentic cultural immersion over souvenir shopping, though some destinations require 90-minute transfers to major cities."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Virgin Voyages British Isles cruises 8-12 months in advance for optimal selection, particularly for peak summer departures and sought-after cabin categories like Sea Terrace balconies and solo Insider cabins. Virgin releases itineraries approximately 18 months ahead, earlier than many competitors, rewarding early planners with widest choice and occasional launch promotions. The line's dynamic pricing means fares typically increase as sailings fill and departure approaches, unlike traditional cruise lines' last-minute discounting. Solo cabins and RockStar suite categories have particularly constrained inventory and sell out 6-9 months ahead. My tip: monitor Virgin's website for 'Bar Tab' promotions adding €100-300 onboard credit, then book immediately as these sell through quickly. Flexible travellers should watch April and October repositioning sailings, which occasionally see modest price adjustments 60-90 days out, though this is unreliable. Final payment typically falls 120 days before departure."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Virgin Voyages British Isles cruises are explicitly designed for adults only—guests must be 18 or older, making them unsuitable for families with children. This restriction permeates every aspect: no kids' clubs, family cabins, children's menus, or youth programming exists. The line targets travellers seeking sophisticated, nightlife-oriented experiences without family cruise conventions. For adult children traveling with parents or multigenerational groups of adults, Virgin excels—its British Isles itineraries particularly suit adult children and parents exploring shared heritage interests, whisky trails, or music history together. The age restriction enables design choices impossible on family ships: casino-free environment, tattoo parlor, risqué entertainment programming, and late-night venues operating until 4am. Solo adult travellers find exceptional inclusion through single cabins and social programming. Families requiring child-inclusive options should consider P&O, MSC, or Royal Caribbean's British Isles offerings instead."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Virgin Voyages British Isles bookings carry stricter cancellation terms than many competitors, reflecting their premium positioning and adult-only market. Standard fares permit full refund only until 120 days before departure—significantly earlier than the 90-day industry norm. Between 119-90 days, cancellation incurs 50% forfeiture of total fare. From 89-60 days, 75% is forfeited. Inside 60 days, no refund applies—only future voyage credit at Virgin's discretion. This policy demands careful commitment and comprehensive travel insurance covering 'cancel for any reason,' particularly given British Isles weather variability and personal circumstance risks. Booking the line's 'Pay Monthly' installment plan does not alter cancellation penalties. Virgin occasionally offers promotional 'flexible booking' terms with reduced deposits and extended cancellation windows during sales events—these provide meaningful protection worth prioritizing. Given the significant investment of €2,000+ for balcony cabins in peak season, independent travel insurance with cruise-specific coverage is strongly recommended."
+    }
+  ]
+}

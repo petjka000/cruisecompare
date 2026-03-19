@@ -1,0 +1,221 @@
+{
+  "title": "Holland America Line Australia & Pacific Cruises 2026",
+  "intro": "Holland America Line brings 150 years of maritime heritage to Australia & Pacific cruising, offering sophisticated exploration of this vast region aboard mid-sized ships designed for immersive discovery. Unlike mega-ship competitors, HAL's vessels navigate closer to authentic destinations, from the Great Barrier Reef's remote cays to Papua New Guinea's untouched cultures. The line's Explorations Central program enriches voyages with expert-led talks on Aboriginal history, marine biology, and Pacific geology. Culinary excellence shines through regionally-inspired menus featuring Australian Wagyu, New Zealand lamb, and Pacific seafood. The Koningsdam-class ships offer Music Walk venues with live performances perfect for sea days crossing the Pacific. HAL's longer port stays and overnight calls in Sydney, Auckland, and Honolulu allow deeper cultural engagement. With predominantly adult-oriented programming and spacious staterooms, this appeals to seasoned travelers seeking meaningful destination immersion rather than high-energy entertainment, making Pacific crossings and Australian circumnavigations genuinely transformative experiences.",
+  "quick_facts": {
+    "price_from_eur": 1299,
+    "duration_range": "14-35 nights",
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Noordam",
+      "Westerdam",
+      "Zuiderdam"
+    ],
+    "departure_ports": [
+      "Sydney",
+      "Auckland",
+      "Honolulu",
+      "San Diego",
+      "Singapore"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 1899,
+      "balcony_eur": 2899,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Shoulder (Nov, Mar)",
+      "inside_eur": 1499,
+      "balcony_eur": 2299,
+      "suite_eur": 3699
+    },
+    {
+      "season": "Repositioning (Sep-Oct, Apr)",
+      "inside_eur": 1299,
+      "balcony_eur": 1999,
+      "suite_eur": 3299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Australia & New Zealand Discovery",
+      "duration_nights": 14,
+      "ports": [
+        "Sydney",
+        "Melbourne",
+        "Hobart",
+        "Dunedin",
+        "Wellington",
+        "Auckland"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Overnight in Sydney with exclusive evening Harbour Bridge experience"
+    },
+    {
+      "name": "28-night South Pacific Crossing",
+      "duration_nights": 28,
+      "ports": [
+        "Honolulu",
+        "Maui",
+        "Bora Bora",
+        "Moorea",
+        "Auckland",
+        "Bay of Islands",
+        "Sydney"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Four full days in French Polynesia with late-night departures"
+    },
+    {
+      "name": "35-night Australia Circumnavigation",
+      "duration_nights": 35,
+      "ports": [
+        "Sydney",
+        "Brisbane",
+        "Cairns",
+        "Darwin",
+        "Broome",
+        "Perth",
+        "Adelaide",
+        "Melbourne"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "Complete Australian coastline with Kimberley Coast scenic cruising"
+    },
+    {
+      "name": "17-night Indonesia & Papua New Guinea Explorer",
+      "duration_nights": 17,
+      "ports": [
+        "Singapore",
+        "Bali",
+        "Komodo",
+        "Darwin",
+        "Port Moresby",
+        "Alotau",
+        "Cairns"
+      ],
+      "price_from_eur": 2199,
+      "highlight": "Rare expedition-style calls to remote PNG villages with cultural immersion"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Noordam",
+      "capacity": 1972,
+      "year": 2006,
+      "best_for": "Destination immersion",
+      "price_from_eur": 1499
+    },
+    {
+      "name": "Westerdam",
+      "capacity": 1968,
+      "year": 2004,
+      "best_for": "Culinary enthusiasts",
+      "price_from_eur": 1399
+    },
+    {
+      "name": "Zuiderdam",
+      "capacity": 1968,
+      "year": 2002,
+      "best_for": "Music & arts lovers",
+      "price_from_eur": 1299
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Casual dining venues",
+    "24-hour room service",
+    "Live music and entertainment",
+    "Explorations Central programming",
+    "Fitness center access",
+    "Port taxes and fees",
+    "BBC Earth Experiences",
+    "America's Test Kitchen cooking demonstrations",
+    "Microsoft Studio digital workshops"
+  ],
+  "whats_extra": [
+    "Specialty restaurants ($25-45 per person)",
+    "Beverage packages (from €55/day)",
+    "Shore excursions (€89-399)",
+    "Spa treatments",
+    "Wi-Fi packages (from €15/day)",
+    "Laundry services",
+    "Gratuities (€16/day recommended)",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 12-18 months ahead for peak season Australia & New Zealand voyages; repositioning crossings offer best value 6-9 months out. HAL's Have It All promotion typically includes drinks, excursions, and Wi-Fi when booking early. Consider shoulder season for 30% savings with excellent weather.",
+  "top_ports": [
+    {
+      "port": "Sydney",
+      "time_in_port": "7am-overnight (next day 6pm)",
+      "top_activity": "Sydney Opera House backstage tour ($189)",
+      "tip": "Request starboard side for Harbour Bridge views"
+    },
+    {
+      "port": "Bora Bora",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Lagarium shark and ray snorkel ($249)",
+      "tip": "Book helicopter transfer to Motu for secluded beach day"
+    },
+    {
+      "port": "Great Barrier Reef (Cairns)",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Quicksilver outer reef platform ($329)",
+      "tip": "Seasickness-prone guests choose helicopter reef arrival"
+    },
+    {
+      "port": "Hobart",
+      "time_in_port": "8am-5pm",
+      "top_activity": "MONA ferry and gallery entry ($45)",
+      "tip": "Saturday Salamanca Market requires early tender"
+    },
+    {
+      "port": "Milford Sound",
+      "time_in_port": "Scenic cruising 8am-12pm",
+      "top_activity": "Onboard commentary from deck",
+      "tip": "Dress warmly; waterfalls create wind chill even in summer"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Holland America Line Australia & Pacific cruise cost?",
+      "answer": "Holland America Line Australia & Pacific cruises range from €1,299 for repositioning crossings to €6,500+ for peak season suites. Inside cabins typically start at €1,899 for 14-night voyages, while verandah staterooms—essential for scenic Pacific cruising—begin around €2,899. The line's Have It All promotion bundles drinks, shore excursions, specialty dining, and Wi-Fi, offering €800+ value when booked early. Solo travelers benefit from reduced single supplements on select departures. Gratuities add approximately €16 per person daily, and specialty dining incurs €25-45 cover charges. Total budgeting should include €150-300 daily for comprehensive experiences."
+    },
+    {
+      "question": "Which Holland America Line ships sail to Australia & Pacific?",
+      "answer": "Holland America deploys its Vista-class vessels for Australia & Pacific operations, primarily Noordam, Westerdam, and Zuiderdam. These 1,968-1,972 passenger ships offer ideal size for Pacific crossings—stable in open ocean yet intimate enough for remote port access. Noordam leads Australia-New Zealand season with enhanced culinary programming. Westerdam specializes in South Pacific island itineraries with extended Polynesian calls. Zuiderdam handles repositioning crossings and Indonesia routes. All feature HAL's signature Explorations Central, Culinary Arts Center, and Music Walk with Lincoln Center Stage, B.B. King's Blues Club, and Billboard Onboard. Recent refurbishments updated staterooms and added Club Orange premium amenities."
+    },
+    {
+      "question": "When is best time to cruise Australia & Pacific?",
+      "answer": "November through March delivers optimal Australia & Pacific cruising conditions. Australia's summer (December-February) brings warm temperatures ideal for reef exploration and beach days, though January school holidays crowd popular ports. New Zealand's milder summer suits outdoor activities. South Pacific cyclone risk peaks January-March, though HAL's itinerary flexibility minimizes disruption. Shoulder months November and March offer 20-30% savings with excellent weather and fewer tourists. For Papua New Guinea and Indonesia, April-May and September-October provide drier conditions. Trans-Pacific crossings favor April and October repositioning sailings with favorable westerly winds. Avoid June-August when southern hemisphere winter limits outdoor experiences."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Holland America Line's Australia & Pacific cruises include comprehensive dining across main restaurants, Lido Market buffet, and 24-hour room service. Entertainment encompasses live music venues, BBC Earth natural history presentations, cooking demonstrations, and digital workshops. Explorations Central provides destination briefings, cultural performances, and port maps. Fitness facilities, sports courts, and pool access carry no charge. Gratuities, beverages beyond basic coffee/tea/juice, specialty dining, shore excursions, and Wi-Fi require additional payment. The Have It All promotional fare bundles these extras: Signature Beverage Package, one shore excursion per port, specialty dining, and Surf Wi-Fi—representing substantial value for comprehensive cruisers seeking predictable budgeting."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Holland America Line's Australia & Pacific itineraries span extraordinary geographic diversity. Australian calls feature Sydney's iconic harbour, Melbourne's culinary scene, Hobart's wilderness gateway, Cairns' reef access, and remote Kimberley Coast scenic cruising. New Zealand highlights include Milford Sound fjords, Dunedin's Scottish heritage, Wellington's craft culture, and Bay of Islands history. South Pacific routes reach Honolulu, Maui, and French Polynesia's Bora Bora, Moorea, and Tahiti with extended stays. Expedition-style voyages access Papua New Guinea's Alotau and Port Moresby, Indonesia's Komodo and Bali, and East Timor. Repositioning crossings may include Pacific gems like Samoa, Fiji, and New Caledonia. Many itineraries feature overnight stays in Sydney and Auckland for immersive exploration."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Holland America Line Australia & Pacific cruises 12-18 months ahead for peak December-February departures, particularly verandah and suite accommodations with prime views. The line releases itineraries approximately 18 months in advance, and early booking locks Have It All promotional rates. Repositioning crossings and shoulder season sailings offer flexibility at 6-9 months with occasional flash sales. Solo travelers should book early as single-occupancy cabins are limited. Groups of eight or more staterooms require 12-month advance planning for coordination. Final payment is typically due 90 days before sailing, with price protection against subsequent increases. Last-minute availability exists primarily in inside categories for flexible travelers."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Holland America Line's Australia & Pacific cruises suit families with children aged 8+ who appreciate cultural immersion over high-energy entertainment. Club HAL provides supervised activities for ages 3-17, though facilities are modest compared to mega-ship competitors. The line's enrichment focus—BBC Earth experiences, cooking classes, photography workshops—engages curious teenagers. Multi-generational families thrive here: spacious staterooms accommodate third/fourth berths, flexible dining suits varying schedules, and shore excursions offer adventure levels for diverse abilities. However, families with young children may find limited water features, no character experiences, and adult-oriented evening programming less accommodating. School holiday periods see increased family presence with enhanced youth staffing. Consider Disney or Royal Caribbean for younger children's optimal experience."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Holland America Line's Australia & Pacific cancellation policy imposes escalating penalties by departure proximity. Cancellations 90+ days before sailing incur no penalty for most fares. 89-60 days: deposit forfeiture (typically €500-1,000). 59-30 days: 50% of total fare. 29-15 days: 75% of total fare. 14 days or less: 100% forfeiture. Have It All promotional fares carry stricter terms with penalties beginning 120 days out. Cancel for Any Reason protection, available as add-on purchase within 14 days of deposit, provides future cruise credit for 90% of cancellation penalties. Travel insurance strongly recommended given Australia's remote location and potential medical evacuation costs exceeding €50,000. Rebooking on same itinerary may waive change fees within promotional parameters."
+    }
+  ]
+}

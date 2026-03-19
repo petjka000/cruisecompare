@@ -1,0 +1,40 @@
+{
+  "slug": "norwegian-fjords-cruise-7-night-from-649",
+  "title": "Norwegian Fjords 7-Night from €649",
+  "cruise_line": "Norwegian Cruise Line",
+  "destination": "Northern Europe",
+  "departure_port": "Copenhagen",
+  "duration_nights": 7,
+  "price_eur": 649,
+  "price_per_night": 93,
+  "original_price_eur": 899,
+  "discount_pct": 28,
+  "departure_dates": [
+    "2026-06-21",
+    "2026-07-19",
+    "2026-08-16"
+  ],
+  "ports_of_call": [
+    "Bergen",
+    "Flam",
+    "Geiranger",
+    "Alesund"
+  ],
+  "includes": [
+    "meals",
+    "entertainment",
+    "pools",
+    "gym"
+  ],
+  "excludes": [
+    "drinks",
+    "shore excursions",
+    "gratuities"
+  ],
+  "booking_url": "https://www.ncl.com",
+  "source": "placeholder",
+  "scraped_at": "2026-03-19T13:01:47.256997+00:00",
+  "published_at": "2026-03-19T13:01:47.256997+00:00",
+  "meta_description": "Norwegian Fjords 7-night cruise from Copenhagen from €649. Visit Bergen, Flam, and Geiranger.",
+  "excerpt": "Sail through the stunning Geirangerfjord and Hardangerfjord, with stops in Bergen and Flåm."
+}

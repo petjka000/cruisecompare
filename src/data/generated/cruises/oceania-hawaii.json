@@ -1,0 +1,199 @@
+{
+  "title": "Oceania Cruises Hawaii Cruises 2026",
+  "intro": "Oceania Cruises elevates Hawaii exploration through its reputation as the cruise line for 'The Finest Cuisine at Sea' and destination immersion. Unlike mass-market alternatives, Oceania's Hawaii voyages combine extended port stays with overnight calls in Honolulu and Maui, allowing guests to experience traditional luaus, sunrise at Haleakalā, and Pearl Harbor without rushing. The line's mid-size ships—carrying fewer than 1,250 guests—access smaller Hawaiian ports like Nawiliwili and Kona that larger vessels cannot reach. Oceania's inclusive value proposition features unlimited internet, specialty dining, and shore excursion credits, with fares reflecting premium positioning. The culinary program incorporates Hawaiian regional ingredients through partnerships with local farms and fishermen. For discerning travelers seeking authentic Polynesian culture rather than manufactured port experiences, Oceania's Hawaii itineraries emphasize educational enrichment through guest lecturers in Hawaiian history, marine biology, and astronomy.",
+  "quick_facts": {
+    "price_from_eur": 2499,
+    "duration_range": "10-16 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "ships_on_route": [
+      "Nautica",
+      "Regatta",
+      "Insignia"
+    ],
+    "departure_ports": [
+      "Los Angeles",
+      "San Francisco",
+      "Honolulu",
+      "Papeete"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Jan-Mar)",
+      "inside_eur": 2499,
+      "balcony_eur": 3499,
+      "suite_eur": 5899
+    },
+    {
+      "season": "Shoulder (Apr-May)",
+      "inside_eur": 2299,
+      "balcony_eur": 3199,
+      "suite_eur": 5299
+    },
+    {
+      "season": "Low (Nov-Dec)",
+      "inside_eur": 2199,
+      "balcony_eur": 2999,
+      "suite_eur": 4899
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Hawaiian Serenity",
+      "duration_nights": 12,
+      "ports": [
+        "Honolulu",
+        "Kahului",
+        "Hilo",
+        "Kona",
+        "Nawiliwili",
+        "Los Angeles"
+      ],
+      "price_from_eur": 2899,
+      "highlight": "Overnight in Honolulu with pre-cruise hotel stay included"
+    },
+    {
+      "name": "Polynesian Discovery",
+      "duration_nights": 16,
+      "ports": [
+        "Papeete",
+        "Bora Bora",
+        "Moorea",
+        "Honolulu",
+        "Kahului",
+        "Hilo"
+      ],
+      "price_from_eur": 4299,
+      "highlight": "South Pacific to Hawaii crossing with six sea days"
+    },
+    {
+      "name": "Hawaiian Explorer",
+      "duration_nights": 10,
+      "ports": [
+        "Los Angeles",
+        "Hilo",
+        "Kona",
+        "Nawiliwili",
+        "Honolulu"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Compact inter-island exploration with two sea days each way"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Nautica",
+      "capacity": 670,
+      "year": 2000,
+      "best_for": "Culinary enthusiasts and destination immersion",
+      "price_from_eur": 2499
+    },
+    {
+      "name": "Regatta",
+      "capacity": 670,
+      "year": 1998,
+      "best_for": "Intimate luxury and repeat Oceania guests",
+      "price_from_eur": 2599
+    },
+    {
+      "name": "Insignia",
+      "capacity": 670,
+      "year": 1998,
+      "best_for": "World cruise segments and extended voyages",
+      "price_from_eur": 2399
+    }
+  ],
+  "whats_included": [
+    "Unlimited internet",
+    "Specialty restaurants",
+    "Room service",
+    "Shore excursion credits (up to EUR 800)",
+    "Airport transfers",
+    "Beverages including select wines with lunch and dinner",
+    "Fitness center and wellness classes",
+    "Destination lectures",
+    "Self-service laundry"
+  ],
+  "whats_extra": [
+    "Premium spirits and reserve wines",
+    "Spa treatments and salon services",
+    "Additional shore excursions beyond credit",
+    "Airfare (unless promotional package selected)",
+    "Pre- and post-cruise hotel extensions",
+    "Gratuities (EUR 16-23 per person daily)",
+    "Casino gaming",
+    "Photography services"
+  ],
+  "booking_strategy": "Book 9-15 months ahead for best cabin selection and early booking savings of 10-15%; Oceania's OLife Choice promotions typically offer air credit or free shore excursions",
+  "top_ports": [
+    {
+      "port": "Honolulu",
+      "time_in_port": "8am next day 6pm",
+      "top_activity": "Pearl Harbor National Memorial (EUR 45)",
+      "tip": "Reserve Arizona Memorial tickets 60 days ahead"
+    },
+    {
+      "port": "Kahului (Maui)",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Haleakalā sunrise tour (EUR 189)",
+      "tip": "Book 48 hours prior; temperatures at summit drop to 0°C"
+    },
+    {
+      "port": "Hilo",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Volcanoes National Park helicopter flight (EUR 425)",
+      "tip": "Morning departures essential for clear crater views"
+    },
+    {
+      "port": "Kona",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Manta ray night snorkel (EUR 165)",
+      "tip": "Tender port; prioritize early tender tickets"
+    },
+    {
+      "port": "Nawiliwili (Kauai)",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Nā Pali Coast boat expedition (EUR 195)",
+      "tip": "Winter months bring humpback whale sightings"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Oceania Cruises Hawaii cruise cost?",
+      "answer": "Oceania Cruises Hawaii voyages typically range from EUR 2,199 to EUR 5,899 per person based on double occupancy, with lead-in interior cabins starting around EUR 2,499 for 10-night sailings. Veranda staterooms command EUR 3,199-3,999, while Owner's Suites reach EUR 5,500-8,000. Pricing includes unlimited internet, specialty dining, and shore excursion credits. Airfare add-ons run EUR 699-1,199 from European gateways. Solo travelers face 150-200% single supplements, though occasional reduced supplement promotions appear. OLife Choice promotions can offset costs through included air credit or excursion packages. Gratuities add EUR 16-23 daily. Total vacation investment for a couple typically falls between EUR 6,000-12,000 depending on cabin category and add-ons selected."
+    },
+    {
+      "question": "Which Oceania Cruises ships sail to Hawaii?",
+      "answer": "Oceania deploys its 670-guest R-class ships for Hawaii itineraries: Nautica, Regatta, and Insignia. These identical sister vessels, refurbished in 2019-2022, offer intimate scale impossible with larger competitors. Nautica leads Hawaii programming with the most annual departures. Regatta alternates between Hawaii and South Pacific routes. Insignia typically incorporates Hawaii into longer world cruise segments. All three feature Oceania's signature elements: Jacques Pépin's culinary direction, the Canyon Ranch SpaClub, and multiple specialty venues including Polo Grill and Toscana. The ships' smaller size enables overnight stays in Honolulu and extended evening departures from Kahului—experiences unavailable to megaships. Recent refurbishments added power outlets at bedsides and expanded terrace café seating for alfresco Hawaiian dining."
+    },
+    {
+      "question": "When is best time to cruise Hawaii?",
+      "answer": "January through March represents peak season, combining optimal weather with humpback whale migration visibility. Daytime temperatures hover 24-27°C with minimal rainfall on leeward coasts. February offers the densest whale concentrations, though March sees calmer seas for tender ports like Kona. April provides shoulder-season value with EUR 200-400 savings and drier conditions as winter storms subside. November and early December present lower pricing but carry hurricane season residual risk and occasional Kona storm systems. Summer months (June-August) feature warmer waters ideal for snorkeling but higher humidity and occasional tropical disturbances. Oceania's limited Hawaii deployment concentrates in peak months, making early booking essential regardless of preferred travel dates."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Oceania's Hawaii cruises include unlimited WiFi, all meals including specialty restaurants Jacques, Polo Grill, Toscana, and Red Ginger, room service, and select wines with lunch and dinner. The OLife Choice promotion adds one of three options: free shore excursions (typically EUR 800 credit), house beverage package, or shipboard credit. Gratuities, while technically extra, are often included in promotional pricing. Fitness center access, destination lectures, self-service laundry, and airport transfers complete the inclusive elements. Notably excluded are premium spirits, spa services, most shore excursions beyond credit, airfare (unless promotional), and pre-cruise hotels. The culinary program stands out with no surcharges for specialty dining—a significant value compared to competitors charging EUR 45-95 per meal."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Oceania's Hawaii itineraries feature Honolulu for overnight stays enabling independent exploration of Waikiki, Pearl Harbor, and North Shore. Maui's Kahului provides gateway to Haleakalā National Park and Road to Hana. Hilo on Hawaii Island accesses Volcanoes National Park and rain forest environments. Kona offers coffee plantation tours and manta ray encounters via tender. Nawiliwili on Kauai reaches the dramatic Nā Pali Coast and Waimea Canyon. Some extended voyages include Fanning Island, Kiribati for equator crossing ceremonies. Trans-Pacific routes originate Los Angeles or San Francisco, adding sea days for enrichment programming. South Pacific combinations depart Papeete, Tahiti. The R-class ships' shallow draft enables closer anchorage at Kona and extended port time compared to larger vessels restricted to commercial piers."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Oceania Hawaii cruises 9-15 months before departure for optimal stateroom selection, particularly veranda categories which comprise limited inventory on 670-guest ships. Oceania releases itineraries 18-24 months ahead. Early booking yields 10-15% savings through advance purchase rates. Veranda staterooms on port-intensive Hawaii itineraries sell first given scenic cruising value. Solo travelers face particular urgency due to 150-200% supplements and minimal single-occupancy inventory. Wave season (January-March) brings promotional OLife Choice enhancements but reduced cabin availability. Last-minute deals under EUR 1,799 occasionally appear 60-90 days out for interior cabins, though itinerary and date flexibility are essential. Deposit requirements run EUR 1,500-2,500 with final payment due 90-150 days pre-cruise depending on voyage length."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Oceania Cruises positions explicitly for adults, with no children's programming, water slides, or family-oriented entertainment. The Hawaii product particularly suits couples and multi-generational groups where children are teenaged or adult. Minimum age is 6 months, though families with young children report limited engagement options. The culinary focus, enrichment lectures, and sophisticated ambiance attract educated travelers aged 55-75. That said, mature teenagers interested in marine biology, astronomy, and Hawaiian culture find meaningful engagement through onboard lecturers and immersive shore excursions. Family groups occupying multiple suites appreciate the intimate scale and dining flexibility. For families prioritizing children's programming and dedicated youth facilities, alternative lines better serve Hawaii itineraries. Oceania's value proposition resonates when adult children travel with parents celebrating milestones."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Oceania Cruises applies graduated cancellation penalties based on voyage length and timing. For standard Hawaii cruises under 30 nights, cancellation 151+ days before departure incurs EUR 250 administrative fee. 150-91 days: deposit forfeiture (EUR 1,500-2,500). 90-76 days: 25% of total fare. 75-61 days: 50% of total fare. 60-31 days: 75% of total fare. 30 days or less: 100% forfeiture. Travel insurance through Oceania or independent providers can offset penalties for covered reasons including illness, job loss, or family emergency. Cancel For Any Reason upgrades reimburse 75% in future cruise credits rather than cash. COVID-19 introduced temporary flexible policies now largely rescinded. Rebooking to alternative sailings within 12 months sometimes waives change fees during promotional periods. All cancellations must be submitted in writing."
+    }
+  ]
+}

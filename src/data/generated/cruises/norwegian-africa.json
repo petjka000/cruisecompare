@@ -1,0 +1,208 @@
+{
+  "title": "Norwegian Cruise Line Africa & Canaries Cruises 2026",
+  "intro": "Norwegian Cruise Line brings its signature Freestyle Cruising concept to the captivating shores of Africa and the sun-drenched Canary Islands, offering guests unprecedented flexibility to explore two remarkably diverse regions in a single voyage. These repositioning and seasonal itineraries combine Norwegian's innovative ship design with immersive cultural experiences, from the volcanic landscapes of Tenerife and Lanzarote to the vibrant markets of Morocco and the stunning coastlines of the Cape Verde islands. Norwegian's Africa & Canaries sailings typically operate during autumn and spring months as ships transition between European and Caribbean deployment, presenting exceptional value for travellers seeking extended voyages with minimal sea days. Onboard, guests enjoy world-class entertainment, up to 27 dining options, and spacious accommodations while waking to new horizons ranging from Saharan dunes to subtropical archipelagos. These itineraries particularly appeal to seasoned cruisers seeking destination-rich experiences beyond conventional Caribbean or Mediterranean routes.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "10-16 nights",
+    "best_months": [
+      "Nov",
+      "Mar",
+      "Apr"
+    ],
+    "ships_on_route": [
+      "Norwegian Dawn",
+      "Norwegian Star",
+      "Norwegian Sky"
+    ],
+    "departure_ports": [
+      "Barcelona",
+      "Lisbon",
+      "Cape Town"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Autumn Repositioning",
+      "inside_eur": 849,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Spring Repositioning",
+      "inside_eur": 899,
+      "balcony_eur": 1299,
+      "suite_eur": 2099
+    },
+    {
+      "season": "Peak Winter",
+      "inside_eur": 1099,
+      "balcony_eur": 1599,
+      "suite_eur": 2499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "14-night Canary Islands & Morocco",
+      "duration_nights": 14,
+      "ports": [
+        "Barcelona",
+        "Valencia",
+        "Malaga",
+        "Casablanca",
+        "Agadir",
+        "Arrecife",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Funchal",
+        "Lisbon"
+      ],
+      "price_from_eur": 1199,
+      "highlight": "Comprehensive exploration of four countries with overnight in Casablanca"
+    },
+    {
+      "name": "12-night Morocco & Canary Islands",
+      "duration_nights": 12,
+      "ports": [
+        "Lisbon",
+        "Casablanca",
+        "Agadir",
+        "Arrecife",
+        "Puerto del Rosario",
+        "Santa Cruz de Tenerife",
+        "Las Palmas",
+        "Funchal"
+      ],
+      "price_from_eur": 999,
+      "highlight": "Perfect balance of North African culture and subtropical island relaxation"
+    },
+    {
+      "name": "16-night Africa & Indian Ocean",
+      "duration_nights": 16,
+      "ports": [
+        "Cape Town",
+        "Mossel Bay",
+        "Durban",
+        "Maputo",
+        "Nosy Be",
+        "Port Louis",
+        "Reunion"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Extensive South African coastline with exotic Indian Ocean islands"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Norwegian Dawn",
+      "capacity": 2340,
+      "year": 2002,
+      "refurbished": 2016,
+      "best_for": "Intimate ship experience with extensive dining",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Norwegian Star",
+      "capacity": 2348,
+      "year": 2001,
+      "refurbished": 2018,
+      "best_for": "Balcony-heavy accommodations and Asian cuisine",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Norwegian Sky",
+      "capacity": 2004,
+      "year": 1999,
+      "refurbished": 2019,
+      "best_for": "Open bar included and compact exploration",
+      "price_from_eur": 1099
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals",
+    "Casual buffet dining",
+    "Select specialty dining venues",
+    "Broadway-style entertainment and live music",
+    "Fitness centre and sports court access",
+    "Kids club and teen programmes",
+    "Port taxes and government fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (unless booking Free at Sea)",
+    "Specialty dining beyond promotional allowance",
+    "Shore excursions and port transfers",
+    "Spa treatments and salon services",
+    "Casino gambling",
+    "WiFi packages",
+    "Gratuities (€16-€20 per person daily)",
+    "Photography services",
+    "Laundry and dry cleaning"
+  ],
+  "booking_strategy": "Book 9-15 months ahead for optimal cabin selection and Free at Sea promotions; repositioning cruises offer 30-40% savings 60-90 days before sailing if inventory remains",
+  "top_ports": [
+    {
+      "port": "Casablanca",
+      "time_in_port": "7am-11pm (overnight on select sailings)",
+      "top_activity": "Hassan II Mosque guided tour (€89)",
+      "tip": "Negotiate taxi fares in advance and carry small dirham notes"
+    },
+    {
+      "port": "Santa Cruz de Tenerife",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Teide National Park excursion (€119)",
+      "tip": "Morning departures essential for clear summit views"
+    },
+    {
+      "port": "Agadir",
+      "time_in_port": "7am-4pm",
+      "top_activity": "Souk El Had market and argan oil cooperative (€69)",
+      "tip": "Friday market busiest but most authentic; haggle expected"
+    },
+    {
+      "port": "Las Palmas",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Vegueta old town and Casa de Colón (€49)",
+      "tip": "Walkable from port; excellent tapas at Santa Catalina district"
+    },
+    {
+      "port": "Arrecife (Lanzarote)",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Timanfaya National Park and wine region (€99)",
+      "tip": "Book geothermal restaurant lunch separately for guaranteed seating"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Norwegian Cruise Line Africa & Canaries cruise cost?",
+      "answer": "Norwegian Cruise Line Africa & Canaries cruises typically range from €849 to €2,499 per person for cruise-only fares, depending on season, duration, and accommodation category. Inside cabins start around €849-€1,099, balcony staterooms from €1,199-€1,599, and suites from €1,899-€2,499. The Free at Sea promotion frequently includes beverage packages, specialty dining, WiFi, and excursion credits, potentially saving €400-€600 per person. Repositioning sailings in November and March offer exceptional value, often 25-35% below peak pricing. Additional costs include gratuities (€16-€20 daily), flights to embarkation ports, and shore excursions averaging €60-€120 per port."
+    },
+    {
+      "question": "Which Norwegian Cruise Line ships sail to Africa & Canaries?",
+      "answer": "Norwegian Cruise Line deploys its Sun-class and Dawn-class vessels on Africa & Canaries itineraries, primarily Norwegian Dawn, Norwegian Star, and Norwegian Sky. Norwegian Dawn and Norwegian Star, each accommodating approximately 2,340 guests, offer intimate experiences with extensive dining variety and spacious public areas. Norwegian Sky, slightly smaller at 2,004 passengers, distinguishes itself with an open bar included in cruise fares. These mid-sized ships navigate African ports more efficiently than Norwegian's larger Breakaway and Breakaway Plus classes, accessing restricted harbours like Agadir and smaller Canary Islands ports. Norwegian Viva and Norwegian Prima may occasionally operate extended voyages during inaugural season positioning."
+    },
+    {
+      "question": "When is best time to cruise Africa & Canaries?",
+      "answer": "The optimal period for Norwegian Cruise Line Africa & Canaries cruises spans November through April, coinciding with repositioning seasons and favourable weather conditions. November and March-April offer ideal temperatures of 20-25°C across the Canaries and comfortable 18-22°C in Morocco, with minimal rainfall and calm Atlantic crossings. December through February brings slightly cooler conditions but excellent value and fewer crowds at major attractions. Norwegian schedules these itineraries specifically during autumn westbound and spring eastbound repositioning between European and Caribbean deployment. Avoid July through September when limited sailings operate and Saharan dust can reduce visibility. The Cape Town-based itineraries run November-March during southern hemisphere summer."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Norwegian Cruise Line Africa & Canaries cruises include accommodation in selected stateroom categories, all meals in main dining rooms and buffet venues, casual dining at O'Sheehan's and similar outlets, and extensive entertainment including Broadway-calibre productions, comedy shows, and live music across multiple venues. Fitness centre access, sports courts, pools, and supervised youth programmes are complimentary. The innovative Freestyle Cruising concept eliminates fixed dining times and dress codes. Port taxes and government fees are included in advertised fares. The Free at Sea promotion, frequently available, adds beverage packages, specialty dining allowances, WiFi minutes, and excursion credits. Not included are gratuities, alcoholic beverages without packages, spa services, casino play, and most shore excursions."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Norwegian Cruise Line Africa & Canaries itineraries feature diverse ports across four countries and multiple archipelagos. Moroccan highlights include Casablanca with its magnificent Hassan II Mosque and atmospheric medina, plus Agadir with its expansive beach and Berber heritage. The Canary Islands deliver volcanic landscapes at Santa Cruz de Tenerife, colonial architecture at Las Palmas, and lunar terrain at Arrecife and Puerto del Rosario. European embarkation and disembarkation occurs at Barcelona, Lisbon, or Southampton, with Funchal providing a splendid Portuguese interlude. South African routes incorporate Cape Town, Mossel Bay, and Durban with extensions to Maputo, Nosy Be, and Indian Ocean islands. Norwegian occasionally includes Cape Verde's Mindelo for authentic West African culture."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Booking Norwegian Cruise Line Africa & Canaries cruises 9-15 months in advance secures optimal stateroom selection, particularly for balcony categories and suites which represent 60% of inventory on these ships. Early booking captures the most generous Free at Sea promotions, typically offering all four perks (beverage package, specialty dining, WiFi, excursion credit) versus reduced selections closer to sailing. Repositioning itineraries, being less mainstream, sometimes yield exceptional last-minute values 60-90 days prior when unsold inventory is discounted 30-40%. However, this risks limited cabin categories and forfeited Free at Sea benefits. Flights to Cape Town, Barcelona, or Lisbon require separate booking 6-10 months ahead for reasonable fares, particularly for peak December-January departures."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Norwegian Cruise Line Africa & Canaries cruises suit families with children aged 10 and above who possess genuine interest in cultural exploration and can engage with historical and geographical content. The extensive port programming—medinas, volcanic national parks, colonial cities—provides educational value unmatched by beach-focused itineraries. Onboard, Splash Academy (ages 3-12) and Entourage (13-17) operate sea days with supervised activities, though port-intensive schedules limit programme hours. Norwegian's flexible dining accommodates varied schedules and palates, with 27 venues including casual options ideal for less adventurous eaters. Pool complexes, waterslides, and sports courts entertain during sea crossings. Families should note that African port excursions involve significant walking and heat; private vehicle arrangements enhance comfort for multi-generational groups."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Norwegian Cruise Line's cancellation policy for Africa & Canaries cruises imposes penalties increasing by departure proximity. Cancellations 121 days or more before sailing incur no penalty for most cabin categories. 120-91 days prior forfeits deposit amount, typically €250-€500 per person. 90-61 days triggers 50% of total fare penalty. 60-31 days demands 75% forfeiture, and 30 days or less results in 100% loss with no refund. Suite and Haven categories carry stricter terms: non-refundable deposits and penalties commencing 180 days before sailing. Travel insurance, strongly recommended for African itineraries given health and political considerations, may reimburse non-refundable amounts for covered reasons. Norwegian's BookSafe Protection Plan, available at booking, offers cancellation for any reason credit of 75% for future cruises."
+    }
+  ]
+}

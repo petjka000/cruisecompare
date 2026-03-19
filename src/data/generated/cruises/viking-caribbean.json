@@ -1,0 +1,204 @@
+{
+  "title": "Viking Cruises Caribbean Cruises 2026",
+  "intro": "Viking Cruises brings its signature Scandinavian elegance to the Caribbean, offering adult-only voyages aboard intimate, all-veranda ships. Unlike mainstream Caribbean cruises, Viking focuses on cultural immersion, with overnight stays in key ports and enrichment programs led by resident historians and local experts. The line's smaller vessels access boutique harbours unreachable by mega-ships, from Bequia's pristine beaches to Bonaire's marine reserves. Expect spa-inspired staterooms, Nordic-influenced cuisine featuring regional Caribbean ingredients, and inclusive shore excursions that delve beyond beaches into colonial architecture, rum heritage, and indigenous traditions. With no casinos, no formal nights, and no children under 18, Viking's Caribbean itineraries attract discerning travellers seeking tranquility and authentic connection. The 2026 season expands with new routes through the Lesser Antilles and extended Panama Canal crossings, combining tropical relaxation with genuine exploration.",
+  "quick_facts": {
+    "price_from_eur": 3899,
+    "duration_range": "11-21 nights",
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "ships_on_route": [
+      "Viking Sea",
+      "Viking Star",
+      "Viking Sky"
+    ],
+    "departure_ports": [
+      "San Juan",
+      "Bridgetown",
+      "Fort Lauderdale"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Jan-Mar)",
+      "inside_eur": 0,
+      "balcony_eur": 4899,
+      "suite_eur": 7899
+    },
+    {
+      "season": "Shoulder (Nov-Dec, Apr)",
+      "inside_eur": 0,
+      "balcony_eur": 3899,
+      "suite_eur": 6299
+    },
+    {
+      "season": "Low (May-Oct)",
+      "inside_eur": 0,
+      "balcony_eur": 3299,
+      "suite_eur": 5299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "West Indies Explorer",
+      "duration_nights": 11,
+      "ports": [
+        "San Juan",
+        "Tortola",
+        "St. John's",
+        "Castries",
+        "Bridgetown",
+        "Roseau",
+        "Gustavia",
+        "Philipsburg"
+      ],
+      "price_from_eur": 3899,
+      "highlight": "Overnight in Bridgetown with exclusive rum distillery access"
+    },
+    {
+      "name": "Caribbean & Central America",
+      "duration_nights": 15,
+      "ports": [
+        "Miami",
+        "Cozumel",
+        "Belize City",
+        "Roatán",
+        "Puerto Limón",
+        "Colón",
+        "Cartagena",
+        "Oranjestad"
+      ],
+      "price_from_eur": 5299,
+      "highlight": "Full Panama Canal transit with expert narration"
+    },
+    {
+      "name": "Southern Caribbean Sojourn",
+      "duration_nights": 14,
+      "ports": [
+        "Bridgetown",
+        "Bequia",
+        "St. George's",
+        "Willemstad",
+        "Kralendijk",
+        "Oranjestad",
+        "Castries"
+      ],
+      "price_from_eur": 4599,
+      "highlight": "Rare visit to unspoiled Bequia with beach barbecue"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Viking Sea",
+      "capacity": 930,
+      "year": 2016,
+      "best_for": "Culture-focused couples",
+      "price_from_eur": 3899
+    },
+    {
+      "name": "Viking Star",
+      "capacity": 930,
+      "year": 2015,
+      "best_for": "First-time Viking guests",
+      "price_from_eur": 3999
+    },
+    {
+      "name": "Viking Sky",
+      "capacity": 930,
+      "year": 2017,
+      "best_for": "Wellness enthusiasts",
+      "price_from_eur": 4099
+    }
+  ],
+  "whats_included": [
+    "All veranda stateroom",
+    "All meals including specialty restaurants",
+    "Beer, wine, soft drinks with lunch and dinner",
+    "One included shore excursion per port",
+    "Wi-Fi",
+    "Self-service laundry",
+    "24-hour room service",
+    "Lectures and enrichment programs",
+    "Access to Nordic spa thermal suite",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Premium beverages and cocktails",
+    "Spa treatments and salon services",
+    "Additional shore excursions beyond the included option",
+    "Airfare (unless promotional package)",
+    "Pre- and post-cruise hotel stays",
+    "Travel insurance",
+    "Gratuities (automatically charged)",
+    "Photography and retail purchases"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for optimal cabin selection and early booking discounts up to EUR 1,200; wave season (January-March) offers strongest incentives including free airfare and reduced deposits",
+  "top_ports": [
+    {
+      "port": "Bridgetown, Barbados",
+      "time_in_port": "8am-6pm (overnight on select itineraries)",
+      "top_activity": "Mount Gay Rum Distillery heritage tour (included)",
+      "tip": "Request overnight itinerary for evening jazz scene"
+    },
+    {
+      "port": "Willemstad, Curaçao",
+      "time_in_port": "8am-11pm",
+      "top_activity": "Snorkel at Playa Grandi with sea turtles (EUR 89)",
+      "tip": "Walk the Handelskade for Instagram-worthy architecture"
+    },
+    {
+      "port": "Gustavia, St. Barts",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Catamaran circumnavigation with champagne (EUR 159)",
+      "tip": "Bring euros; French Caribbean pricing applies"
+    },
+    {
+      "port": "Kralendijk, Bonaire",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Washington Slagbaai National Park 4WD (EUR 109)",
+      "tip": "Reserve diving excursions 90 days pre-cruise"
+    },
+    {
+      "port": "Castries, St. Lucia",
+      "time_in_port": "10am-7pm",
+      "top_activity": "Piton hike with mud baths (EUR 129)",
+      "tip": "Afternoon departure maximizes beach time"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Viking Cruises Caribbean cruise cost?",
+      "answer": "Viking Caribbean cruises start from EUR 3,899 for an 11-night itinerary in shoulder season, with peak winter departures ranging EUR 4,899-5,299 for veranda staterooms. Suites command EUR 6,299-7,899 depending on season. Unlike mainstream lines, Viking has no interior cabins—all accommodations feature private balconies. The fare includes more than competitors: meals, beer/wine at meals, one excursion per port, Wi-Fi, and spa access. Airfare promotions frequently reduce total cost. For comparison, a 14-night Viking sailing typically costs 40% less than luxury competitors when inclusions are factored. Payment plans and future cruise credits can improve affordability."
+    },
+    {
+      "question": "Which Viking Cruises ships sail to Caribbean?",
+      "answer": "Viking deploys its 930-guest ocean ships to Caribbean waters: Viking Sea, Viking Star, and Viking Sky rotate seasonally. These identical sister vessels, launched 2015-2017, feature all-veranda staterooms, infinity pools, and Scandinavian design by London's SMC Design. None carry more than 930 guests, enabling access to intimate harbours like Bequia and Gustavia. Viking Venus and Viking Mars occasionally substitute during repositioning. The ships' shallow draft (6.3 metres) allows navigation closer to islands than larger vessels. Each carries resident lecturers, destination performers, and local chefs for immersive programming. Thermal suite spa complexes with snow grotto are signature features."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "January through March delivers ideal conditions: minimal rainfall, steady 26-29°C temperatures, and lowest hurricane risk. This peak season commands premium pricing but guarantees optimal beach and excursion weather. November-December and April offer shoulder-season savings with generally favourable conditions, though brief showers occur. May brings humidity and rising temperatures. June-November constitutes low season with hurricane potential; Viking's flexible rebooking policies mitigate risk. December holidays see highest demand and pricing. For divers, visibility peaks February-April. Cultural travellers should target January (Barbados Jazz Festival) or March (Curaçao Carnival). Viking's smaller ships navigate choppy winter seas more comfortably than mega-liners."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Viking's inclusive model covers all veranda accommodations, all dining including specialty restaurants Manfredi's and The Chef's Table, beer and wine with lunch and dinner, one shore excursion per port, unlimited Wi-Fi, self-service laundry, 24-hour room service, port charges, and access to the Nordic spa thermal suite. Enrichment programming—lectures, cooking demonstrations, port talks—is complimentary. Gratuities, while technically extra, are automatically applied (EUR 15-18 daily) and can be adjusted. Not included: premium spirits, additional excursions, spa treatments, and airfare unless promotional. This structure eliminates onboard spending anxiety; most guests report minimal additional charges. The included excursion typically covers highlights, with premium alternatives available."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Viking's Caribbean itineraries emphasize Lesser Antilles destinations inaccessible to larger vessels: Bequia, Tobago Cays, Dominica, and St. Barts feature prominently. Eastern Caribbean routes from San Juan or Bridgetown visit British and French Windward Islands. Southern Caribbean sailings include ABC islands (Aruba, Bonaire, Curaçao) with extended evening stays. Panama Canal crossings combine Caribbean ports with Costa Rica and Colombia. Unlike mainstream lines, Viking avoids private islands and commercialized Nassau, favouring authentic harbours with cultural depth. Overnight stays in Bridgetown and Oranjestad enable evening exploration. Port times typically exceed industry averages (10-12 hours versus 6-8), supporting immersive experiences. Tender operations in boutique anchorages like Bequia are weather-dependent."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure preferred staterooms and itineraries 9-18 months in advance, particularly for winter peak season when 70% capacity sells by mid-year prior. Viking's release schedule typically opens 18-24 months ahead. Early booking yields maximum savings: EUR 1,000-1,200 discounts, reduced deposits (EUR 500 versus EUR 1,500), and complimentary airfare promotions. Wave season (January-March) offers strongest incentives for booking 2026 sailings. Last-minute Caribbean availability is rare given limited inventory and high repeat guest loyalty. Concierge and Penthouse Junior Suites sell fastest. If specific dates are flexible, 6-9 months ahead may yield shoulder-season value. Viking's risk-free 24-hour cancellation applies to all bookings."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Viking Cruises maintains an adults-only policy: minimum age 18, with no exceptions. This policy shapes every aspect of the Caribbean experience—no children's programming, no family suites, no water slides or arcades. The decision reflects founder Torstein Hagen's vision of serene, culturally-focused travel. For multi-generational groups, this presents clear constraints. However, adult children (18+) and parents find Viking ideal for reconnection without distraction. The intimate scale, enrichment focus, and refined atmosphere suit mature family members seeking shared learning. Families with younger children should consider mainstream or premium lines. Viking's demographic skews 55-75, though culturally-curious 45+ travellers increasingly select Caribbean itineraries for the intellectual programming."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Viking's cancellation structure penalizes closer to departure: 121+ days prior loses deposit only; 120-91 days forfeits 15% of fare; 90-61 days loses 35%; 60-31 days loses 50%; 30 days or less forfeits 100%. Travel insurance, strongly recommended, covers medical and unforeseen circumstances. Viking's 'Risk-Free Guarantee' permits one penalty-free rebooking if cancelled within 24 hours of reservation. For 2026 Caribbean bookings, 'Peace of Mind' policies may extend flexibility—verify current terms at booking. COVID-era protocols evolved; standard terms now apply. Cancel for Any Reason coverage (70% future cruise credit) is available as upgrade. Group bookings (8+ staterooms) follow modified schedules with earlier penalty thresholds."
+    }
+  ]
+}

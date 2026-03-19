@@ -1,0 +1,220 @@
+{
+  "title": "Princess Cruises Norwegian Fjords Cruises 2026",
+  "intro": "Princess Cruises brings 50+ years of Alaska and Northern Europe expertise to Norwegian Fjords sailings, offering unmatched glacier viewing from purpose-built ships. Their MedallionClass technology enhances the journey with seamless embarkation and personalized service throughout your voyage. The line's exclusive partnership with Discovery means expert-led excursions to UNESCO-listed Geirangerfjord and Nærøyfjord. Onboard, the North to Alaska enrichment program brings regional culture to life with local seafood feasts, fjord folklore presentations, and Norwegian aquavit tastings. Princess extends evening port stays in Bergen and Stavanger, allowing guests to experience the midnight sun or northern lights depending on season. The Sanctuary adults-only retreat and expansive glass-walled venues maximize scenic cruising through dramatic cliff-lined waterways.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July"
+    ],
+    "ships_on_route": [
+      "Sky Princess",
+      "Emerald Princess",
+      "Regal Princess"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Copenhagen",
+      "Warnemünde"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (May/September)",
+      "inside_eur": 849,
+      "balcony_eur": 1249,
+      "suite_eur": 2199
+    },
+    {
+      "season": "Peak (June-August)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2899
+    },
+    {
+      "season": "Northern Lights (September-October)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2499
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Scandinavia & Norway",
+      "duration_nights": 7,
+      "ports": [
+        "Southampton",
+        "Stavanger",
+        "Olden",
+        "Hellesylt",
+        "Geiranger",
+        "Bergen",
+        "Southampton"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Sail into Geirangerfjord past Seven Sisters Waterfall"
+    },
+    {
+      "name": "14-night Iceland & Norway Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Bergen",
+        "Ålesund",
+        "Geiranger",
+        "Reykjavik",
+        "Isafjordur",
+        "Akureyri",
+        "Lerwick",
+        "Southampton"
+      ],
+      "price_from_eur": 1799,
+      "highlight": "Combines Norwegian fjords with Iceland's volcanic landscapes"
+    },
+    {
+      "name": "11-night Grand Scandinavia",
+      "duration_nights": 11,
+      "ports": [
+        "Copenhagen",
+        "Oslo",
+        "Aarhus",
+        "Berlin",
+        "Stockholm",
+        "Helsinki",
+        "St. Petersburg",
+        "Tallinn",
+        "Copenhagen"
+      ],
+      "price_from_eur": 1399,
+      "highlight": "Baltic capitals paired with Norway's southern coast"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Sky Princess",
+      "capacity": 3660,
+      "year": 2019,
+      "best_for": "Scenic viewing",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Emerald Princess",
+      "capacity": 3080,
+      "year": 2007,
+      "best_for": "Intimate fjord experience",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Regal Princess",
+      "capacity": 3560,
+      "year": 2014,
+      "best_for": "Families and multigenerational groups",
+      "price_from_eur": 949
+    },
+    {
+      "name": "Island Princess",
+      "capacity": 2216,
+      "year": 2003,
+      "best_for": "Panama Canal-style intimate cruising",
+      "price_from_eur": 1099
+    }
+  ],
+  "whats_included": [
+    "All main dining room meals",
+    "Buffet restaurant access",
+    "Princess Live! entertainment",
+    "Movies Under the Stars",
+    "Fitness center access",
+    "Medallion device and OceanNow service",
+    "Port taxes and fees",
+    "Children's clubs (3-17 years)",
+    "Daily production shows",
+    "Enrichment lectures"
+  ],
+  "whats_extra": [
+    "Premier Beverage Package (€59/day)",
+    "Specialty restaurants (€29-45/person)",
+    "Shore excursions (€89-399)",
+    "Wi-Fi packages (€15-25/day)",
+    "The Sanctuary retreat access (€20/half-day)",
+    "Laundry services",
+    "Spa treatments",
+    "Casino gaming",
+    "Photos and artwork"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection on starboard side for fjord viewing; balcony cabins sell out first. Wave season (January-March) offers lowest deposits and up to 40% savings. Past guests receive Captain's Circle discounts of 5-10%. Solo travelers should book early as single supplements apply. Consider EZair flexible air add-ons for seamless transfers.",
+  "top_ports": [
+    {
+      "port": "Geiranger",
+      "time_in_port": "7am-2pm",
+      "top_activity": "Dalsnibba viewpoint excursion (€89)",
+      "tip": "Book port side cabin for sail-in views of Seven Sisters Waterfall"
+    },
+    {
+      "port": "Bergen",
+      "time_in_port": "8am-5pm (overnight on some sailings)",
+      "top_activity": "Fløibanen funicular and Bryggen walking tour (€65)",
+      "tip": "Evening departure allows dinner at waterfront fish market"
+    },
+    {
+      "port": "Stavanger",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Pulpit Rock hike (€189)",
+      "tip": "Requires advance booking; moderate fitness essential"
+    },
+    {
+      "port": "Olden",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Briksdal Glacier excursion (€79)",
+      "tip": "Troll cars available for those avoiding steep hike"
+    },
+    {
+      "port": "Ålesund",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Art Nouveau walking tour and Sunnmøre Museum (€55)",
+      "tip": "Town compact; easy independent exploration"
+    },
+    {
+      "port": "Hellesylt",
+      "time_in_port": "Tender port 10am-2pm",
+      "top_activity": "Kayaking in Storfjord (€129)",
+      "tip": "Limited tender capacity; book excursions early"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Norwegian Fjords cruise cost?",
+      "answer": "Princess Norwegian Fjords cruises start from €849 per person for inside cabins during shoulder season (May/September), rising to €1,199 in peak summer months. Balcony cabins, essential for fjord viewing, range €1,249-1,699. Mini-suites begin around €1,899 while full suites command €2,199-2,899. Solo travelers pay 150-200% supplement. Past guests receive 5-10% Captain's Circle discounts. All fares include main dining, entertainment, and port taxes; beverages, Wi-Fi, and excursions cost extra. Early booking and wave season promotions can reduce fares 30-40%."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Norwegian Fjords?",
+      "answer": "Princess deploys four ships on Norwegian Fjords routes in 2026: Sky Princess (2019, 3,660 passengers) with the line's largest balconies and OceanMedallion technology; Emerald Princess (2007, 3,080 passengers) offering intimate scale ideal for narrow fjords; Regal Princess (2014, 3,560 passengers) featuring expanded youth facilities for family sailings; and Island Princess (2003, 2,216 passengers) on select longer itineraries. All feature Princess's signature Movies Under the Stars and extensive glass-walled venues for scenic cruising. Sky and Regal offer the most balcony cabins proportionally."
+    },
+    {
+      "question": "When is best time to cruise Norwegian Fjords?",
+      "answer": "June and July deliver the most reliable weather, longest daylight hours (up to 19 hours), and peak waterfall flow from snowmelt—ideal for photography. May offers fewer crowds, lower prices, and blooming fruit orchards, though some mountain roads remain closed. August brings warmest temperatures (15-20°C) and best hiking conditions. September-October attracts northern lights seekers and autumn foliage enthusiasts with cooler temperatures and reduced prices. Princess extends the season into October specifically for aurora viewing on select sailings. Avoid late October when daylight diminishes rapidly."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Norwegian Fjords fares include all main dining room meals, buffet access, room service, daily production shows, live music, fitness center, swimming pools, hot tubs, children's and teen clubs, enrichment lectures, and port taxes. The OceanMedallion wearable enables touchless boarding, cabin access, and OceanNow food and drink delivery anywhere on ship. Complimentary ice cream, pastries, and afternoon tea are offered daily. What's excluded: alcoholic beverages, specialty dining, Wi-Fi, shore excursions, spa services, casino, photos, and laundry. Beverage packages and Wi-Fi bundles can be pre-purchased at 10-15% discount."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess Norwegian Fjords itineraries feature UNESCO-listed Geirangerfjord with its Seven Sisters Waterfall, historic Bergen with Bryggen wharf and Fløibanen funicular, charming Stavanger gateway to Pulpit Rock, glacier-accessible Olden, Art Nouveau Ålesund, and tender-only Hellesylt. Extended 11-14 night sailings add Copenhagen, Oslo, Berlin (Warnemünde), and Baltic capitals. Some itineraries include Iceland's Reykjavik and Akureyri. Princess holds evening departures from Bergen and Stavanger, allowing independent dining ashore. Scenic cruising through Sognefjord (world's longest), Lysefjord, and Aurlandsfjorden occurs without port calls—balcony positioning essential."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Princess Norwegian Fjords cruises 9-12 months ahead for optimal cabin selection, particularly starboard-side balconies for northbound fjord viewing. Wave season (January-March) historically offers lowest fares with reduced deposits. Past Captain's Circle members gain early access 12+ months out. Popular July sailings and suite categories often sell out 6-8 months ahead. Solo travelers face limited inventory and should book earliest. Final payment typically due 90 days before departure. Princess's flexible booking policy allows changes until final payment without penalty on most fares. Consider booking 2026 sailings by March 2025 for best rates."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Norwegian Fjords cruises suit families with children 8+ who appreciate nature and outdoor activity; younger children may find limited dedicated entertainment compared to Caribbean sailings. The Discovery at SEA program offers fjord-focused youth activities including glacier science experiments and Norwegian folklore crafts. Teens enjoy dedicated Remix hangouts. Shore excursions feature family-friendly options: Briksdal Glacier troll car rides, Bergen aquarium visits, and Stavanger's petroleum museum. Pool areas include family zones. However, evening entertainment skews adult, and dining is traditional seated rather than flexible. Consider Regal Princess for most comprehensive youth facilities."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises' Norwegian Fjords cancellation policy charges no penalty until final payment (typically 90 days pre-departure). After final payment: 89-75 days loses deposit; 74-43 days forfeits 25% fare; 42-29 days loses 50%; 28-15 days loses 75%; 14 days or less retains full fare. Cancel For Any Reason protection (€49-99 per person) provides future cruise credit minus penalty if cancelled before departure, or 75% cash refund if purchased within specified window. COVID-19-related cancellations receive full future cruise credit. Travel insurance is strongly recommended given Norway's remote medical facilities and excursion non-refundable deposits."
+    }
+  ]
+}

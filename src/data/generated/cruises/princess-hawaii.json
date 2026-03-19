@@ -1,0 +1,213 @@
+{
+  "title": "Princess Cruises Hawaii Cruises 2026",
+  "intro": "Princess Cruises has been sailing Hawaii since 1965, longer than any other major cruise line, earning them the title of 'Destination Expert' for the Hawaiian Islands. Their exclusive Circle Island itineraries offer the only cruise experience that visits four Hawaiian islands in seven days without international stops, maximizing your time exploring rather than sailing. Princess holds a long-term lease on Lahaina Pier in Maui and maintains dedicated facilities at Honolulu's Pier 2, ensuring seamless embarkation and priority port access. Their onboard programming features authentic Hawaiian cultural ambassadors, ukulele lessons, hula dancing, and regionally inspired cuisine developed with local chefs. The line's 'Aloha Spirit' programming extends beyond typical cruise entertainment, offering passengers genuine connections to Hawaiian heritage, language, and traditions that transform a vacation into an immersive cultural journey through paradise.",
+  "quick_facts": {
+    "price_from_eur": 899,
+    "duration_range": "7-15 nights",
+    "best_months": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Crown Princess",
+      "Grand Princess",
+      "Ruby Princess",
+      "Discovery Princess"
+    ],
+    "departure_ports": [
+      "Honolulu",
+      "Vancouver",
+      "Los Angeles",
+      "San Francisco"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Mar)",
+      "inside_eur": 1199,
+      "balcony_eur": 1899,
+      "suite_eur": 3299
+    },
+    {
+      "season": "Shoulder (Apr-May, Sep-Nov)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2299
+    },
+    {
+      "season": "Low (Jun-Aug)",
+      "inside_eur": 999,
+      "balcony_eur": 1599,
+      "suite_eur": 2699
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "Hawaiian Islands 7-Night",
+      "duration_nights": 7,
+      "ports": [
+        "Honolulu",
+        "Nawiliwili",
+        "Lahaina",
+        "Hilo",
+        "Kailua Kona",
+        "Honolulu"
+      ],
+      "price_from_eur": 899,
+      "highlight": "Circle Island itinerary with four islands, no sea days"
+    },
+    {
+      "name": "Hawaii & South Pacific Crossing",
+      "duration_nights": 15,
+      "ports": [
+        "Vancouver",
+        "Hilo",
+        "Honolulu",
+        "Nawiliwili",
+        "Lahaina",
+        "Kailua Kona",
+        "Vancouver"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Scenic Pacific crossing with extended island exploration"
+    },
+    {
+      "name": "California Coast & Hawaii",
+      "duration_nights": 14,
+      "ports": [
+        "Los Angeles",
+        "Hilo",
+        "Honolulu",
+        "Nawiliwili",
+        "Lahaina",
+        "Ensenada",
+        "Los Angeles"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Combines Mexican Riviera with full Hawaiian immersion"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Discovery Princess",
+      "capacity": 3660,
+      "year": 2022,
+      "best_for": "Modern luxury seekers",
+      "price_from_eur": 1099
+    },
+    {
+      "name": "Crown Princess",
+      "capacity": 3080,
+      "year": 2006,
+      "best_for": "Traditional cruisers",
+      "price_from_eur": 899
+    },
+    {
+      "name": "Grand Princess",
+      "capacity": 3080,
+      "year": 1998,
+      "best_for": "Value-conscious travelers",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Ruby Princess",
+      "capacity": 3080,
+      "year": 2008,
+      "best_for": "Romantic getaways",
+      "price_from_eur": 949
+    }
+  ],
+  "whats_included": [
+    "Accommodation",
+    "All main dining room meals",
+    "Buffet breakfast, lunch and dinner",
+    "Poolside snacks and soft serve ice cream",
+    "Broadway-style production shows",
+    "Live music and nightclub entertainment",
+    "Fitness center and sports court access",
+    "Youth and teen programming",
+    "Port lectures and destination presentations",
+    " onboard cultural activities with Hawaiian ambassadors"
+  ],
+  "whats_extra": [
+    "Beverage packages (EUR 59-79/day)",
+    "Specialty restaurants (EUR 29-45/person)",
+    "Shore excursions (EUR 89-449)",
+    "Spa treatments and salon services",
+    "WiFi packages (EUR 15-25/day)",
+    "Laundry and dry cleaning",
+    "Gratuities (EUR 16-18/person/day)",
+    "Photography services",
+    "Casino gaming",
+    "Airport transfers"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking savings up to 35%. Princess releases Hawaii itineraries 18 months in advance. Consider repositioning cruises in April/May and September for lowest fares. Balcony cabins strongly recommended for scenic cruising past Na Pali Coast and volcanic landscapes. Look for 'Plus' and 'Premier' fare bundles that include drinks, WiFi, and gratuities for better value.",
+  "top_ports": [
+    {
+      "port": "Honolulu, Oahu",
+      "time_in_port": "Overnight (7am Day 1, 4pm Day 2)",
+      "top_activity": "Pearl Harbor USS Arizona Memorial (EUR 65)",
+      "tip": "Arrive two days early to acclimate and explore Waikiki"
+    },
+    {
+      "port": "Nawiliwili, Kauai",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Helicopter tour of Na Pali Coast (EUR 389)",
+      "tip": "Morning flights have best visibility; book pre-cruise"
+    },
+    {
+      "port": "Lahaina, Maui",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Road to Hana excursion (EUR 199)",
+      "tip": "Princess has dedicated pier access—no tendering delays"
+    },
+    {
+      "port": "Hilo, Hawaii Island",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Volcanoes National Park (EUR 149)",
+      "tip": "Rain gear essential; Hilo receives 130 inches annually"
+    },
+    {
+      "port": "Kailua Kona, Hawaii Island",
+      "time_in_port": "7am-5:30pm",
+      "top_activity": "Manta ray night snorkel (EUR 129)",
+      "tip": "Kona's calm waters ideal for ocean activities"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Hawaii cruise cost?",
+      "answer": "Princess Cruises Hawaii itineraries typically range from EUR 899 to EUR 3,299 per person for cruise-only fares. Seven-night Circle Island sailings start around EUR 899 inside, EUR 1,399 balcony, and EUR 2,299 suite during shoulder seasons. Peak December through March pricing increases 30-40%. Fifteen-night repositioning cruises from Vancouver offer exceptional value starting at EUR 1,499. Additional costs include gratuities (EUR 16-18/day), beverage packages (EUR 59-79/day), and shore excursions averaging EUR 150 per port. Princess frequently offers '3rd/4th guest free' promotions for families, and their 'Best Price Guarantee' provides onboard credit if fares drop after booking."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Hawaii?",
+      "answer": "Princess deploys four ships to Hawaii in 2026: Discovery Princess (newest, 2022) offers the most modern amenities including the OceanMedallion wearable technology; Crown Princess provides reliable, traditional cruising with excellent enrichment programming; Grand Princess, the line's Hawaii veteran with the most experienced crew for these itineraries; and Ruby Princess, popular for romantic getaways with its adults-only Sanctuary retreat. All four are Grand-class or Royal-class vessels carrying approximately 3,000-3,660 passengers. Discovery Princess operates primarily from Los Angeles and Vancouver, while Crown and Grand Princess homeport in Honolulu for round-trip seven-night itineraries. Ship assignments rotate seasonally based on maintenance schedules."
+    },
+    {
+      "question": "When is best time to cruise Hawaii?",
+      "answer": "April through May and September through October offer optimal Hawaii cruising conditions with pleasant temperatures (24-28°C), minimal rainfall, and lower prices than peak season. These shoulder months feature calmer seas for the Pacific crossing and less humidity for hiking and exploration. Whale watching peaks January through March when humpbacks populate Hawaiian waters—spectacular but crowded and expensive. Summer brings families and higher temperatures but reliable weather. Avoid late December through early January for highest fares and busiest ports. Princess's Circle Island itinerary operates year-round, though Vancouver departures are limited to April-October due to Alaska season commitments. Hawaiian cultural festivals like Merrie Monarch (April) and Aloha Festivals (September) enhance specific sailings."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Hawaii cruises include accommodation, all main dining room meals, buffet dining, poolside snacks, soft-serve ice cream, and select beverages (coffee, tea, water, lemonade). Entertainment encompasses Broadway-style production shows, live music, comedy, nightclub access, and the unique 'Aloha Spirit' cultural programming with Hawaiian ambassadors teaching hula, ukulele, and language. Fitness center, sports courts, and youth programming for ages 3-17 are included. Port lectures and destination briefings prepare guests for each island. Not included are alcoholic beverages, specialty dining, shore excursions, WiFi, spa services, and gratuities. Princess offers 'Princess Plus' (EUR 50/day) adding drinks, WiFi, and gratuities, or 'Princess Premier' (EUR 70/day) adding specialty dining and photo packages for comprehensive value."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess's signature Hawaiian itinerary visits four islands: Oahu (Honolulu, overnight allowing Pearl Harbor and Waikiki exploration), Kauai (Nawiliwili, gateway to Waimea Canyon and Na Pali Coast), Maui (Lahaina, with dedicated Princess pier access), and Hawaii Island (Hilo for volcanoes and Kailua Kona for coffee culture and manta rays). The seven-night Circle Island route eliminates sea days, maximizing port time. Extended itineraries add Ensenada, Mexico for Pacific crossings or combine with Alaska seasons through Vancouver. Princess holds exclusive long-term pier leases at Lahaina and Honolulu, ensuring priority docking without tendering delays experienced by competitors. Each port offers 8-12 hours ashore with Princess's own shore excursion team providing curated experiences from EUR 89-449."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Princess Hawaii cruises 9-12 months ahead for optimal cabin selection, particularly balcony categories facing starboard for Na Pali Coast scenic cruising. Princess releases itineraries 18 months in advance; early booking typically saves 25-35% through 'Early Booking Savings' promotions. Holiday sailings (Christmas, New Year, Easter) and whale season (January-March) require 12-18 month advance booking for availability. Last-minute deals occasionally appear 60-90 days before sailing for flexible travelers, though cabin location and dining preferences may be limited. Princess's 'Future Cruise Deposit' program allows onboard booking with reduced deposits and additional onboard credit. Group bookings (8+ cabins) should secure space 12-18 months ahead with flexible payment terms and potential group amenities."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Hawaii cruises suit families with children ages 6+ who can appreciate cultural programming and extended port days. The Discovery and Royal-class ships feature expanded Camp Discovery youth facilities with Hawaii-themed activities including volcano science and marine biology programs. Teens enjoy dedicated Remix spaces and shore excursion options like surfing lessons and ziplining. However, Princess positions itself as 'adult-oriented' compared to Carnival or Royal Caribbean—no water slides, fewer character experiences, and quieter evening atmosphere. Families benefit from 'Third and Fourth Guest Free' promotions making balcony cabins economical for four. The educational value of Hawaiian cultural immersion appeals to homeschooling families. Young children (under 3) have limited programming; consider Disney or Norwegian for toddler-focused amenities. Connecting cabins and family suites are limited—book early."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess Cruises' standard cancellation policy for Hawaii sailings charges deposits (typically EUR 250-450 per person) if cancelled 90+ days before departure. Between 89-60 days, penalty increases to 50% of total fare; 59-30 days, 75% penalty; under 30 days, 100% forfeiture. 'Princess Plus' and 'Premier' fare bundles have stricter terms with deposits becoming non-refundable immediately. Princess offers 'Princess Vacation Protection' insurance (EUR 129-249 per person) covering cancellation for covered reasons with 100% cash refund or cancellation for any reason with 75% future cruise credit. COVID-19 protocols remain flexible with 'Cruise with Confidence' allowing rebooking without penalty if health conditions change. Group bookings and charter rates carry separate cancellation terms. Always purchase travel insurance separately for comprehensive medical and evacuation coverage in remote Hawaiian waters."
+    }
+  ]
+}

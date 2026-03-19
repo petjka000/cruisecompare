@@ -1,0 +1,214 @@
+{
+  "title": "MSC Cruises Caribbean Cruises 2026",
+  "intro": "MSC Cruises brings its distinctive European flair to the Caribbean, offering exceptional value for travellers seeking international sophistication without premium pricing. The Swiss-Italian cruise line operates year-round Caribbean sailings from Miami and seasonal departures from Mediterranean hubs, combining Old World hospitality with tropical island exploration. MSC's Caribbean fleet features some of the newest ships in the region, boasting impressive water parks, expansive pool decks, and multilingual entertainment that appeals to cosmopolitan travellers. The line's private island, Ocean Cay MSC Marine Reserve in the Bahamas, serves as an exclusive highlight—an ecological marine sanctuary with pristine beaches, lagoons, and Bahamian cultural experiences unavailable elsewhere. With competitive pricing, children's clubs that operate in multiple languages, and a growing emphasis on North American service standards, MSC has become a compelling alternative for Caribbean cruisers seeking something beyond the traditional offerings.",
+  "quick_facts": {
+    "price_from_eur": 699,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "ships_on_route": [
+      "MSC Seascape",
+      "MSC Seaside",
+      "MSC Meraviglia",
+      "MSC Divina"
+    ],
+    "departure_ports": [
+      "Miami",
+      "Port Canaveral",
+      "New York"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Peak (Dec-Feb)",
+      "inside_eur": 899,
+      "balcony_eur": 1399,
+      "suite_eur": 2499
+    },
+    {
+      "season": "Shoulder (Mar-May, Nov)",
+      "inside_eur": 749,
+      "balcony_eur": 1099,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Low (Jun-Oct)",
+      "inside_eur": 699,
+      "balcony_eur": 999,
+      "suite_eur": 1599
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Eastern Caribbean",
+      "duration_nights": 7,
+      "ports": [
+        "Miami",
+        "Ocean Cay MSC Marine Reserve",
+        "San Juan",
+        "Puerto Plata"
+      ],
+      "price_from_eur": 699,
+      "highlight": "Exclusive Ocean Cay private island with overnight stays available"
+    },
+    {
+      "name": "7-night Western Caribbean",
+      "duration_nights": 7,
+      "ports": [
+        "Miami",
+        "Cozumel",
+        "Costa Maya",
+        "Ocean Cay MSC Marine Reserve"
+      ],
+      "price_from_eur": 749,
+      "highlight": "Mayan ruins and Mexican Riviera combined with private island"
+    },
+    {
+      "name": "10-night Southern Caribbean",
+      "duration_nights": 10,
+      "ports": [
+        "Miami",
+        "Aruba",
+        "Curaçao",
+        "St. Maarten",
+        "San Juan"
+      ],
+      "price_from_eur": 1099,
+      "highlight": "Deeper Caribbean exploration with ABC islands"
+    },
+    {
+      "name": "14-night Caribbean & Bermuda",
+      "duration_nights": 14,
+      "ports": [
+        "New York",
+        "Bermuda",
+        "Port Canaveral",
+        "Ocean Cay MSC Marine Reserve",
+        "Nassau"
+      ],
+      "price_from_eur": 1499,
+      "highlight": "Extended voyage combining Bermuda and tropical Caribbean"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "MSC Seascape",
+      "capacity": 5877,
+      "year": 2022,
+      "best_for": "Families & Active Travellers",
+      "price_from_eur": 799
+    },
+    {
+      "name": "MSC Seaside",
+      "capacity": 5336,
+      "year": 2017,
+      "best_for": "Beach-Lovers & Outdoor Enthusiasts",
+      "price_from_eur": 749
+    },
+    {
+      "name": "MSC Meraviglia",
+      "capacity": 5714,
+      "year": 2017,
+      "best_for": "Entertainment Seekers & Tech-Focused Guests",
+      "price_from_eur": 699
+    },
+    {
+      "name": "MSC Divina",
+      "capacity": 4345,
+      "year": 2012,
+      "best_for": "Value-Conscious Travellers & Couples",
+      "price_from_eur": 649
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals (breakfast, lunch, dinner)",
+    "Buffet restaurant access throughout day",
+    "Basic coffee, tea, water at meals",
+    "Live entertainment and theatre shows",
+    "Pool and fitness centre access",
+    "Kids' club programmes (ages 3-17)",
+    "Port taxes and fees"
+  ],
+  "whats_extra": [
+    "Beverage packages (alcoholic and premium non-alcoholic)",
+    "Specialty dining restaurants",
+    "Spa treatments and salon services",
+    "Shore excursions and port activities",
+    "WiFi packages",
+    "Laundry and dry cleaning",
+    "Gratuities (€10-12 per person per day recommended)",
+    "Photos and retail purchases",
+    "Casino gaming"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking discounts up to 40%. MSC frequently runs 'Wave Season' promotions January-March with reduced deposits and onboard credit. Consider repositioning cruises for exceptional value. Yacht Club suites offer priority boarding, dedicated concierge, and exclusive areas—book these 12+ months ahead as inventory is limited. MSC's status match programme allows loyalty benefits from other cruise lines and hotel programmes.",
+  "top_ports": [
+    {
+      "port": "Ocean Cay MSC Marine Reserve",
+      "time_in_port": "7am-6pm (overnight on select sailings)",
+      "top_activity": "Lighthouse bar sunset cocktails (€15) or snorkelling lagoon (€35)",
+      "tip": "Reserve cabanas 90 days pre-cruise; lighthouse climb free at sunset"
+    },
+    {
+      "port": "Nassau, Bahamas",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Atlantis Aquaventure (€189) or Blue Lagoon Island dolphin encounter (€145)",
+      "tip": "Walk to Junkanoo Beach for free local experience; avoid cruise-organised Atlantis transport"
+    },
+    {
+      "port": "San Juan, Puerto Rico",
+      "time_in_port": "7am-2pm or 2pm-8pm",
+      "top_activity": "El Yunque rainforest hike (€89) or Old San Juan food tour (€65)",
+      "tip": "Evening departures allow dinner ashore—book La Factoría or Marmalade in advance"
+    },
+    {
+      "port": "Cozumel, Mexico",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Palancar Reef snorkelling (€55) or Mayan ruins at Tulum (€129)",
+      "tip": "Taxi to Playa Palancar for independent beach day at fraction of excursion cost"
+    },
+    {
+      "port": "Aruba",
+      "time_in_port": "8am-8pm",
+      "top_activity": "De Palm Island all-inclusive (€89) or Arikok National Park 4x4 (€95)",
+      "tip": "Late departure permits sunset at California Lighthouse—taxi recommended over ship excursion"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a MSC Cruises Caribbean cruise cost?",
+      "answer": "MSC Caribbean cruises represent exceptional value in the premium market, with 7-night itineraries starting from €699 per person for interior cabins during low season. Balcony staterooms typically range €999-€1,399, while Yacht Club suites begin around €2,499. Peak holiday periods (Christmas, New Year, February half-term) command 30-40% premiums. MSC's pricing often undercuts competitors by €200-€400 for comparable sailings, though beverage packages (€40-€60 per day) and gratuities (€10-€12 daily) add to total cost. Families benefit from reduced children's fares and frequent 'kids sail free' promotions."
+    },
+    {
+      "question": "Which MSC Cruises ships sail to Caribbean?",
+      "answer": "MSC deploys its newest and largest vessels to Caribbean waters year-round. MSC Seascape (2022, 5,877 passengers) and MSC Seaside (2017, 5,336 passengers) operate from Miami with innovative outdoor promenade designs. MSC Meraviglia (2017, 5,714 passengers) offers Caribbean seasons from Miami and New York, featuring the industry's first LED dome at sea. MSC Divina (2012, 4,345 passengers) provides value-focused Caribbean sailings. All feature extensive water parks, multiple dining venues, and multilingual programming. The line's commitment to the region ensures modern hardware with average ship age under 10 years."
+    },
+    {
+      "question": "When is best time to cruise Caribbean?",
+      "answer": "December through April delivers optimal Caribbean cruising conditions with minimal rainfall, moderate humidity, and reliable temperatures of 24-29°C. January and February particularly suit Europeans escaping winter, though prices peak accordingly. Shoulder months of May and November offer 20-30% savings with acceptable weather risk. Hurricane season (June-November) brings lowest prices but requires travel insurance with weather cancellation coverage. MSC's private island, Ocean Cay, is designed for year-round operation with protected beaches. European school holidays (February half-term, Easter) align perfectly with Caribbean dry season for family travellers."
+    },
+    {
+      "question": "What is included?",
+      "answer": "MSC Caribbean cruises include accommodation, main dining room and buffet meals, basic coffee/tea/water at meals, theatre entertainment, pool and fitness facilities, and supervised kids' clubs. The line's European heritage means longer dinner service hours and multi-course meals are standard. Not included are beverages (even soft drinks), specialty restaurants, WiFi, shore excursions, and gratuities. MSC offers 'Experience' packages—Bella, Fantastica, Aurea, and Yacht Club—each adding incremental inclusions like cabin location priority, beverage packages, or thermal suite access. Yacht Club provides truly all-inclusive experience with butler service and exclusive restaurant access."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "MSC's Caribbean itineraries emphasise their private Ocean Cay MSC Marine Reserve in the Bahamas, featuring on nearly every 7-night sailing with extended or overnight stays. Eastern Caribbean routes include San Juan, Puerto Plata, and St. Thomas. Western Caribbean calls at Cozumel, Costa Maya, and sometimes Belize or Roatán. Southern Caribbean itineraries reach Aruba, Curaçao, and Bonaire from Miami or longer sailings from New York. Seasonal departures from Mediterranean ports (Barcelona, Civitavecchia) offer transatlantic repositioning cruises combining European cities with Caribbean islands. Port times often exceed competitors, particularly at Ocean Cay."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure MSC Caribbean sailings 9-12 months in advance for optimal cabin selection and early booking discounts reaching 40%. Yacht Club suites require 12-18 month lead times due to limited inventory. Wave Season (January-March) brings MSC's most aggressive promotions with reduced deposits and onboard credit. Last-minute deals emerge 60-90 days before sailing for flexible travellers, though cabin categories may be restricted. European school holiday periods (February, Easter, summer) sell out earliest. MSC's flexible booking policy allows changes until final payment, reducing risk of early commitment. Status match programme benefits apply immediately for matched loyalty tiers."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "MSC excels for families seeking international atmosphere and exceptional value. Kids' clubs operate in five languages with dedicated facilities for babies (under 3), children (3-11), and teens (12-17), all complimentary until 11pm. Water parks, bowling alleys, and Formula 1 simulators provide extensive onboard activity. Family cabins accommodate up to six with connecting options. Children's fares are significantly discounted versus competitors. The multilingual environment suits internationally-minded families, though English remains primary service language. Ocean Cay private island offers safe, supervised beach experiences with family-focused amenities. Babysitting services and family disco nights extend entertainment options."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "MSC's Caribbean cancellation policy operates on tiered structure based on departure proximity. Cancellations 90+ days before sailing incur no penalty. 89-60 days: deposit forfeited (typically €200-€400 per person). 59-30 days: 35% of cruise fare. 29-15 days: 75% of cruise fare. 14 days or less: 100% forfeiture. 'Cruise Care' protection plans, available at booking, cover cancellation for covered reasons including illness and provide 'cancel for any reason' options with future cruise credit. COVID-19 policies remain flexible with health-related cancellations receiving full refunds or future cruise credits. Travel insurance with cruise-specific coverage is strongly recommended for Caribbean hurricane season sailings."
+    }
+  ]
+}

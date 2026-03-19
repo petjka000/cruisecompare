@@ -1,0 +1,148 @@
+{
+  "title": "Viking Cruises vs Regent Seven Seas 2026",
+  "intro": "Viking Cruises and Regent Seven Seas represent two distinct approaches to premium ocean cruising. Viking operates a fleet of identical, purpose-built ships with a strict adults-only policy and destination-focused itineraries. Regent Seven Seas offers all-inclusive luxury with spacious suites, complimentary shore excursions, and a more traditional upscale cruise experience. Both target affluent travellers seeking enrichment over entertainment, yet differ fundamentally in pricing structure and inclusions. Viking appeals to culturally curious adults valuing Scandinavian design and educational programming, while Regent attracts those wanting seamless, all-inclusive indulgence with generous space ratios and personalised service.",
+  "at_a_glance": {
+    "viking": {
+      "price_tier": "premium",
+      "avg_7night_inside_eur": 2840
+    },
+    "regent": {
+      "price_tier": "ultra-luxury",
+      "avg_7night_inside_eur": 4850
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Average 7-night fare (lowest cabin)",
+      "viking": "€2,840",
+      "regent": "€4,850"
+    },
+    {
+      "category": "Drinks included",
+      "viking": "Beer, wine, soft drinks with lunch & dinner",
+      "regent": "All beverages including premium spirits"
+    },
+    {
+      "category": "Gratuities",
+      "viking": "Included",
+      "regent": "Included"
+    },
+    {
+      "category": "Shore excursions",
+      "viking": "One free excursion per port",
+      "regent": "Unlimited free excursions"
+    },
+    {
+      "category": "WiFi",
+      "viking": "Included",
+      "regent": "Included"
+    },
+    {
+      "category": "Dining venues",
+      "viking": "7 restaurants (no surcharge)",
+      "regent": "4-6 restaurants (no surcharge)"
+    },
+    {
+      "category": "Cabin sizes (entry-level)",
+      "viking": "14 m² inside, 23 m² veranda",
+      "regent": "No inside cabins; 28 m² veranda minimum"
+    },
+    {
+      "category": "Guest age policy",
+      "viking": "18+ only",
+      "regent": "All ages (limited children's facilities)"
+    },
+    {
+      "category": "Ship capacity",
+      "viking": "930 passengers",
+      "regent": "490-750 passengers"
+    },
+    {
+      "category": "Evening entertainment",
+      "viking": "Lectures, classical music, destination films",
+      "regent": "Production shows, live music, casino"
+    },
+    {
+      "category": "Dress code",
+      "viking": "Elegant casual (no formal nights)",
+      "regent": "Elegant casual to formal optional"
+    },
+    {
+      "category": "Included airfare",
+      "viking": "Available as promotion only",
+      "regent": "Always included with intercontinental flights"
+    }
+  ],
+  "choose_a_if": [
+    "You prefer adults-only environments without children or elaborate entertainment",
+    "You value destination immersion through lectures, documentaries and extended port stays",
+    "You appreciate Scandinavian minimalist design and efficient, uncluttered spaces",
+    "You want premium quality at a lower entry price point with transparent a la carte options",
+    "You prioritise cultural enrichment and educational programming over traditional cruise activities"
+  ],
+  "choose_b_if": [
+    "You desire true all-inclusive convenience with unlimited premium drinks and excursions",
+    "You require spacious suites with minimum 28 m² entry-level accommodation",
+    "You prefer personalised service from higher crew-to-guest ratios (1:1.5 vs 1:2.4)",
+    "You want included business-class intercontinental airfare as standard",
+    "You seek traditional luxury amenities including casino, spa, and multiple entertainment venues"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families with children",
+      "winner": "Regent Seven Seas",
+      "reason": "Viking prohibits under-18s entirely. Regent accepts all ages, though children's programming remains limited compared to mass-market lines."
+    },
+    {
+      "type": "Solo travellers",
+      "winner": "Viking Cruises",
+      "reason": "Viking offers dedicated single cabins without punitive supplements and a sociable, communal atmosphere suited to independent travellers."
+    },
+    {
+      "type": "Celebration travellers",
+      "winner": "Regent Seven Seas",
+      "reason": "Regent's suite upgrades, butler service in higher categories, and special occasion amenities create more memorable milestone celebrations."
+    },
+    {
+      "type": "Active adventurers",
+      "winner": "Viking Cruises",
+      "reason": "Viking's included Nordic spa thermal suite, walking-focused excursions, and expedition-style options in polar regions better suit physically engaged travellers."
+    },
+    {
+      "type": "Culinary enthusiasts",
+      "winner": "Regent Seven Seas",
+      "reason": "Regent's partnership with Le Cordon Bleu, Culinary Arts Kitchen, and gourmet speciality dining edges Viking's excellent but more restrained gastronomy."
+    },
+    {
+      "type": "Budget-conscious luxury seekers",
+      "winner": "Viking Cruises",
+      "reason": "Viking's base fare runs 40-50% lower; add optional packages and still typically spend less than Regent's comprehensive but costly all-inclusive rate."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Value depends on consumption patterns. Viking's lower base fare (€2,840 vs €4,850 for seven nights) suits moderate drinkers and independent excursion planners. Regent's comprehensive inclusion—unlimited premium beverages, all excursions, gratuities, and intercontinental business-class airfare—delivers superior value for travellers who would otherwise purchase these separately. Calculate your typical onboard spending: if exceeding €1,500 per person weekly, Regent likely prevails. Viking's transparent pricing rewards self-disciplined travellers, while Regent eliminates decision fatigue and surprise bills. Both offer early booking incentives; Viking frequently includes airfare promotions that narrow the gap considerably."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Regent Seven Seas accepts children of all ages; Viking enforces a strict 18-plus policy with no exceptions. Families must choose Regent, though with important caveats. Regent provides no dedicated children's facilities, youth counsellors, or age-appropriate programming—unlike Crystal, Seabourn, or expedition lines. Children are welcome but largely self-entertained. Family suites are limited and expensive. For multi-generational groups where adults prioritise luxury and children are mature, self-sufficient travellers, Regent functions adequately. Families requiring structured children's activities should consider mainstream premium lines instead. Viking's adults-only policy creates intentional tranquillity unsuitable for family travel."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Viking's entry-level seven-night Mediterranean sailing averages €2,840 inside or €3,650 veranda; comparable Regent itineraries start at €4,850 for the smallest suite with no inside options. Regent's fare includes business-class intercontinental flights (€1,200-2,000 value), unlimited shore excursions (€150-400 daily value), and premium beverages throughout. Viking includes beer, wine and soft drinks with meals only; spirits cost extra. Shore excursions run €89-299 each. When normalising for inclusions, Regent's effective premium narrows to 30-40% rather than headline 70%. Both lines offer significant early booking discounts, loyalty benefits, and occasional promotions including Viking's popular 2-for-1 airfare deals."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Both excel, but differently. Regent's Culinary Arts Kitchen, Le Cordon Bleu partnership, and speciality venues including Chartreuse (French) and Pacific Rim (Asian) demonstrate culinary ambition. Suite guests enjoy in-suite dining from any restaurant menu. Viking's Manfredi's Italian and Chef's Table tasting menus earn consistent praise, with no surcharges anywhere. Viking emphasises regional destination cuisine and local market sourcing. Regent offers greater variety and formal gastronomy; Viking provides consistent quality with simpler, Nordic-influenced elegance. Regent's room service and suite dining options surpass Viking's more limited in-cabin offerings. Food-focused travellers slightly favour Regent; destination-dining enthusiasts prefer Viking."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Viking suits curious, independent first-timers seeking structured cultural immersion without cruise clichés. The adults-only environment eliminates complexity, while included excursions and transparent pricing reduce decision anxiety. Scandinavian design feels accessible rather than intimidating. Regent's all-inclusive model removes all financial friction—ideal for first-timers fearing surprise bills—though the luxury environment and older demographic may feel imposing. Viking's slightly larger ships (930 vs 490-750 guests) offer more social opportunities for nervous solo travellers. First-timers prioritising relaxation and pampering should choose Regent; those wanting educational engagement and contemporary atmosphere prefer Viking. Both avoid the overwhelming scale of mass-market lines."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamentally, Viking is premium destination-focused cruising for adults; Regent is ultra-luxury all-inclusive hospitality. Viking prohibits children, emphasises enrichment lectures and documentary programming, and maintains Scandinavian efficiency with moderate space ratios. Regent welcomes all ages, prioritises spacious suites and personalised service, and includes virtually everything upfront. Viking's nine identical ships enable consistent, predictable experiences; Regent's four vessels vary in age and character. Viking's included thermal spa and Nordic bathing culture contrast Regent's traditional spa and casino. Dining philosophies differ: Viking's regional, educational approach versus Regent's classical luxury gastronomy. Ultimately, Viking attracts intellectually curious travellers; Regent appeals to indulgence-seeking connoisseurs."
+    }
+  ]
+}

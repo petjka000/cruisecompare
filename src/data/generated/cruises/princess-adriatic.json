@@ -1,0 +1,206 @@
+{
+  "title": "Princess Cruises Adriatic Cruises 2026",
+  "intro": "Princess Cruises brings its signature 'Come Back New' philosophy to the Adriatic Sea, combining immersive destination experiences with refined onboard elegance. Operating from this region for over two decades, Princess offers thoughtfully crafted itineraries that balance iconic Croatian ports with hidden Montenegrin gems and Slovenian coastal treasures. The line's MedallionClass technology enhances Adriatic voyages with seamless navigation through historic old towns and effortless shore excursion coordination. Princess distinguishes itself through extended evening stays in Dubrovnik and Venice, allowing guests to experience these UNESCO cities after day-trippers depart. The onboard enrichment program features regional wine tastings, Croatian cooking demonstrations, and destination lecturers who illuminate Balkan history. With adults-only Sanctuary retreats and Discovery at SEA programs, Princess appeals to culturally curious travelers seeking sophisticated yet accessible Adriatic exploration.",
+  "quick_facts": {
+    "price_from_eur": 849,
+    "duration_range": "7-21 nights",
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "ships_on_route": [
+      "Sun Princess",
+      "Sky Princess",
+      "Island Princess"
+    ],
+    "departure_ports": [
+      "Rome (Civitavecchia)",
+      "Venice",
+      "Athens (Piraeus)"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Shoulder (Apr-May, Oct-Nov)",
+      "inside_eur": 849,
+      "balcony_eur": 1199,
+      "suite_eur": 1899
+    },
+    {
+      "season": "Peak (Jun-Sep)",
+      "inside_eur": 1199,
+      "balcony_eur": 1699,
+      "suite_eur": 2799
+    },
+    {
+      "season": "Holiday (Dec)",
+      "inside_eur": 999,
+      "balcony_eur": 1499,
+      "suite_eur": 2299
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night Adriatic & Aegean Medley",
+      "duration_nights": 7,
+      "ports": [
+        "Athens",
+        "Kotor",
+        "Dubrovnik",
+        "Split",
+        "Venice"
+      ],
+      "price_from_eur": 849,
+      "highlight": "Overnight in Venice with evening gondola opportunity"
+    },
+    {
+      "name": "10-night Adriatic & Greek Isles",
+      "duration_nights": 10,
+      "ports": [
+        "Rome",
+        "Kotor",
+        "Dubrovnik",
+        "Corfu",
+        "Santorini",
+        "Mykonos",
+        "Athens"
+      ],
+      "price_from_eur": 1299,
+      "highlight": "Combines Adriatic heritage with iconic Greek islands"
+    },
+    {
+      "name": "21-night Grand Mediterranean Collection",
+      "duration_nights": 21,
+      "ports": [
+        "Barcelona",
+        "Marseille",
+        "Florence",
+        "Rome",
+        "Kotor",
+        "Dubrovnik",
+        "Venice",
+        "Split",
+        "Athens",
+        "Santorini"
+      ],
+      "price_from_eur": 2499,
+      "highlight": "Comprehensive Mediterranean immersion with three Adriatic overnights"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Sun Princess",
+      "capacity": 4300,
+      "year": 2024,
+      "best_for": "Modern luxury seekers & families",
+      "price_from_eur": 999
+    },
+    {
+      "name": "Sky Princess",
+      "capacity": 3660,
+      "year": 2019,
+      "best_for": "Couples & multi-generational groups",
+      "price_from_eur": 849
+    },
+    {
+      "name": "Island Princess",
+      "capacity": 2200,
+      "year": 2003,
+      "best_for": "Intimate destination immersion",
+      "price_from_eur": 899
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom category",
+    "All main dining room meals & buffet access",
+    "MedallionClass wearable technology",
+    "Princess Live! entertainment & production shows",
+    "Discovery at SEA enrichment programs",
+    "Fitness center & basketball court",
+    "Pool access & hot tubs",
+    "Kids & teen clubs (ages 3-17)",
+    "Port-to-table regional cuisine nights",
+    "Movies Under the Stars outdoor cinema"
+  ],
+  "whats_extra": [
+    "Beverage packages (€55-75/day)",
+    "Specialty dining (€25-45/person)",
+    "Shore excursions (€55-189/port)",
+    "WiFi packages (€15-25/day)",
+    "Spa treatments & salon services",
+    "Laundry services",
+    "Casino gaming",
+    "Photography packages",
+    "Airport transfers",
+    "Gratuities (€14-16/person/day)"
+  ],
+  "booking_strategy": "Book 9-12 months ahead for best cabin selection and early booking savings of 35-40%. Princess runs 'Best Sale Ever' promotions quarterly with reduced deposits. Balcony cabins on starboard side offer superior Adriatic coastal views. Consider Princess Plus fare for bundled drinks, WiFi and gratuities—typically saves €400-600 per couple on 7-night sailings.",
+  "top_ports": [
+    {
+      "port": "Dubrovnik, Croatia",
+      "time_in_port": "7am-7pm or overnight",
+      "top_activity": "Game of Thrones walking tour with city walls (€89)",
+      "tip": "Take cable car at 4pm for sunset photos over Old Town"
+    },
+    {
+      "port": "Kotor, Montenegro",
+      "time_in_port": "7am-5pm",
+      "top_activity": "Bay of Kotor boat tour to Our Lady of the Rocks (€65)",
+      "tip": "Hike city walls early morning before heat and crowds"
+    },
+    {
+      "port": "Split, Croatia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Diocletian's Palace underground + Trogir medieval town (€79)",
+      "tip": "Walk to Marjan Hill viewpoint free alternative to excursions"
+    },
+    {
+      "port": "Venice, Italy",
+      "time_in_port": "Overnight or 1pm-8pm",
+      "top_activity": "Evening gondola ride with musicians (€120)",
+      "tip": "Book San Marco basilica skip-line access through Princess"
+    },
+    {
+      "port": "Hvar, Croatia",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Pakleni Islands speedboat swimming tour (€95)",
+      "tip": "Lavender products cheapest at family farms in interior villages"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Princess Cruises Adriatic cruise cost?",
+      "answer": "Princess Adriatic cruises range from €849 for inside cabins on 7-night shoulder-season sailings to €2,799+ for suites during peak summer months. A typical 7-night balcony cabin averages €1,199-€1,699 depending on season. The 10-night Adriatic & Greek Isles itineraries start at €1,299 inside, €1,899 balcony. Princess Plus fares add €40-60/day but include drinks, WiFi and gratuities—often better value. Solo travelers pay 150-200% supplement unless booking studio cabins on Sun Princess. Children third/fourth in cabin typically €299-499. Watch for 'Sailabration' sales with free gratuities and onboard credit up to €300."
+    },
+    {
+      "question": "Which Princess Cruises ships sail to Adriatic?",
+      "answer": "Three Princess ships serve the Adriatic in 2026. Sun Princess, the line's newest LNG-powered vessel (2024, 4,300 passengers), operates from Rome and Athens with the most balcony cabins and expanded entertainment venues. Sky Princess (2019, 3,660 passengers) offers a refined mid-size experience with the Sanctuary adults-only retreat and enhanced Princess Luxury Bed fleetwide. Island Princess (2003, refurbished 2017, 2,200 passengers) provides intimate access to smaller ports like Hvar and Korčula that larger vessels cannot reach. Sun Princess features the new Park19 family zone; Island Princess emphasizes destination immersion with longer port calls. All three offer MedallionClass technology for seamless boarding and service."
+    },
+    {
+      "question": "When is best time to cruise Adriatic?",
+      "answer": "May, June, September and October offer optimal Adriatic cruising conditions with temperatures 20-26°C, lower humidity, and fewer crowds than peak July-August. May delivers wildflower-covered hillsides and lower prices; June provides ideal swimming temperatures before summer heat. September offers warm seas for beach excursions with harvest-season wine experiences in Croatia. October brings dramatic light for photography and significant savings, though some beach clubs close. July-August temperatures reach 32-35°C with packed Dubrovnik streets—avoid unless you prioritize maximum beach time. November-April sees limited Princess Adriatic operations due to weather and reduced port infrastructure. Kotor's mountain backdrop is most photogenic in September-October morning mist."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Princess Adriatic cruises include accommodation, all main dining (buffet, traditional dining rooms, casual venues like Alfredo's pizzeria), MedallionClass wearable for contactless boarding and service, production shows, live music, Discovery at SEA enrichment with regional experts, fitness center, pools, hot tubs, and youth clubs. The line's 'More Ashore' program provides extended evening stays in key ports at no extra cost. Not included: alcoholic beverages, specialty restaurants, shore excursions, WiFi, spa services, and gratuities (€14-16/person/day). Princess Plus fare bundles drinks, WiFi and gratuities for €55-65/day. Room service carries €5 delivery fee except for breakfast. MedallionNet WiFi is among cruise industry's fastest but costs €15-25/day unless purchased in package."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Princess Adriatic itineraries feature Dubrovnik's fortified Old Town with optional Game of Thrones tours; Kotor, Montenegro's fjord-like bay with medieval walled city; Split's Roman Diocletian's Palace integrated into modern life; Hvar's lavender fields and yacht-filled harbor; and Venice with overnight stays allowing evening St. Mark's Square visits. Extended 10-14 night sailings add Corfu's Venetian architecture, Santorini's caldera views, and Athens' Acropolis. Some itineraries include Slovenia's Koper for Ljubljana day trips or Bari, Italy for Alberobello trulli houses. Sun Princess accesses standard ports; Island Princess reaches Korčula and smaller Croatian islands. Princess offers 80+ shore excursions ranging from €55 (Kotor walking tours) to €189 (Dubrovnik private speedboat Elafiti Islands)."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Book Princess Adriatic cruises 9-12 months ahead for optimal cabin selection, particularly balcony cabins on starboard side for scenic coastal cruising. Early booking typically saves 35-40% through 'Early Saver' rates with reduced deposits from €100pp. Peak summer sailings (July-August) and holiday periods sell out 6-8 months ahead. For best value, book shoulder season (May, October) 6-9 months ahead when 'Best Sale Ever' promotions run quarterly. Last-minute deals exist 60-90 days out but with limited cabin categories—typically interior and obstructed view only. Suite and mini-suite categories require earliest booking. Princess Captain's Circle members access bookings 1-2 weeks early. Consider refundable fares for 2026 sailings given potential itinerary adjustments due to Venice cruise ship regulations."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Princess Adriatic cruises suit families with children 6+ who can appreciate historical and cultural destinations. The line's Discovery at SEA program partners with Discovery Channel for educational youth programming including Mediterranean marine biology and Roman history activities. Kids clubs divide ages 3-7, 8-12, and 13-17 with supervised activities until 10pm. Sun Princess features expanded family zones including Park19 outdoor activity area. However, Princess lacks the water slides and character experiences of mass-market competitors—better for culturally engaged families than thrill-seekers. Family suites and connecting cabins book quickly; request at booking. Shore excursions offer family pricing but walking-intensive historic port tours may challenge younger children. Evening entertainment suits multi-generational groups with production shows appealing across ages. Consider 10+ night sailings only for children with strong travel stamina."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Princess standard cancellation policy charges no penalty until final payment (typically 90 days before sailing for 7-14 night cruises). After final payment: 89-75 days out loses deposit; 74-57 days loses 25% fare; 56-29 days loses 50%; 28-15 days loses 75%; 14 days or less loses 100%. 'Cruise with Confidence' temporary policies may offer more flexibility—verify current terms at booking. Princess recommends travel insurance covering cancellation for any reason, particularly for Adriatic sailings given potential weather disruptions in shoulder seasons. COVID-19 related cancellations follow specific protocols with future cruise credit options. Name changes incur €50 fee per person if completed 75+ days before sailing; later changes treated as cancellation/rebooking. Suite and mini-suite cancellations carry stricter penalties. Book refundable fares for maximum flexibility, typically €100-200 more than non-refundable rates."
+    }
+  ]
+}

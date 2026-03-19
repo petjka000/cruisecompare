@@ -1,0 +1,223 @@
+{
+  "title": "Cunard Line Baltic & Scandinavia Cruises 2026",
+  "intro": "Cunard Line brings its legendary transatlantic heritage to the Baltic Sea, offering an elegant exploration of Northern Europe's most captivating capitals. Sailing aboard the refined Queen Victoria and Queen Anne, guests experience white-gloved service, traditional afternoon tea, and gala evenings in formal attire. Cunard's Baltic itineraries trace historic trade routes through the Danish Straits, visiting imperial St. Petersburg with extended overnight stays, the medieval charm of Tallinn, and the archipelago beauty of Stockholm. The line's enrichment programme features destination lecturers, Royal Academy of Dramatic Art performances, and curated shore excursions revealing Scandinavian design heritage and Baltic history. With spacious staterooms, the largest libraries at sea, and the only planetarium on an ocean liner, Cunard transforms Baltic cruising into a cultural journey befitting its 184-year legacy of ocean travel excellence.",
+  "quick_facts": {
+    "price_from_eur": 1899,
+    "duration_range": "7-14 nights",
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "ships_on_route": [
+      "Queen Anne",
+      "Queen Victoria"
+    ],
+    "departure_ports": [
+      "Southampton",
+      "Hamburg"
+    ]
+  },
+  "price_by_season": [
+    {
+      "season": "Early Season (May)",
+      "inside_eur": 1899,
+      "balcony_eur": 2499,
+      "suite_eur": 4899
+    },
+    {
+      "season": "Peak Summer (June-August)",
+      "inside_eur": 2199,
+      "balcony_eur": 2899,
+      "suite_eur": 5699
+    },
+    {
+      "season": "Late Season (September)",
+      "inside_eur": 1999,
+      "balcony_eur": 2599,
+      "suite_eur": 4999
+    }
+  ],
+  "sample_itineraries": [
+    {
+      "name": "7-night St. Petersburg & Baltic Capitals",
+      "duration_nights": 7,
+      "ports": [
+        "Southampton",
+        "Bruges (Zeebrugge)",
+        "Copenhagen",
+        "Berlin (Warnemünde)",
+        "Tallinn",
+        "St. Petersburg (overnight)",
+        "Helsinki",
+        "Southampton"
+      ],
+      "price_from_eur": 1899,
+      "highlight": "Two full days in imperial St. Petersburg with overnight stay"
+    },
+    {
+      "name": "14-night Grand Baltic Explorer",
+      "duration_nights": 14,
+      "ports": [
+        "Southampton",
+        "Hamburg",
+        "Copenhagen",
+        "Stockholm",
+        "Tallinn",
+        "St. Petersburg (two nights)",
+        "Helsinki",
+        "Riga",
+        "Gdansk",
+        "Aarhus",
+        "Southampton"
+      ],
+      "price_from_eur": 3299,
+      "highlight": "Comprehensive Baltic exploration with rare Riga and Gdansk calls"
+    },
+    {
+      "name": "12-night Norwegian Fjords & Baltic Combination",
+      "duration_nights": 12,
+      "ports": [
+        "Southampton",
+        "Stavanger",
+        "Olden",
+        "Geiranger",
+        "Bergen",
+        "Copenhagen",
+        "Visby",
+        "Riga",
+        "Stockholm",
+        "Southampton"
+      ],
+      "price_from_eur": 2799,
+      "highlight": "Unique blend of dramatic fjords and historic Hanseatic ports"
+    }
+  ],
+  "ships_detail": [
+    {
+      "name": "Queen Anne",
+      "capacity": 3000,
+      "year": 2024,
+      "best_for": "Luxury seekers and cultural enthusiasts",
+      "price_from_eur": 1999
+    },
+    {
+      "name": "Queen Victoria",
+      "capacity": 2078,
+      "year": 2007,
+      "best_for": "Traditional Cunard loyalists and intimate luxury",
+      "price_from_eur": 1899
+    }
+  ],
+  "whats_included": [
+    "Accommodation in chosen stateroom grade",
+    "All meals in Britannia Restaurant or selected dining venues",
+    "Afternoon tea served daily in Queens Room",
+    "Gala evenings and themed events",
+    "Nightly entertainment including theatre productions",
+    "Guest speaker programme and enrichment activities",
+    "Use of fitness centre and swimming pools",
+    "Deck games and traditional maritime activities",
+    "Children's programme (The Zone for 2-17 years)",
+    "Port taxes and government fees"
+  ],
+  "whats_extra": [
+    "Gratuities (EUR 16 per person per day recommended)",
+    "Beverages and bar service",
+    "Specialty dining restaurants (The Verandah Steakhouse EUR 49)",
+    "Shore excursions (EUR 89-349 per tour)",
+    "Spa treatments and salon services",
+    "Laundry and dry cleaning",
+    "Internet packages (EUR 24 per day)",
+    "Photographs and onboard shopping",
+    "Medical services",
+    "Visa fees for Russia"
+  ],
+  "booking_strategy": "Book 9-18 months ahead for best cabin selection and early booking savings of up to 25%. Cunard's Fares First programme releases itineraries 18 months in advance. Consider the Cunard Fare for flexibility with reduced deposits, or Select Fare for included on-board credit and preferred dining allocation. Russian visa requirements necessitate early planning; Cunard can arrange blanket visas for ship-organised excursions. School holiday sailings in July command premiums of 30-40%. Past guests should register for Cunard World Club benefits including exclusive pre-sale access.",
+  "top_ports": [
+    {
+      "port": "St. Petersburg",
+      "time_in_port": "2 days (overnight)",
+      "top_activity": "Hermitage Museum private opening (EUR 289)",
+      "tip": "Book ship excursions for simplified Russian visa process"
+    },
+    {
+      "port": "Stockholm",
+      "time_in_port": "8am-6pm",
+      "top_activity": "Vasa Museum and Gamla Stan walking tour (EUR 119)",
+      "tip": "Take the ship's shuttle to Gamla Stan; taxis expensive"
+    },
+    {
+      "port": "Tallinn",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Medieval Old Town and Kadriorg Palace (EUR 89)",
+      "tip": "Compact city—easy independent exploration from port"
+    },
+    {
+      "port": "Copenhagen",
+      "time_in_port": "7am-6pm",
+      "top_activity": "Rosenborg Castle and canal cruise (EUR 109)",
+      "tip": "Port 10 minutes from city centre; walk or cycle hire ideal"
+    },
+    {
+      "port": "Helsinki",
+      "time_in_port": "8am-4pm",
+      "top_activity": "Suomenlinna Sea Fortress and Design District (EUR 79)",
+      "tip": "Short port time—prioritise either fortress or city centre"
+    },
+    {
+      "port": "Berlin (Warnemünde)",
+      "time_in_port": "8am-10pm",
+      "top_activity": "Berlin by rail—Brandenburg Gate and Reichstag (EUR 189)",
+      "tip": "3-hour each way; long but rewarding day—pack snacks"
+    },
+    {
+      "port": "Riga",
+      "time_in_port": "10am-6pm",
+      "top_activity": "Art Nouveau district and Riga Central Market (EUR 69)",
+      "tip": "Less crowded than other Baltic capitals—enjoy leisurely pace"
+    },
+    {
+      "port": "Gdansk",
+      "time_in_port": "8am-5pm",
+      "top_activity": "Solidarity Museum and Old Town reconstruction (EUR 79)",
+      "tip": "Fascinating 20th-century history—combine with amber shopping"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a Cunard Line Baltic & Scandinavia cruise cost?",
+      "answer": "Cunard Baltic cruises in 2026 range from EUR 1,899 for an inside cabin on a 7-night itinerary to EUR 8,000+ for Grills suites on 14-night voyages. Balcony staterooms typically start at EUR 2,499 in shoulder season and EUR 2,899 in peak summer. The Select Fare, approximately EUR 200-400 more than Cunard Fare, includes on-board credit and preferred dining. Grills accommodations—Princess Grill from EUR 4,899 and Queens Grill from EUR 6,499—offer butler service, exclusive restaurants, and priority embarkation. Solo travellers face 175-200% single supplements, though Cunard occasionally releases reduced supplement cabins."
+    },
+    {
+      "question": "Which Cunard Line ships sail to Baltic & Scandinavia?",
+      "answer": "Cunard deploys Queen Anne and Queen Victoria on Baltic itineraries for 2026. Queen Anne, the line's newest vessel launched 2024, brings contemporary luxury with 3,000 passengers, featuring the Pavilion wellness spa, 15 dining venues, and the largest outdoor space in the fleet. Queen Victoria, a 2,078-guest mid-size ship refurbished 2022, offers a more intimate traditional Cunard experience with its signature Royal Arcade and smaller-scale elegance. Queen Mary 2 focuses on transatlantic crossings and world voyages, rarely visiting the Baltic. Both Baltic-deployed ships feature the Queens Room for ballroom dancing, Britannia Restaurant for main dining, and Cunard's distinctive tiered accommodation system."
+    },
+    {
+      "question": "When is best time to cruise Baltic & Scandinavia?",
+      "answer": "The optimal Baltic cruising window runs May through September, with June and July offering the most reliable weather—daytime temperatures 18-22°C and extended daylight until 11pm. May and September provide lower prices and fewer crowds, though evenings can be cool and some attractions have reduced hours. June's white nights in St. Petersburg create magical atmosphere. August brings warmest water temperatures for beach extensions. September offers autumn colours and harvest festivals, particularly in Estonia and Latvia. Avoid October-April when most Baltic ports close to cruise traffic and weather becomes unpredictable. School holidays in late July and August command highest premiums and busiest sites."
+    },
+    {
+      "question": "What is included?",
+      "answer": "Cunard's fare includes accommodation, all main dining room meals, afternoon tea, gala evening events, nightly theatre entertainment, guest lectures, fitness centre access, and children's programming. The experience centres on formal traditions: white-gloved service, daily printed programmes, and scheduled activities from deck quoits to ballroom dancing. Beverages, specialty dining, shore excursions, spa services, and gratuities are additional. Britannia passengers dine at assigned times; Princess and Queens Grill guests enjoy single-seating restaurants and butler service. All guests access the same entertainment and public spaces regardless of accommodation grade. WiFi packages, laundry, and photographs incur charges. The library, planetarium shows, and maritime activities are complimentary."
+    },
+    {
+      "question": "Which ports?",
+      "answer": "Cunard's Baltic itineraries visit the region's premier capitals and hidden gems. St. Petersburg serves as the centrepiece with overnight or two-night stays enabling comprehensive exploration of the Hermitage, Catherine's Palace, and evening ballet. Stockholm spreads across fourteen islands requiring efficient planning. Copenhagen offers compact walkable centre near the port. Tallinn's medieval Old Town lies minutes from dock. Helsinki provides design heritage and island fortress Suomenlinna. Warnemünde accesses Berlin via three-hour train. Less frequent calls include Riga's Art Nouveau architecture, Gdansk's reconstructed old town, Visby's medieval walls on Gotland, and Aarhus's modern art museum. Some itineraries incorporate Norwegian fjords or Hamburg departure for German market access."
+    },
+    {
+      "question": "How far ahead to book?",
+      "answer": "Secure Cunard Baltic cruises 12-18 months ahead for optimal stateroom selection, particularly for Queens Grill suites and preferred Britannia dining times. Cunard releases itineraries 18 months in advance; Fares First early booking offers savings up to 25% and reduced deposits. Grills accommodations sell fastest due to limited inventory. For 2026 sailings, book by late 2024 for best availability. Last-minute deals occasionally appear 60-90 days before departure for inside and balcony cabins, though itinerary and dining preferences become limited. Russian visa requirements necessitate minimum 6-8 weeks processing if arranging independent travel; ship excursions provide blanket visa coverage with more flexibility. School holiday dates require earliest booking."
+    },
+    {
+      "question": "Good for families?",
+      "answer": "Cunard welcomes families but maintains adult-oriented ambience with formal dress codes and traditional programming. The Zone provides supervised activities for ages 2-17 divided into age groups, operating sea days and select port days. Night nursery for under-2s operates until midnight. Family-friendly shore excursions are available, though many focus on cultural and historical content better suited to teenagers. Pool areas include designated family zones. Evening entertainment runs late; children may find ballroom dancing and classical recitals less engaging than competitor lines' productions. Interconnecting staterooms and third/fourth berths are limited—book early. Families appreciate the educational enrichment, spacious ships for exploration, and structured mealtimes. Consider P&O Cruises or Royal Caribbean for more child-focused alternatives."
+    },
+    {
+      "question": "Cancellation policy?",
+      "answer": "Cunard's cancellation policy varies by fare type and departure proximity. Cunard Fare (flexible) allows full refund up to 90 days before sailing, then scales to 100% forfeiture within 14 days. Select Fare (value) carries stricter terms: deposits become non-refundable immediately, with full forfeiture applying from 90 days. Grills suites follow enhanced schedules with earlier penalty dates. Travel insurance is strongly recommended; Cunard offers policies covering cancellation for medical reasons and trip interruption. COVID-19 protocols remain dynamic—test requirements and isolation policies adjust per health guidance. Rebooking fees of EUR 50-100 apply for date changes. Name changes incur EUR 100 charge per person. Consider Cancel for Any Reason insurance for maximum protection given significant advance booking requirements."
+    }
+  ]
+}

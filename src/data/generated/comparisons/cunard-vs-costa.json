@@ -1,0 +1,121 @@
+{
+  "title": "Cunard Line vs Costa Cruises 2026",
+  "intro": "Cunard Line and Costa Cruises represent two distinct faces of Carnival Corporation's European portfolio. Cunard offers timeless ocean liner elegance with British heritage, formal nights, and transatlantic crossings aboard Queen Mary 2. Costa delivers vibrant Italian-style cruising with family-friendly atmosphere, Mediterranean flair, and more casual ambience. Both operate mid-market pricing but serve fundamentally different passenger expectations. Cunard attracts traditionalists seeking refined sea travel; Costa appeals to those wanting festive European vacation experiences. Your choice depends on whether you prioritise ceremony and sophistication or relaxed continental conviviality.",
+  "at_a_glance": {
+    "cunard": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 799
+    },
+    "costa": {
+      "price_tier": "mid",
+      "avg_7night_inside_eur": 699
+    }
+  },
+  "comparison_table": [
+    {
+      "category": "Price",
+      "cunard": "€799",
+      "costa": "€699"
+    },
+    {
+      "category": "Dress Code",
+      "cunard": "Formal/Gala evenings required",
+      "costa": "Smart casual, relaxed"
+    },
+    {
+      "category": "Dining Style",
+      "cunard": "Assigned seating, traditional",
+      "costa": "Flexible, Italian-focused"
+    },
+    {
+      "category": "Entertainment",
+      "cunard": "Classical concerts, ballroom dancing",
+      "costa": "Lively shows, pool parties"
+    },
+    {
+      "category": "Children's Facilities",
+      "cunard": "Limited, ages 2+",
+      "costa": "Extensive Squok Club, all ages"
+    },
+    {
+      "category": "Itinerary Focus",
+      "cunard": "Transatlantic, World Voyages",
+      "costa": "Mediterranean, Caribbean"
+    },
+    {
+      "category": "Onboard Language",
+      "cunard": "English",
+      "costa": "Italian/English multilingual"
+    },
+    {
+      "category": "Ship Atmosphere",
+      "cunard": "Refined, quiet luxury",
+      "costa": "Festive, social, energetic"
+    }
+  ],
+  "choose_a_if": [
+    "You appreciate formal evenings, afternoon tea, and elegant traditions",
+    "You seek transatlantic crossings or world voyage segments with sophisticated fellow travellers",
+    "You prefer assigned dining with white-glove service and classical entertainment",
+    "You value British maritime heritage and quieter, more reserved onboard atmosphere"
+  ],
+  "choose_b_if": [
+    "You want family-friendly facilities with Italian hospitality and vibrant poolside atmosphere",
+    "You prefer flexible dining times and casual dress throughout your cruise",
+    "You seek Mediterranean immersion with multilingual international passengers",
+    "You enjoy lively entertainment, late nights, and continental European vacation styling"
+  ],
+  "verdict_by_traveller": [
+    {
+      "type": "Families",
+      "winner": "Costa Cruises",
+      "reason": "Costa's Squok Club provides comprehensive children's programming from infants to teens, with dedicated facilities and family cabins. Cunard offers limited youth services and attracts fewer families."
+    },
+    {
+      "type": "Couples",
+      "winner": "Cunard Line",
+      "reason": "Romantic transatlantic crossings, ballroom dancing, and intimate Commodore Club lounges create sophisticated couple experiences unmatched by Costa's more boisterous environment."
+    },
+    {
+      "type": "Solo Travellers",
+      "winner": "Cunard Line",
+      "reason": "Cunard's single-occupancy cabins on Queen Mary 2 and organised gentleman hosts for dancing provide structured social opportunities absent from Costa's family-centric model."
+    },
+    {
+      "type": "Luxury Seekers",
+      "winner": "Cunard Line",
+      "reason": "Grills Suites with butler service, separate Queens Grill restaurant, and refined service standards exceed Costa's premium offerings at comparable price points."
+    },
+    {
+      "type": "Budget Travellers",
+      "winner": "Costa Cruises",
+      "reason": "Lower base fares, frequent Mediterranean short cruises, and inclusive Italian dining provide better value for cost-conscious European holidaymakers."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better value?",
+      "answer": "Costa Cruises generally offers superior base value with €699 average seven-night inside cabins versus Cunard's €799. However, value perception depends on preferences. Costa includes substantial Italian dining and entertainment in fare, with beverage packages reasonably priced. Cunard's higher fare encompasses afternoon tea, classical concerts, and more inclusive gratuities. Families find exceptional value in Costa's children's programming. Couples seeking refined experiences justify Cunard's premium. Consider total holiday cost: Costa's shorter Mediterranean itineraries reduce flight expenses for Europeans, while Cunard's transatlantic positioning cruises offer unique experiences unavailable elsewhere. Both lines run promotional periods; booking early typically secures optimal rates on either."
+    },
+    {
+      "question": "Which for families?",
+      "answer": "Costa Cruises decisively wins for families. Their Squok Club operates across four age groups from three months to seventeen years with dedicated facilities, trained staff, and evening programmes allowing parents dining independence. Family cabins accommodate five passengers. Waterslides, sports courts, and Italian family-oriented dining suit multigenerational groups. Cunard's The Play Zone accepts children two-plus but with limited hours and facilities. Queen Mary 2's kennels attract pet owners, not families. Cunard's formal nights and quiet atmosphere prove challenging with young children. Unless seeking educational transatlantic crossings, families overwhelmingly prefer Costa's energetic, accommodating environment designed explicitly for younger passengers."
+    },
+    {
+      "question": "How do prices compare?",
+      "answer": "Costa Cruises maintains approximately €100 lower base pricing for comparable seven-night inside cabins: €699 versus Cunard's €799. This differential persists across categories, though balcony gaps narrow. Costa's Mediterranean positioning reduces European passengers' total holiday costs through shorter flights. Cunard's transatlantic and world voyage premiums reflect unique itinerary value. Onboard spending patterns diverge significantly: Costa passengers purchase beverage packages and excursions aggressively; Cunard's more inclusive fare structure limits additional expenses. Gratuities are bundled differently—verify current policies. Both participate in Carnival Corporation loyalty programmes offering reciprocal benefits. Peak summer and holiday periods compress pricing differentials substantially."
+    },
+    {
+      "question": "Which has better food?",
+      "answer": "Cunard Line offers superior culinary execution through traditional British and continental menus, with Queens Grill passengers enjoying bespoke dining. Britannia Restaurant maintains consistent quality, and speciality venues like Steakhouse at The Verandah provide refined alternatives. Gala night menus preserve ocean liner heritage. Costa Cruises delivers authentic Italian cuisine—superior pasta, pizza, and espresso—though buffet consistency varies and international menus accommodate diverse European palates less successfully than Cunard's focused approach. Costa's inclusive dining includes substantial quality; Cunard's premium positioning demands higher standards. Food enthusiasts prioritising Italian authenticity prefer Costa; those seeking classical fine dining consistency choose Cunard. Both exceed mass-market standards."
+    },
+    {
+      "question": "Which for first-timers?",
+      "answer": "Costa Cruises suits most first-time cruisers better. The relaxed atmosphere eliminates anxiety about dress codes or dining protocols. Shorter Mediterranean itineraries allow sampling without major commitment. Multilingual environment reassures international novices. Extensive facilities ensure constant engagement. Cunard rewards prepared first-timers seeking distinctive experiences—transatlantic crossings offer unmatched introduction to authentic ocean travel. However, Cunard's formal expectations and traditional structure overwhelm unprepared passengers. First-timers prioritising convenience and fun choose Costa; those researching cruise heritage and embracing ceremony flourish with Cunard. Consider your travel personality: Costa forgives inexperience warmly; Cunard rewards informed participation."
+    },
+    {
+      "question": "Main differences?",
+      "answer": "Fundamental distinctions separate these Carnival Corporation siblings. Cunard preserves ocean liner traditions: formal nights, assigned dining, afternoon tea, ballroom dancing, and British service standards. The fleet includes the only remaining ocean liner, Queen Mary 2, conducting scheduled transatlantic crossings. Passengers skew older, wealthier, and more experienced. Costa embodies contemporary European cruising: flexible dining, casual dress, vibrant entertainment, and Italian family hospitality. Ships feature elaborate Italian design, multilingual operations, and extensive children's facilities. Itineraries concentrate on Mediterranean and Caribbean mass-market appeal. Cunard sells maritime heritage and refinement; Costa sells accessible European vacation experiences. Neither superior absolutely—preferences determine appropriate selection between these genuinely different products."
+    }
+  ]
+}
