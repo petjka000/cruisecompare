@@ -42,26 +42,23 @@ DEALS_DIR.mkdir(parents=True, exist_ok=True)
 LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
 
-# ── MiniMax credentials (via OpenClaw OAuth) ─────────────────────────────────
+# ── Qwen 3.5 Plus credentials (via Alibaba DashScope) ────────────────────────
 
-def _load_minimax_token() -> str:
-    """Load MiniMax OAuth access token from openclaw auth profiles."""
-    auth_path = Path.home() / '.openclaw/agents/main/agent/auth-profiles.json'
+def _load_qwen_api_key() -> str:
+    """Load Qwen API key from openclaw.json or env var."""
+    config_path = Path.home() / '.openclaw/openclaw.json'
     try:
-        profiles = json.loads(auth_path.read_text())
-        for p in profiles.get('profiles', {}).values():
-            if 'minimax' in str(p.get('provider', '')).lower():
-                token = p.get('access', '')
-                if token:
-                    return token
+        config = json.loads(config_path.read_text())
+        key = config.get('models', {}).get('providers', {}).get('alibaba-coding', {}).get('apiKey', '')
+        if key:
+            return key
     except Exception as e:
-        log.warning(f'Could not load MiniMax token: {e}')
-    # Fallback: env var
-    return os.environ.get('MINIMAX_API_KEY', '')
+        log.warning(f'Could not load Qwen API key: {e}')
+    return os.environ.get('DASHSCOPE_API_KEY', '')
 
-MINIMAX_TOKEN = _load_minimax_token()
-MINIMAX_BASE_URL = 'https://api.minimaxi.chat/v1'
-MINIMAX_MODEL = 'MiniMax-M2.7'
+QWEN_API_KEY = _load_qwen_api_key()
+QWEN_BASE_URL = 'https://dashscope.aliyuncs.com/compatible-mode/v1'
+QWEN_MODEL = 'qwen3.5-plus'
 
 
 # ── RSS Sources ──────────────────────────────────────────────────────────────
@@ -83,11 +80,8 @@ RSS_SOURCES = [
         'url': 'https://www.seatrade-cruise.com/rss.xml',
         'type': 'direct',
     },
-    {
-        'name': 'pr_newswire_travel',
-        'url': 'https://www.prnewswire.com/rss/news-releases-list.rss?category=TDS',
-        'type': 'direct',
-    },
+    # pr_newswire_travel removed 2026-03-20: generic press release feed (baby products,
+    # crypto, real estate) — zero cruise deals, zero prices, zero booking URLs in 20-item audit.
 ]
 
 # Keywords that indicate an actual deal article (not just "cruise tips")
@@ -132,9 +126,9 @@ def _jina_fetch(url: str, timeout: int = 25) -> Optional[str]:
 
 
 def _minimax_extract(article_text: str, article_url: str, article_title: str) -> Optional[dict]:
-    """Use MiniMax M2.5 (via OpenClaw OAuth) to extract structured cruise deal data."""
-    if not MINIMAX_TOKEN:
-        log.warning('No MiniMax token — cannot extract structured deal data')
+    """Use Qwen 3.5-plus (via DashScope) to extract structured cruise deal data."""
+    if not QWEN_API_KEY:
+        log.warning('No Qwen API key — cannot extract structured deal data')
         return None
 
     prompt = f"""Extract cruise deal information from the following article.
@@ -172,16 +166,16 @@ Rules:
 
     try:
         payload = json.dumps({
-            'model': MINIMAX_MODEL,
+            'model': QWEN_MODEL,
             'max_tokens': 800,
             'messages': [{'role': 'user', 'content': prompt}],
         }).encode('utf-8')
 
         req = urllib.request.Request(
-            f'{MINIMAX_BASE_URL}/chat/completions',
+            f'{QWEN_BASE_URL}/chat/completions',
             data=payload,
             headers={
-                'Authorization': f'Bearer {MINIMAX_TOKEN}',
+                'Authorization': f'Bearer {QWEN_API_KEY}',
                 'Content-Type': 'application/json',
             },
         )
@@ -204,7 +198,7 @@ Rules:
         return data if data else None
 
     except Exception as e:
-        log.warning(f'MiniMax extraction failed: {e}')
+        log.warning(f'Qwen extraction failed: {e}')
         return None
 
 
@@ -329,7 +323,7 @@ def scrape_all_sources() -> list[dict]:
             time.sleep(1)
             continue
 
-        # Extract deal data with MiniMax M2.5 (OpenClaw OAuth)
+        # Extract deal data with Qwen 3.5-plus (DashScope)
         deal_data = _minimax_extract(article_text, real_url, title)
 
         if not deal_data:
