@@ -39,7 +39,7 @@ function loadShips(): ShipSummary[] {
 }
 
 export const metadata: Metadata = {
-  title: 'Ship Reviews | CruiseCompare',
+  title: 'Ship Reviews',
   description: 'In-depth reviews of the world\'s best cruise ships. Cabins, dining, entertainment, pools, and more.',
 };
 

@@ -8,7 +8,7 @@ const navLinks = [
   { href: '/compare/', label: 'Compare', highlight: false },
   { href: '/ships/', label: 'Ships', highlight: false },
   { href: '/destinations/', label: 'Destinations', highlight: false },
-  { href: '/guides/', label: 'Guides', highlight: false },
+  { href: '/from/', label: 'Ports', highlight: false },
 ];
 
 export function Header() {

@@ -1,153 +1,153 @@
 {
-  "slug": "vancouver",
-  "name": "Vancouver",
-  "city": "Vancouver",
-  "country": "Canada",
-  "iata": "YVR",
-  "region": "Alaska",
-  "metaTitle": "Vancouver Cruise Port Guide 2026 — Terminals, Transport & Tips",
-  "metaDescription": "Complete guide to Vancouver cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
-  "heroSubtitle": "Everything you need to know before your cruise from Vancouver",
-  "overview": "Vancouver serves as one of North America's premier departure ports for Alaska cruises, with over 800,000 passengers annually passing through its state-of-the-art cruise facilities. The city consistently ranks among the world's most beautiful ports, nestled between the Pacific Ocean and the Coast Mountains, offering passengers stunning views from the moment they arrive. Canada Place, the iconic sail-shaped cruise terminal, has been serving passengers since 1986 and underwent major renovations in 2019-2020 to improve the passenger experience. What makes Vancouver special is its perfect combination of urban sophistication and natural beauty—passengers can explore world-class dining, shopping, and attractions before or after their voyage, all within walking distance of the cruise terminal. The port operates primarily from May through October, aligning perfectly with the Alaska cruise season, and is served by major cruise lines including Princess, Holland America, Norwegian, Royal Caribbean, Celebrity, Cunard, and Disney Cruise Line.",
-  "terminals": [
-    {
-      "name": "Canada Place Cruise Terminal",
-      "description": "The iconic sail-shaped Canada Place serves as Vancouver's primary cruise facility and is one of the most recognizable cruise terminals in the world. This world-class facility can accommodate up to four ultra-large cruise ships simultaneously and features a dedicated baggage processing area, comfortable waiting lounges, and direct waterfront access. The terminal underwent a comprehensive renovation completed in 2020, adding modern check-in counters, expanded retail space, and improved passenger flow systems.",
-      "cruiseLines": [
-        "Princess Cruises",
-        "Holland America Line",
-        "Norwegian Cruise Line",
-        "Royal Caribbean International",
-        "Celebrity Cruises",
-        "Cunard Line",
-        "Disney Cruise Line"
-      ],
-      "facilities": [
-        "Baggage drop-off area",
-        "Climate-controlled waiting lounges",
-        "Information desk",
-        "Currency exchange",
-        "Coffee shops and snack bars",
-        "Retail gift shops",
-        "Free WiFi",
-        "Accessible restrooms",
-        "Luggage storage (pre-cruise)",
-        "Cruise line check-in counters",
-        "Security screening"
-      ]
-    },
-    {
-      "name": "Ballantyne Pier",
-      "description": "Ballantyne Pier is the secondary cruise facility used primarily during peak season when Canada Place reaches capacity. This industrial-style terminal is located approximately 1.5 km from Canada Place and is typically used by Holland America Line and Princess for overflow vessels. Passengers should note that facilities here are more limited, though shuttle buses are usually provided between Ballantyne and Canada Place for passenger convenience.",
-      "cruiseLines": [
-        "Princess Cruises",
-        "Holland America Line"
-      ],
-      "facilities": [
-        "Basic passenger waiting area",
-        "Portable restroom facilities",
-        "Security screening",
-        "Limited refreshment vending",
-        "Shuttle service to Canada Place"
-      ]
-    }
-  ],
-  "gettingThere": {
-    "fromAirport": "Vancouver International Airport (YVR) is located on Sea Island in Richmond, approximately 12 kilometers from the Canada Place cruise terminal. The most convenient option is the Canada Line SkyTrain, which connects directly from YVR to Vancouver's Waterfront Station in just 26 minutes (adult fare: CAD 9.20 / ~EUR 6.50). From Waterfront Station, Canada Place is a scenic 8-minute walk along the waterfront. Taxis and rideshares (Uber/Lyft) are readily available at the airport and cost approximately CAD 35-45 (EUR 24-32) depending on traffic. Hotel shuttles are another popular option, with many downtown hotels offering free airport transfers—check with your accommodation in advance. If arriving via floatplane, seaplanes land at Vancouver Harbour Flight Centre, which is directly adjacent to Canada Place.",
-    "fromCityCenter": "Vancouver's cruise terminal at Canada Place is exceptionally well-connected to the city center. The terminal is located at the eastern edge of downtown Vancouver, making it highly walkable from most downtown hotels. From the central business district (around Robson Square), it's approximately a 15-minute downhill walk to Canada Place, offering beautiful views of the harbour along the way. The SkyTrain's Expo and Canada Lines connect to Waterfront Station, which is the closest station to Canada Place. Taxis from anywhere in downtown Vancouver typically cost CAD 10-15 (EUR 7-11) and take 5-10 minutes depending on traffic.",
-    "parking": "Cruise passengers driving to Vancouver have several parking options. The most convenient is the Port of Vancouver's designated cruise parking at the Canada Place facility, with rates of approximately CAD 35-50 (EUR 24-35) per day for covered parking. Advance booking is strongly recommended during peak season (June-August) as spaces fill quickly. Alternative downtown parking garages within walking distance include the Vancouver Convention Centre parkade (CAD 30-40/day / EUR 21-28) and various private lots on Burrard Street and Georgia Street. Note that some hotels offer cruise parking packages—contact your hotel directly if staying overnight before departure.",
-    "shuttles": "Most major cruise lines offer complimentary port-to-hotel shuttles on embarkation day, typically departing from designated hotels in the downtown core. These shuttles run every 30-45 minutes starting from early morning and require advance booking through the cruise line. Airport shuttles are available through companies like YVR SkyLynx (CAD 16 / EUR 11 one-way) and various private operators, though the SkyTrain is generally faster and more reliable. For passengers arriving at Vancouver Harbour Seaplane Base, no shuttle is needed—the terminal is a 3-minute walk from Canada Place."
-  },
-  "embarkationTips": [
-    "Arrive at Canada Place no earlier than 11:00 AM for afternoon departures—even if your cruise line suggests earlier, the terminal gets overwhelmingly crowded before noon, and you'll spend hours in line rather than enjoying the city.",
-    "Skip the expensive airport hotels the night before your cruise and stay downtown instead—the walk from most downtown hotels to Canada Place is flat and scenic, saving you both money and stress on embarkation morning.",
-    "If you're docking at Ballantyne Pier instead of Canada Place, note that there's virtually no shade or seating outside the terminal. Bring sunscreen and consider timing your arrival to avoid the midday sun during July and August.",
-    "Download your cruise line's app before arriving and complete online check-in 24 hours before departure. Vancouver's port authority now requires digital boarding passes, and having everything ready significantly speeds up the security process.",
-    "The Port of Vancouver has strict no-pedestrian-vehicle zones around Canada Place during peak hours. If you're being dropped off by rideshare, use the designated passenger drop-off on Cambie Street rather than attempting to get closer to the terminal—your driver will thank you."
-  ],
-  "nearbyAttractions": [
-    {
-      "name": "Stanley Park",
-      "description": "North America's third-largest urban park sits just minutes from the cruise terminal and offers 400 hectares of pristine forest, stunning seawall views, and attractions like the Vancouver Aquarium and Siwash Rock. Cruise passengers should rent bikes and cycle the famous seawall or walk the舒缓 trails through old-growth cedars.",
-      "walkingTime": "25 minutes or 2 km from Canada Place",
-      "cost": "Free to enter; bike rental CAD 15-35/hour (EUR 11-25)"
-    },
-    {
-      "name": "Granville Island",
-      "description": "This vibrant arts and foodie district under the Granville Street Bridge is a Vancouver must-visit. The famous Public Market offers fresh local produce, artisan foods, and unique crafts. Take the Aquabus from the dock near Canada Place for a scenic 10-minute water taxi ride.",
-      "walkingTime": "Aquabus ride from nearby dock (10 min)",
-      "cost": "Aquabus CAD 4.50 (EUR 3.20) each way; Public Market free to enter"
-    },
-    {
-      "name": "Gastown",
-      "description": "Vancouver's oldest neighborhood features cobblestone streets, the iconic Steam Clock, and excellent restaurants and boutiques. The area has transformed into a trendy dining destination while retaining its historic character. It's a 10-minute walk west from Canada Place through the downtown core.",
-      "walkingTime": "10 minutes from Canada Place",
-      "cost": "Free to walk around; shopping and dining at your own expense"
-    },
-    {
-      "name": "Vancouver Art Gallery & Robson Square",
-      "description": "British Columbia's largest art museum sits at the heart of downtown Vancouver, just steps from the cruise terminal. The surrounding Robson Square features ice skating (seasonal), fountains, and outdoor seating areas perfect for people-watching.",
-      "walkingTime": "12 minutes from Canada Place",
-      "cost": "Gallery admission CAD 24 (EUR 17) for adults"
-    },
-    {
-      "name": "Coal Harbour & Harbour Green Park",
-      "description": "The waterfront area directly adjacent to Canada Place offers stunning mountain and ocean views, scenic walking paths, and resident seal colonies often visible from the seawall. It's perfect for a pre-cruise stroll and photo opportunities with the North Shore Mountains as backdrop.",
-      "walkingTime": "2 minutes from Canada Place",
-      "cost": "Free"
-    },
-    {
-      "name": "Capilano Suspension Bridge Park",
-      "description": "For passengers with longer layover time, this iconic bridge suspended 70 meters above the Capilano River provides an adrenaline rush and spectacular rainforest views. Located in North Vancouver, it's accessible by free shuttle from various downtown locations.",
-      "walkingTime": "Shuttle required (25 min drive)",
-      "cost": "CAD 54.95 (EUR 39) per adult"
-    }
-  ],
-  "localTransport": {
-    "metro": "Vancouver's SkyTrain system operates three lines: Expo, Millennium, and Canada Line. The Canada Line is most relevant for cruise passengers, connecting Vancouver International Airport directly to Waterfront Station—the closest station to Canada Place (8-minute walk). Trains run frequently from early morning until well past midnight, with fares starting at CAD 2.10 (EUR 1.50) within downtown zones. The Compass Card is recommended for multiple journeys, available for purchase at any SkyTrain station.",
-    "bus": "TransLink operates an extensive bus network throughout Vancouver. Bus routes 1, 5, 6, and 23 all stop near Canada Place along West Georgia Street and Burrard Street. The closest bus stop to the cruise terminal is at the intersection of Burrard Street and Canada Place Way. A single fare costs CAD 3.20 (EUR 2.25) with transfers valid for 90 minutes. Download the Transit App or Google Maps for real-time bus arrival information.",
-    "taxi": "Taxis and rideshares (Uber and Lyft are both legal in Vancouver) are readily available throughout downtown. From Canada Place, expect to pay approximately CAD 10-15 (EUR 7-11) to anywhere in the downtown core, CAD 35-50 (EUR 24-35) to YVR airport, and CAD 60-80 (EUR 42-56) to Victoria via ferry connections. Taxi stands are located on Burrard Street just steps from the terminal entrance.",
-    "walkability": "Vancouver is exceptionally walkable from Canada Place. The cruise terminal sits at the eastern edge of the downtown peninsula, with most major attractions, restaurants, and hotels within a 20-minute walk. The waterfront seawall path provides scenic pedestrian access to Stanley Park to the north and False Creek to the south. Flat terrain (except heading north toward Stanley Park) makes exploring on foot comfortable for most passengers."
-  },
-  "weather": {
-    "bestMonths": "The optimal cruising window from Vancouver is May through September, with June, July, and August offering the warmest temperatures and longest daylight hours. May and September see fewer crowds, lower prices, and still-pleasant weather, though there's a higher chance of rain in May. September offers the best chance of spotting wildlife as salmon return to coastal waters.",
-    "peakSeason": "Peak cruise season runs from late June through mid-August, coinciding with school summer holidays and the warmest weather in Alaska. During this period, Vancouver typically sees 30+ ships per week departing, and the port can feel extremely busy. Advance reservations for hotels and restaurants are essential. If flexibility is possible, late May or early September offer nearly identical experiences with significantly less crowding.",
-    "climate": "Vancouver enjoys a temperate oceanic climate rarely experiencing extreme temperatures. Summer highs average 20-25°C (68-77°F), while winter lows rarely drop below freezing. However, weather can change rapidly—a sunny morning can turn to rain by afternoon, especially in spring and fall. For Alaska cruises, pack layers including waterproof outerwear, as sea conditions can be cool and misty even in summer. Walking shoes are essential for exploring the ship and port areas."
-  },
-  "cruiseLinesFromHere": [
-    "Princess Cruises",
-    "Holland America Line",
-    "Norwegian Cruise Line",
-    "Royal Caribbean International",
-    "Celebrity Cruises",
-    "Cunard Line",
-    "Disney Cruise Line"
-  ],
-  "isDeparture": true,
-  "isCallPort": true,
-  "insiderTips": [
-    "Book a reservation at Seasons in the Park or the floating restaurant The Park at Cafe Deluxe at the Vancouver Rowing Club before your cruise. These lakeside establishments near Stanley Park offer incredible mountain views and local Pacific Northwest cuisine that most tourists never discover—but locals swear by them.",
-    "Skip the expensive shore excursion and take the Aquabus (CAD 4.50) to Granville Island instead. The Public Market is world-class, the Granville Island Brewing Company offers free tastings, and you can watch artisans at work in the studios—it's a genuine local experience that costs a fraction of organized tours.",
-    "The Port of Vancouver offers a free 'Ships to Shore' interpretative walk along the waterfront every Saturday morning from May through October. Led by volunteer guides, it covers the port's history and maritime operations—perfect for first-time visitors wanting to understand the city's relationship with the sea.",
-    "Save money on airport transfers by taking the Canada Line to Templeton Station, then walking five minutes to the InMotion car rental lot. They offer free shuttles to YVR from there, and you'll save CAD 15-20 compared to downtown taxi fares.",
-    "For cruisers staying downtown the night before, the Granville Street public market vendors set up fresh fruit and pastries every Thursday afternoon at the Vancouver Art Gallery plaza. It's a perfect grab-and-go breakfast before heading to the ship."
-  ],
-  "faq": [
-    {
-      "question": "What time should I arrive at Vancouver cruise port on departure day?",
-      "answer": "For most cruise departures from Vancouver, aim to arrive at Canada Place between 11:00 AM and 12:30 PM. The cruise line will specify your check-in window, but arriving significantly earlier results in long queues with no added benefit. Security screening and check-in typically take 30-45 minutes, so there's no advantage to being among the first in line unless you have specific early-access reasons."
-    },
-    {
-      "question": "Is Vancouver cruise port within walking distance of downtown hotels?",
-      "answer": "Yes, absolutely. Canada Place is located at the eastern edge of downtown Vancouver, and most major hotels in the downtown core are within a 10-20 minute walk. The walk is flat and scenic along the waterfront. However, if your hotel is in areas like Yaletown or near BC Place Stadium, expect a 25-30 minute walk. Many passengers choose to walk to the port with their luggage on departure day rather than dealing with transportation logistics."
-    },
-    {
-      "question": "Where can I park my car for a cruise from Vancouver?",
-      "answer": "The most convenient option is the Port of Vancouver's official cruise parking at Canada Place, which costs approximately CAD 35-50 (EUR 24-35) per day. Reservations are available online and strongly recommended for peak season. Alternative options include the Vancouver Convention Centre parkade (CAD 30-40/day) and various private lots on Burrard Street. Some downtown hotels offer cruise parking packages—contact your hotel directly if you're staying overnight before departure."
-    },
-    {
-      "question": "What happens if my cruise departs from Ballantyne Pier instead of Canada Place?",
-      "answer": "Ballantyne Pier is used as overflow during peak periods. While facilities are more basic than Canada Place, cruise lines provide dedicated shuttle buses between Ballantyne and Canada Place. There's typically no need to arrange separate transportation—the cruise line handles logistics. However, be aware that there's minimal shade and seating at Ballantyne, so dress appropriately for the weather and bring water. The area is less pedestrian-friendly, so budget extra time to get oriented upon arrival."
-    }
-  ]
+ "slug": "vancouver",
+ "name": "Vancouver",
+ "city": "Vancouver",
+ "country": "Canada",
+ "iata": "YVR",
+ "region": "Alaska",
+ "metaTitle": "Vancouver Cruise Port Guide 2026 — Terminals, Transport & Tips",
+ "metaDescription": "Complete guide to Vancouver cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+ "heroSubtitle": "Everything you need to know before your cruise from Vancouver",
+ "overview": "Vancouver serves as one of North America's premier departure ports for Alaska cruises, with over 800,000 passengers annually passing through its state-of-the-art cruise facilities. The city consistently ranks among the world's most beautiful ports, nestled between the Pacific Ocean and the Coast Mountains, offering passengers stunning views from the moment they arrive. Canada Place, the iconic sail-shaped cruise terminal, has been serving passengers since 1986 and underwent major renovations in 2019-2020 to improve the passenger experience. What makes Vancouver special is its perfect combination of urban sophistication and natural beauty—passengers can explore world-class dining, shopping, and attractions before or after their voyage, all within walking distance of the cruise terminal. The port operates primarily from May through October, aligning perfectly with the Alaska cruise season, and is served by major cruise lines including Princess, Holland America, Norwegian, Royal Caribbean, Celebrity, Cunard, and Disney Cruise Line.",
+ "terminals": [
+ {
+ "name": "Canada Place Cruise Terminal",
+ "description": "The iconic sail-shaped Canada Place serves as Vancouver's primary cruise facility and is one of the most recognizable cruise terminals in the world. This world-class facility can accommodate up to four ultra-large cruise ships simultaneously and features a dedicated baggage processing area, comfortable waiting lounges, and direct waterfront access. The terminal underwent a comprehensive renovation completed in 2020, adding modern check-in counters, expanded retail space, and improved passenger flow systems.",
+ "cruiseLines": [
+ "Princess Cruises",
+ "Holland America Line",
+ "Norwegian Cruise Line",
+ "Royal Caribbean International",
+ "Celebrity Cruises",
+ "Cunard Line",
+ "Disney Cruise Line"
+ ],
+ "facilities": [
+ "Baggage drop-off area",
+ "Climate-controlled waiting lounges",
+ "Information desk",
+ "Currency exchange",
+ "Coffee shops and snack bars",
+ "Retail gift shops",
+ "Free WiFi",
+ "Accessible restrooms",
+ "Luggage storage (pre-cruise)",
+ "Cruise line check-in counters",
+ "Security screening"
+ ]
+ },
+ {
+ "name": "Ballantyne Pier",
+ "description": "Ballantyne Pier is the secondary cruise facility used primarily during peak season when Canada Place reaches capacity. This industrial-style terminal is located approximately 1.5 km from Canada Place and is typically used by Holland America Line and Princess for overflow vessels. Passengers should note that facilities here are more limited, though shuttle buses are usually provided between Ballantyne and Canada Place for passenger convenience.",
+ "cruiseLines": [
+ "Princess Cruises",
+ "Holland America Line"
+ ],
+ "facilities": [
+ "Basic passenger waiting area",
+ "Portable restroom facilities",
+ "Security screening",
+ "Limited refreshment vending",
+ "Shuttle service to Canada Place"
+ ]
+ }
+ ],
+ "gettingThere": {
+ "fromAirport": "Vancouver International Airport (YVR) is located on Sea Island in Richmond, approximately 12 kilometers from the Canada Place cruise terminal. The most convenient option is the Canada Line SkyTrain, which connects directly from YVR to Vancouver's Waterfront Station in just 26 minutes (adult fare: CAD 9.20 / ~EUR 6.50). From Waterfront Station, Canada Place is a scenic 8-minute walk along the waterfront. Taxis and rideshares (Uber/Lyft) are readily available at the airport and cost approximately CAD 35-45 (EUR 24-32) depending on traffic. Hotel shuttles are another popular option, with many downtown hotels offering free airport transfers—check with your accommodation in advance. If arriving via floatplane, seaplanes land at Vancouver Harbour Flight Centre, which is directly adjacent to Canada Place.",
+ "fromCityCenter": "Vancouver's cruise terminal at Canada Place is exceptionally well-connected to the city center. The terminal is located at the eastern edge of downtown Vancouver, making it highly walkable from most downtown hotels. From the central business district (around Robson Square), it's approximately a 15-minute downhill walk to Canada Place, offering beautiful views of the harbour along the way. The SkyTrain's Expo and Canada Lines connect to Waterfront Station, which is the closest station to Canada Place. Taxis from anywhere in downtown Vancouver typically cost CAD 10-15 (EUR 7-11) and take 5-10 minutes depending on traffic.",
+ "parking": "Cruise passengers driving to Vancouver have several parking options. The most convenient is the Port of Vancouver's designated cruise parking at the Canada Place facility, with rates of approximately CAD 35-50 (EUR 24-35) per day for covered parking. Advance booking is strongly recommended during peak season (June-August) as spaces fill quickly. Alternative downtown parking garages within walking distance include the Vancouver Convention Centre parkade (CAD 30-40/day / EUR 21-28) and various private lots on Burrard Street and Georgia Street. Note that some hotels offer cruise parking packages—contact your hotel directly if staying overnight before departure.",
+ "shuttles": "Most major cruise lines offer complimentary port-to-hotel shuttles on embarkation day, typically departing from designated hotels in the downtown core. These shuttles run every 30-45 minutes starting from early morning and require advance booking through the cruise line. Airport shuttles are available through companies like YVR SkyLynx (CAD 16 / EUR 11 one-way) and various private operators, though the SkyTrain is generally faster and more reliable. For passengers arriving at Vancouver Harbour Seaplane Base, no shuttle is needed—the terminal is a 3-minute walk from Canada Place."
+ },
+ "embarkationTips": [
+ "Arrive at Canada Place no earlier than 11:00 AM for afternoon departures—even if your cruise line suggests earlier, the terminal gets overwhelmingly crowded before noon, and you'll spend hours in line rather than enjoying the city.",
+ "Skip the expensive airport hotels the night before your cruise and stay downtown instead—the walk from most downtown hotels to Canada Place is flat and scenic, saving you both money and stress on embarkation morning.",
+ "If you're docking at Ballantyne Pier instead of Canada Place, note that there's virtually no shade or seating outside the terminal. Bring sunscreen and consider timing your arrival to avoid the midday sun during July and August.",
+ "Download your cruise line's app before arriving and complete online check-in 24 hours before departure. Vancouver's port authority now requires digital boarding passes, and having everything ready significantly speeds up the security process.",
+ "The Port of Vancouver has strict no-pedestrian-vehicle zones around Canada Place during peak hours. If you're being dropped off by rideshare, use the designated passenger drop-off on Cambie Street rather than attempting to get closer to the terminal—your driver will thank you."
+ ],
+ "nearbyAttractions": [
+ {
+ "name": "Stanley Park",
+ "description": "North America's third-largest urban park sits just minutes from the cruise terminal and offers 400 hectares of pristine forest, stunning seawall views, and attractions like the Vancouver Aquarium and Siwash Rock. Cruise passengers should rent bikes and cycle the famous seawall or walk the trails through old-growth cedars.",
+ "walkingTime": "25 minutes or 2 km from Canada Place",
+ "cost": "Free to enter; bike rental CAD 15-35/hour (EUR 11-25)"
+ },
+ {
+ "name": "Granville Island",
+ "description": "This vibrant arts and foodie district under the Granville Street Bridge is a Vancouver must-visit. The famous Public Market offers fresh local produce, artisan foods, and unique crafts. Take the Aquabus from the dock near Canada Place for a scenic 10-minute water taxi ride.",
+ "walkingTime": "Aquabus ride from nearby dock (10 min)",
+ "cost": "Aquabus CAD 4.50 (EUR 3.20) each way; Public Market free to enter"
+ },
+ {
+ "name": "Gastown",
+ "description": "Vancouver's oldest neighborhood features cobblestone streets, the iconic Steam Clock, and excellent restaurants and boutiques. The area has transformed into a trendy dining destination while retaining its historic character. It's a 10-minute walk west from Canada Place through the downtown core.",
+ "walkingTime": "10 minutes from Canada Place",
+ "cost": "Free to walk around; shopping and dining at your own expense"
+ },
+ {
+ "name": "Vancouver Art Gallery & Robson Square",
+ "description": "British Columbia's largest art museum sits at the heart of downtown Vancouver, just steps from the cruise terminal. The surrounding Robson Square features ice skating (seasonal), fountains, and outdoor seating areas perfect for people-watching.",
+ "walkingTime": "12 minutes from Canada Place",
+ "cost": "Gallery admission CAD 24 (EUR 17) for adults"
+ },
+ {
+ "name": "Coal Harbour & Harbour Green Park",
+ "description": "The waterfront area directly adjacent to Canada Place offers stunning mountain and ocean views, scenic walking paths, and resident seal colonies often visible from the seawall. It's perfect for a pre-cruise stroll and photo opportunities with the North Shore Mountains as backdrop.",
+ "walkingTime": "2 minutes from Canada Place",
+ "cost": "Free"
+ },
+ {
+ "name": "Capilano Suspension Bridge Park",
+ "description": "For passengers with longer layover time, this iconic bridge suspended 70 meters above the Capilano River provides an adrenaline rush and spectacular rainforest views. Located in North Vancouver, it's accessible by free shuttle from various downtown locations.",
+ "walkingTime": "Shuttle required (25 min drive)",
+ "cost": "CAD 54.95 (EUR 39) per adult"
+ }
+ ],
+ "localTransport": {
+ "metro": "Vancouver's SkyTrain system operates three lines: Expo, Millennium, and Canada Line. The Canada Line is most relevant for cruise passengers, connecting Vancouver International Airport directly to Waterfront Station—the closest station to Canada Place (8-minute walk). Trains run frequently from early morning until well past midnight, with fares starting at CAD 2.10 (EUR 1.50) within downtown zones. The Compass Card is recommended for multiple journeys, available for purchase at any SkyTrain station.",
+ "bus": "TransLink operates an extensive bus network throughout Vancouver. Bus routes 1, 5, 6, and 23 all stop near Canada Place along West Georgia Street and Burrard Street. The closest bus stop to the cruise terminal is at the intersection of Burrard Street and Canada Place Way. A single fare costs CAD 3.20 (EUR 2.25) with transfers valid for 90 minutes. Download the Transit App or Google Maps for real-time bus arrival information.",
+ "taxi": "Taxis and rideshares (Uber and Lyft are both legal in Vancouver) are readily available throughout downtown. From Canada Place, expect to pay approximately CAD 10-15 (EUR 7-11) to anywhere in the downtown core, CAD 35-50 (EUR 24-35) to YVR airport, and CAD 60-80 (EUR 42-56) to Victoria via ferry connections. Taxi stands are located on Burrard Street just steps from the terminal entrance.",
+ "walkability": "Vancouver is exceptionally walkable from Canada Place. The cruise terminal sits at the eastern edge of the downtown peninsula, with most major attractions, restaurants, and hotels within a 20-minute walk. The waterfront seawall path provides scenic pedestrian access to Stanley Park to the north and False Creek to the south. Flat terrain (except heading north toward Stanley Park) makes exploring on foot comfortable for most passengers."
+ },
+ "weather": {
+ "bestMonths": "The optimal cruising window from Vancouver is May through September, with June, July, and August offering the warmest temperatures and longest daylight hours. May and September see fewer crowds, lower prices, and still-pleasant weather, though there's a higher chance of rain in May. September offers the best chance of spotting wildlife as salmon return to coastal waters.",
+ "peakSeason": "Peak cruise season runs from late June through mid-August, coinciding with school summer holidays and the warmest weather in Alaska. During this period, Vancouver typically sees 30+ ships per week departing, and the port can feel extremely busy. Advance reservations for hotels and restaurants are essential. If flexibility is possible, late May or early September offer nearly identical experiences with significantly less crowding.",
+ "climate": "Vancouver enjoys a temperate oceanic climate rarely experiencing extreme temperatures. Summer highs average 20-25°C (68-77°F), while winter lows rarely drop below freezing. However, weather can change rapidly—a sunny morning can turn to rain by afternoon, especially in spring and fall. For Alaska cruises, pack layers including waterproof outerwear, as sea conditions can be cool and misty even in summer. Walking shoes are essential for exploring the ship and port areas."
+ },
+ "cruiseLinesFromHere": [
+ "Princess Cruises",
+ "Holland America Line",
+ "Norwegian Cruise Line",
+ "Royal Caribbean International",
+ "Celebrity Cruises",
+ "Cunard Line",
+ "Disney Cruise Line"
+ ],
+ "isDeparture": true,
+ "isCallPort": true,
+ "insiderTips": [
+ "Book a reservation at Seasons in the Park or the floating restaurant The Park at Cafe Deluxe at the Vancouver Rowing Club before your cruise. These lakeside establishments near Stanley Park offer incredible mountain views and local Pacific Northwest cuisine that most tourists never discover—but locals swear by them.",
+ "Skip the expensive shore excursion and take the Aquabus (CAD 4.50) to Granville Island instead. The Public Market is world-class, the Granville Island Brewing Company offers free tastings, and you can watch artisans at work in the studios—it's a genuine local experience that costs a fraction of organized tours.",
+ "The Port of Vancouver offers a free 'Ships to Shore' interpretative walk along the waterfront every Saturday morning from May through October. Led by volunteer guides, it covers the port's history and maritime operations—perfect for first-time visitors wanting to understand the city's relationship with the sea.",
+ "Save money on airport transfers by taking the Canada Line to Templeton Station, then walking five minutes to the InMotion car rental lot. They offer free shuttles to YVR from there, and you'll save CAD 15-20 compared to downtown taxi fares.",
+ "For cruisers staying downtown the night before, the Granville Street public market vendors set up fresh fruit and pastries every Thursday afternoon at the Vancouver Art Gallery plaza. It's a perfect grab-and-go breakfast before heading to the ship."
+ ],
+ "faq": [
+ {
+ "question": "What time should I arrive at Vancouver cruise port on departure day?",
+ "answer": "For most cruise departures from Vancouver, aim to arrive at Canada Place between 11:00 AM and 12:30 PM. The cruise line will specify your check-in window, but arriving significantly earlier results in long queues with no added benefit. Security screening and check-in typically take 30-45 minutes, so there's no advantage to being among the first in line unless you have specific early-access reasons."
+ },
+ {
+ "question": "Is Vancouver cruise port within walking distance of downtown hotels?",
+ "answer": "Yes, absolutely. Canada Place is located at the eastern edge of downtown Vancouver, and most major hotels in the downtown core are within a 10-20 minute walk. The walk is flat and scenic along the waterfront. However, if your hotel is in areas like Yaletown or near BC Place Stadium, expect a 25-30 minute walk. Many passengers choose to walk to the port with their luggage on departure day rather than dealing with transportation logistics."
+ },
+ {
+ "question": "Where can I park my car for a cruise from Vancouver?",
+ "answer": "The most convenient option is the Port of Vancouver's official cruise parking at Canada Place, which costs approximately CAD 35-50 (EUR 24-35) per day. Reservations are available online and strongly recommended for peak season. Alternative options include the Vancouver Convention Centre parkade (CAD 30-40/day) and various private lots on Burrard Street. Some downtown hotels offer cruise parking packages—contact your hotel directly if you're staying overnight before departure."
+ },
+ {
+ "question": "What happens if my cruise departs from Ballantyne Pier instead of Canada Place?",
+ "answer": "Ballantyne Pier is used as overflow during peak periods. While facilities are more basic than Canada Place, cruise lines provide dedicated shuttle buses between Ballantyne and Canada Place. There's typically no need to arrange separate transportation—the cruise line handles logistics. However, be aware that there's minimal shade and seating at Ballantyne, so dress appropriately for the weather and bring water. The area is less pedestrian-friendly, so budget extra time to get oriented upon arrival."
+ }
+ ]
 }

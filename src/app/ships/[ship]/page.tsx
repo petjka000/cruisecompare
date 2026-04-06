@@ -74,7 +74,7 @@ export async function generateMetadata({
   if (!data) return { title: 'Ship Not Found' };
 
   return {
-    title: data.metaTitle || `${data.name} Review | CruiseCompare`,
+    title: data.metaTitle || `${data.name} Review`,
     description: data.metaDescription,
   };
 }

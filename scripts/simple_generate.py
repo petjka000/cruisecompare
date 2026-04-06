@@ -7,7 +7,24 @@ import time
 import urllib.request
 from pathlib import Path
 
-MINIMAX_TOKEN = "sk-cp-O6BvckIL-zQG3T61lPeLT3zWxw-ZesYJsDm2KsAIc5iU1sKcGmdQUpUwUN0rimdEcugNc9-tASErIDy03KTv_WI3PEU75pKNnn04jUbdG1l8ubBbEMuI4lU"
+import os as _os
+from pathlib import Path as _Path
+
+def _load_minimax_token() -> str:
+    auth_path = _Path.home() / '.openclaw/agents/main/agent/auth-profiles.json'
+    try:
+        profiles = json.loads(auth_path.read_text())
+        token = profiles.get('profiles', {}).get('minimax-portal:default', {}).get('access', '')
+        if token:
+            return token
+    except Exception:
+        pass
+    key = _os.environ.get('MINIMAX_API_KEY', '')
+    if not key:
+        raise SystemExit('MINIMAX_API_KEY not set and auth-profiles.json missing')
+    return key
+
+MINIMAX_TOKEN = _load_minimax_token()
 WORKSPACE = Path("/home/padmin/workspace/cruisecompare")
 DATA_DIR = WORKSPACE / "src/data/taxonomy"
 GEN_DIR = WORKSPACE / "src/data/generated"

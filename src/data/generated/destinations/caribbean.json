@@ -1,157 +1,157 @@
 {
-  "slug": "caribbean",
-  "name": "Caribbean",
-  "region": "Americas",
-  "metaTitle": "Caribbean Cruises Guide 2026 — Best Routes, Ports & Tips",
-  "metaDescription": "Complete guide to cruising the Caribbean. Best time to visit, top ports, what to expect, and how to plan your Caribbean cruise.",
-  "heroSubtitle": "Your complete Caribbean cruise planning guide",
-  "overview": "The Caribbean remains the world's most popular cruise destination, and for good reason. Stretching from Florida's southern tip down to the northern coast of South America, this paradise encompasses over 7,000 islands, each offering distinct cultures, landscapes, and experiences. Whether you're seeking pristine beaches, world-class snorkelling on coral reefs, adventurous jungle excursions, or simply relaxation under swaying palms, the Caribbean delivers on every front. Most departures operate from Florida ports (Miami, Port Canaveral, Fort Lauderdale) or San Juan in Puerto Rico, making access remarkably convenient for European travellers with direct flights.\n\nThe region divides into three distinct cruising areas: Eastern Caribbean routes showcase the US Virgin Islands and British Virgin Islands with their calm, sheltered waters and excellent beaches; Western Caribbean itineraries feature the Yucatan Peninsula's Mayan ruins, Belize's Barrier Reef, and Honduras's Bay Islands; Southern Caribbean voyages venture to the Lesser Antilles, revealing Dutch colonial architecture in Curaçao, stunning beaches in Aruba, and volcanic landscapes in St. Lucia. Each sub-region offers dramatically different experiences despite the relatively short distances between ports.\n\nCaribbean cruises suit every traveller type—from families seeking beach days and water parks to couples chasing romance and honeymoon memories, from adventure seekers wanting zip-lines and cave tubing to foodies eager to explore jerk spice trails and fresh-caught seafood. The laid-back island rhythm, warm hospitality, and consistently beautiful weather create an atmosphere that's difficult to replicate anywhere else on earth.",
-  "subRegions": [
-    "Eastern Caribbean",
-    "Western Caribbean",
-    "Southern Caribbean"
-  ],
-  "bestTimeToVisit": {
-    "peak": "December to mid-April",
-    "shoulder": "January and February offer the best balance of perfect weather and fewer crowds",
-    "avoid": "August through October — peak hurricane season brings the highest risk of itinerary disruptions",
-    "tip": "Book Christmas and New Year sailings 12-18 months in advance for the best cabin selection. If flexibility allows, late January through mid-March often delivers ideal conditions with lower prices than peak season."
-  },
-  "topPorts": [
-    {
-      "name": "Cozumel, Mexico",
-      "highlight": "Snorkelling at Chankanaab, Mayan ruins at Tulum",
-      "description": "Cozumel draws cruisers primarily for its world-class snorkelling and diving along the Palancar Reef, part of the Mesoamerican Barrier Reef System. The island also serves as a gateway to the magnificent Mayan ruins at Tulum, perched dramatically on clifftops above the Caribbean. San Miguel, the main town, offers excellent shopping on Avenida Melgar and authentic Mexican cuisine at local taquerías. The all-inclusive beach clubs at Chankanaab Adventure Beach Park provide convenient amenities for families."
-    },
-    {
-      "name": "Nassau, Bahamas",
-      "highlight": "Cable Beach, Atlantis Paradise Island, Queen's Staircase",
-      "description": "The vibrant capital of the Bahamas delivers colonial history alongside beach resort culture. Nassau's pastel-painted colonial buildings reflect its British heritage, while the neighbouring Atlantis resort on Paradise Island draws families with its famous water park and marine exhibits. The Queen's Staircase—67 hand-carved limestone steps—offers a historical hike, and Cable Beach provides reliable sun-and-sand relaxation within walking distance of the cruise port."
-    },
-    {
-      "name": "Charlotte Amalie, St. Thomas (USVI)",
-      "highlight": "Magens Bay Beach, duty-free shopping, Mountain Top viewpoint",
-      "description": "As a US territory, St. Thomas welcomes American visitors without passport requirements and offers exceptional duty-free shopping along Main Street. Magens Bay consistently ranks among the Caribbean's most beautiful beaches, while Mountain Top provides panoramic views of the bay below. The island's natural harbour is stunning, and ferry connections make it easy to day-trip to St. John for pristine national park beaches."
-    },
-    {
-      "name": "George Town, Grand Cayman",
-      "highlight": "Seven Mile Beach, Stingray City, Rum Point",
-      "description": "Grand Cayman centres on the legendary Seven Mile Beach, where nearly every cruise line offers a beach day at sponsored properties. The unique Stingray City experience allows cruisers to stand in shallow sandbars and interact with friendly southern stingrays in their natural habitat. George Town's shopping district lies steps from the cruise terminal, and the bioluminescent bay at Rum Point (a separate excursion) creates unforgettable evening experiences."
-    },
-    {
-      "name": "San Juan, Puerto Rico",
-      "highlight": "Old San Juan, El Morro Fort, bioluminescent bay",
-      "description": "San Juan combines centuries of Spanish colonial history with modern conveniences. The 16th-century El Morro and San Cristóbal forts form a UNESCO World Heritage Site dominating the entrance to the harbour. Old San Juan's narrow cobblestone streets showcase colourful Spanish colonial architecture, while the nearby Condado district offers beach access and nightlife. Puerto Rico's status as a US territory means no passport required for American citizens and US dollars accepted everywhere."
-    },
-    {
-      "name": "Oranjestad, Aruba",
-      "highlight": "Eagle Beach, California Lighthouse, Casibari Rock formations",
-      "description": "Aruba sits outside the hurricane belt, making it a reliable port even during peak hurricane season. Eagle Beach consistently ranks among the world's most beautiful beaches with its powdery white sand and iconic divi-divi trees bent by trade winds. Oranjestad itself features distinctive Dutch colonial architecture in vibrant colours, excellent restaurants serving Indonesian cuisine influenced by colonial history, and the California Lighthouse at the island's northern tip."
-    }
-  ],
-  "popularItineraries": [
-    {
-      "name": "7-Night Western Caribbean",
-      "from": "Miami",
-      "ports": [
-        "Cozumel",
-        "Grand Cayman",
-        "Roatán (Honduras)",
-        "Costa Maya"
-      ],
-      "priceFrom": 849
-    },
-    {
-      "name": "7-Night Eastern Caribbean",
-      "from": "Port Canaveral",
-      "ports": [
-        "Nassau",
-        "St. Thomas",
-        "Tortola",
-        "Amber Cove"
-      ],
-      "priceFrom": 799
-    },
-    {
-      "name": "7-Night Southern Caribbean",
-      "from": "San Juan",
-      "ports": [
-        "St. Croix",
-        "St. Kitts",
-        "Antigua",
-        "St. Maarten"
-      ],
-      "priceFrom": 929
-    },
-    {
-      "name": "10-Night Ultimate Caribbean",
-      "from": "Fort Lauderdale",
-      "ports": [
-        "Half Moon Cay",
-        "Falmouth (Jamaica)",
-        "Grand Cayman",
-        "Cozumel",
-        "Princess Cays"
-      ],
-      "priceFrom": 1249
-    }
-  ],
-  "cruiseLinesOperating": [
-    "Royal Caribbean International",
-    "Carnival Cruise Line",
-    "Norwegian Cruise Line",
-    "MSC Cruises",
-    "Princess Cruises",
-    "Celebrity Cruises",
-    "Holland America Line",
-    "Virgin Voyages",
-    "Disney Cruise Line",
-    "AIDA Cruises"
-  ],
-  "whatToExpect": {
-    "weather": "Caribbean cruise season runs December through April, with temperatures consistently between 24-30°C. January and February see the lowest rainfall, while May and June offer warmer seas ideal for snorkelling. Humidity ranges from 65-85%. Pack light, breathable clothing in natural fibres—cotton and linen breathe best. Always carry a light rain jacket or cover-up for sudden tropical showers, and expect afternoon thunderstorms especially in summer months. Hurricane season officially spans June through November, with August through October carrying the highest risk.",
-    "food": "Caribbean cuisine reflects the region's complex cultural tapestry of African, European, Indian, and indigenous influences. In Jamaica, seek out authentic jerk chicken from roadside vendors—the smoky, spicy marinade of allspice and scotch bonnet peppers represents the island's soul. Throughout the region, fresh seafood dominates: grilled mahi-mahi, conch fritters in the Bahamas, and ceviche in Aruba. Plantains appear at every meal, either as sweet maduros or crispy tostones. In Puerto Rico, mofongo (garlicky fried plantain) and lechón asado (roast pork) are essential tasting. Most cruise ports feature local beach shacks serving fresh-caught fish at remarkably reasonable prices—budget €15-25 for an excellent casual lunch ashore.",
-    "culture": "Island culture runs relaxed and friendly throughout the Caribbean. Dress codes are generally casual, though swimwear should remain confined to beaches and pool areas. When visiting churches or religious sites, cover shoulders and knees out of respect. Tipping culture follows American norms in tourist areas—15-20% is customary in restaurants and for excursion guides. Photography of local residents, especially children, always requires permission. Most islanders appreciate visitors who engage with local culture rather than staying exclusively within resort or tourist zones. Wednesday is hump day across the Caribbean—many locals celebrate with 'liming' (hanging out) after work.",
-    "currency": "Currency varies significantly across the Caribbean. The US dollar is accepted throughout the US Virgin Islands, British Virgin Islands, Puerto Rico, and the Bahamas. Most Eastern Caribbean islands use the Eastern Caribbean dollar (EC$), pegged at approximately 2.70 EC$ to 1 USD—US dollars are widely accepted at tourist establishments at par. The Netherlands Antillean guilder (ANG) operates in Curaçao and St. Maarten, though US dollars are commonly accepted. Euros are generally not accepted except at some larger cruise line-sponsored venues. Credit cards work widely, but smaller vendors and local markets often prefer cash. ATMs are available at all major cruise ports.",
-    "language": "English serves as the official language throughout the British Virgin Islands, US Virgin Islands, Bahamas, Jamaica, Barbados, Trinidad & Tobago, and the Lesser Antilles. Spanish predominates in Puerto Rico, the Dominican Republic, Cuba, and coastal Central American ports. Dutch is official in Aruba, Curaçao, and Bonaire, though English is widely understood in tourist areas. Papiamento, a Portuguese-based creole with Spanish and Dutch influences, is spoken in Aruba and the ABC islands. French is official in Martinique, Guadeloupe, St. Martin, and St. Lucia, though English-speaking cruisers rarely encounter problems in tourist zones. A basic grasp of Spanish phrases enriches interactions in Spanish-speaking ports."
-  },
-  "insiderTips": [
-    "Book the cheapest inside cabin but upgrade to an oceanview or balcony once onboard—cruise lines frequently offer cabin upgrades at 50-70% discount within 48 hours of departure, often for €80-150 for a 7-night sailing. This strategy works especially well on Caribbean routes where ships sail mostly full.",
-    "Skip the ship's organised excursions at private destinations like Half Moon Cay, Princess Cays, or Perfect Day at CocoCay—your cruise fare already includes beach access, snorkelling equipment, and often kayaks or paddleboards at no extra cost. Bring your own snorkel gear to avoid the rental queue, or simply relax on the excellent beaches without paying for additional activities.",
-    "In Cozumel, skip the expensive ship-sponsored Mayan ruin excursions—book an independent tour through Caribbean Trading Post or西山 Tours for approximately €35-50 per person versus €85-120 through the cruise line. You'll get a smaller group, more personal service, and often visit less crowded ruin sites. The taxi stand outside the cruise terminal offers fixed-price rates to Playa del Carmen or Tulum.",
-    "For the best souvenirs at local prices, venture beyond the tourist shops immediately adjacent to the cruise terminal. In St. Thomas, walk five minutes up Main Street to find better prices and more authentic merchandise. In Nassau, the straw market vendors along Bay Street offer similar goods to the terminal shops at significantly lower prices—negotiate firmly but respectfully.",
-    "If you suffer from seasickness, book Caribbean sailings departing Sunday through Tuesday—weather patterns typically produce calmer seas earlier in the week, and conditions often deteriorate toward the weekend. Position your cabin mid-ship on a low deck where motion is minimal, and bring wristbands or medication regardless of your usual tolerance."
-  ],
-  "packingList": [
-    "Reef-safe sunscreen (minimum SPF 50) — regular chemical sunscreens are banned in several Caribbean destinations including Bonaire and Aruba's marine parks. Expect to pay 2-3 times European prices if you forget, so stock up before departure.",
-    "Light, quick-dry clothing in neutral tones — linen trousers, cotton t-shirts, and breathable cover-ups work for both shipboard dining and shore excursions. Avoid dark colours that absorb heat and show sweat marks in the humidity.",
-    "Water shoes with grippy soles — essential for rocky beaches in Cozumel, stingray encounters in Grand Cayman, and coral-snorkelling throughout the region. Closed-toe options protect feet from sea urchins and broken coral.",
-    "Light rain jacket or packable poncho — tropical downpours arrive suddenly, especially from May through October, but typically pass within 30 minutes. Having protection ensures showers don't derail excursion plans.",
-    "One smart-casual outfit per sailing day — most mainstream cruise lines maintain a casual dress code in main dining rooms, but 'smart casual' nights (trousers, collared shirts for men) are standard on formal evenings. Pack accordingly rather than overstuffing.",
-    "Insect repellent containing DEET or picaridin — mosquitoes exist year-round, particularly at dusk and around standing water. Evening excursions and sunset activities warrant protection, especially during visits to Jamaica, Belize, or Honduras.",
-    "Polarised sunglasses and a wide-brimmed hat — the Caribbean sun is intense year-round, reflecting aggressively off water and white sand. Quality eye protection significantly improves comfort during beach days and water activities.",
-    "Dry bag or waterproof phone pouch — essential for water-based activities including snorkelling, beach days, and water taxi rides in ports like St. Thomas. Protect electronics from unexpected splashes and sand ingress."
-  ],
-  "faq": [
-    {
-      "question": "What is the best time of year to cruise the Caribbean?",
-      "answer": "The optimal cruising window runs from mid-December through mid-April, with January through March offering the finest combination of weather reliability and manageable pricing. During these months, temperatures average 25-29°C, rainfall is minimal, and hurricane risk is at its lowest. Christmas and New Year command premium pricing—expect to pay 30-50% more than shoulder-season rates—but deliver unforgettable festive sailing experiences. February and early March represent the sweet spot for value-conscious travellers: the dry season ensures excellent conditions, spring break crowds haven't yet arrived, and many cruise lines offer early-booking discounts. May through July brings hotter temperatures and building humidity but excellent snorkelling conditions as seas calm. August through October should be avoided unless booking last-minute deals—the Atlantic hurricane season peaks during these months, and itinerary changes due to weather are common."
-    },
-    {
-      "question": "Do I need a visa for Caribbean cruises?",
-      "answer": "Visa requirements depend entirely on your nationality and which specific countries your itinerary visits. EU citizens holding valid passports do not need visas for the Bahamas, Jamaica, the Dominican Republic, or Puerto Rico (as it's a US territory). However, EU citizens should verify specific requirements for their home country's entry rules. US citizens do not need passports for USVI, Puerto Rico, or other US territories, but REQUIRE valid passports (or passport cards) for all foreign ports including the Bahamas, Jamaica, Cayman Islands, and all other Caribbean nations. ESTA authorization is required for any itinerary visiting US ports if you're not a US citizen. Travelers should carry six months validity on their passport beyond the cruise end date as a standard requirement. For complex itineraries visiting multiple nations, consult your cruise line's visa specialist service or a travel agent familiar with your specific nationality's requirements."
-    },
-    {
-      "question": "How many days do I need for a Caribbean cruise?",
-      "answer": "Seven nights represents the industry standard for Caribbean itineraries and provides an excellent introduction—most major cruise lines offer dozens of seven-night options departing weekly from Florida ports. This duration allows visiting 3-4 distinct ports while providing two full sea days for shipboard activities and relaxation. Shorter three- and four-night sailings to the Bahamas work well for first-time cruisers or those with limited time, though they visit only one or two ports. Ten-night voyages unlock the Southern Caribbean routes and add St. Kitts, Antigua, or Martinique to itineraries. Truly dedicated Caribbean enthusiasts should consider repositioning sailings or extended voyages of 14+ nights that visit a broader range of islands—these premium journeys often include lesser-visited destinations like St. Vincent, Dominica, or Trinidad. We recommend adding at least two or three days of land-based travel before or after your cruise to explore your departure city (Miami's Art Deco District, for instance) or recover from your flight before boarding."
-    },
-    {
-      "question": "What should I budget for shore excursions in the Caribbean?",
-      "answer": "Excursion pricing spans a broad range, from free beach time at private islands to premium experiences exceeding €200 per person. Budget approximately €50-85 per person for standard half-day excursions (city tours, beach days, snorkel trips), €90-150 for enhanced experiences including water sports, zip-lining, or more comprehensive cultural tours, and €150-250+ for premium adventures like scuba certification, private boat charters, or helicopter transfers. The cheapest excursion category typically covers beach club access and snorkel equipment. Free activities exist at most ports: walking tours of colonial old towns (San Juan, Nassau), beach visits (Magens Bay in St. Thomas is free), and local market explorations require only transportation via local taxi (budget €10-20 each way per couple). Avoid the ship's highest-markup tours by booking through independent operators at the port—a reputable local tour company typically charges 40-60% less than cruise line equivalents for comparable experiences. Always verify operator credentials and return-taxi arrangements before booking independently."
-    },
-    {
-      "question": "Is the Caribbean safe for cruisers?",
-      "answer": "The Caribbean islands visited by cruise ships maintain strong tourism infrastructures and the major ports are generally safe during daylight hours. However, like any destination, situational awareness matters. Cruise terminals and tourist zones have visible security presence, but venturing into non-tourist areas requires caution—research your specific port's safety profile before arrival. Petty theft (pickpocketing, beach theft) represents the primary concern—use cabin safes for valuables, avoid carrying excessive cash, and never leave items unattended on beaches. St. Maarten (especially Dutch side), Kingston (Jamaica), and parts of San Juan warrant more caution than purpose-built resort ports like Half Moon Cay. Women travellers should take standard precautions and avoid walking alone at night in unfamiliar areas. Cruise lines select ports based on safety assessments and will alter itineraries if security concerns arise. Purchase comprehensive travel insurance covering medical evacuation—hospitals in smaller islands may lack advanced facilities, and medical repatriation can cost tens of thousands of euros without coverage."
-    }
-  ]
+ "slug": "caribbean",
+ "name": "Caribbean",
+ "region": "Americas",
+ "metaTitle": "Caribbean Cruises Guide 2026 — Best Routes, Ports & Tips",
+ "metaDescription": "Complete guide to cruising the Caribbean. Best time to visit, top ports, what to expect, and how to plan your Caribbean cruise.",
+ "heroSubtitle": "Your complete Caribbean cruise planning guide",
+ "overview": "The Caribbean remains the world's most popular cruise destination, and for good reason. Stretching from Florida's southern tip down to the northern coast of South America, this paradise encompasses over 7,000 islands, each offering distinct cultures, landscapes, and experiences. Whether you're seeking pristine beaches, world-class snorkelling on coral reefs, adventurous jungle excursions, or simply relaxation under swaying palms, the Caribbean delivers on every front. Most departures operate from Florida ports (Miami, Port Canaveral, Fort Lauderdale) or San Juan in Puerto Rico, making access remarkably convenient for European travellers with direct flights.\n\nThe region divides into three distinct cruising areas: Eastern Caribbean routes showcase the US Virgin Islands and British Virgin Islands with their calm, sheltered waters and excellent beaches; Western Caribbean itineraries feature the Yucatan Peninsula's Mayan ruins, Belize's Barrier Reef, and Honduras's Bay Islands; Southern Caribbean voyages venture to the Lesser Antilles, revealing Dutch colonial architecture in Curaçao, stunning beaches in Aruba, and volcanic landscapes in St. Lucia. Each sub-region offers dramatically different experiences despite the relatively short distances between ports.\n\nCaribbean cruises suit every traveller type—from families seeking beach days and water parks to couples chasing romance and honeymoon memories, from adventure seekers wanting zip-lines and cave tubing to foodies eager to explore jerk spice trails and fresh-caught seafood. The laid-back island rhythm, warm hospitality, and consistently beautiful weather create an atmosphere that's difficult to replicate anywhere else on earth.",
+ "subRegions": [
+ "Eastern Caribbean",
+ "Western Caribbean",
+ "Southern Caribbean"
+ ],
+ "bestTimeToVisit": {
+ "peak": "December to mid-April",
+ "shoulder": "January and February offer the best balance of perfect weather and fewer crowds",
+ "avoid": "August through October — peak hurricane season brings the highest risk of itinerary disruptions",
+ "tip": "Book Christmas and New Year sailings 12-18 months in advance for the best cabin selection. If flexibility allows, late January through mid-March often delivers ideal conditions with lower prices than peak season."
+ },
+ "topPorts": [
+ {
+ "name": "Cozumel, Mexico",
+ "highlight": "Snorkelling at Chankanaab, Mayan ruins at Tulum",
+ "description": "Cozumel draws cruisers primarily for its world-class snorkelling and diving along the Palancar Reef, part of the Mesoamerican Barrier Reef System. The island also serves as a gateway to the magnificent Mayan ruins at Tulum, perched dramatically on clifftops above the Caribbean. San Miguel, the main town, offers excellent shopping on Avenida Melgar and authentic Mexican cuisine at local taquerías. The all-inclusive beach clubs at Chankanaab Adventure Beach Park provide convenient amenities for families."
+ },
+ {
+ "name": "Nassau, Bahamas",
+ "highlight": "Cable Beach, Atlantis Paradise Island, Queen's Staircase",
+ "description": "The vibrant capital of the Bahamas delivers colonial history alongside beach resort culture. Nassau's pastel-painted colonial buildings reflect its British heritage, while the neighbouring Atlantis resort on Paradise Island draws families with its famous water park and marine exhibits. The Queen's Staircase—67 hand-carved limestone steps—offers a historical hike, and Cable Beach provides reliable sun-and-sand relaxation within walking distance of the cruise port."
+ },
+ {
+ "name": "Charlotte Amalie, St. Thomas (USVI)",
+ "highlight": "Magens Bay Beach, duty-free shopping, Mountain Top viewpoint",
+ "description": "As a US territory, St. Thomas welcomes American visitors without passport requirements and offers exceptional duty-free shopping along Main Street. Magens Bay consistently ranks among the Caribbean's most beautiful beaches, while Mountain Top provides panoramic views of the bay below. The island's natural harbour is stunning, and ferry connections make it easy to day-trip to St. John for pristine national park beaches."
+ },
+ {
+ "name": "George Town, Grand Cayman",
+ "highlight": "Seven Mile Beach, Stingray City, Rum Point",
+ "description": "Grand Cayman centres on the legendary Seven Mile Beach, where nearly every cruise line offers a beach day at sponsored properties. The unique Stingray City experience allows cruisers to stand in shallow sandbars and interact with friendly southern stingrays in their natural habitat. George Town's shopping district lies steps from the cruise terminal, and the bioluminescent bay at Rum Point (a separate excursion) creates unforgettable evening experiences."
+ },
+ {
+ "name": "San Juan, Puerto Rico",
+ "highlight": "Old San Juan, El Morro Fort, bioluminescent bay",
+ "description": "San Juan combines centuries of Spanish colonial history with modern conveniences. The 16th-century El Morro and San Cristóbal forts form a UNESCO World Heritage Site dominating the entrance to the harbour. Old San Juan's narrow cobblestone streets showcase colourful Spanish colonial architecture, while the nearby Condado district offers beach access and nightlife. Puerto Rico's status as a US territory means no passport required for American citizens and US dollars accepted everywhere."
+ },
+ {
+ "name": "Oranjestad, Aruba",
+ "highlight": "Eagle Beach, California Lighthouse, Casibari Rock formations",
+ "description": "Aruba sits outside the hurricane belt, making it a reliable port even during peak hurricane season. Eagle Beach consistently ranks among the world's most beautiful beaches with its powdery white sand and iconic divi-divi trees bent by trade winds. Oranjestad itself features distinctive Dutch colonial architecture in vibrant colours, excellent restaurants serving Indonesian cuisine influenced by colonial history, and the California Lighthouse at the island's northern tip."
+ }
+ ],
+ "popularItineraries": [
+ {
+ "name": "7-Night Western Caribbean",
+ "from": "Miami",
+ "ports": [
+ "Cozumel",
+ "Grand Cayman",
+ "Roatán (Honduras)",
+ "Costa Maya"
+ ],
+ "priceFrom": 849
+ },
+ {
+ "name": "7-Night Eastern Caribbean",
+ "from": "Port Canaveral",
+ "ports": [
+ "Nassau",
+ "St. Thomas",
+ "Tortola",
+ "Amber Cove"
+ ],
+ "priceFrom": 799
+ },
+ {
+ "name": "7-Night Southern Caribbean",
+ "from": "San Juan",
+ "ports": [
+ "St. Croix",
+ "St. Kitts",
+ "Antigua",
+ "St. Maarten"
+ ],
+ "priceFrom": 929
+ },
+ {
+ "name": "10-Night Ultimate Caribbean",
+ "from": "Fort Lauderdale",
+ "ports": [
+ "Half Moon Cay",
+ "Falmouth (Jamaica)",
+ "Grand Cayman",
+ "Cozumel",
+ "Princess Cays"
+ ],
+ "priceFrom": 1249
+ }
+ ],
+ "cruiseLinesOperating": [
+ "Royal Caribbean International",
+ "Carnival Cruise Line",
+ "Norwegian Cruise Line",
+ "MSC Cruises",
+ "Princess Cruises",
+ "Celebrity Cruises",
+ "Holland America Line",
+ "Virgin Voyages",
+ "Disney Cruise Line",
+ "AIDA Cruises"
+ ],
+ "whatToExpect": {
+ "weather": "Caribbean cruise season runs December through April, with temperatures consistently between 24-30°C. January and February see the lowest rainfall, while May and June offer warmer seas ideal for snorkelling. Humidity ranges from 65-85%. Pack light, breathable clothing in natural fibres—cotton and linen breathe best. Always carry a light rain jacket or cover-up for sudden tropical showers, and expect afternoon thunderstorms especially in summer months. Hurricane season officially spans June through November, with August through October carrying the highest risk.",
+ "food": "Caribbean cuisine reflects the region's complex cultural tapestry of African, European, Indian, and indigenous influences. In Jamaica, seek out authentic jerk chicken from roadside vendors—the smoky, spicy marinade of allspice and scotch bonnet peppers represents the island's soul. Throughout the region, fresh seafood dominates: grilled mahi-mahi, conch fritters in the Bahamas, and ceviche in Aruba. Plantains appear at every meal, either as sweet maduros or crispy tostones. In Puerto Rico, mofongo (garlicky fried plantain) and lechón asado (roast pork) are essential tasting. Most cruise ports feature local beach shacks serving fresh-caught fish at remarkably reasonable prices—budget €15-25 for an excellent casual lunch ashore.",
+ "culture": "Island culture runs relaxed and friendly throughout the Caribbean. Dress codes are generally casual, though swimwear should remain confined to beaches and pool areas. When visiting churches or religious sites, cover shoulders and knees out of respect. Tipping culture follows American norms in tourist areas—15-20% is customary in restaurants and for excursion guides. Photography of local residents, especially children, always requires permission. Most islanders appreciate visitors who engage with local culture rather than staying exclusively within resort or tourist zones. Wednesday is hump day across the Caribbean—many locals celebrate with 'liming' (hanging out) after work.",
+ "currency": "Currency varies significantly across the Caribbean. The US dollar is accepted throughout the US Virgin Islands, British Virgin Islands, Puerto Rico, and the Bahamas. Most Eastern Caribbean islands use the Eastern Caribbean dollar (EC$), pegged at approximately 2.70 EC$ to 1 USD—US dollars are widely accepted at tourist establishments at par. The Netherlands Antillean guilder (ANG) operates in Curaçao and St. Maarten, though US dollars are commonly accepted. Euros are generally not accepted except at some larger cruise line-sponsored venues. Credit cards work widely, but smaller vendors and local markets often prefer cash. ATMs are available at all major cruise ports.",
+ "language": "English serves as the official language throughout the British Virgin Islands, US Virgin Islands, Bahamas, Jamaica, Barbados, Trinidad & Tobago, and the Lesser Antilles. Spanish predominates in Puerto Rico, the Dominican Republic, Cuba, and coastal Central American ports. Dutch is official in Aruba, Curaçao, and Bonaire, though English is widely understood in tourist areas. Papiamento, a Portuguese-based creole with Spanish and Dutch influences, is spoken in Aruba and the ABC islands. French is official in Martinique, Guadeloupe, St. Martin, and St. Lucia, though English-speaking cruisers rarely encounter problems in tourist zones. A basic grasp of Spanish phrases enriches interactions in Spanish-speaking ports."
+ },
+ "insiderTips": [
+ "Book the cheapest inside cabin but upgrade to an oceanview or balcony once onboard—cruise lines frequently offer cabin upgrades at 50-70% discount within 48 hours of departure, often for €80-150 for a 7-night sailing. This strategy works especially well on Caribbean routes where ships sail mostly full.",
+ "Skip the ship's organised excursions at private destinations like Half Moon Cay, Princess Cays, or Perfect Day at CocoCay—your cruise fare already includes beach access, snorkelling equipment, and often kayaks or paddleboards at no extra cost. Bring your own snorkel gear to avoid the rental queue, or simply relax on the excellent beaches without paying for additional activities.",
+ "In Cozumel, skip the expensive ship-sponsored Mayan ruin excursions—book an independent tour through Caribbean Trading Post or Tours for approximately €35-50 per person versus €85-120 through the cruise line. You'll get a smaller group, more personal service, and often visit less crowded ruin sites. The taxi stand outside the cruise terminal offers fixed-price rates to Playa del Carmen or Tulum.",
+ "For the best souvenirs at local prices, venture beyond the tourist shops immediately adjacent to the cruise terminal. In St. Thomas, walk five minutes up Main Street to find better prices and more authentic merchandise. In Nassau, the straw market vendors along Bay Street offer similar goods to the terminal shops at significantly lower prices—negotiate firmly but respectfully.",
+ "If you suffer from seasickness, book Caribbean sailings departing Sunday through Tuesday—weather patterns typically produce calmer seas earlier in the week, and conditions often deteriorate toward the weekend. Position your cabin mid-ship on a low deck where motion is minimal, and bring wristbands or medication regardless of your usual tolerance."
+ ],
+ "packingList": [
+ "Reef-safe sunscreen (minimum SPF 50) — regular chemical sunscreens are banned in several Caribbean destinations including Bonaire and Aruba's marine parks. Expect to pay 2-3 times European prices if you forget, so stock up before departure.",
+ "Light, quick-dry clothing in neutral tones — linen trousers, cotton t-shirts, and breathable cover-ups work for both shipboard dining and shore excursions. Avoid dark colours that absorb heat and show sweat marks in the humidity.",
+ "Water shoes with grippy soles — essential for rocky beaches in Cozumel, stingray encounters in Grand Cayman, and coral-snorkelling throughout the region. Closed-toe options protect feet from sea urchins and broken coral.",
+ "Light rain jacket or packable poncho — tropical downpours arrive suddenly, especially from May through October, but typically pass within 30 minutes. Having protection ensures showers don't derail excursion plans.",
+ "One smart-casual outfit per sailing day — most mainstream cruise lines maintain a casual dress code in main dining rooms, but 'smart casual' nights (trousers, collared shirts for men) are standard on formal evenings. Pack accordingly rather than overstuffing.",
+ "Insect repellent containing DEET or picaridin — mosquitoes exist year-round, particularly at dusk and around standing water. Evening excursions and sunset activities warrant protection, especially during visits to Jamaica, Belize, or Honduras.",
+ "Polarised sunglasses and a wide-brimmed hat — the Caribbean sun is intense year-round, reflecting aggressively off water and white sand. Quality eye protection significantly improves comfort during beach days and water activities.",
+ "Dry bag or waterproof phone pouch — essential for water-based activities including snorkelling, beach days, and water taxi rides in ports like St. Thomas. Protect electronics from unexpected splashes and sand ingress."
+ ],
+ "faq": [
+ {
+ "question": "What is the best time of year to cruise the Caribbean?",
+ "answer": "The optimal cruising window runs from mid-December through mid-April, with January through March offering the finest combination of weather reliability and manageable pricing. During these months, temperatures average 25-29°C, rainfall is minimal, and hurricane risk is at its lowest. Christmas and New Year command premium pricing—expect to pay 30-50% more than shoulder-season rates—but deliver unforgettable festive sailing experiences. February and early March represent the sweet spot for value-conscious travellers: the dry season ensures excellent conditions, spring break crowds haven't yet arrived, and many cruise lines offer early-booking discounts. May through July brings hotter temperatures and building humidity but excellent snorkelling conditions as seas calm. August through October should be avoided unless booking last-minute deals—the Atlantic hurricane season peaks during these months, and itinerary changes due to weather are common."
+ },
+ {
+ "question": "Do I need a visa for Caribbean cruises?",
+ "answer": "Visa requirements depend entirely on your nationality and which specific countries your itinerary visits. EU citizens holding valid passports do not need visas for the Bahamas, Jamaica, the Dominican Republic, or Puerto Rico (as it's a US territory). However, EU citizens should verify specific requirements for their home country's entry rules. US citizens do not need passports for USVI, Puerto Rico, or other US territories, but REQUIRE valid passports (or passport cards) for all foreign ports including the Bahamas, Jamaica, Cayman Islands, and all other Caribbean nations. ESTA authorization is required for any itinerary visiting US ports if you're not a US citizen. Travelers should carry six months validity on their passport beyond the cruise end date as a standard requirement. For complex itineraries visiting multiple nations, consult your cruise line's visa specialist service or a travel agent familiar with your specific nationality's requirements."
+ },
+ {
+ "question": "How many days do I need for a Caribbean cruise?",
+ "answer": "Seven nights represents the industry standard for Caribbean itineraries and provides an excellent introduction—most major cruise lines offer dozens of seven-night options departing weekly from Florida ports. This duration allows visiting 3-4 distinct ports while providing two full sea days for shipboard activities and relaxation. Shorter three- and four-night sailings to the Bahamas work well for first-time cruisers or those with limited time, though they visit only one or two ports. Ten-night voyages unlock the Southern Caribbean routes and add St. Kitts, Antigua, or Martinique to itineraries. Truly dedicated Caribbean enthusiasts should consider repositioning sailings or extended voyages of 14+ nights that visit a broader range of islands—these premium journeys often include lesser-visited destinations like St. Vincent, Dominica, or Trinidad. We recommend adding at least two or three days of land-based travel before or after your cruise to explore your departure city (Miami's Art Deco District, for instance) or recover from your flight before boarding."
+ },
+ {
+ "question": "What should I budget for shore excursions in the Caribbean?",
+ "answer": "Excursion pricing spans a broad range, from free beach time at private islands to premium experiences exceeding €200 per person. Budget approximately €50-85 per person for standard half-day excursions (city tours, beach days, snorkel trips), €90-150 for enhanced experiences including water sports, zip-lining, or more comprehensive cultural tours, and €150-250+ for premium adventures like scuba certification, private boat charters, or helicopter transfers. The cheapest excursion category typically covers beach club access and snorkel equipment. Free activities exist at most ports: walking tours of colonial old towns (San Juan, Nassau), beach visits (Magens Bay in St. Thomas is free), and local market explorations require only transportation via local taxi (budget €10-20 each way per couple). Avoid the ship's highest-markup tours by booking through independent operators at the port—a reputable local tour company typically charges 40-60% less than cruise line equivalents for comparable experiences. Always verify operator credentials and return-taxi arrangements before booking independently."
+ },
+ {
+ "question": "Is the Caribbean safe for cruisers?",
+ "answer": "The Caribbean islands visited by cruise ships maintain strong tourism infrastructures and the major ports are generally safe during daylight hours. However, like any destination, situational awareness matters. Cruise terminals and tourist zones have visible security presence, but venturing into non-tourist areas requires caution—research your specific port's safety profile before arrival. Petty theft (pickpocketing, beach theft) represents the primary concern—use cabin safes for valuables, avoid carrying excessive cash, and never leave items unattended on beaches. St. Maarten (especially Dutch side), Kingston (Jamaica), and parts of San Juan warrant more caution than purpose-built resort ports like Half Moon Cay. Women travellers should take standard precautions and avoid walking alone at night in unfamiliar areas. Cruise lines select ports based on safety assessments and will alter itineraries if security concerns arise. Purchase comprehensive travel insurance covering medical evacuation—hospitals in smaller islands may lack advanced facilities, and medical repatriation can cost tens of thousands of euros without coverage."
+ }
+ ]
 }

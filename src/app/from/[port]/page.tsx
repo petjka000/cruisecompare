@@ -86,7 +86,7 @@ export async function generateMetadata({
   if (!data) return { title: 'Port Not Found' };
 
   return {
-    title: data.metaTitle || `${data.name} Cruise Port Guide | CruiseCompare`,
+    title: data.metaTitle || `${data.name} Cruise Port Guide`,
     description: data.metaDescription,
   };
 }

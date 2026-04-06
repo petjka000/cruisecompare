@@ -1,183 +1,183 @@
 {
-  "slug": "barcelona",
-  "name": "Barcelona",
-  "country": "Spain",
-  "city": "Spain",
-  "iata": "BCN",
-  "region": "Mediterranean",
-  "metaTitle": "Barcelona Cruise Port Guide 2026 — Terminals, Transport & Tips",
-  "metaDescription": "Complete guide to Barcelona cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
-  "heroSubtitle": "Everything you need to know before your cruise from Barcelona",
-  "overview": "Barcelona stands as one of the Mediterranean’s premier cruise ports, welcoming over 3 million passengers annually through its modern facilities at Port Vell. The city combines maritime heritage with world-class attractions, making it an ideal departure and arrival point for Western Mediterranean itineraries. Cruises from Barcelona typically visit destinations across the western Mediterranean including the Balearic Islands, southern France, Italy, and North Africa. The port has undergone significant modernization, with the latest Adossats Terminals offering state-of-the-art passenger facilities just minutes from the historic city center.",
-  "terminals": [
-    {
-      "name": "Adossats Cruise Terminal (World Cruise Terminal)",
-      "description": "The most modern and largest cruise terminal complex, featuring 5 connected terminals (A, B, C, D, E) capable of handling simultaneous megaship operations. Features the iconic cruise terminal building designed by architect Rafael Moneo. Most major cruise lines including MSC, Royal Caribbean, and Celebrity use these facilities.",
-      "cruiseLines": [
-        "MSC Cruises",
-        "Royal Caribbean",
-        "Celebrity",
-        "Norwegian Cruise Line",
-        "Princess",
-        "Holland America",
-        "Cunard"
-      ],
-      "facilities": [
-        "information desk",
-        "toilets",
-        "coffee shop",
-        "free WiFi (limited)",
-        "luggage storage lockers",
-        "ATMs",
-        "currency exchange",
-        "car rental desk",
-        "phone charging stations",
-        "accessible restrooms",
-        "First aid station"
-      ]
-    },
-    {
-      "name": "World Trade Center Barcelona (WTC Barcelona)",
-      "description": "Premium cruise terminal located at the port entrance with panoramic harbor views. Known for efficient passenger processing and luxury cruise line departures.",
-      "cruiseLines": [
-        "Costa Cruises",
-        "Oceania",
-        "Regent Seven Seas",
-        "Azamara",
-        "Windstar"
-      ],
-      "facilities": [
-        "information desk",
-        "toilets",
-        "coffee kiosk",
-        "baggage services",
-        "VIP lounge access",
-        "taxi stand"
-      ]
-    },
-    {
-      "name": "Terminal de Barcelona (Moll de Barcelona)",
-      "description": "Historic terminal building near the Columbus Monument, popular for turnaround operations. Well-connected to city transport and walking distance to Las Ramblas.",
-      "cruiseLines": [
-        "P&O Cruises",
-        "Fred. Olsen",
-        "Phoenix Reisen",
-        "TUI Cruises"
-      ],
-      "facilities": [
-        "information desk",
-        "toilets",
-        "snack bar",
-        "waiting area",
-        "direct metro access"
-      ]
-    },
-    {
-      "name": "Sant Bertran Terminal (Terminal Ponent)",
-      "description": "Specialized terminal for Mediterranean and Atlantic itineraries, quieter than the main terminal complex. Often used for repositioning cruises and themed sailings.",
-      "cruiseLines": [
-        "Various smaller cruise lines",
-        "Specialized expedition vessels"
-      ],
-      "facilities": [
-        "basic facilities",
-        "parking area",
-        "shuttle service to main terminal"
-      ]
-    }
-  ],
-  "gettingThere": {
-    "fromAirport": "Barcelona-El Prat Airport (BCN) is located 14km southwest of the city center. Options: (1) Aerobús A1/A2 — direct to Pl. Catalunya in 35 min for €5.90, then metro L4 to Barceloneta (10 min) or taxi to port (€10-15); (2) Metro L9 Sud from airport T1/T2 to Fondo, change to L4 at La Sagrera for Barceloneta station (50 min, €5.15); (3) Renfe train R2 Nord from T2 to Barcelona Sants/Passeig de Gràcia (25 min, €4.60), then taxi to port (€12-18); (4) Taxi from airport to port: €35-45, 25-45 min depending on traffic. Uber and Cabify are also available.",
-    "fromCityCenter": "The cruise port is remarkably close to central Barcelona — most terminals are within 1-2km of Las Ramblas. Walking: 15-25 minutes from Columbus Monument along the waterfront promenade to the Adossats terminals. Metro L4 (Yellow line): Ciutadella | Vila Olímpica station is closest to the cruise terminals (5 min walk). Bus: Lines 14, 59, 64, 91 stop near the port entrance. Taxi: Readily available, expect to pay €8-15 from Pl. Catalunya or Las Ramblas area. During embarkation days, the port authority runs free shuttle buses from Estació de França train station.",
-    "parking": "Long-stay parking at Barcelona cruise port: (1) Port Olimpic B:SM car park — €20-25/day, 10 min walk to Adossats terminals, bookable online; (2) B:SM Wellington car park — €18-22/day, shuttle service provided; (3) Saba BAMSA Atarazanas — €22/day, near Terminal de Barcelona; (4) Q-Park Reyes Católicos — €25/day, premium option. Pre-booking is strongly recommended during peak season (May-October) as spaces fill quickly. Some hotels near the port offer cruise parking packages — contact them directly for better rates.",
-    "shuttles": "Cruise lines typically do NOT provide direct shuttle service from the airport or city center — passengers must arrange their own transport. However: (1) The port authority operates free internal shuttle buses between terminals during busy embarkation days; (2) Many Barcelona hotels offer airport/port transfers as part of cruise packages — check with your hotel; (3) Private transfer services (Blacklane, HelloUptown) can be pre-booked for €50-80; (4) Port personnel and cruise line representatives are available at terminals to assist with directions and taxi organization on arrival/departure days."
-  },
-  "embarkationTips": [
-    "Avoid the morning rush by scheduling your arrival at the port AFTER 12:00 on embarkation day — the port authorities open boarding gates at 11:30, but ships rarely start receiving passengers before noon. Arriving between 12:00-14:00 means shorter security queues and more relaxed cabin access.",
-    "The Adossats terminals have NO luggage storage facilities for passengers — if you arrive early with luggage, use the lockers at Barcelona Sants train station or Estació de França before coming to the port. Lockers cost €3-7 for 4-6 hours.",
-    "Download an offline map of Barcelona before arriving — mobile data coverage inside the Adossats terminal complex is notoriously poor due to thick concrete construction. Walking to the port from the city is straightforward if you can navigate, but GPS信号 becomes unreliable near the terminals.",
-    "If you need euros for the port, withdraw cash BEFORE entering the terminal area — the ATMs inside Adossats frequently run out of money mid-day during peak season, and credit card machines at the few shops operate at poor exchange rates.",
-    "The Barcelona port extends for 4km along the waterfront — your assigned terminal could be a 20-minute walk from where your taxi drops you. Look for the colored signage (Red Zone, Blue Zone, Green Zone) and ask which terminal your cruise line uses when booking taxi pickup."
-  ],
-  "nearbyAttractions": [
-    {
-      "name": "La Barceloneta Beach & Waterfront",
-      "description": "The closest beach to the cruise port, offering golden sands and the famous 'pebrella' (wave-break) beachfront promenade. Perfect for a pre-cruise stroll or post-arrival relaxation. The area is packed with chiringuitos (beach bars) serving fresh seafood.",
-      "walkingTime": "10 minutes from port",
-      "cost": "Free (food/drinks extra)"
-    },
-    {
-      "name": "Parc de la Ciutadella",
-      "description": "Barcelona's central park featuring the impressive Cascada Monumental fountain, the Catalan parliament building, and lush gardens. A favorite among locals for picnics and street performers. Great for a morning walk before boarding.",
-      "walkingTime": "15 minutes from port",
-      "cost": "Free"
-    },
-    {
-      "name": "La Boqueria Market (Mercat de Sant Josep)",
-      "description": "One of Europe's oldest and most famous food markets, located on Las Ramblas. Sample Iberian ham, fresh seafood, Catalan cheeses, and exotic fruits. Open since 1217, it's a sensory overload of colors and flavors.",
-      "walkingTime": "20 minutes from port",
-      "cost": "Free entry (food purchases extra, expect €8-15 for a tapas plate)"
-    },
-    {
-      "name": "Gothic Quarter (Barri Gòtic)",
-      "description": "Medieval labyrinth of narrow streets, hidden plazas, and Gothic architecture. Features the Barcelona Cathedral, Roman ruins, and countless tapas bars. Best explored with no set plan — just wander and discover.",
-      "walkingTime": "20-25 minutes from port",
-      "cost": "Free (cathedral cloister €3)"
-    }
-  ],
-  "localTransport": {
-    "metro": "Barcelona Metro Line L4 (Yellow) serves the port area with stops at: Barceloneta (closest to Terminal de Barcelona, 8 min walk), Ciutadella | Vila Olímpica (closest to Adossats terminals, 5 min walk), and Bogatell (15 min walk to Sant Bertran terminal). Single ticket costs €2.40, T-Casual 10-ride card €11.35. Metro runs 05:00-00:00 Sunday-Thursday, 24 hours on Fridays, Saturdays, and public holidays.",
-    "bus": "Multiple TMB bus routes serve the cruise port area: Line 14 (Plaça Catalunya ↔ Barceloneta), Line 17 (Plaça Catalunya ↔ Mar Bella beach), Line 59 (Passeig de Gràcia ↔ Barceloneta), Line 64 (Plaça Catalunya ↔ Nova Mar Bella), Line 91 (Plaça Catalunya ↔ Parc de la Ciutadella). Night bus lines D20 and N7 also serve the area. Single bus fare: €2.40. Bus 59 is particularly useful for reaching Las Ramblas from the port.",
-    "taxi": "Taxis are readily available at all cruise terminals (look for the black/yellow vehicles). Typical fares: port to Las Ramblas/Pl. Catalunya €10-15 (10-15 min), port to Sagrada Familia €15-20 (20 min), port to Park Güell €20-25 (25 min), airport to port €35-45 (35-45 min). Insist on using the meter (taxímetro) — flat rates to tourist destinations are almost always overpriced. Taxi stands are clearly marked at each terminal exit.",
-    "walkability": "Barcelona's cruise port is extremely walkable to the city center — the waterfront promenade connects directly to the Gothic Quarter. From the Adossats terminals to Columbus Monument is approximately 1.5km (20-minute walk). From Terminal de Barcelona to Las Ramblas is just 800m (10-15 minutes). The flat terrain and scenic harbor views make walking the most pleasant option on good weather days."
-  },
-  "weather": {
-    "bestMonths": "April through June and September through October offer the ideal cruise experience from Barcelona. Temperatures range from 18-26°C with fewer crowds, lower prices, and comfortable conditions for both sightseeing and sea days. May and June feature the city's famous festival season.",
-    "peakSeason": "July and August see the highest passenger volumes with temperatures reaching 28-35°C. The Christmas cruise season (late November through December) offers mild weather (10-16°C) and festive atmosphere with fewer tourists at attractions.",
-    "climate": "Mediterranean climate: Hot, dry summers (June-August: 25-32°C) and mild, wet winters (December-February: 8-15°C). Pack: light layers, sunscreen, and comfortable walking shoes for summer cruises; light jacket and rain layer for spring/autumn departures. Sea conditions are generally calm in the Mediterranean year-round."
-  },
-  "cruiseLinesFromHere": [
-    "MSC Cruises",
-    "Royal Caribbean",
-    "Celebrity Cruises",
-    "Norwegian Cruise Line",
-    "Costa Cruises",
-    "Princess Cruises",
-    "Holland America Line",
-    "Cunard",
-    "P&O Cruises",
-    "Oceania Cruises",
-    "Regent Seven Seas",
-    "Azamara",
-    "Windstar Cruises",
-    "TUI Cruises",
-    "Fred. Olsen Cruise Lines",
-    "Phoenix Reisen",
-    "AIDA Cruises"
-  ],
-  "isDeparture": true,
-  "isCallPort": true,
-  "insiderTips": [
-    "Book a pre-cruise stay at a hotel in the Barceloneta or Born neighborhoods — you'll be within walking distance of the port AND can enjoy the local tapas scene without tourist prices. Hotel Del Mar and Hotel 44 are within 500m of the cruise terminals and offer cruise parking packages.",
-    "For the best tapas experience near the port, skip the tourist traps on Las Ramblas and walk 10 minutes to Carrer de la Maquinista in the Born district. Bars like Cal Pep and El Xampanyet serve authentic Catalan fare at half the price of the waterfront restaurants. Take metro L4 to Barceloneta and explore the back streets.",
-    "Save €10-15 per person by buying Barcelona attraction tickets at the TUI Muse Ticket kiosks at the port or the Barcelona Turisme office at Plaça de Catalunya rather than at individual attractions — bundled tickets for Sagrada Familia, Park Güell, and Casa Batlló offer significant savings and skip-the-line access."
-  ],
-  "faq": [
-    {
-      "question": "Which terminal will my cruise depart from in Barcelona?",
-      "answer": "Terminal assignment depends on your cruise line and is typically confirmed 5-7 days before departure via email. MSC, Royal Caribbean, Celebrity, and Norwegian primarily use the Adossats Terminals. Costa uses WTC Barcelona. P&O typically uses Terminal de Barcelona. Check your cruise line's specific app or website for terminal details and a terminal map. On the day, follow the colored signs at the port entrance (Red/Blue/Green zones)."
-    },
-    {
-      "question": "Can I walk from Barcelona city center to the cruise port?",
-      "answer": "Yes, absolutely. The port is only 1-2km from central Barcelona. From Columbus Monument at the end of Las Ramblas, it's about 20 minutes along the waterfront promenade to the Adossats terminals. From the Barceloneta metro station, it's 5-10 minutes to Terminal de Barcelona. Walking is pleasant, flat, and safe — just follow the blue cruise terminal signs along the harbor."
-    },
-    {
-      "question": "Where can I park my car for a cruise from Barcelona?",
-      "answer": "Pre-book parking at Port Olimpic B:SM (€20-25/day) or Saba Atarazanas (€22/day) through the B:SM Parking website. These fill quickly in peak season. Alternative: many 4-star hotels near the port (Hotel Arts, Hotel 44) offer cruise parking packages for €15-18/day when booking an overnight stay. Budget about €70-100 for 5-6 days of parking. Never park on streets near the port — it's prohibited and vehicles are towed."
-    },
-    {
-      "question": "How early should I arrive at the port on embarkation day?",
-      "answer": "Most cruise lines start boarding between 11:00-12:00 and recommend arriving 2-3 hours before departure. However, arriving before 12:00 means longer security queues as everyone rushes to board early. If your cabin isn't ready until 13:00-14:00 anyway, arriving at 12:30-13:00 often results in shorter waits and a more relaxed experience. Check-in desks close 90 minutes before departure — after that, you may miss the muster drill."
-    }
-  ]
+ "slug": "barcelona",
+ "name": "Barcelona",
+ "country": "Spain",
+ "city": "Spain",
+ "iata": "BCN",
+ "region": "Mediterranean",
+ "metaTitle": "Barcelona Cruise Port Guide 2026 — Terminals, Transport & Tips",
+ "metaDescription": "Complete guide to Barcelona cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+ "heroSubtitle": "Everything you need to know before your cruise from Barcelona",
+ "overview": "Barcelona stands as one of the Mediterranean’s premier cruise ports, welcoming over 3 million passengers annually through its modern facilities at Port Vell. The city combines maritime heritage with world-class attractions, making it an ideal departure and arrival point for Western Mediterranean itineraries. Cruises from Barcelona typically visit destinations across the western Mediterranean including the Balearic Islands, southern France, Italy, and North Africa. The port has undergone significant modernization, with the latest Adossats Terminals offering state-of-the-art passenger facilities just minutes from the historic city center.",
+ "terminals": [
+ {
+ "name": "Adossats Cruise Terminal (World Cruise Terminal)",
+ "description": "The most modern and largest cruise terminal complex, featuring 5 connected terminals (A, B, C, D, E) capable of handling simultaneous megaship operations. Features the iconic cruise terminal building designed by architect Rafael Moneo. Most major cruise lines including MSC, Royal Caribbean, and Celebrity use these facilities.",
+ "cruiseLines": [
+ "MSC Cruises",
+ "Royal Caribbean",
+ "Celebrity",
+ "Norwegian Cruise Line",
+ "Princess",
+ "Holland America",
+ "Cunard"
+ ],
+ "facilities": [
+ "information desk",
+ "toilets",
+ "coffee shop",
+ "free WiFi (limited)",
+ "luggage storage lockers",
+ "ATMs",
+ "currency exchange",
+ "car rental desk",
+ "phone charging stations",
+ "accessible restrooms",
+ "First aid station"
+ ]
+ },
+ {
+ "name": "World Trade Center Barcelona (WTC Barcelona)",
+ "description": "Premium cruise terminal located at the port entrance with panoramic harbor views. Known for efficient passenger processing and luxury cruise line departures.",
+ "cruiseLines": [
+ "Costa Cruises",
+ "Oceania",
+ "Regent Seven Seas",
+ "Azamara",
+ "Windstar"
+ ],
+ "facilities": [
+ "information desk",
+ "toilets",
+ "coffee kiosk",
+ "baggage services",
+ "VIP lounge access",
+ "taxi stand"
+ ]
+ },
+ {
+ "name": "Terminal de Barcelona (Moll de Barcelona)",
+ "description": "Historic terminal building near the Columbus Monument, popular for turnaround operations. Well-connected to city transport and walking distance to Las Ramblas.",
+ "cruiseLines": [
+ "P&O Cruises",
+ "Fred. Olsen",
+ "Phoenix Reisen",
+ "TUI Cruises"
+ ],
+ "facilities": [
+ "information desk",
+ "toilets",
+ "snack bar",
+ "waiting area",
+ "direct metro access"
+ ]
+ },
+ {
+ "name": "Sant Bertran Terminal (Terminal Ponent)",
+ "description": "Specialized terminal for Mediterranean and Atlantic itineraries, quieter than the main terminal complex. Often used for repositioning cruises and themed sailings.",
+ "cruiseLines": [
+ "Various smaller cruise lines",
+ "Specialized expedition vessels"
+ ],
+ "facilities": [
+ "basic facilities",
+ "parking area",
+ "shuttle service to main terminal"
+ ]
+ }
+ ],
+ "gettingThere": {
+ "fromAirport": "Barcelona-El Prat Airport (BCN) is located 14km southwest of the city center. Options: (1) Aerobús A1/A2 — direct to Pl. Catalunya in 35 min for €5.90, then metro L4 to Barceloneta (10 min) or taxi to port (€10-15); (2) Metro L9 Sud from airport T1/T2 to Fondo, change to L4 at La Sagrera for Barceloneta station (50 min, €5.15); (3) Renfe train R2 Nord from T2 to Barcelona Sants/Passeig de Gràcia (25 min, €4.60), then taxi to port (€12-18); (4) Taxi from airport to port: €35-45, 25-45 min depending on traffic. Uber and Cabify are also available.",
+ "fromCityCenter": "The cruise port is remarkably close to central Barcelona — most terminals are within 1-2km of Las Ramblas. Walking: 15-25 minutes from Columbus Monument along the waterfront promenade to the Adossats terminals. Metro L4 (Yellow line): Ciutadella | Vila Olímpica station is closest to the cruise terminals (5 min walk). Bus: Lines 14, 59, 64, 91 stop near the port entrance. Taxi: Readily available, expect to pay €8-15 from Pl. Catalunya or Las Ramblas area. During embarkation days, the port authority runs free shuttle buses from Estació de França train station.",
+ "parking": "Long-stay parking at Barcelona cruise port: (1) Port Olimpic B:SM car park — €20-25/day, 10 min walk to Adossats terminals, bookable online; (2) B:SM Wellington car park — €18-22/day, shuttle service provided; (3) Saba BAMSA Atarazanas — €22/day, near Terminal de Barcelona; (4) Q-Park Reyes Católicos — €25/day, premium option. Pre-booking is strongly recommended during peak season (May-October) as spaces fill quickly. Some hotels near the port offer cruise parking packages — contact them directly for better rates.",
+ "shuttles": "Cruise lines typically do NOT provide direct shuttle service from the airport or city center — passengers must arrange their own transport. However: (1) The port authority operates free internal shuttle buses between terminals during busy embarkation days; (2) Many Barcelona hotels offer airport/port transfers as part of cruise packages — check with your hotel; (3) Private transfer services (Blacklane, HelloUptown) can be pre-booked for €50-80; (4) Port personnel and cruise line representatives are available at terminals to assist with directions and taxi organization on arrival/departure days."
+ },
+ "embarkationTips": [
+ "Avoid the morning rush by scheduling your arrival at the port AFTER 12:00 on embarkation day — the port authorities open boarding gates at 11:30, but ships rarely start receiving passengers before noon. Arriving between 12:00-14:00 means shorter security queues and more relaxed cabin access.",
+ "The Adossats terminals have NO luggage storage facilities for passengers — if you arrive early with luggage, use the lockers at Barcelona Sants train station or Estació de França before coming to the port. Lockers cost €3-7 for 4-6 hours.",
+ "Download an offline map of Barcelona before arriving — mobile data coverage inside the Adossats terminal complex is notoriously poor due to thick concrete construction. Walking to the port from the city is straightforward if you can navigate, but GPS becomes unreliable near the terminals.",
+ "If you need euros for the port, withdraw cash BEFORE entering the terminal area — the ATMs inside Adossats frequently run out of money mid-day during peak season, and credit card machines at the few shops operate at poor exchange rates.",
+ "The Barcelona port extends for 4km along the waterfront — your assigned terminal could be a 20-minute walk from where your taxi drops you. Look for the colored signage (Red Zone, Blue Zone, Green Zone) and ask which terminal your cruise line uses when booking taxi pickup."
+ ],
+ "nearbyAttractions": [
+ {
+ "name": "La Barceloneta Beach & Waterfront",
+ "description": "The closest beach to the cruise port, offering golden sands and the famous 'pebrella' (wave-break) beachfront promenade. Perfect for a pre-cruise stroll or post-arrival relaxation. The area is packed with chiringuitos (beach bars) serving fresh seafood.",
+ "walkingTime": "10 minutes from port",
+ "cost": "Free (food/drinks extra)"
+ },
+ {
+ "name": "Parc de la Ciutadella",
+ "description": "Barcelona's central park featuring the impressive Cascada Monumental fountain, the Catalan parliament building, and lush gardens. A favorite among locals for picnics and street performers. Great for a morning walk before boarding.",
+ "walkingTime": "15 minutes from port",
+ "cost": "Free"
+ },
+ {
+ "name": "La Boqueria Market (Mercat de Sant Josep)",
+ "description": "One of Europe's oldest and most famous food markets, located on Las Ramblas. Sample Iberian ham, fresh seafood, Catalan cheeses, and exotic fruits. Open since 1217, it's a sensory overload of colors and flavors.",
+ "walkingTime": "20 minutes from port",
+ "cost": "Free entry (food purchases extra, expect €8-15 for a tapas plate)"
+ },
+ {
+ "name": "Gothic Quarter (Barri Gòtic)",
+ "description": "Medieval labyrinth of narrow streets, hidden plazas, and Gothic architecture. Features the Barcelona Cathedral, Roman ruins, and countless tapas bars. Best explored with no set plan — just wander and discover.",
+ "walkingTime": "20-25 minutes from port",
+ "cost": "Free (cathedral cloister €3)"
+ }
+ ],
+ "localTransport": {
+ "metro": "Barcelona Metro Line L4 (Yellow) serves the port area with stops at: Barceloneta (closest to Terminal de Barcelona, 8 min walk), Ciutadella | Vila Olímpica (closest to Adossats terminals, 5 min walk), and Bogatell (15 min walk to Sant Bertran terminal). Single ticket costs €2.40, T-Casual 10-ride card €11.35. Metro runs 05:00-00:00 Sunday-Thursday, 24 hours on Fridays, Saturdays, and public holidays.",
+ "bus": "Multiple TMB bus routes serve the cruise port area: Line 14 (Plaça Catalunya ↔ Barceloneta), Line 17 (Plaça Catalunya ↔ Mar Bella beach), Line 59 (Passeig de Gràcia ↔ Barceloneta), Line 64 (Plaça Catalunya ↔ Nova Mar Bella), Line 91 (Plaça Catalunya ↔ Parc de la Ciutadella). Night bus lines D20 and N7 also serve the area. Single bus fare: €2.40. Bus 59 is particularly useful for reaching Las Ramblas from the port.",
+ "taxi": "Taxis are readily available at all cruise terminals (look for the black/yellow vehicles). Typical fares: port to Las Ramblas/Pl. Catalunya €10-15 (10-15 min), port to Sagrada Familia €15-20 (20 min), port to Park Güell €20-25 (25 min), airport to port €35-45 (35-45 min). Insist on using the meter (taxímetro) — flat rates to tourist destinations are almost always overpriced. Taxi stands are clearly marked at each terminal exit.",
+ "walkability": "Barcelona's cruise port is extremely walkable to the city center — the waterfront promenade connects directly to the Gothic Quarter. From the Adossats terminals to Columbus Monument is approximately 1.5km (20-minute walk). From Terminal de Barcelona to Las Ramblas is just 800m (10-15 minutes). The flat terrain and scenic harbor views make walking the most pleasant option on good weather days."
+ },
+ "weather": {
+ "bestMonths": "April through June and September through October offer the ideal cruise experience from Barcelona. Temperatures range from 18-26°C with fewer crowds, lower prices, and comfortable conditions for both sightseeing and sea days. May and June feature the city's famous festival season.",
+ "peakSeason": "July and August see the highest passenger volumes with temperatures reaching 28-35°C. The Christmas cruise season (late November through December) offers mild weather (10-16°C) and festive atmosphere with fewer tourists at attractions.",
+ "climate": "Mediterranean climate: Hot, dry summers (June-August: 25-32°C) and mild, wet winters (December-February: 8-15°C). Pack: light layers, sunscreen, and comfortable walking shoes for summer cruises; light jacket and rain layer for spring/autumn departures. Sea conditions are generally calm in the Mediterranean year-round."
+ },
+ "cruiseLinesFromHere": [
+ "MSC Cruises",
+ "Royal Caribbean",
+ "Celebrity Cruises",
+ "Norwegian Cruise Line",
+ "Costa Cruises",
+ "Princess Cruises",
+ "Holland America Line",
+ "Cunard",
+ "P&O Cruises",
+ "Oceania Cruises",
+ "Regent Seven Seas",
+ "Azamara",
+ "Windstar Cruises",
+ "TUI Cruises",
+ "Fred. Olsen Cruise Lines",
+ "Phoenix Reisen",
+ "AIDA Cruises"
+ ],
+ "isDeparture": true,
+ "isCallPort": true,
+ "insiderTips": [
+ "Book a pre-cruise stay at a hotel in the Barceloneta or Born neighborhoods — you'll be within walking distance of the port AND can enjoy the local tapas scene without tourist prices. Hotel Del Mar and Hotel 44 are within 500m of the cruise terminals and offer cruise parking packages.",
+ "For the best tapas experience near the port, skip the tourist traps on Las Ramblas and walk 10 minutes to Carrer de la Maquinista in the Born district. Bars like Cal Pep and El Xampanyet serve authentic Catalan fare at half the price of the waterfront restaurants. Take metro L4 to Barceloneta and explore the back streets.",
+ "Save €10-15 per person by buying Barcelona attraction tickets at the TUI Muse Ticket kiosks at the port or the Barcelona Turisme office at Plaça de Catalunya rather than at individual attractions — bundled tickets for Sagrada Familia, Park Güell, and Casa Batlló offer significant savings and skip-the-line access."
+ ],
+ "faq": [
+ {
+ "question": "Which terminal will my cruise depart from in Barcelona?",
+ "answer": "Terminal assignment depends on your cruise line and is typically confirmed 5-7 days before departure via email. MSC, Royal Caribbean, Celebrity, and Norwegian primarily use the Adossats Terminals. Costa uses WTC Barcelona. P&O typically uses Terminal de Barcelona. Check your cruise line's specific app or website for terminal details and a terminal map. On the day, follow the colored signs at the port entrance (Red/Blue/Green zones)."
+ },
+ {
+ "question": "Can I walk from Barcelona city center to the cruise port?",
+ "answer": "Yes, absolutely. The port is only 1-2km from central Barcelona. From Columbus Monument at the end of Las Ramblas, it's about 20 minutes along the waterfront promenade to the Adossats terminals. From the Barceloneta metro station, it's 5-10 minutes to Terminal de Barcelona. Walking is pleasant, flat, and safe — just follow the blue cruise terminal signs along the harbor."
+ },
+ {
+ "question": "Where can I park my car for a cruise from Barcelona?",
+ "answer": "Pre-book parking at Port Olimpic B:SM (€20-25/day) or Saba Atarazanas (€22/day) through the B:SM Parking website. These fill quickly in peak season. Alternative: many 4-star hotels near the port (Hotel Arts, Hotel 44) offer cruise parking packages for €15-18/day when booking an overnight stay. Budget about €70-100 for 5-6 days of parking. Never park on streets near the port — it's prohibited and vehicles are towed."
+ },
+ {
+ "question": "How early should I arrive at the port on embarkation day?",
+ "answer": "Most cruise lines start boarding between 11:00-12:00 and recommend arriving 2-3 hours before departure. However, arriving before 12:00 means longer security queues as everyone rushes to board early. If your cabin isn't ready until 13:00-14:00 anyway, arriving at 12:30-13:00 often results in shorter waits and a more relaxed experience. Check-in desks close 90 minutes before departure — after that, you may miss the muster drill."
+ }
+ ]
 }

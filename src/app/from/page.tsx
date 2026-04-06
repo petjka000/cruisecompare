@@ -41,7 +41,7 @@ function loadPorts(): PortSummary[] {
 }
 
 export const metadata: Metadata = {
-  title: 'Cruise Ports Guide | CruiseCompare',
+  title: 'Cruise Ports Guide',
   description: 'Complete guide to major cruise ports worldwide. Terminals, getting there, things to do, and insider tips for every port.',
 };
 

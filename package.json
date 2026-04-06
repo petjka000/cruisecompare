@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "prebuild": "node scripts/prebuild-check.js"
+    "prebuild": "node scripts/prebuild-check.js && node scripts/generate-sitemaps.js"
   },
   "dependencies": {
     "next": "16.1.6",

@@ -65,10 +65,10 @@ export function Footer() {
             <h3 className="text-white font-semibold text-sm uppercase tracking-wide mb-4">Resources</h3>
             <ul className="space-y-2.5">
               {[
-                { href: '/guides/', label: 'Cruise Guides' },
+                { href: '/compare/', label: 'Compare Lines' },
                 { href: '/ships/', label: 'Ship Reviews' },
                 { href: '/deals/', label: 'Latest Deals' },
-                { href: '/guides/best-time-to-cruise/', label: 'When to Book' },
+                { href: '/from/', label: 'Departure Ports' },
               ].map(({ href, label }) => (
                 <li key={href}>
                   <a href={href} className="text-white/60 hover:text-white text-sm transition-colors">

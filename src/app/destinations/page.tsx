@@ -35,7 +35,7 @@ function loadDestinations(): DestinationSummary[] {
 }
 
 export const metadata: Metadata = {
-  title: 'Cruise Destinations | CruiseCompare',
+  title: 'Cruise Destinations',
   description: 'Explore the world\'s best cruise destinations. Regional guides, best times to visit, top ports, and insider tips.',
 };
 

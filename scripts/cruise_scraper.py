@@ -42,23 +42,23 @@ DEALS_DIR.mkdir(parents=True, exist_ok=True)
 LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
 
-# ── Qwen 3.5 Plus credentials (via Alibaba DashScope) ────────────────────────
+# ── MiniMax credentials (replaces DashScope/Qwen) ────────────────────────────
 
-def _load_qwen_api_key() -> str:
-    """Load Qwen API key from openclaw.json or env var."""
-    config_path = Path.home() / '.openclaw/openclaw.json'
+def _load_minimax_key() -> str:
+    """Load MiniMax API key from auth-profiles.json or env var."""
+    auth_path = Path.home() / '.openclaw/agents/main/agent/auth-profiles.json'
     try:
-        config = json.loads(config_path.read_text())
-        key = config.get('models', {}).get('providers', {}).get('alibaba-coding', {}).get('apiKey', '')
-        if key:
-            return key
+        profiles = json.loads(auth_path.read_text())
+        token = profiles.get('profiles', {}).get('minimax-portal:default', {}).get('access', '')
+        if token:
+            return token
     except Exception as e:
-        log.warning(f'Could not load Qwen API key: {e}')
-    return os.environ.get('DASHSCOPE_API_KEY', '')
+        log.warning(f'Could not load MiniMax key from auth-profiles: {e}')
+    return os.environ.get('MINIMAX_API_KEY', '')
 
-QWEN_API_KEY = _load_qwen_api_key()
-QWEN_BASE_URL = 'https://dashscope.aliyuncs.com/compatible-mode/v1'
-QWEN_MODEL = 'qwen3.5-plus'
+QWEN_API_KEY = _load_minimax_key()
+QWEN_BASE_URL = 'https://api.minimaxi.chat/v1'
+QWEN_MODEL = 'MiniMax-M2.7'
 
 
 # ── RSS Sources ──────────────────────────────────────────────────────────────
@@ -128,7 +128,7 @@ def _jina_fetch(url: str, timeout: int = 25) -> Optional[str]:
 def _minimax_extract(article_text: str, article_url: str, article_title: str) -> Optional[dict]:
     """Use Qwen 3.5-plus (via DashScope) to extract structured cruise deal data."""
     if not QWEN_API_KEY:
-        log.warning('No Qwen API key — cannot extract structured deal data')
+        log.warning('No MiniMax API key — cannot extract structured deal data')
         return None
 
     prompt = f"""Extract cruise deal information from the following article.

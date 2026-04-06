@@ -1,174 +1,174 @@
 {
-  "slug": "adriatic",
-  "name": "Adriatic",
-  "region": "Europe",
-  "metaTitle": "Adriatic Cruises Guide 2026 — Best Routes, Ports & Tips",
-  "metaDescription": "Complete guide to cruising the Adriatic Sea. Best time to visit, top ports like Dubrovnik and Split, what to expect on board, and how to plan your Adriatic cruise from €699.",
-  "heroSubtitle": "Your complete Adriatic cruise planning guide — medieval cities, crystal waters, and island-hopping",
-  "overview": "The Adriatic Sea stretches 800 kilometres between Italy's eastern coast and the Balkan peninsula, offering one of Europe's most diverse cruising experiences. This narrow body of water packs an extraordinary punch: medieval walled cities, Roman ruins, Venetian Gothic architecture, hidden coves with turquoise water, and some of the world's most dramatic coastal scenery. Most Adriatic cruises depart from Venice or Trieste in Italy, sailing south past Slovenia's coast and down through Croatia's 1,200-plus islands to Dubrovnik, with many itineraries continuing to Montenegro's Bay of Kotor. The region delivers a rare combination of accessible culture—UNESCO World Heritage sites at every major port—with genuine adventure. Whether you're exploring Diocletian's Palace in Split by day and sampling Dalmatian wines at sunset, or kayaking beneath Dubrovnik's walls as the crowds thin, the Adriatic offers cruisers an intimate, walkable scale that larger Mediterranean routes often lack. Best of all, the sea is calm and sheltered, making it ideal for those prone to motion sickness.",
-  "subRegions": [
-    "Croatian Coast",
-    "Italian Coast",
-    "Montenegro"
-  ],
-  "bestTimeToVisit": {
-    "peak": "May",
-    "shoulder": "June, September, early October",
-    "avoid": "July (peak crowds, Sirocco winds, heat)",
-    "tip": "May delivers warm 22-26°C sea temperatures, thin crowds, and lower prices. September offers similar water warmth with slightly cooler air temperatures. Both months avoid the Sirocco winds that can create choppy conditions in July-August and the boarding-school crowds of August."
-  },
-  "topPorts": [
-    {
-      "name": "Dubrovnik",
-      "highlight": "Medieval walls & Old Town",
-      "description": "Dubrovnik's UNESCO-protected Old Town is arguably the Adriatic's crown jewel. The 1.94km stone walls encircling the city date to the 13th century and offer spectacular views over terracotta rooftops to the sea. Inside, the marble-paved Stradun street runs between the Sponza Palace and the Franciscan Monastery. Game of Thrones fans recognise locations throughout, but even without that connection, the city feels cinematic. Tender boats dock at Gruž Bay, with shuttle ferries operating to the Old Town harbour. Arrive early or stay late—the city transforms when the day-tripper cruise crowds leave."
-    },
-    {
-      "name": "Split",
-      "highlight": "Diocletian's Palace",
-      "description": "Built in 305 AD for Roman Emperor Diocletian, this palace complex forms Split's atmospheric city centre—you're literally living inside ancient history. Unlike preserved ruins elsewhere, Split's palace is woven into daily life: apartments occupy the imperial chambers, bars occupy the substructures, and locals shop at the Peristyle. The Riva waterfront promenade is perfect for evening aperitivo, watching locals and cruise passengers mingle. Ships dock within walking distance of the palace, making Split ideal for independent exploration.延伸：Consider a day trip to Krka National Park's waterfalls, just 90 minutes by bus from the port."
-    },
-    {
-      "name": "Kotor",
-      "highlight": "Bay of Kotor & medieval old town",
-      "description": "Montenegro's Kotor delivers one of the Mediterranean's most dramatic port approaches—ships sail into a deep fjord (technically a submerged river canyon) flanked by limestone cliffs. The fortified old town, with itscheckerboard-patterned stone streets, is car-free and compact. You can climb the 1,350 steps to San Giovanni fortress for panoramic views in under an hour, or simply wander the artisan shops and cafe-lined squares. Kotor's bay contains Our Lady of the Rocks island and the fortified town of Perast, reachable by local water taxi. Montenegro uses euros and is outside the EU but part of the Schengen zone for cruise visitors."
-    },
-    {
-      "name": "Hvar",
-      "highlight": "Jet-set island & Pakleni Islands",
-      "description": "Hvar Town is the Adriatic's answer to Saint-Tropez—celebrity spotting is genuinely possible. The 16th-century Arsenal, the fortified fort above town, and the Franciscan monastery worth visiting, but Hvar's real draw is its beaches and the Pakleni Islands archipelago just offshore. Ships anchor in the harbour and tender to town, though tender space is limited on larger vessels. Beyond the party scene, Hvar produces excellent lavender (the island is called the lavender isle) and wines from indigenous grapes. Even on port calls, you can escape the scene by walking to Varna Fort or taking a boat to the quieter Glavojebuk beach."
-    },
-    {
-      "name": "Venice",
-      "highlight": "Grand Canal & Piazza San Marco",
-      "description": "While Venice is typically a departure/arrival port rather than a port of call, its unique position as a destination in itself makes it essential. The city built on 118 small islands connected by 400 bridges demands at least half a day pre- or post-cruise. The Doge's Palace, St Mark's Basilica, the Rialto Bridge, and a gondola ride through lesser-known canals form the essentials. Venice's annual acqua alta (high water) occurs primarily October-January but can occasionally affect cruise schedules. Book a late-departing flight if flying home from Venice. The city's cruise terminal at Marghera connects by water taxi to the main sights."
-    }
-  ],
-  "popularItineraries": [
-    {
-      "name": "7-Night Venice Return",
-      "from": "Venice",
-      "ports": [
-        "Venice (Marghera)",
-        "Rijeka",
-        "Zadar",
-        "Split",
-        "Hvar",
-        "Dubrovnik"
-      ],
-      "priceFrom": 799
-    },
-    {
-      "name": "7-Night Venice to Dubrovnik",
-      "from": "Venice",
-      "ports": [
-        "Venice",
-        "Rijeka",
-        "Zadar",
-        "Split",
-        "Kotor",
-        "Dubrovnik"
-      ],
-      "priceFrom": 849
-    },
-    {
-      "name": "10-Night Greece & Adriatic",
-      "from": "Athens (Piraeus)",
-      "ports": [
-        "Athens",
-        "Katakolon (Olympia)",
-        "Kotor",
-        "Dubrovnik",
-        "Split",
-        "Venice"
-      ],
-      "priceFrom": 1199
-    },
-    {
-      "name": "7-Night Montenegro & Croatia",
-      "from": "Dubrovnik",
-      "ports": [
-        "Dubrovnik",
-        "Kotor",
-        "Hvar",
-        "Split",
-        "Šibenik",
-        "Zadar"
-      ],
-      "priceFrom": 699
-    },
-    {
-      "name": "14-Night Grand Adriatic",
-      "from": "Venice",
-      "ports": [
-        "Venice",
-        "Split",
-        "Kotor",
-        "Dubrovnik",
-        "Athens",
-        "Santorini",
-        "Mykonos",
-        "Dubrovnik"
-      ],
-      "priceFrom": 1599
-    }
-  ],
-  "cruiseLinesOperating": [
-    "MSC Cruises",
-    "Celebrity Cruises",
-    "Norwegian Cruise Line",
-    "Princess Cruises",
-    "Virgin Voyages",
-    "AIDA Cruises",
-    "Costa Cruises",
-    "Holland America Line",
-    "Windstar Cruises",
-    "Variety Cruises",
-    "Emerald Cruises",
-    " Celestyal"
-  ],
-  "whatToExpect": {
-    "weather": "Adriatic cruise season runs May through October. May and October see air temperatures of 18-24°C; June and September average 24-30°C; July-August peak at 28-35°C but feel hotter in city centres with limited shade. Sea temperatures range from 18°C in May to a swimming-perfect 24-26°C in July-August. Pack layers for cooler evenings, especially in May and September. Rain is rare but brief thunderstorms occur, particularly in May. The Sirocco wind from Africa can create humid conditions and choppy seas in July-August—rarely dangerous but can affect port comfort.",
-    "food": "The Adriatic's cuisine reflects its position at the crossroads of Central European, Mediterranean, and Balkan influences. Dalmatian pršut (prosciutto) served with local cheese and olives is the quintessential starter. Fresh seafood dominates—look for grilled whole fish, black risotto (squid ink), and brodetto (fish stew). In Istria (Rovinj area), white truffles from Motovun forest appear on menus September-January. Italian influence is strong—cacio e pepe and pizza rival local Dalmatian dishes along the coast. Croatian wines are excellent and affordable: try Pošip and Graševina from Dalmatia, Teran from Istria. Expect to pay €10-25 for quality restaurant meals ashore.",
-    "culture": "The Adriatic coast is relaxed but culturally rich. Dress codes for churches require covered shoulders and knees—carry a scarf for women and long trousers for men. Tipping 10% is customary in restaurants but not expected at cafés. Siesta culture persists in smaller towns—many shops close 1-4pm. Croatian and Italian overlap linguistically in Istria; in Dalmatia, Croatian dominates. English is widely spoken in tourist areas. Haggle only at markets, not shops. Montenegro is more informal but similarly tourist-friendly. EU cruise terminals accept euros; Croatia uses kuna but many establishments accept euros—verify before paying.",
-    "currency": "Croatia adopted the euro in January 2023, making most Adriatic ports eurozone. Montenegro and Kosovo use euros regardless of EU status. Italy uses euros. ATMs are ubiquitous in port cities; credit cards accepted almost everywhere. Budget €50-80 per day for meals ashore, €30-50 for excursions, €20-40 for local transport and tips.",
-    "language": "Croatian is the official language of Croatia; Italian is also widely understood along the Istrian coast due to historical ties. In Dubrovnik, you'll hear more English than anywhere else in the country. In Montenegro, Montenegrin is official but Serbian and Bosnian are commonly spoken; English is standard in tourist zones. Learning five Croatian phrases (dobar dan = good day, hvala = thank you, molim = please, doviđenja = goodbye, koliko košta = how much) earns genuine appreciation from locals."
-  },
-  "insiderTips": [
-    "Book the Game of Thrones walking tour in Dubrovnik independently for €15-20 versus €50+ ship excursion—the same certified guides work both channels. The tour covers key filming locations including the Jesuit Staircase where Cersei's walk of shame was filmed.",
-    "Purchase the Dubrovnik Card (valid 24, 48, or 72 hours from €30) for unlimited city bus transport, entry to all museums, and a free walking tour. It pays for itself if you visit multiple sites and covers the €5 city wall tax if purchased with wall access.",
-    "Take the public JADROLINIJA ferry from Split to Hvar (€16-19) on sea days rather than the ship's expensive excursion—it's a 2-hour scenic crossing through the islands and deposits you right at Hvar Town harbour. Book at the ferry terminal the day before, not on the day.",
-    "In Kotor, negotiate directly with the local boat operators at the old town waterfront for Our Lady of the Rocks and Perast trips—expect to pay €10-15 per person versus €40+ through the ship. Perast's two islands (one natural, one built from rocks over centuries) are stunning and uncrowded by comparison to Kotor's streets.",
-    "For sunset in Split, climb Marjan Hill rather than crowded bar streets—the hill's church offers panoramic views over the city, sea, and surrounding islands with no entrance fee. Pack wine and snacks from the market for a perfect evening."
-  ],
-  "packingList": [
-    "Comfortable walking shoes with good grip—cobblestone streets and uneven medieval paving are the norm, and many attractions (Dubrovnik walls, Hvar fortress, Kotor fortress stairs) involve hours of climbing.",
-    "Lightweight layers including a light jacket or cardigan—May, September, and October evenings can be cool, and ship AC is often aggressive indoors.",
-    "Waterproof jacket or compact umbrella—brief Mediterranean storms occur, particularly in May and September, and sudden squalls can soak you on tenders.",
-    "Sarong or beach towel—Pakleni Islands near Hvar and beach stops elsewhere require you to BYO beach gear; ship towels work but are often restricted to poolside.",
-    "Sun protection: SPF50+ sunscreen, wide-brim hat, and quality sunglasses—the Adriatic sun is intense, especially reflected off white stone and water.",
-    "European two-pin power adapter—standard on most ships; pack at least two as cabin outlets are limited.",
-    "Lightweight long trousers and shirts covering shoulders for church visits—required at Split's cathedral, Dubrovnik's cathedral, and most other religious sites.",
-    "Reusable water bottle with carabiner—hydration is essential, and refill stations reduce plastic waste and cost (fill from ship's drinking fountains).",
-    "Small daypack or crossbody bag—essential for port days carrying water, camera, and purchases without carrying a bulky bag.",
-    "Euros in small denominations (€5-20 notes)—essential for markets, tips, and small vendors who don't take cards or charge fees for card minimums."
-  ],
-  "faq": [
-    {
-      "question": "What is the best time of year to cruise the Adriatic?",
-      "answer": "May and September are optimal for most cruisers. May offers warm sea temperatures (18-22°C), thin crowds at major ports, and prices 15-25% below peak season. September provides similar temperatures plus calmer evening temperatures for dining ashore. July should be actively avoided—Sirocco winds create uncomfortable chop, temperatures regularly exceed 35°C in city centres with minimal shade, and Dubrovnik, Hvar, and Split see their maximum cruise traffic. August shares July's drawbacks plus astronomical crowds as Italian and Central European holidaymakers flood the coast. If July or August are your only options, choose ships with larger stabilisers and prioritise early-morning port visits to beat both crowds and heat."
-    },
-    {
-      "question": "Do I need a visa for Adriatic cruises?",
-      "answer": "For standard cruise itineraries visiting Croatia, Montenegro, and Italy, EU citizens need only a valid passport or national ID. UK citizens get 90 days in 180 across the Schengen zone visa-free. US, Canadian, and Australian citizens can visit Croatia and Montenegro for tourism up to 90 days without a visa. For mixed itineraries including non-Schengen ports (Greece, Turkey), always verify your specific visa situation—Greece is Schengen so visa-free for most Western passport holders, but always check cruise line requirements. The critical issue is Croatia: as of 2023, it has joined the Schengen Area but is not yet in the eurozone. Your ship handles immigration formalities, but you must ensure your passport is valid for 6 months beyond your return date."
-    },
-    {
-      "question": "How many days do I need for an Adriatic cruise?",
-      "answer": "Seven nights covers the classic Venice-to-Dubrovnik route or circular loops from Venice, visiting 5-7 ports effectively. Ten nights allows Greek Islands additions or a Venice-to-Athens crossing with meaningful time at each port. Ten nights also suits Venice-Bucharest combinations with Danube extension. For first-time Adriatic visitors, start with 7 nights—enough to sample the highlights and determine if you want to return for deeper exploration. Those wanting to linger in Dubrovnik, explore Istria, or take inland day trips (Plitvice Lakes, Mostar, etc.) should consider adding pre- or post-cruise land days in Venice or Dubrovnik."
-    },
-    {
-      "question": "What should I budget for excursions in the Adriatic?",
-      "answer": "Ship excursions in the Adriatic typically range from €40-120 per person. Walking tours of Dubrovnik, Split, and Kotor average €50-70; included access to major attractions (walls, palaces) adds €20-30. Premium experiences like private boat tours, wine tastings, or cooking classes run €80-150. Independent exploration is highly viable—all major ports are walkable, and public transport is cheap (€2-5 bus rides). Independent Adriatic exploration budget: €30-50 per port for local transport and optional small-group tours, €30-50 for admissions to major paid sites, €60-120 for meals. Book ship excursions for ports like Kotor's Bay where independent logistics are complex; self-guide Split, Hvar, and Dubrovnik where all major sights are within easy walking distance."
-    }
-  ]
+ "slug": "adriatic",
+ "name": "Adriatic",
+ "region": "Europe",
+ "metaTitle": "Adriatic Cruises Guide 2026 — Best Routes, Ports & Tips",
+ "metaDescription": "Complete guide to cruising the Adriatic Sea. Best time to visit, top ports like Dubrovnik and Split, what to expect on board, and how to plan your Adriatic cruise from €699.",
+ "heroSubtitle": "Your complete Adriatic cruise planning guide — medieval cities, crystal waters, and island-hopping",
+ "overview": "The Adriatic Sea stretches 800 kilometres between Italy's eastern coast and the Balkan peninsula, offering one of Europe's most diverse cruising experiences. This narrow body of water packs an extraordinary punch: medieval walled cities, Roman ruins, Venetian Gothic architecture, hidden coves with turquoise water, and some of the world's most dramatic coastal scenery. Most Adriatic cruises depart from Venice or Trieste in Italy, sailing south past Slovenia's coast and down through Croatia's 1,200-plus islands to Dubrovnik, with many itineraries continuing to Montenegro's Bay of Kotor. The region delivers a rare combination of accessible culture—UNESCO World Heritage sites at every major port—with genuine adventure. Whether you're exploring Diocletian's Palace in Split by day and sampling Dalmatian wines at sunset, or kayaking beneath Dubrovnik's walls as the crowds thin, the Adriatic offers cruisers an intimate, walkable scale that larger Mediterranean routes often lack. Best of all, the sea is calm and sheltered, making it ideal for those prone to motion sickness.",
+ "subRegions": [
+ "Croatian Coast",
+ "Italian Coast",
+ "Montenegro"
+ ],
+ "bestTimeToVisit": {
+ "peak": "May",
+ "shoulder": "June, September, early October",
+ "avoid": "July (peak crowds, Sirocco winds, heat)",
+ "tip": "May delivers warm 22-26°C sea temperatures, thin crowds, and lower prices. September offers similar water warmth with slightly cooler air temperatures. Both months avoid the Sirocco winds that can create choppy conditions in July-August and the boarding-school crowds of August."
+ },
+ "topPorts": [
+ {
+ "name": "Dubrovnik",
+ "highlight": "Medieval walls & Old Town",
+ "description": "Dubrovnik's UNESCO-protected Old Town is arguably the Adriatic's crown jewel. The 1.94km stone walls encircling the city date to the 13th century and offer spectacular views over terracotta rooftops to the sea. Inside, the marble-paved Stradun street runs between the Sponza Palace and the Franciscan Monastery. Game of Thrones fans recognise locations throughout, but even without that connection, the city feels cinematic. Tender boats dock at Gruž Bay, with shuttle ferries operating to the Old Town harbour. Arrive early or stay late—the city transforms when the day-tripper cruise crowds leave."
+ },
+ {
+ "name": "Split",
+ "highlight": "Diocletian's Palace",
+ "description": "Built in 305 AD for Roman Emperor Diocletian, this palace complex forms Split's atmospheric city centre—you're literally living inside ancient history. Unlike preserved ruins elsewhere, Split's palace is woven into daily life: apartments occupy the imperial chambers, bars occupy the substructures, and locals shop at the Peristyle. The Riva waterfront promenade is perfect for evening aperitivo, watching locals and cruise passengers mingle. Ships dock within walking distance of the palace, making Split ideal for independent exploration.：Consider a day trip to Krka National Park's waterfalls, just 90 minutes by bus from the port."
+ },
+ {
+ "name": "Kotor",
+ "highlight": "Bay of Kotor & medieval old town",
+ "description": "Montenegro's Kotor delivers one of the Mediterranean's most dramatic port approaches—ships sail into a deep fjord (technically a submerged river canyon) flanked by limestone cliffs. The fortified old town, with itscheckerboard-patterned stone streets, is car-free and compact. You can climb the 1,350 steps to San Giovanni fortress for panoramic views in under an hour, or simply wander the artisan shops and cafe-lined squares. Kotor's bay contains Our Lady of the Rocks island and the fortified town of Perast, reachable by local water taxi. Montenegro uses euros and is outside the EU but part of the Schengen zone for cruise visitors."
+ },
+ {
+ "name": "Hvar",
+ "highlight": "Jet-set island & Pakleni Islands",
+ "description": "Hvar Town is the Adriatic's answer to Saint-Tropez—celebrity spotting is genuinely possible. The 16th-century Arsenal, the fortified fort above town, and the Franciscan monastery worth visiting, but Hvar's real draw is its beaches and the Pakleni Islands archipelago just offshore. Ships anchor in the harbour and tender to town, though tender space is limited on larger vessels. Beyond the party scene, Hvar produces excellent lavender (the island is called the lavender isle) and wines from indigenous grapes. Even on port calls, you can escape the scene by walking to Varna Fort or taking a boat to the quieter Glavojebuk beach."
+ },
+ {
+ "name": "Venice",
+ "highlight": "Grand Canal & Piazza San Marco",
+ "description": "While Venice is typically a departure/arrival port rather than a port of call, its unique position as a destination in itself makes it essential. The city built on 118 small islands connected by 400 bridges demands at least half a day pre- or post-cruise. The Doge's Palace, St Mark's Basilica, the Rialto Bridge, and a gondola ride through lesser-known canals form the essentials. Venice's annual acqua alta (high water) occurs primarily October-January but can occasionally affect cruise schedules. Book a late-departing flight if flying home from Venice. The city's cruise terminal at Marghera connects by water taxi to the main sights."
+ }
+ ],
+ "popularItineraries": [
+ {
+ "name": "7-Night Venice Return",
+ "from": "Venice",
+ "ports": [
+ "Venice (Marghera)",
+ "Rijeka",
+ "Zadar",
+ "Split",
+ "Hvar",
+ "Dubrovnik"
+ ],
+ "priceFrom": 799
+ },
+ {
+ "name": "7-Night Venice to Dubrovnik",
+ "from": "Venice",
+ "ports": [
+ "Venice",
+ "Rijeka",
+ "Zadar",
+ "Split",
+ "Kotor",
+ "Dubrovnik"
+ ],
+ "priceFrom": 849
+ },
+ {
+ "name": "10-Night Greece & Adriatic",
+ "from": "Athens (Piraeus)",
+ "ports": [
+ "Athens",
+ "Katakolon (Olympia)",
+ "Kotor",
+ "Dubrovnik",
+ "Split",
+ "Venice"
+ ],
+ "priceFrom": 1199
+ },
+ {
+ "name": "7-Night Montenegro & Croatia",
+ "from": "Dubrovnik",
+ "ports": [
+ "Dubrovnik",
+ "Kotor",
+ "Hvar",
+ "Split",
+ "Šibenik",
+ "Zadar"
+ ],
+ "priceFrom": 699
+ },
+ {
+ "name": "14-Night Grand Adriatic",
+ "from": "Venice",
+ "ports": [
+ "Venice",
+ "Split",
+ "Kotor",
+ "Dubrovnik",
+ "Athens",
+ "Santorini",
+ "Mykonos",
+ "Dubrovnik"
+ ],
+ "priceFrom": 1599
+ }
+ ],
+ "cruiseLinesOperating": [
+ "MSC Cruises",
+ "Celebrity Cruises",
+ "Norwegian Cruise Line",
+ "Princess Cruises",
+ "Virgin Voyages",
+ "AIDA Cruises",
+ "Costa Cruises",
+ "Holland America Line",
+ "Windstar Cruises",
+ "Variety Cruises",
+ "Emerald Cruises",
+ " Celestyal"
+ ],
+ "whatToExpect": {
+ "weather": "Adriatic cruise season runs May through October. May and October see air temperatures of 18-24°C; June and September average 24-30°C; July-August peak at 28-35°C but feel hotter in city centres with limited shade. Sea temperatures range from 18°C in May to a swimming-perfect 24-26°C in July-August. Pack layers for cooler evenings, especially in May and September. Rain is rare but brief thunderstorms occur, particularly in May. The Sirocco wind from Africa can create humid conditions and choppy seas in July-August—rarely dangerous but can affect port comfort.",
+ "food": "The Adriatic's cuisine reflects its position at the crossroads of Central European, Mediterranean, and Balkan influences. Dalmatian pršut (prosciutto) served with local cheese and olives is the quintessential starter. Fresh seafood dominates—look for grilled whole fish, black risotto (squid ink), and brodetto (fish stew). In Istria (Rovinj area), white truffles from Motovun forest appear on menus September-January. Italian influence is strong—cacio e pepe and pizza rival local Dalmatian dishes along the coast. Croatian wines are excellent and affordable: try Pošip and Graševina from Dalmatia, Teran from Istria. Expect to pay €10-25 for quality restaurant meals ashore.",
+ "culture": "The Adriatic coast is relaxed but culturally rich. Dress codes for churches require covered shoulders and knees—carry a scarf for women and long trousers for men. Tipping 10% is customary in restaurants but not expected at cafés. Siesta culture persists in smaller towns—many shops close 1-4pm. Croatian and Italian overlap linguistically in Istria; in Dalmatia, Croatian dominates. English is widely spoken in tourist areas. Haggle only at markets, not shops. Montenegro is more informal but similarly tourist-friendly. EU cruise terminals accept euros; Croatia uses kuna but many establishments accept euros—verify before paying.",
+ "currency": "Croatia adopted the euro in January 2023, making most Adriatic ports eurozone. Montenegro and Kosovo use euros regardless of EU status. Italy uses euros. ATMs are ubiquitous in port cities; credit cards accepted almost everywhere. Budget €50-80 per day for meals ashore, €30-50 for excursions, €20-40 for local transport and tips.",
+ "language": "Croatian is the official language of Croatia; Italian is also widely understood along the Istrian coast due to historical ties. In Dubrovnik, you'll hear more English than anywhere else in the country. In Montenegro, Montenegrin is official but Serbian and Bosnian are commonly spoken; English is standard in tourist zones. Learning five Croatian phrases (dobar dan = good day, hvala = thank you, molim = please, doviđenja = goodbye, koliko košta = how much) earns genuine appreciation from locals."
+ },
+ "insiderTips": [
+ "Book the Game of Thrones walking tour in Dubrovnik independently for €15-20 versus €50+ ship excursion—the same certified guides work both channels. The tour covers key filming locations including the Jesuit Staircase where Cersei's walk of shame was filmed.",
+ "Purchase the Dubrovnik Card (valid 24, 48, or 72 hours from €30) for unlimited city bus transport, entry to all museums, and a free walking tour. It pays for itself if you visit multiple sites and covers the €5 city wall tax if purchased with wall access.",
+ "Take the public JADROLINIJA ferry from Split to Hvar (€16-19) on sea days rather than the ship's expensive excursion—it's a 2-hour scenic crossing through the islands and deposits you right at Hvar Town harbour. Book at the ferry terminal the day before, not on the day.",
+ "In Kotor, negotiate directly with the local boat operators at the old town waterfront for Our Lady of the Rocks and Perast trips—expect to pay €10-15 per person versus €40+ through the ship. Perast's two islands (one natural, one built from rocks over centuries) are stunning and uncrowded by comparison to Kotor's streets.",
+ "For sunset in Split, climb Marjan Hill rather than crowded bar streets—the hill's church offers panoramic views over the city, sea, and surrounding islands with no entrance fee. Pack wine and snacks from the market for a perfect evening."
+ ],
+ "packingList": [
+ "Comfortable walking shoes with good grip—cobblestone streets and uneven medieval paving are the norm, and many attractions (Dubrovnik walls, Hvar fortress, Kotor fortress stairs) involve hours of climbing.",
+ "Lightweight layers including a light jacket or cardigan—May, September, and October evenings can be cool, and ship AC is often aggressive indoors.",
+ "Waterproof jacket or compact umbrella—brief Mediterranean storms occur, particularly in May and September, and sudden squalls can soak you on tenders.",
+ "Sarong or beach towel—Pakleni Islands near Hvar and beach stops elsewhere require you to BYO beach gear; ship towels work but are often restricted to poolside.",
+ "Sun protection: SPF50+ sunscreen, wide-brim hat, and quality sunglasses—the Adriatic sun is intense, especially reflected off white stone and water.",
+ "European two-pin power adapter—standard on most ships; pack at least two as cabin outlets are limited.",
+ "Lightweight long trousers and shirts covering shoulders for church visits—required at Split's cathedral, Dubrovnik's cathedral, and most other religious sites.",
+ "Reusable water bottle with carabiner—hydration is essential, and refill stations reduce plastic waste and cost (fill from ship's drinking fountains).",
+ "Small daypack or crossbody bag—essential for port days carrying water, camera, and purchases without carrying a bulky bag.",
+ "Euros in small denominations (€5-20 notes)—essential for markets, tips, and small vendors who don't take cards or charge fees for card minimums."
+ ],
+ "faq": [
+ {
+ "question": "What is the best time of year to cruise the Adriatic?",
+ "answer": "May and September are optimal for most cruisers. May offers warm sea temperatures (18-22°C), thin crowds at major ports, and prices 15-25% below peak season. September provides similar temperatures plus calmer evening temperatures for dining ashore. July should be actively avoided—Sirocco winds create uncomfortable chop, temperatures regularly exceed 35°C in city centres with minimal shade, and Dubrovnik, Hvar, and Split see their maximum cruise traffic. August shares July's drawbacks plus astronomical crowds as Italian and Central European holidaymakers flood the coast. If July or August are your only options, choose ships with larger stabilisers and prioritise early-morning port visits to beat both crowds and heat."
+ },
+ {
+ "question": "Do I need a visa for Adriatic cruises?",
+ "answer": "For standard cruise itineraries visiting Croatia, Montenegro, and Italy, EU citizens need only a valid passport or national ID. UK citizens get 90 days in 180 across the Schengen zone visa-free. US, Canadian, and Australian citizens can visit Croatia and Montenegro for tourism up to 90 days without a visa. For mixed itineraries including non-Schengen ports (Greece, Turkey), always verify your specific visa situation—Greece is Schengen so visa-free for most Western passport holders, but always check cruise line requirements. The critical issue is Croatia: as of 2023, it has joined the Schengen Area but is not yet in the eurozone. Your ship handles immigration formalities, but you must ensure your passport is valid for 6 months beyond your return date."
+ },
+ {
+ "question": "How many days do I need for an Adriatic cruise?",
+ "answer": "Seven nights covers the classic Venice-to-Dubrovnik route or circular loops from Venice, visiting 5-7 ports effectively. Ten nights allows Greek Islands additions or a Venice-to-Athens crossing with meaningful time at each port. Ten nights also suits Venice-Bucharest combinations with Danube extension. For first-time Adriatic visitors, start with 7 nights—enough to sample the highlights and determine if you want to return for deeper exploration. Those wanting to linger in Dubrovnik, explore Istria, or take inland day trips (Plitvice Lakes, Mostar, etc.) should consider adding pre- or post-cruise land days in Venice or Dubrovnik."
+ },
+ {
+ "question": "What should I budget for excursions in the Adriatic?",
+ "answer": "Ship excursions in the Adriatic typically range from €40-120 per person. Walking tours of Dubrovnik, Split, and Kotor average €50-70; included access to major attractions (walls, palaces) adds €20-30. Premium experiences like private boat tours, wine tastings, or cooking classes run €80-150. Independent exploration is highly viable—all major ports are walkable, and public transport is cheap (€2-5 bus rides). Independent Adriatic exploration budget: €30-50 per port for local transport and optional small-group tours, €30-50 for admissions to major paid sites, €60-120 for meals. Book ship excursions for ports like Kotor's Bay where independent logistics are complex; self-guide Split, Hvar, and Dubrovnik where all major sights are within easy walking distance."
+ }
+ ]
 }

@@ -64,7 +64,7 @@ export async function generateMetadata({
     `${data.cruise_line} ${data.destination} cruise — ${data.duration_nights} nights from €${data.price_eur}. Book now.`;
 
   return {
-    title: `${data.title} | CruiseCompare`,
+    title: `${data.title}`,
     description,
     openGraph: {
       title: data.title,

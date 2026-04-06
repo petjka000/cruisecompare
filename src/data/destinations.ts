@@ -42,7 +42,7 @@ export const destinations: DestinationData[] = [
   },
   {
     name: 'Asia',
-    slug: 'asia',
+    slug: 'japan-asia',
     gradient: 'linear-gradient(135deg, #D4A853 0%, #8B6914 100%)',
     cruiseCount: 98,
     fromPrice: 699,
@@ -50,7 +50,7 @@ export const destinations: DestinationData[] = [
   },
   {
     name: 'South Pacific',
-    slug: 'south-pacific',
+    slug: 'australia-pacific',
     gradient: 'linear-gradient(135deg, #48D1CC 0%, #1A6B5F 100%)',
     cruiseCount: 76,
     fromPrice: 799,

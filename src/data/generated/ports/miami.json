@@ -1,175 +1,175 @@
 {
-  "slug": "miami",
-  "name": "Miami",
-  "city": "United States",
-  "country": "United States",
-  "iata": "MIA",
-  "region": "Caribbean",
-  "metaTitle": "Miami Cruise Port Guide 2026 — Terminals, Transport & Tips",
-  "metaDescription": "Complete guide to Miami cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
-  "heroSubtitle": "Everything you need to know before your cruise from Miami",
-  "overview": "Miami's PortMiami is the busiest cruise port in the world, handling over 6 million passengers annually. Located on Dodge Island just minutes from downtown, this sprawling port complex serves as the departure point for Caribbean, Bahamas, and Central American itineraries. Known as the Cruise Capital of the World, Miami offers year-round cruising with everything from budget-friendly Carnival sailings to luxury voyages on Regent Seven Seas. What sets Miami apart is its perfect position at the gateway to the Caribbean, combined with world-class pre and post-cruise entertainment in South Beach and Brickell. The port's proximity to Miami International Airport makes it exceptionally accessible for international travelers, while its modern terminal facilities can process thousands of passengers simultaneously during peak season.",
-  "terminals": [
-    {
-      "name": "Terminal A (Carmen E. Krome Cruise Terminal)",
-      "description": "PortMiami's newest terminal complex, serving Carnival Cruise Line. Features modern check-in facilities, spacious waiting areas, and direct access to parking garages. Terminal A underwent a €100 million renovation completed in 2018, making it one of the most modern cruise facilities in North America.",
-      "cruiseLines": [
-        "Carnival Cruise Line"
-      ],
-      "facilities": [
-        "self-service check-in kiosks",
-        "baggage drop-off",
-        "waiting lounges",
-        "WiFi",
-        "Vending machines",
-        "ATMs",
-        "Wheelchair accessible"
-      ]
-    },
-    {
-      "name": "Terminal F (Miami Cruise Terminal)",
-      "description": "Primary home for Norwegian Cruise Line at PortMiami. This terminal offers efficient passenger processing with dedicated security lanes and comfortable pre-boarding areas. The terminal connects directly to adjacent parking.",
-      "cruiseLines": [
-        "Norwegian Cruise Line"
-      ],
-      "facilities": [
-        "check-in counters",
-        "baggage services",
-        "seated waiting area",
-        "restrooms with baby changing facilities"
-      ]
-    },
-    {
-      "name": "Terminal G (Royal Caribbean Terminal)",
-      "description": "Royal Caribbean's dedicated facility at PortMiami, designed to handle the line's larger vessels like the Oasis class ships. Features elevated roadways for passenger drop-off and streamlined security screening.",
-      "cruiseLines": [
-        "Royal Caribbean International"
-      ],
-      "facilities": [
-        "elevated drop-off zone",
-        "automated security scanners",
-        "spacious queuing areas",
-        "retail space"
-      ]
-    },
-    {
-      "name": "Terminal AA (Celebrity Cruises Terminal)",
-      "description": "Purpose-built terminal for Celebrity Cruises, offering premium check-in experience with dedicated lounges for suite guests. The terminal provides efficient processing while maintaining a more upscale atmosphere.",
-      "cruiseLines": [
-        "Celebrity Cruises"
-      ],
-      "facilities": [
-        "concierge check-in",
-        "suite lounge",
-        "baggage services",
-        "accessible restrooms"
-      ]
-    },
-    {
-      "name": "Terminal H (MSC Cruises Terminal)",
-      "description": "Home to MSC Cruises' U.S. operations. Features modern architecture with Mediterranean-inspired design elements. Capable of handling MSC's newest and largest ships including the MSC World class vessels.",
-      "cruiseLines": [
-        "MSC Cruises"
-      ],
-      "facilities": [
-        "modern check-in hall",
-        "baggage handling system",
-        "comfortable seating areas",
-        "food and beverage options"
-      ]
-    }
-  ],
-  "gettingThere": {
-    "fromAirport": "Miami International Airport (MIA) is approximately 12 kilometers from PortMiami, about a 20-30 minute drive depending on traffic. Taxi fare from MIA to the port costs approximately €28-35 (€30-38 USD). Rideshare services like Uber and Lyft are available and typically cost €20-28. SuperShuttle shared van service runs approximately €18-25 per person but requires advance booking. For public transport, take Metrobus Route 150 or 7 to Brickell station, then taxi or rideshare to the port (total journey about 45-60 minutes, cost around €5-8).",
-    "fromCityCenter": "PortMiami is just 3 kilometers from downtown Miami, making it one of the most accessible major cruise ports. From Brickell or Downtown, taxi or rideshare takes 10-15 minutes and costs approximately €12-18. The free Metromover can get you close—take any Metromover line to Government Center station, then it's a €8-10 taxi ride or 15-minute walk to the port entrance. During morning embarkation, expect significant traffic delays near the port; budget an extra 30-45 minutes beyond your normal travel time.",
-    "parking": "PortMiami operates several parking garages adjacent to the cruise terminals. Daily rates are approximately €25-35 depending on the garage and terminal. The closest parking to Terminal A costs €35 per day for Carnival sailings. Pre-booking parking through the PortMiami website can save 10-15% and guarantees a spot during peak season. Private lots near the port like InterPark and Cruise Parking Miami offer similar rates with free shuttle service, often available for €22-30 per day when booked in advance.",
-    "shuttles": "Most major cruise lines operating from Miami do not provide complimentary shuttle service between the airport and port. However, Carnival and Royal Caribbean offer purchased shuttle packages (approximately €25-40 per person round-trip) that include airport meet-and-greet and port transfer. Hotel shuttles are increasingly common—many Miami Beach hotels partner with cruise lines or offer shuttles for €15-25 per person. PortMiami does not operate a public shuttle, but several private companies like GO Lorrie's and SuperShuttle serve the airport-port route."
-  },
-  "embarkationTips": [
-    "Arrive at the port no earlier than 2.5-3 hours before your scheduled departure time. PortMiami has extremely limited shade and seating outside the terminals, and arriving too early means waiting in Florida's intense heat and humidity. If you arrive more than 3 hours early, consider having breakfast at Bayside Marketplace (5-minute taxi ride) and return closer to your boarding time.",
-    "Miami traffic follows a predictable pattern: avoid arriving between 7:30-9:30 AM if possible. If your cruise departs in the afternoon (4 PM or later), morning arrival times (9-11 AM) are significantly less congested than midday. Saturday departures are typically the worst—Friday evening and Saturday morning see the port's heaviest traffic of the week.",
-    "Download and complete your cruise line's mobile check-in requirements 24 hours before departure. Miami terminals have inconsistent free WiFi, and mobile check-in completed in advance means you skip one of the longest queues at the port. Bring a screenshot of your boarding pass—cell service can be overloaded with thousands of passengers simultaneously trying to connect.",
-    "Pack a separate day bag with essentials for embarkation day: sunscreen, sunglasses, water bottle, snacks, and any medications you might need. Once your bags are checked, you won't see them again until your cabin is ready (often not until 2-3 PM). Miami's afternoon sun is brutal, and food options inside the port are limited and overpriced.",
-    "For guests flying in the morning of departure, consider booking a departure flight no earlier than 2 PM to allow for any flight delays and guaranteed arrival at the port. Miami International Airport is usually less congested in early morning hours (6-9 AM), but domestic flights frequently arrive late from connections in other U.S. cities."
-  ],
-  "nearbyAttractions": [
-    {
-      "name": "Bayside Marketplace",
-      "description": "Open-air shopping and entertainment complex directly across from PortMiami on Biscayne Bay. Features over 150 shops, restaurants, and live music. Perfect for last-minute souvenirs or a pre-cruise meal with waterfront views. The Hard Rock Cafe and Bubba Gump Shrimp Co. are popular options here.",
-      "walkingTime": "15-minute walk or 5-minute taxi from port entrance",
-      "cost": "Free to enter, shopping and dining à la carte"
-    },
-    {
-      "name": "Vizcaya Museum and Gardens",
-      "description": "Stunning Italian Renaissance villa built in 1916 as winter home for industrialist James Deering. The 32-acre estate includes ornate European gardens, coral stone architecture, and bay-front terraces. One of Miami's most photogenic historic sites, located just 10 minutes south of the port.",
-      "walkingTime": "Not walkable; 10-minute taxi",
-      "cost": "Adults €18, Children €10"
-    },
-    {
-      "name": "Art Deco Historic District (South Beach)",
-      "description": "World's largest collection of Art Deco architecture, located on Ocean Drive in South Beach. Over 800 architecturally significant buildings from the 1920s-1940s. The vibrant neon-lit facades are best seen at sunset. Miami Beach's famous beach is steps away.",
-      "walkingTime": "Not walkable; 15-20 minute taxi from port",
-      "cost": "Free to walk the district, beach access free"
-    },
-    {
-      "name": "Little Havana (Calle Ocho)",
-      "description": "Authentic Cuban cultural district 15 minutes west of the port. Walk down Calle Ocho (8th Street) to experience domino parks, cigar shops, authentic Cuban coffee, and traditional restaurants. Don't miss Versailles Restaurant, considered the world's famous Cuban restaurant.",
-      "walkingTime": "Not walkable; 15-minute taxi",
-      "cost": "Free to explore, coffee from €2-3"
-    },
-    {
-      "name": "Frost Science Museum",
-      "description": "State-of-the-art science museum on Biscayne Bay with planetarium, aquarium, and hands-on exhibits. Located in downtown Miami near Bayside, great for families with children who want entertainment before boarding.",
-      "walkingTime": "10-minute walk from port",
-      "cost": "Adults €28, Children €20"
-    }
-  ],
-  "localTransport": {
-    "metro": "Miami's Metrorail connects to the port area via Government Center station. From there, take the free Metromover (automated people mover) to various downtown locations. The Metrorail runs from 5 AM to midnight daily, with trains every 8-15 minutes. A one-way Metrorail fare costs approximately €2.50. The closest Metrorail station to PortMiami is Government Center, which is connected to the port area by taxi or rideshare (approximately €8-10).",
-    "bus": "Metrobus Route 93 and Route 5 serve Biscayne Boulevard near PortMiami, connecting to downtown Miami and Miami Beach. However, bus routes can be confusing for visitors and are often delayed in Miami traffic. A more reliable option is the free Metromover, which loops through downtown including stops near Bayside Marketplace and Brickell. The South Beach Local (Route S) is a cheap way to reach South Beach from downtown.",
-    "taxi": "Taxis are readily available outside PortMiami terminals. Flag fall is approximately €3.50, with per-mile rates around €1.80-2.20. Typical fares: PortMiami to South Beach (Ocean Drive) approximately €22-30; to Brickell approximately €12-18; to MIA airport approximately €28-35. All taxis accept credit cards but inform the driver before starting the meter. Uber and Lyft are heavily used in Miami and often cheaper than taxis.",
-    "walkability": "PortMiami is not within comfortable walking distance to major attractions. The port entrance is approximately 2 kilometers from Bayside Marketplace, which takes about 25 minutes in Florida heat. The actual cruise terminals are spread across Dodge Island and require shuttle or vehicle transport to reach. However, the port area itself is walkable once inside the terminal complex."
-  },
-  "weather": {
-    "bestMonths": "November through April offers the most comfortable cruising weather from Miami. December through March provides temperatures of 20-26°C with low humidity and minimal rainfall. These months represent peak cruise season with the most itinerary options but also the highest prices and largest crowds.",
-    "peakSeason": "December through March is peak season for Miami cruises. Holiday weeks (Christmas, New Year, Presidents' Week in February) see the highest prices and busiest ports. November感恩节前后的 week is also extremely popular. Spring Break (mid-March to mid-April) brings families but milder weather. Avoid the weeks immediately following major holidays when embarkation traffic is heaviest.",
-    "climate": "Miami's subtropical climate means warm weather year-round. For Caribbean cruises departing Miami, pack light summer clothing with one light layer for air-conditioned ship interiors. Average temperatures: Summer 28-33°C with high humidity and daily thunderstorms; Winter 18-25°C with comfortable humidity. Essential items: sunscreen (the Miami sun is intense year-round), sunglasses, wide-brimmed hat, and comfortable walking shoes. Even in winter, sun protection is mandatory."
-  },
-  "cruiseLinesFromHere": [
-    "Royal Caribbean",
-    "Carnival Cruise Line",
-    "Norwegian Cruise Line",
-    "MSC Cruises",
-    "Celebrity Cruises",
-    "Disney Cruise Line",
-    "Virgin Voyages",
-    "Regent Seven Seas",
-    "Holland America Line",
-    "Princess Cruises"
-  ],
-  "isDeparture": true,
-  "isCallPort": true,
-  "insiderTips": [
-    "Skip the overpriced airport hotels and instead book a pre-cruise stay at a Kimpton or Hotel Victor in South Beach—these boutique properties often have lower rates than airport hotels during cruise embarkation weekends and provide a much better Miami experience. Use the free Miami Beach Airport Flyer bus (Route 150) from MIA to South Beach for approximately €3, then taxi to your hotel.",
-    "For the cheapest parking, use the ParkJFK and Go Lorrie's shuttle services that operate from Miami-area hotels. Book through your hotel's concierge—they often have partnerships that include round-trip port transfers with parking for €18-25 per day, compared to €30-40 at PortMiami's official garages.",
-    "Eat before you board or bring food with you. PortMiami's terminal restaurants are limited to a Starbucks and expensive grab-and-go counters. Instead, grab Cuban toast and cortadito from Sabor a Cuba (12-minute walk from port on NW 7th Street) for approximately €8 per person, then eat at Bayside Marketplace's outdoor restaurants while watching the cruise ships dock."
-  ],
-  "faq": [
-    {
-      "question": "What time should I arrive at PortMiami for my cruise?",
-      "answer": "Plan to arrive 2.5-3 hours before your scheduled departure time. Miami's cruise terminals officially open for passenger boarding approximately 3 hours before departure. Arriving too early offers no advantage as you'll be stuck outside in the heat with no seating. If driving, the port parking garages fill up quickly during peak season—arrive by 10:30 AM for afternoon departures, or 11:30 AM for evening departures."
-    },
-    {
-      "question": "Which terminal will my cruise depart from?",
-      "answer": "Terminal assignments are sent with your cruise documents approximately 7-10 days before departure, or can be found by checking your cruise line's website. If you don't have this information, call your cruise line's pre-cruise phone number. Terminal assignments can change, especially for sailings using multiple terminals on busy days. Download your cruise line's app for real-time terminal updates on embarkation day."
-    },
-    {
-      "question": "Is there luggage storage available at PortMiami for pre or post-cruise day trips?",
-      "answer": "PortMiami does not offer day-use luggage storage for cruise passengers. If you want to explore Miami before or after your cruise but don't want to拖luggage, use Stow luggage storage services like Vertoe or LuggageHero in Miami Beach or downtown. These services charge approximately €5-10 per bag per day. Some nearby hotels (like the Intercontinental Miami) will store luggage for a fee even if you're not a guest."
-    },
-    {
-      "question": "Can I walk from PortMiami to downtown or Bayside Marketplace?",
-      "answer": "Walking from PortMiami to Bayside Marketplace is technically possible (approximately 2 kilometers) but not recommended in Miami's heat and humidity, or during late-night/early-morning arrivals. The walk involves crossing busy Port Boulevard and navigating industrial port roads with no shade. A taxi or rideshare from the port to Bayside costs approximately €8-12 and takes 5 minutes."
-    }
-  ]
+ "slug": "miami",
+ "name": "Miami",
+ "city": "United States",
+ "country": "United States",
+ "iata": "MIA",
+ "region": "Caribbean",
+ "metaTitle": "Miami Cruise Port Guide 2026 — Terminals, Transport & Tips",
+ "metaDescription": "Complete guide to Miami cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+ "heroSubtitle": "Everything you need to know before your cruise from Miami",
+ "overview": "Miami's PortMiami is the busiest cruise port in the world, handling over 6 million passengers annually. Located on Dodge Island just minutes from downtown, this sprawling port complex serves as the departure point for Caribbean, Bahamas, and Central American itineraries. Known as the Cruise Capital of the World, Miami offers year-round cruising with everything from budget-friendly Carnival sailings to luxury voyages on Regent Seven Seas. What sets Miami apart is its perfect position at the gateway to the Caribbean, combined with world-class pre and post-cruise entertainment in South Beach and Brickell. The port's proximity to Miami International Airport makes it exceptionally accessible for international travelers, while its modern terminal facilities can process thousands of passengers simultaneously during peak season.",
+ "terminals": [
+ {
+ "name": "Terminal A (Carmen E. Krome Cruise Terminal)",
+ "description": "PortMiami's newest terminal complex, serving Carnival Cruise Line. Features modern check-in facilities, spacious waiting areas, and direct access to parking garages. Terminal A underwent a €100 million renovation completed in 2018, making it one of the most modern cruise facilities in North America.",
+ "cruiseLines": [
+ "Carnival Cruise Line"
+ ],
+ "facilities": [
+ "self-service check-in kiosks",
+ "baggage drop-off",
+ "waiting lounges",
+ "WiFi",
+ "Vending machines",
+ "ATMs",
+ "Wheelchair accessible"
+ ]
+ },
+ {
+ "name": "Terminal F (Miami Cruise Terminal)",
+ "description": "Primary home for Norwegian Cruise Line at PortMiami. This terminal offers efficient passenger processing with dedicated security lanes and comfortable pre-boarding areas. The terminal connects directly to adjacent parking.",
+ "cruiseLines": [
+ "Norwegian Cruise Line"
+ ],
+ "facilities": [
+ "check-in counters",
+ "baggage services",
+ "seated waiting area",
+ "restrooms with baby changing facilities"
+ ]
+ },
+ {
+ "name": "Terminal G (Royal Caribbean Terminal)",
+ "description": "Royal Caribbean's dedicated facility at PortMiami, designed to handle the line's larger vessels like the Oasis class ships. Features elevated roadways for passenger drop-off and streamlined security screening.",
+ "cruiseLines": [
+ "Royal Caribbean International"
+ ],
+ "facilities": [
+ "elevated drop-off zone",
+ "automated security scanners",
+ "spacious queuing areas",
+ "retail space"
+ ]
+ },
+ {
+ "name": "Terminal AA (Celebrity Cruises Terminal)",
+ "description": "Purpose-built terminal for Celebrity Cruises, offering premium check-in experience with dedicated lounges for suite guests. The terminal provides efficient processing while maintaining a more upscale atmosphere.",
+ "cruiseLines": [
+ "Celebrity Cruises"
+ ],
+ "facilities": [
+ "concierge check-in",
+ "suite lounge",
+ "baggage services",
+ "accessible restrooms"
+ ]
+ },
+ {
+ "name": "Terminal H (MSC Cruises Terminal)",
+ "description": "Home to MSC Cruises' U.S. operations. Features modern architecture with Mediterranean-inspired design elements. Capable of handling MSC's newest and largest ships including the MSC World class vessels.",
+ "cruiseLines": [
+ "MSC Cruises"
+ ],
+ "facilities": [
+ "modern check-in hall",
+ "baggage handling system",
+ "comfortable seating areas",
+ "food and beverage options"
+ ]
+ }
+ ],
+ "gettingThere": {
+ "fromAirport": "Miami International Airport (MIA) is approximately 12 kilometers from PortMiami, about a 20-30 minute drive depending on traffic. Taxi fare from MIA to the port costs approximately €28-35 (€30-38 USD). Rideshare services like Uber and Lyft are available and typically cost €20-28. SuperShuttle shared van service runs approximately €18-25 per person but requires advance booking. For public transport, take Metrobus Route 150 or 7 to Brickell station, then taxi or rideshare to the port (total journey about 45-60 minutes, cost around €5-8).",
+ "fromCityCenter": "PortMiami is just 3 kilometers from downtown Miami, making it one of the most accessible major cruise ports. From Brickell or Downtown, taxi or rideshare takes 10-15 minutes and costs approximately €12-18. The free Metromover can get you close—take any Metromover line to Government Center station, then it's a €8-10 taxi ride or 15-minute walk to the port entrance. During morning embarkation, expect significant traffic delays near the port; budget an extra 30-45 minutes beyond your normal travel time.",
+ "parking": "PortMiami operates several parking garages adjacent to the cruise terminals. Daily rates are approximately €25-35 depending on the garage and terminal. The closest parking to Terminal A costs €35 per day for Carnival sailings. Pre-booking parking through the PortMiami website can save 10-15% and guarantees a spot during peak season. Private lots near the port like InterPark and Cruise Parking Miami offer similar rates with free shuttle service, often available for €22-30 per day when booked in advance.",
+ "shuttles": "Most major cruise lines operating from Miami do not provide complimentary shuttle service between the airport and port. However, Carnival and Royal Caribbean offer purchased shuttle packages (approximately €25-40 per person round-trip) that include airport meet-and-greet and port transfer. Hotel shuttles are increasingly common—many Miami Beach hotels partner with cruise lines or offer shuttles for €15-25 per person. PortMiami does not operate a public shuttle, but several private companies like GO Lorrie's and SuperShuttle serve the airport-port route."
+ },
+ "embarkationTips": [
+ "Arrive at the port no earlier than 2.5-3 hours before your scheduled departure time. PortMiami has extremely limited shade and seating outside the terminals, and arriving too early means waiting in Florida's intense heat and humidity. If you arrive more than 3 hours early, consider having breakfast at Bayside Marketplace (5-minute taxi ride) and return closer to your boarding time.",
+ "Miami traffic follows a predictable pattern: avoid arriving between 7:30-9:30 AM if possible. If your cruise departs in the afternoon (4 PM or later), morning arrival times (9-11 AM) are significantly less congested than midday. Saturday departures are typically the worst—Friday evening and Saturday morning see the port's heaviest traffic of the week.",
+ "Download and complete your cruise line's mobile check-in requirements 24 hours before departure. Miami terminals have inconsistent free WiFi, and mobile check-in completed in advance means you skip one of the longest queues at the port. Bring a screenshot of your boarding pass—cell service can be overloaded with thousands of passengers simultaneously trying to connect.",
+ "Pack a separate day bag with essentials for embarkation day: sunscreen, sunglasses, water bottle, snacks, and any medications you might need. Once your bags are checked, you won't see them again until your cabin is ready (often not until 2-3 PM). Miami's afternoon sun is brutal, and food options inside the port are limited and overpriced.",
+ "For guests flying in the morning of departure, consider booking a departure flight no earlier than 2 PM to allow for any flight delays and guaranteed arrival at the port. Miami International Airport is usually less congested in early morning hours (6-9 AM), but domestic flights frequently arrive late from connections in other U.S. cities."
+ ],
+ "nearbyAttractions": [
+ {
+ "name": "Bayside Marketplace",
+ "description": "Open-air shopping and entertainment complex directly across from PortMiami on Biscayne Bay. Features over 150 shops, restaurants, and live music. Perfect for last-minute souvenirs or a pre-cruise meal with waterfront views. The Hard Rock Cafe and Bubba Gump Shrimp Co. are popular options here.",
+ "walkingTime": "15-minute walk or 5-minute taxi from port entrance",
+ "cost": "Free to enter, shopping and dining à la carte"
+ },
+ {
+ "name": "Vizcaya Museum and Gardens",
+ "description": "Stunning Italian Renaissance villa built in 1916 as winter home for industrialist James Deering. The 32-acre estate includes ornate European gardens, coral stone architecture, and bay-front terraces. One of Miami's most photogenic historic sites, located just 10 minutes south of the port.",
+ "walkingTime": "Not walkable; 10-minute taxi",
+ "cost": "Adults €18, Children €10"
+ },
+ {
+ "name": "Art Deco Historic District (South Beach)",
+ "description": "World's largest collection of Art Deco architecture, located on Ocean Drive in South Beach. Over 800 architecturally significant buildings from the 1920s-1940s. The vibrant neon-lit facades are best seen at sunset. Miami Beach's famous beach is steps away.",
+ "walkingTime": "Not walkable; 15-20 minute taxi from port",
+ "cost": "Free to walk the district, beach access free"
+ },
+ {
+ "name": "Little Havana (Calle Ocho)",
+ "description": "Authentic Cuban cultural district 15 minutes west of the port. Walk down Calle Ocho (8th Street) to experience domino parks, cigar shops, authentic Cuban coffee, and traditional restaurants. Don't miss Versailles Restaurant, considered the world's famous Cuban restaurant.",
+ "walkingTime": "Not walkable; 15-minute taxi",
+ "cost": "Free to explore, coffee from €2-3"
+ },
+ {
+ "name": "Frost Science Museum",
+ "description": "State-of-the-art science museum on Biscayne Bay with planetarium, aquarium, and hands-on exhibits. Located in downtown Miami near Bayside, great for families with children who want entertainment before boarding.",
+ "walkingTime": "10-minute walk from port",
+ "cost": "Adults €28, Children €20"
+ }
+ ],
+ "localTransport": {
+ "metro": "Miami's Metrorail connects to the port area via Government Center station. From there, take the free Metromover (automated people mover) to various downtown locations. The Metrorail runs from 5 AM to midnight daily, with trains every 8-15 minutes. A one-way Metrorail fare costs approximately €2.50. The closest Metrorail station to PortMiami is Government Center, which is connected to the port area by taxi or rideshare (approximately €8-10).",
+ "bus": "Metrobus Route 93 and Route 5 serve Biscayne Boulevard near PortMiami, connecting to downtown Miami and Miami Beach. However, bus routes can be confusing for visitors and are often delayed in Miami traffic. A more reliable option is the free Metromover, which loops through downtown including stops near Bayside Marketplace and Brickell. The South Beach Local (Route S) is a cheap way to reach South Beach from downtown.",
+ "taxi": "Taxis are readily available outside PortMiami terminals. Flag fall is approximately €3.50, with per-mile rates around €1.80-2.20. Typical fares: PortMiami to South Beach (Ocean Drive) approximately €22-30; to Brickell approximately €12-18; to MIA airport approximately €28-35. All taxis accept credit cards but inform the driver before starting the meter. Uber and Lyft are heavily used in Miami and often cheaper than taxis.",
+ "walkability": "PortMiami is not within comfortable walking distance to major attractions. The port entrance is approximately 2 kilometers from Bayside Marketplace, which takes about 25 minutes in Florida heat. The actual cruise terminals are spread across Dodge Island and require shuttle or vehicle transport to reach. However, the port area itself is walkable once inside the terminal complex."
+ },
+ "weather": {
+ "bestMonths": "November through April offers the most comfortable cruising weather from Miami. December through March provides temperatures of 20-26°C with low humidity and minimal rainfall. These months represent peak cruise season with the most itinerary options but also the highest prices and largest crowds.",
+ "peakSeason": "December through March is peak season for Miami cruises. Holiday weeks (Christmas, New Year, Presidents' Week in February) see the highest prices and busiest ports. November week is also extremely popular. Spring Break (mid-March to mid-April) brings families but milder weather. Avoid the weeks immediately following major holidays when embarkation traffic is heaviest.",
+ "climate": "Miami's subtropical climate means warm weather year-round. For Caribbean cruises departing Miami, pack light summer clothing with one light layer for air-conditioned ship interiors. Average temperatures: Summer 28-33°C with high humidity and daily thunderstorms; Winter 18-25°C with comfortable humidity. Essential items: sunscreen (the Miami sun is intense year-round), sunglasses, wide-brimmed hat, and comfortable walking shoes. Even in winter, sun protection is mandatory."
+ },
+ "cruiseLinesFromHere": [
+ "Royal Caribbean",
+ "Carnival Cruise Line",
+ "Norwegian Cruise Line",
+ "MSC Cruises",
+ "Celebrity Cruises",
+ "Disney Cruise Line",
+ "Virgin Voyages",
+ "Regent Seven Seas",
+ "Holland America Line",
+ "Princess Cruises"
+ ],
+ "isDeparture": true,
+ "isCallPort": true,
+ "insiderTips": [
+ "Skip the overpriced airport hotels and instead book a pre-cruise stay at a Kimpton or Hotel Victor in South Beach—these boutique properties often have lower rates than airport hotels during cruise embarkation weekends and provide a much better Miami experience. Use the free Miami Beach Airport Flyer bus (Route 150) from MIA to South Beach for approximately €3, then taxi to your hotel.",
+ "For the cheapest parking, use the ParkJFK and Go Lorrie's shuttle services that operate from Miami-area hotels. Book through your hotel's concierge—they often have partnerships that include round-trip port transfers with parking for €18-25 per day, compared to €30-40 at PortMiami's official garages.",
+ "Eat before you board or bring food with you. PortMiami's terminal restaurants are limited to a Starbucks and expensive grab-and-go counters. Instead, grab Cuban toast and cortadito from Sabor a Cuba (12-minute walk from port on NW 7th Street) for approximately €8 per person, then eat at Bayside Marketplace's outdoor restaurants while watching the cruise ships dock."
+ ],
+ "faq": [
+ {
+ "question": "What time should I arrive at PortMiami for my cruise?",
+ "answer": "Plan to arrive 2.5-3 hours before your scheduled departure time. Miami's cruise terminals officially open for passenger boarding approximately 3 hours before departure. Arriving too early offers no advantage as you'll be stuck outside in the heat with no seating. If driving, the port parking garages fill up quickly during peak season—arrive by 10:30 AM for afternoon departures, or 11:30 AM for evening departures."
+ },
+ {
+ "question": "Which terminal will my cruise depart from?",
+ "answer": "Terminal assignments are sent with your cruise documents approximately 7-10 days before departure, or can be found by checking your cruise line's website. If you don't have this information, call your cruise line's pre-cruise phone number. Terminal assignments can change, especially for sailings using multiple terminals on busy days. Download your cruise line's app for real-time terminal updates on embarkation day."
+ },
+ {
+ "question": "Is there luggage storage available at PortMiami for pre or post-cruise day trips?",
+ "answer": "PortMiami does not offer day-use luggage storage for cruise passengers. If you want to explore Miami before or after your cruise but don't want toluggage, use Stow luggage storage services like Vertoe or LuggageHero in Miami Beach or downtown. These services charge approximately €5-10 per bag per day. Some nearby hotels (like the Intercontinental Miami) will store luggage for a fee even if you're not a guest."
+ },
+ {
+ "question": "Can I walk from PortMiami to downtown or Bayside Marketplace?",
+ "answer": "Walking from PortMiami to Bayside Marketplace is technically possible (approximately 2 kilometers) but not recommended in Miami's heat and humidity, or during late-night/early-morning arrivals. The walk involves crossing busy Port Boulevard and navigating industrial port roads with no shade. A taxi or rideshare from the port to Bayside costs approximately €8-12 and takes 5 minutes."
+ }
+ ]
 }

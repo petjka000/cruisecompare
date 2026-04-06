@@ -9,8 +9,22 @@ import sys
 import time
 from pathlib import Path
 
-# MiniMax credentials from OpenClaw auth profiles
-MINIMAX_ACCESS_TOKEN = "sk-cp-O6BvckIL-zQG3T61lPeLT3zWxw-ZesYJsDm2KsAIc5iU1sKcGmdQUpUwUN0rimdEcugNc9-tASErIDy03KTv_WI3PEU75pKNnn04jUbdG1l8ubBbEMuI4lU"
+# MiniMax credentials — loaded from auth-profiles.json or MINIMAX_API_KEY env var
+def _load_minimax_token() -> str:
+    auth_path = Path.home() / '.openclaw/agents/main/agent/auth-profiles.json'
+    try:
+        profiles = json.loads(auth_path.read_text())
+        token = profiles.get('profiles', {}).get('minimax-portal:default', {}).get('access', '')
+        if token:
+            return token
+    except Exception:
+        pass
+    key = os.environ.get('MINIMAX_API_KEY', '')
+    if not key:
+        raise SystemExit('MINIMAX_API_KEY not set and auth-profiles.json missing')
+    return key
+
+MINIMAX_ACCESS_TOKEN = _load_minimax_token()
 MINIMAX_BASE_URL = "https://api.minimaxi.chat/v1"
 
 WORKSPACE = Path("/home/padmin/workspace/cruisecompare")

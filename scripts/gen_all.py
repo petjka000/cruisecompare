@@ -24,29 +24,22 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 # ── CREDENTIALS ─────────────────────────────────────────────────────────────
-def get_kimi_creds():
-    """Get Kimi K2.5 credentials from OpenClaw config or environment."""
-    # Try environment variable first (DASHSCOPE_API_KEY is the correct variable)
-    api_key = os.environ.get('DASHSCOPE_API_KEY') or os.environ.get('ANTHROPIC_API_KEY') or os.environ.get('KIMI_API_KEY')
+def _get_minimax_creds():
+    """Get MiniMax credentials from auth-profiles.json or MINIMAX_API_KEY env var."""
+    auth_path = Path.home() / '.openclaw/agents/main/agent/auth-profiles.json'
+    try:
+        profiles = json.loads(auth_path.read_text())
+        token = profiles.get('profiles', {}).get('minimax-portal:default', {}).get('access', '')
+        if token:
+            return 'https://api.minimaxi.chat/v1', token, 'MiniMax-M2.7'
+    except Exception:
+        pass
+    api_key = os.environ.get('MINIMAX_API_KEY', '')
     if api_key:
-        return 'https://coding-intl.dashscope.aliyuncs.com/v1', api_key, 'kimi-k2.5'
+        return 'https://api.minimaxi.chat/v1', api_key, 'MiniMax-M2.7'
+    raise ValueError('MINIMAX_API_KEY not set and auth-profiles.json missing')
 
-    # Fall back to OpenClaw config
-    path = Path.home() / '.openclaw/openclaw.json'
-    if path.exists():
-        data = json.load(open(path))
-        provider = data.get('models', {}).get('providers', {}).get('alibaba-coding', {})
-        api_key = provider.get('apiKey')
-        base_url = provider.get('baseUrl', 'https://coding-intl.dashscope.aliyuncs.com/v1')
-        if api_key:
-            return base_url, api_key, 'kimi-k2.5'
-
-    raise ValueError(
-        "Set DASHSCOPE_API_KEY or KIMI_API_KEY environment variable, "
-        "or configure OpenClaw Alibaba Coding plan"
-    )
-
-BASE_URL, API_KEY, MODEL = get_kimi_creds()
+BASE_URL, API_KEY, MODEL = _get_minimax_creds()
 log.info(f"Using model: {MODEL}")
 
 # ── API CALL ─────────────────────────────────────────────────────────────────

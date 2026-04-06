@@ -19,7 +19,7 @@ interface Deal {
 }
 
 export const metadata: Metadata = {
-  title: 'Cruise Deals 2026 — Best Prices on Mediterranean, Caribbean & More | CruiseCompare',
+  title: 'Cruise Deals 2026 — Best Prices on Mediterranean, Caribbean & More',
   description:
     'Browse the latest cruise deals and discounts for 2026. Compare prices on Mediterranean, Caribbean, Alaska, and worldwide cruises from Royal Caribbean, MSC, Costa, and more.',
 };

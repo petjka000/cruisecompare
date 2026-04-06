@@ -1,177 +1,177 @@
 {
-  "slug": "icon-of-the-seas",
-  "name": "Icon of the Seas",
-  "cruiseLine": "Royal Caribbean",
-  "cruiseLineSlug": "royal-caribbean",
-  "metaTitle": "Icon of the Seas Review 2026 — Cabins, Dining, Entertainment, Pools",
-  "metaDescription": "Comprehensive review of Royal Caribbean's Icon of the Seas. Expert analysis of cabins, dining venues, entertainment, water parks, and what makes this ship the world's largest cruise ship. Updated for 2026 sailings.",
-  "heroSubtitle": "Icon of the Seas — Royal Caribbean Cruise Ship Review",
-  "overview": "Royal Caribbean's Icon of the Seas is not just a cruise ship — it's a statement of intent. As the world's largest cruise ship at 365 meters and 248,663 GRT, she redefines what a vacation at sea can be. Launched in January 2024, this vessel represents an entirely new class of ship for Royal Caribbean, combining the best elements of her predecessors into one hyper-connected experience. She is designed for the modern holidaymaker who wants everything: adventure, relaxation, world-class dining, and non-stop entertainment — all within a single voyage. With eight distinct neighbourhoods spanning 20 decks, Icon of the Seas essentially offers the variety of a small city. Whether you're a family with energetic teenagers, a couple seeking both thrill and romance, or a group of friends with diverse tastes, this ship has been engineered to satisfy everyone simultaneously. The ship sails year-round from Miami, Florida, primarily serving the Western Caribbean route with stops at Royal Caribbean's private island, Perfect Day at CocoCay.\n\nWhat truly sets Icon apart from any ship before her is the integration of her neighbourhoods into a cohesive journey. You don't just walk through the ship — you traverse ecosystems. The family-focused Surfside neighbourhood wraps around the AquaDog水上乐园 for young children, while parents watch from nearby bars. Thrill Island elevates the waterpark concept with slides that defy gravity. Meanwhile, The Hideaway offers adults a genuine escape with the first-ever infinity pool at sea, perched at the ship's stern with unobstructed ocean views. Central Park brings the outdoors in with 20,000 real plants and trees, creating a natural sanctuary amid the steel colossus. The ship accommodates 5,600 passengers at double occupancy across 2,805 cabins, served by 2,350 crew members. Prices reflect her premium positioning — a 7-night Caribbean itinerary starts from approximately €899 per person for interior cabins, positioning her firmly in the luxury-adjacent market.\n\nThe Icon of the Seas experience is not for everyone, and that's by design. She is loud, ambitious, busy, and occasionally overwhelming — and that's precisely the point. She delivers the energy of a theme park with the sophistication of a resort hotel. If you're seeking contemplative silence and intimate conversations, look elsewhere. But if you want a cruise holiday that delivers stories, photographs, and memories in abundance, Icon of the Seas is a modern marvel that delivers on every promise — and then some.",
-  "quickFacts": {
-    "yearBuilt": 2024,
-    "tonnage": "248663 GRT",
-    "passengers": 5600,
-    "crew": 2350,
-    "decks": 20,
-    "length": "365m",
-    "cabins": 2805
-  },
-  "cabinTypes": [
-    {
-      "type": "Interior",
-      "priceFrom": 899,
-      "sqft": "150-180",
-      "description": "Interior cabins on Icon of the Seas range from 150 to 180 square feet and represent excellent value for passengers who plan to spend minimal time in their room. Standard interior cabins feature the signature Royal Caribbean layout with smart storage solutions including under-bed drawer space, multiple USB charging ports, and interactive TV systems. The ship introduces Virtual Balcony interiors on select decks — interior staterooms featuring floor-to-ceiling screens displaying real-time ocean views from the ship's exterior cameras. This innovation addresses the traditional interior cabin drawback and has proven particularly popular with families. Interior cabins are ideal for solo travellers, flexible holidaymakers, or those who view the cabin as merely a comfortable base between adventures. Connecting interior cabins are available for larger families seeking affordable options."
-    },
-    {
-      "type": "Balcony",
-      "priceFrom": 1399,
-      "sqft": "220-280",
-      "description": "Balcony cabins on Icon of the Seas are the sweet spot for most passengers, offering 220 to 280 square feet of living space plus a private 40-square-foot balcony with two chairs and a small table. These accommodations are particularly sought-after for Caribbean itineraries where warm mornings and starlit evenings make outdoor space invaluable. Spacious Ocean View balconies on higher decks provide superior views and less ship motion. A significant advantage on this ship is the variety within balcony categories — families often gravitate toward the Surfside neighbourhood balconies on decks 12-13, which place them steps from family amenities. Meanwhile, aft-facing balconies in the Forward View category offer dramatic vistas but are located in quieter, more isolated areas. Balcony cabins include upgraded bathroom amenities, robes and slippers on request, and enhanced storage compared to interiors."
-    },
-    {
-      "type": "Suite",
-      "priceFrom": 1500,
-      "sqft": "450-1700",
-      "description": "The suite collection on Icon of the Seas ranges dramatically from 450 square feet junior suites to the extraordinary 1,772-square-foot Ultimate Family Townhouse — a three-level villa with its own private terrace, outdoor hot tub, and direct access to the Surfside family pool. Suite guests receive exclusive access to the new Crown Corner and Crown towers, sophisticated lounge spaces serving complimentary continental breakfast and evening cocktails. The suite product includes priority boarding, dedicated concierge service, luxury bath products, enhanced bedding with Egyptian cotton linens, and spacious bathrooms featuring soaking tubs in larger categories. The Icon Loft suite category features two-story windows and wraparound balconies that have become signature to Royal Caribbean's premium product. Families upgrading to suite class receive dedicated family programming and the Surfside neighbourhood's family pool is steps away. For passengers celebrating honeymoons or anniversaries, the Infinite Ocean Grand Suite offers a panoramic wraparound balcony with 270-degree views — arguably the most spectacular outdoor space on any cruise ship."
-    }
-  ],
-  "dining": [
-    {
-      "name": "Main Dining Room",
-      "type": "included",
-      "description": "The three-level Main Dining Room anchors the ship's traditional cruise experience with a grand sweeping staircase and contemporary nautical design. Breakfast and dinner service features waiter service with an extensive menu of contemporary international dishes alongside classic cruise offerings. Signature nights include Captain's Gala Dinner with premium menu options and formal attire encouraged. The main dining room operates with assigned seating at dinner, though Royal Caribbean offers My Time Dining for flexibility at no extra charge. Vegetarian, vegan, and allergen-conscious menus are available with advance notification."
-    },
-    {
-      "name": "Izumi",
-      "type": "surcharge",
-      "price": "€35-55 per person",
-      "description": "Izumi represents Icon's premium Japanese dining venue, offering à la carte options including sushi rolls, sashimi, wagyu beef, and robata-grilled items. The restaurant features a stylish interior with paper lantern lighting and a sushi counter where guests can watch chefs at work. Lunch options are more casual with bento boxes, while dinner elevates to omakase-style presentations. Izumi is located on Deck 6 near the Royal Promenade and consistently earns praise as one of the best specialty restaurants in the fleet."
-    },
-    {
-      "name": "Chops Grille",
-      "type": "surcharge",
-      "price": "€45-65 per person",
-      "description": "Chops Grille is Royal Caribbean's signature steakhouse experience, elevated on Icon of the Seas with premium aged meats, an expanded wine list, and a sophisticated menu including butter-poached Maine lobster tails. Located in Central Park, the restaurant's intimate setting with wood-paneled walls and warm lighting creates a classic upscale atmosphere. Signature dishes include the dry-aged ribeye and chocolate lava cake. This venue requires reservations and is consistently among the first specialty restaurants to book out on each sailing."
-    },
-    {
-      "name": "Giovanni's Italian Kitchen",
-      "type": "surcharge",
-      "price": "€30-45 per person",
-      "description": "Giovanni's brings rustic Italian cuisine to Icon of the Seas with house-made pastas, wood-fired pizzas, and classic antipasti sharing boards. The restaurant's casual family atmosphere includes open kitchen views and a lively bar area.Signature dishes include the chicken parmigiana and the tiramisu. Located in the Surfside neighbourhood, it's particularly convenient for families who can dine without venturing far from the children's area."
-    },
-    {
-      "name": "Hooked Seafood",
-      "type": "surcharge",
-      "price": "€35-50 per person",
-      "description": "Hooked Seafood specializes in fresh New England-style seafood with a raw bar, clam chowder, lobster rolls, and sustainably sourced fish options. The nautical-themed restaurant features maritime decor and waterfront-style seating. It's an excellent lunch option or lighter dinner alternative to heavier specialty venues."
-    },
-    {
-      "name": "AquaDome Market",
-      "type": "included",
-      "description": "The AquaDome Market replaces traditional buffet service with a curated collection of à la carte micro-restaurants, each serving specific cuisines. Options include Asian stir-fry, Mediterranean mezze, a poke bar, Indian tandoor selections, and a dedicated kids' station. This innovative approach reduces waste, eliminates buffet crowding, and allows guests to customize meals with multiple small plates rather than committing to one venue. The covered AquaDome Market is open for breakfast, lunch, and dinner with no additional charge."
-    },
-    {
-      "name": "Celebration Table by Chef's Table",
-      "type": "surcharge",
-      "price": "€120-150 per person",
-      "description": "The Chef's Table experience on Icon of the Seas takes place in a private alcove near the Main Dining Room with an exclusive multi-course tasting menu paired with wines from a curated selection. Limited to 14 guests per evening, the experience includes a galley tour and individual attention from the executive chef. This is the ship's most exclusive dining experience and books months in advance for premium sailings."
-    },
-    {
-      "name": "150 Central Park",
-      "type": "surcharge",
-      "price": "€40-55 per person",
-      "description": "Located in the ship's stunning Central Park neighbourhood, 150 Central Park offers refined American cuisine with seasonal ingredients sourced from local ports. The intimate restaurant features just 32 tables and exceptional service. The seven-course tasting menu changes weekly based on ingredient availability and represents the culinary pinnacle of the Icon experience."
-    }
-  ],
-  "entertainment": [
-    "Awe-Inspiring Atrium Shows — The multi-story Awe-Inspiring Atrium serves as Icon's social heart and stage for aerial performances, diving shows, and live music. The nightly productions utilize the full vertical space with performers flying, diving, and dancing amid the stunning three-story chandelier. This is the ship's signature entertainment space and draws crowds every evening.",
-    "Aquadome at Night — By day, the AquaDome hosts a surf pool with professional-level wave action. By night, the venue transforms into an entertainment hub with the Aqua80 aerial water show featuring synchronized swimmers, divers, and acrobatics against a massive LED dome ceiling. Expect Olympic-level talent performing stories told entirely through movement and water.",
-    "Category 21 Comedy Club — Located in the Entertainment Place neighbourhood, Category 21 is Icon's dedicated comedy venue hosting rotating comedians each evening. The ship books established headliners alongside emerging talents, with shows ranging from family-friendly early evening performances to adults-only late-night sets.",
-    "Live Music Venues — Icon of the Seas features an exceptional live music program including Duel Reality in the Royal Theatre (a high-energy show combining acrobatics with duelling musicians), the Music Hall for tribute bands and late-night dancing, and scattered performers throughout the ship's lounges and bars. Playmakers Sports Bar screens major sporting events while hosting trivia nights and live cover bands.",
-    "Water Activities at Thrill Island — The ship's water park complex features six waterslides including Pressure Drop — the industry's first open freedrop slide where riders step through the floor — and Storm Chasers, twin mat-racing slides. The tallest waterslide structure at sea reaches 46 meters high. These attractions operate on a timed-entry system included in the cruise fare."
-  ],
-  "pools": [
-    "The Main Pool (Deck 15) — The ship's primary pool is a stunning four-section infinity-edge design located in the ship's centre-forward area, flanked by tiered loungers and the poolside bar. The design creates the illusion that the water merges with the ocean horizon. This pool can become extremely crowded on sea days but offers the most central location for socializing.",
-    "The Cloud 17 Pool (Deck 17) — An adults-only relaxation pool on the highest deck provides quieter vibes with submerged loungers and quieter music. This pool offers spectacular elevated ocean views and serves as the primary adult pool option away from the main crowds.",
-    "The Hideaway Pool (Deck 17 aft) — The first-ever infinity pool at sea sits at the ship's stern on deck 17, offering unobstructed horizon views in an adults-only environment. This pool has become Icon's most Instagrammed space and represents a genuine innovation. Access is free but the surrounding lounge space fills quickly on sea days.",
-    "Splashaway Bay (Deck 16) — The family water park features喷泉, slides, pools, and splash pads designed for children ages 3-12. Located adjacent to the Surfside neighbourhood, it's supervised youth club hours allow parents to deposit children while exploring elsewhere. This complex includes the AquaDog water slide for young children — a first for Royal Caribbean.",
-    "Thrill Island Water Park (Deck 16 aft) — The ship's adrenaline-focused water park includes six waterslides, a FlowRider surf simulator, zip lines, a rock climbing wall, and the Adventure Ocean youth facility. This neighbourhood operates on timed-entry tickets distributed via the Royal Caribbean app."
-  ],
-  "kidsClubs": [
-    "Adventure Ocean (Ages 3-17) — Icon of the Seas' comprehensive youth programme spans multiple dedicated spaces across Thrill Island and Surfside neighbourhoods. The programme offers age-specific activities: Adventure Ocean for ages 3-5 (Aquanauts Jr), ages 6-8 (Aquanauts), ages 9-11 (Navigators), and ages 12-14 (Explorers). Teens aged 15-17 have their own dedicated space called Social180, featuring gaming consoles, movies, and hangout areas designed specifically for older teenagers who often feel alienated from younger children's programming. Activities include science experiments, sports tournaments, arts and crafts, dance parties, and port-focused cultural programmes. All youth staff are certified in child safety and trained in age-appropriate entertainment. The programme is included in the cruise fare and operates extended hours on sea days.",
-    "Babysitting Services — Royal Caribbean's Adventure Aquanauts parent-sitting programme (formerly Royal Babies and Tots) offers structured activities for infants and toddlers aged 6-36 months with certified care staff. Evening babysitting services allow parents to enjoy adult entertainment while children are safely supervised in the youth facilities. Additional fees apply for dedicated babysitting services."
-  ],
-  "bestFor": [
-    "Families with children of all ages",
-    "Thrill seekers and adrenaline junkies",
-    "First-time cruisers seeking variety",
-    "Multi-generational family reunions",
-    "Passengers who love active holidays",
-    "Those wanting the 'wow factor' cruise experience",
-    "Luxury travellers willing to pay for suite upgrades",
-    "Theme park and water park enthusiasts"
-  ],
-  "notIdealFor": [
-    "Budget-conscious travellers seeking value",
-    "Passengers preferring intimate, quiet atmospheres",
-    "Those seeking traditional cruise elegance",
-    "Luxury purists expecting fine dining excellence",
-    "Honeymoon couples wanting seclusion",
-    "Travellers with mobility limitations in crowded spaces",
-    "Solo travellers seeking intimate social experiences",
-    "Passengers who dislike mega-ship scale"
-  ],
-  "prosAndCons": {
-    "pros": [
-      "World-class water park and thrill amenities — The Thrill Island complex with six waterslides, FlowRider, and adventure activities delivers adrenaline experiences unavailable anywhere else at sea. Pressure Drop and Storm Chasers have become instant classics.",
-      "Innovation in ship design — From the first infinity pool at sea to virtual balcony interiors to the Ultimate Family Townhouse, Icon introduces genuine firsts that elevate the cruise product industry-wide.",
-      "Diverse neighbourhood concept — Eight distinct neighbourhoods prevent the ship from feeling monolithic, creating different moods and atmospheres that families can navigate throughout their voyage.",
-      "Perfect Day at CocoCay included — Western Caribbean itineraries include a full day at Royal Caribbean's private island with waterpark, beach clubs, and activities, adding exceptional value to the base fare.",
-      "Exceptional entertainment programme — The Aquadome shows, aerial performances, and variety of live music venues provide Broadway-level production values in an intimate setting.",
-      "Family neighbourhood integration — The Surfside area and Ultimate Family Townhouse demonstrate genuine understanding of family travel, not just token children's facilities."
-    ],
-    "cons": [
-      "Ship can feel overwhelming — With 5,600 passengers, queueing for popular venues and restaurants is common. The Windjammer buffet and main pool areas become extremely crowded on sea days despite the ship's size.",
-      "Premium pricing — Specialty dining, shore excursions, and drink packages cost significantly more than on older ships, and the ship's popularity gives Royal Caribbean pricing leverage. A full-board holiday can cost substantially more than base fares suggest.",
-      "Not suitable for quiet seekers — The ship is designed for energy and noise. Even suite-class passengers in the Crown Tower experience ambient entertainment noise from surrounding venues.",
-      "Limited authentic local experiences — With frequent private island stops and marketed Caribbean ports, passengers seeking genuine cultural immersion may feel the itinerary is overly sanitised.",
-      "Service inconsistency — Some passengers report that crew members appear overwhelmed by passenger volume, leading to slower room service and less attentive service in larger venues compared to smaller luxury ships."
-    ]
-  },
-  "verdict": "Icon of the Seas represents the pinnacle of Royal Caribbean's 'bigger is better' philosophy and largely succeeds in delivering a holiday that justifies its own hype. She is not a ship — she's a floating resort, a theme park, and a city all combined, and for the right passenger, she delivers an unparalleled vacation experience. Families will find everything they need without compromise: world-class water slides for teenagers, safe splash zones for toddlers, and enough entertainment variety to satisfy every family member's preferences. Couples seeking activity and excitement will find more to occupy their days than they could possibly experience in a week. The ship genuinely offers something for everyone, which is both its greatest strength and its most honest limitation.\n\nHowever, Icon of the Seas is not the ship for those who cruise to escape the world. She demands engagement, energy, and tolerance for crowds. If you return from a cruise feeling rested but not entertained, Icon will exhaust you. If you want to feel pampered in a quiet library or elegant lounge, look to smaller luxury vessels. But if you want to board a ship that generates stories, photographs, and genuine wonder — where your children still talk about the waterslides months later and where every day offers genuine surprise — then Icon of the Seas delivers spectacularly. She has earned her position as the world's most popular new ship and remains the benchmark against which all future cruise ships will be measured. We rate her 4.6 out of 5 — docking points only for her crowded moments and premium pricing that prices out budget travellers. This is a ship for those ready to embrace the future of cruising, one hyperactive deck at a time.",
-  "rating": 4.6,
-  "itineraries": [
-    {
-      "name": "7-Night Western Caribbean",
-      "ports": [
-        "Miami, Florida",
-        "Perfect Day at CocoCay, Bahamas",
-        "Roatán, Honduras",
-        "Costa Maya, Mexico",
-        "Cozumel, Mexico"
-      ],
-      "from": "Miami"
-    },
-    {
-      "name": "7-Night Eastern Caribbean",
-      "ports": [
-        "Miami, Florida",
-        "St. Thomas, U.S. Virgin Islands",
-        "St. Maarten, Netherlands Antilles",
-        "Perfect Day at CocoCay, Bahamas"
-      ],
-      "from": "Miami"
-    },
-    {
-      "name": "7-Night Perfect Day Beach Club",
-      "ports": [
-        "Miami, Florida",
-        "Perfect Day at CocoCay, Bahamas",
-        "Nassau, Bahamas",
-        "Key West, Florida"
-      ],
-      "from": "Miami"
-    }
-  ]
+ "slug": "icon-of-the-seas",
+ "name": "Icon of the Seas",
+ "cruiseLine": "Royal Caribbean",
+ "cruiseLineSlug": "royal-caribbean",
+ "metaTitle": "Icon of the Seas Review 2026 — Cabins, Dining, Entertainment, Pools",
+ "metaDescription": "Comprehensive review of Royal Caribbean's Icon of the Seas. Expert analysis of cabins, dining venues, entertainment, water parks, and what makes this ship the world's largest cruise ship. Updated for 2026 sailings.",
+ "heroSubtitle": "Icon of the Seas — Royal Caribbean Cruise Ship Review",
+ "overview": "Royal Caribbean's Icon of the Seas is not just a cruise ship — it's a statement of intent. As the world's largest cruise ship at 365 meters and 248,663 GRT, she redefines what a vacation at sea can be. Launched in January 2024, this vessel represents an entirely new class of ship for Royal Caribbean, combining the best elements of her predecessors into one hyper-connected experience. She is designed for the modern holidaymaker who wants everything: adventure, relaxation, world-class dining, and non-stop entertainment — all within a single voyage. With eight distinct neighbourhoods spanning 20 decks, Icon of the Seas essentially offers the variety of a small city. Whether you're a family with energetic teenagers, a couple seeking both thrill and romance, or a group of friends with diverse tastes, this ship has been engineered to satisfy everyone simultaneously. The ship sails year-round from Miami, Florida, primarily serving the Western Caribbean route with stops at Royal Caribbean's private island, Perfect Day at CocoCay.\n\nWhat truly sets Icon apart from any ship before her is the integration of her neighbourhoods into a cohesive journey. You don't just walk through the ship — you traverse ecosystems. The family-focused Surfside neighbourhood wraps around the AquaDog for young children, while parents watch from nearby bars. Thrill Island elevates the waterpark concept with slides that defy gravity. Meanwhile, The Hideaway offers adults a genuine escape with the first-ever infinity pool at sea, perched at the ship's stern with unobstructed ocean views. Central Park brings the outdoors in with 20,000 real plants and trees, creating a natural sanctuary amid the steel colossus. The ship accommodates 5,600 passengers at double occupancy across 2,805 cabins, served by 2,350 crew members. Prices reflect her premium positioning — a 7-night Caribbean itinerary starts from approximately €899 per person for interior cabins, positioning her firmly in the luxury-adjacent market.\n\nThe Icon of the Seas experience is not for everyone, and that's by design. She is loud, ambitious, busy, and occasionally overwhelming — and that's precisely the point. She delivers the energy of a theme park with the sophistication of a resort hotel. If you're seeking contemplative silence and intimate conversations, look elsewhere. But if you want a cruise holiday that delivers stories, photographs, and memories in abundance, Icon of the Seas is a modern marvel that delivers on every promise — and then some.",
+ "quickFacts": {
+ "yearBuilt": 2024,
+ "tonnage": "248663 GRT",
+ "passengers": 5600,
+ "crew": 2350,
+ "decks": 20,
+ "length": "365m",
+ "cabins": 2805
+ },
+ "cabinTypes": [
+ {
+ "type": "Interior",
+ "priceFrom": 899,
+ "sqft": "150-180",
+ "description": "Interior cabins on Icon of the Seas range from 150 to 180 square feet and represent excellent value for passengers who plan to spend minimal time in their room. Standard interior cabins feature the signature Royal Caribbean layout with smart storage solutions including under-bed drawer space, multiple USB charging ports, and interactive TV systems. The ship introduces Virtual Balcony interiors on select decks — interior staterooms featuring floor-to-ceiling screens displaying real-time ocean views from the ship's exterior cameras. This innovation addresses the traditional interior cabin drawback and has proven particularly popular with families. Interior cabins are ideal for solo travellers, flexible holidaymakers, or those who view the cabin as merely a comfortable base between adventures. Connecting interior cabins are available for larger families seeking affordable options."
+ },
+ {
+ "type": "Balcony",
+ "priceFrom": 1399,
+ "sqft": "220-280",
+ "description": "Balcony cabins on Icon of the Seas are the sweet spot for most passengers, offering 220 to 280 square feet of living space plus a private 40-square-foot balcony with two chairs and a small table. These accommodations are particularly sought-after for Caribbean itineraries where warm mornings and starlit evenings make outdoor space invaluable. Spacious Ocean View balconies on higher decks provide superior views and less ship motion. A significant advantage on this ship is the variety within balcony categories — families often gravitate toward the Surfside neighbourhood balconies on decks 12-13, which place them steps from family amenities. Meanwhile, aft-facing balconies in the Forward View category offer dramatic vistas but are located in quieter, more isolated areas. Balcony cabins include upgraded bathroom amenities, robes and slippers on request, and enhanced storage compared to interiors."
+ },
+ {
+ "type": "Suite",
+ "priceFrom": 1500,
+ "sqft": "450-1700",
+ "description": "The suite collection on Icon of the Seas ranges dramatically from 450 square feet junior suites to the extraordinary 1,772-square-foot Ultimate Family Townhouse — a three-level villa with its own private terrace, outdoor hot tub, and direct access to the Surfside family pool. Suite guests receive exclusive access to the new Crown Corner and Crown towers, sophisticated lounge spaces serving complimentary continental breakfast and evening cocktails. The suite product includes priority boarding, dedicated concierge service, luxury bath products, enhanced bedding with Egyptian cotton linens, and spacious bathrooms featuring soaking tubs in larger categories. The Icon Loft suite category features two-story windows and wraparound balconies that have become signature to Royal Caribbean's premium product. Families upgrading to suite class receive dedicated family programming and the Surfside neighbourhood's family pool is steps away. For passengers celebrating honeymoons or anniversaries, the Infinite Ocean Grand Suite offers a panoramic wraparound balcony with 270-degree views — arguably the most spectacular outdoor space on any cruise ship."
+ }
+ ],
+ "dining": [
+ {
+ "name": "Main Dining Room",
+ "type": "included",
+ "description": "The three-level Main Dining Room anchors the ship's traditional cruise experience with a grand sweeping staircase and contemporary nautical design. Breakfast and dinner service features waiter service with an extensive menu of contemporary international dishes alongside classic cruise offerings. Signature nights include Captain's Gala Dinner with premium menu options and formal attire encouraged. The main dining room operates with assigned seating at dinner, though Royal Caribbean offers My Time Dining for flexibility at no extra charge. Vegetarian, vegan, and allergen-conscious menus are available with advance notification."
+ },
+ {
+ "name": "Izumi",
+ "type": "surcharge",
+ "price": "€35-55 per person",
+ "description": "Izumi represents Icon's premium Japanese dining venue, offering à la carte options including sushi rolls, sashimi, wagyu beef, and robata-grilled items. The restaurant features a stylish interior with paper lantern lighting and a sushi counter where guests can watch chefs at work. Lunch options are more casual with bento boxes, while dinner elevates to omakase-style presentations. Izumi is located on Deck 6 near the Royal Promenade and consistently earns praise as one of the best specialty restaurants in the fleet."
+ },
+ {
+ "name": "Chops Grille",
+ "type": "surcharge",
+ "price": "€45-65 per person",
+ "description": "Chops Grille is Royal Caribbean's signature steakhouse experience, elevated on Icon of the Seas with premium aged meats, an expanded wine list, and a sophisticated menu including butter-poached Maine lobster tails. Located in Central Park, the restaurant's intimate setting with wood-paneled walls and warm lighting creates a classic upscale atmosphere. Signature dishes include the dry-aged ribeye and chocolate lava cake. This venue requires reservations and is consistently among the first specialty restaurants to book out on each sailing."
+ },
+ {
+ "name": "Giovanni's Italian Kitchen",
+ "type": "surcharge",
+ "price": "€30-45 per person",
+ "description": "Giovanni's brings rustic Italian cuisine to Icon of the Seas with house-made pastas, wood-fired pizzas, and classic antipasti sharing boards. The restaurant's casual family atmosphere includes open kitchen views and a lively bar area.Signature dishes include the chicken parmigiana and the tiramisu. Located in the Surfside neighbourhood, it's particularly convenient for families who can dine without venturing far from the children's area."
+ },
+ {
+ "name": "Hooked Seafood",
+ "type": "surcharge",
+ "price": "€35-50 per person",
+ "description": "Hooked Seafood specializes in fresh New England-style seafood with a raw bar, clam chowder, lobster rolls, and sustainably sourced fish options. The nautical-themed restaurant features maritime decor and waterfront-style seating. It's an excellent lunch option or lighter dinner alternative to heavier specialty venues."
+ },
+ {
+ "name": "AquaDome Market",
+ "type": "included",
+ "description": "The AquaDome Market replaces traditional buffet service with a curated collection of à la carte micro-restaurants, each serving specific cuisines. Options include Asian stir-fry, Mediterranean mezze, a poke bar, Indian tandoor selections, and a dedicated kids' station. This innovative approach reduces waste, eliminates buffet crowding, and allows guests to customize meals with multiple small plates rather than committing to one venue. The covered AquaDome Market is open for breakfast, lunch, and dinner with no additional charge."
+ },
+ {
+ "name": "Celebration Table by Chef's Table",
+ "type": "surcharge",
+ "price": "€120-150 per person",
+ "description": "The Chef's Table experience on Icon of the Seas takes place in a private alcove near the Main Dining Room with an exclusive multi-course tasting menu paired with wines from a curated selection. Limited to 14 guests per evening, the experience includes a galley tour and individual attention from the executive chef. This is the ship's most exclusive dining experience and books months in advance for premium sailings."
+ },
+ {
+ "name": "150 Central Park",
+ "type": "surcharge",
+ "price": "€40-55 per person",
+ "description": "Located in the ship's stunning Central Park neighbourhood, 150 Central Park offers refined American cuisine with seasonal ingredients sourced from local ports. The intimate restaurant features just 32 tables and exceptional service. The seven-course tasting menu changes weekly based on ingredient availability and represents the culinary pinnacle of the Icon experience."
+ }
+ ],
+ "entertainment": [
+ "Awe-Inspiring Atrium Shows — The multi-story Awe-Inspiring Atrium serves as Icon's social heart and stage for aerial performances, diving shows, and live music. The nightly productions utilize the full vertical space with performers flying, diving, and dancing amid the stunning three-story chandelier. This is the ship's signature entertainment space and draws crowds every evening.",
+ "Aquadome at Night — By day, the AquaDome hosts a surf pool with professional-level wave action. By night, the venue transforms into an entertainment hub with the Aqua80 aerial water show featuring synchronized swimmers, divers, and acrobatics against a massive LED dome ceiling. Expect Olympic-level talent performing stories told entirely through movement and water.",
+ "Category 21 Comedy Club — Located in the Entertainment Place neighbourhood, Category 21 is Icon's dedicated comedy venue hosting rotating comedians each evening. The ship books established headliners alongside emerging talents, with shows ranging from family-friendly early evening performances to adults-only late-night sets.",
+ "Live Music Venues — Icon of the Seas features an exceptional live music program including Duel Reality in the Royal Theatre (a high-energy show combining acrobatics with duelling musicians), the Music Hall for tribute bands and late-night dancing, and scattered performers throughout the ship's lounges and bars. Playmakers Sports Bar screens major sporting events while hosting trivia nights and live cover bands.",
+ "Water Activities at Thrill Island — The ship's water park complex features six waterslides including Pressure Drop — the industry's first open freedrop slide where riders step through the floor — and Storm Chasers, twin mat-racing slides. The tallest waterslide structure at sea reaches 46 meters high. These attractions operate on a timed-entry system included in the cruise fare."
+ ],
+ "pools": [
+ "The Main Pool (Deck 15) — The ship's primary pool is a stunning four-section infinity-edge design located in the ship's centre-forward area, flanked by tiered loungers and the poolside bar. The design creates the illusion that the water merges with the ocean horizon. This pool can become extremely crowded on sea days but offers the most central location for socializing.",
+ "The Cloud 17 Pool (Deck 17) — An adults-only relaxation pool on the highest deck provides quieter vibes with submerged loungers and quieter music. This pool offers spectacular elevated ocean views and serves as the primary adult pool option away from the main crowds.",
+ "The Hideaway Pool (Deck 17 aft) — The first-ever infinity pool at sea sits at the ship's stern on deck 17, offering unobstructed horizon views in an adults-only environment. This pool has become Icon's most Instagrammed space and represents a genuine innovation. Access is free but the surrounding lounge space fills quickly on sea days.",
+ "Splashaway Bay (Deck 16) — The family water park features, slides, pools, and splash pads designed for children ages 3-12. Located adjacent to the Surfside neighbourhood, it's supervised youth club hours allow parents to deposit children while exploring elsewhere. This complex includes the AquaDog water slide for young children — a first for Royal Caribbean.",
+ "Thrill Island Water Park (Deck 16 aft) — The ship's adrenaline-focused water park includes six waterslides, a FlowRider surf simulator, zip lines, a rock climbing wall, and the Adventure Ocean youth facility. This neighbourhood operates on timed-entry tickets distributed via the Royal Caribbean app."
+ ],
+ "kidsClubs": [
+ "Adventure Ocean (Ages 3-17) — Icon of the Seas' comprehensive youth programme spans multiple dedicated spaces across Thrill Island and Surfside neighbourhoods. The programme offers age-specific activities: Adventure Ocean for ages 3-5 (Aquanauts Jr), ages 6-8 (Aquanauts), ages 9-11 (Navigators), and ages 12-14 (Explorers). Teens aged 15-17 have their own dedicated space called Social180, featuring gaming consoles, movies, and hangout areas designed specifically for older teenagers who often feel alienated from younger children's programming. Activities include science experiments, sports tournaments, arts and crafts, dance parties, and port-focused cultural programmes. All youth staff are certified in child safety and trained in age-appropriate entertainment. The programme is included in the cruise fare and operates extended hours on sea days.",
+ "Babysitting Services — Royal Caribbean's Adventure Aquanauts parent-sitting programme (formerly Royal Babies and Tots) offers structured activities for infants and toddlers aged 6-36 months with certified care staff. Evening babysitting services allow parents to enjoy adult entertainment while children are safely supervised in the youth facilities. Additional fees apply for dedicated babysitting services."
+ ],
+ "bestFor": [
+ "Families with children of all ages",
+ "Thrill seekers and adrenaline junkies",
+ "First-time cruisers seeking variety",
+ "Multi-generational family reunions",
+ "Passengers who love active holidays",
+ "Those wanting the 'wow factor' cruise experience",
+ "Luxury travellers willing to pay for suite upgrades",
+ "Theme park and water park enthusiasts"
+ ],
+ "notIdealFor": [
+ "Budget-conscious travellers seeking value",
+ "Passengers preferring intimate, quiet atmospheres",
+ "Those seeking traditional cruise elegance",
+ "Luxury purists expecting fine dining excellence",
+ "Honeymoon couples wanting seclusion",
+ "Travellers with mobility limitations in crowded spaces",
+ "Solo travellers seeking intimate social experiences",
+ "Passengers who dislike mega-ship scale"
+ ],
+ "prosAndCons": {
+ "pros": [
+ "World-class water park and thrill amenities — The Thrill Island complex with six waterslides, FlowRider, and adventure activities delivers adrenaline experiences unavailable anywhere else at sea. Pressure Drop and Storm Chasers have become instant classics.",
+ "Innovation in ship design — From the first infinity pool at sea to virtual balcony interiors to the Ultimate Family Townhouse, Icon introduces genuine firsts that elevate the cruise product industry-wide.",
+ "Diverse neighbourhood concept — Eight distinct neighbourhoods prevent the ship from feeling monolithic, creating different moods and atmospheres that families can navigate throughout their voyage.",
+ "Perfect Day at CocoCay included — Western Caribbean itineraries include a full day at Royal Caribbean's private island with waterpark, beach clubs, and activities, adding exceptional value to the base fare.",
+ "Exceptional entertainment programme — The Aquadome shows, aerial performances, and variety of live music venues provide Broadway-level production values in an intimate setting.",
+ "Family neighbourhood integration — The Surfside area and Ultimate Family Townhouse demonstrate genuine understanding of family travel, not just token children's facilities."
+ ],
+ "cons": [
+ "Ship can feel overwhelming — With 5,600 passengers, queueing for popular venues and restaurants is common. The Windjammer buffet and main pool areas become extremely crowded on sea days despite the ship's size.",
+ "Premium pricing — Specialty dining, shore excursions, and drink packages cost significantly more than on older ships, and the ship's popularity gives Royal Caribbean pricing leverage. A full-board holiday can cost substantially more than base fares suggest.",
+ "Not suitable for quiet seekers — The ship is designed for energy and noise. Even suite-class passengers in the Crown Tower experience ambient entertainment noise from surrounding venues.",
+ "Limited authentic local experiences — With frequent private island stops and marketed Caribbean ports, passengers seeking genuine cultural immersion may feel the itinerary is overly sanitised.",
+ "Service inconsistency — Some passengers report that crew members appear overwhelmed by passenger volume, leading to slower room service and less attentive service in larger venues compared to smaller luxury ships."
+ ]
+ },
+ "verdict": "Icon of the Seas represents the pinnacle of Royal Caribbean's 'bigger is better' philosophy and largely succeeds in delivering a holiday that justifies its own hype. She is not a ship — she's a floating resort, a theme park, and a city all combined, and for the right passenger, she delivers an unparalleled vacation experience. Families will find everything they need without compromise: world-class water slides for teenagers, safe splash zones for toddlers, and enough entertainment variety to satisfy every family member's preferences. Couples seeking activity and excitement will find more to occupy their days than they could possibly experience in a week. The ship genuinely offers something for everyone, which is both its greatest strength and its most honest limitation.\n\nHowever, Icon of the Seas is not the ship for those who cruise to escape the world. She demands engagement, energy, and tolerance for crowds. If you return from a cruise feeling rested but not entertained, Icon will exhaust you. If you want to feel pampered in a quiet library or elegant lounge, look to smaller luxury vessels. But if you want to board a ship that generates stories, photographs, and genuine wonder — where your children still talk about the waterslides months later and where every day offers genuine surprise — then Icon of the Seas delivers spectacularly. She has earned her position as the world's most popular new ship and remains the benchmark against which all future cruise ships will be measured. We rate her 4.6 out of 5 — docking points only for her crowded moments and premium pricing that prices out budget travellers. This is a ship for those ready to embrace the future of cruising, one hyperactive deck at a time.",
+ "rating": 4.6,
+ "itineraries": [
+ {
+ "name": "7-Night Western Caribbean",
+ "ports": [
+ "Miami, Florida",
+ "Perfect Day at CocoCay, Bahamas",
+ "Roatán, Honduras",
+ "Costa Maya, Mexico",
+ "Cozumel, Mexico"
+ ],
+ "from": "Miami"
+ },
+ {
+ "name": "7-Night Eastern Caribbean",
+ "ports": [
+ "Miami, Florida",
+ "St. Thomas, U.S. Virgin Islands",
+ "St. Maarten, Netherlands Antilles",
+ "Perfect Day at CocoCay, Bahamas"
+ ],
+ "from": "Miami"
+ },
+ {
+ "name": "7-Night Perfect Day Beach Club",
+ "ports": [
+ "Miami, Florida",
+ "Perfect Day at CocoCay, Bahamas",
+ "Nassau, Bahamas",
+ "Key West, Florida"
+ ],
+ "from": "Miami"
+ }
+ ]
 }

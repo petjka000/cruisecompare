@@ -31,10 +31,15 @@ export const metadata: Metadata = {
   description:
     'Find your perfect cruise. Compare cruise lines, ships, destinations, and prices. No commissions — honest, unbiased comparisons for 2026.',
   keywords: 'cruise comparison, cruise deals, compare cruise lines, cheap cruises 2026, Mediterranean cruise, Caribbean cruise',
+  metadataBase: new URL('https://cruisecompare.online'),
+  alternates: {
+    canonical: './',
+  },
   openGraph: {
     siteName: 'CruiseCompare',
     type: 'website',
     locale: 'en_GB',
+    url: 'https://cruisecompare.online',
   },
 };
 

@@ -1,19 +1,37 @@
 #!/usr/bin/env python3
 """
-Simple Qwen generator — inline everything, no imports
+Cruise page generator — uses MiniMax M2.7 (DashScope/Qwen removed)
 """
 import json
-import urllib.request
+import os
 import time
+import urllib.request
 from pathlib import Path
 
-API_KEY = "sk-sp-e5fa29431ea24e54aeb5a3b13f5f2444"
-BASE_URL = "https://coding-intl.dashscope.aliyuncs.com/v1"
 
-def qwen_generate(system, prompt, retries=3):
-    """Call Qwen API"""
+def _load_minimax_token() -> str:
+    auth_path = Path.home() / '.openclaw/agents/main/agent/auth-profiles.json'
+    try:
+        profiles = json.loads(auth_path.read_text())
+        token = profiles.get('profiles', {}).get('minimax-portal:default', {}).get('access', '')
+        if token:
+            return token
+    except Exception:
+        pass
+    key = os.environ.get('MINIMAX_API_KEY', '')
+    if not key:
+        raise SystemExit('MINIMAX_API_KEY not set and auth-profiles.json missing')
+    return key
+
+
+API_KEY = _load_minimax_token()
+BASE_URL = "https://api.minimaxi.chat/v1"
+
+
+def minimax_generate(system, prompt, retries=3):
+    """Call MiniMax M2.7 API"""
     payload = {
-        "model": "qwen-plus",
+        "model": "MiniMax-M2.7",
         "max_tokens": 4000,
         "temperature": 0.7,
         "messages": [
@@ -25,7 +43,7 @@ def qwen_generate(system, prompt, retries=3):
         "Content-Type": "application/json",
         "Authorization": f"Bearer {API_KEY}",
     }
-    
+
     for attempt in range(retries):
         try:
             req = urllib.request.Request(
@@ -64,13 +82,13 @@ for line in lines:
         fpath = GEN_DIR / f"{line['slug']}-{dest['slug']}.json"
         if fpath.exists():
             continue
-        
+
         print(f"Generating: {line['name']} + {dest['name']}")
-        
+
         prompt = f'''Generate JSON for {line["name"]} {dest["name"]} cruise page with title, intro, quick_facts, price_by_season, sample_itineraries, ships_detail, whats_included, whats_extra, booking_strategy, top_ports, and 8 FAQs with 60+ word answers each.'''
-        
+
         try:
-            content = qwen_generate("You are a cruise expert.", prompt)
+            content = minimax_generate("You are a cruise expert.", prompt)
             if content:
                 data = json.loads(content)
                 data["cruise_line"] = line
@@ -79,10 +97,10 @@ for line in lines:
                 with open(fpath, 'w') as f:
                     json.dump(data, f, indent=2)
                 done += 1
-                print(f"  ✓ Done ({done})")
+                print(f"  Done ({done})")
         except Exception as e:
-            print(f"  ✗ Failed: {e}")
-        
+            print(f"  Failed: {e}")
+
         time.sleep(0.5)
 
 print(f"\nTotal generated: {done}")

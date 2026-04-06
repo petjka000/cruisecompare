@@ -42,7 +42,7 @@ export async function generateMetadata({
   if (!cruiseLine) return { title: 'Cruise Line Not Found' };
 
   return {
-    title: `${cruiseLine.name} Cruises 2026 | CruiseCompare`,
+    title: `${cruiseLine.name} Cruises 2026`,
     description: `Explore ${cruiseLine.name} cruise deals, ships, and itineraries. Find the best ${cruiseLine.name} cruise for your next holiday.`,
   };
 }

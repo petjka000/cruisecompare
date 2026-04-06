@@ -1,154 +1,154 @@
 {
-  "slug": "hawaii",
-  "name": "Hawaii",
-  "region": "Pacific",
-  "metaTitle": "Hawaii Cruises Guide 2026 — Best Routes, Ports & Tips",
-  "metaDescription": "Complete guide to cruising the Hawaii Islands. Best time to visit, top ports, what to expect, and how to plan your Hawaii cruise from Honolulu.",
-  "heroSubtitle": "Your complete guide to island-hopping the Hawaiian Islands by sea",
-  "overview": "Hawaii represents the crown jewel of Pacific cruising, offering a unique combination of volcanic landscapes, world-class beaches, and rich Polynesian culture across its eight major islands. Cruising the Hawaiian Islands typically means visiting Oahu, Maui, Kauai, and the Big Island — each offering distinct personalities despite their geographic proximity. The experience differs dramatically from Caribbean or Mediterranean cruising; expect lush rainforests, dramatic sea cliffs, black sand beaches, and the constant presence of the Pacific Ocean. Most Hawaii cruises depart from Honolulu on Oahu, with Norwegian Cruise Line's Pride of America offering the only Saturday-roundtrip 7-night itinerary that visits all four major islands without requiring international travel documentation for US citizens. The pace is leisurely — expect scenic cruising along the Na Pali Coast, morning arrivals in port, and evening departures that let you experience the islands' famous sunsets from the deck.",
-  "subRegions": [
-    "Oahu",
-    "Maui",
-    "Kauai",
-    "Big Island"
-  ],
-  "bestTimeToVisit": {
-    "peak": "April to early June and September through mid-December offer the best combination of pleasant weather, smaller crowds, and reasonable pricing",
-    "shoulder": "May and September provide excellent value with fewer passengers and similar weather to peak months",
-    "avoid": "December through March brings higher prices, larger crowds, and the potential for winter swells that can affect port calls in Kona",
-    "tip": "Hawaii technically has only two seasons — 'summer' (May-October) with temperatures 75-88°F and 'winter' (November-March) with temperatures 70-82°F. The island's microclimates mean you can experience vastly different weather on different parts of the same island in a single day."
-  },
-  "topPorts": [
-    {
-      "name": "Honolulu (Oahu)",
-      "highlight": "Pearl Harbor, Waikiki Beach, Diamond Head",
-      "description": "Oahu serves as the primary departure point for most Hawaii cruises. Spend pre-cruise time at Pearl Harbor visiting the USS Arizona Memorial and Battleship Row, then enjoy Waikiki's world-famous beach and shopping. The port is conveniently located near downtown, making independent exploration easy. Don't miss sunrise at Diamond Head crater or a drive along the scenic Windward Coast to Byodo-In Temple."
-    },
-    {
-      "name": "Kahului (Maui)",
-      "highlight": "Road to Hana, Haleakala Sunrise, Lahaina",
-      "description": "Maui offers the most diverse shore excursion options of any Hawaiian island. The iconic Road to Hana delivers 617 curves through tropical rainforest past waterfalls and coastal vistas. Pre-book the early morning Haleakala summit excursion for a unforgettable sunrise above the clouds at 10,000 feet. The historic town of Lahaina offers whaling-era architecture and Front Street galleries."
-    },
-    {
-      "name": "Nawiliwili (Kauai)",
-      "highlight": "Na Pali Coast, Waimea Canyon, Fern Grotto",
-      "description": "Known as the 'Garden Isle,' Kauai rewards visitors with dramatic scenery unavailable elsewhere in Hawaii. The Na Pali Coast boat excursion from Polihale Beach reveals sea caves and waterfalls inaccessible by land. Waimea Canyon, dubbed the 'Grand Canyon of the Pacific,' offers spectacular hiking trails. The port itself is walkable to Kalapaki Beach and the Kukui Grove shopping center."
-    },
-    {
-      "name": "Hilo (Big Island)",
-      "highlight": "Volcanoes National Park, Rainbow Falls, Akaka Falls",
-      "description": "Hilo presents Hawaii's raw volcanic power through its proximity to Hawaii Volcanoes National Park. Walk through lava tubes, witness steam vents, and if conditions permit, see active lava flows. The Hilo side receives more rain than Kona, creating lush tropical gardens around Rainbow Falls and Akaka Falls. The area also offers black sand beach opportunities at Richardsons Beach Park."
-    },
-    {
-      "name": "Kona (Big Island)",
-      "highlight": "Kona Coffee farms, Manta Ray Night Snorkel, Historic Kailua Village",
-      "description": "Kona offers a distinctly different Big Island experience with sunny skies and laid-back charm. Tour working coffee farms in the cool uplands and taste award-winning Kona coffee. The Manta Ray night snorkel excursion has become iconic — watching these gentle giants feed beneath underwater lights is unforgettable. Historic Kailua Village provides easy walking exploration of old Hawaii."
-    }
-  ],
-  "popularItineraries": [
-    {
-      "name": "7-Night Roundtrip Honolulu",
-      "from": "Honolulu",
-      "ports": [
-        "Kahului (Maui)",
-        "Hilo (Big Island)",
-        "Kona (Big Island)",
-        "Nawiliwili (Kauai)"
-      ],
-      "priceFrom": 1299
-    },
-    {
-      "name": "10-Night Hawaii with Vancouver",
-      "from": "Vancouver",
-      "ports": [
-        "Kona",
-        "Honolulu",
-        "Nawiliwili (Kauai)",
-        "Kahului (Maui)"
-      ],
-      "priceFrom": 1899
-    },
-    {
-      "name": "14-Night Hawaii & South Pacific",
-      "from": "Sydney",
-      "ports": [
-        "Maui",
-        "Kauai",
-        "Honolulu",
-        "Tahiti",
-        "Bora Bora"
-      ],
-      "priceFrom": 2499
-    },
-    {
-      "name": "Princess 10-Night Grand Adventure",
-      "from": "San Francisco",
-      "ports": [
-        "Kona",
-        "Hilo",
-        "Maui",
-        "Kauai",
-        "Ensenada"
-      ],
-      "priceFrom": 1599
-    }
-  ],
-  "cruiseLinesOperating": [
-    "Norwegian Cruise Line",
-    "Princess Cruises",
-    "Celebrity Cruises",
-    "Holland America Line",
-    "Royal Caribbean",
-    "Carnival Cruise Line",
-    "Disney Cruise Line",
-    "Viking Ocean Cruises"
-  ],
-  "whatToExpect": {
-    "weather": "Hawaii maintains remarkably consistent temperatures year-round, with coastal areas typically ranging from 75°F (24°C) to 88°F (31°C) during cruise season. Trade winds keep humidity manageable. Rainfall concentrates on windward (northeast) shores — Hilo on the Big Island receives 130+ inches annually while Kona stays dry. Pack light layers, swimwear, sun protection (critical — the Pacific UV index runs high), and a light jacket for air-conditioned ship interiors and Haleakala excursions where temperatures can drop to 40°F at sunrise.",
-    "food": "Hawaiian regional cuisine reflects its multicultural heritage — expect Japanese, Filipino, Korean, Portuguese, and Polynesian influences. Must-try dishes include poke bowls (fresh ahi tuna with seaweed, sesame, and limu), loco moco (rice topped with hamburger patty, fried egg, and brown gravy), plate lunch combinations, shave ice with azuki beans and tropical syrups, and poi (taro root paste). Malasadas (Portuguese fried dough) from Leonard's Bakery in Honolulu are legendary. On the Big Island, don't miss a Kona coffee farm visit for fresh-roasted brews. Most cruise ports offer excellent local restaurants within walking distance of the tender/pier areas.",
-    "culture": "Hawaiian culture emphasizes respect for the 'aina (land), ohana (family), and malama (care/stewardship). Remove shoes before entering someone's home, ask permission before photographing locals, and support the growing movement toward responsible tourism by choosing excursions that benefit local communities. Hawaiian language is increasingly visible — common words include mahalo (thank you), aloha (hello/goodbye/love), and ohana (family). The traditional Hawaiian greeting of honi involves pressing noses together, though this remains reserved for locals. Dress is generally casual throughout the islands, but respect modest dress codes when visiting temples, churches, or Native Hawaiian cultural sites.",
-    "currency": "The US Dollar (USD) is the sole currency. Euro-denominated pricing is uncommon at ports, though some tour operators accept euros at poor exchange rates. Credit cards are universally accepted at ports, hotels, and most restaurants. ATM availability is excellent in port areas. Tipping follows American customs — 15-20% at restaurants, $1-2 per drink at bars, and $2-5 per day for cabin stewards at cruise end.",
-    "language": "English is the primary language throughout Hawaii and is universally spoken in tourist areas. Hawaiian Pidgin English is commonly heard locally and adds colorful expressions to daily conversation. Japanese signage and Japanese-speaking staff appear frequently in Honolulu and at major tourist sites due to the significant Japanese visitor market."
-  },
-  "insiderTips": [
-    "Book the Pride of America's Haleakala sunrise excursion months in advance — it sells out quickly and watching sunrise from 10,000 feet above the clouds is genuinely unforgettable. Pack warm layers and arrive with camera batteries charged.",
-    "The Road to Hana requires advance planning. Download the Shaka Guide app before your cruise, start early, and prioritize the Garden of Eden, Wai'anapanapa State Park (black sand beach), and the 七 mile markers past Hana for the best waterfalls rather than trying to see everything.",
-    "Skip the ship-sponsored excursions for Kona if you're interested in the manta ray experience — several independent operators like SeaQuest Snorkel offer the same or better experiences for approximately €65 versus the ship's €120+ price.",
-    "For the Na Pali Coast, weather determines everything. The winter months (November-March) often bring swells that cancel boat excursions. Build in flexibility or consider a helicopter tour for guaranteed views — it's expensive at €250+ but offers perspectives impossible from the water.",
-    "Honolulu's Aloha Stadium Swap Meet runs Wednesday, Saturday, and Sunday mornings — if your cruise departs late afternoon, a pre-embarkation visit offers authentic souvenirs, local produce, and food vendors at better prices than Waikiki shops."
-  ],
-  "packingList": [
-    "Reef-safe sunscreen (mandatory — Hawaii banned chemical sunscreens harmful to coral) in both SPF 50+ and lower SPF for reapplication",
-    "Light rain jacket or packable poncho — afternoon showers occur frequently, especially on windward sides",
-    "Hiking water shoes with grip — essential for lava field walks at Volcanoes, waterfall stops on the Road to Hana, and rocky beach entries",
-    "Convertible pants or zip-off shorts — perfect for adapting between humid port days and cold Haleakala mornings",
-    "Waterproof phone pouch or dry bag for excursions involving water activities, boat trips, and waterfall hikes",
-    "Polarized sunglasses with strap — reduces Pacific glare and stays secure during kayak or snorkel activities",
-    "rash guard or UV-protective swim shirt — provides essential sun protection during extended snorkeling and beach time",
-    "Light long-sleeve shirt for sun protection during hiking excursions and to meet dress codes at cultural sites",
-    "Beach towel from home — saves the €5-10 daily rental cost and offers superior quality for beach excursions",
-    "Insect repellent — mosquitoes exist in Hana and rainforest areas, particularly during dawn/dusk hours"
-  ],
-  "faq": [
-    {
-      "question": "What is the best time of year to cruise Hawaii?",
-      "answer": "April through early June and September through mid-December offer the optimal balance of weather, pricing, and availability. April and May provide the famous 'Cherry Blossom' season ambiance with local festivals, while September offers the best value as children return to school. Avoid Christmas and New Year weeks when 7-night Hawaii cruises regularly exceed €2500 per person. The water is warmest in August-September (77-80°F) and coolest in February (74°F) — both perfectly comfortable for swimming."
-    },
-    {
-      "question": "Do I need a passport or visa for Hawaii cruises?",
-      "answer": "For US citizens, Hawaii cruises departing from US ports (Honolulu, Vancouver, San Francisco, Los Angeles) require only a valid passport or enhanced driver's license. No visa is required for US domestic ports. Non-US citizens need a valid passport and should check ESTA requirements for any international port calls. Note that some repositioning cruises from Vancouver or longer South Pacific itineraries may include international ports like Bora Bora or Tahiti requiring proper documentation. Always verify with your cruise line 90 days before departure."
-    },
-    {
-      "question": "How many days do I need in Hawaii?",
-      "answer": "A 7-night roundtrip from Honolulu provides sufficient time to visit all four major islands with one full day in each port. However, experienced cruisers often recommend adding 3-5 pre-cruise days in Honolulu to fully experience Pearl Harbor, the North Shore, and Waikiki before boarding. The 10-14 night itineraries from the mainland offer a more relaxed pace with sea days for recovery. For first-time visitors, the 7-night Norwegian Pride of America itinerary remains the gold standard — it's specifically designed to showcase Hawaii's highlights without back-to-back ports."
-    },
-    {
-      "question": "What should I budget for excursions in Hawaii?",
-      "answer": "Hawaii shore excursions range from €50 per person for basic beach days to €350+ for helicopter tours and private tours. Average excursion spend typically runs €150-250 per person per cruise day for those booking ship-sponsored options. Popular excursions and approximate costs: Pearl Harbor Arizona Memorial tour (€65-85), Volcanoes National Park (€95-130), Road to Hana (€110-150), Na Pali Coast boat tour (€120-180), Manta Ray night snorkel (€65-90), Haleakala sunrise (€75-95), and helicopter tours (€250-350). Independent operators typically charge 30-50% less than ship-sponsored equivalents for similar experiences."
-    },
-    {
-      "question": "Can I get off the cruise ship independently in Hawaii ports?",
-      "answer": "Yes, all Hawaii cruise ports are easily walkable for independent exploration. Honolulu's port is walking distance to Aloha Tower and downtown; Kahului requires a short bus or taxi ride to Maui's main attractions; Nawiliwili is walkable to Kalapaki Beach and the resort area; Hilo's attractions require organized tours or rental cars. Taxis and rideshares (Uber/Lyft) are readily available at all ports. Pre-purchase activity tickets from GetYourGuide or Viator often provides better pricing than walk-up rates for popular attractions like Volcanoes National Park. Ship-sponsored tours guarantee return before departure — independent travelers should always build in 90-minute buffer before all-aboard time."
-    }
-  ]
+ "slug": "hawaii",
+ "name": "Hawaii",
+ "region": "Pacific",
+ "metaTitle": "Hawaii Cruises Guide 2026 — Best Routes, Ports & Tips",
+ "metaDescription": "Complete guide to cruising the Hawaii Islands. Best time to visit, top ports, what to expect, and how to plan your Hawaii cruise from Honolulu.",
+ "heroSubtitle": "Your complete guide to island-hopping the Hawaiian Islands by sea",
+ "overview": "Hawaii represents the crown jewel of Pacific cruising, offering a unique combination of volcanic landscapes, world-class beaches, and rich Polynesian culture across its eight major islands. Cruising the Hawaiian Islands typically means visiting Oahu, Maui, Kauai, and the Big Island — each offering distinct personalities despite their geographic proximity. The experience differs dramatically from Caribbean or Mediterranean cruising; expect lush rainforests, dramatic sea cliffs, black sand beaches, and the constant presence of the Pacific Ocean. Most Hawaii cruises depart from Honolulu on Oahu, with Norwegian Cruise Line's Pride of America offering the only Saturday-roundtrip 7-night itinerary that visits all four major islands without requiring international travel documentation for US citizens. The pace is leisurely — expect scenic cruising along the Na Pali Coast, morning arrivals in port, and evening departures that let you experience the islands' famous sunsets from the deck.",
+ "subRegions": [
+ "Oahu",
+ "Maui",
+ "Kauai",
+ "Big Island"
+ ],
+ "bestTimeToVisit": {
+ "peak": "April to early June and September through mid-December offer the best combination of pleasant weather, smaller crowds, and reasonable pricing",
+ "shoulder": "May and September provide excellent value with fewer passengers and similar weather to peak months",
+ "avoid": "December through March brings higher prices, larger crowds, and the potential for winter swells that can affect port calls in Kona",
+ "tip": "Hawaii technically has only two seasons — 'summer' (May-October) with temperatures 75-88°F and 'winter' (November-March) with temperatures 70-82°F. The island's microclimates mean you can experience vastly different weather on different parts of the same island in a single day."
+ },
+ "topPorts": [
+ {
+ "name": "Honolulu (Oahu)",
+ "highlight": "Pearl Harbor, Waikiki Beach, Diamond Head",
+ "description": "Oahu serves as the primary departure point for most Hawaii cruises. Spend pre-cruise time at Pearl Harbor visiting the USS Arizona Memorial and Battleship Row, then enjoy Waikiki's world-famous beach and shopping. The port is conveniently located near downtown, making independent exploration easy. Don't miss sunrise at Diamond Head crater or a drive along the scenic Windward Coast to Byodo-In Temple."
+ },
+ {
+ "name": "Kahului (Maui)",
+ "highlight": "Road to Hana, Haleakala Sunrise, Lahaina",
+ "description": "Maui offers the most diverse shore excursion options of any Hawaiian island. The iconic Road to Hana delivers 617 curves through tropical rainforest past waterfalls and coastal vistas. Pre-book the early morning Haleakala summit excursion for a unforgettable sunrise above the clouds at 10,000 feet. The historic town of Lahaina offers whaling-era architecture and Front Street galleries."
+ },
+ {
+ "name": "Nawiliwili (Kauai)",
+ "highlight": "Na Pali Coast, Waimea Canyon, Fern Grotto",
+ "description": "Known as the 'Garden Isle,' Kauai rewards visitors with dramatic scenery unavailable elsewhere in Hawaii. The Na Pali Coast boat excursion from Polihale Beach reveals sea caves and waterfalls inaccessible by land. Waimea Canyon, dubbed the 'Grand Canyon of the Pacific,' offers spectacular hiking trails. The port itself is walkable to Kalapaki Beach and the Kukui Grove shopping center."
+ },
+ {
+ "name": "Hilo (Big Island)",
+ "highlight": "Volcanoes National Park, Rainbow Falls, Akaka Falls",
+ "description": "Hilo presents Hawaii's raw volcanic power through its proximity to Hawaii Volcanoes National Park. Walk through lava tubes, witness steam vents, and if conditions permit, see active lava flows. The Hilo side receives more rain than Kona, creating lush tropical gardens around Rainbow Falls and Akaka Falls. The area also offers black sand beach opportunities at Richardsons Beach Park."
+ },
+ {
+ "name": "Kona (Big Island)",
+ "highlight": "Kona Coffee farms, Manta Ray Night Snorkel, Historic Kailua Village",
+ "description": "Kona offers a distinctly different Big Island experience with sunny skies and laid-back charm. Tour working coffee farms in the cool uplands and taste award-winning Kona coffee. The Manta Ray night snorkel excursion has become iconic — watching these gentle giants feed beneath underwater lights is unforgettable. Historic Kailua Village provides easy walking exploration of old Hawaii."
+ }
+ ],
+ "popularItineraries": [
+ {
+ "name": "7-Night Roundtrip Honolulu",
+ "from": "Honolulu",
+ "ports": [
+ "Kahului (Maui)",
+ "Hilo (Big Island)",
+ "Kona (Big Island)",
+ "Nawiliwili (Kauai)"
+ ],
+ "priceFrom": 1299
+ },
+ {
+ "name": "10-Night Hawaii with Vancouver",
+ "from": "Vancouver",
+ "ports": [
+ "Kona",
+ "Honolulu",
+ "Nawiliwili (Kauai)",
+ "Kahului (Maui)"
+ ],
+ "priceFrom": 1899
+ },
+ {
+ "name": "14-Night Hawaii & South Pacific",
+ "from": "Sydney",
+ "ports": [
+ "Maui",
+ "Kauai",
+ "Honolulu",
+ "Tahiti",
+ "Bora Bora"
+ ],
+ "priceFrom": 2499
+ },
+ {
+ "name": "Princess 10-Night Grand Adventure",
+ "from": "San Francisco",
+ "ports": [
+ "Kona",
+ "Hilo",
+ "Maui",
+ "Kauai",
+ "Ensenada"
+ ],
+ "priceFrom": 1599
+ }
+ ],
+ "cruiseLinesOperating": [
+ "Norwegian Cruise Line",
+ "Princess Cruises",
+ "Celebrity Cruises",
+ "Holland America Line",
+ "Royal Caribbean",
+ "Carnival Cruise Line",
+ "Disney Cruise Line",
+ "Viking Ocean Cruises"
+ ],
+ "whatToExpect": {
+ "weather": "Hawaii maintains remarkably consistent temperatures year-round, with coastal areas typically ranging from 75°F (24°C) to 88°F (31°C) during cruise season. Trade winds keep humidity manageable. Rainfall concentrates on windward (northeast) shores — Hilo on the Big Island receives 130+ inches annually while Kona stays dry. Pack light layers, swimwear, sun protection (critical — the Pacific UV index runs high), and a light jacket for air-conditioned ship interiors and Haleakala excursions where temperatures can drop to 40°F at sunrise.",
+ "food": "Hawaiian regional cuisine reflects its multicultural heritage — expect Japanese, Filipino, Korean, Portuguese, and Polynesian influences. Must-try dishes include poke bowls (fresh ahi tuna with seaweed, sesame, and limu), loco moco (rice topped with hamburger patty, fried egg, and brown gravy), plate lunch combinations, shave ice with azuki beans and tropical syrups, and poi (taro root paste). Malasadas (Portuguese fried dough) from Leonard's Bakery in Honolulu are legendary. On the Big Island, don't miss a Kona coffee farm visit for fresh-roasted brews. Most cruise ports offer excellent local restaurants within walking distance of the tender/pier areas.",
+ "culture": "Hawaiian culture emphasizes respect for the 'aina (land), ohana (family), and malama (care/stewardship). Remove shoes before entering someone's home, ask permission before photographing locals, and support the growing movement toward responsible tourism by choosing excursions that benefit local communities. Hawaiian language is increasingly visible — common words include mahalo (thank you), aloha (hello/goodbye/love), and ohana (family). The traditional Hawaiian greeting of honi involves pressing noses together, though this remains reserved for locals. Dress is generally casual throughout the islands, but respect modest dress codes when visiting temples, churches, or Native Hawaiian cultural sites.",
+ "currency": "The US Dollar (USD) is the sole currency. Euro-denominated pricing is uncommon at ports, though some tour operators accept euros at poor exchange rates. Credit cards are universally accepted at ports, hotels, and most restaurants. ATM availability is excellent in port areas. Tipping follows American customs — 15-20% at restaurants, $1-2 per drink at bars, and $2-5 per day for cabin stewards at cruise end.",
+ "language": "English is the primary language throughout Hawaii and is universally spoken in tourist areas. Hawaiian Pidgin English is commonly heard locally and adds colorful expressions to daily conversation. Japanese signage and Japanese-speaking staff appear frequently in Honolulu and at major tourist sites due to the significant Japanese visitor market."
+ },
+ "insiderTips": [
+ "Book the Pride of America's Haleakala sunrise excursion months in advance — it sells out quickly and watching sunrise from 10,000 feet above the clouds is genuinely unforgettable. Pack warm layers and arrive with camera batteries charged.",
+ "The Road to Hana requires advance planning. Download the Shaka Guide app before your cruise, start early, and prioritize the Garden of Eden, Wai'anapanapa State Park (black sand beach), and the mile markers past Hana for the best waterfalls rather than trying to see everything.",
+ "Skip the ship-sponsored excursions for Kona if you're interested in the manta ray experience — several independent operators like SeaQuest Snorkel offer the same or better experiences for approximately €65 versus the ship's €120+ price.",
+ "For the Na Pali Coast, weather determines everything. The winter months (November-March) often bring swells that cancel boat excursions. Build in flexibility or consider a helicopter tour for guaranteed views — it's expensive at €250+ but offers perspectives impossible from the water.",
+ "Honolulu's Aloha Stadium Swap Meet runs Wednesday, Saturday, and Sunday mornings — if your cruise departs late afternoon, a pre-embarkation visit offers authentic souvenirs, local produce, and food vendors at better prices than Waikiki shops."
+ ],
+ "packingList": [
+ "Reef-safe sunscreen (mandatory — Hawaii banned chemical sunscreens harmful to coral) in both SPF 50+ and lower SPF for reapplication",
+ "Light rain jacket or packable poncho — afternoon showers occur frequently, especially on windward sides",
+ "Hiking water shoes with grip — essential for lava field walks at Volcanoes, waterfall stops on the Road to Hana, and rocky beach entries",
+ "Convertible pants or zip-off shorts — perfect for adapting between humid port days and cold Haleakala mornings",
+ "Waterproof phone pouch or dry bag for excursions involving water activities, boat trips, and waterfall hikes",
+ "Polarized sunglasses with strap — reduces Pacific glare and stays secure during kayak or snorkel activities",
+ "rash guard or UV-protective swim shirt — provides essential sun protection during extended snorkeling and beach time",
+ "Light long-sleeve shirt for sun protection during hiking excursions and to meet dress codes at cultural sites",
+ "Beach towel from home — saves the €5-10 daily rental cost and offers superior quality for beach excursions",
+ "Insect repellent — mosquitoes exist in Hana and rainforest areas, particularly during dawn/dusk hours"
+ ],
+ "faq": [
+ {
+ "question": "What is the best time of year to cruise Hawaii?",
+ "answer": "April through early June and September through mid-December offer the optimal balance of weather, pricing, and availability. April and May provide the famous 'Cherry Blossom' season ambiance with local festivals, while September offers the best value as children return to school. Avoid Christmas and New Year weeks when 7-night Hawaii cruises regularly exceed €2500 per person. The water is warmest in August-September (77-80°F) and coolest in February (74°F) — both perfectly comfortable for swimming."
+ },
+ {
+ "question": "Do I need a passport or visa for Hawaii cruises?",
+ "answer": "For US citizens, Hawaii cruises departing from US ports (Honolulu, Vancouver, San Francisco, Los Angeles) require only a valid passport or enhanced driver's license. No visa is required for US domestic ports. Non-US citizens need a valid passport and should check ESTA requirements for any international port calls. Note that some repositioning cruises from Vancouver or longer South Pacific itineraries may include international ports like Bora Bora or Tahiti requiring proper documentation. Always verify with your cruise line 90 days before departure."
+ },
+ {
+ "question": "How many days do I need in Hawaii?",
+ "answer": "A 7-night roundtrip from Honolulu provides sufficient time to visit all four major islands with one full day in each port. However, experienced cruisers often recommend adding 3-5 pre-cruise days in Honolulu to fully experience Pearl Harbor, the North Shore, and Waikiki before boarding. The 10-14 night itineraries from the mainland offer a more relaxed pace with sea days for recovery. For first-time visitors, the 7-night Norwegian Pride of America itinerary remains the gold standard — it's specifically designed to showcase Hawaii's highlights without back-to-back ports."
+ },
+ {
+ "question": "What should I budget for excursions in Hawaii?",
+ "answer": "Hawaii shore excursions range from €50 per person for basic beach days to €350+ for helicopter tours and private tours. Average excursion spend typically runs €150-250 per person per cruise day for those booking ship-sponsored options. Popular excursions and approximate costs: Pearl Harbor Arizona Memorial tour (€65-85), Volcanoes National Park (€95-130), Road to Hana (€110-150), Na Pali Coast boat tour (€120-180), Manta Ray night snorkel (€65-90), Haleakala sunrise (€75-95), and helicopter tours (€250-350). Independent operators typically charge 30-50% less than ship-sponsored equivalents for similar experiences."
+ },
+ {
+ "question": "Can I get off the cruise ship independently in Hawaii ports?",
+ "answer": "Yes, all Hawaii cruise ports are easily walkable for independent exploration. Honolulu's port is walking distance to Aloha Tower and downtown; Kahului requires a short bus or taxi ride to Maui's main attractions; Nawiliwili is walkable to Kalapaki Beach and the resort area; Hilo's attractions require organized tours or rental cars. Taxis and rideshares (Uber/Lyft) are readily available at all ports. Pre-purchase activity tickets from GetYourGuide or Viator often provides better pricing than walk-up rates for popular attractions like Volcanoes National Park. Ship-sponsored tours guarantee return before departure — independent travelers should always build in 90-minute buffer before all-aboard time."
+ }
+ ]
 }

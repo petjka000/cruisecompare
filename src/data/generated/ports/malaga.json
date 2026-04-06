@@ -1,166 +1,166 @@
 {
-  "slug": "malaga",
-  "name": "Malaga",
-  "city": "Malaga",
-  "country": "Spain",
-  "iata": "AGP",
-  "region": "Mediterranean",
-  "metaTitle": "Malaga Cruise Port Guide 2026 — Terminals, Transport & Tips",
-  "metaDescription": "Complete guide to Malaga cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
-  "heroSubtitle": "Everything you need to know before your cruise from Malaga",
-  "overview": "Málaga is one of the Mediterranean's most dynamic cruise ports, welcoming over 500,000 cruise passengers annually through its modern facilities at Muelle de Levante. The port sits conveniently just 1 kilometre from the historic city centre, making it exceptional for both turnaround and transit calls. Spain's sixth-largest city transforms from a quiet provincial capital into a bustling cruise hub, with MSC Cruises, Costa, and Royal Caribbean regularly operating ships from here. What sets Málaga apart is its unique fusion of ancient Moorish heritage—including the stunning Alcazaba and Gibralfaro fortress—and vibrant modern culture, including the Picasso Museum celebrating the city's most famous son. The expansive promenade along the waterfront offers stunning views of the port operations, while the adjacent Malagueta beach district provides immediate access to Costa del Sol beaches. Cruise passengers particularly value the walkability of the port area and the city's excellent public transport connections to attractions across the region, including Granada's Alhambra.",
-  "terminals": [
-    {
-      "name": "Muelle de Levante Cruise Terminal",
-      "description": "The primary cruise facility at Málaga Port, featuring three dedicated cruise berths (N1, N2, and N3) along a modern quayside with full cruise operations support. The terminal building offers passenger services including baggage handling, check-in facilities, and tourist information. The terminal complex connects directly to the city's waterfront promenade, with the Malagueta district and city centre easily accessible on foot.",
-      "cruiseLines": [
-        "MSC Cruises",
-        "Costa Cruises",
-        "Royal Caribbean",
-        "Norwegian Cruise Line",
-        "Celebrity Cruises",
-        "P&O Cruises",
-        "AIDA Cruises"
-      ],
-      "facilities": [
-        "Passenger terminal building with climate control",
-        "Tourist information kiosk",
-        "Left luggage facility (€3-5 per item)",
-        "Public restrooms with wheelchair access",
-        "Taxi rank directly outside terminal",
-        "Car rental desks (Europcar, Hertz, Avis)",
-        "Small café and vending machines",
-        "ATM machine at terminal entrance",
-        "Free WiFi in terminal area",
-        "Designated meeting point for tour groups"
-      ]
-    },
-    {
-      "name": "Muelle de Poniente",
-      "description": "Secondary cruise berth used primarily for smaller vessels and some turnaround operations. Located on the western side of the port, this facility handles regional traffic and occasionally serves as overflow during peak season when multiple large ships dock simultaneously.",
-      "cruiseLines": [
-        "TUI Cruises",
-        "Phoenix Reisen",
-        "Hapag-Lloyd",
-        "Varied boutique cruise lines"
-      ],
-      "facilities": [
-        "Basic passenger services",
-        "Portable restroom facilities",
-        "Refreshment stand",
-        "Shuttle service to main terminal on request"
-      ]
-    }
-  ],
-  "gettingThere": {
-    "fromAirport": "Málaga-Costa del Sol Airport (AGP) sits just 8km west of the cruise port. The most economical option is the Metro Málaga (Line 1 connects to Line 2 at El Perchel), taking approximately 25 minutes to reach the port area stations of Guadalmedina or La Malagueta, for €1.80. Alternatively, the EMT bus Line A runs every 20 minutes from Terminal 3 to the city centre (Plaza de la Primavera) for €3, with a further 10-minute walk to the port. Official taxis from the airport rank take 15-20 minutes to reach the port and cost €20-25 during daytime hours, rising to €30 after midnight or on Sundays. Uber and Cabify operate in Málaga but must be booked via app rather than at taxi ranks.",
-    "fromCityCenter": "The cruise port lies just 1.2km east of Málaga's central Plaza de la Constitución. A flat, scenic walk along the waterfront promenade takes approximately 15 minutes from the city centre. Simply head east along the marble Explanada de la Farola, passing the Malagueta bullring and beach before reaching the cruise terminal. EMT buses route 14 and 40 stop at Muelle de Levante, charging €1.30 per journey. Taxi rides from central hotels rarely exceed €8, and most drivers recognise 'Puerto de Málaga' or 'Muelle de Levante' immediately.",
-    "parking": "The port operates two secure parking areas for cruise passengers: Parking Muelle de Levante offers 400 covered spaces directly adjacent to the terminal (€18 per day for pre-booked, €25 walk-up). Parking Explanada provides outdoor parking 200m from the terminal at slightly lower rates (€14 per day pre-booked, €20 walk-up). Both facilities are monitored 24/7 and accept online reservation through the official Málaga Cruise Port website. Independent parking lots on Avenida de Cánovas del Castillo (starting from €10/day) offer shuttles to the port during peak season.",
-    "shuttles": "Most major cruise lines operating from Málaga provide complimentary port shuttles connecting the cruise terminal to designated points in the city centre, typically running hourly from 8:00 to 18:00. MSC Cruises offers a dedicated shuttle to El Corte Inglés department store and Larios Street shopping district. Independent shuttle services operated by Civitatis and walking tours depart from the terminal's tourist information kiosk. For airport transfers, cruise passengers should pre-book shared shuttle services (€12-15 per person) as taxis at the airport cruise desk charge premium rates."
-  },
-  "embarkationTips": [
-    "Arrive at the port between 10:00-11:00 for boarding if possible — the earlier you arrive, the longer you queue in the terminal building which lacks adequate air conditioning during Málaga's hot summers",
-    "Download the MSC for Me or your cruise line app before arriving; Málaga's port WiFi is notoriously unreliable and check-in notifications work much faster on mobile data",
-    "The terminal's left luggage facility closes at 16:00, so if arriving early in the city, collect your stored bags well before then or risk being stranded",
-    "Spanish lunch breaks (14:00-17:00) mean many port-area facilities including the small terminal café may be closed — eat before boarding or bring snacks, particularly important for families with children",
-    "Saturday embarkations are noticeably less crowded than weekdays since many Spanish businesses operate reduced hours and fewer locals visit the port area; Sundays should be avoided as road traffic approaching the port increases significantly",
-    "Security screening at Málaga uses older walk-through metal detectors rather than body scanners — wear minimal metal jewellery and remove coins from pockets beforehand to avoid secondary screening delays that can add 10+ minutes to the process",
-    "The port's automated bag drop system at Muelle de Levante often has technical issues; keep your luggage tags attached loosely rather than zip-tied in case staff need to re-label bags during processing"
-  ],
-  "nearbyAttractions": [
-    {
-      "name": "Alcazaba of Málaga",
-      "description": "A stunning Moorish palace-fortress dating from the 11th century, built in three tiers on the hillside overlooking the port. The lower gardens feature fountains and orange trees, while the upper palaces showcase intricate plasterwork and geometric tile patterns. The palace offers some of the best panoramic views of the harbour and the Costa del Sol coastline.",
-      "walkingTime": "20 minutes from cruise terminal (1.6km)",
-      "cost": "€2.65 entry (free with Malagacard or EU youth card); combined ticket with Gibralfaro €5.20"
-    },
-    {
-      "name": "Gibralfaro Castle",
-      "description": "An Islamic-era hilltop fortress connected to the Alcazaba by a walled walkway. The castle's ramparts provide unobstructed 360-degree views across the city, port, and Mediterranean Sea. The on-site café serves cold drinks and tapas with an exceptional sunset terrace during summer evenings.",
-      "walkingTime": "25 minutes from cruise terminal (1.8km uphill)",
-      "cost": "€3.20; combined ticket with Alcazaba €5.20; free audio guide app available in English"
-    },
-    {
-      "name": "Museo Picasso Málaga",
-      "description": "Housed in the 16th-century Palacio de Bellavista, this museum displays 285 works donated by Picasso's daughter-in-law and son, including paintings, sculptures, and ceramics spanning the artist's entire career. The building's Andalusian Renaissance architecture provides a striking contrast to the modern artworks.",
-      "walkingTime": "15 minutes from cruise terminal (1.2km)",
-      "cost": "€12 adults, €8 students/seniors; free entry Sundays from 16:00"
-    },
-    {
-      "name": "Mercado Central de Atarazanas",
-      "description": "Málaga's main food market occupies a converted 14th-century shipyard, with an impressive stained-glass window depicting city history. Fresh fish, prawns from the Costa del Sol, Ibérico ham,本地 olives, and seasonal fruits fill the stalls. The back fish market offers some of the freshest seafood in the city at market prices.",
-      "walkingTime": "12 minutes from cruise terminal (1km)",
-      "cost": "Free entry; samples of jamón and cheese available at vendor stalls; full lunch for two €25-40"
-    },
-    {
-      "name": "Cathedral of Málaga (La Manquita)",
-      "description": "Renaissance cathedral begun in 1528, famously missing its second tower due to lack of funds in the 18th century, earning it the nickname 'La Manquita' (the one-armed lady). The interior features 15 chapels, a notable choir, and an ascent to the rooftop terrace offering unique city views.",
-      "walkingTime": "10 minutes from cruise terminal (0.9km)",
-      "cost": "€6 adults, €3 students; rooftop access €10 (must be pre-booked); free entry Sunday 8:30-10:00 for locals"
-    },
-    {
-      "name": "Plaza de la Constitución and Calle Marqués de Larios",
-      "description": "The main pedestrian square anchors Málaga's shopping district. Calle Larios, the city's premier commercial street, runs north from here with international brands and local boutiques in an elegant 19th-century setting. The plaza's fountain and surrounding cafés make ideal people-watching spots.",
-      "walkingTime": "12 minutes from cruise terminal (1.0km)",
-      "cost": "Free entry; shopping costs vary; €2-4 for coffee at plaza cafés"
-    },
-    {
-      "name": "Malagueta Beach",
-      "description": "The closest beach to the cruise terminal, featuring dark sand imported from the Sahara, beach bars (chiringuitos), and rental sunbeds. The promenade hosts food stalls and creates a pleasant 20-minute stroll to the eastern port entrance. lifeguards operate May through September.",
-      "walkingTime": "5 minutes from cruise terminal (400m)",
-      "cost": "Free beach access; sunbed rental €5-8; umbrella €4-6; chiringuito lunch €15-25 per person"
-    }
-  ],
-  "localTransport": {
-    "metro": "Málaga Metro consists of two lines covering key city areas. Line 2 stops at Guadalmedina station (600m from Muelle de Levante terminal) and La Malagueta station (adjacent to the Malagueta bullring, 400m from port). Trains run every 7-12 minutes from 6:00 to 23:30 on weekdays. The metro connects to the Cercanías train network at Centro Alameda for journeys to the airport (change at San-Esteban). Single tickets cost €1.40-1.80 depending on zones.",
-    "bus": "EMT Málaga operates extensive bus routes throughout the city. Routes 14, 40, and 91 stop directly outside the cruise terminal at Muelle de Levante. Key destinations include: Route 14 to Plaza de la Constitución (city centre), Route 40 to El Palo fishing district, Route 91 to Pedro Luis Alonso (near Picasso Museum). Single tickets cost €1.30 from the driver or €1.10 with rechargeable Tarjeta Metro-style card. The main bus station is 1km from the port at Paseo de los Tilos.",
-    "taxi": "Official taxis display green 'Taxi Málaga' signs and operate from the clearly marked rank directly outside the cruise terminal building. Flag fall is €2.95 during daytime (06:00-22:00), rising to €3.85 at night and weekends. Typical fares: port to city centre €6-8, port to airport €20-25, port to Marbella (45 minutes) €55-65. Cruisers should ensure the taxi meter is running or agree on a fare before departure.",
-    "walkability": "Málaga's cruise port ranks among the most walkable in the Mediterranean. The terminal sits just 1.2km (15-minute flat walk) from Plaza de la Constitución via the scenic Explanada de la Farola waterfront promenade. The entire historic centre—including the Alcazaba, Cathedral, and Picasso Museum—falls within a 25-minute walk radius. Pedestrianised streets make navigation straightforward, with clear signage in English throughout the tourist zone."
-  },
-  "weather": {
-    "bestMonths": "April through June and September through October offer the most comfortable cruise conditions from Málaga. Spring brings temperatures of 18-25°C with wildflowers blooming across the city parks and hillside fortifications. Autumn offers similar temperatures with the added bonus of reduced crowds at major attractions and harvest-season tapas bars serving local wines. July and August see temperatures regularly exceeding 35°C, making sightseeing challenging during midday hours, though sea breezes provide relief along the waterfront.",
-    "peakSeason": "Peak cruise activity occurs in July and August when Mediterranean repositioning cruises and Western Mediterranean itineraries bring maximum ship traffic to Málaga. December through February sees reduced but steady traffic from Western Mediterranean routes. Major events like Semana Santa (Easter, late March/April) and the Málaga Film Festival (February) sometimes coincide with cruise calls, creating exceptional atmosphere but also larger crowds at attractions.",
-    "climate": "Málaga enjoys over 300 days of sunshine annually, making it one of Europe's most reliable cruise departure ports. Pack light layers for Mediterranean evenings (14-18°C in winter, 22-26°C in summer). Summer cruises require sun protection, hats, and hydration packs—temperatures often reach 32°C by mid-morning. Rain is rare from May through September but can appear suddenly in autumn months. Comfortable walking shoes are essential as most attractions involve cobblestone streets and uphill sections to Gibralfaro."
-  },
-  "cruiseLinesFromHere": [
-    "MSC Cruises",
-    "Costa Cruises",
-    "Royal Caribbean",
-    "Norwegian Cruise Line",
-    "Celebrity Cruises",
-    "P&O Cruises",
-    "AIDA Cruises",
-    "TUI Cruises",
-    "Hapag-Lloyd Cruises",
-    "Phoenix Reisen",
-    "Cunard Line",
-    "Princess Cruises",
-    "Holland America Line"
-  ],
-  "isDeparture": true,
-  "isCallPort": true,
-  "insiderTips": [
-    "Book a table at El Tintero NUMBER TWO in the El Perchel neighbourhood for an authentic Málaga experience—waiters carry plates of fresh seafood and shout prices; you signal what you want, the bill is counted by plates at the end. Expect to pay €15-20 per person for an exceptional feast including grilled sardines, garlic prawns, and local wine. Arrive hungry at 13:30 when they open.",
-    "Skip the expensive tourist shops on Calle Larios and instead walk 8 minutes north to the Soho area (around Plaza del Carmen) where local artisans sell the same style leather goods, ceramics, and espadrilles at 40-60% lower prices. Look for shops displaying green 'Artesanía' certification stickers indicating genuinely local production.",
-    "The least-known attraction near the port is the English Cemetery (Cementerio Inglés) on Avenida de los Guindos—just 800m from Muelle de Levante. This romantic 19th-century burial ground features English oak trees, ornate Victorian graves, and is virtually never crowded. The site includes the tomb of British consul Sir John Mark, who saved thousands of locals during the 1884 cholera epidemic. Free entry, open 10:00-14:00 weekdays.",
-    "Purchase the Málaga Card (€15 for 48 hours) which provides free public transport, discounts at over 70 attractions including the Alcazaba and Picasso Museum, and reduced rates at selected restaurants. Available at the tourist office at Plaza de la Marina, 5 minutes from the port entrance."
-  ],
-  "faq": [
-    {
-      "question": "What cruise lines operate from Málaga as a departure port?",
-      "answer": "MSC Cruises maintains the largest presence, with many Western Mediterranean itineraries departing year-round. Costa Cruises, Norwegian Cruise Line, Royal Caribbean, and Celebrity Cruises operate seasonal schedules primarily from April through October. P&O Cruises offers fly-cruise combinations from the UK. TUI Cruises serves the German market. Most major lines can be booked directly or through travel agencies, with embarkation usually available any day of the week depending on the ship rotation."
-    },
-    {
-      "question": "How far in advance should I arrive at Málaga port for boarding?",
-      "answer": "Check-in opening times vary by cruise line but typically begin between 10:00 and 12:00 for afternoon departures. Passengers are generally advised to arrive at the terminal 2-3 hours before the published departure time. During peak season (July-August), arriving at opening time can reduce terminal queuing significantly. For embarkation-only passengers without luggage assistance, arriving after 13:00 often means shorter queues but risks missing cabin availability for immediate meal service."
-    },
-    {
-      "question": "Is Málaga port accessible for passengers with reduced mobility?",
-      "answer": "Málaga cruise terminal has made significant accessibility improvements, including ramps, lifts, and accessible restrooms at Muelle de Levante. However, the walk to city centre attractions involves cobblestones and occasional uneven surfaces. Wheelchair-accessible taxis should be pre-booked through Taxi Adaptado Málaga (+34 951 131 131). Cruise lines typically provide priority boarding for passengers with mobility requirements. The Malagueta beach promenade offers smooth paving suitable for wheelchairs."
-    },
-    {
-      "question": "Can I stay in Málaga after my cruise disembarkation?",
-      "answer": "Yes, many cruisers combine a pre or post-cruise stay. Málaga Airport (AGP) offers excellent connections across Europe with budget carriers including Ryanair and EasyJet. The city's historic centre offers accommodation ranging from hostels (€25-40/night) to luxury hotels at the Hotel Los Monteros (€180+/night). Major attractions are within easy walking distance of most hotels. The AVE high-speed train connects Málaga to Madrid (2h30) and Barcelona (5h45), offering flexible onward travel options."
-    }
-  ]
+ "slug": "malaga",
+ "name": "Malaga",
+ "city": "Malaga",
+ "country": "Spain",
+ "iata": "AGP",
+ "region": "Mediterranean",
+ "metaTitle": "Malaga Cruise Port Guide 2026 — Terminals, Transport & Tips",
+ "metaDescription": "Complete guide to Malaga cruise port. Terminals, getting there, local transport, what to see, embarkation tips, and nearby attractions.",
+ "heroSubtitle": "Everything you need to know before your cruise from Malaga",
+ "overview": "Málaga is one of the Mediterranean's most dynamic cruise ports, welcoming over 500,000 cruise passengers annually through its modern facilities at Muelle de Levante. The port sits conveniently just 1 kilometre from the historic city centre, making it exceptional for both turnaround and transit calls. Spain's sixth-largest city transforms from a quiet provincial capital into a bustling cruise hub, with MSC Cruises, Costa, and Royal Caribbean regularly operating ships from here. What sets Málaga apart is its unique fusion of ancient Moorish heritage—including the stunning Alcazaba and Gibralfaro fortress—and vibrant modern culture, including the Picasso Museum celebrating the city's most famous son. The expansive promenade along the waterfront offers stunning views of the port operations, while the adjacent Malagueta beach district provides immediate access to Costa del Sol beaches. Cruise passengers particularly value the walkability of the port area and the city's excellent public transport connections to attractions across the region, including Granada's Alhambra.",
+ "terminals": [
+ {
+ "name": "Muelle de Levante Cruise Terminal",
+ "description": "The primary cruise facility at Málaga Port, featuring three dedicated cruise berths (N1, N2, and N3) along a modern quayside with full cruise operations support. The terminal building offers passenger services including baggage handling, check-in facilities, and tourist information. The terminal complex connects directly to the city's waterfront promenade, with the Malagueta district and city centre easily accessible on foot.",
+ "cruiseLines": [
+ "MSC Cruises",
+ "Costa Cruises",
+ "Royal Caribbean",
+ "Norwegian Cruise Line",
+ "Celebrity Cruises",
+ "P&O Cruises",
+ "AIDA Cruises"
+ ],
+ "facilities": [
+ "Passenger terminal building with climate control",
+ "Tourist information kiosk",
+ "Left luggage facility (€3-5 per item)",
+ "Public restrooms with wheelchair access",
+ "Taxi rank directly outside terminal",
+ "Car rental desks (Europcar, Hertz, Avis)",
+ "Small café and vending machines",
+ "ATM machine at terminal entrance",
+ "Free WiFi in terminal area",
+ "Designated meeting point for tour groups"
+ ]
+ },
+ {
+ "name": "Muelle de Poniente",
+ "description": "Secondary cruise berth used primarily for smaller vessels and some turnaround operations. Located on the western side of the port, this facility handles regional traffic and occasionally serves as overflow during peak season when multiple large ships dock simultaneously.",
+ "cruiseLines": [
+ "TUI Cruises",
+ "Phoenix Reisen",
+ "Hapag-Lloyd",
+ "Varied boutique cruise lines"
+ ],
+ "facilities": [
+ "Basic passenger services",
+ "Portable restroom facilities",
+ "Refreshment stand",
+ "Shuttle service to main terminal on request"
+ ]
+ }
+ ],
+ "gettingThere": {
+ "fromAirport": "Málaga-Costa del Sol Airport (AGP) sits just 8km west of the cruise port. The most economical option is the Metro Málaga (Line 1 connects to Line 2 at El Perchel), taking approximately 25 minutes to reach the port area stations of Guadalmedina or La Malagueta, for €1.80. Alternatively, the EMT bus Line A runs every 20 minutes from Terminal 3 to the city centre (Plaza de la Primavera) for €3, with a further 10-minute walk to the port. Official taxis from the airport rank take 15-20 minutes to reach the port and cost €20-25 during daytime hours, rising to €30 after midnight or on Sundays. Uber and Cabify operate in Málaga but must be booked via app rather than at taxi ranks.",
+ "fromCityCenter": "The cruise port lies just 1.2km east of Málaga's central Plaza de la Constitución. A flat, scenic walk along the waterfront promenade takes approximately 15 minutes from the city centre. Simply head east along the marble Explanada de la Farola, passing the Malagueta bullring and beach before reaching the cruise terminal. EMT buses route 14 and 40 stop at Muelle de Levante, charging €1.30 per journey. Taxi rides from central hotels rarely exceed €8, and most drivers recognise 'Puerto de Málaga' or 'Muelle de Levante' immediately.",
+ "parking": "The port operates two secure parking areas for cruise passengers: Parking Muelle de Levante offers 400 covered spaces directly adjacent to the terminal (€18 per day for pre-booked, €25 walk-up). Parking Explanada provides outdoor parking 200m from the terminal at slightly lower rates (€14 per day pre-booked, €20 walk-up). Both facilities are monitored 24/7 and accept online reservation through the official Málaga Cruise Port website. Independent parking lots on Avenida de Cánovas del Castillo (starting from €10/day) offer shuttles to the port during peak season.",
+ "shuttles": "Most major cruise lines operating from Málaga provide complimentary port shuttles connecting the cruise terminal to designated points in the city centre, typically running hourly from 8:00 to 18:00. MSC Cruises offers a dedicated shuttle to El Corte Inglés department store and Larios Street shopping district. Independent shuttle services operated by Civitatis and walking tours depart from the terminal's tourist information kiosk. For airport transfers, cruise passengers should pre-book shared shuttle services (€12-15 per person) as taxis at the airport cruise desk charge premium rates."
+ },
+ "embarkationTips": [
+ "Arrive at the port between 10:00-11:00 for boarding if possible — the earlier you arrive, the longer you queue in the terminal building which lacks adequate air conditioning during Málaga's hot summers",
+ "Download the MSC for Me or your cruise line app before arriving; Málaga's port WiFi is notoriously unreliable and check-in notifications work much faster on mobile data",
+ "The terminal's left luggage facility closes at 16:00, so if arriving early in the city, collect your stored bags well before then or risk being stranded",
+ "Spanish lunch breaks (14:00-17:00) mean many port-area facilities including the small terminal café may be closed — eat before boarding or bring snacks, particularly important for families with children",
+ "Saturday embarkations are noticeably less crowded than weekdays since many Spanish businesses operate reduced hours and fewer locals visit the port area; Sundays should be avoided as road traffic approaching the port increases significantly",
+ "Security screening at Málaga uses older walk-through metal detectors rather than body scanners — wear minimal metal jewellery and remove coins from pockets beforehand to avoid secondary screening delays that can add 10+ minutes to the process",
+ "The port's automated bag drop system at Muelle de Levante often has technical issues; keep your luggage tags attached loosely rather than zip-tied in case staff need to re-label bags during processing"
+ ],
+ "nearbyAttractions": [
+ {
+ "name": "Alcazaba of Málaga",
+ "description": "A stunning Moorish palace-fortress dating from the 11th century, built in three tiers on the hillside overlooking the port. The lower gardens feature fountains and orange trees, while the upper palaces showcase intricate plasterwork and geometric tile patterns. The palace offers some of the best panoramic views of the harbour and the Costa del Sol coastline.",
+ "walkingTime": "20 minutes from cruise terminal (1.6km)",
+ "cost": "€2.65 entry (free with Malagacard or EU youth card); combined ticket with Gibralfaro €5.20"
+ },
+ {
+ "name": "Gibralfaro Castle",
+ "description": "An Islamic-era hilltop fortress connected to the Alcazaba by a walled walkway. The castle's ramparts provide unobstructed 360-degree views across the city, port, and Mediterranean Sea. The on-site café serves cold drinks and tapas with an exceptional sunset terrace during summer evenings.",
+ "walkingTime": "25 minutes from cruise terminal (1.8km uphill)",
+ "cost": "€3.20; combined ticket with Alcazaba €5.20; free audio guide app available in English"
+ },
+ {
+ "name": "Museo Picasso Málaga",
+ "description": "Housed in the 16th-century Palacio de Bellavista, this museum displays 285 works donated by Picasso's daughter-in-law and son, including paintings, sculptures, and ceramics spanning the artist's entire career. The building's Andalusian Renaissance architecture provides a striking contrast to the modern artworks.",
+ "walkingTime": "15 minutes from cruise terminal (1.2km)",
+ "cost": "€12 adults, €8 students/seniors; free entry Sundays from 16:00"
+ },
+ {
+ "name": "Mercado Central de Atarazanas",
+ "description": "Málaga's main food market occupies a converted 14th-century shipyard, with an impressive stained-glass window depicting city history. Fresh fish, prawns from the Costa del Sol, Ibérico ham, olives, and seasonal fruits fill the stalls. The back fish market offers some of the freshest seafood in the city at market prices.",
+ "walkingTime": "12 minutes from cruise terminal (1km)",
+ "cost": "Free entry; samples of jamón and cheese available at vendor stalls; full lunch for two €25-40"
+ },
+ {
+ "name": "Cathedral of Málaga (La Manquita)",
+ "description": "Renaissance cathedral begun in 1528, famously missing its second tower due to lack of funds in the 18th century, earning it the nickname 'La Manquita' (the one-armed lady). The interior features 15 chapels, a notable choir, and an ascent to the rooftop terrace offering unique city views.",
+ "walkingTime": "10 minutes from cruise terminal (0.9km)",
+ "cost": "€6 adults, €3 students; rooftop access €10 (must be pre-booked); free entry Sunday 8:30-10:00 for locals"
+ },
+ {
+ "name": "Plaza de la Constitución and Calle Marqués de Larios",
+ "description": "The main pedestrian square anchors Málaga's shopping district. Calle Larios, the city's premier commercial street, runs north from here with international brands and local boutiques in an elegant 19th-century setting. The plaza's fountain and surrounding cafés make ideal people-watching spots.",
+ "walkingTime": "12 minutes from cruise terminal (1.0km)",
+ "cost": "Free entry; shopping costs vary; €2-4 for coffee at plaza cafés"
+ },
+ {
+ "name": "Malagueta Beach",
+ "description": "The closest beach to the cruise terminal, featuring dark sand imported from the Sahara, beach bars (chiringuitos), and rental sunbeds. The promenade hosts food stalls and creates a pleasant 20-minute stroll to the eastern port entrance. lifeguards operate May through September.",
+ "walkingTime": "5 minutes from cruise terminal (400m)",
+ "cost": "Free beach access; sunbed rental €5-8; umbrella €4-6; chiringuito lunch €15-25 per person"
+ }
+ ],
+ "localTransport": {
+ "metro": "Málaga Metro consists of two lines covering key city areas. Line 2 stops at Guadalmedina station (600m from Muelle de Levante terminal) and La Malagueta station (adjacent to the Malagueta bullring, 400m from port). Trains run every 7-12 minutes from 6:00 to 23:30 on weekdays. The metro connects to the Cercanías train network at Centro Alameda for journeys to the airport (change at San-Esteban). Single tickets cost €1.40-1.80 depending on zones.",
+ "bus": "EMT Málaga operates extensive bus routes throughout the city. Routes 14, 40, and 91 stop directly outside the cruise terminal at Muelle de Levante. Key destinations include: Route 14 to Plaza de la Constitución (city centre), Route 40 to El Palo fishing district, Route 91 to Pedro Luis Alonso (near Picasso Museum). Single tickets cost €1.30 from the driver or €1.10 with rechargeable Tarjeta Metro-style card. The main bus station is 1km from the port at Paseo de los Tilos.",
+ "taxi": "Official taxis display green 'Taxi Málaga' signs and operate from the clearly marked rank directly outside the cruise terminal building. Flag fall is €2.95 during daytime (06:00-22:00), rising to €3.85 at night and weekends. Typical fares: port to city centre €6-8, port to airport €20-25, port to Marbella (45 minutes) €55-65. Cruisers should ensure the taxi meter is running or agree on a fare before departure.",
+ "walkability": "Málaga's cruise port ranks among the most walkable in the Mediterranean. The terminal sits just 1.2km (15-minute flat walk) from Plaza de la Constitución via the scenic Explanada de la Farola waterfront promenade. The entire historic centre—including the Alcazaba, Cathedral, and Picasso Museum—falls within a 25-minute walk radius. Pedestrianised streets make navigation straightforward, with clear signage in English throughout the tourist zone."
+ },
+ "weather": {
+ "bestMonths": "April through June and September through October offer the most comfortable cruise conditions from Málaga. Spring brings temperatures of 18-25°C with wildflowers blooming across the city parks and hillside fortifications. Autumn offers similar temperatures with the added bonus of reduced crowds at major attractions and harvest-season tapas bars serving local wines. July and August see temperatures regularly exceeding 35°C, making sightseeing challenging during midday hours, though sea breezes provide relief along the waterfront.",
+ "peakSeason": "Peak cruise activity occurs in July and August when Mediterranean repositioning cruises and Western Mediterranean itineraries bring maximum ship traffic to Málaga. December through February sees reduced but steady traffic from Western Mediterranean routes. Major events like Semana Santa (Easter, late March/April) and the Málaga Film Festival (February) sometimes coincide with cruise calls, creating exceptional atmosphere but also larger crowds at attractions.",
+ "climate": "Málaga enjoys over 300 days of sunshine annually, making it one of Europe's most reliable cruise departure ports. Pack light layers for Mediterranean evenings (14-18°C in winter, 22-26°C in summer). Summer cruises require sun protection, hats, and hydration packs—temperatures often reach 32°C by mid-morning. Rain is rare from May through September but can appear suddenly in autumn months. Comfortable walking shoes are essential as most attractions involve cobblestone streets and uphill sections to Gibralfaro."
+ },
+ "cruiseLinesFromHere": [
+ "MSC Cruises",
+ "Costa Cruises",
+ "Royal Caribbean",
+ "Norwegian Cruise Line",
+ "Celebrity Cruises",
+ "P&O Cruises",
+ "AIDA Cruises",
+ "TUI Cruises",
+ "Hapag-Lloyd Cruises",
+ "Phoenix Reisen",
+ "Cunard Line",
+ "Princess Cruises",
+ "Holland America Line"
+ ],
+ "isDeparture": true,
+ "isCallPort": true,
+ "insiderTips": [
+ "Book a table at El Tintero NUMBER TWO in the El Perchel neighbourhood for an authentic Málaga experience—waiters carry plates of fresh seafood and shout prices; you signal what you want, the bill is counted by plates at the end. Expect to pay €15-20 per person for an exceptional feast including grilled sardines, garlic prawns, and local wine. Arrive hungry at 13:30 when they open.",
+ "Skip the expensive tourist shops on Calle Larios and instead walk 8 minutes north to the Soho area (around Plaza del Carmen) where local artisans sell the same style leather goods, ceramics, and espadrilles at 40-60% lower prices. Look for shops displaying green 'Artesanía' certification stickers indicating genuinely local production.",
+ "The least-known attraction near the port is the English Cemetery (Cementerio Inglés) on Avenida de los Guindos—just 800m from Muelle de Levante. This romantic 19th-century burial ground features English oak trees, ornate Victorian graves, and is virtually never crowded. The site includes the tomb of British consul Sir John Mark, who saved thousands of locals during the 1884 cholera epidemic. Free entry, open 10:00-14:00 weekdays.",
+ "Purchase the Málaga Card (€15 for 48 hours) which provides free public transport, discounts at over 70 attractions including the Alcazaba and Picasso Museum, and reduced rates at selected restaurants. Available at the tourist office at Plaza de la Marina, 5 minutes from the port entrance."
+ ],
+ "faq": [
+ {
+ "question": "What cruise lines operate from Málaga as a departure port?",
+ "answer": "MSC Cruises maintains the largest presence, with many Western Mediterranean itineraries departing year-round. Costa Cruises, Norwegian Cruise Line, Royal Caribbean, and Celebrity Cruises operate seasonal schedules primarily from April through October. P&O Cruises offers fly-cruise combinations from the UK. TUI Cruises serves the German market. Most major lines can be booked directly or through travel agencies, with embarkation usually available any day of the week depending on the ship rotation."
+ },
+ {
+ "question": "How far in advance should I arrive at Málaga port for boarding?",
+ "answer": "Check-in opening times vary by cruise line but typically begin between 10:00 and 12:00 for afternoon departures. Passengers are generally advised to arrive at the terminal 2-3 hours before the published departure time. During peak season (July-August), arriving at opening time can reduce terminal queuing significantly. For embarkation-only passengers without luggage assistance, arriving after 13:00 often means shorter queues but risks missing cabin availability for immediate meal service."
+ },
+ {
+ "question": "Is Málaga port accessible for passengers with reduced mobility?",
+ "answer": "Málaga cruise terminal has made significant accessibility improvements, including ramps, lifts, and accessible restrooms at Muelle de Levante. However, the walk to city centre attractions involves cobblestones and occasional uneven surfaces. Wheelchair-accessible taxis should be pre-booked through Taxi Adaptado Málaga (+34 951 131 131). Cruise lines typically provide priority boarding for passengers with mobility requirements. The Malagueta beach promenade offers smooth paving suitable for wheelchairs."
+ },
+ {
+ "question": "Can I stay in Málaga after my cruise disembarkation?",
+ "answer": "Yes, many cruisers combine a pre or post-cruise stay. Málaga Airport (AGP) offers excellent connections across Europe with budget carriers including Ryanair and EasyJet. The city's historic centre offers accommodation ranging from hostels (€25-40/night) to luxury hotels at the Hotel Los Monteros (€180+/night). Major attractions are within easy walking distance of most hotels. The AVE high-speed train connects Málaga to Madrid (2h30) and Barcelona (5h45), offering flexible onward travel options."
+ }
+ ]
 }

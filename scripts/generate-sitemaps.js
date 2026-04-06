@@ -1,189 +1,89 @@
 #!/usr/bin/env node
 /**
  * Generate sitemaps for cruisecompare.online
+ * Run: node scripts/generate-sitemaps.js
  */
 
 const fs = require('fs');
 const path = require('path');
-const { globSync } = require('glob');
 
 const GENERATED_DIR = path.join(__dirname, '../src/data/generated');
-const PUBLIC_SITEMAPS_DIR = path.join(__dirname, '../public/sitemaps');
+const TAXONOMY_DIR = path.join(__dirname, '../src/data/taxonomy');
+const PUBLIC_DIR = path.join(__dirname, '../public');
+const SITEMAPS_DIR = path.join(PUBLIC_DIR, 'sitemaps');
+const BASE_URL = 'https://cruisecompare.online';
+const today = new Date().toISOString().split('T')[0];
 
-// Ensure sitemaps directory exists
-if (!fs.existsSync(PUBLIC_SITEMAPS_DIR)) {
-  fs.mkdirSync(PUBLIC_SITEMAPS_DIR, { recursive: true });
+if (!fs.existsSync(SITEMAPS_DIR)) {
+  fs.mkdirSync(SITEMAPS_DIR, { recursive: true });
 }
 
-// Get all generated page data files
-const getAllPages = () => {
-  const pages = [];
-  
-  // Cruise pages
-  const cruiseDir = path.join(GENERATED_DIR, 'cruises');
-  if (fs.existsSync(cruiseDir)) {
-    const files = fs.readdirSync(cruiseDir);
-    files.forEach(file => {
-      if (file.endsWith('.json')) {
-        const slug = file.replace('.json', '');
-        pages.push({
-          url: `/cruises/${slug.replace('-', '/')}/`,
-          type: 'cruises',
-          lastmod: new Date().toISOString().split('T')[0]
-        });
-      }
-    });
-  }
-  
-  // Compare pages
-  const compareDir = path.join(GENERATED_DIR, 'compare');
-  if (fs.existsSync(compareDir)) {
-    const files = fs.readdirSync(compareDir);
-    files.forEach(file => {
-      if (file.endsWith('.json')) {
-        const slug = file.replace('.json', '');
-        pages.push({
-          url: `/compare/${slug}/`,
-          type: 'comparisons',
-          lastmod: new Date().toISOString().split('T')[0]
-        });
-      }
-    });
-  }
-  
-  // Ship pages
-  const shipsDir = path.join(GENERATED_DIR, 'ships');
-  if (fs.existsSync(shipsDir)) {
-    const files = fs.readdirSync(shipsDir);
-    files.forEach(file => {
-      if (file.endsWith('.json')) {
-        const slug = file.replace('.json', '');
-        pages.push({
-          url: `/ships/${slug}/`,
-          type: 'ships',
-          lastmod: new Date().toISOString().split('T')[0]
-        });
-      }
-    });
-  }
-  
-  // Port pages
-  const portsDir = path.join(GENERATED_DIR, 'ports');
-  if (fs.existsSync(portsDir)) {
-    const files = fs.readdirSync(portsDir);
-    files.forEach(file => {
-      if (file.endsWith('.json')) {
-        const slug = file.replace('.json', '');
-        pages.push({
-          url: `/from/${slug}/`,
-          type: 'ports',
-          lastmod: new Date().toISOString().split('T')[0]
-        });
-      }
-    });
-  }
-  
-  // Destination pages
-  const destinationsDir = path.join(GENERATED_DIR, 'destinations');
-  if (fs.existsSync(destinationsDir)) {
-    const files = fs.readdirSync(destinationsDir);
-    files.forEach(file => {
-      if (file.endsWith('.json')) {
-        const slug = file.replace('.json', '');
-        pages.push({
-          url: `/destinations/${slug}/`,
-          type: 'destinations',
-          lastmod: new Date().toISOString().split('T')[0]
-        });
-      }
-    });
-  }
-  
-  // Guide pages
-  const guidesDir = path.join(GENERATED_DIR, 'guides');
-  if (fs.existsSync(guidesDir)) {
-    const files = fs.readdirSync(guidesDir);
-    files.forEach(file => {
-      if (file.endsWith('.json')) {
-        const slug = file.replace('.json', '');
-        pages.push({
-          url: `/guides/${slug}/`,
-          type: 'guides',
-          lastmod: new Date().toISOString().split('T')[0]
-        });
-      }
-    });
-  }
-  
-  return pages;
-};
+function jsonSlugs(dir) {
+  try {
+    return fs.readdirSync(dir).filter(f => f.endsWith('.json')).map(f => f.replace('.json', ''));
+  } catch { return []; }
+}
 
-const pages = getAllPages();
-console.log(`Found ${pages.length} pages to include in sitemaps`);
+const pages = [];
 
-// Group pages by type
-const groupedPages = {};
-pages.forEach(page => {
-  if (!groupedPages[page.type]) {
-    groupedPages[page.type] = [];
-  }
-  groupedPages[page.type].push(page);
+// Static pages
+[
+  { url: '/', priority: 1.0, freq: 'weekly' },
+  { url: '/deals/', priority: 0.9, freq: 'daily' },
+  { url: '/compare/', priority: 0.8, freq: 'monthly' },
+  { url: '/cruises/', priority: 0.8, freq: 'monthly' },
+  { url: '/destinations/', priority: 0.8, freq: 'monthly' },
+  { url: '/ships/', priority: 0.7, freq: 'monthly' },
+  { url: '/from/', priority: 0.7, freq: 'monthly' },
+].forEach(p => pages.push({ ...p, type: 'pages' }));
+
+// Comparisons
+jsonSlugs(path.join(GENERATED_DIR, 'comparisons')).forEach(slug =>
+  pages.push({ url: `/compare/${slug}/`, priority: 0.6, freq: 'monthly', type: 'comparisons' })
+);
+
+// Destinations
+jsonSlugs(path.join(GENERATED_DIR, 'destinations')).forEach(slug =>
+  pages.push({ url: `/destinations/${slug}/`, priority: 0.7, freq: 'monthly', type: 'destinations' })
+);
+
+// Ports
+jsonSlugs(path.join(GENERATED_DIR, 'ports')).forEach(slug =>
+  pages.push({ url: `/from/${slug}/`, priority: 0.6, freq: 'monthly', type: 'ports' })
+);
+
+// Ships
+jsonSlugs(path.join(GENERATED_DIR, 'ships')).forEach(slug =>
+  pages.push({ url: `/ships/${slug}/`, priority: 0.6, freq: 'monthly', type: 'ships' })
+);
+
+// Deals
+jsonSlugs(path.join(GENERATED_DIR, 'deals')).forEach(slug =>
+  pages.push({ url: `/deals/${slug}/`, priority: 0.8, freq: 'weekly', type: 'deals' })
+);
+
+// Cruise line pages from taxonomy
+try {
+  const lines = JSON.parse(fs.readFileSync(path.join(TAXONOMY_DIR, 'cruise-lines.json'), 'utf-8'));
+  lines.forEach(l =>
+    pages.push({ url: `/cruises/${l.slug}/`, priority: 0.7, freq: 'monthly', type: 'cruiselines' })
+  );
+} catch {}
+
+console.log(`Total: ${pages.length} URLs`);
+
+// Generate single sitemap.xml (under 50k URLs, no need for index)
+let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
+xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
+pages.forEach(p => {
+  xml += `  <url>\n`;
+  xml += `    <loc>${BASE_URL}${p.url}</loc>\n`;
+  xml += `    <lastmod>${today}</lastmod>\n`;
+  xml += `    <changefreq>${p.freq}</changefreq>\n`;
+  xml += `    <priority>${p.priority}</priority>\n`;
+  xml += `  </url>\n`;
 });
+xml += '</urlset>\n';
 
-// Generate individual sitemaps
-Object.keys(groupedPages).forEach(type => {
-  const pagesOfType = groupedPages[type];
-  let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
-  xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
-  
-  pagesOfType.forEach(page => {
-    xml += `  <url>\n`;
-    xml += `    <loc>https://cruisecompare.online${page.url}</loc>\n`;
-    xml += `    <lastmod>${page.lastmod}</lastmod>\n`;
-    xml += `    <changefreq>weekly</changefreq>\n`;
-    xml += `    <priority>0.8</priority>\n`;
-    xml += `  </url>\n`;
-  });
-  
-  xml += '</urlset>';
-  
-  const fileName = `sitemap-${type}.xml`;
-  const filePath = path.join(PUBLIC_SITEMAPS_DIR, fileName);
-  fs.writeFileSync(filePath, xml);
-  console.log(`Generated ${fileName} with ${pagesOfType.length} URLs`);
-});
-
-// Generate sitemap index
-let indexXml = '<?xml version="1.0" encoding="UTF-8"?>\n';
-indexXml += '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
-
-Object.keys(groupedPages).forEach(type => {
-  indexXml += `  <sitemap>\n`;
-  indexXml += `    <loc>https://cruisecompare.online/sitemaps/sitemap-${type}.xml</loc>\n`;
-  indexXml += `    <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>\n`;
-  indexXml += `  </sitemap>\n`;
-});
-
-indexXml += '</sitemapindex>';
-
-const indexPath = path.join(PUBLIC_SITEMAPS_DIR, '../sitemap-index.xml');
-fs.writeFileSync(indexPath, indexXml);
-console.log(`Generated sitemap-index.xml`);
-
-// Also create a root sitemap.xml that redirects to index
-const rootSitemapPath = path.join(__dirname, '../public/sitemap.xml');
-const rootSitemap = '<?xml version="1.0" encoding="UTF-8"?>\n';
-fs.writeFileSync(rootSitemapPath, rootSitemap);
-
-console.log('');
-console.log('='.repeat(50));
-console.log('Sitemap Generation Complete');
-console.log('='.repeat(50));
-console.log('Sitemaps created in public/sitemaps/:');
-Object.keys(groupedPages).forEach(type => {
-  console.log(`- sitemap-${type}.xml (${groupedPages[type].length} URLs)`);
-});
-console.log('- sitemap-index.xml');
-console.log('');
-console.log('Total pages in sitemaps:', pages.length);
-console.log('');
+fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap.xml'), xml);
+console.log(`Generated sitemap.xml with ${pages.length} URLs`);
